@@ -1,0 +1,425 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent30/masu02.txt#3#12,あっ、それって！,啊，那个是！,translated,依恩,f32346f005,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#4#12,"そうだよ、すっかり忘れてた！
+これを作ったら温泉に行こうと
+思ってたんだよ！","对哦，我都完全忘了！
+本来想着做出这个的话，
+就要去泡温泉的呢！",translated,依恩,662ddcf369,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#5#12,"えへへ、作ったことに満足しちゃって、
+忘れちゃってたみたい。","嘿嘿，因为做出来之后太满足了，
+结果就不小心忘掉了呢。",translated,依恩,d2ecbe5850,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#6#12,すぐいける？,现在马上就能去吗？,translated,,f518f556d9,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#7#12,今度行こう,下次再去吧,translated,,4ca6584e0f,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#9#12,"そっか。それじゃ、また都合がよくなったら
+行こうね。","这样啊。那么等之后方便了，
+我们再去吧。",translated,依恩,1fd9a12def,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#14#12,大丈夫、平気だよ。,没关系的，随时都可以哦。,translated,依恩,23e893bf71,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#15#12,それじゃ早速、白木ますを持って。,那事不宜迟，带上白木升。,translated,依恩,38a69c062e,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#16#12,あと、飲み物は……うん、あれにしよっと！,还有，喝的就选……嗯，就带那个吧！,translated,依恩,ac244c527b,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#17#12,それじゃ、温泉へレッツゴー！,那就，向着温泉出发――！,translated,依恩,a6159f3aff,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#19#12,ふぃ～……。,呼～……,translated,依恩,30469677fa,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#20#12,やっぱり、温泉凄く気持ちいいよぉ。,果然，泡温泉超级舒服的呀。,translated,依恩,11b295e768,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#21#12,"……凄くバカなこと言うけど、もうこのまま
+何も話さないで、一緒にボーッとしちゃい
+たい、って思ってるの。","……虽然这么说可能很傻，但我甚至想
+就这样什么话也不说，
+和你一起呆呆地泡着呢。",translated,依恩,72c541db54,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#22#12,"なんて、せっかく二人で来てるのに
+こんなこと思っちゃうのは、失礼だよね。
+ごめんなさい。","哎呀，明明是两个人特意来的，
+居然会有这种想法，太失礼了吧。
+对不起哦。",translated,依恩,e2ed7fc6c3,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#24#12,たまにはそういうのもいいかも,偶尔那样放空一下也挺不错的,translated,,c9e533552c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#25#12,話のネタもないしね,反正也没什么聊天话题嘛,translated,,1209e422eb,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#27#12,えへへ、気が合うね。,嘿嘿，我们真合拍呢。,translated,依恩,ee1307b186,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#28#12,"まあ、せっかく一緒にいるんだから、
+お話しないのはちょっともったいないかも
+しれないけどね。","嘛，难得能待在一起，
+不聊聊天可能多少
+有点可惜就是了呢。",translated,依恩,b5cb042568,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#29#12,"でも、温泉に来た時にたまに二人で
+ボーッとお湯に浸かるだけっていうのは、
+そのうちやってみたいね。","不过，偶尔像这样两个人来温泉
+什么也不想、光是静静地泡着，
+以后真想试一次呢。",translated,依恩,ecdbe8eb58,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#30#12,"お湯に浸かってボーッとしちゃってる
+あなたの顔も見てみたい気もするし。","而且我也想看看你在温泉里
+泡得发呆出神的表情呢。",translated,依恩,d29fe6995d,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#33#12,"もぉ、そういう意味で言ったわけじゃ
+ないのに……。","真是的，我可不是那个意思啦……
+怎么能这么说嘛。",translated,依恩,6e415bc5d2,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#34#12,"あなたはそうなのかもしれないけど、
+わたしはあなたとならお話したいこと、
+沢山あるんだけどなぁ……。","你可能觉得没什么话题，
+但如果是和你在一起的话，
+我有数不清的话想对你说呢……",translated,依恩,6f67856201,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#35#12,"わたしのこと……あんまり覚えてないけど、
+わかる限りのことは話したいし。","关于我自己的事……虽然记不得太多，
+但只要是我知道的我都想讲给你听。",translated,依恩,fae53d814f,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#36#12,"それに、あなたのことだってもっともっと
+知りたいもん。","而且，我也想更加深入地
+了解关于你的事情嘛。",translated,依恩,8b70a1d974,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#37#12,"だから話のネタに困るなんてこと、
+絶対にないのに……。","所以根本不可能存在
+没有聊天话题这种事嘛……",translated,依恩,d265c678ec,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#39#12,ふぅ……。,呼……,translated,依恩,a8365b834f,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#40#12,なんだか、少しのぼせてきちゃったかも。,总觉得，好像有点微微上头充血了呢。,translated,依恩,0014c16440,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#41#12,"そろそろ飲んでみようかな？
+えへへ、冷え冷えだから絶対に
+美味しいはずだよ。","差不多可以喝点东西了吧？
+嘿嘿，冰冰凉凉的，
+绝对超级好喝哦。",translated,依恩,bf19faf598,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#42#12,それじゃ早速……んくっ……。,那事不宜迟……咕噜……,translated,依恩,ff6b6348e8,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#44#12,"お、美味しい！
+凄く美味しいよ！","好、好喝！
+超级好喝哦！",translated,依恩,2ca21a155f,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#45#12,"えへへ、適当にあった物を持ってきただけ
+なんだけど、大正解だったみたい。","嘿嘿，虽然只是随手把现成的东西带过来，
+但看来完全选对了呢。",translated,依恩,18532ed55c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#47#12,酔わないように気をつけてね,小心别喝醉了哦,translated,,0b69ce1512,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#48#12,何を飲んでるの？,你在喝什么呢？,translated,,7a46214b64,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#50#12,"もぉ、お酒じゃないよぉ。
+適当にあった物を持ってきただけって
+言ったでしょ？","真是的，这不是酒啦。
+我都说了只是随手
+把现成的东西带过来而已嘛？",translated,依恩,dc9abfccc5,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#51#12,"未成年のわたしがお酒を持ってるわけ
+ないでしょ？","还是未成年人的我怎么可能会有酒嘛？
+根本不可能有啦。",translated,依恩,9573225200,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#52#12,これはただのミネラルウォーターだよ。,这只是普通的矿泉水啦。,translated,依恩,0644bb653a,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#53#12,"まあ、透明だし、白木ますに入ってるから
+お酒に見えちゃうかもしれないけどね。","嘛，毕竟是透明的，又装在白木升里，
+可能看起来确实很像酒吧。",translated,依恩,0751e89b2b,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#54#12,"でも、雰囲気出てるでしょ？
+えへへ、美味しく感じるのはそのせいかな？","不过，挺有那个氛围的对吧？
+嘿嘿，喝起来格外好喝大概也是因为这个吧？",translated,依恩,5754339699,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#55#12,でも、酔いはしないから安心してね。,不过绝对不会喝醉的，你放心好啦。,translated,依恩,2fd0d1e62a,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#58#12,えへへ、何だと思う？,嘿嘿，你猜是什么？,translated,依恩,3e2e29cf51,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#59#12,実はこれ、ただのミネラルウォーターなの！,其实这个，只是普通的矿泉水哦！,translated,依恩,86dcd8eb3d,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#60#12,でも、不思議だなぁ……。,不过，真不可思议呀……,translated,依恩,915e00bd00,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#61#12,"凄く飲み慣れてるはずなのに、いつもより
+美味しく感じるよ。","明明平时都已经喝习惯了，
+却感觉比平时好喝得多呢。",translated,依恩,30ba769d8a,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#62#12,"ねりこさんはお酒を飲むのが大人の温泉の
+楽しみ方、って言ってたけど、
+わたしはまだ未成年だからね。","虽然奈莉子小姐说过喝酒是
+大人们享受温泉的方式，
+但我现在毕竟还是未成年人嘛。",translated,依恩,97757e9c54,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#63#12,"それでも、この白木ますのおかげで
+ちょっとだけ大人気分を楽しませて
+もらってるよ。","话虽如此，不过多亏了这个白木升，
+我也算是稍微体验了一下
+大人的感觉哦。",translated,依恩,ea9a7049a5,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#65#12,って、ごめんね、一人で楽しんじゃって。,啊，抱歉哦，光顾着自己一个人享受了。,translated,依恩,5c35a0368e,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#66#12,"あなたの分もちゃんと作っておけば
+良かったんだけど……。","要是能把你的那份也一起做好
+就好了呢……",translated,依恩,c79fa9ba1c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#67#12,でも、これを一緒に使えば問題ないかな？,不过，我们俩一起用这个应该没问题吧？,translated,依恩,37f229defe,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#68#12,間接キスになっちゃうけどね……えへへ。,虽然这样就算是间接接吻了……嘿嘿。,translated,依恩,b116103c22,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#69#12,"白木ますでするのはちょっとムードに
+欠けるかもしれないけど、温泉限定って
+ことならいいかもしれないね。","用白木升接吻可能多少有点欠缺情调，
+不过限定在温泉的话，
+或许也别有一番风味呢。",translated,依恩,f588a726bf,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#70#12,"……って、こんな話しちゃってるから
+顔が熱くなってきちゃったよ。","……哎呀，净聊这种话题，
+感觉脸都变得好烫了呢。",translated,依恩,46f5696102,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#71#12,"水も飲み終わっちゃったし、
+今日はそろそろ帰ろうか？","水也已经喝完了，
+今天我们差不多该回去了吧？",translated,依恩,f98d266b02,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#73#12,ふ～……涼しい……。,呼～……好凉快……,translated,依恩,134591cc71,br=0 nl=0,1,
+inc/event/res/dateevent30/masu02.txt#74#12,"仮想世界とはいえ、温泉から帰ってくると
+部屋の中が凄く涼しく感じるね。","虽说是虚拟世界，但从温泉回来后，
+总觉得房间里格外凉爽呢。",translated,依恩,3bff713cd8,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#75#12,"それにしても、まさかただの水が
+あそこまで美味しく感じられるなんて、
+本当にビックリしたよ。","话又说回来，真没想到普普通通的水
+居然能让人觉得那么好喝，
+我真的吃了一惊呢。",translated,依恩,3bc0134c6b,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#76#12,"水でこれだけ感動できるってことは、
+ジュースとかだともっと感動できるかも
+しれないよね。","光是喝水就能这么感动的话，
+要是换成果汁之类的，
+说不定会让人更加感动呢。",translated,依恩,e809a47106,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#77#12,"うん、それいいかも。
+今度行く時は水以外のモノで挑戦だね。","嗯，听起来很不错呢。
+下次再去就挑战一下水以外的饮品吧。",translated,依恩,f9c583722c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#78#12,"えへへ、今から楽しみだよ。
+それじゃ、今日は付き合ってくれて
+ありがとね！","嘿嘿，我现在就开始期待了。
+那么，今天谢谢你
+陪我出来玩哦！",translated,依恩,f5489cfa7d,br=0 nl=2,3,
+inc/event/res/dateevent30/masu02.txt#81#14,"白木ますで飲んでると
+すごく雰囲気出るね♪","用白木升喝东西，
+真有那种绝妙的氛围呢♪",translated,,f11543d80c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu02.txt#82#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent30/masu03.txt#3#12,"そういえば、お風呂で飲むのにちょうどいい
+飲み物があるの。","话说回来，正好有一种
+适合在泡澡时喝的饮品哦。",translated,依恩,54330a30fe,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#4#12,"白木ますもあることだし、
+温泉に行ってみない？","而且我们也有白木升，
+要不要去温泉看看？",translated,依恩,9387910efa,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#5#12,行ってみようか？,我们去看看吧？,translated,,518d144c21,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#6#12,もっと時間のある時にしよう,等更有空闲的时候再去吧,translated,,e973f82b51,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#8#12,"あっ、今日は都合が悪かったかな？
+それじゃ、日を改めた方がいいね。","啊，今天不太方便吗？
+既然这样，改天再去比较好呢。",translated,依恩,2dac14f65c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#13#12,えへへ、それじゃあ早速行こっか。,嘿嘿，那就赶快出发吧。,translated,依恩,43438a0a50,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#14#12,"バスタオルに着替えるから、
+ちょっと待っててね。","我要换上浴巾，
+稍微等我一下哦。",translated,依恩,be10fa2d89,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#27#12,うん、これでオッケーだね。,嗯，这样就没问题了呢。,translated,依恩,719b7bafbe,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#28#12,"それじゃ、早く行こ。
+この格好じゃ風邪引いちゃうよ。","那我们赶快出发吧。
+穿成这样可是会感冒的哦。",translated,依恩,6273612670,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#30#12,はぁ……温かくて気持ちいいよぉ……。,哈啊……暖洋洋的超级舒服呀……,translated,依恩,37edb35e0f,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#31#12,"こうやってお湯に浸かりながら景色を
+眺めてると、日々の疲れがスッと消えて
+いく気がするね。","像这样一边泡着温泉一边眺望风景，
+感觉日常的疲惫
+一下子全都烟消云散了呢。",translated,依恩,60cdbd7eb4,br=0 nl=2,3,
+inc/event/res/dateevent30/masu03.txt#33#12,寝ないように気を付けてね,小心别睡着了哦,translated,,54b3b53bf3,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#35#12,"えへへ、実はちょっと危ないかなぁって
+思ってたところなの。","嘿嘿，其实我刚才也正觉得
+可能有点危险呢。",translated,依恩,064302055a,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#36#12,"でも、危なくなる度に持ってきた飲み物を
+飲んでるから、平気だよ。","不过，每当犯困时我都会喝一口带来的饮品，
+所以没问题的啦。",translated,依恩,d25bf45d4b,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#39#12,"白木ますのある時は、
+お湯に浸かりながら何かを飲むのが
+当たり前になってきちゃったね。","只要带着白木升，
+一边泡温泉一边喝点什么，
+感觉都已经快成惯例了呢。",translated,依恩,11648b7614,br=0 nl=2,3,
+inc/event/res/dateevent30/masu03.txt#40#12,"えへへ～……何か、すっごく楽しい気持ちに
+なってきたよ。","嘿嘿～……不知怎么的，
+感觉变得超级开心了呢。",translated,依恩,197d461267,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#42#12,まさか、お酒飲んでるの？,难道说，你在喝酒？,translated,,37c4be71d3,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#44#12,"違うもん。
+わたし、お酒飲むような悪い子じゃないよ。","才没有呢。
+我可不是会去喝酒的坏孩子哦。",translated,依恩,db8d34f2b3,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#45#12,"これは甘酒だから、ジュースと同じで
+酔っぱらったりはしないもん。","这是甜酒啦，就跟果汁一样，
+是根本不会喝醉的嘛。",translated,依恩,a084c73b8a,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#46#12,"でも、大人が温泉でお酒を飲む理由、
+ちょっとだけわかった気がするよ。","不过，大人们在温泉里喝酒的缘由，
+我好像稍微能理解一点了哦。",translated,依恩,4a56d894d4,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#47#12,"こうして飲んでると、甘酒の味が普段の
+何倍も美味しく感じられるもん。","像这样喝着，感觉甜酒的味道
+比平时要好喝好几倍呢。",translated,依恩,4d816950cf,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#48#12,"前に持ってきた水もだったけど、温泉で
+飲むと何倍も美味しく感じられるんだね。","之前带来的水也是这样，在温泉里喝，
+确实会感觉比平时美味好几倍呢。",translated,依恩,6b24f9c838,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#50#12,飲み過ぎには注意してね,注意别喝太多了哦,translated,,345837ba1d,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#51#12,もっと持って来ればよかったね,要是能多带点过来就好了呢,translated,,df288d0cab,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#53#12,心配してくれてるんだ？,你是在担心我吗？,translated,依恩,a92866d2da,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#54#12,"えへへ……嬉しくて、顔がどんどん
+熱くなっちゃうよ。","嘿嘿……我太高兴了，感觉整张脸
+都越来越烫了呢。",translated,依恩,eb106136ef,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#58#12,"えへへ……わたしを酔わせてどうするつもり
+なのかなぁ？","嘿嘿……把我灌醉了，你到底是
+打算做些什么呢？",translated,依恩,851c2b0bba,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#59#12,なんてね、冗談だよー。,开玩笑的啦，逗你玩的――,translated,依恩,86372fe608,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#61#12,ふぅ……本当に熱くなってきちゃった。,呼……真的变得好热了呀。,translated,依恩,2ad0f783a0,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#62#12,"我慢できそうにないし、少しお湯から
+上がった方がいいかも。","感觉有点受不了了，
+稍微从池水里出来一下比较好吧。",translated,依恩,44bbef7226,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#63#12,"……でも、温泉に来てるのに
+お湯から上がるのは勿体ないかな？","……不过，难得来一趟温泉，
+从水里出来会不会有点太浪费了？",translated,依恩,64b09ee0da,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#64#12,"それにお湯から上がったら、
+あなたに体見られちゃうし。","而且要是从水里出来，
+身体就会被你给看到了。",translated,依恩,c943a77926,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#65#12,……もしかして、期待してた？,……难道说，你很期待？,translated,依恩,5a9f34cf1d,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#67#12,"あなたになら、ちょっとくらい見せても
+いいかな～？","要是你的话，稍微给你看一点
+也可以哦～？",translated,依恩,81170a5836,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#68#12,なんてねー、冗談だよー。,逗你玩的啦，开玩笑的――,translated,依恩,075bbb23bf,br=0 nl=0,1,
+inc/event/res/dateevent30/masu03.txt#70#12,"来る時バスタオルに着替えたんだから、
+裸じゃないのはわかってたと思うんだけど
+なぁ……。","来的时候明明都换上大浴巾了，
+我想你应该也知道我不是光着身子的
+才对嘛……",translated,依恩,79f218e436,br=0 nl=2,3,
+inc/event/res/dateevent30/masu03.txt#72#12,"……何だか、本当に熱くてたまらなくなって
+きちゃった。","……不知怎么的，真的热得受不了了呢。
+太热了……",translated,依恩,dcc7330790,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#73#12,"のぼせちゃうといけないから、
+今日はそろそろ帰ろうか？","要是彻底晕堂就不好了，
+今天我们差不多该回去了吧？",translated,依恩,e89240258a,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#76#12,"え、えへへ……戻った瞬間、
+頭が一気にクリアになったよ。","诶、嘿嘿……回来的那一瞬间，
+脑袋一下子变得清醒了呢。",translated,依恩,3825710455,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#77#12,"わたし、甘酒で酔っちゃったんだね……。
+うぅ、だらしない姿見せちゃったよぉ……。","我刚才，居然被甜酒给喝醉了呢……
+呜呜，让你看到我失态的样子了啦……",translated,依恩,bf4d5275a8,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#78#12,"今度からは甘酒は持って行かないから、
+また一緒に温泉行こうね？","下次我绝不再带甜酒去了，
+我们再去一起泡温泉好吗？",translated,依恩,dd0072352b,br=0 nl=1,2,
+inc/event/res/dateevent30/masu03.txt#86#14,"うわーん、酔って
+すごく恥ずかしいこと
+しちゃったよー！","呜哇――喝醉酒
+做了超级害羞的
+事情啦――！",translated,,096a04b884,br=0 nl=2,3,
+inc/event/res/dateevent30/masu03.txt#87#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent30/masu04.txt#1#12,"……前にこれを持って温泉に行った時は、
+ちょっと恥ずかしい姿を見せちゃったね。","……上次带着这个去温泉的时候，
+稍微让你看到了我丢脸的样子呢。",translated,依恩,d1c8c579d5,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#2#12,でも、もう同じ失敗はしないよ。,不过，我可不会再犯同样的错误了哦。,translated,依恩,9d0b23e7c9,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#3#12,それなら温泉に行ってみよう,既然这样那就去温泉看看吧,translated,,04b2c040ba,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#4#12,しばらくは温泉禁止,暂时禁止去温泉,translated,,c351f8e1b1,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#6#12,し、信用してよぉ……。,相、相信我一次嘛……,translated,依恩,a364468457,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#11#12,"うん、いいよ。
+前とは違うところ、見せちゃうもん。","嗯，好呀。
+我要让你看看我和上次不一样的地方。",translated,依恩,089eb272b3,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#13#12,"えへへ……今日もちゃんと飲み物を
+持ってきたよ。","嘿嘿……今天我也好好地把饮品
+带过来了哦。",translated,依恩,7e32887781,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#14#12,前回と同じく、甘酒でーす！,和上次一样，是甜酒哦――！,translated,依恩,c513edeb6c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#15#12,"同じ失敗はしない、って言った以上、
+同じ状況で入らないと証明したことに
+ならないでしょ？","既然说了不会犯同样的错误，
+不在完全相同的状况下进去，
+就不能算证明了吧？",translated,依恩,55d25805a2,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#16#12,でも、今回は少しずつ飲むから平気だよ。,不过，这次我每次只喝一点点，所以没问题的。,translated,依恩,7cdce4c6b7,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#18#12,一気！　一気！,干了！一口气干了！,translated,,55110b5282,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#19#12,少しずつでも危ない気がする,我觉得就算一点点喝也很危险,translated,,6b7789380c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#21#12,"……今気づいたけど、もしかしてわたしが
+酔っちゃうのって、あなたが原因じゃ
+ないのかな？","……我刚刚才察觉到，我喝醉这回事，
+起因难道不全在于你吗？
+好像就是这样呢。",translated,依恩,5482cc62b4,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#22#12,でも、今日はのせられないよ。,不过，今天我可不会上你的当哦。,translated,依恩,4c1c0a280c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#23#12,"今日のわたしは、前までのわたしとは
+違うもん。","今天的我，可跟以往的我
+不一样了嘛。",translated,依恩,76deed92b9,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#26#12,"そんなことないよ。
+だって、少しずつなら酔ってきても、
+すぐに気づくことが出来るでしょ？","才不会呢。
+毕竟只要一点点喝，就算开始犯晕了，
+也能马上察觉到对吧？",translated,依恩,2a5a4e6053,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#27#12,"完全に酔っちゃう前に気づけば、
+酔いを醒ますなり、早めに帰るなり
+できるもん。","只要在完全醉倒前察觉到，
+不管是吹风醒酒还是早点回去，
+都能应付过来嘛。",translated,依恩,16c37b5ff4,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#29#12,"……でも、やっぱりねりこさんの
+言ったとおりだね。","……不过，果然正如奈莉子小姐
+所说的那样呢。",translated,依恩,21df5daf0e,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#30#12,温泉で飲むのって、すごく美味しいよ。,在温泉里喝东西，真的超级好喝哦。,translated,依恩,9fb29f5d4a,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#31#12,"これが甘酒じゃなくて本当のお酒だったら、
+もっともっと美味しく感じられるのかな？","如果这不仅是甜酒而是真正的美酒，
+会不会感觉还要更加好喝得多呢？",translated,依恩,354d629e88,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#32#12,"……ちょっと憧れるかも。
+早く飲める年齢になれたらいいのに……。","……稍微有点向往呢。
+真希望自己能早点到能喝酒的年纪……",translated,依恩,c078e57fcb,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#34#12,甘酒で酔わなくなるのが先だよ,先做到喝甜酒不醉再说吧,translated,,c575877606,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#35#12,その時はイオンを本気で酔わせる！,到时候我一定要把依昂彻底灌醉！,translated,,5f26bfae36,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#37#12,"そ、そうだね……甘酒で酔ってたら、
+普通のお酒なんて飲めないよね？","也、也是呢……连喝甜酒都会醉的话，
+哪喝得了真正的酒嘛？",translated,依恩,05846a1ff9,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#38#12,"ううん、飲めたとしても、
+すぐに酔い潰れちゃうと思うし……。","而且就算能喝，
+我想肯定也会马上就醉倒过去的……",translated,依恩,c698fee7c4,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#39#12,"やっぱり、恋人の前でそんな姿は
+見せたくないし、あなただって
+見たくないよね？","毕竟在恋人面前，我可不想露出那种丑态，
+而且你肯定也
+不想看到的对吧？",translated,依恩,6d1b2add2d,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#43#12,"……あなたの前で飲むのはすごく危険、
+っていうのはよくわかったよ。","……我已经很清楚地认识到，
+在你面前喝酒是一件超级危险的事了。",translated,依恩,e5be35d278,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#44#12,"本当のお酒を飲む時は、ねりこさんが
+見てくれてるときにしようかな？","真正喝酒的时候，我还是选在
+有奈莉子小姐从旁看着的时候吧？",translated,依恩,b585754e74,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#45#12,"……ううん、ねりこさんも面白がって、
+どんどん飲ませようとしてくるような
+気がするかも。","……不对，感觉奈莉子小姐也一定会
+为了看热闹，
+不断劝我多喝的吧。",translated,依恩,247b47ae8c,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#46#12,一人で飲んだ方が安全だね。,还是自己一个人喝比较安全呢。,translated,依恩,17eb744dec,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#48#12,"ふぅ……ちょっとお話し過ぎて、
+熱くなってきちゃったかも。","呼……稍微聊了太多，
+感觉整个人都变热了呢。",translated,依恩,abe4ee4df4,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#49#12,甘酒もそろそろやめておこっと。,甜酒差不多也该停口啦。,translated,依恩,46c7cf0059,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#50#12,同じ失敗は二度としないもん、えへへ……。,同样的失败我可绝不会犯第二次的，嘿嘿……,translated,依恩,b76fedbe1d,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#51#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#52#12,"ねえ、今気づいたけど、ちょっと距離が
+離れ過ぎてない？","呐，我刚才突然注意到，
+我们之间的距离是不是隔得太远了？",translated,依恩,f366890cb7,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#53#12,"せっかくのデートなんだから、
+もっと近づかないとダメだよ。","难得出来约会一次，
+不多靠近一点可不行哦。",translated,依恩,934aa775ed,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#57#12,"そうそう、やっぱりデートなんだから、
+これくらい近づかないとね。","对对，毕竟是在约会嘛，
+必须要靠得这么近才可以呢。",translated,依恩,44730b99e8,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#59#12,"でも、出来れば横に並んで一緒に
+入りたかったなぁ……。","不过，要是可以的话，
+我真想和你并排挨在一起泡呢……",translated,依恩,2be2fad018,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#60#12,"あなたの肩に頭を預けて、
+それで色々お話できたら……。","把脑袋枕在你的肩膀上，
+然后像那样聊各种各样的事……",translated,依恩,ce9ea09a09,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#61#12,"えへへ、そういうのラブコメ小説で
+読んだことがあるんだ。","嘿嘿，我以前在恋爱喜剧小说里
+读到过类似的情节哦。",translated,依恩,54e0e1615c,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#62#12,いつか、本当にできたらなぁ……。,要是哪天真能那样做就好了呢……,translated,依恩,5151001f1f,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#64#12,……でも、あんまり胸を見るのはダメだよ。,……不过，一直盯着胸部看不行哦。,translated,依恩,193ee0e96c,br=0 nl=0,1,
+inc/event/res/dateevent30/masu04.txt#65#12,"やっぱりお話しする時は、わたしの顔を
+見ていてもらいたいもん。","毕竟在聊天的时候，
+我还是希望你能看着我的脸嘛。",translated,依恩,797f5aa31a,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#67#12,"……や、やっぱり、もうそろそろ
+上がった方がいいかも。","……果然、我们差不多还是
+该从水里出来比较好吧。",translated,依恩,f1472084c6,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#68#12,"ぼんやりしちゃってるけど、
+結構恥ずかしいこと言っちゃったような
+気もするし……。","虽然脑子晕乎乎的，
+但我感觉自己好像说了相当令人害羞的话……
+怎么办……",translated,依恩,ddfc6645ed,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#69#12,"う～ん……前よりは恥ずかしいこと
+言ってないと思うんだけどなぁ……。","唔～……我觉得应该没有像上次那样
+说那么多害羞的话才对呀……",translated,依恩,ceee2a67d9,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#72#12,"最後の最後で、恥ずかしいことを
+色々連発しちゃってたね……。","但在最后的最后，
+我好像接二连三说了好多害羞的话呢……",translated,依恩,cc503d4bee,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#73#12,"いくらデートだからって、
+温泉であんなに近づいちゃうなんて……。","就算再怎么说是在约会，
+在温泉里靠得那么近什么的……",translated,依恩,0c723e6203,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#74#12,"うぅ、思い出すだけでも顔が
+熱くなってくるよぉ！","呜呜，光是回想起来，
+脸上就一阵火辣辣的发烫啦！",translated,依恩,6b2fdb4326,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#75#12,"甘酒だけでこんなになっちゃうってことは、
+本当のお酒を飲んだらどうなっちゃうん
+だろう？","光是喝甜酒就变成这副德行，
+要是喝了真正的酒，
+我到底会变成什么样子啊？",translated,依恩,9e287a5daa,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#76#12,"……どうなるにせよ、
+温泉でお酒を飲むのはやめるよ。","……不管怎样，
+我绝不在温泉里喝酒了啦。",translated,依恩,c6e6d8eb97,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#77#12,"今回のことでいい勉強になったよ。
+あなたももし温泉で飲もうと思ったら、
+今日のわたしのことを思い出してね。","这次的经历真让我吸取了教训呢。
+要是你也打算在温泉里喝酒，
+一定要回想起今天的我哦。",translated,依恩,50ea3df118,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#78#12,"それじゃ、今日はありがと。
+今度は普通に温泉でお話しようね。","那么，今天谢谢你啦。
+下次我们就普普通通地在温泉聊天吧。",translated,依恩,c2fa14dc63,br=0 nl=1,2,
+inc/event/res/dateevent30/masu04.txt#81#14,"教訓、温泉でお酒を
+飲むのはやめた方が
+いい！","教训：在温泉里
+还是不要喝酒
+为妙！",translated,,5125d5df91,br=0 nl=2,3,
+inc/event/res/dateevent30/masu04.txt#82#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent30/mas_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent30/mas_int.txt#6#12,"温泉に行きたいの？
+んー………どうしようかな…","想去温泉？
+唔…………怎么办呢……",translated,依恩,58afdb68c9,br=0 nl=1,2,
+inc/event/res/dateevent30/mas_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent30/mas_int.txt#9#12,"それを出してきたってことは、
+温泉に行きたいってことだね？","你拿出那个来，
+也就是说想去温泉对吧？",translated,依恩,86de68d3d1,br=0 nl=1,2,
+inc/event/res/dateevent30/mas_int.txt#10#12,"もー、そうやって何かにつけて
+温泉に誘うなんて。
+エッチなんだから……。","真是的，借着由头
+就邀请我去温泉什么的。
+太色了啦……",translated,依恩,859a85d0e2,br=0 nl=2,3,
+inc/event/res/dateevent30/mas_int.txt#11#12,"でも、今日は気分じゃないからダメ。
+また今度行こうね。","不过，今天感觉不太适合泡呢。
+下次再去吧。",translated,依恩,c09ffc301a,br=0 nl=1,2,

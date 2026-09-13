@@ -1,0 +1,598 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/cafeevent/nl_item_event024.txt#2#12,"今まで覚えた料理を元にレシピブックを
+作ってみたの。","我根据目前为止学会的料理，
+试着做了一本配方书哦。",translated,依恩,dadfb945a3,br=0 nl=1,2,
+inc/event/res/cafeevent/nl_item_event024.txt#3#12,"これを作ってて整理整頓の大切さが
+すごく分かった気がするよ。","在做这本书的时候，
+我深刻体会到了整理收纳的重要性呢。",translated,依恩,c9ed84d6bc,br=0 nl=1,2,
+inc/event/res/cafeevent/nl_item_event024.txt#4#12,"こうやってまとめてみると新しい発見が
+あったり、うっかり忘れちゃうことも
+なくなるしね。","像这样归纳整理一下，不仅会有新的发现，
+而且也不用担心
+会稀里糊涂忘掉了呢。",translated,依恩,3c415b94c4,br=0 nl=2,3,
+inc/event/res/cafeevent/nl_item_event024.txt#5#12,"まだたくさん料理が作れるわけじゃないけど、
+いつかこのレシピブックをいっぱいにできたら
+いいなぁ♪","虽然现在能做的料理还不是很多，
+不过要是哪天能把这本配方书填满的话，
+那就太好啦♪",translated,依恩,7e64ba6e8a,br=0 nl=2,3,
+inc/event/res/cafeevent/nl_item_event024.txt#7#14,"レシピブックを
+作ったよ♪","制作了
+配方书哦♪",translated,,06d5820188,br=0 nl=1,2,
+inc/event/res/cafeevent/nl_item_event024.txt#9#14,"レシピブックが
+完成したよ♪","配方书
+制作完成啦♪",translated,,44b1d3f744,br=0 nl=1,2,
+inc/event/res/cafeevent/nl_item_event024.txt#11#14,"レシピブックの
+作成完了。
+次は何を作ろうかな♪","配方书
+制作完成。
+下次要做点什么好呢♪",translated,,b1b90f37ac,br=0 nl=2,3,
+inc/event/res/cafeevent/nl_item_event024.txt#13#14,"レシピブックが
+できたよ♪","配方书
+做好啦♪",translated,,0ab58101ab,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#1#12,これ、この前に作ったレシピブック？,这个，是之前做的那本配方书？,translated,依恩,561560bc4e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#2#12,"……まだまだ数が少なくて本っていうよりも、
+お店のメニューリストって感じだよね。","……收录的数量还太少，比起书来，
+感觉更像店里的菜单列表呢。",translated,依恩,247d25c3dc,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#3#12,"そうだ！
+ねえ、カフェに行ってみない？","对啦！
+我说，要不要去咖啡馆看看？",translated,依恩,a98f4d8df2,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#4#12,"あそこならたくさん料理があるし、
+何か参考になるかもしれないから。","那里有很多各种各样的料理，
+说不定能作为参考呢。",translated,依恩,3423886f3c,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#5#12,その……どうかな？,那个……你觉得怎么样？,translated,依恩,c2b567b53c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#6#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#7#12,また今度,下次吧,translated,,e0969d72a9,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#9#12,"あらら……残念。
+それじゃ、また今度行こうね。","哎呀……真遗憾。
+那我们下次再去吧。",translated,依恩,17d55a82b1,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#14#12,本当？　やった！,真的吗？太好啦！,translated,依恩,9290ef86be,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#15#12,これも、デートってことになるのかな？,这算不算是去约会呢？,translated,依恩,e32f2c8307,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#16#12,それじゃ、いこっか！,那么，我们出发吧！,translated,依恩,4cbc2d7d5d,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#18#12,とうちゃくー。,到达目的地啦～。,translated,依恩,67817645dc,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#19#12,"このカフェって人がたくさんいて
+本当に賑やかだよね。","这家咖啡馆客人真多，
+真的好热闹呢。",translated,依恩,4650b46c5c,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#20#12,さて、と。何を頼もうかな？,那么，点些什么好呢？,translated,依恩,aea25f6d23,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#21#12,"自分で『レシピブック』を作ったから
+かもしれないけど、メニューがすごく気に
+なるよ。","可能是因为自己做了‘配方书’吧，
+我现在对菜单上的内容
+特别感兴趣呢。",translated,依恩,33c2e0a02e,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#22#12,えーっと……オススメは。,让我看看……主厨推荐是。,translated,依恩,1ab7af8650,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#23#12,"さっぱりとまったり、
+奇跡のコラボ『疾風怒涛のモンブラン』。","清爽与浓郁，
+奇迹的结合‘疾风怒涛的勃朗峰’。",translated,依恩,d8a5d382ac,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#24#12,"思わずひざを叩きたくなるおいしさ
+『なんてこったパンナコッタ』。","让人忍不住想拍大腿的美味
+‘怎么会这样意式奶冻’。",translated,依恩,7058bb2639,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#25#12,あらびき『ソーセージコーヒー』。,粗绞‘香肠咖啡’。,translated,依恩,6afd6f20f8,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#26#12,……す、すごい。,……好、好厉害。,translated,依恩,febaad4e48,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#27#12,"全部すごくおいしそうだよ！
+どれを頼もうかなぁ。","全部都看起来好好吃哦！
+该点哪一个好呢。",translated,依恩,22a79c8c3d,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#28#12,ねえ、あなたはどれがいいと思う？,呐，你觉得选哪个好？,translated,依恩,5d58538c2d,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#30#12,疾風怒濤のモンブラン,疾风怒涛的勃朗峰,translated,,6a077225a5,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#31#12,なんてこったパンナコッタ,怎么会这样意式奶冻,translated,,0cd2f01118,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#32#12,ソーセージコーヒー,香肠咖啡,translated,,96a86b1fdb,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#34#12,"疾風怒濤のモンブラン？
+うん、確かにおいしそうだよね。
+よーし――","疾风怒涛的勃朗峰？
+嗯，确实看起来很好吃呢。
+好～――",translated,依恩,340ecc2ac1,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#35#12,すみませーん！,不好意思，点单～！,translated,依恩,3347f59a0c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#40#12,"う、うん。なんていうんだろう、まったりと
+したモンブランの甘さのあとに――","嗯、嗯。该怎么形容呢，在勃朗峰
+那浓郁绵密的甜味之后――",translated,依恩,1784351b12,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#41#12,"痛いくらいのシュワシュワと、なぜか
+てっぺんにのっていたさくらんぼの爽やかさ
+が風のように通り抜けていったよ……。","甚至有点刺激的碳酸气泡感，以及顶上
+不知为何放着的樱桃的那份清爽，
+就像一阵疾风般呼啸而过了哦……",translated,依恩,76020fc9e2,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#42#12,"それでね……そのあとに栗のこってりとした
+味わいが畳み掛けるように……。","然后呢……在那之后栗子的浓醇风味
+又像波浪一样接连席卷而来……",translated,依恩,19578a9963,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#43#12,あ、でも味はおいしかったよ？,啊，不过味道还是很好吃的哦？,translated,依恩,8f9c82e416,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#44#12,"ただ……モンブランの甘さとシュワシュワと
+さくらんぼ、全部別々でも良かったんじゃない
+かな……。 ","只是……勃朗峰的甘甜、碳酸气泡感
+还有樱桃，要是全都分开来吃，
+感觉会不会更好一点呢……",translated,依恩,dce6b92aea,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#45#12,"えっと……こ、これはあんまり参考に
+ならないかもしれないね？","那个……这、这可能
+没法作为什么参考呢？",translated,依恩,0ef82ee1e7,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#48#12,"なんてこったパンナコッタだね。
+膝を叩きたくなるおいしさってどんなだろ？","是“怎么会这样意式奶冻”呢。
+让人忍不住想拍大腿的美味会是什么样呢？",translated,依恩,68917b52e8,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#49#12,すみませーん！,不好意思，点单～！,translated,依恩,3347f59a0c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#55#12,なんてこった！,怎么会这样！,translated,依恩,00caaec992,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#56#12,"あ、ご、ごめんなさい。
+つい膝を叩きたくなっちゃって……。","啊、对、对不起。
+忍不住就想拍大腿了……",translated,依恩,1ea1c2a421,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#57#12,"えっと、味はすごくおいしかったよ。
+生クリームと黒ゴマってとっても合うんだね。","那个，味道真的超级棒哦。
+鲜奶油和黑芝麻原来这么相配呀。",translated,依恩,4daf275f4e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#58#12,"濃くのある甘さをゴマの香りがさっぱりに
+してくれてて、本当にすごいの！","浓郁的甜味被芝麻的香气衬托得十分清爽，
+真的很了不起呢！",translated,依恩,035c5f9c75,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#59#12,うん、これは今度作ってみたいかも！,嗯，这个我下次也想试着做做看！,translated,依恩,7e21702f10,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#60#12,"……だけど、なぜかとっても膝を
+叩きたくなるよ。","……但是，不知为何
+超级想拍大腿呀。",translated,依恩,f6a16cfe6a,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#61#12,なんてこった！,怎么会这样！,translated,依恩,00caaec992,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#62#12,"あ、ごめんなさいごめんなさい。
+ううん、やっぱりレシピに入れるのは
+やめようかな……。","啊，对不起对不起。
+唔，果然还是不要写进
+配方书里了吧……",translated,依恩,ae348b0093,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#65#12,"そうだね、ソーセージコーヒーはわたしも
+気になったよ。早速頼んでみるね。","是呢，香肠咖啡我也挺好奇的。
+那我这就点来试试看哦。",translated,依恩,fbdd2dba82,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#66#12,すみませーん！,不好意思，点单～！,translated,依恩,3347f59a0c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#71#12,"え、えっとコーヒーにソーセージが
+入ってたね……しかもたくさん。","那个……咖啡里
+真的泡着香肠呢……而且还有好多。",translated,依恩,6b7193291c,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#72#12,"よく入ったよね……カップがぎゅうぎゅうで、
+本当にコーヒーかどうか疑っちゃった。","亏他们能塞进去呢……杯子里挤得满满当当的，
+我都怀疑这到底是不是咖啡了。",translated,依恩,04f22d3c4d,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#73#12,"う、うん。もちろん、ソーセージは
+全部あらびきだったよ。","嗯、嗯。当然，
+香肠全都是粗绞肉肠哦。",translated,依恩,2550b249bf,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#74#12,"味はね……コーヒーなのに油っぽかったかな。
+ちょ、ちょっとね。","味道嘛……明明是咖啡却油乎乎的呢。
+稍微……有一点点油。",translated,依恩,9e247dde14,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#75#12,"それから、お好みでマスタードを
+どうぞって書いてあったんだけど……。","而且上面还写着
+可以依个人喜好加入芥末……",translated,依恩,f5cb53fc9b,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#76#12,さすがにそれを試す勇気はなかったよ。,我终究还是没有勇气去尝试呢。,translated,依恩,1158dee0f4,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#77#12,"想像しただけでも、すごい色になりそうだ
+もんね……。","光是凭空想象一下，
+就觉得颜色会变得很惊人呢……",translated,依恩,3102236efc,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#79#12,"なんだか、今日はいつもより真剣に
+料理のことを考えちゃったよ。","总觉得，今天比平时
+更认真地思考了关于料理的事呢。",translated,依恩,933ac772e5,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#80#12,"レシピどおりに作るのも大切だけど、
+意外な組み合わせで料理がぐっとおいしく
+なることもあるんだね。","虽然严格照着配方来做也很重要，
+但有时候出人意料的组合
+也能让料理变得更加美味呢。",translated,依恩,a9e67c2cb5,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook01.txt#81#12,"も、もちろんかえって食べにくくなる
+組み合わせもあるけど……。","当、当然也有可能会出现
+适得其反、让人难以下咽的搭配就是了……",translated,依恩,1a98931a2e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#82#12,"きっと、何度も作っていればコツが
+わかってくるんだよね。","只要多做几次，
+一定就能掌握其中的诀窍了吧。",translated,依恩,7d2c628626,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#83#12,わたしも、もっと料理がんばるからね！,我也要更加努力钻研料理才行呢！,translated,依恩,e28ba1b973,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#84#12,"あ……せっかくデートに来てるのに、
+食べ物の話ばっかりでごめんなさい……。","啊……难得出来约会一次，
+我却一直在聊吃的，对不起哦……",translated,依恩,b628eaf3be,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#85#12,"でも、今日食べたメニューは次に料理する
+ときの参考にするから、楽しみにしててね。","不过，今天吃到的菜式我会用作下次做饭的参考，
+好好期待着哦。",translated,依恩,a73bf96dfe,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#86#12,"今日は一緒に来てくれてありがとう。
+そろそろ戻ろっか！","今天谢谢你陪我一起过来。
+我们差不多该回去啦！",translated,依恩,4a5c6f931e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#96#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#97#12,"人が多い所から帰ってくると、
+ちょっとだけ寂しい気持ちになるよね。","从人多的地方一回到家，
+总会觉得心里有那么一点点落寞呢。",translated,依恩,8c18105cf3,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#98#12,"うん、でもあなたがいるからわたしは
+平気だよ。えへへ。","嗯，不过因为有你在，
+我完全没关系的哦。诶嘿嘿。",translated,依恩,08f3cd5fc0,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook01.txt#99#12,また一緒にカフェに行こうね。,下次还要一起去咖啡馆哦。,translated,依恩,127a3a49ee,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook01.txt#103#14,"意外な組み合わせの
+レシピ、わたしも考え
+てみようかな♪","意外的配方组合，
+我也来尝试
+构思看看吧♪",translated,,e00b7e4a83,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook02.txt#1#12,"あ、レシピブック？
+もしかして、カフェに行きたいの？","啊，配方书？
+难道说，你想去咖啡馆吗？",translated,依恩,69d70d4448,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#2#12,行こう,去吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#3#12,また今度,下次吧,translated,,e0969d72a9,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#5#12,"ええー！
+ちょっと期待しちゃったよ……。","诶诶！
+我还稍微期待了一下呢……",translated,依恩,97ce4a6ad3,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#10#12,"うん、それじゃ行こうか。
+楽しみだね。","嗯，那我们这就出发吧。
+真让人期待呢。",translated,依恩,6d7dce838f,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#12#12,ぎゅーん、とうちゃーく！,咻――，到达目的地！,translated,依恩,f8dec26b0f,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#14#12,"ご、ごめんね。
+ちょっとはしゃいじゃって……。","对、对不起哦。
+我好像有点兴奋过头了……",translated,依恩,a1474edb3f,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#15#12,"こうやってあなたとカフェに来れるのって
+すごく嬉しいの。本当に。","像这样和你一起来咖啡馆，
+我真的觉得好开心好开心的哦。",translated,依恩,04834fd1fd,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#16#12,"それにしても、カフェっていつもいい香りが
+するよね。","话说回来，咖啡馆里
+总能闻到一股好闻的香气呢。",translated,依恩,206fd31549,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#17#12,"これって何の香りだろう？
+あなたは、わかる？","这到底是什么香气呢？
+你能闻出来吗？",translated,依恩,2e28dc8791,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#19#12,コーヒーの香り,咖啡的香气,translated,,8b89781d09,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#20#12,イオンの香り,依恩的香气,translated,,e316da746e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#22#12,うん、きっとそうだよね！,嗯，一定就是那个呢！,translated,依恩,bd4ba0b44c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#23#12,"なんだかコーヒーを飲みたくなってきたよ。
+頼んでみようかな？","总觉得突然很想喝咖啡了呢。
+要不要点一杯试试看呢？",translated,依恩,de020fcd66,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#26#12,えぇ！？,哎哎！？,translated,依恩,2526aa737c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#27#12,わ、わたしそんなに匂いする？,我、我身上的味道有那么明显吗？,translated,依恩,c4eeeaf7d4,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#28#12,……しないよね？,……应该没有吧？,translated,依恩,4bb7198d95,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#29#12,……くんくん。,……吸吸。,translated,依恩,ac48441386,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#30#12,"う、うーん。
+一人だとよくわからないからなんだか
+不安になってきたよ。","唔、唔～
+一个人闻不太出来，
+感觉反而有点不安了呢。",translated,依恩,ce9cc3b709,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook02.txt#31#12,"あ、でもいい香りなんだよね？
+そ、それならいっか。","啊，不过是好闻的香气对吧？
+那、那就好啦。",translated,依恩,ae842bae50,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#32#12,……コーヒーでも頼もうかな。,……要不点一杯咖啡吧。,translated,依恩,889115624c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#34#12,"すみませーん、
+コーヒー一つお願いしまーす。","不好意思，
+请给我来一杯咖啡～",translated,依恩,6a15f34a44,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#35#12,"そうそう、コーヒーといえば豆を
+焙煎するって言うでしょ？","对啦，说到咖啡，
+经常会提到烘焙咖啡豆对吧？",translated,依恩,a920df40b3,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#36#12,"あの焙煎ってどういう意味なのか、
+あなたは知ってる？","那个烘焙到底是什么意思，
+你知道吗？",translated,依恩,6d5fc44811,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#37#12,"あれはね、お水とかを入れずに豆を直接
+加熱して、水分を飛ばすってことなんだよ。","那个呀，是指不加水，直接加热咖啡豆
+来去除水分的过程哦。",translated,依恩,dc4415d0cb,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#38#12,そうすることで、香ばしい風味がつくの。,这样做的话，就能引出浓郁焦香的风味呢。,translated,依恩,58df89fc6a,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#39#12,"しかもね、コーヒー豆はどのくらい
+焙煎したかによって深炒りとか浅炒りって
+呼び方も変わるんだって。","而且呢，根据咖啡豆的烘焙程度，
+还会有深炒、浅炒等
+不同的叫法呢。",translated,依恩,332fe471cc,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook02.txt#40#12,"水分の含み方で呼び方が変わるなんて、
+奥が深いよね。","仅仅根据含水量的不同叫法就会改变，
+这里面的学问真深奥呢。",translated,依恩,cd68348edb,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#41#12,"そういえば、焙煎ってコーヒー豆に限った
+ことじゃないの。","说起来，烘焙可不仅限于
+咖啡豆哦。",translated,依恩,80d75efacf,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#42#12,"たとえばほうじ茶。あれは、焙じた……
+焙煎したお茶だからほうじ茶なの。","比如说焙茶。那个就是经过烘焙……
+焙炒过后的茶叶，所以才叫焙茶哦。",translated,依恩,5f6b677168,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#43#12,"ほかにも、麦茶とかもお茶の葉を焙煎した
+ものなんだって。","此外，大麦茶之类的
+据说也是将茶叶或谷物烘焙而成的呢。",translated,依恩,ea40bb17cb,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#44#12,"……え？
+なんでわたしがそんなにコーヒーについて
+詳しいのかって？","……诶？
+问我为什么
+会知道这么多咖啡相关的知识？",translated,依恩,aa2bbc1a1a,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook02.txt#45#12,"……実は、あなたの後ろにある看板に
+全部書いてあるの。","……其实，全都是你身后的看板上
+写着的内容啦。",translated,依恩,b243b171e8,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#46#12,"ご、ごめんね。
+だますつもりはなかったんだよ？　えへへ。","对、对不起哦。
+我不是故意要耍你的啦？诶嘿嘿。",translated,依恩,123acb1ade,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#48#12,どんなことが書いてあるの？,上面还写了些什么？,translated,,7fde244c05,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#50#12,"うん、ほかにもいろんなことが
+書いてあるよ。","嗯，上面还写了
+很多别的内容哦。",translated,依恩,1bee360875,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#51#12,"例えば……コーヒーミルの説明とか……
+粉砕度の数式とか！","比如……磨豆机的说明……
+还有粉碎度的算式呢！",translated,依恩,c315307ca5,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#52#12,"あ、コーヒーミルは豆をすりつぶす
+機械なんだって。","啊，据说磨豆机是
+用来把豆子研磨碎的机器。",translated,依恩,96343f8da9,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#54#12,それから数式は……Ｚα＝ｄ／α。,然后那个算式是……Ｚα＝ｄ／α。,translated,依恩,f4319edd54,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#55#12,"えっと……Ｚはコーヒー豆がどのくらい
+細かくなっているかだから……。","那个……Ｚ代表的是咖啡豆被磨成了多细，
+所以……",translated,依恩,ad9464b312,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#56#12,"αが粉砕機の口径で、
+ｄがコーヒー豆の大きさかな。","α是粉碎机的口径，
+ｄ大概就是咖啡豆的大小了吧。",translated,依恩,cc4a18eaf6,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#57#12,"……なんだかすごく不親切な数式だね、
+これじゃ良くわからないよ。
+合ってるのかな？","……总觉得这个算式也太不亲切了吧，
+光看这个根本搞不明白呀。
+真的算得对吗？",translated,依恩,28fdc7e41c,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook02.txt#59#12,それから……これは詩かな？,还有……这句是诗吗？,translated,依恩,6825e83e2d,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#60#12,"『ああ！　数千回のキスより素晴らしく、
+　マスカットのワインよりもまろやか』。","‘啊！比数千次的亲吻更加甜美，
+　比麝香葡萄美酒还要香醇’。",translated,依恩,4bd317c63d,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#61#12,『コーヒー、コーヒーはやめられない』。,‘咖啡，咖啡让人欲罢不能’。,translated,依恩,a9c20c6ea8,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#62#12,"『私の機嫌をとりたい人は、
+　そう、コーヒーをプレゼントして』。","‘谁要是想讨我欢心，
+　没错，就送我咖啡当礼物吧’。",translated,依恩,a4a3bb910a,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#63#12,"……な、なんだかここまで来ると
+行き過ぎな気もするね。","……总、总觉得写到这个地步，
+也有点太夸张了吧。",translated,依恩,3c821d1003,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#64#12,"でも、すごくコーヒーが好きな人が
+書いたっていうのは伝わってくるよ。","不过，能真切感受到
+作者到底有多喜欢咖啡呢。",translated,依恩,7771317c8e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#65#12,"もうすぐわたしの頼んだコーヒーも来ると
+思うから、しっかり味わってみようかな？","我想我点的咖啡差不多也该送来了，
+要好好品尝一下呢？",translated,依恩,5b32ad01b9,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#67#12,ふぅ、ただいま。,呼，我回来啦。,translated,依恩,dfa4e73a49,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#68#12,今回のデートもすごく楽しかったね。,这次约会也真的好开心呢。,translated,依恩,98c600f789,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#69#12,"頼んだコーヒーもすごくおいしかったし、
+言うことなしだよ！","点的咖啡也特别好喝，
+简直无可挑剔呀！",translated,依恩,675e154e1e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#70#12,"……数千回のキスと、どっちがいいか、
+いつかわかる日が来るかな？","……数千次的亲吻和它比起来哪个更好，
+不知道有朝一日我能不能明白呢？",translated,依恩,3efd95b356,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#71#12,"今日も本当にありがとう、
+またカフェに行こうね。","今天真的非常感谢你，
+下次再去咖啡馆哦。",translated,依恩,516af4b0ae,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook02.txt#97#12,……コーヒー、コーヒーはやめられなーい。,……咖啡，咖啡让人欲罢不能～。,translated,依恩,c21d8d3260,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook02.txt#99#14,"コーヒーって良い香り
+がするよね。詩になる
+のも分かるかも♪","咖啡真的好香呢。
+能写成诗
+我也完全能理解啦♪",translated,,665731881b,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook03.txt#1#12,レシピブックだね。カフェに行こうか！,是配方书呢。我们去咖啡馆吧！,translated,依恩,87c32a44a9,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#2#12,行こう,去吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#3#12,また今度,下次吧,translated,,e0969d72a9,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#5#12,がっくり……。,垂头丧气……,translated,依恩,0f8335606e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#10#12,うん、それじゃ早く行こう！,嗯，那我们赶紧出发吧！,translated,依恩,d33b029eb8,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#12#12,はーい、ついたよー。,好～，到达啦～。,translated,依恩,2e48cde87c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#13#12,"あれ？
+今日はちょっと人が少ないかもしれないね。","咦？
+今天店里的客人好像有点少呢。",translated,依恩,4c6013e254,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#14#12,"なんだかいつもよりお店の中が
+落ち着いてるような気がするよ。","总觉得店里
+比平时要安静许多呢。",translated,依恩,0920420b4a,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#15#12,"店員さんはいるからお休みって
+わけじゃないし……。","店员都在，所以并不是
+休息关门……",translated,依恩,675b981338,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#16#12,"忙しくてお客さんが来られないのかも
+しれないね。","大概是因为大家都很忙，
+抽不出空过来吧。",translated,依恩,1825c3e1e3,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#17#12,"そういえば、こうやってあなたとカフェに
+来るのは何度めかな？","话说回来，像这样和你一起来咖啡馆，
+已经是第几次了呢？",translated,依恩,77b36f9dc6,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#18#12,"あ、違うの。
+カフェに飽きたってことじゃないよ？","啊，不是啦。
+并不是说我对咖啡馆腻了哦？",translated,依恩,2de892c625,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#19#12,むしろ、その逆。,反倒正好相反。,translated,依恩,537ab6a188,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#20#12,"あなたと一緒に食べたちょっと変わった
+メニューとか――","和你一起吃过的
+有些奇怪的菜单啦――",translated,依恩,c107a1a5d9,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#21#12,"看板に書いてあった変な詩を
+読んだこととか――","还有读过看板上写着的
+古怪诗句啦――",translated,依恩,026807dae4,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#22#12,"ちゃんと思い出もあるのに、
+あなたと一緒だといつも新鮮な気持ちで
+来られるんだ。","明明有着许许多多的回忆，
+但只要和你在一起，
+每次来都能保持着新鲜感呢。",translated,依恩,a692ce2329,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook03.txt#23#12,"……あ、あはは。
+ごめんね、急に変なこと言って。","……啊、啊哈哈。
+对不起哦，突然说了些莫名其妙的话。",translated,依恩,e8f4c74177,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#24#12,"はー。こうやってお日様を浴びて、
+お茶を飲みながらあなたと一緒にいると、
+なんだかうとうとしてきちゃう。","哈啊。像这样沐浴着阳光，
+一边喝茶一边陪着你，
+不知不觉就昏昏欲睡起来了。",translated,依恩,cc93de802a,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook03.txt#25#12,ぽわぽわー……って。,飘飘然的……,translated,依恩,b977f988b7,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#26#12,ぽわぽわー……えへへ。,飘飘然的……诶嘿嘿。,translated,依恩,0f368e0553,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#27#12,"はっ。わ、わたしって
+やっぱりダメかも。","哈。我、我果然
+太容易松懈了吧。",translated,依恩,a2f134bdae,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#29#12,たまにはいい,偶尔这样也挺好,translated,,c688d96c51,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#30#12,いつもだらだらしてる,你平时也一直很懒散,translated,,fb0202e9a4,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#32#12,"うん、たまにはこうやって過ごす日が
+あってもいいよね。","嗯，偶尔像这样悠闲地度过一天
+也很不错呢。",translated,依恩,8973380bc6,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#33#12,"ああっ。でも、せっかくデートに
+来てるのに……わたしたち、
+いつもと何もやることが変わってないよ。","啊啊。不过难得出来约会一次……
+我们做的事
+却和平时完全没什么两样呢。",translated,依恩,f65efb03a1,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook03.txt#34#12,……でもこういうデートもいいのかな？,……不过偶尔来这样一场约会也不赖吧？,translated,依恩,a63d7af4f6,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#35#12,"特別なことは何もないけど、
+こうしていられる時間が、
+すごく大切な気がするよ。","虽然并没有做什么特别的事，
+但像这样能待在一起的时光，
+我感觉非常弥足珍贵呢。",translated,依恩,f7820b321d,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook03.txt#38#12,ええっ！　ひ、ひどいよー。,诶诶！太、太过分了啦～。,translated,依恩,3d06648239,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#39#12,うう、でもあなたの言うとおりかも。,呜呜，不过你说得可能也没错。,translated,依恩,6ae9011690,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#40#12,"やっぱり、一人で部屋にいると
+どうしてもだらけちゃうの。","果然一个人待在房间里的话，
+无论如何都会变得懒散起来呢。",translated,依恩,db9c996c9e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#41#12,"だから、時々こうやってわたしを
+どこかに連れていってね？","所以，偶尔要像这样
+带我到别的地方走走哦？",translated,依恩,fb06e7aa06,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#42#12,そうすると、わたしにも刺激になるんだ。,这样也能带给我一些新鲜刺激呢。,translated,依恩,3de52d99ab,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#43#12,"あ、でもあなたと一緒だとどこにいても
+やっぱりだらけちゃうかも。","啊，不过只要和你在一起，
+不管在哪里我都一样会变得懒懒的吧。",translated,依恩,ce9a66498d,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#44#12,……えへへ。,……诶嘿嘿。,translated,依恩,d033e3880e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#46#12,今日はなんだかゆっくりしちゃったね。,今天不知不觉就过得很悠闲了呢。,translated,依恩,ab39ad1a06,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#47#12,"ゆっくりしすぎて、部屋に戻ったら
+寝ちゃいそうだよ……。","太放松了，感觉一回到房间
+就会直接睡着了呢……",translated,依恩,496736c621,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#48#12,"だ、だめだめ。
+ちゃんとやることは、やらないと！","不、不行不行。
+该做的事情还是得好好做才行！",translated,依恩,3caaee7a27,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#49#12,"うん、まだまだレシピブックに入れる
+レシピも増やしたいし。","嗯，我还想在配方书里
+收录更多的配方呢。",translated,依恩,5bc2b3dcbe,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#50#12,"わたしの記憶も元に戻さないと
+いけないもんね。","而且也必须要
+把我的记忆找回来才行呢。",translated,依恩,bb73246297,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#51#12,それじゃ、今日はそろそろ戻ろうか。,那么，今天差不多就该回去啦。,translated,依恩,53ddc90775,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#53#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#55#12,"あなたの世界のカフェは、
+さっきみたいにゆっくりできる場所？","你那个世界的咖啡馆，
+也是像刚才那样可以悠闲放松的地方吗？",translated,依恩,773157ff63,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#56#12,"それとも、みんなが笑ってる
+賑やかな場所なのかな？","还是说，是大家都欢声笑语的
+热闹场所呢？",translated,依恩,bdc8e2fad9,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#57#12,いつか見てみたいなぁ……。,好想有朝一日亲眼看一看呢……,translated,依恩,8bd38d7683,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook03.txt#58#12,"静かなカフェでも、賑やかなカフェでも、
+あなたと一緒なら絶対楽しいよね。","不管是安静的咖啡馆，还是热闹的咖啡馆，
+只要能和你在一起就一定会很开心呢。",translated,依恩,367b079595,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#59#12,"今日も一緒にいてくれてありがとう。
+明日も一緒にいようね。","今天也谢谢你陪着我。
+明天我们也要在一起哦。",translated,依恩,33006cbaaa,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook03.txt#62#14,"もっといろんな料理を
+作って、レシピブック
+を一杯にしたいな♪","想做出更多
+各种各样的料理，
+把配方书填满呢♪",translated,,5a90730b5e,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook_int.txt#2#12,…むにゃ……。,…唔喃……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_int.txt#6#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_int.txt#8#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#1#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#2#12,"人が多い所から帰ってくると、
+ちょっとだけ寂しい気持ちになるよね。","从人多的地方一回到家，
+总会觉得心里有那么一点点落寞呢。",translated,依恩,8c18105cf3,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#3#12,"うん、でもあなたがいるから
+わたしは平気だよ。えへへ。","嗯，不过因为有你在，
+我完全没关系的哦。诶嘿嘿。",translated,依恩,f8c4b185e8,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#4#12,むふふ……お熱いのぅ。,呼呼呼……真是亲热呢。,translated,妮莉库,bf2bd181f6,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#5#12,へ！？,诶！？,translated,依恩,0e3d6f7007,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#19#12,"ねねねねりこさん！？
+どうしているんですか！？","妮妮妮妮莉库小姐！？
+你怎么会在这里！？",translated,依恩,83f1818831,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#20#12,"うむ。ちょっと野暮用で来たんじゃが……
+お邪魔だったかのぅ。","嗯。我有点琐事过来一趟……
+难不成打扰到你们了？",translated,妮莉库,2893a00926,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#21#12,……もしかして聞いてたんですか？,……难道说你全都听到了吗？,translated,依恩,a909866c9c,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#22#12,"むっふっふ。今さら気にしなくてもよいぞ。
+それよりほれ、客にお茶くらいいれんか。","哼哼哼。事到如今也不用在意啦。
+比起这个，还不快给客人倒杯茶来。",translated,妮莉库,c60baf8dfd,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#23#12,うう……。,呜呜……,translated,依恩,1237f707c1,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#38#12,"それでねりこさん、
+今日はどうしたんですか？","所以妮莉库小姐，
+今天是有什么事吗？",translated,依恩,e14971b72e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#40#12,"実はの、とうだいもりが作った
+『レシピブック』があるじゃろ？","其实呢，灯塔守不是做了本
+‘配方书’吗？",translated,妮莉库,81b1fceba1,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#42#12,"あ、はい。
+今、ちょうどその話をカフェでしてたんです。","啊，是的。
+刚才我们还在咖啡馆聊起那件事呢。",translated,依恩,daef604a64,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#43#12,"……あれ？
+さっきまでそこに置いておいたんですけど。","……咦？
+刚才明明还放在那里的。",translated,依恩,470c1e9d19,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#45#12,"ああ、それは『ゲネロジックマシン』で
+あっちの世界に送っておいたぞ。","啊，那个我用‘衍生逻辑机’
+送到那边的世界去了哦。",translated,妮莉库,2fc9ef4ef5,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#47#12,"へ？
+あっちの世界って？","诶？
+那边的世界是指？",translated,依恩,ef59cdbcfb,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#49#12,そりゃぁ、あっちじゃよ。,那当然是，那边啦。,translated,妮莉库,c2acca3d29,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#51#12,あっち……。,那边……,translated,依恩,cbd012b26e,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#52#12,"ふぇ！？
+あっち！？","诶！？
+那边！？",translated,依恩,6153b2af7a,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#54#12,うむ！,嗯！,translated,妮莉库,99f918d5fc,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#55#12,"それでな、どうもそれを誰かさんが
+拾ったらしく、どこぞのカフェでお前さんの
+作った料理が食べられるらしいぞ。","然后呢，好像被某个人给捡到了，
+说是可以在哪个咖啡馆里
+吃到你做的料理了哦。",translated,妮莉库,0b33566ec0,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook_nelico.txt#57#12,ええええ！？,诶诶诶诶！？,translated,依恩,6f6276bc70,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#59#12,"どうじゃ、お前さんもとうだいもりの作った
+料理を食べたいじゃろ？","怎么样，你也很想吃到
+灯塔守亲手做的料理对吧？",translated,妮莉库,80623310d6,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#62#12,"もうすでにカフェで食べられるようじゃ
+から、行ってみたらどうじゃ？","既然好像已经能在咖啡馆里吃到了，
+不妨去看看如何呀？",translated,妮莉库,bc3c69bb6e,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#64#12,"近々カフェに料理が並ぶようじゃから、
+行ってみたらどうじゃ？","近期好像就会在咖啡馆推出这道料理了，
+不妨去看看如何呀？",translated,妮莉库,ad74db62a9,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#66#12,"おっと、ちなみにお前さんの世界のことは
+我に聞いてもわからんからな？
+カフェの場所は自分で探すんじゃ。","哎呀，顺带一提关于你那个世界的事，
+问我也是搞不清楚的哦？
+咖啡馆的位置就自己去找吧。",translated,妮莉库,5bd2f2d507,br=0 nl=2,3,
+inc/event/res/cafeevent/recipebook_nelico.txt#67#12,"そのくらいはできるじゃろ？
+お前さんのあ・い・で。","这点小事总办得到吧？
+用你的“爱”哦。",translated,妮莉库,f0a8bf42be,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#70#12,ね、ねねねりこさん！,妮、妮妮妮莉库小姐！,translated,依恩,96aa50c686,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#75#12,"むっふっふ。さて、野暮用もすんだことだし、
+これで帰るかの。あでゅ～。","哼哼哼。好啦，琐事也办完了，
+我也该回去啦。再会啦～。",translated,妮莉库,00fb27f1a7,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#99#12,ねりこさんの言ってたこと本当かな？,妮莉库小姐说的会是真的吗？,translated,依恩,b31b35bca2,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#100#12,"もし本当だったら、わたしの料理が
+あなたの世界のどこかで食べられるんだね。","如果真是这样，那在你的世界的某个角落，
+就能吃到我做的料理了呢。",translated,依恩,4ba96a1ea0,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#101#12,"あ、でも無理して私の料理が出される
+カフェを探さなくていいからね。","啊，不过不用勉强自己非要去找到
+提供我做的料理的咖啡馆哦。",translated,依恩,8b59422483,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#102#12,"食べてもらえたら嬉しいけど……
+きっと、大変だと思うし。","要是你能去尝尝看我当然会很高兴……
+不过感觉会很辛苦的样子。",translated,依恩,614a6d7cdd,br=0 nl=1,2,
+inc/event/res/cafeevent/recipebook_nelico.txt#103#12,それに、ちょっと……恥ずかしいから。,而且，总觉得……挺不好意思的。,translated,依恩,3f7b288e01,br=0 nl=0,1,
+inc/event/res/cafeevent/recipebook_nelico.txt#104#12,それじゃ、またカフェに行こうね。,那么，下次再去咖啡馆哦。,translated,依恩,b6c8a09d4b,br=0 nl=0,1,
+inc/event/res/cafeevent/rt_item_event024.txt#3#12,できたぁ！,做好啦！,translated,依恩,dabe224615,br=0 nl=0,1,
+inc/event/res/cafeevent/rt_item_event024.txt#4#12,"レシピを整理するための本、
+名付けて『レシピブック』を作ったよ。","用于整理配方的书，
+命名为‘配方书’做出来啦。",translated,依恩,b28eca285f,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#5#12,"これ、すごく素朴なアイデアだけど、
+とっても便利かも。","这虽然是个很质朴的点子，
+但可能超级实用哦。",translated,依恩,892d94102c,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#6#12,"こうやって整理しておけば、
+料理の材料を忘れることもなくなるし、
+なんだか頭の中がスッキリするよね。","像这样整理好之后，
+不仅不会忘记烹饪所需的材料，
+脑子里也会觉得格外舒畅呢。",translated,依恩,103be5d158,br=0 nl=2,3,
+inc/event/res/cafeevent/rt_item_event024.txt#7#12,"お菓子とかデザートってちょっと分量を
+間違えただけで味がすごく変わっちゃうの。","点心和甜点这类的，只要稍微弄错一点分量，
+味道就会发生很大的变化呢。",translated,依恩,81e859c70e,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#8#12,"だからこのレシピブックで確認しやすくして
+おけば、失敗をすることも減るんじゃない
+かな。","所以只要用这本配方书方便确认的话，
+制作失败的几率
+也会大大减少了吧。",translated,依恩,a9c62293d2,br=0 nl=2,3,
+inc/event/res/cafeevent/rt_item_event024.txt#9#12,"うん、なんだかこうやって整理ができた
+だけでも、清清しい気持ちだよ。","嗯，总觉得光是能像这样整理好，
+心情就变得非常舒畅了呢。",translated,依恩,96aabf5b6c,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#10#12,"……よーし、もっとたくさん料理を覚えて、
+このレシピブックをいっぱいにするからね。","……好～，我要学会更多更多的料理，
+把这本配方书全都填满！",translated,依恩,56db9d75b3,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#12#14,"レシピブックを
+作ったよ♪","制作了
+配方书哦♪",translated,,06d5820188,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#14#14,"レシピブックが
+完成したよ♪","配方书
+制作完成啦♪",translated,,44b1d3f744,br=0 nl=1,2,
+inc/event/res/cafeevent/rt_item_event024.txt#16#14,"レシピブックの
+作成完了。
+次は何を作ろうかな♪","配方书
+制作完成。
+下次要做点什么好呢♪",translated,,b1b90f37ac,br=0 nl=2,3,
+inc/event/res/cafeevent/rt_item_event024.txt#18#14,"レシピブックが
+できたよ♪","配方书
+做好啦♪",translated,,0ab58101ab,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#3#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/cafeevent/sp_recipebook_get.txt#4#12,作れる料理、増えたね,能做的料理变多了呢,translated,,ab3e15d83f,br=0 nl=0,1,
+inc/event/res/cafeevent/sp_recipebook_get.txt#6#12,"うん、どんな材料を使えばいいかも
+わかってきたからね。","嗯，因为我也逐渐摸清
+该使用什么样的食材了嘛。",translated,依恩,f0cffa22a0,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#7#12,"……でも、そのせいで何を作ったらいいか
+悩んじゃうんだ。","……不过也正因如此，
+反而会为该做些什么而犯愁呢。",translated,依恩,4852ae8ba0,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#8#12,"最近は実際に料理してるよりも、
+そうやって悩んでる時間のほうが長いかも。","最近比起实际动手做饭，
+像这样纠结的时间反而变得更长了呢。",translated,依恩,f61a04f8c3,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#9#12,わたしって優柔不断かな……えへへ。,我是不是太优柔寡断了呢……诶嘿嘿。,translated,依恩,2798e750d4,br=0 nl=0,1,
+inc/event/res/cafeevent/sp_recipebook_get.txt#10#12,"もちろん、悩むくらいたくさんの料理を
+覚えられたのは嬉しいけど……
+このままじゃよくないよね。","能学会这么多让人犯愁的料理
+固然很让人开心……
+但一直这样下去可不行呢。",translated,依恩,80e2c0e06a,br=0 nl=2,3,
+inc/event/res/cafeevent/sp_recipebook_get.txt#11#12,……あ、そうだ！,……啊，对啦！,translated,依恩,ab3e107a17,br=0 nl=0,1,
+inc/event/res/cafeevent/sp_recipebook_get.txt#12#12,"ねえ、覚えた料理を整理する道具を
+作ったらどうかな？
+料理のレシピを整頓できる本とか！","我说，做个能整理学会的料理的道具
+怎么样呢？
+比如能把烹饪配方分门别类整理好的书！",translated,依恩,c5c1b2eac0,br=0 nl=2,3,
+inc/event/res/cafeevent/sp_recipebook_get.txt#13#12,"おかずはおかず、甘い物は甘い物っていう
+風にまとめておくの。","把菜肴归为菜肴，甜点归为甜点，
+像这样归纳整理起来。",translated,依恩,3c1262e078,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#14#12,"うん、すごくいいアイデアな気がしてきたよ！
+さっそくその本のレシピを書いてみるね。","嗯，感觉这个点子超级棒呢！
+我这就试着写下那本书的配方吧。",translated,依恩,a568de4b68,br=0 nl=1,2,
+inc/event/res/cafeevent/sp_recipebook_get.txt#15#12,"レシピを整理するための本を作るレシピ……
+なんだかこんがらがっちゃいそうだけど、
+役に立つといいなぁ。","制作整理配方的书的配方……
+虽然感觉思路快要打结了，
+但希望能派上用场呢。",translated,依恩,b56948d12b,br=0 nl=2,3,
+inc/event/res/cafeevent/sp_recipebook_get.txt#17#12,<CLY2>レシピ【料理本？】が追加されました。,<CLY2>追加了配方【烹饪书？】。,translated,系统文本,ab7cbf64fd,<CLY2> br=0 nl=0,1,keep-tags <CLY2>

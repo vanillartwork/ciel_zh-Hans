@@ -1,0 +1,1327 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dayseventex/day04_07.txt#6#12,"あ、そういえば、前に蒔いたお花の種から芽が
+出てきたの。","啊，说起来，之前播种的花种
+发芽了呢。",translated,依恩,2dca1c1edf,br=0 nl=1,2,
+inc/event/res/dayseventex/day04_07.txt#7#12,"聞いてたより芽が出るのが遅かったから、
+もしかしたら、失敗したんじゃないかって
+ちょっと不安で……。","比听说的发芽时间要晚，
+我还稍微有点担心，
+想着会不会失败了呢……",translated,依恩,49a6c7e5b8,br=0 nl=2,3,
+inc/event/res/dayseventex/day04_07.txt#8#12,根気が大事,耐心很重要,translated,,fdec9622d2,br=0 nl=0,1,
+inc/event/res/dayseventex/day04_07.txt#9#12,"でも、なんとか無事に育ってるみたいで
+よかったよ。","不过总算顺利生长起来了，
+太好了呢。",translated,依恩,7751e1d9fc,br=0 nl=1,2,
+inc/event/res/dayseventex/day04_07.txt#10#12,やっぱり慣れてないことって大変だね。,不习惯的事情果然很不容易呢。,translated,依恩,77a0058659,br=0 nl=0,1,
+inc/event/res/dayseventex/day04_07.txt#19#12,"うん、そうだね。
+小まめに手入れをしたり、水をあげたり、
+根気がいるみたい。","嗯，是啊。
+经常去照料、给它浇水什么的，
+好像确实需要耐心呢。",translated,依恩,413fe1098f,br=0 nl=2,3,
+inc/event/res/dayseventex/day04_07.txt#20#12,"けど今回みたいに頑張った結果が
+ちゃんと出たら、やっぱり嬉しいよね。","不过像这次一样努力得到了好成果，
+果然还是会很开心呢。",translated,依恩,c5b96952e5,br=0 nl=1,2,
+inc/event/res/dayseventex/day04_07.txt#21#14,"蒔いたお花の種が芽を
+出してくれた♪","播种的花种
+发芽了♪",translated,,bde92fd17d,br=0 nl=1,2,
+inc/event/res/dayseventex/day05_13.txt#6#12,ねぇ、好きなお花とかってあるかな？,呐，你有什么喜欢的花吗？,translated,依恩,4751f12ba9,br=0 nl=0,1,
+inc/event/res/dayseventex/day05_13.txt#7#12,どうして？,为什么？,translated,,005edb699e,br=0 nl=0,1,
+inc/event/res/dayseventex/day05_13.txt#8#12,花に興味はない,对花没什么兴趣,translated,,e3a2b3153e,br=0 nl=0,1,
+inc/event/res/dayseventex/day05_13.txt#11#12,"えっと……せっかくお花育ててるんだし、
+次はあなたが好きそうなのにしようかなって。","那个……好不容易在种花，
+我就想着下次选你可能会喜欢的花种。",translated,依恩,d7629b32e3,br=0 nl=1,2,
+inc/event/res/dayseventex/day05_13.txt#12#12,"家の外に持っていけるようになったとき、
+できればあなたにも見てほしいし……。","等以后能搬到屋外去的时候，
+我也希望能让你看一看嘛……",translated,依恩,c400a5f5b4,br=0 nl=1,2,
+inc/event/res/dayseventex/day05_13.txt#13#12,迷惑、だったかな？,会觉得困扰吗？,translated,依恩,f61cc65fb9,br=0 nl=0,1,
+inc/event/res/dayseventex/day05_13.txt#14#12,そんなことない,不会困扰,translated,,17a77b07ea,br=0 nl=0,1,
+inc/event/res/dayseventex/day05_13.txt#17#12,"よかったぁ。それじゃあ、好きなお花が
+あったら教えてね。","太好了。那你要是有喜欢的花，
+记得告诉我哦。",translated,依恩,a59919a894,br=0 nl=1,2,
+inc/event/res/dayseventex/day05_13.txt#18#12,"同じようなお花があるかは分からないけど、
+できるだけ似たのを育ててみるから。","虽然不知道这里有没有一样的花，
+但我会尽量找相似的种来看看的。",translated,依恩,4a1ac61354,br=0 nl=1,2,
+inc/event/res/dayseventex/day05_13.txt#19#14,"お花を育てるなら、
+一緒楽しめるものを
+育ててみたいな♪","既然要种花，
+真想种些我们能
+一起欣赏的花呢♪",translated,,f076aec23d,br=0 nl=2,3,
+inc/event/res/dayseventex/day_anim01.txt#5#12,"そうそう、この前外に採取に行ったとき、
+ちっちゃい猫に会ったの！","对啦对啦，之前去外面采集的时候，
+我遇到了一只小猫！",translated,依恩,2e247188cb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_anim01.txt#6#12,"近くに親猫さんがいたみたいで
+すぐにどっか行っちゃったけど、
+すっごくかわいかったの。","好像附近有猫妈妈在，
+所以它马上就跑到别处去了，
+但真的超级可爱呢。",translated,依恩,6d4849d1b1,br=0 nl=2,3,
+inc/event/res/dayseventex/day_anim01.txt#7#12,"一度で良いから、
+あのモフモフの身体に触ってみたいよ～。","哪怕只有一次也好，
+真想摸摸那毛茸茸的身子啊～",translated,依恩,a8bafe5f88,br=0 nl=1,2,
+inc/event/res/dayseventex/day_anim01.txt#8#12,猫派？　犬派？,猫派？犬派？,translated,,e5fb729d01,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#9#12,肉球について語る,大谈肉球的美妙,translated,,b577e1dfc2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#13#12,う～ん、そう聞かれると正直困るかも……。,唔～你这么一问我也有点答不上来呢……,translated,依恩,2de5194da5,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#14#12,"だって、動物ってみんなかわいいから
+どっちかなんて選べないもん。","因为动物都很可爱嘛，
+根本选不出来哪边更好。",translated,依恩,35f1af31dc,br=0 nl=1,2,
+inc/event/res/dayseventex/day_anim01.txt#20#12,"うわ～、いいな～。
+あなたは触ったことあるんだ。","哇～真好啊～。
+原来你摸过肉球啊。",translated,依恩,a52316126b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_anim01.txt#21#12,うぅ、わたしも今度挑戦してみようかな。,呜，下次我也要试着摸摸看。,translated,依恩,4773e8d5c8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#22#12,あぁけど、怖がらせたくないし……。,啊，可是又不想吓到它……,translated,依恩,33040fd0ec,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#23#12,これはすっごい悩みどころだね。,这可真让人纠结呢。,translated,依恩,b4198789de,br=0 nl=0,1,
+inc/event/res/dayseventex/day_anim01.txt#25#14,"動物かわいいよね。
+もふもふしたいよ♪","动物好可爱啊。
+好想摸摸毛茸茸的身子♪",translated,,851e768c7f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_crowds.txt#6#12,"その……突然だけど、わたしね、
+人ごみって苦手なの。","那个……虽然有点突然，其实我啊，
+很不擅长应付拥挤的人群。",translated,依恩,de1ed6cca2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_crowds.txt#7#12,"賑やかなのは嫌いじゃないけど、
+その……あんまり人が多いと
+迷子になっちゃいそうで……。","虽然并不讨厌热闹，
+但那个……人太多的话，
+总觉得好像会迷路……",translated,依恩,280a6ae637,br=0 nl=2,3,
+inc/event/res/dayseventex/day_crowds.txt#8#12,大丈夫、必ず見つける,别担心，我一定会找到你,translated,,8e3a6d67f9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_crowds.txt#9#12,子供みたいでかわいい,像个小孩子一样真可爱,translated,,6eeb417c02,br=0 nl=0,1,
+inc/event/res/dayseventex/day_crowds.txt#14#12,必ず見つけるって……。,一定会找到我什么的……,translated,依恩,d85b567b17,br=0 nl=0,1,
+inc/event/res/dayseventex/day_crowds.txt#15#12,"うふふ。
+その状態じゃ、あなただって
+動けないんじゃないかな？","呵呵。
+那种状态下，你
+应该也动不了吧？",translated,依恩,20c8c2ea1e,br=0 nl=2,3,
+inc/event/res/dayseventex/day_crowds.txt#16#12,"でも、頼もしいよ。ありがとう。
+えへへ、これならいつ迷子になっても
+大丈夫だね。","不过你这么说真可靠呢，谢谢。
+嘿嘿，这样就算什么时候迷路了，
+也完全不用担心啦。",translated,依恩,f75d650e1d,br=0 nl=2,3,
+inc/event/res/dayseventex/day_crowds.txt#17#14,"探してくれる……。
+そう聞いたら、
+すごく嬉しかったよ♪","会来找我……
+听到你这么说，
+真的超级开心呢♪",translated,,7c331ee52e,br=0 nl=2,3,
+inc/event/res/dayseventex/day_crowds.txt#23#12,うぅ、子供じゃないのに……。,呜，我又不是小孩子……,translated,依恩,166dc4fddd,br=0 nl=0,1,
+inc/event/res/dayseventex/day_crowds.txt#24#12,"けどその、かわいいっていうのは
+ちょっと嬉しいかも……。","不过那个，被你说可爱
+还是稍微有点开心的……",translated,依恩,4bf0c062b6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_crowds.txt#25#14,"もう子供じゃないけど
+かわいいって言われる
+のは嬉しいね♪","虽然已经不是小孩子了，
+但被夸可爱
+还是很开心呢♪",translated,,d19a9eeae2,br=0 nl=2,3,
+inc/event/res/dayseventex/day_decide.txt#5#12,"わたしね、本を読むときは
+必ず座って読むことにしてるの。","我啊，看书的时候
+一定要坐下来看。",translated,依恩,f68eb9673c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#6#12,"前に立ちながら読んでたら、
+テーブルの角に足をぶつけちゃって……。","之前站着看书的时候，
+脚撞到了桌角上……",translated,依恩,4dac5b4ce8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#7#12,"もうぅぅぅ、すっごく痛くて、
+家の中では二度とやらないって決めたの。","哎呀真是的，当时痛得要命，
+我发誓在家里再也不这么做了。",translated,依恩,16a064e3e7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#8#12,賢明だ,很明智,translated,,6412ba0188,br=0 nl=0,1,
+inc/event/res/dayseventex/day_decide.txt#9#12,"運よく痛いだけで怪我はしなかったけど、
+一歩間違ったらもっと大変だったよ。","虽然运气好只是痛了一下没受伤，
+但要是稍微差一点可就更糟了。",translated,依恩,84e19dffc5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#10#12,もしかしたら骨折してたかも……。,说不定还会骨折呢……,translated,依恩,91045f78a0,br=0 nl=0,1,
+inc/event/res/dayseventex/day_decide.txt#11#12,"うぅ、思い出したら、
+ちょっとだけ足が痛くなっちゃった……。","呜，回想起来，
+脚好像又有点隐隐作痛了……",translated,依恩,05e239d417,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#14#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_decide.txt#21#12,"あっ、もし立って読んでたら、
+絶対にまたやるって思ってるでしょ！？","啊，你心里肯定觉得如果我站着看，
+绝对会再撞一次对吧！？",translated,依恩,7976cea969,br=0 nl=1,2,
+inc/event/res/dayseventex/day_decide.txt#23#12,はぁ……、わたしもそう思う……。,哈啊……其实我也这么觉得……,translated,依恩,7f839810e9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_dia01.txt#5#12,"ねぇ、あなたって日記を
+書いたことってある？","呐，你以前
+写过日记吗？",translated,依恩,4b6f46655f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#6#12,わたしはね、毎日日記を書いてるんだよ。,我啊，每天都会写日记呢。,translated,依恩,956d54caa5,br=0 nl=0,1,
+inc/event/res/dayseventex/day_dia01.txt#7#12,"その日にあった印象的なことを、
+悲しいことも楽しいことも全部書くの。","把当天印象深刻的事，
+无论是悲伤的还是开心的都写下来。",translated,依恩,5504e9ebb7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#8#12,"わたしにとっては癖みたいなもので、
+もうずっと書き続けてるんだよ。","对我来说就像一种习惯，
+已经一直坚持写了很久呢。",translated,依恩,2dac3bcadf,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#9#12,"といっても、わたしの記憶がなくなる前の
+日記はどこかに行っちゃったみたいで、
+どこを探しても見つからないの。","不过，我失去记忆之前的日记
+好像不知道丢到哪里去了，
+怎么找也找不到。",translated,依恩,fcbdb9d56e,br=0 nl=2,3,
+inc/event/res/dayseventex/day_dia01.txt#10#12,"それが見つかれば、
+もしかしたらわたしの記憶も戻るかも
+しれないのになぁ……。","要是能找到的话，
+说不定我的记忆也能
+恢复呢……",translated,依恩,b98c1bcd04,br=0 nl=2,3,
+inc/event/res/dayseventex/day_dia01.txt#11#12,どうして日記を書くように？,为什么会开始写日记？,translated,,346a03376c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_dia01.txt#16#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_dia01.txt#23#12,う～ん、実はよく覚えてないの。,唔～其实我也记不太清了。,translated,依恩,cb3398452e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_dia01.txt#24#12,"けどね、一つだけ覚えている言葉は
+あるんだよ。それはね……。","不过呢，只有一句话
+我一直记在心里哦。那就是……",translated,依恩,a68328e14c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#25#12,"日記は時空間を越えた旅行をする為に
+必要なパスポート。","日记是进行跨越时空旅行
+所必需的护照。",translated,依恩,940c5520ef,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#26#12,"日記を毎日付ける事は、
+過去の毎日へ旅立つ為の切符を
+手に入れているということ……。","每天写日记，
+就是在获取前往过去的每一天
+启程的通行车票……",translated,依恩,eabc8fa69a,br=0 nl=2,3,
+inc/event/res/dayseventex/day_dia01.txt#27#12,"だれから聞いたのか覚えていないんだけど、
+すごく素敵だよね。","虽然记不清是从谁那里听来的，
+但真的很棒吧。",translated,依恩,5d9464ff00,br=0 nl=1,2,
+inc/event/res/dayseventex/day_dia01.txt#28#14,"日記は過去への切符。
+すごく素敵だよね♪","日记是通往过去的车票。
+真的很浪漫呢♪",translated,,d80f4f55a9,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#5#12,"そういえば、前に話したガーデニングを
+始めてみたよ。","说起来，我开始尝试
+之前提过的园艺了哦。",translated,依恩,a8be9ded77,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#6#12,"といっても、まだ家の外に場所を作って、
+土を入れた後に種を植えてみただけ
+なんだけどね。","话虽如此，其实也只是在屋外整理了地方，
+放上土之后把种子埋进去而已
+就是了。",translated,依恩,8379092e38,br=0 nl=2,3,
+inc/event/res/dayseventex/day_gard01.txt#7#12,"花が咲くのはまだ先になると思うし、
+大変なのはこれからだよ。","开花应该还要等很久，
+辛苦的其实是接下来的日子呢。",translated,依恩,a5ae6623a6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#8#12,結局どんな花を？,结果种了什么花？,translated,,61ee1b7bc8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_gard01.txt#9#12,"ちゃんと毎日お水をあげたり、
+雑草を抜いたり……。","每天要好好浇水，
+还要拔草什么的……",translated,依恩,c2f8556acf,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#10#12,"やることはたくさんあるけど、
+新鮮味があってこういうのもいいよね。","要做的事情虽然挺多，
+但很有新鲜感，感觉也挺不错的呢。",translated,依恩,7c2e7892da,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#11#12,えへへ、これからが楽しみ。,嘿嘿，好期待之后的结果呀。,translated,依恩,9f84a1d8fc,br=0 nl=0,1,
+inc/event/res/dayseventex/day_gard01.txt#14#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_gard01.txt#21#12,"えっとね、ダイアンってお花の種を
+植えてみたよ。","那个呢，我试着种了
+一种叫黛安花的花种哦。",translated,依恩,0cbc731d81,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#22#12,"色の種類も豊富で花持ちもいいって
+ねりこさんがおすすめしてくれたの。","妮莉库推荐说这种花颜色丰富，
+而且花期也很长。",translated,依恩,88f8205a0f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#23#12,"お花にも詳しいなんて、
+さすが雑貨屋さんだよね。","连花卉都这么了解，
+真不愧是杂货店老板呢。",translated,依恩,1009f199e7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_gard01.txt#24#14,"お花育つの楽しみ♪
+綺麗に咲くといいな。","期待花朵长大♪
+希望能开出美丽的花。",translated,,a564f2c6dd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#5#12,あのね、わたし最近いいこと思いついたの。,那个呀，我最近想到了一个好主意。,translated,依恩,d62b7703c6,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach01.txt#6#12,真空管の光ってとっても淡くて綺麗でしょ？,真空管的光芒非常微弱柔和又好看吧？,translated,依恩,bea334a14e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach01.txt#7#12,"これでもかってくらいの真空管を使って、
+町中を明るく照らすの。","要是用上数不清的真空管，
+把整座小镇照亮。",translated,依恩,c1e462c8d5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#8#12,"そしたら、
+すっごく綺麗になるんじゃないかな？","那样一来，
+一定会变得超级美丽吧？",translated,依恩,b9757be1de,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#9#12,"真空管のオレンジ色の光が町中を
+照らすんだよ。","真空管橙色的光芒照亮整座城镇，
+想想就很棒呢。",translated,依恩,762f13f0a5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#10#12,"真空管でライトアップされた夜なんて
+幻想的で良いと思うの。","被真空管灯光点缀的夜晚，
+感觉既梦幻又美好呢。",translated,依恩,845063b3e7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#11#12,"万寿沙良にあったような、
+真空管のライトとか、
+今度わたしも作ってみようかなぁ。","就像万寿沙罗里有的那种
+真空管灯，
+下次我也试着做一个看看吧。",translated,依恩,d007c80ac7,br=0 nl=2,3,
+inc/event/res/dayseventex/day_mach01.txt#12#12,暑くなる,温度会变高吧,translated,,01ec66f3f7,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach01.txt#17#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach01.txt#24#12,"うっ！
+そ、そうだけど……。","呜！
+话、话是这么说啦……",translated,依恩,13eb29d837,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#25#12,"けどほら、万寿沙良でも
+町中で真空管が光っていたでしょ？","可是你看，在万寿沙罗的时候，
+街上到处都是亮着的真空管嘛？",translated,依恩,499a418e26,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach01.txt#26#12,"あんな風にできたらなぁ……って
+思ったんだもん……むー。","我只是觉得要是能像那样就好了嘛……
+真是的……唔―。",translated,依恩,4caa364a13,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#5#12,ねぇねぇ、この前すごい靴を思いついたの。,呐呐，之前我想到了一个很厉害的鞋子哦。,translated,依恩,cb8350ae01,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach02.txt#6#12,"それはね、底にローラーを付けて、
+エンジンで回転させる靴！","那就是在鞋底装上滚轮，
+然后用引擎驱动它旋转的鞋子！",translated,依恩,db558c9745,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#7#12,絶対怪我するからやめた方が良い,绝对会受伤的，还是放弃吧,translated,,68ff93739d,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach02.txt#8#12,"移動も早いし、エンジンを切れば、
+普通に歩くか滑ることもできるんだよ。","移动起来很快，只要关掉引擎，
+就能正常走或者滑行哦。",translated,依恩,8495201abb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#9#12,"もしできたら、採取の往復とか
+きっとすごく簡単になるよね。","如果真能做出来，往返采集什么的
+肯定会轻松很多呢。",translated,依恩,0ad917e1a2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#13#12,"あれ？
+これってよく考えたらすごく危険じゃ……。","咦？
+仔细想想，这好像超级危险……",translated,依恩,ef59a62d04,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#18#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach02.txt#20#12,い、言われてみればたしかにそうかも……。,听、听你这么一说好像确实是哦……,translated,依恩,5d25af00a7,br=0 nl=0,1,
+inc/event/res/dayseventex/day_mach02.txt#21#12,"靴に引きずられていく自分が
+すぐに想像できちゃったよ……。","我脑海里立刻浮现出了
+自己被鞋子拖着跑的样子……",translated,依恩,ab700bd67d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_mach02.txt#24#12,"はぁ、せっかく良いアイディアだと
+思ったのに……。残念。","哈啊，亏我还觉得是个好点子呢……
+真遗憾。",translated,依恩,2c47d47abc,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#5#12,"そうそう、あなたと出会った記念に、
+ガーデニングを始めてみようと思うの。","对啦，作为我们相遇的纪念，
+我打算开始尝试园艺了哦。",translated,依恩,09c07d6d56,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#6#12,"ずっと機械を作ってきたから、
+逆にこういうのも良いかなって。","因为之前一直在做机械，
+所以反而觉得换换口味也不错。",translated,依恩,16005a89da,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#7#12,"どうやるのかとか、
+まだ全然分からないけど……。","虽然该怎么做
+我还完全摸不着头脑……",translated,依恩,72aa634fb6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#8#12,やってみたらきっと楽しいよね。,但尝试一下肯定会很有趣吧。,translated,依恩,03bed82eff,br=0 nl=0,1,
+inc/event/res/dayseventex/day_memori.txt#9#12,"あなたにはちゃんと経過を報告するから、
+楽しみにしていてほしいな。","我会好好向你汇报进度的，
+所以希望你能期待一下哦。",translated,依恩,58e749d3c3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#10#12,どんな花を育てたいのか聞く,询问想种什么样的花,translated,,df3f29ab2b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_memori.txt#15#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_memori.txt#22#12,"う～ん、どうしようかな……。
+やっぱり育てるなら綺麗な花がいいよね。","唔～该怎么选呢……
+既然要种，果然还是漂亮的花比较好呢。",translated,依恩,a362581778,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#23#12,"調べてみないと分からないけど、
+できれば、いろんな色があるお花がいいな。","虽然不查查资料还不知道，
+但如果可以的话，真想种颜色丰富的花。",translated,依恩,7f29a43b2f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_memori.txt#24#12,きっとすごく綺麗だよね。,肯定会特别漂亮的吧。,translated,依恩,1ea8074b93,br=0 nl=0,1,
+inc/event/res/dayseventex/day_memori.txt#25#14,"どんなお花を
+育てようかな♪","要种什么样的
+花好呢♪",translated,,71fb1b0be8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_neli01.txt#6#12,ねりこさんってどんな人？,妮莉库是个什么样的人？,translated,,9babb4a4b2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_neli01.txt#7#12,何も話さない,什么都不说,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventex/day_neli01.txt#11#12,実はわたしも詳しくは知らないの……。,其实我也不太清楚呢……,translated,依恩,e42c236a7d,br=0 nl=0,1,
+inc/event/res/dayseventex/day_neli01.txt#12#12,"雑貨屋を経営していて、
+独特な喋り方をするってくらい。","只知道她经营着杂货店，
+而且说话方式很独特。",translated,依恩,ef1b99514b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_neli01.txt#13#12,"名前だって誰も知らなくて、
+“ねりこ”っていうお店の名前から
+そう呼んでるだけなんだけど――","甚至谁都不知道她的真实名字，
+只是借用“妮莉库”这个店名
+来这么称呼她而已――",translated,依恩,224f978924,br=0 nl=2,3,
+inc/event/res/dayseventex/day_neli01.txt#14#12,いい人……だと思うよ。,我觉得……应该是个好人吧。,translated,依恩,5d360ba399,br=0 nl=0,1,
+inc/event/res/dayseventex/day_neli01.txt#15#12,"わたしはよくからかわれるけど、
+悪意は感じないし
+色々と気にもかけてくれてるしね。","虽然我经常被她捉弄，
+但感觉不到恶意，
+而且她也各方面都挺关照我的呢。",translated,依恩,d2ef2196fe,br=0 nl=2,3,
+inc/event/res/dayseventex/day_neli01.txt#16#12,できれば、もっと仲良くなりたいな。,可以的话，真想和她关系更好一些呢。,translated,依恩,eeb724398c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#1#12,服の好み？,对衣服的喜好？,translated,依恩,458240710b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#2#12,う～ん、そうだね……。,唔～让我想想……,translated,依恩,d0c551f737,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#5#12,"どちらかというと、
+地味な服の方が好きかな。","硬要说的话，
+我可能更喜欢朴素一点的衣服。",translated,依恩,64f850a3df,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#6#12,"派手なのが駄目ってわけじゃないんだけど、
+やっぱりちょっと恥ずかしいし……。","并不是说华丽的不行，
+但果然还是会觉得有点害羞……",translated,依恩,4fbc3c6685,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#8#12,わたしは、やっぱり地味めな服がいいかな。,我啊，果然还是比较中意朴素点的衣服呢。,translated,依恩,4895f01b7c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#9#12,"派手だからって、布が少ないってわけじゃ
+ないけど、そういうのは多いでしょ？","虽说华丽不等于布料少，
+但那种款式很多都挺暴露的吧？",translated,依恩,c1aeb8336e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#10#12,"駄目ってわけじゃないけど、
+やっぱり恥ずかしいよね。","也不是说那样不可以，
+但果然还是会不好意思嘛。",translated,依恩,0fe611f955,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#12#12,"最初にポーラーズメモリーを作った
+わたしが言うことじゃないけど……。","虽然最开始做出了北极星记忆的
+我没资格说这种话就是了……",translated,依恩,a8227f3471,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#13#12,"どちらかというと、
+地味な服の方が好きかな。","硬要说的话，
+我可能更喜欢朴素一点的衣服。",translated,依恩,64f850a3df,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#14#12,"露出が多いのはやっぱり恥ずかしいし、
+出来ればそういうのが少ない服がいいよ。","穿得太暴露果然还是很害羞，
+如果可以的话，真想选布料多一点的衣服。",translated,依恩,5dc3c1c911,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#18#12,今は派手な服の方が好き……かな。,现在的话……可能更喜欢华丽的衣服吧。,translated,依恩,f0482d32a1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#19#12,"ちょっと意外かもしれないけど、
+なんかそういうのもいいかなって。","可能听起来有点意外，
+但总觉得那种风格也很不错呢。",translated,依恩,4badbeab0d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#20#12,"それにそういう服の方が、
+なんか女の子らしい気がしない？","而且穿上那样的衣服，
+不觉得更有女孩子的感觉吗？",translated,依恩,faec12a086,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#22#12,"どちらかというと……
+派手めなくらいがいいかな。","硬要说的话……
+稍微华丽一点的更好吧。",translated,依恩,b3fd1b415a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#23#12,"エッチなのは嫌だけど、こう装飾とかが
+綺麗な方が着てて楽しいもん。","虽然讨厌太下流的，但要是装饰之类
+很漂亮的话，穿起来也会更开心嘛。",translated,依恩,2f52f22cfc,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#25#12,"やっぱり、派手……というより、
+女性らしい服が良いかな。","果然……比起华丽，
+还是更有女人味的衣服好一点呢。",translated,依恩,85985ec408,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#26#12,"間違えちゃいけないのは“女性”であって
+“女の子”じゃないってこと。","要明确的是“女人味”，
+而不是“女孩子气”哦。",translated,依恩,e486818653,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#27#12,"ちょっとくらい派手な方が、
+なんとなく大人っぽいよね。","稍微华丽一点，
+感觉也更有成熟韵味呢。",translated,依恩,1a403ed786,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#30#12,"そうだ。
+今のわたしにはどんな服が似合うと思う？","对啦。
+你觉得现在的我适合什么样的衣服？",translated,依恩,e85f2ab39c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#31#12,あなたの意見を聞いてみたいな。,真想听听你的意见呢。,translated,依恩,d4f180435a,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#32#12,派手な服が似合う,适合华丽的衣服,translated,,31bcf1e7fd,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#33#12,地味な服が似合う,适合朴素的衣服,translated,,24b1156b06,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#37#12,そうかな？,是那样吗？,translated,依恩,14df58a342,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#38#12,"あなたがそう言うなら、少しくらい
+派手めな服を着てみるのもいいかも。","既然你都这么说了，试着穿一下
+稍微华丽一点的衣服也不错呢。",translated,依恩,5d78dd5fbf,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#40#12,派手なのかぁ……。,华丽的衣服呀……,translated,依恩,059c933773,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#41#12,"せっかくだし、
+これを機会にちょっと考えてみようかな。","难得有机会，
+我就借此认真考虑一下吧。",translated,依恩,98315e292d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#43#12,そ、そっか、派手な方がいいんだ。,这、这样啊，华丽的更好啊。,translated,依恩,63b433f359,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#44#12,"たしかに女性らしさが出そうな気もするし、
+考えておこうかな。","感觉确实能展现女人味，
+我也试着考虑考虑吧。",translated,依恩,8bd315de94,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#45#12,"それにどうせ着るなら、
+似合う服を着た方がいいよね。","而且既然要穿，
+果然还是穿适合自己的比较好吧。",translated,依恩,7642e58f47,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#49#12,えへへ、よかったぁ。,嘿嘿，太好啦。,translated,依恩,e80482146c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#50#12,"それじゃあ、これからも派手めな服を
+着てみようかな。","那么，今后我也试着
+穿穿比较华丽的衣服吧。",translated,依恩,0a0ec13bde,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#52#12,ふぅ、ちょっと安心しちゃった。,呼，稍微放心了呢。,translated,依恩,bf6495efef,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#53#12,"わたしの服の好みと、あなたの意見が
+違かったらどうしようかと思ったよ。","要是我的穿衣喜好和你的意见
+不一样的话，我都不知道该怎么办才好了。",translated,依恩,a3be23ccda,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#54#12,"あなたもそう言ってくれたし、
+これからも少し派手めなのを中心に
+着てみようかな。","既然你也这么说了，
+今后我也试着以稍微华丽点的款式为主
+穿穿看吧。",translated,依恩,52c508e7c0,br=0 nl=2,3,
+inc/event/res/dayseventex/day_pra01.txt#63#12,えへへ、やっぱりそうだよね。,诶嘿嘿，果然是这样呢。,translated,依恩,37691039a8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#64#12,"あなたがそう言ってくれると、
+なんか安心しちゃうな。","听你这么说，
+总觉得让人特别安心呢。",translated,依恩,6180a7a0fb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#66#12,そう言ってくれると嬉しいな。,你能这么说我真开心。,translated,依恩,1033eb04ee,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#67#12,"派手な服を着て欲しいって言われたら、
+どうしようかと思ってたよ。","要是你让我穿华丽的衣服，
+我都不知道该怎么办呢。",translated,依恩,e045dcc4b8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#71#12,そっか……。,这样啊……,translated,依恩,72f774d7f9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra01.txt#72#12,"あなたがそういうなら、
+もう少し地味めな服を着てみようかな。","既然你这么说，
+那我就试着穿穿更朴素一点的衣服吧。",translated,依恩,67b22d245b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#73#12,"着てるうちに気に入るかもしれないし、
+いろんな服を着たら気分転換にもなるよね。","说不定穿着穿着就喜欢上了，
+而且穿各种款式的衣服也能转换心情嘛。",translated,依恩,b2ab710502,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#75#12,"言われてみると、
+たしかにその方が良いような気も……。","听你这么一说，
+感觉确实那样更好一点……",translated,依恩,3816e450d6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#76#12,"派手だからおしゃれってわけじゃないと
+思うし、地味めでも良い服はあるよね。","并不是说华丽才叫时尚，
+朴素的衣服里也有很棒的款式呢。",translated,依恩,3fc8e0cbb5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra01.txt#77#12,機会があったら、今度着てみようかな。,要是有机会的话，下次试着穿穿看吧。,translated,依恩,4763bb8c21,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#1#12,着てみたい服？,想穿穿看的衣服？,translated,依恩,87c888c8bc,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#2#12,ちょっと悩むけど、どうせ着るなら……。,虽然有点犹豫，不过既然要穿的话……,translated,依恩,ea0f1d12e9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#5#12,ワンピースがいいかな。,连衣裙比较好吧。,translated,依恩,0408617431,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#6#12,"なんかこう清楚とか、可憐って言葉が
+イメージできて、なんかかわいいよね。","能让人联想到清纯、可爱之类的词，
+感觉非常萌呢。",translated,依恩,e8fd746588,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#8#12,あんまり露出が多くないのがいいかな。,不要太暴露的款式比较好吧。,translated,依恩,be6b4717a1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#9#12,"地味っていうよりは、かわいい感じで、
+ワンピースとかがいいよ。","与其说是朴素，不如说是可爱风，
+连衣裙之类的就挺好。",translated,依恩,ac618a02a6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#10#12,"あとはスーツみたいに、
+かっこいいのも悪くないよね。","另外像西装那样
+帅帅的风格也不坏呢。",translated,依恩,22e029bbc7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#12#12,やっぱり、ワンピース……とかかな。,果然还是……连衣裙之类的吧。,translated,依恩,37edbc2cad,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#13#12,"派手なのよりは地味……というより、
+かわいい系がいいかも。","比起华丽，稍微偏朴素……或者说，
+可爱系的可能会更好。",translated,依恩,cc0aba5332,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#14#12,"わたしにはそっちの方があってるような
+気もするしね。","总觉得那种风格
+也更适合我呢。",translated,依恩,bf52b963ce,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#18#12,"少し派手めな……ポーラーズメモリーみたい
+なのがいいかな。","稍微华丽一点的……比如北极星记忆
+那样的款式就挺好。",translated,依恩,4fe398672a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#19#12,"あなたとねりこさん以外には
+見られないんだし、少しくらいはいいよね。","反正除了你和妮莉库以外
+又没别人看得到，稍微穿一下也没关系嘛。",translated,依恩,930c5aea0c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#21#12,ド、ドレス……とか。,礼、礼服……之类的。,translated,依恩,2cdb0ac276,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#22#12,"えっと、その……あぁいうのって
+すごくしっかりした作りをしてるでしょ？","那个，就是……那种衣服的做工
+不是非常精致讲究嘛？",translated,依恩,9b27f54c40,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#23#12,"それに、女の子としては
+一度は着てみたい服……だよね。","而且作为女孩子，
+一生总想穿一次看看的吧……",translated,依恩,52db3e5a91,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#25#12,ポーラーズメモリーみたいなのがいいな。,想要北极星记忆那样的呢。,translated,依恩,4a756bd0d1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#26#12,"露出が派手すぎるのは嫌だけど、
+あのくらいなら平気だし……。","虽然讨厌太暴露的，
+但那种程度的话就没问题……",translated,依恩,a7a1795e44,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#27#12,"それに、あなたしか見る人はいないし、
+いいんじゃないかなぁって。","而且看的人也只有你一个，
+我想应该不要紧吧。",translated,依恩,bb40f78fc3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#30#12,ワンピースとかを着てほしい,希望你穿连衣裙之类的,translated,,8b129fe301,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#31#12,ちょっと冒険してみてほしい,希望你稍微大胆冒险尝试一下,translated,,67cc9ed3f1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#35#12,"あっ、やっぱりそう思う？
+ワンピースとかってかわいくていいよね。","啊，你也这么觉得吗？
+连衣裙真的很可爱，感觉真棒呢。",translated,依恩,9f90b42210,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#36#12,"あなたもそう言ってくれるなら、
+これからもそういうを着てみようかな。","既然你也这么说了，
+今后我也试着穿穿那种衣服吧。",translated,依恩,d512d1f392,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#38#12,えへへ、やっぱりそうだよね。,诶嘿嘿，果然是这样呢。,translated,依恩,37691039a8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#39#12,"これからも、ちょっと地味だけど女の子
+らしい、かわいい服を着るようにするね。","今后我也会穿些稍微朴素，
+却很有女孩子味又可爱的衣服哦。",translated,依恩,6de3439ef8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#43#12,そう言われると、少し着たくなってくるね。,被你这么一说，我都稍微有点想穿了呢。,translated,依恩,49a61f30d8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#44#12,"せっかくだから、今度そういう服を
+着てみようかな。","难得有这机会，下次我就试着
+穿穿看那种衣服吧。",translated,依恩,0ae95eeb42,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#46#12,"う～ん、言われてみると、
+たしかにワンピースみたいなのもいいかも。","唔～听你这么一说，
+连衣裙那样的确实也挺不错呢。",translated,依恩,2f957e47e6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#47#12,"女の子らしくてかわいいし、
+清楚って感じもするよね。","既有女孩子气又可爱，
+还给人一种很清纯的感觉呢。",translated,依恩,4a81137dbd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#48#12,せっかくだし、今度着てみようかな。,难得有机会，下次我穿穿看吧。,translated,依恩,8493d69742,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#56#12,"冒険？　冒険かぁ……。
+たまにはいいかも。","冒险？冒险啊……
+偶尔试一次或许也不错。",translated,依恩,ad8446a279,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#57#12,せっかくだし、考えておくね。,难得你提了，我会考虑考虑的。,translated,依恩,dc5655d18f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pra02.txt#59#12,"えっと、少しくらい派手めな方がいいって
+ことかな？","那个，意思是稍微华丽一点的
+比较好吗？",translated,依恩,4792c16c4e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#60#12,"う～ん、絶対に嫌ってわけじゃないし、
+ちょっと考えておくね。","唔～倒也不是绝对讨厌啦，
+我会稍微考虑一下的。",translated,依恩,d0cfaf9847,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#64#12,"ぼ、冒険？
+少しくらい派手なのはいいけど、
+変な服装はさすがに嫌だよ？","冒、冒险？
+稍微华丽一点还可以，
+但奇怪的衣服我可绝对不穿哦？",translated,依恩,0b5593f23b,br=0 nl=2,3,
+inc/event/res/dayseventex/day_pra02.txt#65#12,"どうしてもっていうなら、
+その……考えなくもないけど……。","要是你非要看的话，
+那个……倒也不是不能考虑……",translated,依恩,4a16fbac5c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#67#12,"えっと、冒険っていうと、
+室内で水着を着る……とか？","那个，说到冒险的话，
+难道是在屋里穿泳装……之类的？",translated,依恩,da364faeeb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pra02.txt#68#12,"さすがにちょっと恥ずかしいけど、
+た、たまには……いいよね。","那果然还是太害羞了，
+不、不过偶尔一次……也行吧。",translated,依恩,946f9cd59c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_pram_root.txt#5#12,今の服の好みを聞く,询问现在对衣服的喜好,translated,,715983eb87,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pram_root.txt#6#12,今食べたい物を聞く,询问现在想吃的东西,translated,,d50ebe328b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pram_root.txt#8#12,どんな服を着てみたい？,想穿什么样的衣服？,translated,,0cd8bde3d3,br=0 nl=0,1,
+inc/event/res/dayseventex/day_pram_root.txt#9#12,料理けっこう覚えたね,料理掌握得挺多了呢,translated,,aeb5586275,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#1#12,服の好み？,对衣服的喜好？,translated,依恩,458240710b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#2#12,う～ん、そうだね……。,唔～让我想想……,translated,依恩,d0c551f737,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#5#12,今は楽な服を着たいなぁって思うよ。,现在真想穿宽松舒适的衣服呢。,translated,依恩,b94e1c58f2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#6#12,"しっかりした服って着るのが大変だし、
+なんかめんどくさくって。","太讲究的衣服穿起来很麻烦，
+总觉得好费劲啊。",translated,依恩,af09ca246d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#7#12,"つい楽をしたいって
+思っちゃうんだよね……。","忍不住就想图个轻松
+省事呢……",translated,依恩,8e5af9cecb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#9#12,着てて楽な服がいいかな。,穿起来轻松舒服的衣服比较好呢。,translated,依恩,95e95ec6bb,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#10#12,"その方が何をするにしても動きやすいし、
+体も疲れにくいからね。","那样不管做什么活动起来都方便，
+身体也不容易觉得累嘛。",translated,依恩,aa738a07ca,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#12#12,"あんまり考えてなかったけど、
+着てて疲れない服がいいかな。","虽然之前没怎么考虑过，
+但穿着不累人的衣服比较好呢。",translated,依恩,1032ba42fa,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#13#12,"似合う似合わないはあるかもしれないけど、
+楽に着てられるのがいいよね。","虽然合不合适另当别论，
+但能舒舒服服穿着就很棒了吧。",translated,依恩,92701c9256,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#17#12,"好みってわけじゃないけど、
+しっかりした服装がいいと思うよ。","倒不是个人喜好，
+只是觉得得体的正装比较好哦。",translated,依恩,9d59ccbb1a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#18#12,"何事もきっちりしておかないと、
+なんか落ち着かないの。","凡事不规规矩矩弄好，
+总觉得心里静不下来。",translated,依恩,fd59b5fbd0,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#20#12,"やっぱりこう……作りがしっかりしてて、
+きちんと体を守ってくれる服がいいな。","果然还是……做工扎实牢靠、
+能好好保护身体的衣服比较好。",translated,依恩,097bba76e3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#21#12,"作りが弱い服だとすぐに破れたりしそうで、
+ちょっと怖いもん。","做工单薄的衣服总觉得随时会破掉，
+让人有点提心吊胆的。",translated,依恩,1c789efe4a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#23#12,"よく分からないけど、一つ思うのは身なりは
+きちんとしなきゃいけないってこと。","虽然我也说不上来，但有一点我很肯定，
+就是仪表必须要整整齐齐。",translated,依恩,5a311dc1a1,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#24#12,"だらしない格好でいたら、
+なんとなく駄目なような気がするの。","要是穿得邋邋遢遢的，
+总觉得有些说不过去呢。",translated,依恩,836a386fa2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#27#12,わたしからも一つ聞いても良いかな？,我也能问你一个问题吗？,translated,依恩,67c4d25110,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#28#12,"あなたは普段どんな服を着るの？
+もし良かったら教えて欲しいな。","你平时一般都穿什么样的衣服呀？
+如果可以的话能告诉我吗。",translated,依恩,689380c708,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#29#12,動きやすく疲れない服,方便活动且不易疲倦的衣服,translated,,684b762769,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#30#12,きちんとした服,整洁得体的衣服,translated,,482b74f202,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#34#12,あなたもそうなんだ。ふふっ。,你也是这样啊。呵呵。,translated,依恩,9924307cd1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#35#12,"えへへ、身近な人と好みが合うのって、
+ちょっと嬉しいよね。","嘿嘿，和身边亲近的人喜好相投，
+真的让人有点开心呢。",translated,依恩,3d3a0b44b4,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#36#12,こういうのを仲間っていうのかな。,所谓同伴就是这种感觉吧。,translated,依恩,50e1541769,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#38#12,"えへへ、そうなんだ。
+じゃあ、わたしと一緒だね。","嘿嘿，是这样啊。
+那和我一样呢。",translated,依恩,b5486c02de,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#39#12,"疲れると何もしたくなくなっちゃうし、
+今は楽な服が一番かな。","人一累就什么都不想干了，
+现在还是穿轻松舒服的衣服最棒呢。",translated,依恩,90d4f49cb0,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#43#12,"あはは、そうなんだ。
+たしかに疲れないのも重要だもんね。","啊哈哈，原来是这样啊。
+穿起来不累人确实也很重要嘛。",translated,依恩,1249f505ef,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#44#12,"家事とかで体を動かすことが多いし、
+楽な服を中心に着るのも良いかも。","做家务之类经常要活动身体，
+多穿穿轻松舒适的衣服也挺好的。",translated,依恩,6d5277b7e3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#45#12,"そしたら一日のうちにもっとたくさん、
+いろんなことが出来るようになるよね。","那样一天里就能做更多、
+各种各样的事情了呢。",translated,依恩,215d582ce9,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#47#12,言われてみるとそういう服も良いかも。,听你这么一说，那种衣服好像确实不错。,translated,依恩,47e22ddc0d,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#48#12,"身嗜みも大切だけど、
+しっかりした服って疲れちゃうもんね。","虽然仪表很重要，
+但太讲究的衣服穿久了真的很累人呢。",translated,依恩,1aecef2173,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#49#12,今度からは少し楽な服を着てみようかな。,以后我试着穿得轻松一点吧。,translated,依恩,75c7f149a0,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#58#12,"へぇ、そうなんだ。
+あなたってしっかりしてるんだね。","诶，是这样啊。
+你原来是个很严谨的人呢。",translated,依恩,34b044b778,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#59#12,"今度わたしも見習って、
+そういう服を着てみようかな。","下次我也向你学习，
+试着穿穿那种得体的衣服吧。",translated,依恩,5b81ec429f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#60#12,"そしたら、気が引き締まって
+集中力が上がったりするかも。","那样整个人都会精神抖擞，
+说不定注意力也会更集中呢。",translated,依恩,4fd97d3fee,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#62#12,あはは、ちょっと想像できないかも。,啊哈哈，稍微有点难以想象呢。,translated,依恩,a20e24cef6,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#63#12,あっ、気を悪くしたらごめんね。,啊，要是让你不高兴了对不起哦。,translated,依恩,d9bf15db82,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#64#12,"なんとなく親しみやすいイメージが
+あったから、ちょっと意外だったの。","总觉得你给人的感觉很平易近人，
+所以有点意外呢。",translated,依恩,1b4a89f48e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#65#12,"わたしも少し興味が湧いたし、
+今度そういう服を着てみようかな。","我也稍微产生兴趣了，
+下次试着穿穿那种衣服吧。",translated,依恩,b3a0c9c412,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#69#12,えへへ、それじゃあ一緒だね。,嘿嘿，那我们就是同一种喜好呢。,translated,依恩,8af253b547,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#70#12,"楽な格好が悪いわけじゃないけど、
+普段から着てると、
+ちょっとずつ怠けちゃいそうだもん。","虽然穿得宽松并不是什么坏事，
+但平时总这么穿的话，
+感觉自己会一点点懈怠变懒呢。",translated,依恩,112e98ce1f,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb01.txt#71#12,"だからこそ、しっかりした服を着て、
+気を引き締めていかないとね。","所以才更要穿得整整齐齐，
+随时保持清醒自律的精神才行呢。",translated,依恩,206de0827e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#73#12,"あははっ。
+それじゃあ、わたしたちお揃いだね。","啊哈哈。
+那我们可就凑成一对了呢。",translated,依恩,04fe22ead6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#74#12,"あれ？　
+服の好みがお揃いってちょっと変かも……？","咦？
+说衣服喜好凑成一对好像有点奇怪……？",translated,依恩,3591743a59,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb01.txt#75#12,まぁ……いいよね。,嘛……无所谓啦。,translated,依恩,71a7dcbcf5,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb01.txt#76#12,"わたしたちの好みが一緒なのは
+本当のことなんだから。","反正我们喜好相同
+也是千真万确的事实嘛。",translated,依恩,8d90194d3a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#1#12,着てみたい服？,想穿穿看的衣服？,translated,依恩,87c888c8bc,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#2#12,ちょっと悩むけど、どうせ着るなら……。,虽然有点好奇，不过要是什么样的衣服才……,translated,依恩,ea0f1d12e9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#5#12,"やっぱり、動きやすいのがいいかなぁ。
+こうゆったりしてるか、布が少なめなの。","果然还是方便活动的比较好呢。
+要那种宽松的，或者布料少一点的。",translated,依恩,d80bd7ea93,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#6#12,"あっ、あとスカートよりはパンツの方が
+いいかな。","啊，另外比起裙子，
+可能裤子更好一点吧。",translated,依恩,962eb364bd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#7#12,"スカートはその……
+み、見えちゃいそうだし……。","裙子那个……
+总觉得会、会走光……",translated,依恩,9e79e8b8aa,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#9#12,あんまり体の動きを邪魔しない服がいいな。,不妨碍身体活动的衣服比较好呢。,translated,依恩,cea6742e42,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#10#12,"採取とか家事って、意外と体力使うし、
+少しでも楽な方がいいよね。","采集和做家务其实意外耗费体力，
+哪怕能轻松一点点也更好嘛。",translated,依恩,afac319f4e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#12#12,楽に着られるの……かな。,穿起来轻松的衣服……吧。,translated,依恩,f740f50743,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#13#12,"動きやすいってだけじゃなくて、
+簡単に着たり脱いだりできたら、
+すごく楽でいいよね。","不仅要方便活动，
+要是穿脱也很简单的话，
+那就再省事不过了呢。",translated,依恩,507398bdee,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#17#12,"やっぱり、スーツみたいにしっかりした服
+……かな。","果然还是像西装那样端庄的衣服
+……吧。",translated,依恩,88e14061b1,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#18#12,"なんか、身が引き締まるような感じがして
+いいよね。","总觉得有一种让人精神一振的感觉，
+很不错呢。",translated,依恩,51c3c92a5a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#20#12,スーツみたいなビシッとした服がいいかな。,像西装那样笔挺干练的衣服挺好的呢。,translated,依恩,9f873f2502,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#21#12,"最近はだらしないのが気になってるし、
+こういうときはまず服装からだよね。","最近总觉得自己有些懈怠，
+这种时候果然要先从着装做起呢。",translated,依恩,a5d455320a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#23#12,"こう身が引き締まる感じのがいいなぁ。
+普段着とは違うけど、儀礼用の服とか
+そういう感じの。","真想穿那种能让人绷紧神经的衣服啊。
+虽然和常服不太一样，
+但就像礼服那一类的感觉。",translated,依恩,50bd2b7134,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#24#12,"何事もしっかりするなら、
+やっぱり服装から気をつけないとね。","凡事要想做端正，
+果然要从衣服着装开始注意呢。",translated,依恩,f1bd11c919,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#27#12,家では楽な格好でいたい,在家里想穿得轻松舒适,translated,,3eab81098e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#28#12,だらしない格好はよくない,邋邋遢遢的着装可不好,translated,,ab4ae25e40,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#32#12,その気持ちよく分かるよ。,我很理解那种心情哦。,translated,依恩,cdaca22495,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#33#12,"さすがに一日中パジャマってわけには
+いかないけど、やっぱり楽なのがいいよね。","虽说总不能一整天都穿睡衣，
+但果然还是穿得轻松最舒服呢。",translated,依恩,922ca69add,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#35#12,"あはは、わたしの場合、
+家の中も外もあんまり変わらないけどね。","啊哈哈，不过换成我，
+在家里和在外面其实也没太大区别呢。",translated,依恩,edc767fa08,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#36#12,"でもその分、採取とかで出たりするし、
+やっぱり動きやすくて楽なのがいいなぁって
+思うよ。","不过既然常常要去采集，
+我也觉得还是
+方便活动、轻便舒适的最好呢。",translated,依恩,d8266eb8fe,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#40#12,言われてみると、ちょっと分かるかも……。,听你这么说，我好像也能理解了……,translated,依恩,656fc37801,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#41#12,"動き難いと無駄に体力を使っちゃうし、
+これからは少しだけ楽な服装を選ぶように
+しようかな……。","行动不方便会白白浪费体力，
+今后我也试着
+选稍微轻松一点的衣服吧……",translated,依恩,de509402fe,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#43#12,"う～ん、家だからってだらしない格好は
+よくないと思うけど、気持ちは分かるかも……。","唔～虽然觉得哪怕在家里也不该太邋遢，
+但那种心情我也挺能理解的……",translated,依恩,171d6a2bc8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#44#12,"一日中気を張ってたら疲れちゃうし、
+わたしも少しだけ楽な服を着るように
+した方がいいのかな……。","整天绷紧神经也会累坏的，
+我是不是也稍微
+穿得宽松轻便一点比较好呢……",translated,依恩,673754b69a,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#52#12,"そ、そうだね。家だからって、だらしない
+格好はよくない……ね。","也、也是呢。就算是待在家里，
+邋邋遢遢的也不好……呢。",translated,依恩,9dae15c239,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#53#12,"最近、ちょっと気が抜けてたし、
+わたしも気をつけるようにしなきゃ……。","最近我确实有点松懈了，
+自己也得注意一下才行……",translated,依恩,8d005ad027,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#55#12,あぅ……、なんか痛いところつかれたかも。,呜……感觉被戳中痛处了。,translated,依恩,fdf1dc976b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#56#12,"楽な格好がいいなぁって思って、
+最近、ちょっとだらしなくなってたし……。","总想着轻松自在就好，
+最近好像确实变得有点散漫了……",translated,依恩,c0ba58601b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#57#12,これからは、気をつけるようにするね。,从今以后我会注意的。,translated,依恩,fddbdbae5c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#61#12,"そうだよね。
+家の中だからってだらしない格好をしてたら
+生活までだらしなくなっちゃうもん。","是啊。
+哪怕是在家里，要是穿得邋里邋遢，
+连生活作息都会变得散漫起来呢。",translated,依恩,70a25bed16,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prb02.txt#62#12,"それにその……いつねりこさんが来るかも
+分からないし、しっかりしておかないとね。","而且那个……不知道妮莉库什么时候会来，
+必须好好整顿一下仪表呢。",translated,依恩,2a6f0664d6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prb02.txt#64#12,やっぱり、あなたもそう思う？,果然你也这么觉得吗？,translated,依恩,35668af914,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prb02.txt#65#12,"だらしない格好を見せるわけにもいかないし、
+これからも気をつけなきゃ。","总不能让你看到我邋遢的样子，
+以后我也得时刻注意呢。",translated,依恩,46c03aef77,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#1#12,今食べたい物？,现在想吃的东西？,translated,依恩,38ac500ff5,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#2#12,"改まって聞かれると、
+なにが食べたいかなぁ……。","突然被你这么正式一问，
+一时还真不知道想吃什么呢……",translated,依恩,b697e79994,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#5#12,う～ん、やっぱり甘いものだね。,唔～果然还是甜食吧。,translated,依恩,9ffcac3653,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#6#12,"甘いものは体に元気をくれるし、
+脳の働きには必要不可欠なんだよ。","甜食能给身体带来活力，
+对大脑运转也是不可或缺的哦。",translated,依恩,c44d1c116b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#7#12,"疲れてるときには甘いものって、
+よく言ったりするよね。","疲倦的时候吃点甜的，
+大家常这么说呢。",translated,依恩,37422d569c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#9#12,あっ！　甘いものが食べたいな。,啊！好想吃甜食啊。,translated,依恩,e58e1ac104,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#10#12,"最近は疲れることも多いし、
+体にエネルギーをあげないとね。","最近劳累的事情挺多，
+必须给身体补充点能量才行呢。",translated,依恩,c177e92928,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#11#12,"ただその……与えすぎて、
+太らないようにだけは気をつけるね。","不过那个……我会注意克制，
+免得摄入过量发胖啦。",translated,依恩,853dbc9e11,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#13#12,そうだっ！　甘いものが食べたいかも。,对了！我想吃甜食呢。,translated,依恩,0ae7a743bd,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#14#12,"特別なにかっては言えないけど、
+なんとなく甘いもの食べたいなぁって感じ。","虽然说不出特别想吃哪样，
+但就是很想吃点甜的。",translated,依恩,829f5fded8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#15#12,"けど甘いものにも色々あるし、
+なんでもいいってわけじゃないよ。","不过甜食也有很多种类，
+也不是随便什么都可以的哦。",translated,依恩,fb68f4ef14,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#19#12,そうだっ！　辛いものが食べたいな。,对了！我想吃辣的呢。,translated,依恩,ba54256e1e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#20#12,"甘いものも嫌いじゃないけど、
+辛いものが欲しくなるときってあるよね。","虽然也不讨厌甜食，
+但人总有想吃辣的时候嘛。",translated,依恩,6adb74aab8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#22#12,あま……ううん、辛いもの……かな。,甜……不，还是辣的……吧。,translated,依恩,929310e9e7,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#23#12,"甘いものが駄目ってわけじゃないけど、
+こうお口の中に刺激が欲しいというか、
+なんというか……。","并不是说甜食不行，
+只是嘴里想来点刺激，
+怎么说呢……",translated,依恩,2366d87b57,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prc01.txt#24#12,"うまく言葉に出来ないけど、
+そんな感じかな。","虽然不知道该怎么形容，
+大概就是这种感觉吧。",translated,依恩,6d6e21efa5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#26#12,う～ん、辛いものが食べたいかも。,唔～好想吃辣的东西啊。,translated,依恩,371bab0ca3,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#27#12,"眠いときとかに食べると眠気も覚めるし、
+辛い物って意外と便利だよね。","犯困的时候吃一点还能提神醒脑，
+辣的东西其实意外地方便呢。",translated,依恩,55c31c161e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#30#12,ねぇ、わたしも聞いてみてもいいかな？,呐，我也能问你一个问题吗？,translated,依恩,6483753c36,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#31#12,あなたは今どんな食べ物が食べたいの？,你现在最想吃什么样的食物呢？,translated,依恩,e9423ac7ea,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#32#12,辛いキムチ,辣泡菜,translated,,dc8d9bc7a1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#33#12,甘いパフェ,甜芭菲,translated,,7c3b15d699,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#37#12,"うわぁ……。
+聞いてるだけで口の中が辛くなりそうだよ。","哇啊……
+光是听着就感觉嘴里要辣起来了。",translated,依恩,8e47a420ed,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#38#12,"でも、辛いものもいいよね。
+今度食べてみようかな。","不过辣食也很棒呢。
+下次我也尝尝看吧。",translated,依恩,32cc0c6bc7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#40#12,あなたって辛いものが好きなんだ。,原来你喜欢吃辣的呀。,translated,依恩,d9ede55d80,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#41#12,"わたしも嫌いじゃないけど、
+今はちょっといいかも……。","我虽然不讨厌，
+但现在还是先算了吧……",translated,依恩,79c1b05ef1,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#42#12,"けどせっかくだし、
+機会があったら今度食べてみようかな。","不过难得你提了，
+有机会的话下次我也尝尝看吧。",translated,依恩,ebabe58af5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#46#12,あっ、すっごく辛そうでいいね。,啊，听上去好辣好爽的感觉呢。,translated,依恩,dc6a7a9715,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#47#12,"眠くなったときのために
+横に置いときたいね。","真想在手边放上一份，
+等犯困的时候吃呢。",translated,依恩,ca38b1c682,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#48#12,今度、試してみようかな。,下次我也试一试吧。,translated,依恩,3ad75b35d0,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#50#12,あはは、あなたも辛いものが食べたいんだ。,啊哈哈，你也想吃辣的呀。,translated,依恩,784ede3acf,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#51#12,"もし画面越しじゃなかったら、
+一緒に食べれたのに……。","如果不是隔着屏幕，
+我们就能一起吃了呢……",translated,依恩,0c51b4bcb2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#52#12,ちょっと……勿体無いね。,稍微……有点遗憾呢。,translated,依恩,d95cce1ed9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#61#12,あ、それいいね。,啊，那个不错呢。,translated,依恩,a9b6f0944c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#62#12,わたしもパフェ食べたいなぁ。,我也好想吃芭菲啊。,translated,依恩,d4f9e123eb,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#63#12,"……あなたと出会うまでは、
+グルメイトで良かったのに……。","……在遇到你之前，
+明明只吃美食伴侣就满足了的……",translated,依恩,49c9c34042,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#64#12,"わたし、ちょっと欲張りに
+なってきてるのかな。","我是不是变得
+有点贪心了呢。",translated,依恩,800b0dab4a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#66#12,"うん。やっぱり甘いものと言えば、
+それははずせないよね。","嗯。说到甜食，
+果然少不了那个呢。",translated,依恩,7eb5218969,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#67#12,"他にもアイスクリームとか
+ケーキも捨てがたい……。","除此之外，冰淇淋和蛋糕
+也很难割舍呢……",translated,依恩,824626868b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#68#12,ただ、食べすぎには注意しないと駄目だね。,不过，可得注意不能吃太多呢。,translated,依恩,d883f8484c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#72#12,あっ、パフェもいいね。,啊，芭菲也挺好呢。,translated,依恩,144a760c54,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#73#12,"辛いものを食べたい気分だったけど、
+おいしいパフェも食べたいな。","刚才虽然很想吃辣的，
+但美味的芭菲我也好想吃啊。",translated,依恩,715d58b7fb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc01.txt#75#12,うわ、なんか口の中が甘くなりそうだね。,哇，感觉嘴里立刻要甜起来了呢。,translated,依恩,9f5905a247,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#76#12,……でも、意外といいかも……。,……不过，意外地感觉挺棒呢……,translated,依恩,be4f7ff019,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc01.txt#77#12,"お話してたら、
+なんか食べたくなってきちゃった。","听你这么一聊，
+我都忍不住想吃了。",translated,依恩,f515a95390,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#3#12,えへへ、そ、そうかな。,嘿嘿，是、是吗？,translated,依恩,a77e976d64,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#4#12,わたしなんか、まだまだだと思うけど……。,我觉得自己还差得远呢……,translated,依恩,cde6e1df56,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#5#12,でも、そういってくれるのは嬉しいな。,不过你能这么夸我，我真开心。,translated,依恩,9d6b04c340,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#7#12,ありがとう。,谢谢你。,translated,依恩,d678b6dae2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#8#12,"でも、まだまだ失敗も多いし、
+これからも頑張って上手になるね。","不过我还经常做失败，
+今后也会继续努力提高厨艺的。",translated,依恩,8ae007be03,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#10#12,そういえば、そうだね。,说起来，确实是呢。,translated,依恩,937b2ef535,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#11#12,"でも、まだ偏りがあるし、
+もっといろんなことを思い出して、
+今よりもたくさん作れるようになりたいな。","不过现在会的种类还很有限，
+真希望能回忆起更多事情，
+做出比现在多得多的料理啊。",translated,依恩,cb058bdef0,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prc02.txt#13#12,"そうだ、一つ聞いてみたいんだけど、
+あなたは、わたしにどんな料理を
+作ってほしい？","对啦，我想问你一个问题，
+你希望我
+给你做什么样的料理呢？",translated,依恩,094a47b8ca,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prc02.txt#14#12,"少しはできるようになってきたし、
+せっかくだから、あなたの好みも聞いて
+おきたいな……。","因为我也稍微学会做一些了，
+所以难得有机会，
+想先问问你的喜好嘛……",translated,依恩,4caeead7c4,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prc02.txt#15#12,甘いお菓子,甜点心,translated,,c75f83f79f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#16#12,スパイスの効いた料理,辛香料浓郁的料理,translated,,37f54b7cb2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#17#12,食べた気がするこってり系,很有饱腹感的浓郁荤菜,translated,,12ddf45880,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#18#12,胃に優しいさっぱり系,养胃的清淡菜肴,translated,,b950362e10,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#21#12,甘いお菓子だね。,甜点心啊。,translated,依恩,e6f2c8d173,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#22#12,"ふふっ、たしかにお菓子作りって
+女の子らしいもんね。","呵呵，做点心确实
+很有女孩子的风范呢。",translated,依恩,1725190479,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#23#12,わたしも、もう少し頑張ってみようかな。,我也再努力试着做做看吧。,translated,依恩,47c16bbbd9,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#25#12,甘いお菓子だね。,甜点心啊。,translated,依恩,e6f2c8d173,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#26#12,"お菓子ってちゃんと分量を計って
+分量通りにやらないと失敗しちゃうんだよ。","做点心必须严格称量，
+不按分量来的话就会失败哦。",translated,依恩,83ffeed4a6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#27#12,"そういう意味では、細かい作業が好きな
+わたし向きかもしれないね。","从这个意义上讲，
+或许挺适合喜欢精细作业的我呢。",translated,依恩,44aa24f4b2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#33#12,スパイスの効いた料理……。,辛香料浓郁的料理……,translated,依恩,5a2c29b74c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#34#12,"香辛料をうまく使えるのと使えないのでは、
+出来が全然違うし、いい練習にもなるかも。","香辛料用得好与不好，成品差很多呢，
+借此好好练习一下也不错。",translated,依恩,b4cbff9c71,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#36#12,"スパイスの効いた料理っていうと……、
+エスペンタとかが重要だね。","说到辛香料浓郁的料理……
+埃斯彭塔之类的很重要呢。",translated,依恩,a3528e2d4e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#37#12,"入れすぎると辛くなるし、
+少ないと味気なくなっちゃうし……。","放多了会太辣，
+放少了又索然无味……",translated,依恩,6bfd2602b1,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#38#12,ちょっと大変だけど、頑張って練習するね。,虽然有点难，但我会努力练习的。,translated,依恩,ceca57962f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#44#12,"こってり系っていうと、
+やっぱりステーキとかかな？","说到浓郁重口的，
+果然还是牛排之类的吧？",translated,依恩,666f2a8731,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#45#12,"焼くだけの簡単料理に見えて、
+下ごしらえとかが意外と重要なんだよね。","看着像煎一煎就好的简单料理，
+但前期的腌制准备其实意外重要呢。",translated,依恩,b3df444dad,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#47#12,あなたって意外と大食いだったりする？,难道说你意外地挺能吃的？,translated,依恩,de2541943f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#48#12,"でも、お肉とかが嫌いな人って
+珍しいから、気持ちは分かるかも。","不过很少有人会讨厌吃肉，
+我挺能理解你的心情哦。",translated,依恩,39f1e2e8c3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#54#12,あっ、その気持ちはちょっと分かるかも。,啊，那种心情我稍微有点理解呢。,translated,依恩,64943db589,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#55#12,"わたしの場合は胃じゃなくて、
+その……体重の方だけど……。","不过换成我的话不是为了胃，
+而是那个……顾及体重方面啦……",translated,依恩,08d28a403d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#57#12,"さっぱり系かぁ。もしかして、わたしの健康を
+気にしてくれてるのかな？","清淡爽口的啊。难道说，
+你是在关心我的健康吗？",translated,依恩,61e8959862,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#58#12,"えへへ、もしそうだったら、ありがとう。
+頑張って健康にいいものを作るね。","嘿嘿，要是这样的话谢谢你。
+我会努力做出有益健康的料理的。",translated,依恩,b04bf14b5e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#63#12,"本当なら、自分で食べるんじゃなくて、
+あなたに食べてほしいんだけど……。","按理说，真希望不是我自己吃，
+而是能让你尝尝看……",translated,依恩,a5e48f329c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#64#12,でも、端末越しじゃ仕方ないよね。,但隔着终端也没办法呢。,translated,依恩,8bd0df1b01,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prc02.txt#66#12,"はぁ……、本当ならあなたと一緒に
+食べれたらよかったんだけど……。","哈啊……要是真能和你一起吃
+该有多好啊……",translated,依恩,6d845200db,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#67#12,"そしたら、もっと気合を入れて
+練習できるのに……。","那样的话，我也能更有干劲地
+去练习了呢……",translated,依恩,5bcb580128,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#68#12,"と、とにかく、今はそのときのために
+頑張って練習……かな。","总、总之，现在就为了那一天
+努力练习……吧。",translated,依恩,9ebb3255ae,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#70#12,"本当は食べてもらう誰かがいた方が
+集中できていいと思うんだけど……。","其实要是有人能品尝，
+我觉得也能更集中精神呢……",translated,依恩,e5a10177d0,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#71#12,"あなたは端末越しだし、ねりこさんに、って
+いうのもなんか変だし……。","可是你隔着终端，拿给妮莉库尝
+又总觉得怪怪的……",translated,依恩,c4f8e8a162,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prc02.txt#72#12,"って、こんなことを言ってても仕方ないし、
+今は将来のために、とにかく練習……だね。","哎呀，说这些也没用，
+现在为了将来，总之先练习……对吧。",translated,依恩,06d7fe7f54,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#1#12,今食べたい物？,现在想吃的东西？,translated,依恩,38ac500ff5,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#2#12,"改まって聞かれると、
+なにが食べたいかなぁ……。","思路卡壳的时候，
+不会很想吃点什么吗？",translated,依恩,b697e79994,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#5#12,"う～ん、さっぱり系って気分じゃないし、
+今はこってりしたものが食べたいかな。","唔～现在没心情吃清淡的，
+更想吃点浓郁油润的荤菜呢。",translated,依恩,26ce9e78ba,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#6#12,例えば、脂肪たっぷりのステーキとか。,比如汁水丰沛的大牛排之类的。,translated,依恩,ccf3bae3e0,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#7#12,"口の中でジュワーって、
+油が広がる感じがいいよね。","在嘴里滋滋作响、
+油脂香气溢满口腔的感觉真的很棒呢。",translated,依恩,51bd569bc5,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#9#12,"う～ん、さっぱりかこってりかで言ったら、
+今はこってり系のものが食べたいかな。","唔～要在清淡和浓郁之间选的话，
+我现在更想吃浓郁油润的呢。",translated,依恩,cd65e4a78e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#10#12,"食べ過ぎは体に悪いけど、
+ときどきすごく食べたくなるよね。","虽然吃多了对身体不好，
+但偶尔就是会超级想吃呢。",translated,依恩,eb80a94dff,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#12#12,う～ん、ステーキとか……コロッケ……。,唔～牛排啦……可乐饼啦……,translated,依恩,9a14439909,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#13#12,そういうこってりしたのが食べたいな。,好想吃那样浓郁解馋的食物啊。,translated,依恩,e457905edc,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#14#12,"さっぱりしたものは体にいいけど、
+今はそういう気分じゃないかも。","虽然清淡的东西有益健康，
+但现在好像不是那种心情呢。",translated,依恩,85516839b0,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#18#12,"あっそうだ！
+サラダとか食べたいかも。","啊对了！
+我可能想吃沙拉之类的。",translated,依恩,626cda5d07,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#19#12,"最近はさっぱりしたものが
+すごくおいしくて。","最近觉得清爽的食物
+格外美味呢。",translated,依恩,e6fc2afb76,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#20#12,"ただ逆に、こってりしたものを食べるのは
+ちょっと辛いかな。","但反过来，要吃太油腻的
+就会觉得有点吃不消了呢。",translated,依恩,4d3fdd37d9,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#22#12,"う～ん、今はお肉って感じじゃないし、
+野菜とか果物が食べたいかな。","唔～现在不想吃肉，
+更想吃些蔬菜水果呢。",translated,依恩,7bd4b14df9,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#23#12,さっぱりしてるし、健康にもいいからね。,既清爽爽口，又对身体健康嘛。,translated,依恩,8363d4dc5c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#24#12,"そればっかりじゃ駄目だけど、
+今はそういう気分だよ。","虽然光吃这些不行，
+但现在就是这种心情哦。",translated,依恩,85977ceca2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#26#12,"お肉とかって気分じゃないし……、
+なんかさっぱりしたものがいいな。","完全提不起吃肉的兴致……
+想要吃点清淡爽口的东西呢。",translated,依恩,c1a3a181c7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#27#12,"味が濃かったり脂っぽいのは、
+今はちょっと……ね。","口味太重或者太油腻的，
+我现在稍微有点……吃不下呢。",translated,依恩,963fc9910b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#28#12,"その……別に調子が悪いとかじゃなくて、
+なんとなくそんな気分なの。","那个……倒不是身体不舒服，
+只是不知怎么的有这种心情啦。",translated,依恩,ad5fdced6f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#31#12,"あなただったらこってりしたものと
+さっぱりしたもの、どっちが食べたい？","换成你的话，浓郁重口的和清淡爽口的，
+现在更想吃哪种呢？",translated,依恩,81da2a467c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#32#12,こってりしたもの,浓郁重口的,translated,,f1d0bf3edd,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#33#12,さっぱりしたもの,清淡爽口的,translated,,e013067591,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#37#12,えへへ、わたしたち気が合うね。,嘿嘿，我们真合拍呢。,translated,依恩,a80b53768b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#38#12,"これで一緒にご飯が食べられたら、
+言うことないんだけどな……。","要是还能一起吃饭的话，
+那就再完美不过了呢……",translated,依恩,7663bd82e8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#40#12,あっ、やっぱりこってり系がいいよね。,啊，果然浓郁油润的更好吧。,translated,依恩,a36220d97b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#41#12,"体重はちょっと気になるけど……、
+食べたいときに食べたい物を食べないと
+勿体ないよね。","虽然稍微有点在意外表体重……
+但想吃的时候不吃想吃的东西，
+岂不是太可惜了嘛。",translated,依恩,3a7279d7ee,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prd01.txt#45#12,えぇ、そうなの？,诶，是那样吗？,translated,依恩,b73b165310,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#46#12,今油が多い料理はちょっと……。,我现在对太油腻的菜有点……,translated,依恩,1e05da495b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#47#12,"けど、お肉を食べた方が体力とか
+付くのかな……。","不过多吃点肉的话，
+应该也更能增长体力吧……",translated,依恩,147bc30e44,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#49#12,"あはは、あなたって思ってたよりも
+パワフルだったりするのかな？","啊哈哈，难道你比我想象的
+还要精力充沛吗？",translated,依恩,f37aba5430,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#50#12,って、食べたい物だけでそれはないよね。,哎呀，光凭想吃什么可说明不了这个呢。,translated,依恩,8b1c79359d,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#51#12,"なんか食べ物のお話してたら
+お腹が空いてきちゃった……。","总觉得聊着聊着食物的话题，
+肚子都咕噜咕噜叫起来了……",translated,依恩,6e9b45a7b7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#60#12,"さっぱりしたものって野菜や果物が多いから
+体にすごくいいよね。","清淡的食物大多是蔬菜水果，
+对身体真的非常有益呢。",translated,依恩,4ab3edf207,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#61#12,"今はこってりしたものが食べたいけど、
+健康を考えて野菜とかも食べるように
+しなきゃ駄目だよね。","虽然现在很想吃油润浓郁的，
+但顾及健康，也必须好好多吃蔬菜
+才行呢。",translated,依恩,d7e31ffaef,br=0 nl=2,3,
+inc/event/res/dayseventex/day_prd01.txt#63#12,"たしかに体のことを考えると、
+さっぱりしたものがいいよね……。","确实，为身体着想的话，
+还是清淡爽口的更好呢……",translated,依恩,c6d64551e8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#64#12,"はぁ、お肉だけじゃなくて、
+ちゃんと野菜も食べるようにしなきゃ……。","哈啊，不能光吃肉，
+必须好好把蔬菜也吃掉才行……",translated,依恩,171e1dcc64,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#68#12,あっ、やっぱりそうだよね。,啊，果然是这样呢。,translated,依恩,3e7989a283,br=0 nl=0,1,
+inc/event/res/dayseventex/day_prd01.txt#69#12,"さっぱりしたものは体にいいし、
+健康のためにちゃんと食べないとね。","清淡的食物对身体好，
+为了健康可得好好吃呢。",translated,依恩,db027e8295,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#71#12,"野菜ってお肉とかと比べると味気ないけど、
+健康にはすごくいいよね。","蔬菜比起肉类虽然口味淡了点，
+但对健康可是非常有好处的呢。",translated,依恩,900aa4a925,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#72#12,"けどそればっかり食べ続けるのも辛いし、
+何事もバランスが大事なのかな。","不过一直只吃那个也很难熬，
+看来凡事平衡才是最重要的呢。",translated,依恩,01d9605c67,br=0 nl=1,2,
+inc/event/res/dayseventex/day_prd01.txt#73#12,"野菜みたいにさっぱりしたお肉があったら
+面白いのにね～。","要是能有像蔬菜一样清爽的肉类，
+那该多有趣呀～。",translated,依恩,cf8fbaea3b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read01.txt#5#12,"そういえば、
+この前読んだファンタジー小説が
+すっごく良かったの。","说起来，
+我前阵子读的那本奇幻小说
+真的很棒哦。",translated,依恩,d8c70f1ac2,br=0 nl=2,3,
+inc/event/res/dayseventex/day_read01.txt#6#12,"お話自体は良くある、不思議な国に
+迷い込んだ女の子の物語なんだ。","故事本身很常见，讲的是一个
+误入不可思议国度的女孩子的故事。",translated,依恩,2c4b00b7bd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read01.txt#7#12,でも冒険をしたり戦ったりもしないの。,但是里面既没有去冒险，也没有去战斗。,translated,依恩,4466c11b73,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read01.txt#8#12,"その女の子はすごく人見知りをして、
+最初はうまく人と付き合えなくて
+寂しくて泣いているんだよ。","那个女孩子非常认生，
+一开始没办法和别人好好相处，
+总是感到寂寞而哭泣呢。",translated,依恩,63625ed25c,br=0 nl=2,3,
+inc/event/res/dayseventex/day_read01.txt#9#12,"けど、女の子を助けてくれた雑貨屋の
+店主を手伝うために一生懸命お手伝いをして
+たくさんの人たちと出会うの。","但为了报答救了自己的杂货店店主，
+她拼命努力帮忙打下手，
+并因此结识了许许多多的人。",translated,依恩,0eaa2c3115,br=0 nl=2,3,
+inc/event/res/dayseventex/day_read01.txt#10#12,イオンと似てる,和依恩很像,translated,,f11a0cbdad,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read01.txt#11#12,"ただそれだけなのに、
+なんかすごく引き込まれちゃって……。","明明只是这样的情节，
+我却不由自主地被深深吸引了……",translated,依恩,3efad18d93,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read01.txt#12#12,"もっとすごい本とか読んできたのに……。
+どうしてだろうね。","以前明明读过更多更精彩的书……
+这是为什么呢。",translated,依恩,7a0bc0515c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read01.txt#15#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read01.txt#22#12,そう……なのかな？,是……这样吗？,translated,依恩,f136754c6d,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read01.txt#23#12,"わたし自身、全然実感はないけど、
+もしかしたら本当にそうかも。","我虽然完全没有切身体会，
+但说不定真的是那样呢。",translated,依恩,968b427c1c,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read01.txt#24#12,無意識に何か感じ取ったのかもしれないね。,可能是潜意识里感触到了什么吧。,translated,依恩,ee99036e09,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read02.txt#6#12,"えっと、その……最近ね、
+恋愛小説を読んでるんだ。","那个，就是……我最近呀，
+在读恋爱小说呢。",translated,依恩,9c397e8465,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#7#12,"これまで恋愛が主題の本って
+あんまり読んだことなかったんだけど……。","以前我很少会读
+以恋爱为主题的书籍……",translated,依恩,37f20ce4d7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#8#12,"実際に読んでみると
+物語にすごく惹かれちゃったんだぁ。","但实际读了之后，
+发现自己完全被故事吸引住了。",translated,依恩,5120d37ff2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#9#12,"恋人同士が、初めてキスするシーンとか
+自然とドキドキしちゃった。","看到恋人之间初吻的场景，
+心里不由自主地就小鹿乱撞了呢。",translated,依恩,33663bdc80,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#10#12,"やっぱり、好きな人同士って
+そういうことするものなのかな……。","果然相互喜欢的人之间，
+都会做那种事吗……",translated,依恩,46c27bb35d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#11#12,キスしてみたいの？,你也想接吻看看吗？,translated,,851a4fb6b3,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read02.txt#12#12,好きなら当然,喜欢的话那是理所当然的,translated,,aff3185c88,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read02.txt#17#12,その……なんとなく……だけどね。,那个……只是稍微……有一点点啦。,translated,依恩,005ae07326,br=0 nl=0,1,
+inc/event/res/dayseventex/day_read02.txt#18#12,"特別な意味とかないんだけど、
+そういうものなのかなぁって思っただけ。","并没有什么特别的深意，
+只是觉得一般都会那样做吧。",translated,依恩,0d7736647b,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#19#12,"だからね、あ、あんまり気にしないで。
+えへへ。","所以呢，你、你可别太往心里去哦。
+嘿嘿。",translated,依恩,bb87f659be,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#24#12,"そっか、そうだよね～。
+好きな人同士なら、する……んだよね。","这样啊，也是呢～。
+如果是真心喜欢的人，就会……做吧。",translated,依恩,9088fe35a3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#25#12,"わたしも好きな人とは
+……キスしてみたいもん。えへへ。","要是我有了喜欢的人……
+也会想接吻看看嘛。嘿嘿。",translated,依恩,32dc785681,br=0 nl=1,2,
+inc/event/res/dayseventex/day_read02.txt#27#14,"好きな人ができて、
+いつか……えへへ、
+ドキドキだね。","有了喜欢的人，
+总有一天……嘿嘿，
+真是让人心跳不已呢。",translated,,7c41c1d800,br=0 nl=2,3,
+inc/event/res/dayseventex/day_rega01.txt#1#12,"そっか……。
+ちょっと残念かな……。","这样啊……
+稍微有点遗憾呢……",translated,依恩,cce04dc30a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_rega02.txt#1#12,"そう……だよね。
+急に変なお話してごめんなさい。","是……这样呢。
+突然聊起奇怪的话题，对不起。",translated,依恩,3188e9e503,br=0 nl=1,2,
+inc/event/res/dayseventex/day_rega02.txt#2#12,またお話しようね。,之后再聊吧。,translated,依恩,cabafc2ba6,br=0 nl=0,1,
+inc/event/res/dayseventex/day_rega03.txt#1#12,うぅ、たしかにそうかも……。,呜，听你这么说好像确实……,translated,依恩,73292fe16e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_rega03.txt#2#12,"聞いてくれてありがとう。
+またお話しようね。","谢谢你听我倾诉。
+之后再一起聊天吧。",translated,依恩,b3f9b4fb5f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_rega04.txt#1#12,えぇ、そんなぁ！！,诶，怎么这样嘛！！,translated,依恩,ebe13bd4fa,br=0 nl=0,1,
+inc/event/res/dayseventex/day_rega04.txt#2#12,"そんないじわるばっかり言ってると、
+嫌いになっちゃうんだからね……。","你要是总说这种坏心眼的话，
+我可是会讨厌你的哦……",translated,依恩,35a06f1372,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#2#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/dayseventex/day_resa01.txt#4#12,ふふっ、お話しするのって楽しいね。,呵呵，聊聊天真让人开心呢。,translated,依恩,c6aa1aef0f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_resa01.txt#6#12,"お話できる人がいるって、
+こんなに楽しいことだったんだね。","能有个说得上话的人在，
+原来是这么快乐的事情呀。",translated,依恩,6e84762807,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#8#12,"あなたやあなたの世界のこと、
+もっと知りたいな。","关于你和你那个世界的事情，
+我真想了解得更多一些呢。",translated,依恩,6e964c83dd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#10#12,えへへ、お話って楽しいね。,嘿嘿，聊天真开心呢。,translated,依恩,0b8ac29efb,br=0 nl=0,1,
+inc/event/res/dayseventex/day_resa01.txt#12#12,今日はたくさんお話できて嬉しいな。,今天能聊这么多，真开心呢。,translated,依恩,f4006a42e1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_resa01.txt#14#12,"うふふ。
+お話しするのって楽しいね。","呵呵。
+聊聊天真让人开心呢。",translated,依恩,198dd216fd,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#16#12,"あなたと、もっともっと、
+たくさんのことをお話したいな。","好想和你聊更多更多、
+许许多多的事情呀。",translated,依恩,6f7ecf2e07,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#18#12,今度はどうしたの？,这次又怎么啦？,translated,依恩,fe82319dc2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_resa01.txt#20#12,"うふふ。
+あなたって本当にお喋りが好きだよね。","呵呵。
+你真的很喜欢聊天呢。",translated,依恩,3c16e34382,br=0 nl=1,2,
+inc/event/res/dayseventex/day_resa01.txt#21#12,わたしも、あなたとお話するの好きだよ。,我也很喜欢和你聊天哦。,translated,依恩,bf49f3e73a,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#5#12,"そういえばあなたって、真空管のカソードと
+フィラメントの違いについて知ってるかな？","说起来，你知道真空管的阴极
+和灯丝之间有什么区别吗？",translated,依恩,cac25dab68,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#6#12,知らないから聞いてみる,因为不知道所以请教一下,translated,,3e50eaef8a,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#7#12,知ってるから遠慮する,因为知道所以婉拒,translated,,6f09a6ee8c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#9#12,"えっとね、真空管には熱せられて
+電子を放出する金属板、カソードがあるの。","那个呢，真空管里有一块受热后
+会释放电子的金属板，叫做阴极。",translated,依恩,1c2d2c60b8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#10#12,"カソードには二種類の加熱方法があって、
+直接電流を通して加熱する方法――","阴极有两种加热方式，
+一种是直接通电加热――",translated,依恩,f59a382330,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#11#12,"それと別に加熱するための部品、
+ヒーターを使って加熱する方法。","另一种是用额外的加热部件，
+也就是用加热丝来进行加热。",translated,依恩,72caf1eed8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#12#12,"直接加熱するタイプは、
+カソードとヒーターの役割を兼用してて、
+これをフィラメントって呼んでるの。","直接加热的类型，
+兼具了阴极和加热部件的双重功能，
+这种就被称为灯丝哦。",translated,依恩,51087e3951,br=0 nl=2,3,
+inc/event/res/dayseventex/day_teac01.txt#13#12,"それぞれ直熱管と傍熱管って呼ばれてて、
+それぞれ特徴があるんだよ。","它们分别被称为直热管和旁热管，
+各自都很有特点呢。",translated,依恩,e6ed761b6d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#15#12,"その……もし良かったら、
+また真空管のお話して良いかな？","那个……如果你不介意的话，
+下次还能和你聊真空管的事吗？",translated,依恩,09f9a2cd82,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#16#14,"真空管の構造について
+お話を聞いてくれた♪","听我讲了关于
+真空管构造的话题♪",translated,,339bdb8b70,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#17#12,楽しみにしてる,很期待你下次讲解,translated,,ee38efcee8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#18#12,邪魔にならない？,不会打扰到你吗？,translated,,d880d745f4,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#22#12,えへへ、よかった。,嘿嘿，太好了。,translated,依恩,559b212ed6,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac01.txt#23#12,"たいしたお話はできないけど、
+少しでも真空管のこと知ってもらえるように
+頑張るね。","虽然讲不出太高深的内容，
+但为了能让你多了解一点真空管，
+我会努力的哦。",translated,依恩,96150695c9,br=0 nl=2,3,
+inc/event/res/dayseventex/day_teac01.txt#28#12,"そんなことないよ！
+むしろ聞いてほしいくらい！","才没有这回事呢！
+倒不如说我巴不得你能多听听！",translated,依恩,8f403d5098,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac01.txt#29#12,"もっと真空管のことを知って、
+好きになってくれたらうれしいな。","要是你能更多地了解真空管，
+并且喜欢上它的话，我会很开心的。",translated,依恩,bdf519438d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#5#12,真空管基本講座その２だよ。,这是真空管基础讲座第二讲哦。,translated,依恩,6bb711ea58,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac02.txt#6#12,"今回はカソードと対になるプレートについて
+お話しするよ。","这次要讲的是和阴极相对的
+极板哦。",translated,依恩,1fd060aa28,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#7#12,プレートについて聞く,打听关于极板的事,translated,,12c6fa9b94,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac02.txt#8#12,知ってるから遠慮する,因为知道所以婉拒,translated,,6f09a6ee8c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac02.txt#12#12,"前に話したカソードからの電子を
+受け取るのがプレートだよ。","负责接收之前提到的阴极释放出的电子，
+就是极板的作用哦。",translated,依恩,b4d575dc35,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#13#12,"そしてカソードとプレートだけの真空管を
+二極真空管っていうの。","而只有阴极和极板的真空管，
+就叫做二极真空管。",translated,依恩,d6d1da0283,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#14#12,"プレートはプラスの電圧を与えると、
+電子が流れていって――","极板在施加正电压时，
+电子就会流向它――",translated,依恩,a1fd1521e3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#15#12,"逆にマイナスの電圧を与えると、
+反発して電子が受け取れなくなるんだよ。","反之施加负电压时，
+就会排斥电子导致无法接收哦。",translated,依恩,32c6fe7f75,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#16#12,つまり二極真空管には整流効果があるの。,也就是说，二极真空管具有整流作用。,translated,依恩,2f8b9ae234,br=0 nl=0,1,
+inc/event/res/dayseventex/day_teac02.txt#17#12,"一番基本的な真空管だから、
+ちゃんと覚えておいてね。","这是最基础的真空管，
+一定要好好记住哦。",translated,依恩,ee7e112823,br=0 nl=1,2,
+inc/event/res/dayseventex/day_teac02.txt#18#14,"プレートのお話を
+聞いてくれた。
+覚えててくれるかな？","听我讲了
+关于极板的事。
+会替我好好记住吗？",translated,,122fbeda8b,br=0 nl=2,3,
+inc/event/res/dayseventex/day_test01.txt#5#12,"じゃじゃん！
+突然ですがクイズです。","当当！
+突击提问时间到了。",translated,依恩,d3d53de6d7,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test01.txt#6#12,前にお話した真空管に関する問題だよ。,是关于之前讲过的真空管的问题哦。,translated,依恩,0c63a7442e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#7#12,"真空管の内部で間接的に加熱され、
+電子を放出する金属板のことを
+なんというでしょう？","在真空管内部被间接加热、
+用来释放电子的金属板，
+称为什么呢？",translated,依恩,8fe3cefb13,br=0 nl=2,3,
+inc/event/res/dayseventex/day_test01.txt#8#12,時間制限は10秒。,限时10秒。,translated,依恩,b750e3143b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#9#12,ちゃんと覚えているかな？,有没有好好记住呢？,translated,依恩,73f4ddfde1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#10#12,カソード,阴极,translated,,184be6220e,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#11#12,フィラメント,灯丝,translated,,a1a2c254d2,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#16#12,残念、時間切れです。,遗憾，时间到了。,translated,依恩,13ea8214c3,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#19#12,残念、不正解だよ。,真遗憾，回答错误哦。,translated,依恩,1786365d4f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#23#12,正解はカソードでした。,正确答案是阴极。,translated,依恩,485dc5f36f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#24#12,"フィラメントは直接的に加熱される方だよ。
+間違えやすいと思うから気をつけて。","灯丝是直接加热的那一种哦。
+因为很容易搞混，所以要多注意。",translated,依恩,5451867959,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test01.txt#25#12,これできっと覚えられたよね。,这样一来肯定就能记住了吧。,translated,依恩,e9f541db47,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#30#12,正解！,回答正确！,translated,依恩,c545086e7c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test01.txt#31#12,"ちゃんと覚えててくれたんだ。
+うれしいな。","你居然好好记住了呢。
+真开心。",translated,依恩,eafb19607d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test01.txt#32#14,"お話した真空管のこと
+覚えててくれた♪","呵呵，你还记得呀！
+好开心♪",translated,,20eb07c3c2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#5#12,"ちゃっちゃら～！
+突然ですがクイズ第二回です。
+今回も真空管に関する問題だよ。","锵锵锵～！
+突击提问第二轮开始啦。
+这次也是关于真空管的问题哦。",translated,依恩,98de7a0409,br=0 nl=2,3,
+inc/event/res/dayseventex/day_test02.txt#6#12,"真空管の内部で加熱されて、
+電子を出すのはカソード。","在真空管内部受热后
+释放电子的是阴极。",translated,依恩,511b778307,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#7#12,"では、その電子を受け取る金属板のことを
+なんというでしょう？","那么，接收那些电子的金属板
+被称为什么呢？",translated,依恩,7ccf13d3b8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#8#12,時間制限は10秒。,限时10秒。,translated,依恩,b750e3143b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#9#12,ちゃんと覚えているかな？,你还记得吗？,translated,依恩,73f4ddfde1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#10#12,グリッド,栅极,translated,,0defa1e264,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#11#12,プレート,极板,translated,,fd37704db4,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#16#12,残念、時間切れです。,遗憾，时间到了。,translated,依恩,13ea8214c3,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#19#12,残念、不正解だよ。,真遗憾，回答错误哦。,translated,依恩,1786365d4f,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#23#12,正解はプレートでした。,正确答案是极板。,translated,依恩,a957762662,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#24#12,"カソードとは逆のプラス電位を持つ金属板で
+放射された電子を受け取る役目があるの。","它是与阴极相反带正电位的金属板，
+起着接收逸出电子的作用。",translated,依恩,0c4670062d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#25#12,"だからプレートがマイナスの電位を持つと
+電流は流れなくなっちゃうんだよ。","所以极板一旦带有负电位，
+电流就无法流过了哦。",translated,依恩,fec805ad6e,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#26#12,"これのおかげで、
+二極管には整流の効果があるのです。","正因为这个原理，
+二极管才具备整流的作用呢。",translated,依恩,693a6f626a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#31#12,正解！,回答正确！,translated,依恩,c545086e7c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_test02.txt#32#12,"ちゃんと覚えててくれたんだ。
+うれしいな。","你还记得呀！
+好开心♪",translated,依恩,eafb19607d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_test02.txt#33#14,"お話した真空管のこと
+覚えててくれた♪","呵呵，你还记得呀！
+好开心♪",translated,,20eb07c3c2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#6#12,"そういえば、あなたって古い物を
+大切にするタイプ？","说起来，你是那种
+很珍惜老旧物品的类型吗？",translated,依恩,47d7b09dd6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#7#12,"わたしはここに来てからずっと
+使っている工具があってね。","我有一件来到这里之后
+就一直用到现在的工具呢。",translated,依恩,0c5bd80307,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#8#12,"もうボロボロなんだけど、
+なんだか手放せないの。","虽然已经破破烂烂了，
+但总觉得舍不得丢掉。",translated,依恩,2040faeb5f,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#9#12,"長い間使っている物って
+愛着が湧くからなかなか換えられないよね。","用了很久的物品
+会产生感情，所以总换不掉呢。",translated,依恩,d19229fc16,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#10#12,新製品に惹かれる,更容易被新产品吸引,translated,,eea574b8b6,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#11#12,その気持ち分かる,我很懂那种心情,translated,,5a4c71d43c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#15#12,その気持ちも分かるけど……。,虽然我也能理解那种心情啦……,translated,依恩,444d76369c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#16#12,"もしかして、あなたは古い物をすぐに
+交換しちゃうタイプなのかな？","难道说，你是那种
+很快就会把旧东西换掉的类型吗？",translated,依恩,85cdce8d4a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#17#12,だとしたらちょっと残念かも……。,要是那样的话，稍微有点遗憾呢……,translated,依恩,52263a5755,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#22#12,"ホント？　えへへ、ってことは、
+あなたは物を大切にする人ってことだよね。","真的吗？嘿嘿，那也就是说，
+你是一个懂得珍惜物品的人呢。",translated,依恩,73faf9369d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool01.txt#23#12,なんか、ちょっと嬉しいかも。,不知怎的，心里有点高兴呢。,translated,依恩,dd3100bf82,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#24#12,これからも物を大切にしてあげてね。,今后也要好好珍惜身边的物品哦。,translated,依恩,adc948881c,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool01.txt#25#14,"物を大切にしてくる人でよかった。
+これから大切にね♪","太好了，你是个懂得珍惜物品的人。
+今后也要好好爱惜哦♪",translated,,569e5207a3,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#5#12,"はぁ……。
+実はね、聞いてほしいことがあるの。","哈啊……
+其实呢，我有件事想对你说。",translated,依恩,a7b3de52b8,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#6#12,"前に話した愛用していた工具の一つが
+この前壊れちゃったの。","之前跟你提过的经常爱用的工具，
+前几天坏掉了。",translated,依恩,f7707df49d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#7#12,"代えはあったから、
+作業には困らなかったけど……。","因为还有备用的，
+工作上倒是没有受到影响……",translated,依恩,b891253015,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#8#12,なんかこう手に馴染まないって感じで……。,但总觉得用起来不太趁手……,translated,依恩,e5d9d0bebc,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#9#12,うぅ、ショックだよ～……。,呜呜，好让人难过又震惊啊～……,translated,依恩,8d7efe4c2b,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#10#12,イオンを慰める,安慰依恩,translated,,5bbadbc5b1,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#11#12,直せないのか聞いてみる,询问能不能修好,translated,,53f47c8d22,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#16#12,"慰めてくれるの？
+ありがとう。","你是在安慰我吗？
+谢谢你。",translated,依恩,9094f5326a,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#17#12,"ずっと使ってれば手にも馴染むだろうし、
+我慢して使い続け――","一直用下去的话迟早也会习惯顺手的，
+我还是忍耐着用下去――",translated,依恩,7e38e98210,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#18#12,あ、そうだ！,啊，对了！,translated,依恩,d52f559aac,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#23#12,え？　それは……できる……かも。,咦？那……说不定……可以做到。,translated,依恩,dfddfd0c03,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#24#12,そう……だね。,是……这样呢。,translated,依恩,33da085961,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#26#12,工具だって自分で作っちゃえば良いんだ。,工具什么的自己重新做一个就好了嘛。,translated,依恩,221abc2b20,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#27#12,"まったく同じとはいかないけど、
+壊れたからって諦めるのは早いよね。","虽然不可能做得完全一模一样，
+但光是因为坏掉就放弃也太早了呢。",translated,依恩,0014f5b9eb,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#28#12,"ありがとう。
+あなたのおかげで気が付けたよ。","谢谢你。
+多亏了你我才想通了呢。",translated,依恩,c414c5d5e1,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool02.txt#29#12,わたし頑張ってみるね。,我会试着努力做做看的。,translated,依恩,dac0f0be09,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool02.txt#30#14,"落ち込んでるところを
+慰めてくれた。","在我情绪低落的时候
+安慰了我。",translated,,e324271418,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool03.txt#6#12,"そうだ、前に壊しちゃった工具なんだけど、
+なんとか修理できたよ。","对啦，之前坏掉的那件工具，
+我总算是修好啦。",translated,依恩,214590c429,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool03.txt#7#12,"ほとんど作り直したようなものだけど、
+材料は壊れた工具の物を使ったから、
+生まれ変わりみたいなものだね。","虽然几乎跟重做了一遍没差，
+但用的都是原来那把坏掉工具的材料，
+所以就像是脱胎换骨重生了一样呢。",translated,依恩,eee5b25122,br=0 nl=2,3,
+inc/event/res/dayseventex/day_tool03.txt#8#12,"他の工具と大して違いはないはずなのに、
+不思議と手に馴染む感じがあって、
+すごく使いやすいの。","按理说和其他工具应该没什么大差别，
+但不可思议的是用起来特别趁手，
+真的很顺手哦。",translated,依恩,d4532856ba,br=0 nl=2,3,
+inc/event/res/dayseventex/day_tool03.txt#9#12,これからも大切に,今后也要好好珍惜,translated,,c289c2dd10,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool03.txt#10#12,良かったな,太好啦,translated,,b58ead7e79,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool03.txt#15#12,えへへ、そうだね。,嘿嘿，是呢。,translated,依恩,3c832b53cd,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool03.txt#16#12,"丈夫に作ったから長持ちすると思うし、
+ずっと使い続けていきたいな。","因为做得很坚固，所以应该能用很久，
+真想一直一直用下去呢。",translated,依恩,298ed979b2,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool03.txt#22#12,うん、これからも大事にしていくね。,嗯，今后我也会好好爱惜它的。,translated,依恩,7df6b500e8,br=0 nl=0,1,
+inc/event/res/dayseventex/day_tool03.txt#23#12,"自分で作ったからかな。
+すごく愛着あるしね。大切にするよ。","或许因为是自己亲手做的吧，
+格外有感情呢。我会好好珍惜它的。",translated,依恩,68a10d7be6,br=0 nl=1,2,
+inc/event/res/dayseventex/day_tool03.txt#25#14,"愛用の工具を上手に
+直せた♪
+大事にしなくちゃ♪","爱用的工具顺利用巧手
+修好啦♪
+必须好好珍惜它才行♪",translated,,7df8fb2eef,br=0 nl=2,3,
+inc/event/res/dayseventex/day_want01.txt#5#12,"そうそうわたしね、
+やりたいことができたの。","对啦对啦，我啊，
+有了想做的事情哦。",translated,依恩,feb605b40d,br=0 nl=1,2,
+inc/event/res/dayseventex/day_want01.txt#6#12,"その一つはね、
+自分で本を書いてみたい、だよ。","其中一件呢，
+就是想自己写一本书哦。",translated,依恩,eab9b7c5cc,br=0 nl=1,2,
+inc/event/res/dayseventex/day_want01.txt#7#12,"これまで色々な本を読んできたけど、
+一度で良いから自分でも本を
+書いてみたいなって思ったの。","至今为止读了各种各样的书，
+我就想着哪怕只有一次也好，
+真想自己也写一本书试试看呢。",translated,依恩,789297c7df,br=0 nl=2,3,
+inc/event/res/dayseventex/day_want01.txt#8#12,"売りたいとかじゃなくて、
+わたしならどんな物語が描けるんだろう、
+どんな人たちを描くんだろう……。","并不是为了拿去卖，
+而是想知道如果是自己能写出什么样的故事，
+又会描绘出什么样的人呢……",translated,依恩,a6f3ddaaad,br=0 nl=2,3,
+inc/event/res/dayseventex/day_want01.txt#9#12,"そう思ったら、自然と書いてみたいって
+思うようになってた。","这么一想，自然而然地就涌现出了
+想要写书的冲动。",translated,依恩,984c283297,br=0 nl=1,2,
+inc/event/res/dayseventex/day_want01.txt#10#12,"そうしたらあとは実行だけだよね。
+わたしに書けるかどうか分からないけど、
+頑張ってみようと思うの。","既然如此接下来就付诸行动吧。
+虽然不知道自己能不能写出来，
+但我打算努力尝试一下。",translated,依恩,fcb142459d,br=0 nl=2,3,
+inc/event/res/dayseventex/day_want01.txt#11#12,"その……もしかしたら、
+相談に乗ってもらうかもしれないけど、
+そのときは……よろしくね。","那个……之后说不定
+会找你商量探讨，
+到时候……还请多多关照哦。",translated,依恩,557da4c6b2,br=0 nl=2,3,
+inc/event/res/dayseventex/day_want01.txt#12#12,一つってことは他にも？,其中一件，意思是还有别的？,translated,,2557bfe365,br=0 nl=0,1,
+inc/event/res/dayseventex/day_want01.txt#17#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventex/day_want01.txt#24#12,えへへ、そうだよ。,嘿嘿，是呀。,translated,依恩,7061c95871,br=0 nl=0,1,
+inc/event/res/dayseventex/day_want01.txt#25#12,けど、それはまだ秘密。,不过，那个现在还是秘密。,translated,依恩,4d8f4e4afb,br=0 nl=0,1,
+inc/event/res/dayseventex/day_want01.txt#26#12,"話してもいいなって思えたら、
+そのとき話すね。","等我觉得可以说了的时候，
+再告诉你哦。",translated,依恩,31c1f701b9,br=0 nl=1,2,

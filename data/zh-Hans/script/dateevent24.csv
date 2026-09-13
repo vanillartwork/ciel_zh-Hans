@@ -1,0 +1,667 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent24/cake01.txt#3#12,これ、結構上手にできてるでしょ？,这个，做得很不错吧？,translated,依恩,5403dd4b84,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#4#12,"料理って苦手だから自信はなかったけど、
+作ってみると意外とできちゃうもんだね。","因为我不擅长做料理所以之前没什么自信，
+不过试着做了一下，意外地还能做好呢。",translated,依恩,0a2205f693,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#5#12,"そうだ、この前行ったあのカフェに行って、
+ティータイムにしない？","对啦，我们要不要去之前去过的咖啡馆，
+来一段下午茶时光呀？",translated,依恩,01dafaf459,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#6#12,"きっとこれも美味しく食べれると思うよ。
+えへへ、いい考えでしょ？","在那里吃的话肯定也会觉得更好吃的哦。
+嘿嘿，这个想法不错吧？",translated,依恩,b0a21d1871,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#7#12,早速行こう,赶快走吧,translated,,e2bc0f36dc,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#8#12,今は時間がないから,现在没有时间,translated,,f962a22879,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#10#12,そっか。残念……。,这样啊。真遗憾……,translated,依恩,6f72735b73,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#15#12,"それじゃ、ケーキを持って、と。
+カフェに向かってしゅっぱーつ！","那么，带上蛋糕。
+向着咖啡馆出发～！",translated,依恩,ac35ec05d9,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#17#12,……相変わらず、賑わってるね。,……还是一如既往的热闹呢。,translated,依恩,17b67d8812,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#18#12,"っていうか、わたしってこういう感じの
+カフェってあまり詳しくないんだけど、
+どこもこんな感じなのかな？","话说回来，我对于这种类型的咖啡馆
+其实并不是很了解呢，
+大家都是这样热闹的氛围吗？",translated,依恩,e67be15aae,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#19#12,"喫茶店は好きなんだけどね。
+地元の人達しか来ないから、
+静かにのんびりできるし。","虽然我挺喜欢传统茶馆的。
+因为只有本地人才会来，
+可以安安静静地悠闲度过。",translated,依恩,cfedffce95,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#20#12,"でも、こういうカフェも慣れると
+案外楽しいね。","不过，这种咖啡馆习惯之后，
+感觉也出乎意料地有趣呢。",translated,依恩,becd6882ca,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#21#12,"あっ、そういえばお茶をしに来たんだよね？
+えへへ、すっかり忘れちゃってたよ。","啊，说起来我们是来喝茶吃点心的对吧？
+嘿嘿，我完全抛到脑后了呢。",translated,依恩,cdf86b6b9e,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#22#12,"それじゃ、早速食べてみようかな。
+あむっ……。","那么，我马上就尝尝看啦。
+啊呜……",translated,依恩,f249c8e84e,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#23#12,……えへへ、美味しい！,……嘿嘿，真好吃！,translated,依恩,2a162755e6,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#24#12,"自分で作ったものだけど、
+カフェで食べてるからかな？","虽然是自己亲手做的，
+但或许是因为在咖啡馆里吃的原因？",translated,依恩,cd2b4432dd,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#25#12,家で食べるよりも美味しく感じるよ。,感觉比在家里吃要美味多啦。,translated,依恩,30856779b8,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#27#12,これから食事はここでしよう,今后吃饭就在这里吃吧,translated,,cdf37b2572,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#28#12,元々料理が上手いからだよ,是因为你本来厨艺就很好啦,translated,,12582a2c5d,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#30#12,あ、それいい考えだね！,啊，这个主意好呢！,translated,依恩,12c26c5644,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#31#12,"料理ってあまり上手じゃないから、
+ここで食べれば店の雰囲気で美味しく……。","因为我料理水平不太行，
+如果在这里吃，就能借着店里的氛围变美味……",translated,依恩,557479a3de,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#32#12,ちょ、ちょっと待って！,等、等等！,translated,依恩,ee6d2424ad,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#33#12,"確かに料理は下手だけど、わたしだって
+一生懸命作ってるんだよ？","虽然我做饭确实不拿手，
+但人家也是在拼命努力做的呀？",translated,依恩,ac172b0958,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#34#12,"このコンパウンドケーキだって、わたしに
+とっては大成功の部類に入るんだから。","哪怕是这个复合蛋糕，
+对我来说也已经算得上是大成功的范畴啦。",translated,依恩,6871a05397,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#35#12,"……料理のできない子って思われるのは
+ちょっと寂しいよ……。","……被当成不会做饭的女孩子，
+感觉稍微有点伤感呢……",translated,依恩,97fc8a19b7,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#38#12,そ、そんなことないよぉ。,没、没有那回事啦。,translated,依恩,84d9413a28,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#39#12,"確かに色々料理してるけど、
+それはあなたと会ってから始めたことだよ。","虽然确实做了很多料理，
+但这全都是遇见你之后才开始学的呀。",translated,依恩,8e93d5cfc0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#40#12,"それまで料理なんてしなかったから、
+まだまだ上手じゃないもん。","在这之前我根本不做饭的，
+所以现在手艺还差得远呢。",translated,依恩,76ed2113ea,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#41#12,"……でも、お世辞っていうのはわかってる
+けど、そう言ってもらえると嬉しいな。","……不过，虽然明知道只是客套奉承，
+你能这么说我还是很开心的。",translated,依恩,e67ca4e45c,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#42#12,"何だか、料理を好きになれそうな
+気になってきたかも。","总觉得，自己好像能够
+变得喜欢上做饭了呢。",translated,依恩,3e7a6204c2,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#44#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#45#12,"あ、そういえばここにもちゃんとメニューが
+置いてあるんだよね。","啊，说起来这里也是
+正经摆放着菜单的呢。",translated,依恩,eaa57f4721,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#46#12,"仮想世界とはいってもカフェなんだし、
+あるのは当然だよね。","虽说是虚拟世界但毕竟也是咖啡馆嘛，
+有菜单也是理所当然的呢。",translated,依恩,f4100b0ace,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#47#12,"……ってことは、わたしって自分で作った
+物をカフェに持ち込みして食べてる、って
+ことになるんだ？","……也就是说，我现在是
+自带了自己做的东西到咖啡馆里吃，
+变成这样的情况了吗？",translated,依恩,36afc880c3,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#48#12,しかも、何も注文をしないで……。,而且，还什么都没点……,translated,依恩,a1fc519b1c,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#49#12,"う、うわぁ……。
+今更だけどわたし、物凄くマナーの悪い
+お客さんになってるよね……。","呜、呜哇……
+事到如今我才发现，自己变成了一个
+超级不讲礼仪的差劲客人了对吧……",translated,依恩,823e2ec4bc,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#50#12,……やっぱり、何か注文した方がいいかな？,……果然还是点些什么东西比较好吧？,translated,依恩,285168e0e2,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#51#12,"まあ、せっかくカフェに来てるのに、
+何も頼まないで持込みしたケーキを
+食べるだけって寂しい話だし。","不过，难得来一趟咖啡馆，
+什么都不点只顾着吃自带的蛋糕，
+听起来也太冷清了嘛。",translated,依恩,047e65488a,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#52#12,"あっ、このメニューに載ってるケーキも
+凄く美味しそう！","啊，这份菜单上印着的蛋糕
+看起来也超级美味呢！",translated,依恩,1ab119bd04,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#54#12,まだ食べるの？　さすがに太るよ？,还要吃吗？这样下去真的会发胖哦？,translated,,4f2add1e61,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#55#12,飲み物の方が良いと思うよ？,我觉得点喝的会更好一点哦？,translated,,f69630f0ce,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#57#12,うっ……い、痛いところを突いてくるね。,唔……直、直击痛处了呢。,translated,依恩,a998d18fd1,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#58#12,"でも、確かに今一つケーキを食べたばかり
+なんだし、二つは食べ過ぎかな？","不过确实刚吃完一块蛋糕，
+连吃两块可能真的吃太多了吧？",translated,依恩,3cb614601a,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#59#12,"それにコンパウンドケーキのせいで
+結構お腹も膨らんできてるし。","而且因为吃了复合蛋糕，
+肚子其实也已经感觉挺撑了。",translated,依恩,fed4532b12,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#60#12,でも、甘いものは別腹って言うから……。,可是，俗话说甜食是装在另一个胃里的嘛……,translated,依恩,4f9a771d76,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#61#12,"はぁ……この考え方が太る原因だよね。
+やっぱり、今日はもう注文するのは
+やめておくよ。","哈啊……这种想法就是发胖的根源呢。
+果然，今天还是不要再点吃的
+比较好呢。",translated,依恩,ad32e87394,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#62#12,"まあ、考え方を変えれば、今度来たときに
+注文する楽しみができた、ってことだしね。","嘛，换个角度想想，这也算是留到下次来时
+再慢慢品尝的乐趣嘛。",translated,依恩,22eb43685c,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#65#12,あっ、言われてみればそうだね。,啊，经你这么一说确实呢。,translated,依恩,91b2f380c1,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#66#12,"水分無しでケーキばっかり食べてたら、
+喉につまっちゃいそうだし。","完全不喝水光吃蛋糕的话，
+感觉都要噎着了呢。",translated,依恩,3ad1fb8cc9,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#67#12,"やっぱり、せっかくカフェに来てるんだから
+美味しいコーヒーを飲みたいよね。","果然，难得来一趟咖啡馆，
+还是想喝香浓美味的咖啡呢。",translated,依恩,0a4f865d87,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#68#12,"でも、それを注文するなら、
+一緒に甘いものも頼みたいかなぁ？","不过要是点咖啡的话，
+感觉又会想顺带点个甜食配着呢？",translated,依恩,4e3141dace,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#69#12,"……んー、これ以上食べたら、
+さすがに太っちゃうかなぁ。","……唔～要是再继续吃下去，
+真的会变胖的吧。",translated,依恩,e4d53537ac,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#70#12,"うん、今日はもういいや。
+注文はまた今度来た時にするよ。","嗯，今天就算啦。
+点单还是等下次来的时候再点吧。",translated,依恩,d23f828fed,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#71#12,"我慢するのはちょっと辛いけど、
+太ってあなたに嫌われちゃうのも嫌だし。","虽然忍耐有点难受，
+但要是变胖被你讨厌的话我更不愿意。",translated,依恩,0b05a9a58f,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#72#12,"……それくらいで嫌うような人じゃないって
+いうのはわかるけど、
+それに甘えてばかりじゃダメだよね。","……虽然我知道你不是那种
+会因为这点事就讨厌我的人，
+但总是一味撒娇依赖你也是不行的呢。",translated,依恩,358d1e775c,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#73#12,甘いものは今度来たときのお楽しみにするよ。,甜食就留到下次来的时候再好好享受吧。,translated,依恩,f9eac6e1c5,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#74#12,"その時は、コーヒーとケーキを一緒にね。
+えへへ、楽しみだなぁ。","到那个时候，要咖啡配蛋糕一起吃哦。
+嘿嘿，好期待呀。",translated,依恩,80430b0654,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#76#12,"さてと、注文しないのに長居するのも
+悪いし、そろそろ帰ろうか？","好啦，什么都不点却赖着不走也不太好，
+我们差不多该回去了吧？",translated,依恩,85aca93df2,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#78#12,ふぅ、ただいまー。,呼，我回来啦～,translated,依恩,9fea9aa297,br=0 nl=0,1,
+inc/event/res/dateevent24/cake01.txt#80#12,"ああ、やっぱり仮想世界で食べたからかな？
+さっき食べた物をお腹に感じなくなったよ。","啊，果然是因为在虚拟世界里吃的缘故吗？
+刚才吃进肚子里的东西已经感觉不到了呢。",translated,依恩,a999002926,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#81#12,"う～ん、これってつまり、仮想世界の中なら
+甘いものをいくら食べたとしても、絶対に
+太ることはない、ってこと？","唔～这也就是说，只要是在虚拟世界里，
+就算吃再多的甜食，
+也绝对不会发胖的意思吗？",translated,依恩,e793cd25ba,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#82#12,"う～ん……でも、沢山食べ過ぎると体が
+食べた気になって太っちゃう、なんてことが
+無いとも言い切れないし……。","唔～……但是如果吃得太多，身体以为自己吃了
+于是真的变胖了，这种事
+也说不准完全不会发生呢……",translated,依恩,90278bec79,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#83#12,"……仮想世界だとしても、限度を考えて
+行動するのは大切だよね。","……哪怕是在虚拟世界，
+掌握分寸适可而止也是很重要的呢。",translated,依恩,e213930696,br=0 nl=1,2,
+inc/event/res/dateevent24/cake01.txt#84#12,"それじゃ、今日は付き合ってくれて
+ありがと。
+また一緒に行こうね。","那么，今天能陪我一起来
+真的很感谢你哦。
+下次再一起去吧。",translated,依恩,f60eaa18b9,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#87#14,"ケーキとか甘い物には
+やっぱりコーヒーが
+いいね♪","吃蛋糕之类的甜食，
+果然还是配咖啡
+最好呢♪",translated,,c3123b30a2,br=0 nl=2,3,
+inc/event/res/dateevent24/cake01.txt#88#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent24/cake02.txt#3#12,あ、コンパウンドケーキ！,啊，复合蛋糕！,translated,依恩,49d91b10d6,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#4#12,"そういえば、前にそれを持ってカフェに
+行ったことがあったよね？","说起来，之前我们曾带着那个
+去过咖啡馆对吧？",translated,依恩,9613f4f910,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#5#12,"そのせいで何も注文できなくて……。
+この機会にあの時のリベンジをしに
+カフェに行こっか。","结果搞得什么都没法点单……
+趁这个机会，我们要不要去咖啡馆
+一雪前耻呀。",translated,依恩,c20c10317c,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#6#12,レッツリベンジ！,冲啊，一雪前耻！,translated,,01547b9fce,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#7#12,また今度にしよう,还是等下次吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#9#12,"そっか。それじゃ、また都合がよくなったら
+行こうね。","这样啊。那么等之后方便了，
+我们再去吧。",translated,依恩,1fd9a12def,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#14#12,準備はいい？,准备好了吗？,translated,依恩,cac73e12f0,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#15#12,ティータイムにしゅっぱーつ！,向上茶时间出发～！,translated,依恩,fa3eae880d,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#17#12,"……はっ！？
+相変わらずの気づいたら着席！？","……哈！？
+一如既往地一回过神就坐好了！？",translated,依恩,0b47f52297,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#18#12,"何だか、仮想世界に入った瞬間、
+着席から始まるのって、変な感じだよね？","总觉得一进入虚拟世界，
+就直接从入座开始，感觉好奇怪呢？",translated,依恩,f84f226967,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#19#12,"やっぱりカフェなんだから、店に入る時に
+色々聞いてもらえるのも楽しみの一つだし。","毕竟是咖啡馆嘛，进店时被店员
+询问各种各样的事情也是乐趣之一嘛。",translated,依恩,6ed4470b4f,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#20#12,"……でも、ここって結構混んでるから、
+並ばないですむだけでも、
+ありがたいと思わなくちゃダメかな？","……不过这里还挺拥挤的，
+光是不用排队就能直接坐下，
+就已经该心怀感激了吧？",translated,依恩,20b95a4d4e,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#21#12,"ま、まあ、とにかく来たんだし、
+早いとこ何か注文しちゃおうか？","不、不过总之既然来了，
+我们赶紧点些什么吧？",translated,依恩,7334a8fac1,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#22#12,う～ん……。,唔～……,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#24#12,"ど、どうしよう？
+何か、思った以上にメニューが
+充実してるよ。","怎、怎么办才好呢？
+总觉得菜单的内容
+比想象中的还要丰盛充实呢。",translated,依恩,c0fa1902e7,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#25#12,"しかも、どれもこれも美味しそうだから、
+この中から選ぶのは難しいかも。","而且每一个看起来都好好吃，
+要从里面选一个出来可能有点难呢。",translated,依恩,98dcbecdb3,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#26#12,"う～ん、クリームタップリのケーキも
+美味しそうだけど、こっちのフルーツが
+盛ってあるのも捨てがたいし……。","唔～奶油满满的蛋糕看起来很美味，
+但这边的水果拼盘蛋糕
+也很难割舍呢……",translated,依恩,ead8d46d28,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#27#12,"ああんもう、どうすればいいのか
+わからないよぉ！","啊啊真是的，我都不知道
+该怎么办才好啦！",translated,依恩,43d2150e7d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#29#12,楽しそうだね,你看起来挺开心的嘛,translated,,085335a3b5,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#30#12,とりあえず全部頼もうよ,先全部点一遍吧,translated,,4b13d9c17c,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#32#12,えへへ、わかる？,嘿嘿，你看出来啦？,translated,依恩,bfeedf574f,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#33#12,"どれ頼んでも美味しいものが出てくるのは
+確定なんだもん。","因为不管点哪一个，端上来的
+肯定都是美味的甜点嘛。",translated,依恩,a773f5e12b,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#34#12,"いい結果しか待ってないんだから、
+楽しいのは当然だよ。","等待我的只有美好的结局，
+感到开心也是理所当然的啦。",translated,依恩,520e2341b0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#35#12,"まあ、そんなに悩まなくても今度来た時に
+また違うのを頼めば良いんだから、適当に
+選んでもいいんだけどね。","嘛，就算不用这么烦恼，下次再来的时候
+换着点别的就行了，
+其实随便选一个也可以就是了。",translated,依恩,7cd675fbf8,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#36#12,"でも、それでもこうやって悩んで悩んで、
+それで選んだ物を食べた方が美味しいと
+思うの。","但是，即便如此，像这样纠结再三，
+最后吃选出来的那个，
+我觉得肯定会更好吃嘛。",translated,依恩,5a20a223ed,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#37#12,……でも、さすがにちょっと悩み過ぎかな？,……不过，我是不是也有点纠结太久啦？,translated,依恩,94227afd61,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#38#12,"えへへ、すぐに決めちゃうから
+もう少し待ってね。","嘿嘿，我马上就能定下来，
+再稍微等我一下下哦。",translated,依恩,9e9ca404e3,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#41#12,"……わかってない。
+あなた、何もわかってないよ。","……你根本不懂。
+你什么都不懂啦。",translated,依恩,39e1e1c093,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#42#12,"確かにどれを頼めばいいのかわからない時に
+全部頼む、っていうのは一番理想的な
+方法かもしれない。","确实，在不知道该点哪个好的时候，
+把全部都点一遍
+也许是最理想的方法没错。",translated,依恩,c1683a165e,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#43#12,"けど、それをやったら今度来た時の
+楽しみがなくなっちゃうでしょ？","可是如果那样做的话，
+下次来的时候不就没有期待了吗？",translated,依恩,4447cbf425,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#44#12,"まあ、結局のところ何を頼んでも失敗には
+ならないって思うけど。","虽然说到底，我觉得无论点什么
+都不会踩雷就是了。",translated,依恩,8ae739230f,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#45#12,"それでもわざわざ悩んで、時間を掛けて
+選んだ一品を食べるのが楽しいんだよ。","但即便如此，特意去纠结、花时间
+选出一件来品尝才是真正的乐趣所在嘛。",translated,依恩,54761b57fa,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#46#12,"う～ん……この楽しみ、あなたには理解して
+もらえなかったかなぁ？","唔～……这份乐趣，
+难道你无法理解吗？",translated,依恩,b2a5f25e93,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#47#12,"っと、話し込んじゃった。
+さすがにお腹も空いてきたし、
+そろそろ何か注文しないと。","哎呀，不知不觉光顾着聊了。
+肚子确实也饿了，
+差不多该点点儿东西了。",translated,依恩,0ad1740512,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#49#12,……ん？,……嗯？,translated,依恩,632ec345ec,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#50#12,"わぁ、何だか凄く美味しそうなケーキを
+見つけちゃったよ！","哇，我发现了一个
+看起来超级美味的蛋糕哦！",translated,依恩,edf34b4084,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#51#12,"クリームがべったり掛かってるわけでも、
+フルーツが沢山盛ってあるわけでもないの。","既没有涂满厚厚的奶油，
+也没有堆着满满的水果。",translated,依恩,a667975630,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#52#12,これって……パウンドケーキだね。,这个是……磅蛋糕呢。,translated,依恩,c046d6301a,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#53#12,そうだ、いいこと思いついたよ！,对了，我想到了一个好主意！,translated,依恩,ecd1869d8e,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#54#12,"ここのパウンドケーキを食べてみれば、
+今度コンパウンドケーキを作る時に何かしら
+参考になると思わない？","尝尝这里的磅蛋糕，
+你不觉得下次再做复合蛋糕的时候
+多多少少能拿来当参考吗？",translated,依恩,1820c56735,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#55#12,"お店で出されるものなら絶対に美味しいと
+思うし、これは食べてみる価値あるよね。","店里端出来的肯定超级美味，
+这绝对有尝一尝的价值呢。",translated,依恩,7e3f1d2e32,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#56#12,"よぉし、それで決まり！
+早速注文しちゃうね。","好嘞，那就这么决定啦！
+我马上就点单哦。",translated,依恩,aab478bd43,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#57#12,"すいませーん！
+このパウンドケーキ一つくださーい！","不好意思～！
+请给我来一份这个磅蛋糕～！",translated,依恩,f1dd79ea7b,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#62#12,"ビックリしたね……。
+まさか、コンパウンドケーキとまったく味が
+変わらないとは思わなかったよ。","真让人吃惊呢……
+真没想到，味道居然和复合蛋糕
+完全一模一样。",translated,依恩,48ec6f6262,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#63#12,"テーブルに来た時、見た目もそのまんま
+コンパウンドケーキだったし……。","端上桌子的时候，连外观都
+完全就是个复合蛋糕嘛……",translated,依恩,4899d112c7,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#64#12,"おかしいなぁ、メニューに載ってる写真を
+見ると、まったく別物に見えたのに。","真奇怪呀，看菜单上的照片时，
+明明看起来完全是两种东西的。",translated,依恩,2e301d05d8,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#65#12,"もちろん、不味くはなかったよ。
+焼き立てでフワフワで甘くて、
+凄く美味しかったのは確かだよ。","当然，并不是说不好吃啦。
+刚烤出来松松软软又甜滋滋的，
+味道非常美味这也是事实。",translated,依恩,efc7f45e66,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#66#12,"けど……本当にコンパウンドケーキそのまま
+っていうのが、なんだかなぁ……。","可是……简直就像是直接照搬复合蛋糕，
+总觉得有种说不上来的感觉呢……",translated,依恩,bb6d70a012,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#68#12,今度注文する時は安心だね,下次点单时就可以安心了呢,translated,,3ee71eb751,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#69#12,美味しかったならそれでＯＫじゃない？,既然好吃不就完全没问题了吗？,translated,,a4e9d3544a,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#71#12,あっ、言われてみればそうだね。,啊，经你这么一说确实呢。,translated,依恩,91b2f380c1,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#72#12,"確かにメニューを見たら、これ以外には
+コンパウンドケーキに似てるかもって
+感じのモノはないみたいだし。","确实翻了翻菜单，除了这个以外，
+好像也没有其他看起来
+像复合蛋糕的东西了呢。",translated,依恩,09e4eb2b87,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#73#12,"今度来た時こそ、どれを頼んでも
+美味しい物が出てくるのは確実だね！","下次再来的时候，无论点哪个
+肯定都能端上美味的甜点呢！",translated,依恩,088523ab16,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#74#12,"あ、もちろん今日頼んだのも
+凄く美味しかったけどね。","啊，当然今天点的这个
+也是超级好吃的啦。",translated,依恩,609d0b4de6,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#75#12,"ただ、やっぱり物足りなさみたいなのを
+感じちゃうのは仕方がないことだよね？","只不过，难免会觉得有点美中不足，
+这也是没办法的事情对吧？",translated,依恩,009c3a4c7a,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#78#12,"う、う～ん……まあ、確かにそうかも
+しれないけど、やっぱり寂しいよ。","唔、唔～……虽然话是这么说，
+但总觉得心里还是空落落的嘛。",translated,依恩,e48c14f9a2,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#79#12,"だって自分では作れないような美味しい物を
+食べれると思って、それを楽しみに注文
+したんだもん。","因为我本来是满心期待着，
+能吃到自己做不出来的美味点心，
+才特意点单的嘛。",translated,依恩,75d8adee95,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#80#12,"それに知っての通り、わたしは料理が
+人一倍苦手な部類の人間なの。","而且正如你所知，在做料理方面，
+我可是属于比常人更加笨拙的那一类人哦。",translated,依恩,2dc2c0de51,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#81#12,"だから、いくら美味しくても自分でも
+作れちゃうような物が出てきたって
+時点で、やっぱりがっかりしちゃうよ。","所以就算再美味，但端上来的
+居然是连我自己都能做出来的东西，
+在这一点上还是会感到失望的嘛。",translated,依恩,2c4bf57c35,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#83#12,あれ？,咦？,translated,依恩,e5ab9b9c5f,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#84#12,"でもこれって考え方を変えてみると、
+お店で出すレベルの食べ物を、料理が苦手な
+わたしが作れちゃった、ってことだよね？","不过这要是换个角度来想，
+不就等于不擅长做料理的我，
+做出了店里售卖水准的食物吗？",translated,依恩,aed054b4d8,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#85#12,"……わたし、知らず知らずのうちに
+結構凄いの作っちゃってた。
+ってことだよね？","……也就是说，在不知不觉中，
+我其实做出了相当了不起的东西，
+是这么一回事对吧？",translated,依恩,5469d2813b,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#86#12,そう考えると……ちょっとだけ嬉しいかも。,这么一想……感觉稍微有点开心呢。,translated,依恩,ddf53ce9a3,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#87#12,"えへへ、知らないうちにわたし、結構料理の
+腕がついてきてるみたいだね。","嘿嘿，看来在不知不觉中，
+我的料理水平也有了很大长进呢。",translated,依恩,b94462d0cf,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#88#12,"ちょっとだけガッカリはしたけど、
+何だか自分に自信が持てたし、
+結果的にはよかったのかな？","虽然刚才稍微有点失望，
+但总觉得自己平添了信心，
+结果上来看也算因祸得福了吧？",translated,依恩,b65b57eda5,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#89#12,"でも、今度からはもう、今日頼んだ
+パウンドケーキは除外するけどね。","不过，从下次开始，今天点的这道
+磅蛋糕就要被排除在选择了。",translated,依恩,cecfa6e7da,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#90#12,"やっぱり、お店で食べるんだから自分では
+作れないような美味しい物を食べたいもん。","毕竟难得在店里吃，
+还是想尝尝自己做不出的美味嘛。",translated,依恩,017ad62ae5,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#91#12,"さてと、それじゃあまり長居しても悪いし、
+そろそろ帰ろうか。","好啦，久留也不太好，
+我们差不多该回去了吧。",translated,依恩,dce088fad3,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#93#12,ふ～、ただいまー。,呼～我回来啦～,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateevent24/cake02.txt#94#12,"って、やっぱり帰ってくると、向こうで
+食べたはずのモノがお腹の中から消えてて、
+ちょっとだけ寂しい感じがするね。","不过，一回到家，明明在对面
+吃过的东西在肚子里消失无踪，
+多少还是会让人觉得有点空虚呢。",translated,依恩,ae05213e9d,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#95#12,"今からもう一回行きたい気持ちになるけど、
+気分だけでも太っちゃいそうだし、
+我慢我慢。","虽然现在产生了一种想再去一次的冲动，
+但感觉哪怕心理作用也会变胖，
+忍耐、忍耐。",translated,依恩,7e8d8f4263,br=0 nl=2,3,
+inc/event/res/dateevent24/cake02.txt#96#12,"今度行った時は、生クリームタップリの
+甘いケーキを注文しちゃおっと。","下次再去的时候，我一定要点一份
+涂满充分鲜奶油的甜甜蛋糕。",translated,依恩,5dc5011d78,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#97#12,"えへへ、楽しみだなぁ……。
+近いうちに、絶対行こうね！","嘿嘿，好期待呀……
+近期我们一定要再去哦！",translated,依恩,1e280869cb,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#100#14,"コンパウンドケーキ、
+上手にできてた♪","复合蛋糕
+做得相当成功♪",translated,,817738ae31,br=0 nl=1,2,
+inc/event/res/dateevent24/cake02.txt#101#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent24/cake03.txt#5#12,"そういえば、前にカフェに行った時、
+間違ってこれを注文しちゃったんだよね。","说起来，之前去咖啡馆的时候，
+我不小心误点了这个呢。",translated,依恩,5a76b8f4ee,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#6#12,"今度こそは、もっと違うケーキを
+食べてみたいな。","这次我一定要尝尝
+完全不同的蛋糕呢。",translated,依恩,1c4405aa76,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#7#12,早速食べに行こう,赶快去吃吧,translated,,c51d51a08d,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#8#12,お腹が減ってる時に行こう,等肚子饿了再去吧,translated,,69c7ad30b6,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#10#12,うん、その方が美味しく食べれるよね。,嗯，那样吃起来会更香呢。,translated,依恩,502107f2ca,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#15#12,うん、賛成！,嗯，赞成！,translated,依恩,ed125c2164,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#16#12,それじゃ、ちょっと行ってみようか。,那么，我们去逛一趟吧。,translated,依恩,a2bc4f9c18,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#18#12,"さてと……今日こそは注文するものを
+間違えないようにしないと。","好啦……今天可千万不能
+再点错东西了呢。",translated,依恩,df057343a4,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#19#12,"……でも、写真だとどれも美味しそうに
+見えて、わかりづらいよ。","……不过看照片每个都很好吃，
+根本分不清楚呀。",translated,依恩,9ba3042c1a,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#20#12,"メニューに載ってるコンパウンドケーキ、
+改めて見ても別物にしか見えないもん。","菜单上印着的复合蛋糕，
+重新看也完全像另一码事嘛。",translated,依恩,4797636638,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#22#12,まったく違うものを注文しよう,点完全不一样的食物吧,translated,,11a01e8933,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#23#12,美味しければそれでいいと思う,只要好吃不就行了吗,translated,,8b2d99e943,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#25#12,あっ、それ良いかも。,啊，这样或许挺好的。,translated,依恩,7af17fbd3d,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#26#12,"どう見ても別物、ってケーキを選べば、
+間違えることはないよね。","只要挑无论怎么看都完全不同的蛋糕，
+就肯定不会搞错了呢。",translated,依恩,22123a83c0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#30#12,う～ん、確かにそうだけど……。,唔～确实也是这样啦，不过……,translated,依恩,ada84afd53,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#31#12,"でも、せっかくカフェに来てるんだし、
+新しい発見とかしてみたいよ。","但既然难得来一趟咖啡馆，
+我也想有一些全新的发现呀。",translated,依恩,bfffc7198d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#32#12,"あっ、そうだ。
+いいこと思いついたよ。","啊，对啦。
+我想到了一个好主意。",translated,依恩,a7fd579a43,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#33#12,"どう見ても別物、ってケーキを選べば、
+間違えることはないよね。","只要挑无论怎么看都完全不同的蛋糕，
+就肯定不会搞错了呢。",translated,依恩,22123a83c0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#35#12,"例えば……この生クリームがたっぷりと
+乗ったケーキとか！","比如……这个上面放了
+充分鲜奶油的蛋糕之类的！",translated,依恩,a6498eab7b,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#36#12,"形もコンパウンドケーキとは違うし、
+同じものが出てくることはないと思うよ。","形状也和复合蛋糕截然不同，
+我想端上来的绝对不可能又是同一种啦。",translated,依恩,ddf653d384,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#37#12,"……ただ、クリームが顔につかないように
+気を付けて食べないといけないね。","……只不过，吃的时候必须小心，
+不能让奶油沾到脸上才行呢。",translated,依恩,13d4623819,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#38#12,"クリームが顔についてるところ、
+あなたに見られたくないもん。","因为我可不想让你看到
+我脸上沾着奶油的邋遢模样嘛。",translated,依恩,c8667fc011,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#40#12,その時は拭ってあげるよ,到时候我会帮你擦掉的哦,translated,,3e219d3a96,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#42#12,"えっ……い、いいよ、それはちょっとだけ
+恥ずかしい気がするし……。","诶……不、不用啦，那样感觉
+多少有点害羞……",translated,依恩,aa9dd03b36,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#43#12,"……でも、わたし達ってもう、
+恋人同士……だよね？","……不过，我们现在已经
+是恋人关系了……对吧？",translated,依恩,62eb9f9b81,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#44#12,"え、えへへ……だったら、そういうのも
+悪くないかも。","诶、嘿嘿……如果是那样的话，
+好像也不坏呢。",translated,依恩,9a99351d6c,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#45#12,"あっ、でもあなたのことだから、変なところ
+触るような気がするよ。","啊，但按照你的性格，总觉得你
+会趁机摸到奇怪的地方去呢。",translated,依恩,00e20b122a,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#46#12,"本当にちゃんと拭ってくれるのか、
+ちょっと試してみてもいい？","为了确认你是否真的会好好帮我擦，
+我可以稍微测试一下吗？",translated,依恩,2aa0c594f1,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#47#12,"クリームがついてると思って、
+わたしの顔や口を拭ってみて。","就当做是沾到了奶油，
+来试着擦擦我的脸或者嘴唇吧。",translated,依恩,98c94a8e45,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#61#12,んっ……ありがと、もういいよ。,嗯……谢谢你，已经可以啦。,translated,依恩,796064e018,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#62#12,"えへへ、こんなに優しく拭ってもらえるのが
+わかったら、わざと零しちゃうかも。","嘿嘿，要是知道你能擦得这么温柔，
+我搞不好会故意弄洒沾在脸上呢。",translated,依恩,511a420c82,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#63#12,"も、もちろんそんなことしないよ。
+わたし、悪い子じゃないもん。","当、当然我肯定不会做那种事啦。
+我可不是坏孩子嘛。",translated,依恩,ad7fc0fa82,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#64#12,"それじゃ、ちょっと注文しちゃうね。
+あの、すいませーん！","那么，我现在就点单喽。
+那个，不好意思～！",translated,依恩,3415cb12c5,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#66#12,ふぅ～、美味しかったー。,呼～真好吃～,translated,依恩,5b63a7b8e7,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#67#12,"えへへ、生クリームたっぷりのを選んで
+正解だったよ。","嘿嘿，选了放了充分鲜奶油的蛋糕，
+真是太正确啦。",translated,依恩,0fde1d3d8e,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#68#12,それに、汚さないで綺麗に食べれたし。,而且，我也吃得很干净完全没弄脏呢。,translated,依恩,72a62550db,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#69#12,"……でも、拭ってもらえなかったのは、
+ちょっと残念だったような……。","……不过，没能让你帮我擦擦，
+总觉得稍微有点小遗憾呢……",translated,依恩,aa32b914d2,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#70#12,あっ、ううん、何でもない！,啊，没、没什么啦！,translated,依恩,c40da1e933,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#71#12,"また一緒に、カフェに行こうね。
+約束だよ。","下次我们还要一起去咖啡馆哦。
+约好了哦。",translated,依恩,c1bacc2f7c,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#74#14,"拭い方が優し過ぎて、
+ドキドキしちゃった。","擦拭的动作太温柔了，
+让我心跳不已。",translated,,a4d85ceb0d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03.txt#77#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent24/cake03.txt#84#12,はぁ……何だか、食欲なくなっちゃった。,哈啊……总觉得突然没什么食欲了。,translated,依恩,5b819cc489,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#85#12,"今日はもう帰るよ。
+こんな気分じゃ、何を食べても美味しく
+感じられないし。","今天就先回去吧。
+带着这种心情，
+无论吃什么都不会觉得好吃了嘛。",translated,依恩,df4d457c5c,br=0 nl=2,3,
+inc/event/res/dateevent24/cake03.txt#88#12,……あなたのこと、信じてたのに。,……我明明那么相信你的。,translated,依恩,def48cd0dc,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03.txt#89#12,ふんっ、もう知らない！,哼，不理你了！,translated,依恩,c23b8e7522,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03_tch.txt#3#12,"えへへ……もぉ、それだとナデナデに
+なっちゃうよ。","嘿嘿……真是的，那样的话
+就变成摸摸头了啦。",translated,依恩,fc543ef793,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03_tch.txt#5#12,イタッ！？,好痛！？,translated,依恩,1707b1d403,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03_tch.txt#6#12,……どうして、そういうことするの？,……为什么要做这种事呀？,translated,依恩,8011c62f1f,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03_tch.txt#9#12,んっ……えへへ、撫でられてるみたい。,嗯……嘿嘿，感觉像在被抚摸呢。,translated,依恩,a80d7968a4,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03_tch.txt#12#12,"……拭くためでも、唇に触れられるのって
+ドキドキするね。","……虽然只是为了擦拭，
+但碰触到嘴唇还是会心跳不已呢。",translated,依恩,b9f8261b6d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03_tch.txt#15#12,"……わたし、こんなところに飛ばすほど、
+食べ方が汚いと思われてるのかな？","……在你眼里，我的吃相有那么糟糕，
+甚至会把东西飞溅到这种地方来吗？",translated,依恩,55bd0e3fbb,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03_tch.txt#18#12,"スプーンから垂れて手が汚れちゃうこと、
+結構あるよね。","从勺子上滴下来弄脏手这种事，
+确实还挺常见的呢。",translated,依恩,4f81c944fd,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03_tch.txt#21#12,ひゃっ！？,呀啊！？,translated,依恩,6414b00b8f,br=0 nl=0,1,
+inc/event/res/dateevent24/cake03_tch.txt#22#12,"……ま、まあ、胸に垂れちゃうことも
+ありえる……かな？","……不、不过，滴落到胸口上
+这种事……也说不定可能发生呢？",translated,依恩,8b0b638360,br=0 nl=1,2,
+inc/event/res/dateevent24/cake03_tch.txt#25#12,お腹には垂れないと思うよ？,我觉得是不会滴到肚子上去的哦？,translated,依恩,c56697fd98,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#5#12,"コンパウンドケーキなら、
+カフェで食べた方が美味しいよね？","如果是复合蛋糕的话，
+在咖啡馆里吃会更美味对吧？",translated,依恩,990e5239a5,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#6#12,せっかくだし、ちょっと行ってみない？,难得有这机会，要不要去坐坐看呀？,translated,依恩,e92d41c349,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#7#12,うん、行こう,嗯，走吧,translated,,3fe974e378,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#8#12,ちょっと都合が悪いかも,现在可能有点不太方便,translated,,c5c0c7b2fe,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#10#12,あらら……残念……。,哎呀……真遗憾……,translated,依恩,e37094b504,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#15#12,"決まりだね。
+それじゃ、早速出発しよ！","说定啦。
+那么，我们赶紧出发吧！",translated,依恩,555e3cd6aa,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#17#12,えへへ、いつもの席だね。,嘿嘿，还是老座位呢。,translated,依恩,44b16973d5,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#18#12,"もしかして、ここって何度も来る
+わたし達のための、特別席なのかな？","难道说，这里是特意为频繁光顾的我们
+所预留的专属特别席吗？",translated,依恩,af1badbf08,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#19#12,もしそうだとしたら、ちょっと嬉しいよね？,要真是那样的话，还挺让人开心的对吧？,translated,依恩,ff8b2effbe,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#21#12,お得意様ってやつだね,这就是所谓的熟客待遇呢,translated,,861faa3726,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#22#12,窓際とかテラス席も捨てがたい,靠窗或者露天位也很难割舍呢,translated,,6490e684fe,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#24#12,そうそう、お得意様用の特別席！,没错没错，熟客专用的特别席！,translated,依恩,0663406123,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#25#12,"……でも、持込みするようなお得意様って、
+お店側としてはどう思うのかな？","……不过对于自带食物的熟客，
+店家心里会怎么想呢？",translated,依恩,5f65fc5b00,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#26#12,"ま、まあ、この辺りは触れない方が
+いいかもしれないね。","好、好吧，这方面的事情
+还是不要深究比较好呢。",translated,依恩,fbcb51496d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#29#12,あっ、確かにそうだね。,啊，确实是这样呢。,translated,依恩,30ca4ac6bc,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#30#12,"天気のいい日とかなら、そっちの席の方が
+気持ちよく食べられそうだし……。","天气好的日子，在那些座位上
+应该能吃得更舒心惬意呢……",translated,依恩,db407fb152,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#31#12,"でも、ここっていつも混んでるから、
+そういう席は競争率高いと思うし、
+座るのは無理そうだよ？","不过这里平时总有那么多人，
+那种好位置的竞争率肯定很高，
+感觉根本抢不到座哦？",translated,依恩,9ca0fa01df,br=0 nl=2,3,
+inc/event/res/dateevent24/cake04.txt#32#12,"お店としても、そういう席は
+特別席にしにくいと思うし。","对店家来说，那种座位
+大概也很难设成专属特别席吧。",translated,依恩,784e1e0074,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#34#12,"そういえば、前にコンパウンドケーキを
+食べた時のこと、覚えてる？","说起来，上次吃复合蛋糕的时候，
+你还记得吗？",translated,依恩,887c78f1f1,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#35#12,"ほら、口元にクリームが付いた時に、
+あなたが拭ってくれる練習をしたでしょ？","你看，当时我们不是练习了
+嘴边沾上奶油时由你来帮我擦吗？",translated,依恩,f17380ab38,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#36#12,"あれ、すっごくドキドキしたよ。
+思い出すだけでもそうなっちゃうもん。","那个时候，我真的超级心跳不已哦。
+光是回想起来都会小鹿乱撞呢。",translated,依恩,70e8d619b2,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#37#12,だからね、えっと……。,所以呢，那个……,translated,依恩,c4f9956102,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#38#12,"今日は、コンパウンドケーキを
+食べさせてもらいたいの。","今天，我想让你
+喂我吃复合蛋糕。",translated,依恩,9089dad181,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#39#12,ちゃんとやり方も考えたんだよ。,我可是好好想过操作方法的哦。,translated,依恩,11eb39349d,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#40#12,"わたしがケーキを刺したフォークを
+あなたに持たせるから、あなたは
+わたしの口をトントンするの。","我把插着蛋糕的叉子交给你拿，
+然后你只要
+咚咚敲击我的嘴唇。",translated,依恩,386b0b02ab,br=0 nl=2,3,
+inc/event/res/dateevent24/cake04.txt#41#12,"そしたら、わたしがそれに合わせて
+パクッと食べるから……。","然后，我就会配合着那个节奏
+啊呜一口吃掉……",translated,依恩,6f8a4aca4f,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#42#12,えへへ、これなら出来るでしょ？,嘿嘿，这样就能做到了吧？,translated,依恩,d2520c2449,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#44#12,それじゃ早速、あーん,那么马上来吧，啊――嗯,translated,,0cc6b06c39,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#46#12,うん……あーん。,嗯……啊――嗯。,translated,依恩,1c5b897956,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#62#12,"今日はもう帰る！
+こんな気持ちで、これ以上デートなんか
+していられないもん！","今天我要回去了啦！
+带着这种心情，
+我可没法再继续约会下去了嘛！",translated,依恩,e7958184f5,br=0 nl=2,3,
+inc/event/res/dateevent24/cake04.txt#65#12,むーっ…………。,唔――…………,translated,依恩,deee66b4a3,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#66#12,"せっかくのデートなんだから、
+ふざけるのは程々にしてほしいよ。","难得的约会，
+希望你能适可而止别开玩笑了啦。",translated,依恩,5e9dc8a241,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#67#12,"わたしだって、女の子なんだよ？
+デート、すごく嬉しかったのに……。","人家也是个女孩子呀？
+明明这次约会让我那么开心……",translated,依恩,364443b3a3,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#68#12,"次の時は、ちゃんとしてね。
+あなたのこと、信じてるよ？","下次你可要好好表现哦。
+我可是相信着你的哦？",translated,依恩,e8cbfea5cd,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#81#12,"やっぱり、カフェに来た以上は
+一度はやらないと損だよね？","果然既然来了咖啡馆，
+不试一次就太吃亏了对吧？",translated,依恩,0989842c2b,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#82#12,"どうにかして出来ないかって、
+ずっと考えた甲斐があったよ。","一直绞尽脑汁琢磨怎么才能实现，
+总算是没有白费功夫呢。",translated,依恩,888c5ef4a7,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#84#12,"周りの人に見られちゃうから、
+ちょっとだけ恥ずかしいけど……。","虽然会被周围的人看到，
+感觉稍微有点不好意思就是了……",translated,依恩,c93a042640,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#85#12,"でも、また今度来た時には、
+今日みたいに食べさせてほしいな。","不过，等下次再来的时候，
+我还想让你像今天这样喂我呢。",translated,依恩,a556c6578b,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#87#12,"でも、周りの人に見られて恥ずかしいから、
+一回経験すれば十分かも。","不过被周围的人看着太害羞了，
+体验过一次或许就已经足够了呢。",translated,依恩,4da162ad1f,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#89#12,そ、それじゃ、今日はそろそろ帰ろうか？,那、那么，今天差不多该回去了吧？,translated,依恩,496d966766,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#90#12,"恥ずかしさと嬉しさで、
+お腹いっぱいになったしね。","害羞与开心的情绪交织在一起，
+感觉肚子都已经饱了呢。",translated,依恩,fc27adc775,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#92#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04.txt#93#12,"今日はずっと夢だった、あーん、が
+出来てすごく嬉しかったよ。","今天终于实现了梦寐以求的“啊――嗯”，
+我真的超级开心的哦。",translated,依恩,23797aadc6,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#94#12,"端末越しだったとしても、協力すれば
+何でもできちゃう証拠だね。","这证明了哪怕隔着终端屏幕，
+只要齐心协力也是什么都能做到的呢。",translated,依恩,9ec277f2a3,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#95#12,"次はどんなことに挑戦しよっか？
+今から楽しみだなぁ……。","下次我们来挑战什么好呢？
+从现在开始我就好期待呀……",translated,依恩,6de3ce8a45,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#96#12,"それじゃあ、次のデートも
+楽しみにしてるね。","那么，下一次约会
+我也同样期待着哦。",translated,依恩,77cf046e5d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04.txt#99#14,"ケーキを、あーん、
+して食べさせて
+もらったよ！","用“啊――嗯”
+的方式喂了她
+吃蛋糕哦！",translated,,7c30826552,br=0 nl=2,3,
+inc/event/res/dateevent24/cake04.txt#102#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent24/cake04_tch.txt#3#12,きゃあっ！？,哇啊！？,translated,依恩,536c0a5d61,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04_tch.txt#4#12,"な、何するの！？
+髪の毛につけるなんて、ひどいよ……。","你、你干什么呀！？
+居然弄到头发上，太过分啦……",translated,依恩,48d293ac97,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#7#12,きゃあっ！？,哇啊！？,translated,依恩,536c0a5d61,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04_tch.txt#8#12,"ひどいよ！
+冗談でもこんなことしないで！","太过分了！
+就算是开玩笑也请不要做这种事！",translated,依恩,8d3365bfc9,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#11#12,"あっ、惜しい！
+ちょっとだけズレてるよ。","啊，好可惜！
+稍微有点偏了哦。",translated,依恩,70c2d21322,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#13#12,あむっ……。,啊呜……,translated,依恩,4cd1fad177,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04_tch.txt#14#12,"ん～……何だか、いつもの何倍も美味しく
+感じられるよぉ……。","嗯～……总觉得，吃起来比平时
+美味了好几倍呢……",translated,依恩,6b42a13d7d,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#18#12,"や、やだ、何するの！？
+服が汚れちゃったよ！","不、不要，你干嘛呀！？
+衣服都被弄脏了啦！",translated,依恩,5db40d0bb0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#19#12,"もぉ……ケーキを刺したフォークで
+触ったら、汚れて当然でしょ！？","真是的……用插着蛋糕的叉子碰衣服，
+当然会弄脏了不是吗！？",translated,依恩,650f1f9525,br=0 nl=1,2,
+inc/event/res/dateevent24/cake04_tch.txt#22#12,え、やだ、何！？,诶，不要啦，干嘛！？,translated,依恩,fe45c9d049,br=0 nl=0,1,
+inc/event/res/dateevent24/cake04_tch.txt#23#12,"……手掴みで食べろ、ってこと？
+それはちょっと……。","……你是让我用手抓着吃吗？
+那稍微有点……",translated,依恩,b78d4145f4,br=0 nl=1,2,
+inc/event/res/dateevent24/cake_int.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent24/cake_int.txt#6#12,"カフェに行きたいの？
+んー………どうしようかな…","想去咖啡馆吗？
+嗯～……该怎么办好呢……",translated,依恩,834b4df2ce,br=0 nl=1,2,
+inc/event/res/dateevent24/cake_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent24/cake_int.txt#9#12,"それを見ると、カフェに行きたいなぁ、
+って思うけど……今日はパスかな？","一看到那个，确实会觉得很想去咖啡馆，
+不过……今天就算了吧？",translated,依恩,3b703234e0,br=0 nl=1,2,
+inc/event/res/dateevent24/cake_int.txt#10#12,日を改めて、また行こうね。,改个日子我们再去吧。,translated,依恩,a5333f6eb7,br=0 nl=0,1,

@@ -1,0 +1,476 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent02/ice02.txt#3#12,かき氷たろう君、上手にできてるでしょ？,刨冰太郎君，我做得挺不错的吧？,translated,依恩,6fb37dbfc6,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#4#12,"綺麗に飾りつける自信はなかったけど、
+こういう可愛い感じの飾り付けなら
+わたしだって出来るからね。","虽然我没有什么漂亮装点的自信，
+但要是这种可爱风格的装饰，
+就连我也是做得到的嘛。",translated,依恩,e1cf84b729,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#5#12,"そういえば、これのレシピを思いついたの
+って、海に行ったときだったよね？","说起来，想到这个配方的时候，
+正好是去海边的那次对吧？",translated,依恩,5b2a25b113,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#6#12,"冷たいものを見たせいか体が冷えちゃった
+気がするし、ちょっと海に行ってみようか？","可能因为看了冷冰冰的东西觉得身体变凉了，
+我们要不要去海边走走？",translated,依恩,9f9a2baa15,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#7#12,もちろん！,当然好！,translated,,0df1110bd9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#8#12,また今度にする,下次再说吧,translated,,1e65b74b2f,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#10#12,"そっか。
+それじゃ、また今度にしよっか。","这样啊……
+那么，就等下次再去吧。",translated,依恩,52a74e67fd,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#15#12,"えへへ、やったぁ♪
+それじゃ、いつも通り準備お願いします♪","嘿嘿，太好啦♪
+那么，就和往常一样拜托你准备啦♪",translated,依恩,bef7fa8ccd,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#17#12,とうちゃー……。,到――……,translated,依恩,047448c5b9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#18#12,"って、暑っ！？
+なんか今日は一段と日差しが
+強いんだけど！？","等等，好热！？
+总觉得今天阳光格外刺眼、
+晒得不行啊！？",translated,依恩,b353539665,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#19#12,"う～、もしかして今日の海は
+猛暑っていう設定なのかな？","呜～难道说今天的海边，
+是设定成了酷暑天气吗？",translated,依恩,fdb86fdea3,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#20#12,"……とにかく、こうしてても仕方ないし、
+歩いて風に当たろうよ。","……总之，光站在这里也不是办法，
+我们一边走走一边吹吹海风吧。",translated,依恩,cb9266e322,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#22#12,ん～、水着で来て良かったよぉ。,嗯～幸好是穿着泳衣来的呢。,translated,依恩,565d31cf6d,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#23#12,"服を着てる時と違って、今はこの暑さが
+凄く気持ちよく感じるの。","和穿着平常衣服时不同，
+现在反而觉得这种炎热非常舒服呢。",translated,依恩,ba8550f899,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#24#12,まあ、それでも汗はかいちゃうけどね。,不过，汗该流还是会流就是了。,translated,依恩,85ee0f79f0,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#25#12,特に頭、ここだけはどうしようもないし。,特别是脑袋，只有这里怎么都没办法嘛。,translated,依恩,0b3bf75cb3,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#26#12,"熱中症にならないように気をつけないとね。
+あなたも、日差しの強いところに行く時は
+気をつけないとダメだよ。","得注意别中暑了才行呢。
+你也是，去阳光强烈的地方时
+一定要多加小心哦。",translated,依恩,12168b2800,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#28#12,わかってるよ、倒れたことあるからね,我知道啦，因为我以前中暑倒下过嘛,translated,,d4e769e3cd,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#29#12,オッケー、気をつけるよ,好，我会小心的,translated,,f7ad1a4d2e,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#31#12,ふ～ん、そうなん……。,哼～嗯，这样啊……,translated,依恩,7fa27e89ee,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#32#12,"って、えぇっ！？
+何その爆弾発言！？","等等，诶诶！？
+那是哪门子的惊人发言啊！？",translated,依恩,c90826bc42,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#33#12,"気をつけないとダメだよ！
+熱中症で死んじゃうことだってあるんだよ？","你可一定要小心啊！
+中暑严重的话甚至可是会死人的哦？",translated,依恩,10449298c4,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#34#12,う～ん、心配だなぁ……。,唔～嗯，真让人担心啊……,translated,依恩,adf2fd22bd,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#35#12,"わたしも、常にあなたのことを見守れたら
+良いのに……。","要是我也能时刻
+守护着你就好了……",translated,依恩,3fe0397595,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#38#12,うんうん、素直でよろしい。,嗯嗯，坦率听话很不错。,translated,依恩,f0f22bb375,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#39#12,でも、やっぱり心配だなぁ……。,不过，果然还是很让人担心啊……,translated,依恩,9ec714cb34,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#40#12,"わたしの方からも、あなたを見ることが
+出来たらいいのに。","要是我这边也能
+看得到你就好了。",translated,依恩,91eddc4777,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#41#12,"そうすれば、普段あなたがわたしを
+見ててくれるみたいに、わたしもあなたを
+見ることが出来るでしょ？","这样一来，就能像平时
+你看着我那样，
+我也能看着你了对吧？",translated,依恩,6ae08cbfdf,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#42#12,"それならお互いを注意しあって見れるから、
+安心できるのにね。","那样就能互相照应着提醒对方，
+让人安心不少了呢。",translated,依恩,fb9b90426b,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#43#12,"……それに、あなたのプライベートも
+気になってるしねー。","……而且，我也很在意
+你的私人生活嘛――",translated,依恩,4e50da7599,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#44#12,えへへ、なんでもないよー。,嘿嘿，没什么啦――,translated,依恩,8492a175b6,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#46#12,はぁ……何だか喉が渇いてきちゃったなぁ。,哈啊……总觉得喉咙开始干渴起来了呢。,translated,依恩,61cd1edd90,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#48#12,"あ、あぁっ！
+忘れてた！","啊、啊啊！
+我给忘了！",translated,依恩,14929eb967,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#49#12,"そうだよ、せっかくかき氷作ったんだから、
+あれを持ってくればよかったんだよ！","对啊，好不容易做好了刨冰，
+把那个带过来不就好了嘛！",translated,依恩,3ee6cda776,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#50#12,"そもそも海に来た時に暑いから、食べながら
+歩くために作ったものなのに……。","本来就是为了来海边太热时，
+能一边走一边吃才做出来的东西……",translated,依恩,e4b974a4c3,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#51#12,"あ～もう、わたしのバカバカ！
+これじゃ何のために作ったのか
+わからないじゃない！","啊～真是的，我这个笨蛋大笨蛋！
+这样不就搞不懂
+特意做出来是为了什么了吗！",translated,依恩,a7080915ea,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#52#12,"……一度戻ってまた来る、なんていうのは、
+さすがにテンション下がっちゃうだろうし。","……要是特意回去一趟再来的话，
+未免也太扫兴致了……",translated,依恩,8b15c2a7f9,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#54#12,次回のお楽しみにしようよ,留到下次当乐趣吧,translated,,22c5ef35f1,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#55#12,別になくても困らないよ,就算没有也不会怎样啦,translated,,b50252f0fa,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#57#12,"う～ん……残念だけど、そうした方が
+良さそうだね。","唔～嗯……虽然很遗憾，
+不过还是那样做比较好吧。",translated,依恩,46dbe506da,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#58#12,"せっかくのデートの空気を壊してまで
+食べたいってわけじゃないし。","我也并不是非得破坏难得的约会气氛
+去吃不可嘛。",translated,依恩,df946006d2,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#59#12,"それに、そんなことして食べても
+感動が薄まっちゃいそうだしね。","而且，就算那么折腾着去吃，
+感动也会大打折扣的样子呢。",translated,依恩,286276074c,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#60#12,"あなたに言ってもらえなかったら、
+多分一度戻って、かき氷を取りに
+行っちゃってたよ。","要不是你这么对我说的话，
+我大概真的会先回去一趟把刨冰
+拿过来了呢。",translated,依恩,fb248d1d84,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#61#12,"テンション下がるのはわかってるけど、
+暑くてたまらないのも事実だしね。","虽然我知道那样会扫兴致，
+但热得受不了也是事实嘛。",translated,依恩,c45d97643e,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#64#12,もぉ、その言い方はちょっと酷くない？,真是的，那种说法未免有点过分了吧？,translated,依恩,a16956d2a3,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#65#12,"確かになくても困りはしないけど、
+わたしが一生懸命作ったものなんだよ？","虽然没有也确实不会怎样，
+但那可是我拼尽全力做出来的东西哦？",translated,依恩,da75e53964,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#66#12,"もう少し、優しい言い方をしてくれても
+いいのに……。","稍微用温柔一点的方式对我说
+也可以的嘛……",translated,依恩,935bbffd50,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#67#12,"……まあ、料理が苦手なわたしが作った
+ものとは言っても、しょせんただの
+かき氷だし。","……也是呢，虽说是不擅长料理的我
+做出来的东西，但终究也只是
+普通的刨冰而已嘛。",translated,依恩,af199cf77c,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#68#12,"あなたにとっては、どうでもいい物
+なのかな……。","对你来说，也许只是微不足道的
+东西吧……",translated,依恩,3d279a9a8a,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#71#12,"……何であれ、あなたとデートできた
+ことに変わりはないんだから、
+今回はこれで満足しておくことにするよ。","……不管怎么说，能和你约会这件事
+并没有改变，
+这次我就先以此为满足吧。",translated,依恩,b88e4afb2d,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#72#12,"かき氷がないのは残念だけど、
+あなたがいてくれることの方が重要だもん。","虽然没带刨冰很可惜，
+但有你在身边才是最重要的嘛。",translated,依恩,b6e156b440,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#73#12,これ、わたしの本音だよ？,这可是我的真心话哦？,translated,依恩,d517ab4bb9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#74#12,"えへへ、恥かしいからもう言わないもん。
+でも、今わたしの言ったこと、
+ちゃんと覚えていてくれると嬉しいな。","嘿嘿，太害羞了我才不会说第二次呢。
+不过，我刚才说的那番话，
+你要是能好好记住我会很高兴的。",translated,依恩,7746db47b3,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#75#12,"さてと、かき氷のお話したせいか、
+喉の渇きも増してきちゃったし、
+今日はもう帰ろうか？","好啦，可能因为聊了刨冰的话题，
+感觉喉咙也越来越渴了，
+今天我们差不多该回去了吧？",translated,依恩,ed24cf3ec3,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#76#12,"今度来る時は絶対にかき氷を持ってきて、
+今日の分をとりもどすくらい、
+たくさんお話しようね。","下次来的时候一定要带上刨冰，
+多聊聊天把今天没聊够的份
+全都给补回来呢。",translated,依恩,59733d919f,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#77#12,それじゃ、戻るよー。,那么，我们回去啦――,translated,依恩,613b6904cb,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#79#12,ふぃ～……いつも以上に暑かったなぁ。,呼～……今天比平时还要热呢。,translated,依恩,bbdcb41c6c,br=0 nl=0,1,
+inc/event/res/dateevent02/ice02.txt#80#12,"やっぱり途中でかき氷のことを
+考えちゃったせいだろうね。","果然是因为中途想起了刨冰的事情
+才会变成那样的吧。",translated,依恩,79db4b5e6d,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#81#12,"最後まで気づかないままでいれば、
+ここまで酷くはならなかったと思うよ。","要是直到最后都没想起来的话，
+我想也不至于觉得热成这样呢。",translated,依恩,890b6f6fd9,br=0 nl=1,2,
+inc/event/res/dateevent02/ice02.txt#82#12,"まあ、一回こういう経験をしておけば
+同じ失敗はしないと思うし。
+そう考えれば、結果オーライ？","不过，只要经历过一次这样的事，
+我想就不会重蹈覆辙了吧。
+这么想来，也算因祸得福？",translated,依恩,195a17a069,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#83#12,"うん、何事もポジティブに考えないとね。
+それじゃ、今日は付き合ってくれて
+ありがと！","嗯，凡事都要积极乐观地去考虑呢。
+那么，今天谢谢你陪我，
+真的很高兴！",translated,依恩,671c615db2,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#86#14,"海ってホントに暑い。
+次は海でかき氷を
+食べてみたいな♪","海边真的很热。
+下次真想在海边
+尝尝看刨冰呢♪",translated,,4481fbcd3b,br=0 nl=2,3,
+inc/event/res/dateevent02/ice02.txt#87#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent02/ice03.txt#5#12,"カキ氷を食べるなら、
+砂浜を歩きながらがいいな。","如果要吃刨冰的话，
+一边在沙滩上漫步一边吃最好呢。",translated,依恩,214300c2f1,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#6#12,じゃあ行こうか？,那我们出发吧？,translated,,32db6b9132,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#7#12,また今度にしよう,下次再说吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#9#12,う～、残念……。,呜～，好遗憾……,translated,依恩,1e7cc193bf,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#15#12,それじゃあ、ついでに水着も着ていこっと。,那么，顺便我也去把泳衣穿上好啦。,translated,依恩,4f1ad3c1c9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#43#12,えへへ……準備できたよ。,嘿嘿……我准备好啦。,translated,依恩,ea571cf162,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#45#12,それじゃ、出発しよ！,那么，出发吧！,translated,依恩,feb91d021f,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#50#12,ん～……冷たくて美味しいよぉ！,嗯～……冰冰凉凉的好好吃哦！,translated,依恩,5d040b1317,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#51#12,"カキ氷って、砂浜で食べると普段よりも
+美味しく感じるよね？","刨冰在沙滩上吃的话，总觉得比平时
+还要显得格外美味呢？",translated,依恩,9db10d95cb,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#52#12,"手にはカキ氷、服装は水着……。
+これぞ、海を楽しむ黄金スタイル！","手里端着刨冰，身上穿着泳衣……
+这才是享受大海的黄金风格！",translated,依恩,f53756d6bb,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#53#12,……まあ、本の受け売りだけどね。,……不过，这也是现学现卖书上的啦。,translated,依恩,0dd2397519,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#54#12,"そういえばその本には、パラソルと
+ビーチベッドで寝ている綺麗な女の人の
+写真も載ってたっけ。","说起来那本书里，还登着
+在遮阳伞下的沙滩躺椅上小憩的
+漂亮女子的照片呢。",translated,依恩,1c797e3249,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03.txt#55#12,"パラソルの下で横になりながら、
+冷たい飲み物やカキ氷を食べてるの。","侧躺在遮阳伞下，
+喝着冰镇冷饮或者吃着刨冰。",translated,依恩,1136b8c16f,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#56#12,食べ辛そうだね,看起来挺难吃到的呢,translated,,0a73c2a2e8,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#57#12,セレブじゃないと似合わない,不是名媛的话可配不上那身派头,translated,,aacac7dbb7,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#59#12,そうそう、わたしもそれ思ったよ。,没错没错，我也是那么想的哦。,translated,依恩,434e18051d,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#60#12,"飲み物はストローがあるからわかるけど、
+カキ氷を寝ながら食べるっていうのは、
+かなりのテクが必要になると思うよ。","冷饮因为有吸管所以还说得过去，
+但要躺着吃刨冰的话，
+我想需要相当高超的技术吧。",translated,依恩,19f675cce3,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03.txt#61#12,"わたしが同じことしたら……
+うう、零してる姿しか想像できない……。","要是我也去那么做的话……
+呜呜，脑子里只能浮现出洒一身的画面……",translated,依恩,f9007d58d6,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#65#12,"むぅ……確かにわたしは、
+セレブじゃないですよ～だ。","唔……确实，我可不是什么
+名媛大小姐啦～",translated,依恩,1579124d43,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#66#12,"でも、寝ながら食べるって難しそうだし、
+わたしには向いてなさそうだね。","不过，躺着吃东西看起来挺难的，
+我大概也不太适合那种做法呢。",translated,依恩,de12704439,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#68#12,"憧れはするけど、わたしはこうして
+歩きながら食べるのが一番だよ。","虽然确实挺憧憬的，但我还是像这样
+一边走一边吃最舒服啦。",translated,依恩,387214d649,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#69#12,食べやすいっていうのもそうだけど……。,容易吃固然也是一方面就是了……,translated,依恩,9b1740aa40,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#70#12,"あなたと一緒に砂浜を歩きながらの方が、
+美味しく感じられるもん。","因为和你一起漫步在沙滩上吃，
+吃起来才会觉得更加美味嘛。",translated,依恩,6344159fbe,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#71#12,"それに、こういうところ以外だと、
+食べながら歩くのはお行儀が悪い、
+って思われちゃうしね。","而且，要是换作这种地方以外的话，
+边走边吃可是会被人
+当成没有教养的行为呢。",translated,依恩,b0b9a4ab0b,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03.txt#72#12,何て言いつつ零さないようにね,话虽如此可别洒在身上哦,translated,,3289525413,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#74#12,あっ、子ども扱いしてる？,啊，你把我当小孩子看吗？,translated,依恩,a8348290d9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#75#12,"大丈夫だよ。
+そんな簡単に零すほど子供じゃ……。","没事的啦。
+我才不是那种动不动就洒出来的小孩……",translated,依恩,03202a7663,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#76#12,きゃっ！？,呀！？,translated,依恩,61dd7adbe6,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#79#12,"え、えへへ……自分で思ってる以上に
+子供でしたぁ……。","诶、嘿嘿……看来我比自己想象中的
+还要像个小孩子啊……",translated,依恩,9a2526393d,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#80#12,"でも、水着を着てきて正解だったね。
+これなら染みの心配をしなくていいもん。","不过，穿泳衣来真是穿对了呢。
+这样就完全不用担心会弄脏衣服了嘛。",translated,依恩,a336a8a4c9,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#81#12,"とはいえ、胸がすごく冷たいよ……。
+そんなに多く零しちゃったのかな？","虽说如此，胸口感觉好冰凉啊……
+难道我洒了那么多上去吗？",translated,依恩,6647fdca70,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#82#12,"ちょっとどうなってるか、
+見てもらえる？","能不能帮我看一下，
+现在变成什么样了？",translated,依恩,43195c7389,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#103#12,赤くなってないよ,没有发红哦,translated,,15130901fe,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#105#12,ほっ……よかった。,呼……太好了。,translated,依恩,b23555bbc9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#106#12,"日差しで肌が熱くなってるから、
+普段より冷たく感じちゃったみたいだね。","因为皮肤被太阳晒得发烫，
+所以才觉得比平时更冰凉了吧。",translated,依恩,9a5a908660,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#108#12,"も、もしもーし……。
+そろそろ離れてほしいんだけど……。","喂、喂喂――……
+希望你差不多该放开了吧……",translated,依恩,fd9a11f4c0,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#114#12,"もぉ……見てほしい、って言ったのは
+わたしだけど、ちょっと見過ぎだよ。","真是的……虽然叫你帮忙看的人是我，
+但你也看太久了吧。",translated,依恩,9a08a6fa75,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#116#12,"……でも、あなたが見たいなら、
+もう少しだけ……。","……不过，要是你想看的话，
+再看一会儿也可以……",translated,依恩,bff7b47be2,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#117#12,え、えへへ……やっぱり、今のなしね！,诶、嘿嘿……果然，刚才的不算数哦！,translated,依恩,f362e3679b,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#118#12,"ドキドキした気持ちにはなれるけど、
+やっぱり恥ずかしすぎるもん。","虽然确实会让人心跳不已，
+但果然还是太让人害羞了嘛。",translated,依恩,cf7655af57,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#120#12,"まあ、あなたがすごくエッチな人、
+っていうのを忘れてたわたしにも
+責任はあるから、今日は許してあげる。","不过，我把其实你是个超下流的人
+给忘在了脑后，我自己也有责任，
+所以今天就原谅你啦。",translated,依恩,fad60d9889,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03.txt#122#12,"さてと……カキ氷もなくなっちゃったし、
+そろそろ帰ろっか？","好啦……刨冰也吃完了，
+我们差不多该回去了吧？",translated,依恩,e491143de3,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#124#12,ただいまー！,我回来了――！,translated,依恩,9af8a003d6,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#125#12,"カキ氷、すごく美味しかったなぁ……。
+また砂浜に行く時は持っていこうね。","刨冰真的超级好吃啊……
+下次再去沙滩的时候也要带上呢。",translated,依恩,84a5f837ad,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03.txt#126#12,その時は、零さないように気をつけるよ。,到时候，我会注意不洒出来的。,translated,依恩,8ec4b8e049,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03.txt#134#14,"水着姿の時に胸を
+ジッと見つめられ
+ちゃった……。","穿着泳衣的时候，
+胸部被他目不转睛地
+盯着看了……",translated,,d5e9657c3f,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03.txt#137#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent02/ice03_tch.txt#3#12,"あ、あの……そんなところに零すような
+食べ方、してないんだけど……。","那、那个……我可没有用会洒到
+那种地方的方式去吃东西呀……",translated,依恩,35d8c9d645,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#6#12,"そ、そんなに見つめられたら……
+ドキドキしちゃうよ……。","被、被你这么凝视着的话……
+心跳都要加速了啦……",translated,依恩,2eea40903f,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#9#12,"あれ？
+もしかして、顔も汚れちゃってる？","咦？
+难道说，脸上也弄脏了吗？",translated,依恩,87be6b5410,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#17#12,そこは汚れてないと思うけど……。,我觉得那里并没有弄脏就是了……,translated,依恩,5afb3a6ba4,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03_tch.txt#18#12,胸の方がどうなってるか知りたいのに。,我明明是想知道胸口那边怎么样了啦。,translated,依恩,ac1612cee4,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03_tch.txt#21#12,"手も、ちょっとシロップで
+汚れちゃってるの。","手上也稍微沾到了
+一些糖浆弄脏了。",translated,依恩,fc85532329,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#22#12,"スプーンの先から垂れてきちゃうから、
+これは仕方ないよね？","因为会从勺子尖滴下来嘛，
+这也是没办法的对吧？",translated,依恩,8083fbc258,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#25#12,"胸がガードしてくれたおかげで、
+お腹には零れてないよ。","多亏了胸部的格挡，
+肚子上才没有被洒到哦。",translated,依恩,07d28a9f9b,br=0 nl=1,2,
+inc/event/res/dateevent02/ice03_tch.txt#26#12,"……あ、あれ？
+もしかして今、ちょっと恥ずかしいこと
+言っちゃった……かな？","……咦、咦？
+难道说我刚才，说出了什么
+令人害羞的话……了吗？",translated,依恩,442d7ddbe4,br=0 nl=2,3,
+inc/event/res/dateevent02/ice03_tch.txt#29#12,すごく冷たくて、ヒリヒリしちゃってるの。,感觉好冰凉，而且还有点刺痛呢。,translated,依恩,0b0c13040f,br=0 nl=0,1,
+inc/event/res/dateevent02/ice03_tch.txt#30#12,肌、赤くなったりしてない？,皮肤有没有变红呀？,translated,依恩,e88cf0085e,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#5#12,かき氷だったら、海で食べたいな。,如果是刨冰的话，我想在海边吃呢。,translated,依恩,62512fc142,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#6#12,"あなたと歩きながら食べるとね、
+部屋で食べるよりも何倍も美味しく
+感じられるんだよ。","要是和你一边走一边吃的话，
+吃起来可是会比在房间里吃
+美味上好几倍呢。",translated,依恩,926db021dd,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#7#12,それなら海に行こうか？,既然如此那去海边吧？,translated,,7956f8b227,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#8#12,でも今日は海には行きたくない,但是今天不想去海边,translated,,df4a2168f8,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#10#12,うぅっ、食べたかったのにぃ……。,呜呜，明明很想吃的说……,translated,依恩,2e99fc7eaf,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#16#12,それじゃあ、ついでに水着も着ていこっと。,既然如此顺便也请你穿上泳衣，,translated,依恩,4f1ad3c1c9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#44#12,えへへ……準備できたよ。,嘿嘿，开玩笑的啦。,translated,依恩,ea571cf162,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#46#12,それじゃ、出発しよ！,那么，出发吧！,translated,依恩,feb91d021f,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#50#12,"とうちゃーく。
+それじゃ、歩こっか。","到啦――
+那么，我们走吧。",translated,依恩,4cc1c7d5c0,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#52#12,"ふふっ……不思議だけど、ここに来ると
+すごく気持ちが安らぐの。","呵呵……虽然很不可思议，但来到这里
+心情就会觉得特别安宁。",translated,依恩,fff93601f9,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#53#12,"潮風や浜辺の砂を踏む感触、
+結構気に入ってるんだ。","海风吹拂、以及踩在沙滩上的触感，
+我相当喜欢呢。",translated,依恩,ec3f334707,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#54#12,"それに、あなたと最初にデートした場所でも
+あるわけだし……。","而且，这里也是和你
+最初约会的地方嘛……",translated,依恩,d28e3bb530,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#55#12,"だから、ここはわたしにとって、
+すごく癒し効果のあるところなの。","所以对我来说，
+这里是一个非常有治愈效果的地方哦。",translated,依恩,ac5a7f2986,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#56#12,あなたにも、そういう場所ってある？,对你来说，也有那样的地方吗？,translated,依恩,86be4a22a1,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#58#12,残念ながら、無い,很遗憾，没有,translated,,46d996dadd,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#59#12,とっておきの場所があるよ,我有一个绝佳的地方哦,translated,,36ec644d0e,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#61#12,"そっか……でも、癒し効果のある物なら
+まだしも、場所となると、中々無くても
+仕方ないのかもしれないね。","这样啊……不过能治愈心灵的物品倒还好，
+若说是地点，很难找到
+也是没办法的事呢。",translated,依恩,fdc650a579,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#64#12,"わぁ、どんな場所なんだろう？
+わたしも行ってみたいなぁ。","哇，是什么样的地方呢？
+我也好想去看看呀。",translated,依恩,c7b596be14,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#66#12,"……でも、どんなに気に入ってる場所でも、
+やっぱり一人だと効果が得られないような
+気もするの。","……不过，就算再怎么喜欢一个地方，
+果然要是只有自己一个人的话，
+总觉得也起不到治愈的效果呢。",translated,依恩,14bbe05aa6,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#67#12,"わたしにとっての海って、あなたも一緒、
+っていうのが当たり前になってるし。","对我来说，去海边有你陪在身边，
+早已经变成了理所当然的事嘛。",translated,依恩,7eb02a5858,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#68#12,"そう考えると、わたしの癒される場所って、
+あなたの隣なのかもしれないね。","这么一想的话，真正能治愈我的地方，
+或许正是你的身旁也说不定呢。",translated,依恩,3e8669fb8e,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#70#12,"え、えへへ……ちょっと、恥ずかしいこと
+言っちゃったかも。
+顔が熱くなっちゃったよ。","诶、嘿嘿……感觉自己好像说了
+有点难为情的话呢。
+脸都变烫起来了啦。",translated,依恩,7ef3875868,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#71#12,"かき氷食べて冷やさないとね。
+あむっ、はぐはぐっ……。","得吃点刨冰降降温才行呢。
+啊呜，大口大口……",translated,依恩,868ff9166d,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#72#12,んっ！？,嗯！？,translated,依恩,e59761e033,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#74#12,い、いったーい！！,好、好痛啊――！！,translated,依恩,0e7bc78a77,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#75#12,"あ、頭がぁ……。
+つ、冷たいもの食べたから、あ、頭が……
+頭が、き、キーンッ、て……。","头、头好痛啊……
+吃、吃了太冷的东西，头、头好……
+头里猛、猛地刺痛了一下……",translated,依恩,34494dd6dd,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#76#12,"うわーん、痛いよぉ！
+お願い、頭トントンしてー！","哇啊，好痛哦！
+求你了，快咚咚敲敲我的头――！",translated,依恩,d7987aa84b,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#100#12,ふぅ……ビックリしたよ。,呼……吓了我一跳哦。,translated,依恩,40b7cf9bdf,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#101#12,"冷たいものを急いで食べた時に来る
+頭の痛みって、いくつになっても慣れる
+痛みじゃないよね？","着急吃冰凉东西时引发的那种
+头痛，真是无论到了多少岁
+都习惯不了的痛楚对吧？",translated,依恩,73a4503101,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#102#12,"あなたにトントンしてもらえて、
+本当に助かったよ。","能让你帮我咚咚敲敲，
+真是帮大忙了呀。",translated,依恩,38b05a8eca,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#103#12,……でも、何でだろう？,……不过，为什么会这样呢？,translated,依恩,424e1b976d,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#104#12,"あなたにトントンされた時にね、
+何だか、すごく懐かしい気持ちになったの。","刚才被你咚咚敲头的时候，
+总觉得，心里泛起了一种好怀念的感觉呢。",translated,依恩,99ba50df00,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#105#12,"……もしかして、前に誰かにしてもらった
+ことがあるからなのかな？","……难道说，是因为以前
+曾经被某个人这样对待过吗？",translated,依恩,3b7c85919c,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#107#12,よくトントンしてあげてるからかも,或许是因为我平时经常敲敲你吧,translated,,3d7faf3290,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#108#12,その可能性は高いと思う,我觉得那种可能性很高,translated,,3301e23020,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#110#12,"ううん、自信を持って言えるけど、
+あなたのトントンとは違う感じなの。","不是的，我可以充满自信地说，
+那种感觉和你的咚咚轻敲截然不同。",translated,依恩,4f8494145e,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#111#12,"どう説明すればいいのかな？
+こうね、ポンポン、って感じで……。","该怎么说明才好呢？
+像是这样，啪啪拍拍的感觉……",translated,依恩,b34153a01e,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#112#12,"記憶を失くす前……きっと子供の頃に、
+誰かにしてもらったことがあったんじゃ
+ないかな、って思うの。","在丧失记忆之前……一定是在小时候，
+曾经被谁这么轻拍过吧，
+我是这么觉得的。",translated,依恩,6b8fceed65,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#115#12,やっぱり、あなたもそう思う？,果然，你也这么觉得吗？,translated,依恩,35668af914,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#116#12,"きっとわたしが子供の頃に、今みたいに
+冷たいもので頭が痛くなった時に、誰かが
+してくれたのかもしれないね。","肯定是我小时候，像刚才这样
+因为吃了冰冷的东西头痛时，有谁
+曾经这么帮过我吧。",translated,依恩,cdf0d64b40,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#118#12,"誰にっていうのは思い出せないけど、
+でも、すごく優しい人なのは間違いないよ。","虽然想不起具体是谁了，
+但他一定是个非常温柔的人，这点绝不会错。",translated,依恩,1326a2950e,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#119#12,"だって、あなたにトントンされて
+思い出したんだもん。
+だから、きっと間違いないよ。","因为，正是被你咚咚轻敲
+才让我回忆起来的嘛。
+所以，一定不会有错的。",translated,依恩,b6149ddb47,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#120#12,"早く、思い出せたらいいな。
+忘れちゃってる、大切な人達のことを……。","真希望能早点想起来啊。
+那些已经被我遗忘的、重要的人们……",translated,依恩,d8afeae906,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#121#12,"……ちょっと、デートを続ける空気じゃ
+なくなっちゃったし、今日はもう帰ろうか。","……气氛稍微变得有点不太适合
+继续约会了，今天我们差不多回去吧。",translated,依恩,e5cbff6d01,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#123#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04.txt#124#12,"今日はごめんね。
+わたしがかき氷をあんな食べ方しなければ、
+もう少しいられたはずなのに……。","今天对不起哦。
+要不是我那样狼吞虎咽地吃刨冰，
+明明还能再多待一会儿的……",translated,依恩,b4293db1fb,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#125#12,"これからは、デート中にかき氷みたいな
+冷たいものは、控えるようにするよ。","从今以后，在约会中像刨冰这样
+冰凉的东西，我会克制着少吃啦。",translated,依恩,9acc4e8f7a,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#126#12,"今度は何も持たずに、普通に海に行こうね。
+それじゃ、またね！","下次就什么都不带，普普通通去海边吧。
+那么，下次见啦！",translated,依恩,88a1b1da5d,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04.txt#134#14,"かき氷で頭が痛く
+なって泣いた。子供
+みたいで恥ずかしい。","吃刨冰吃得头痛
+哭鼻子了。像个小孩
+一样真难为情。",translated,,b255e23149,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04.txt#137#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent02/ice04_tch.txt#3#12,んっ……ぐすっ、うぅっ……。,唔……呜咽，呜呜……,translated,依恩,853a737105,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#4#12,"……ありがと。
+どうにか痛みが治まったみたい。","……谢谢你。
+疼痛总算是缓过来了。",translated,依恩,0253a49b22,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04_tch.txt#7#12,イタッ！？,好痛！？,translated,依恩,1707b1d403,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#8#12,うわーん、近いけどもうちょっと上だよぉ！,哇啊，虽然很近了但还要再往上面一点啦！,translated,依恩,126619aaf9,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#11#12,ほ、ほっぺじゃなくて、頭だってば！,不、不是脸颊，是头顶啦！,translated,依恩,fd5b741dee,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#19#12,頭、頭だってば！,头，是头顶啦！,translated,依恩,5810fa79ad,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#20#12,"うっ……ぐすっ、ほ、本当に痛いんだから、
+助けてよぉ……。","呜……呜咽，真、真的好痛啊，
+快帮帮我啦……",translated,依恩,ef3566630b,br=0 nl=1,2,
+inc/event/res/dateevent02/ice04_tch.txt#23#12,ひゃわっ！？,呀哇！？,translated,依恩,f13228f227,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#24#12,"び、ビックリしたせいで痛みが
+増しちゃったよ！
+頭、早くトントンしてってば！","被、被你吓了一跳导致疼痛
+更加剧烈了啦！
+快点帮我咚咚敲敲头啦！",translated,依恩,7b60423dc3,br=0 nl=2,3,
+inc/event/res/dateevent02/ice04_tch.txt#27#12,な、何で胸を触るの！？,你、你怎么摸起胸部来了！？,translated,依恩,daedb11d03,br=0 nl=0,1,
+inc/event/res/dateevent02/ice04_tch.txt#28#12,"うえーん、こんな時くらいかっこよく
+助けてくれてもいいのにぃ！","呜哇，至少在平时这种时候
+潇洒一点救救我也好嘛！",translated,依恩,142d21b55c,br=0 nl=1,2,
+inc/event/res/dateevent02/ice_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent02/ice_int.txt#6#12,"海に行きたいの？
+んー………どうしようかな…","想去海边吗？
+唔――……该怎么办好呢……",translated,依恩,7a9e8dccc0,br=0 nl=1,2,
+inc/event/res/dateevent02/ice_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent02/ice_int.txt#9#12,えっ、海に行きたい？,诶，想去海边？,translated,依恩,b54e99249c,br=0 nl=0,1,
+inc/event/res/dateevent02/ice_int.txt#10#12,……ごめんね、今日はパス。,……对不起哦，今天就算啦。,translated,依恩,40637aae7d,br=0 nl=0,1,
+inc/event/res/dateevent02/ice_int.txt#11#12,"あそこって凄く暑いでしょ？
+今は汗をかきたくない気分なの。","那里非常热对吧？
+我现在一点都不想流汗呢。",translated,依恩,5d41c48451,br=0 nl=1,2,
+inc/event/res/dateevent02/ice_int.txt#12#12,また別の機会に誘ってね。,下次有机会再邀请我吧。,translated,依恩,97d6eeac51,br=0 nl=0,1,

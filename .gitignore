@@ -1,0 +1,32 @@
+# Working copies built from your own game. Never committed: they contain the
+# game's Japanese text, which this project does not redistribute.
+work/
+build/
+dist/
+installer/payload/
+
+# Anything extracted from the game
+*.PAK
+*.g1t
+*.psarc
+*.gtx
+*.gmd
+CielnosurgeDX.exe
+CielnosurgeDX_Launcher.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Validation output
+validate-report.txt

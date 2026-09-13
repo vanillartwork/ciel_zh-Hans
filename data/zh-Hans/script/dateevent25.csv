@@ -1,0 +1,462 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent25/love02.txt#3#12,"それを出してきたってことは、わたしと
+一緒に飲みたいのかな？","你既然把那个拿出来了，
+是想和我一起喝吗？",translated,依恩,c666874693,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#4#12,"まあ、一人で飲んだら寂しいジュースだし、
+一緒に飲みたい、って思うのは当然の
+ことだよね。","嘛，毕竟一个人喝的话也是很寂寞的果汁，
+会想两个人一起喝，也是理所当然的
+事情呢。",translated,依恩,1ad48ddd8e,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#5#12,"でも、せっかく飲むならここじゃなくて
+カフェで飲んだ方がいいんじゃないかな？","不过，难得要喝的话，不在房间里
+而是去咖啡馆喝会不会更好呢？",translated,依恩,bdc6fe7bf0,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#6#12,"こういうジュースって、周りの人達に
+仲の良さを見せびらかす、って目的も
+あるんだしね。","因为这种果汁，本来就带有一点
+向周围的人秀恩爱、彰显彼此亲密
+的目的在里面嘛。",translated,依恩,d9cca29a73,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#7#12,"えへへ……せっかくだし、カフェで
+試してみようか？","嘿嘿……难得有机会，
+我们要不要去咖啡馆试试看呢？",translated,依恩,cb6cc7d027,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#8#12,すぐに行こう,马上就去吧,translated,,d1c325ba59,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#9#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#11#12,"そっか。それじゃ、また都合がよくなったら
+行こうね。","这样啊。那么等之后方便了，
+我们再去吧。",translated,依恩,1fd9a12def,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#16#12,"それじゃ、準備はいい？
+カフェに行くよー！","那么，准备好了吗？
+要去咖啡馆咯――！",translated,依恩,260d3e4b71,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#18#12,"う～ん……ここって、いつ来ても本当に
+カップルばっかりの場所だよね？","唔～嗯……这里不管什么时候来，
+真的到处都是情侣呢？",translated,依恩,91a0b74220,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#19#12,"まあ、デートスポットに最適な
+お店だから、カップルがいないのも
+それはそれで変だと思うけどね。","嘛，毕竟这家店非常适合作为
+约会圣地，要是一个情侣都没有
+那反而才奇怪呢。",translated,依恩,4c3c0c3480,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#20#12,"ここに来てる以上、わたし達も端から見れば
+本物のカップルだと思われてるのかな？","既然来到这里，在外人眼里，
+我们也被当作真正的情侣看待了吧？",translated,依恩,dde07efdfd,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#21#12,えへへ、そう考えると結構照れくさいね。,嘿嘿，这么一想还挺让人害羞的呢。,translated,依恩,7de2f9a35c,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#22#12,"って、今からそんなこと言ってたら
+ダメだよね？","话说回来，从现在开始就说这种话
+可不行呢对吧？",translated,依恩,8702ac7b94,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#23#12,"今からここで、アラウンドフレイムを
+一緒に飲むんだし。","毕竟接下来要在这里，
+和你一起喝“环绕烈焰”嘛。",translated,依恩,88c78ac899,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#25#12,や、やっぱり、飲むのは後にしよ！,要、要不还是等会儿再喝吧！,translated,依恩,83bbbdf1ad,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#27#12,焦らすなんて酷い！,故意吊人胃口太过分了！,translated,,c57c9f8a02,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#28#12,怖気づいたね？,你害怕退缩了吧？,translated,,b6562bc128,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#30#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#31#12,あ、う、うん、そう、焦らしてるの！,啊、嗯、对，没错，我就是在吊胃口！,translated,依恩,5e013ba37d,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#32#12,やっぱりほら、余裕のある女の振る舞い？,毕竟你看，这叫从容不迫的女子风度？,translated,依恩,eb8e623531,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#33#12,そういうのがわたしにはあるからね。,因为我身上可是有这种气质的嘛。,translated,依恩,8325629532,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#34#12,"ほ、本当だよ？
+本当に焦らしてるんだからね！？","真、真的哦？
+我真的只是在吊你胃口好不好！？",translated,依恩,47eb049703,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#37#12,"お、怖気づいてなんかないよ！
+変なこと言わないでよ。","我、我才没有害怕退缩呢！
+别说奇怪的话啦。",translated,依恩,a8f690aec1,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#38#12,"飲む気まんまんだもん。
+もう一気にグイグイと……。","我可是干劲满满准备喝的。
+甚至想一口气咕嘟咕嘟喝光……",translated,依恩,96423795f5,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#39#12,って、それはそれでムードがないか。,慢着，那样做的话未免也太没气氛了吧。,translated,依恩,8b7fd30ac3,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#40#12,"と、とにかく、怖気づいてなんか
+いませんー！","总、总之，我才没有
+害怕退缩呢――！",translated,依恩,51897cc6c8,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#41#12,人を弱虫扱いしないでよね。,别把人家当胆小鬼对待嘛。,translated,依恩,f9b234e318,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#43#12,"大体、こういうのは飲む時のムードも
+大切なんだよ？","说到底，喝这种东西的时候
+气氛也是很重要的好吗？",translated,依恩,72776d8cf0,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#44#12,"それに、こんなに人のいっぱいいるところで
+飲むんだから、それなりの覚悟も……。","而且，要在这么多人的地方喝这个，
+也需要做好相应的心理准备……",translated,依恩,a057dd4e74,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#45#12,"あ、あぁっ、なんでもない！
+今の独り言だから！","啊、啊啊，没什么！
+刚才只是我的自言自语啦！",translated,依恩,4b0e8feb3e,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#46#12,"と、とにかくムード作りが大切なんだよ。
+がっつくのはかっこ悪いしね。","总、总之烘托气氛是很重要的。
+猴急地凑上去喝也太难看了嘛。",translated,依恩,0002a43d86,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#47#12,"もっと自然な流れで飲まないと、
+背伸びしてるカップルに見られちゃうよ。","要是不顺其自然地喝，
+就会被看成是在打肿脸充胖子的情侣哦。",translated,依恩,44ad95009e,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#48#12,"ふぅ……一気に話したせいで、
+喉が渇いてきちゃった……。","呼……因为一口气说了太多话，
+口都变干了……",translated,依恩,1ca975a1d2,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#50#12,喉を潤そうか？,要润润喉咙吗？,translated,,752ba41f18,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#51#12,もう十分話したでしょ？,已经说得够多了吧？,translated,,d5c98ca64b,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#53#12,そうだね、もう喉がカラカラで……。,是啊，喉咙都已经渴得冒烟了……,translated,依恩,6a4dfbaab8,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#54#12,って、何自然に飲ませようとしてるの！？,等等，你怎么顺理成章地劝我喝起来了！？,translated,依恩,d2393ae6ea,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#55#12,"あっ、ううん、今のいい感じ。
+そう、その自然にスムーズに運ぶのが
+いいんだよね。","啊，不对，刚才那种感觉挺好的。
+对，像那样自然而顺畅地推进
+才是最理想的呢。",translated,依恩,c4eb22fdbc,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#56#12,"わたしもつい、飲み始めちゃおうかな、
+って思っちゃったもん。","就连我刚才也差点忍不住
+想顺势喝起来了呢。",translated,依恩,c65a07de67,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#57#12,"つまり何が言いたいかっていうと、
+今がまさに飲む絶好のタイミングで……。","也就是说，我想表达的是，
+现在正是喝它的绝佳时机……",translated,依恩,eff52b411f,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#58#12,た、タイミングだから、その……。,虽、虽然是时机，但那个……,translated,依恩,e2943f5e89,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#61#12,ま、まだまだ、全然足りないよ！,还、还远远不够啦！,translated,依恩,fa7f9e2d32,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#62#12,"っていうか、そういうこと言ったら
+ダメだよ。","话说回来，你说这种话
+可不行哦。",translated,依恩,cf604ccf1f,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#63#12,"何だか、凄く冷たく扱われてるような
+感じがして、悲しくなるよ……。","总觉得被非常冷淡地对待了，
+心里会难过的啦……",translated,依恩,204d607ae9,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#64#12,"それに、ムードが大切、って言ったばかり
+なのに、それを忘れちゃったの？","而且，我刚才明明才说过气氛很重要，
+你这就给忘光了吗？",translated,依恩,2348e8f183,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#65#12,"そんな態度を取られたら、いつまで経っても
+飲むムードにはならないよ。","要是你摆出这种态度，
+不管过多久都不可能营造出喝饮料的气氛啦。",translated,依恩,1e4018b5f8,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#66#12,"もっと優しく接してくれたら、
+すぐにでも……。","要是你能对我更温柔一点的话，
+哪怕立刻……",translated,依恩,1ead549f0f,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#67#12,え、えっと……。,诶、那个……。,translated,依恩,e39c2b10a8,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#69#12,"だ、ダメー！
+やっぱり無理ー！","不、不行――！
+果然还是办不到――！",translated,依恩,370013ae66,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#70#12,"ここに来るまでは平気だったけど、
+やっぱりこんな大勢人がいるところで
+飲むなんて、恥かし過ぎるよぉ。","明明来这里之前还觉得没事的，
+但果然在这么多人的地方喝这个，
+实在太害羞了啦。",translated,依恩,5101926025,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#71#12,"うぅ、ここで一緒に飲み食いしてる
+カップルって、凄過ぎるよ。
+超のつくバカップルだよ。","呜呜，能在这里一起吃喝的
+情侣们，简直太厉害了。
+根本就是无可救药的笨蛋情侣嘛。",translated,依恩,443b2849cb,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#72#12,"……わたし、この人達みたいに
+なれるのかな？","……我真的能变得
+像那些人一样吗？",translated,依恩,1a299603e7,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#73#12,っていうか、なれなくちゃダメだよね？,话说回来，不变成那样可不行呢对吧？,translated,依恩,121e789287,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#74#12,"せっかくあなたに期待してもらってたのに、
+こんなお預けのまま終わるなんて、失礼だと
+思うし……。","难得让你对我充满期待，
+却像这样吊着胃口草草收场，
+我觉得太失礼了……",translated,依恩,84701f0a8a,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#75#12,"で、でも、本当にごめん！
+今回だけは勘弁して！","但、但是，真的对不起！
+唯独这次就饶了我吧！",translated,依恩,199473c7e1,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#76#12,"今度来る時には、ちゃんと覚悟を決めてから
+来るようにするから、ね？","下次再来的时候，我一定会
+做好心理准备再来的，好吗？",translated,依恩,e4511d07a3,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#77#12,"……と、とにかく、今日はもう帰ろうよ。
+できない、って言ったら、何だか
+物凄く恥かしくなってきちゃった。","……总、总之，今天我们先回去吧。
+一说办不到，不知为何
+整个人都变得超级不好意思起来了。",translated,依恩,86bddc2598,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#78#12,"まだ何もしてないのに、本当にごめんね。
+それじゃ、戻るよ。","明明还什么都没做，真的很抱歉哦。
+那么，我们回去吧。",translated,依恩,92c14d819e,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#80#12,はぁ……へ、変な汗かいちゃったよぉ。,呼……都、都吓出怪怪的冷汗了啦。,translated,依恩,9ae968d792,br=0 nl=0,1,
+inc/event/res/dateevent25/love02.txt#81#12,"今日はごめんね。
+せっかくのデートのはずだったのに、
+あっという間に帰ることになっちゃって。","今天对不起哦。
+明明是难得的约会，
+却转眼间就不得不回去了。",translated,依恩,1d977b55c1,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#82#12,"で、でも、わたしもまさか、あんなに
+恥かしくなっちゃうとは思わなくて……。","但、但是，我也万万没想到
+自己会害羞到那种地步……",translated,依恩,e175d61fba,br=0 nl=1,2,
+inc/event/res/dateevent25/love02.txt#83#12,"呆れちゃったかもしれないけど、
+また、わたしと一緒に出かけてくれたら
+嬉しいな。","或许你会对我感到无语，
+不过你要是还能再和我一起出门的话，
+我会很高兴的哦。",translated,依恩,742e02e08a,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#86#14,"同じドリンクを二人で
+飲むなんて、やっぱり
+恥ずかしいよ……ね？","两个人喝同一杯饮料什么的，
+果然还是会觉得
+很不好意思吧……对不对？",translated,,3283b1fa03,br=0 nl=2,3,
+inc/event/res/dateevent25/love02.txt#87#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent25/love03.txt#1#12,"アラウンドフレイム、程よく冷えてて
+美味しそうだね。","环绕烈焰冰镇得恰到好处，
+看起来很好喝呢。",translated,依恩,6edb666364,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#2#12,"そうだ！
+せっかくだし、カフェに行って飲まない？","对了！
+难得有这个，要不要去咖啡馆喝？",translated,依恩,0eaeb75765,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#3#12,"その方が美味しく飲めると思うの。
+ねえ、良いでしょ？","我觉得那样喝起来会更美味哦。
+呐，好不好嘛？",translated,依恩,6588f3cc89,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#4#12,楽しそうだね、早速行こう！,听起来很有趣呢，马上出发吧！,translated,,0059d028ce,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#5#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#7#12,む～、期待させないでよぉ……。,唔～别让人白期待一场嘛……,translated,依恩,27af841dfb,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#12#12,"やったー！
+それじゃ、出発しんこー！","太好了！
+那么，出发前――进！",translated,依恩,a02076fcab,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#14#12,ん～、美味しい！,嗯～好喝！,translated,依恩,84c2106abf,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#15#12,"思った通り、アラウンドフレイムは
+カフェで飲んだ方が美味しく感じられるよ。","正如我所料，环绕烈焰
+在咖啡馆里喝起来感觉更好喝呢。",translated,依恩,0491576ac0,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#16#12,"これって、カフェでラブラブな
+雰囲気になりながら飲むために
+作ったジュースだもん。","因为这可是为了在咖啡馆里、
+伴随着亲亲密密的气氛一起喝
+而制作出的果汁嘛。",translated,依恩,292a3bb2d4,br=0 nl=2,3,
+inc/event/res/dateevent25/love03.txt#17#12,"それなら、やっぱりカフェで飲まないと
+もったいないよね？","既然这样，不在咖啡馆喝的话
+果然太可惜了对吧？",translated,依恩,aad040e892,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#18#12,"えへへ……ちょ、ちょっと照れくさいけど、
+やっぱり嬉しいな。","嘿嘿……虽、虽然有点害羞，
+不过果然还是好开心啊。",translated,依恩,ccf2a72712,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#19#12,"恋人とカフェでデートするのって、
+恋愛小説みたいで、ちょっと憧れてたの。","和恋人在咖啡馆里约会什么的，
+简直就像恋爱小说一样，我一直有点憧憬呢。",translated,依恩,e469011f37,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#21#12,何度も来てるのに？,明明都来过好多次了？,translated,,99f68eebe7,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#22#12,イチャイチャしよう！,我们来卿卿我我吧！,translated,,d379859385,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#24#12,恋人になる前はね。,那是在成为恋人之前啦。,translated,依恩,d37759eebe,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#25#12,"恋人になってからは、
+まだそんなに来てはいないでしょ？","在成为恋人之后，
+其实还没怎么来过对吧？",translated,依恩,42abe6ad62,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#26#12,"今までみたいな、仲の良い友達同士の
+デートとはやっぱり違うよ。","和以前那种好朋友之间的
+约会相比，感觉果然完全不同哦。",translated,依恩,9e01fd422e,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#27#12,"やってることは同じだとしても、
+感じ方はまったくの別物だもん。","即便做着同样的事情，
+内心的感受也完全是天壤之别嘛。",translated,依恩,fb5c9a136e,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#30#12,"……わたしも、そういうのに憧れてない、
+って言ったらウソになるよ。","……要是说我对此完全不抱憧憬，
+那也是骗人的啦。",translated,依恩,7847927f39,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#31#12,"けど、いきなりイチャイチャとか
+言われても、その……。","不过，突然叫我卿卿我我什么的，
+那个……",translated,依恩,28939e92c4,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#32#12,"え、えへへ……人前でそういうのは、
+もう少し時間が必要かも……。","诶、嘿嘿……在人前做那种事，
+我可能还需要一点时间适应……",translated,依恩,7d95fc57ec,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#34#12,それより、せっかく来たんだよ？,比起那个，我们难得来一趟对吧？,translated,依恩,94e04aad0e,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#35#12,あなたもアラウンドフレイム飲もうよ。,你也喝一口环绕烈焰嘛。,translated,依恩,27229e3b56,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#36#12,"ラブラブドリンク、なんて別名があるのに、
+わたし一人で飲むのは寂しいもん。","明明有着“亲亲密密饮料”这种别名，
+让我一个人喝也太寂寞了嘛。",translated,依恩,2469ef23b0,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#38#12,嬉しいけど、ちょっと恥ずかしい,虽然很高兴，但稍微有点害羞,translated,,40b4d20dec,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#39#12,イオン……大胆な子！,依恩……好大胆的孩子！,translated,,799ad9856e,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#41#12,わ、わたしだって、ちょっと恥ずかしいよ？,我、我也是会觉得有点难为情的好不好？,translated,依恩,2dacd0e1cf,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#42#12,"でも、恋人同士なんだから何時までも
+これくらいで恥ずかしがってられないよ。","不过，既然都是恋人了，总不能
+一直为了这点程度的事情害羞下去嘛。",translated,依恩,91b65ded9a,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#44#12,"それに、今のうちに慣れておかないと、
+その……。","而且，要是不趁现在习惯的话，
+那个……",translated,依恩,59ddc1a08a,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#45#12,"何時まで経っても、き……キス……
+出来ないままになりそうだし……。","感觉不管过多久，都……亲、亲吻……
+没办法亲上去了嘛……",translated,依恩,2fa5943bdc,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#47#12,"恋人としての第一ステップ、ってことで、
+挑戦してみたいの。","所以当作恋人的第一步，
+我很想挑战一下嘛。",translated,依恩,a136b2bad4,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#51#12,も、もぉ、からかわないでよ……。,真、真是的，别取笑我啦……,translated,依恩,94fb2169be,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#52#12,"普通に誘ってるように聞こえたかも
+しれないけど……本当は、恥ずかしいの
+我慢して言ったんだよ？","听起来可能觉得我是在平常地邀请你，
+但其实……我可是忍耐着害羞
+才鼓起勇气说出口的哦？",translated,依恩,18c6bf1fab,br=0 nl=2,3,
+inc/event/res/dateevent25/love03.txt#53#12,"っていうか、出来ればあなたの方から、
+一緒に飲もうよ、って言ってほしかった
+なぁ……。","话说回来，要是可以的话，
+我真希望是由你主动
+邀请我一起喝呢……",translated,依恩,30eeed3bb3,br=0 nl=2,3,
+inc/event/res/dateevent25/love03.txt#54#12,"……って、せっかくのデートなのに
+暗くなっちゃダメだね。","……话说回来，明明是难得的约会，
+可不能变得阴沉沉的呢。",translated,依恩,00b6860b8f,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#56#12,"そっちからでも届くよね？
+あなたも早く飲んで。","从你那边也能碰得到吧？
+你也快点喝嘛。",translated,依恩,7dbe4cf4e9,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#58#12,"それじゃまだ届かないでしょ？
+恥ずかしがってないで、早く早く！","那样还够不着对吧？
+别害羞了，快点快点！",translated,依恩,167a02237f,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#60#12,っ！？,咦！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#61#12,"や、あ、ま、待って待って！
+ストップ！","等等、啊、等、等等等等！
+暂停！",translated,依恩,a3d6e81f52,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#63#12,び、ビックリしたぁ……。,吓、吓我一跳……,translated,依恩,7e5b21c996,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#64#12,"まさか、一緒に飲もうとするとこんなに
+顔が近づくなんて、思わなくて……。","万万没想到，两个人一起喝的时候
+脸居然会靠得这么近……",translated,依恩,11990d4d79,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#65#12,"う～、心臓のドキドキがすごいし、
+顔がずっと熱いままだよ……。","呜～心脏跳得超级剧烈，
+整张脸也一直烫烫的呢……",translated,依恩,b83688c519,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#66#12,"……恋人になったんだから、
+これくらいは普通にできると思ったのに。","……明明都成为恋人了，
+我还以为这点程度能很平常地做到呢。",translated,依恩,821fc196a2,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#68#12,慌てずいこうよ,别着急，慢慢来嘛,translated,,8f0d133ebc,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#70#12,"……そうだね。
+うん、わたしも、それが良いと思う。","……也是呢。
+嗯，我也觉得那样最好。",translated,依恩,5063a65a0d,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#71#12,"今みたいに慌てたって、かっこ悪いところ
+見せちゃうだけだと思うし……。","像刚才那样手忙脚乱，
+也只会让你看到我不成熟的一面嘛……",translated,依恩,22186941ba,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#72#12,"でも、まさかあんなに顔が近づくなんて、
+予想外だったよ。","不过，真没想到脸会靠得那么近，
+太出乎我的意料了。",translated,依恩,0ff3b4418d,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#73#12,"……何だか、今日はもう落ち着いて
+お話できないと思うし、帰ろっか？","……总觉得今天已经没办法静下心来
+好好聊天了，我们回去了吧？",translated,依恩,be03b9897b,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#75#12,ふぅ…………。,呼…………。,translated,依恩,ac6d75282f,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#76#12,え、えへへ……まだ、ドキドキしてるよ。,诶、嘿嘿……心脏还在心跳不已呢。,translated,依恩,750e222a2c,br=0 nl=0,1,
+inc/event/res/dateevent25/love03.txt#77#12,"一緒に飲めなかったのは残念だったけど、
+良い思い出になったのは、間違いないかな？","虽然没能一起喝很遗憾，
+但毫无疑问已经成为美好的回忆了吧？",translated,依恩,f733db5fd8,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#78#12,"えへへ、とにかく楽しかったよ。
+また一緒に行こうね！","嘿嘿，总之玩得超级开心哦。
+下次我们还要一起去呢！",translated,依恩,be28622777,br=0 nl=1,2,
+inc/event/res/dateevent25/love03.txt#81#14,"顔が急接近！
+思い出すだけで
+胸がドキドキするよ。","脸颊骤然靠近！
+光是回忆起来
+就胸口心跳不已呀。",translated,,39acda4100,br=0 nl=2,3,
+inc/event/res/dateevent25/love03.txt#82#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent25/love04.txt#1#12,"アラウンドフレイムを飲むなら、
+やっぱりカフェに行かないとね。","要喝环绕烈焰的话，
+果然还是必须去咖啡馆呢。",translated,依恩,7dbddd9306,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#2#12,"どうかな？
+今から行ってみない？","你觉得怎么样？
+现在要不要去看看？",translated,依恩,a4ba85ffe6,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#3#12,行ってみよう,一起去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#6#12,そっか……じゃあ、また今度ね。,这样啊……那就下次再去吧。,translated,依恩,0a7f536496,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#11#12,"やった！
+それじゃ早速、しゅっぱーつ！","太好了！
+那么事不宜迟，出――发！",translated,依恩,ba272e2163,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#13#12,"えへへ、ここに来るとどうしてもケーキや
+お菓子を食べたくなっちゃうよね？","嘿嘿，一来到这里就无论如何
+都会想吃蛋糕和点心对吧？",translated,依恩,0953009170,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#14#12,"コーヒーや紅茶の香りと、甘い香りが
+一緒になって漂ってるからかな？","是因为咖啡和红茶的香气，
+正混着甜甜的香气一同飘散开来的缘故吧？",translated,依恩,d61bc8fe16,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#15#12,"飲み物だけ、って気持ちで来たのに、
+ついメニューに手が行っちゃいそうだよ。","明明是抱着只喝饮料的心情过来的，
+却忍不住想伸手去翻菜单了呢。",translated,依恩,473af3b1f4,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#17#12,せっかく来たんだし、何か頼めば？,难得来一趟，点点什么不就好了吗？,translated,,d087b4bb49,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#18#12,その気持ち、わかるかも,你的心情，我或许能理解哦,translated,,02fad5e7e9,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#20#12,"そうしたいのは山々だけど……
+でも、今日はやっぱりダメだよ。","虽然我也很想那么做……
+但是，今天果然还是不行啦。",translated,依恩,40e99d966e,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#21#12,"今日こそは、ちゃんとアラウンドフレイムを
+飲もうって決めてるんだし。","因为我下定决心，今天一定要
+好好品尝环绕烈焰嘛。",translated,依恩,e19cc2c88f,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#22#12,何か食べるのは、今度のお楽しみだね。,吃东西什么的，就留到下次再享受吧。,translated,依恩,e348070840,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#25#12,あはは、あなたも同じ経験あるのかな？,啊哈哈，难道你也有过同样的经历吗？,translated,依恩,9d759928ce,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#26#12,"同じ食事をする場所ではあるけど、
+カフェはレストランとかと違って、
+ちょっと上品な感じ、っていうのかな？","虽然同样是用餐的地方，
+但咖啡馆和餐厅不同，
+怎么说呢，感觉稍微更雅致一些？",translated,依恩,55ad34da98,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#27#12,"軽食専門だから、色んな食べ物の香りが
+混ざらないから、こんな気持ちになるん
+だろうね。","因为是简餐专门店，不会混杂着
+各种各样浓郁饭菜的香味，
+所以才会产生这种感觉吧。",translated,依恩,75ad611c1a,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#28#12,"って、いけないいけない。
+こんな話をしてると、余計に何か食べたい、
+って気持ちになっちゃうよ。","哎呀，不行不行。
+一聊起这个，反而会越来越
+想吃东西了啦。",translated,依恩,ffa308813d,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#30#12,"それじゃ……恥ずかしくならないうちに
+早く飲んじゃおっと。","那么……趁着还没变得不好意思，
+快点喝了吧。",translated,依恩,55c9b69a05,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#31#12,"あなたも飲んでる気になってほしいから、
+もうちょっと近づいてね。","为了能让你也体会到在一起喝的感觉，
+再靠近我一点哦。",translated,依恩,5f0fd88523,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#33#12,"えへへ……ちょっとだけドキドキするけど、
+今日は不思議と安心するかも。","嘿嘿……虽然稍微有点心跳不已，
+但今天不知为何却很安心呢。",translated,依恩,1471aa2488,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#34#12,"恥ずかしさよりも、大切な人が近くに
+いてくれる、って気持ちの方を強く感じる
+からかな？","比起害羞，更能强烈地感受到
+重要的人正陪伴在身边，
+或许是因为这样吧？",translated,依恩,038ac5d3a8,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#35#12,"それじゃ、いただきまーす。
+んっ……。","那么，我开动啦――
+嗯……。",translated,依恩,ed76b070f4,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#36#12,"……あ、あれ？
+何だろう……前に一人で飲んだ時と、
+ちょっと味が違う気がするよ。","……诶、奇怪？
+怎么回事呢……总觉得味道
+和之前自己一个人喝的时候稍微有点不同呢。",translated,依恩,a7308de925,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#37#12,"何だか、前に飲んだ時よりも甘さが強く
+なってるような……。","总觉得，甜味好像
+比之前喝的时候更浓郁了呢……",translated,依恩,daf378aa6c,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#38#12,"でも、甘過ぎる、っていう感じじゃなくて、
+何故だか少し落ち着いた気持ちになれる、
+優しい甘さなの。","但又不是那种腻人的甜，
+而是一种不知为何能让人心情平静下来的、
+非常柔和的甘甜哦。",translated,依恩,8ac3f8d560,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#39#12,"ふふっ、そっか……。
+大好きな人と飲むと、こんな味になるんだ。","呵呵，原来是这样啊……
+和最喜欢的人一起喝，就会变成这种味道呀。",translated,依恩,1b5861053d,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#41#12,ふぅ……ご馳走様でした。,呼……多谢款待啦。,translated,依恩,535f928c80,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#42#12,"ふふっ、前の時とは違って、ちゃんと
+恥ずかしがらずに飲むことができたよ。","呵呵，和上次不同，这次我有好好做到
+没有害羞地喝下去哦。",translated,依恩,c282e69d6b,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#43#12,"でも、飲み終わった今になって、少しだけ
+恥ずかしいな、って気持ちになってきてる
+かも……。","不过，在全部喝完的现在，
+心里反而稍微涌起了一丝
+难为情的感觉呢……",translated,依恩,c99cc8cee6,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#44#12,"……わたし達、仲良しカップルに
+見えてるかな？","……我们看起来，
+像是一对恩爱的情侣吗？",translated,依恩,11b347d27d,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#46#12,ごちそうさま、って視線を感じる,能感受到周围投来“饱尝狗粮”的视线呢,translated,,f4a8200c27,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#47#12,浮かれたカップルに見られてるかも,或许会被看成得意忘形的情侣哦,translated,,0e97f68d0a,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#49#12,"そ、そう言われてみると、何となくみんな
+チラチラ見てきてるような……。","经、经你这么一说，总觉得大家
+好像隐隐约约都在往这边瞄呢……",translated,依恩,ea48bb6126,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#50#12,"でも、仲のいいところを見られるのって、
+恥ずかしさよりも嬉しさの方が強いかも。","不过，被人看到恩爱的样子，
+比起害羞，心里其实更是感到开心呢。",translated,依恩,8bac18a163,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#51#12,"それに、ちょっとだけ自慢げな気持ちにも
+なれるし……。","而且，多少还会有一点
+骄傲自豪的心情在里面……",translated,依恩,6d9aa12abf,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#52#12,"わ、わたしだって、たまには素敵な恋人を
+自慢したくなる時だってあるもん。","我、我也偶尔会想要向大家
+炫耀自己很棒的恋人嘛。",translated,依恩,b8880095a2,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#56#12,"うっ……い、言われてみると、確かにみんな
+こっちを見てきてるかも……。","呜……经、经你这么一说，确实大家
+好像都在往这边看呢……",translated,依恩,63e97adbde,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#57#12,"ちょっと浮かれ過ぎて、みんなの迷惑に
+なっちゃったかな？","是不是有点得意忘形，
+给周围的人添麻烦了呢？",translated,依恩,794870e1b7,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#58#12,"でも、ようやく夢が一つ叶ったんだし、
+今はあまり気にしないことにするよ。","不过，难得实现了一个梦想，
+现在我就先不去在意那么多啦。",translated,依恩,2cb6a322cc,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#60#12,"さてと、アラウンドフレイムも
+飲み終わっちゃったし……。
+今日はもう帰ろっか。","好啦，环绕烈焰也已经
+喝完了……
+今天差不多该回去了吧。",translated,依恩,c02ceae2ec,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#62#12,ふぅ……楽しかったぁ。,呼……玩得好开心呀。,translated,依恩,3e85f178cd,br=0 nl=0,1,
+inc/event/res/dateevent25/love04.txt#63#12,"まさかアラウンドフレイムの味が、
+あんな風に変わるなんて、今でも
+信じられないよ。","真没想到环绕烈焰的味道，
+居然会发生那样的变化，
+我现在都还觉得难以置信呢。",translated,依恩,c7290b9d94,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#64#12,"元の味もすごく美味しいけど、わたしは
+今回みたいに、あなたと一緒に飲む味の方が
+好きかな？","原来的味道虽然也很好喝，但我还是
+更喜欢像这次这样、
+和你一起喝的味道呢。",translated,依恩,c5bfc428c0,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#65#12,"また一緒にカフェに行きたいね。
+もちろん、アラウンドフレイムも一緒にね。","还想再和你一起去咖啡馆呢。
+当然，还要带上环绕烈焰一起哦。",translated,依恩,c1cdb07e16,br=0 nl=1,2,
+inc/event/res/dateevent25/love04.txt#68#14,"好きな人と飲むと、
+ジュースの味って
+変わるんだね。","和喜欢的人一起喝的话，
+果汁的味道
+真的会发生改变呢。",translated,,75a82aeaab,br=0 nl=2,3,
+inc/event/res/dateevent25/love04.txt#69#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent25/love_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent25/love_int.txt#6#12,"カフェに行きたいの？
+んー………どうしようかな…","想去咖啡馆吗？
+嗯～……该怎么办好呢……",translated,依恩,834b4df2ce,br=0 nl=1,2,
+inc/event/res/dateevent25/love_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent25/love_int.txt#9#12,"それを見ると、カフェに行きたいなぁ、
+って思うけど……今日はパスかな？","一看到那个，确实会觉得很想去咖啡馆，
+不过……今天就算了吧？",translated,依恩,3b703234e0,br=0 nl=1,2,
+inc/event/res/dateevent25/love_int.txt#10#12,"今ってあまりお腹空いてないから、
+行っても楽しめないと思うし。","我现在肚子不太饿，
+去了感觉也享受不到乐趣嘛。",translated,依恩,e752fa6d43,br=0 nl=1,2,
+inc/event/res/dateevent25/love_int.txt#11#12,"日を改めて、お腹が空いてる時に
+また行こうね。","改天等肚子饿了的时候，
+我们再去吧。",translated,依恩,690b770080,br=0 nl=1,2,

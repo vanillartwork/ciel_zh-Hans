@@ -1,0 +1,800 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/haircutevent/haircut01_01.txt#8#12,あなたー、今時間あるかな？,你～，现在有空吗？,translated,依恩,0e90cdee71,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#10#12,う～ん、やっぱり忙しいのかな？,嗯～，果然还是在忙吗？,translated,依恩,cc409f3cb7,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#11#12,"あっ、聞こえてても、忙しいなら
+無理はしなくていいよ。","啊，就算听到了，
+在忙的话也不用勉强哦。",translated,依恩,cc2c70ed9d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#12#12,"ちょっと、髪のことで質問したかった
+だけだから。","只是稍微有点关于发型的事
+想问问你而已。",translated,依恩,cf58b83188,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#13#12,"……やっぱり、忙しいみたい。
+ふふっ、わたしの旦那様は大忙しだね。","……看来确实在忙呢。
+呵呵，我的老公真是个大忙人呢。",translated,依恩,581bfb0cc4,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#14#12,邪魔したらいけないし、また今度にしよ。,不能打扰你，还是下次再说吧。,translated,依恩,f24b05d055,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#16#12,おーい、今ちょっとだけ大丈夫？,喂～，现在方便聊一下吗？,translated,依恩,dddbde3d0f,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#17#12,"ちょっと、髪のことについて
+聞きたいんだけど～。","关于发型的事情，
+想稍微问问你呢～",translated,依恩,8e75fa7f6e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#19#12,あれ、もしかしていないの？,哎呀，难不成不在吗？,translated,依恩,4d4cf3f593,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#20#12,それとも、今って取り込み中かな？,还是说，现在正抽不开身呢？,translated,依恩,b1154a9d2d,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#21#12,"それなら無理しなくていいけど……
+もうちょっとだけ待ってみようかな？","那样的话不用勉强哦……
+要不再稍微等一下看看吧？",translated,依恩,f8b69c0f1c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#23#12,……反応なし、か。,……没有反应啊。,translated,依恩,5177f003b9,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#24#12,"まあ、こういう時もあるよね。
+また後で出直そっと。","嘛，这也是常有的事呢。
+待会儿再过来吧。",translated,依恩,896c48b6d7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#26#12,ん～……。,嗯～……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#27#12,ねえねえ、今いるかな？,喂喂，现在在吗？,translated,依恩,6f50da11d5,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#29#12,"おーい。
+ちょっとお話したいんだけど～…。","喂～
+稍微想跟你聊聊呢～…",translated,依恩,6320872c72,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut01_01.txt#30#12,いたらトントン♪ってして～。,在的话就咚咚♪敲两下嘛～。,translated,依恩,a1195c3043,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#32#12,…いないかな？,…不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut01_01.txt#34#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#2#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut02_01m.txt#4#12,今そっちに行くね。,我现在就去你那边哦。,translated,依恩,f82f9b39eb,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#7#12,"あのね、最近髪の毛伸びてきたでしょ？
+そろそろ切ろうかなって
+思ってるんだけど――","那个，最近头发变长了对吧？
+我在想差不多
+该剪剪了呢――",translated,依恩,de170301bc,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_01m.txt#8#12,"どれくらいにするのがいいかな～って
+思って、ちょっと相談したかったの。","剪成多长比较好呢～
+想跟你商量一下。",translated,依恩,7898d6d11f,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#9#12,あなたはどう思う？,你觉得呢？,translated,依恩,722e66ad74,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#10#12,思いっきりショート,痛快地剪成短发,translated,,a5a121ea08,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#11#12,肩にかかるくらい,刚好搭到肩膀的长短,translated,,0cf20b6053,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#12#12,あまり切らない方が好き,喜欢不要剪太多的,translated,,e30c86e600,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#14#12,…あれ？　おーい！,…咦？喂～！,translated,依恩,0a0294ee7b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#16#12,いなくなっちゃったのかな…？,是走开了吗……？,translated,依恩,0434ab3346,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#18#12,…おーい。,…喂～,translated,依恩,f1d1947c2b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#21#12,"うーん…まあいいや。
+自分で決めちゃおっと。","唔……算啦。
+我自己来决定吧。",translated,依恩,03aba29da4,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#29#12,"ほんと？
+実はわたしもそう思ってたんだ。","真的吗？
+其实我也这么觉得。",translated,依恩,bdfd322638,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#30#12,"だって、ちょっとしか切らなかったら
+すぐにまた切らなくちゃいけなくなって
+面倒くさいもんね。","因为如果只剪一点点的话，
+很快又得重新剪，
+那样很麻烦嘛。",translated,依恩,e096ce6fdd,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_01m.txt#31#12,"ありがと♪　相談に乗ってくれて。
+それじゃ、バッサリ切っちゃおうかな♪","谢谢你♪陪我商量。
+那么，就痛快地剪短吧♪",translated,依恩,bbdb79f1d6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#35#12,"そっかー。
+もしかして、短い方が好きなの？","这样啊～
+难道说你喜欢短发吗？",translated,依恩,3006dd729a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#36#12,好きです,喜欢,translated,,fdab6232a1,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#37#12,そういうわけでもない,也不是那个意思,translated,,f7f9f792d7,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#39#12,"あなたは短いのが好きなんだね。
+うーん……。","原来你喜欢短发啊。
+唔～……",translated,依恩,41bc9ebf09,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#40#12,それじゃ、ちょっと考えておくね。,那么，我稍微考虑一下吧。,translated,依恩,f81b36e845,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#44#12,"あれ？　そうなの？
+それなら…。","咦？是那样吗？
+既然如此……",translated,依恩,7bc7a26985,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#45#12,"…ちょっと長めに切ろうかな。
+わたし、あまり短いのは苦手なの。","…稍微剪长一点吧。
+我不太习惯剪得太短。",translated,依恩,8bc6f18237,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#50#12,"それじゃ…
+いつもと同じくらいに切ればいいかな。","那么……
+剪得和平时差不多就好啦。",translated,依恩,96d9e37263,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#51#12,"わたし、普段から誰かに会うこともなくて
+ずっと適当に切ってたの。","我平时也不怎么见人，
+一直都是随便剪剪的。",translated,依恩,14f0c6f3ce,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#52#12,"でも、これからはあなたに見られちゃう
+から、ちょっと気をつけようかなって
+思って。","不过今后会被你看到，
+所以我想着
+稍微注意一下呢。",translated,依恩,536b4fb18f,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_01m.txt#53#12,"…なんてね。
+気にしすぎかな…？","…开玩笑的啦。
+我是不是太在意外表了…？",translated,依恩,50b3ad7d2a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#58#12,え…そうなの？,诶…是吗？,translated,依恩,653fcd3be9,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#59#12,"うーん…
+でも、そうすると、またすぐに切らないと
+いけなくなっちゃって…その…。","唔～…
+但是那样的话，很快又得再剪，
+那个……",translated,依恩,144bce7153,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_01m.txt#60#12,ちょっとだけ、面倒…かな？　なんて！,会有点小麻烦…吧？开玩笑的！,translated,依恩,57d7defe2c,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#61#12,ロングが好き,喜欢长发,translated,,302c8d95d8,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#62#12,イオンの自由に切ればいい,依恩由着自己心意剪就好,translated,,efeba4ce99,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#64#12,"そ、そんなにロングがいいの？
+そっか…うーん……。","有、那么喜欢长发吗？
+这样啊…唔～……",translated,依恩,92c379f948,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#65#12,ちょっと考えてみるね。,我稍微考虑一下哦。,translated,依恩,bb3ecd1717,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#69#12,"そうなの？
+それじゃ…少し長めに切ることにするね。","是吗？
+那么…我就留得稍长一些吧。",translated,依恩,8b3f8a3b66,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#70#12,"あなたがロング好きなら
+考えようかな…って思ったけど。","如果你喜欢长发的话，
+我还想着考虑一下呢…",translated,依恩,67f1c7927e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#71#12,本当はロングが大好き,其实最喜欢长发了,translated,,e1d3e5c943,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#74#12,それじゃ、ちょっと短めに切るね。,那么，我就剪得稍微短一点吧。,translated,依恩,cabe47a32d,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_01m.txt#78#12,"ええっ！？　そうなの？
+それならそう言ってくれればいいのに。","诶诶！？是这样吗？
+早点这么说不就好了嘛。",translated,依恩,4209dcbae6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#79#12,"遠慮しなくてもいいよ？
+わたしも遠慮するの、苦手だもん。","不用客气的哦？
+我也不擅长客套呢。",translated,依恩,bff301f0ae,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#80#12,"それじゃ、今回は正直に言ってくれたから
+あまり切らないようにしてみるね。","那既然你这次老实说了，
+我就尽量不要剪太多吧。",translated,依恩,6bef5642ca,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#84#12,"ふふっ、わたしもそう思ってた。
+でも、あなたから見て鬱陶しいかなと
+思って。","呵呵，我也这么觉得。
+但我还担心
+在你看来会不会很碍事呢。",translated,依恩,671d2be1da,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_01m.txt#85#12,"わたしも、長い髪の毛がお気に入りなの。
+だからあまり切りたくない。","我也很喜欢留长头发。
+所以不太想剪呢。",translated,依恩,ad6192861d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#86#12,"それじゃ、分からない程度に
+切ることにするね。","那么，就剪到
+看不出变化的程度吧。",translated,依恩,cee437cc73,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_01m.txt#90#12,"相談に乗ってくれてありがとう！
+それじゃ、またね。","谢谢你跟我商量！
+那么，回见啦。",translated,依恩,6b349b0349,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#2#12,"あっ、いたいた。
+よかったー……。","啊，在呢在呢。
+太好啦……",translated,依恩,8ebd403b80,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#5#12,"あのね、そろそろ髪を切ろうかな、って
+思ってるの。","那个，我在想
+差不多该去剪头发了呢。",translated,依恩,ffd042cdf3,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#6#12,"それで、あなたの意見を聞いてからに
+したいな、って……。","所以想先听听你的意见
+再做决定……",translated,依恩,09c0f79434,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#7#12,"見てくれる人から少しでも可愛いと思われる
+髪型にしたいもん。","毕竟我想留一个
+能让看着我的人觉得可爱的发型嘛。",translated,依恩,52c3c94b78,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#8#12,"それで、どうかな？
+どんな髪型が良いと思う？","所以你觉得呢？
+什么样的发型比较好？",translated,依恩,be433e699a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#10#12,思いっきりショート,痛快地剪成短发,translated,,a5a121ea08,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#11#12,肩にかかるくらい,刚好搭到肩膀的长短,translated,,0cf20b6053,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#12#12,あまり切らない方が好き,喜欢不要剪太多的,translated,,e30c86e600,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#13#12,オカッパにしてほしい,想看你剪齐耳短发,translated,,bbb7ae8eee,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#15#12,"……あれ？
+もしかしてお悩み中？","……咦？
+难不成还在犹豫吗？",translated,依恩,d497644fb9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#17#12,"う～ん……今日中に変えたいから、
+すぐに返事が欲しいんだけど……。","唔～……因为我想今天内换好，
+希望能快点听到回复呢……",translated,依恩,c72efd860e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#19#12,ねぇ、まだー？,喂，还没好吗～？,translated,依恩,3c828ab24f,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#22#12,"う～ん、決められないのかな？
+仕方ないから、今回はわたしが決めちゃうね。","唔～，拿不定主意吗？
+没办法，这次就由我来决定吧。",translated,依恩,3764014852,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#30#12,えへへ、そう言ってもらえてよかった。,诶嘿嘿，能听你这么说太好啦。,translated,依恩,545b0fe017,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#31#12,わたしも、短い方がラクで好きなの。,我也觉得短一点比较省事，挺喜欢的。,translated,依恩,9834c9a3b4,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#32#12,"バッサリ切っちゃえば次に切るまでの
+期間が長くなるし、洗うのも簡単でしょ？","一口气剪短的话，距离下次理发
+能撑很久，而且洗头发也很方便对吧？",translated,依恩,9cd60967f7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#36#12,ん、バッサリ切っちゃっていいんだね？,嗯，一口气剪短也没关系对吧？,translated,依恩,099c25f00b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#37#12,でも、短い髪ってわたしに似合うかな？,不过，短发适合我吗？,translated,依恩,e02f76a9ce,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#38#12,似合うと思うよ,我觉得很适合你哦,translated,,21d59a7901,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#39#12,言われてみると、微妙かも,听你这么一说，感觉可能挺微妙的,translated,,47ac6a9086,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#41#12,"そ、そっか……。
+わたし、短いのも似合うんだ？","这、这样啊……
+原来我也适合短发啊？",translated,依恩,f6e029317c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#42#12,"えへへ……あなたがそう言うなら、
+ちょっと考えておこうかな？","诶嘿嘿……既然你都这么说了，
+那我就稍微考虑一下吧？",translated,依恩,bbe5b53f7c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#46#12,だよねー。,就是说嘛～,translated,依恩,4e92fc1f47,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#47#12,"わたしも、実は短い髪って
+あまり好きじゃないの……。","其实我也不太喜欢
+短头发呢……",translated,依恩,79a873a2dc,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#48#12,やっぱり、髪の毛は長めがいいよね？,果然还是长发更好吧？,translated,依恩,d9f7983170,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#53#12,"肩にかかるくらいってことは、
+いつもと同じくらいってこと？","搭到肩膀的长短，
+也就是说和以往差不多？",translated,依恩,c5e7c9c643,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#54#12,"う～ん……最初は適当に切ってあの長さに
+なってたんだけど、いつの間にかすっかり
+定着しちゃったな……。","唔～……起初只是随便剪剪
+才留成那个长度的，不知不觉间
+就彻底定型了呢……",translated,依恩,95e3865628,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_02m.txt#55#12,"でも、あなたがそう言ってくれてるのは、
+わたしに似合ってるから、と思って
+いいんだよね？","不过，你既然这么建议，
+我可以认为是因为
+很适合我才这么说的吧？",translated,依恩,0fc74db31f,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_02m.txt#56#12,"それじゃ、いつも通り適当な長さに
+切っちゃおっと。","那么，我就和平时一样
+剪到适中的长度吧。",translated,依恩,08c8818743,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#61#12,ほっ……そう言ってもらえて安心したよ。,呼……听你这么说我就放心了。,translated,依恩,037dbb5b28,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#62#12,"それならちょっと切るだけで済むから、
+あっという間に終わるしね。","那样的话只要稍微修一下就好，
+转眼间就能搞定了呢。",translated,依恩,cda3fd6636,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#63#12,"……あれ？
+でもそれだと、またすぐに切らなくちゃ
+いけなくなるような……。","……咦？
+但那样的话，感觉很快
+又得去剪了呢……",translated,依恩,67f7c707cf,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_02m.txt#64#12,それでもロングがいい,即便如此还是长发好,translated,,702d72af4b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#65#12,それだと面倒だね,那样确实挺麻烦的呢,translated,,293568611c,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#67#12,"う～ん……まあ、あなたがそう言うなら、
+ロングにしよっかな？","唔～……嘛，既然你都这么说了，
+要不还是留长发吧？",translated,依恩,6dcf32269e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#68#12,"それに、すぐまた切ることになっても、
+とりあえず今はちょっとで済むもんね。","而且就算很快又得剪，
+至少眼下只要稍微修修就好了嘛。",translated,依恩,53bdec493c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#72#12,"うん、やっぱり切る時はバッサリと
+切っちゃった方がいいよね？","嗯，剪头发果然还是
+一口气剪短比较好吧？",translated,依恩,3e1c34a1a0,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#73#12,"そうすれば、伸びるまでしばらくは
+放っておけるし……。","这样的话，在长长之前
+就能省心好一阵子了……",translated,依恩,b7eb4b8791,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#74#12,個人的にはロング好きなんだけど……,我个人倒是挺喜欢长发的……,translated,,b1b6137088,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#77#12,それじゃ、少し短めに切ろっかな？,那么，我就剪得稍微短一点吧？,translated,依恩,db98ab3623,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#81#12,えっ……そうなの？,诶……是这样吗？,translated,依恩,87151dc933,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#82#12,もぉ、それならそうと早く言ってよ。,真是的，要是这样就早点说嘛。,translated,依恩,9025b2bf7e,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#83#12,"あなたが長い方が好きって言うなら、
+わたしもそれに合わせたいのに……。","如果你说喜欢长发的话，
+我也想顺着你的喜好来呀……",translated,依恩,829e6de338,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#84#12,"今回はロングで決まりだね。
+もう、これからはハッキリ言わないと
+ダメだよ？","这次就决定是长发啦。
+真是的，以后可不能
+不把话说明白哦？",translated,依恩,a5af68d71e,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_02m.txt#88#12,えへへ、わたしもそう思ってたの。,诶嘿嘿，我也这么觉得。,translated,依恩,6e7517be6a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#89#12,"やっぱり長い方が、女の子、
+って感じがして良いよね？","果然还是长发
+更有女孩子的感觉，挺好的吧？",translated,依恩,f105d4b5d9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#90#12,わたしも、短いのより長い方が好きだよ。,我也觉得长发比短发要好。,translated,依恩,36f22b57df,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#96#12,"オカッパ？
+髪を切りそろえたら良いのかな？","齐耳短发？
+把头发剪齐就可以了吗？",translated,依恩,d1bcdd16b9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#97#12,"う～ん、今まではただ短くしたこと
+しかないし、失敗しちゃうかもしれないよ？","唔～，以前我只有单纯剪短过，
+说不定会剪砸哦？",translated,依恩,22fd972fd5,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#98#12,"それにすごく短くなるから、
+髪型もいじれなくなっちゃうかも……。","而且会变得非常短，
+可能连发型都没法打理了……",translated,依恩,1f7ac17664,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#99#12,それでもオカッパがいい,即便如此还是齐耳短发好,translated,,e2bb6d20c4,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#100#12,やっぱり考え直す,果然还是再考虑考虑吧,translated,,43c8a249f3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#105#12,あなたがそこまで言うなら……。,既然你都说到这个份上了……,translated,依恩,3ab0dd0a34,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#106#12,"でも、うまくできるか分からないから
+あまり期待はしないでね？","不过不知道能不能剪好，
+所以不要抱太大期望哦？",translated,依恩,c666eee785,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#111#12,"え？
+オカッパにしてみて欲しいの？","诶？
+希望我剪成齐耳短发吗？",translated,依恩,4fceec9d07,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#112#12,"またしばらく髪型いじれなくなっちゃうけど、
+あなたがそれでも良いならやってみようかな。","虽然会暂时没法打理发型，
+但如果那样你也愿意，我就试试看吧。",translated,依恩,0e1fa63e64,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#113#12,オカッパにして欲しい,想看你剪齐耳短发,translated,,02d8201d9d,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#114#12,やっぱり考え直す,果然还是再考虑考虑吧,translated,,43c8a249f3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_02m.txt#118#12,"それじゃあ、また髪を切りそろえてみるね。
+変な風にならないよう気をつけなきゃ。","那么，我再去把头发剪齐试试吧。
+可得小心别剪得怪模怪样的。",translated,依恩,1dc53386bf,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_02m.txt#124#12,"相談に乗ってくれてありがと。
+今度切る時もお願いするね。","谢谢你陪我商量。
+下次剪头发的时候也要拜托你哦。",translated,依恩,b2a10d9f18,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#2#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut02_03m.txt#4#12,"最近、大分また髪の毛が伸びてきたから、
+そろそろ切ろうかな、って思うの。","最近头发又长长了不少，
+我在想是不是该剪剪了。",translated,依恩,a978a8c93e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#5#12,"いつものことだから、もう何を聞こうと
+しているかはわかっちゃうかな？","因为都是老规矩了，
+我想你已经猜到我要问什么了吧？",translated,依恩,5f85c42560,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#6#12,"またどれくらいの長さにしたらいいか、
+あなたの好みを教えてほしいの。","所以还是想知道，
+你希望我剪成多长的发型呢。",translated,依恩,c12a27321e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#9#12,短く可愛い感じにしよう,剪成俏皮可爱的感觉吧,translated,,9eb4661a3a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#10#12,肩にかかるくらいの軽い感じで,刚好搭到肩膀的轻盈感,translated,,72e1794108,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#11#12,イオンは長い髪が一番だよ,依恩还是长头发最好看,translated,,0a541ad6d1,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#12#12,オカッパにしてほしい,想看你剪齐耳短发,translated,,bbb7ae8eee,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#14#12,短く可愛い感じにしよう,剪成俏皮可爱的感觉吧,translated,,9eb4661a3a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#15#12,肩にかかるくらいの軽い感じで,刚好搭到肩膀的轻盈感,translated,,72e1794108,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#16#12,イオンは長い髪が一番だよ,依恩还是长头发最好看,translated,,0a541ad6d1,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#19#12,"いつもの傾向から、大体はどんな感じに
+しろって言われるか想像できるけど……。","根据以往的倾向，我差不多能猜到
+你会让我剪成什么样了……",translated,依恩,23768c0b20,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#21#12,"……あれ？
+もしかしてお悩み中？","……咦？
+难不成还在犹豫吗？",translated,依恩,d497644fb9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#23#12,"う～ん、そんなに真剣に考えなくても、
+髪なんてすぐ伸びるから、今はこれ、
+って思ったのでもいいんだよ？","唔～，也不用考虑得那么严肃啦，
+反正头发很快就会长长，
+按你现在的感觉选也可以哦？",translated,依恩,429952465f,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#26#12,"ふふっ、時間切れでーす！
+今回はわたしが自分で決めちゃうね。","呵呵，时间到啦！
+这次就由我自己来决定吧。",translated,依恩,8097d64245,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#34#12,"よかったぁ……。
+わたしも、どうせ切るんだからバッサリ
+いきたいと思ってたの。","太好啦……
+反正都要剪，
+我也想干脆剪短一点呢。",translated,依恩,4c30365310,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#35#12,"じゃないと、またすぐ切ることになるから
+面倒になっちゃうし。","不然很快又得去剪，
+那样就太麻烦了。",translated,依恩,b427210f2d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#36#12,"それじゃ、今度の髪型はショートで
+決まりだね！","那么，这次的新发型
+就决定是短发啦！",translated,依恩,61f53934a8,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#40#12,"短い髪かぁ……。
+でも、わたしにショートヘアーって
+似合うかな？","短发呀……
+不过，短发
+适不适合我呢？",translated,依恩,0d5e788583,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#41#12,絶対可愛い、保証する！！,绝对可爱，我保证！！,translated,,9c74b1e378,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#42#12,……やっぱ似合わないかも,……感觉还是不太适合,translated,,bdc4a3298e,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#44#12,そ、そんな力いっぱい言うほど！？,用、用得着说得这么肯定吗！？,translated,依恩,8a33db77de,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#45#12,"でも、それだけ言ってもらえるなら、
+そうしてみようかな、って気になるよ。","不过既然你都这么说了，
+那我也想尝试看看了呢。",translated,依恩,5349538ab5,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#46#12,一応、考えておくね。,我先考虑考虑吧。,translated,依恩,0df6dd98da,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#50#12,"やっぱりそう思う？
+ふぅ……切る前に気づけてよかったよ。","你果然也这么觉得？
+呼……幸好剪之前意识到了。",translated,依恩,f99c272ce8,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#51#12,"それじゃあ、あまり短くなり過ぎない
+くらいの長さを目安にするね。","那么，我就以
+不太过剪短的长度为目标吧。",translated,依恩,0c86ce4cd9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#56#12,うん、わたしもそれくらいがいいかも。,嗯，我也觉得差不多那样比较好。,translated,依恩,f1fcea567f,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#57#12,"あまり短くし過ぎるのは勇気がいるし、
+ロングのままなのはあまり変わらないから
+面白く感じないし……。","剪得太短又需要勇气，
+维持长发的话又没什么变化，
+感觉挺无聊的……",translated,依恩,82c1346943,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#58#12,"だから、肩くらいの長さにするのが
+丁度いいと思うの。","所以我觉得剪到齐肩长度
+刚刚好。",translated,依恩,7d3582dacf,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#63#12,う～ん……ロングかぁ。,唔～……长发呀。,translated,依恩,7fae0ea9c6,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#64#12,"でも、それだとまたすぐに切らないと
+いけないから、正直面倒なんだけど……。","不过那样的话很快又得去剪，
+说实话挺麻烦的……",translated,依恩,2360133a19,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#65#12,"せっかく切るんだから、
+短めにした方がいいと思わない？","好不容易剪一次，
+你不觉得剪短点比较好吗？",translated,依恩,23b9bf68aa,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#66#12,似合わないと思う,我觉得不合适,translated,,4fb37e08b2,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#67#12,それも可愛いかもしれない,那样说不定也很可爱,translated,,0ab336e634,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#69#12,ハッキリ言いすぎだよ！,说得也太直接了吧！,translated,依恩,81d61a70ae,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#70#12,"でも、それくらいわたしにショートって
+似合わないのかな？","不过，短发真有那么
+不适合我吗？",translated,依恩,6d70b29895,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#71#12,"……一応、あなたの意見も参考にして、
+もう少し考えてみるね。","……总之我也会参考你的意见，
+再好好考虑一下的。",translated,依恩,3e205de4f0,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#75#12,"えへへ、それなら思い切って、
+バッサリ切ってみるのもいいよね？","诶嘿嘿，那下定决心
+痛快剪短也挺好的对吧？",translated,依恩,37838cfbd7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#76#12,"わたしも、その方がさっぱりするから
+大賛成だよ。","我也觉得那样更清爽，
+举双手赞成哦。",translated,依恩,3c378ce49d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#77#12,まあ、ロングの方が大人っぽいけど,嘛，长发虽然显得更成熟,translated,,6d0af73845,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#83#12,"そ、そうかな……？
+でも、確かにロングの方が、
+大人の女性って感じはするよね。","是、是吗……？
+不过长发确实
+更有一种成熟女性的感觉呢。",translated,依恩,7d810d7bd3,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#84#12,"……よーし、それじゃあやっぱり、
+今回はロングにするよ。","……好～，那这次
+果然还是留长发吧。",translated,依恩,9107017d48,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#85#12,"わたしも結婚したんだから、いつまでも
+子供っぽいままじゃいられないもん。","我也已经结婚了，
+总不能一直像个小孩子嘛。",translated,依恩,e5e8f2e26e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#89#12,"よかった、そう言ってもらえて。
+わたしも髪の毛は長い方が好きなの。","太好了，能听你这么说。
+我也更喜欢长头发呢。",translated,依恩,185e2171b6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#90#12,"お手入れがちょっと大変ではあるけど、
+やっぱり長い髪の方が、わたしだな、
+って気になれるし。","虽然打理起来有点麻烦，
+但果然还是留长发
+更有属于自己的感觉。",translated,依恩,df0fb5d51d,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut02_03m.txt#91#12,"あなたの意見を聞けて、決まったよ。
+今回は長めに切ることにするね。","听了你的意见，我已经决定啦。
+这次就剪长一点吧。",translated,依恩,bd13ca8d7e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#97#12,"オカッパ？
+髪を切りそろえたら良いのかな？","齐耳短发？
+把头发剪齐就可以了吗？",translated,依恩,d1bcdd16b9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#98#12,"う～ん、今まではただ短くしたこと
+しかないし、失敗しちゃうかもしれないよ？","唔～，以前我只有单纯剪短过，
+说不定会剪砸哦？",translated,依恩,22fd972fd5,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#99#12,"それにすごく短くなるから、
+髪型もいじれなくなっちゃうかも……。","而且会变得非常短，
+可能连发型都没法打理了……",translated,依恩,1f7ac17664,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#100#12,それでもオカッパがいい,即便如此还是齐耳短发好,translated,,e2bb6d20c4,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#101#12,やっぱり考え直す,果然还是再考虑考虑吧,translated,,43c8a249f3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#106#12,あなたがそこまで言うなら……。,既然你都说到这个份上了……,translated,依恩,3ab0dd0a34,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#107#12,"でも、うまくできるか分からないから
+あまり期待はしないでね？","不过不知道能不能剪好，
+所以不要抱太大期望哦？",translated,依恩,c666eee785,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#112#12,"え？
+オカッパにしてみて欲しいの？","诶？
+希望我剪成齐耳短发吗？",translated,依恩,4fceec9d07,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#113#12,"またしばらく髪型いじれなくなっちゃうけど、
+あなたがそれでも良いならやってみようかな。","虽然会暂时没法打理发型，
+但如果那样你也愿意，我就试试看吧。",translated,依恩,0e1fa63e64,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#114#12,オカッパにして欲しい,想看你剪齐耳短发,translated,,02d8201d9d,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#115#12,やっぱり考え直す,果然还是再考虑考虑吧,translated,,43c8a249f3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut02_03m.txt#119#12,"それじゃあ、また髪を切りそろえてみるね。
+変な風にならないよう気をつけなきゃ。","那么，我再去把头发剪齐试试吧。
+可得小心别剪得怪模怪样的。",translated,依恩,1dc53386bf,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut02_03m.txt#125#12,"相談に乗ってくれてありがと。
+早く切りたいなぁ……。","谢谢你陪我商量。
+好想快点去剪呢……",translated,依恩,fdfe00189d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#13#12,"えへへ……今日のわたし、ちょっとだけ
+昨日と違うところがあると思わない？","诶嘿嘿……你没觉得今天的我
+和昨天稍微有点不一样吗？",translated,依恩,8cf6bace49,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#14#12,"すぐに分かると思うけど、違う場所を
+トントン、ってしてみて。","应该马上就能看出来吧，
+试着戳戳不一样的地方看？",translated,依恩,6b2b8b9e1a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#17#12,……気づいてくれた？,……发现了吗？,translated,依恩,bcf9ca33b6,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#18#12,"えへへ、何のことを言ってるのかは
+まだ秘密だよ。","诶嘿嘿，我指的是哪里
+现在还是秘密哦。",translated,依恩,f4ad1e00dd,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#19#12,"やっぱり、こういうのは気づいて
+もらった方が嬉しいもん。","果然这种事情
+被对方主动发现才更让人开心嘛。",translated,依恩,b328f82b8f,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#20#12,"というわけで、わたしのどこが変わったか、
+わかったらそこをトントンしてね。","所以呢，要是知道了是哪里的变化，
+就戳戳那里告诉我吧。",translated,依恩,c3eb2de07f,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#23#12,"ところで、気づかないかな？
+わたしの何かが変わってるの。","话说，你没发现吗？
+我有哪里变了哦。",translated,依恩,5fdfb053a9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#24#12,何か気づいたら、そこを指さしてみて♪,要是发现了，就用手指指看吧♪,translated,依恩,e9abade90e,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#30#12,"えへへ……ところで、今日のわたしを見て、
+何か気づくことない？","诶嘿嘿……话说，看着今天的我，
+你没发现什么不一样吗？",translated,依恩,da440cac79,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#31#12,えへへ……。,嘿嘿……,translated,依恩,8bd06662d3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#32#12,……あ、あれ？,……咦、咦？,translated,依恩,c377f5e95d,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#33#12,えっと……もしかして、いないのかな？,那个……难不成不在吗？,translated,依恩,1aa95c3865,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#34#12,"……いないみたい。
+う～ん、わたしの気のせいだったのかな？","……好像不在呢。
+唔～，是我的错觉吗？",translated,依恩,9393420b97,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#38#12,えへへ……。,嘿嘿……,translated,依恩,8bd06662d3,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#39#12,……わかるかな？,……能看出来吗？,translated,依恩,edb85b0393,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#40#12,"ちょっと、髪の毛を切ってみたの。
+変じゃないかな？","我稍微去剪了剪头发哦。
+不会很奇怪吧？",translated,依恩,960438c4d1,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#41#12,"って、もしかしていないのかな？
+ちょっとトントンしてみてー。","我说，难不成你不在吗？
+稍微戳戳我嘛～",translated,依恩,300f813d3b,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#43#12,"あ、あれ？
+もしかして、いないの？","咦、咦？
+难道说，你不在吗？",translated,依恩,e060bdba4f,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#44#12,"おーい、髪の毛切ったお披露目だよー。
+せっかくだから見てほしんだけど？","喂～，这是剪完头发后的亮相哦～
+难得剪一次，真希望你能看看呢？",translated,依恩,9ae78cac2d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#45#12,……しゅん。,……失望。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#47#12,あっ！,啊！,translated,依恩,092801cb15,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#50#12,ねえねえ、おーい！！,喂喂，在吗！！,translated,依恩,a822a23b66,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#52#12,"見て見て！
+髪の毛切ったんだよ？","快看快看！
+我剪头发了哦？",translated,依恩,b2a0d41ca7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01.txt#53#12,いたらトントン♪ってして～。,在的话就咚咚♪敲两下嘛～。,translated,依恩,a1195c3043,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#55#12,…いないかな？,…不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01.txt#57#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01t.txt#4#12,"<CLBU>ピンポーン！
+大正解だよ！","<CLBU>叮咚！
+完全正确哦！",translated,依恩,3f04144826,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#5#12,"髪の毛を切ると、何となく気持ちが
+さっぱりするのがいいよね？","剪了头发之后，总觉得心情
+也跟着清爽起来了，真不错呢。",translated,依恩,41002591f7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01t.txt#9#12,"<CLBU>あ、あなたの目にどう映ってるのかは
+知らないけど、わたしの胸は昨日から
+何も変わってないよ。","<CLBU>我、我不知道在你眼里是什么样，
+但我的胸部
+从昨天开始可完全没变哦。",translated,依恩,facec06a9d,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#10#12,もぉ、ふざけないでちゃんとしてよ。,真是的，别开玩笑了认真点啦。,translated,依恩,733a347b84,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01t.txt#13#12,"<CLBU>えへへ、はずれー。
+ほら、もっとわかりやすい場所だよ。","<CLBU>诶嘿嘿，答错啦～
+好啦，是在更明显的地方哦。",translated,依恩,25e94dbdd0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#17#12,"<CLBU>えへへ……正解。
+髪の毛を切ったの。","<CLBU>诶嘿嘿……答对啦。
+我剪头发了哦。",translated,依恩,c102af5d0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#18#12,"……あなたなら、気づいてくれるって
+信じてたよ。","……我就相信
+你一定会发现的。",translated,依恩,fdbb4ff30e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01t.txt#22#12,<CLBU>ひゃっ！？,<CLBU>呀啊！？,translated,依恩,2e347e1e65,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#23#12,"も、もぉ！
+そんなところ、変わってないよ！","真、真是的！
+那种地方才没有变啦！",translated,依恩,288d66bb39,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01t.txt#24#12,"……も、もしかしたら微妙に変わってるかも
+しれないけど、でも、もっとわかりやすく
+変わったところがあるでしょ？","……也、也许只有微小的变化，
+不过，肯定还有
+更显眼改变的地方吧？",translated,依恩,0e7690c214,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut03_01t.txt#27#12,<CLBU>残念……そこじゃないよ。,<CLBU>真遗憾……不是那里哦。,translated,依恩,e531899d23,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#31#12,"<CLBU>わわっ！
+あたりあたり！","<CLBU>哇哇！
+答对啦答对啦！",translated,依恩,15249f90f6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#32#12,そう、髪の毛を切ったの！,没错，我剪头发了哦！,translated,依恩,667811d05c,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_01t.txt#36#12,"<CLBU>きゃあっ！！
+そこは触っちゃダメ！！","<CLBU>呀啊！！
+那里不可以碰啦！！",translated,依恩,b562a8b9eb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_01t.txt#37#12,"もう、エッチ。
+そんなところ、変わってません！","真是的，下流。
+那种地方才没有变呢！",translated,依恩,f9ae31e7e3,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut03_01t.txt#40#12,<CLBU>ん～、そこじゃないの。,<CLBU>嗯～，不是那里哦。,translated,依恩,56b18119cf,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut03_02.txt#2#12,あっ、やっぱりいたんだ！,啊，原来你真的在呀！,translated,依恩,c3974c7059,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_02.txt#5#12,ほっ……よかった、いてくれて。,呼……太好啦，幸好你在。,translated,依恩,2c12159673,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut03_02.txt#8#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/haircutevent/haircut04_01m.txt#3#12,"髪の毛切ってみたよ。
+どうかな～？","我试着剪了头发哦。
+觉得怎么样～？",translated,依恩,03088c00f6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#6#12,"あなたもわたしも、ショートがいいって
+意見だったから、バッサリ切っちゃった♪","因为你和我都觉得短发好，
+所以就痛快地剪短啦♪",translated,依恩,b551999767,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#8#12,"ショートはあまり好きじゃなかったけど、
+あなたが好きだって言うから、今回だけは
+ちょっとサービス♪　なんてね。","虽然我不太喜欢短发，
+但既然你说喜欢，这次就特地
+给你点福利♪……开玩笑的啦。",translated,依恩,64b8fd3617,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_01m.txt#10#12,"いろいろ考えたけど、やっぱりショートは
+ちょっと…だったから、少し長めに
+切ってみたの。","虽然考虑了很多，
+但短发果然还是有点……
+所以就剪得稍长了一些。",translated,依恩,6230a1e9cf,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_01m.txt#12#12,"と言っても、いつも通りなんだけどね～。
+でも、あなたがこのくらいが好きなら、
+これからもこのくらいでいいかな。","虽说如此，其实和平时差不多啦～。
+不过如果你喜欢这样的话，
+以后一直保持这样也挺好的。",translated,依恩,3f15c9131e,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_01m.txt#14#12,"やっぱりちょっと短めに切っちゃった。
+色々悩んだけど…ごめんね。","果然还是剪得有点短了。
+虽然纠结了很久……对不起哦。",translated,依恩,c9fa3ae1e6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#16#12,"この間あなたに意見聞こうと思ったら
+急にいなくなっちゃったから、
+どれくらい切るか、自分で決めちゃった。","前几天本来想问你的意见，
+结果你突然就不见了，
+所以留多长我就自己决定了。",translated,依恩,c1d5e8f9c6,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_01m.txt#18#12,"と言っても、あまり変わった感じが
+しないでしょ。","话虽如此，
+感觉也没什么太大的变化对吧。",translated,依恩,b1fdb20979,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#21#12,とても似合ってる,非常适合你哦,translated,,87c87403fa,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#23#12,…あれ？　もしかして、ダメかな…？,…咦？难道说，不好看吗…？,translated,依恩,dfe1f5d1bc,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#24#12,"似合わない？
+前の方が良かった…のかな？","不适合吗？
+难道说…还是以前比较好吗？",translated,依恩,32288c75ce,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#27#12,"ねえ、何か言って…？？
+…っていうか、きっとダメなんだね。","喂，说点什么嘛…？？
+…话说，肯定是不好看吧。",translated,依恩,4ae15a8074,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#28#12,とても似合ってる,非常适合你哦,translated,,87c87403fa,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#29#12,ちょっとダメかも,感觉好像不太好看,translated,,caf398b53b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#32#12,"うーん…まあいいや。
+次は一人で決めるかも。","唔～…算啦。
+下次我自己决定好啦。",translated,依恩,745183e1a6,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#38#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#39#12,"やっぱりあなたに「似合う」って
+言われると嬉しいな♪","果然被你说“很适合”，
+真的很开心呢♪",translated,依恩,be17080bb1,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#40#12,"なんだか気分も一新したみたい。
+今日もお互い頑張ろうね！","总觉得整个人都焕然一新了。
+今天我们也要一起加油哦！",translated,依恩,79c93d99d7,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#42#12,"ほんと！？
+よかったぁ！","真的吗！？
+太好啦！",translated,依恩,a48570cb9a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#43#12,"反応が無かったから、
+ちょっとビックリしちゃったよ。","因为刚才你没反应，
+我还吓了一跳呢。",translated,依恩,53343a7d5a,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#44#12,"でも本当に似合ってる？
+無理して嘘言ったりしなくても
+いいんだよ？","不过真的适合我吗？
+不用勉强
+对我说谎也没关系哦？",translated,依恩,b4f9bc46b0,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_01m.txt#45#12,"…といいつつ、嘘でも嬉しいんだけどね。
+だから、ありがと♪","…话虽如此，就算是说谎我也很高兴呢。
+所以，谢谢你啦♪",translated,依恩,0a38094ebe,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_01m.txt#50#12,そっか…ちょっと残念。,这样啊…有点遗憾呢。,translated,依恩,4dd6ec890e,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_01m.txt#51#12,"でも、正直に言ってくれてありがと。
+次はあなたも好きになれる髪型にできると
+いいな♪","不过，谢谢你坦白告诉我。
+希望下次能换一个
+你也会喜欢的发型呢♪",translated,依恩,1004631657,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#3#12,"ねぇ、どうかな？
+思い切ってバッサリやってみたの。","喂，觉得怎么样？
+我下定决心痛快剪短了哦。",translated,依恩,3d3a57ba66,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#4#12,"ちょっと切りすぎかもしれないけど、
+これはこれでありじゃないかな？","虽然可能剪得太短了点，
+不过这样其实也不错吧？",translated,依恩,69dc8b5e29,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#5#12,かわいいと思うよ,我觉得很可爱哦,translated,,ee4297c5fd,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#6#12,さすがに切りすぎ……,剪得确实太短了……,translated,,51f3f7fc8b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#13#12,ほ、ホント！？,真的吗！？,translated,依恩,f8a88926a8,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#14#12,"よかったぁ……。
+ずっと失敗だったかなぁ、って不安だったの。","太好啦……
+我还一直担心是不是剪砸了呢。",translated,依恩,e12f57345d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#15#12,"でも、あなたが気に入ってくれたなら、
+またこのくらいまで切ってみても良いかな♪","不过既然你很中意，
+下次再剪成这样也不错呢♪",translated,依恩,c1aa92f7cd,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#23#12,"はぁ……やっぱり、切りすぎだよね。
+内心失敗したなぁ、とは思ってたの……。","唉……果然还是剪得太短了呢。
+我内心其实也觉得剪砸了……",translated,依恩,64c7b6c3f1,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#24#12,"うぅ、次オカッパに挑戦するときは、
+失敗しないように気をつけるね……。","呜呜，下次挑战齐耳短发的时候，
+我会注意不再剪坏的……",translated,依恩,e68bf0bf20,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#25#12,早く、髪伸びないかなぁ……。,头发能不能快点长长呀……,translated,依恩,ea0eaaa551,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#28#12,"えへへ、髪の毛切ってみたの。
+気に入ってくれるかな？","诶嘿嘿，我剪头发了哦。
+你会喜欢吗？",translated,依恩,de25ab0294,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#31#12,"ショートは苦手なんだけど、
+今回はちょっと挑戦してみたいな、
+って思ってたの。","虽然我不习惯留短发，
+但这次也想稍微
+挑战一下看看呢。",translated,依恩,7a7b4ed4d1,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#32#12,"そしたら、あなたもショートが良いって
+言うから、思い切って短くしてみたよ。","再加上你也说短发好，
+我就下定决心剪短啦。",translated,依恩,340ec5b9d2,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#34#12,"本当はショートって苦手なんだけど、
+あなたが良いって言うから、
+思い切ってバッサリいっちゃったよ。","其实我不太习惯留短发，
+但既然你说好，
+我就痛痛快快剪短啦。",translated,依恩,5b2e6afe79,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#35#12,"頭が凄く軽くなった気分。
+えへへ……ちょっと落ち着かないかも。","感觉脑袋一下子轻了好多。
+诶嘿嘿……可能还有点不太习惯。",translated,依恩,8efd7c6950,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#37#12,"やっぱり、ショートって苦手だから、
+少し長めにしちゃった……。","果然我还是不习惯短发，
+所以剪得稍微偏长了一些……",translated,依恩,28ea068973,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#38#12,"ごめんね……。
+でも、こっちの方がわたしらしいと思うの。","对不起哦……
+不过我觉得这样更有我的风格呢。",translated,依恩,4102e7ff87,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#40#12,"とは言っても、結局いつも通りの
+長さにしちゃったんだけどね……。","虽说如此，结果还是剪成
+和平时差不多的长度了呢……",translated,依恩,c5a6dad08c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#41#12,"代わり映えしないかもしれないけど、
+やっぱりこれが一番わたしらしいと
+思ったの。","虽然可能没什么变化，
+但果然觉得这样
+最符合我的风格了。",translated,依恩,4caa37672d,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#43#12,"伸ばしてみようかと思ったんだけど、
+やっぱり、せっかく切るんだもん。","本来想着要不要留长，
+但难得剪一次嘛。",translated,依恩,4581cd6949,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#44#12,"それならある程度短くした方が良いと
+思って、短めにしちゃった。","所以觉得还是剪短一点比较好，
+就剪得偏短了些。",translated,依恩,b614efaa76,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#46#12,"あなたの意見を聞いてからにしようかと
+思ったけど、話の途中だったのに急に
+いなくなっちゃったでしょ？","本来想听完你的意见再决定的，
+但聊到一半你突然就走开了对吧？
+所以……",translated,依恩,3e4dfe6bcb,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#47#12,だから、いつもの長さにしちゃった。,所以我就剪成平时的长度了。,translated,依恩,0c4e21f224,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#49#12,"とはいっても、長めにしたからほとんど
+変わりはないと思うけど……。","虽说如此，因为留得比较长，
+我想几乎看不出变化吧……",translated,依恩,3cbd65ca24,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#50#12,"でも、毛先を整えたり、変にボリュームの
+ついたところをすいたりしたんだよ？","不过我有修发梢，
+还把显得过于厚重的地方打薄了哦？",translated,依恩,6e6dd503a0,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#52#12,"えへへ、どうかな？
+あなたの言うとおりオカッパにしてみたよ。","诶嘿嘿，怎么样？
+我照你说的剪成齐耳短发了哦。",translated,依恩,b99b3155bc,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#53#12,"いつものショートと違うから
+新鮮で面白いかも♪","和平时的短发不一样，
+感觉挺新鲜挺有意思的♪",translated,依恩,71571513bb,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#56#12,とても似合ってる,非常适合你哦,translated,,87c87403fa,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#58#12,……え、えっと……どうかな？,……那个、觉得怎么样？,translated,依恩,becbf0f905,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#59#12,感想を言って欲しいんだけど……。,我想听听你的感想呢……,translated,依恩,22da8534cb,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#62#12,"も、もしかして似合ってない？
+失敗しちゃった？","难道说很不合适吗？
+剪砸了吗？",translated,依恩,5510f57618,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#63#12,魅入ってた。凄く似合ってる,看入迷了。非常适合你,translated,,6cde3dfc73,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#64#12,ちょっとダメかも,感觉好像不太好看,translated,,caf398b53b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#67#12,"はぁ……失敗かぁ……。
+今度は違う髪型にするよ……。","唉……剪砸了吗……
+下次换别的发型吧……",translated,依恩,63d1917b00,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#73#12,"えへへ……あなたに気に入ってもらえて
+安心したよ。","诶嘿嘿……能合你的心意
+我就放心啦。",translated,依恩,a9e84e0890,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#74#12,"それに、わたしもこの髪型、
+結構気に入っちゃった。","而且这个发型，
+我自己也挺喜欢的呢。",translated,依恩,7275fafef0,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#75#12,今度切る時も、また同じ髪型にしようかな？,下次剪头发的时候，也留这个发型好不好？,translated,依恩,68893c8d00,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#77#12,"も、もぉ！
+いくらなんでも言い過ぎだよ！","真、真是的！
+再怎么说也太夸张啦！",translated,依恩,e194fb2b56,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#79#12,"え、えへへ……でも、やっぱり嬉しくて、
+笑顔になっちゃう。","诶、诶嘿嘿……不过我真的很开心，
+忍不住笑出来了。",translated,依恩,137cee3859,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#80#12,"あなたに喜んでもらえて、安心したよ。
+また切る時には、相談するね。","能让你高兴，我就放心了。
+下次剪的时候，再跟你商量哦。",translated,依恩,c0829e514c,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_02m.txt#85#12,そ、そっか……。,这、这样啊……,translated,依恩,d4c99105ec,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_02m.txt#86#12,"あっ、気にしないで。
+ダメって言われたのはショックだけど、
+ハッキリ言ってもらえたのは良かったよ。","啊，别在意。
+虽然被说不好看有点受打击，
+但你能明确告诉我真是太好了。",translated,依恩,e51f6b18c3,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_02m.txt#87#12,"それじゃ、今度切る時は違う髪型に
+するから、期待しててね。","那么下次剪的时候我会换个发型，
+敬请期待哦。",translated,依恩,6024e870b2,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#3#12,"ねぇ、どうかな？
+思い切ってバッサリやってみたの。","喂，觉得怎么样？
+我下定决心痛快剪短了哦。",translated,依恩,3d3a57ba66,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#4#12,"ちょっと切りすぎかもしれないけど、
+これはこれでありじゃないかな？","虽然可能剪得太短了点，
+不过这样其实也不错吧？",translated,依恩,69dc8b5e29,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#5#12,かわいいと思うよ,我觉得很可爱哦,translated,,ee4297c5fd,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#6#12,さすがに切りすぎ……,剪得确实太短了……,translated,,51f3f7fc8b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#13#12,ほ、ホント！？,真的吗！？,translated,依恩,f8a88926a8,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#14#12,"よかったぁ……。
+ずっと失敗だったかなぁ、って不安だったの。","太好啦……
+我还一直担心是不是剪砸了呢。",translated,依恩,e12f57345d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#15#12,"でも、あなたが気に入ってくれたなら、
+またこのくらいまで切ってみても良いかな♪","不过既然你很中意，
+下次再剪成这样也不错呢♪",translated,依恩,c1aa92f7cd,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#23#12,"はぁ……やっぱり、切りすぎだよね。
+内心失敗したなぁ、とは思ってたの……。","唉……果然还是剪得太短了呢。
+我内心其实也觉得剪砸了……",translated,依恩,64c7b6c3f1,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#24#12,"うぅ、次オカッパに挑戦するときは、
+失敗しないように気をつけるね……。","呜呜，下次挑战齐耳短发的时候，
+我会注意不再剪坏的……",translated,依恩,e68bf0bf20,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#25#12,早く、髪伸びないかなぁ……。,头发能不能快点长长呀……,translated,依恩,ea0eaaa551,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#28#12,それで、この髪型どう思う？,话说，你觉得这个发型怎么样？,translated,依恩,586e91347a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#31#12,"って、意見が合ってこの髪型にしたん
+だから、変ってことはないよね？","不过，这也是合乎我们意见的发型，
+应该不会很奇怪吧？",translated,依恩,22027aa08f,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#33#12,"わたしは……正直、あまり好きな
+長さじゃないの。","我其实……说实话，
+不太喜欢这个长度呢。",translated,依恩,6197e7c1d8,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#34#12,"でも、あなたが短い方がいい、って
+言うからこれにしてみたんだ。","但因为你说短一点好，
+我才试着剪成这样的。",translated,依恩,858375ff56,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#36#12,"ショートが良い、って話だったけど、
+やっぱり少し長めにしたんだ。","虽然之前说过短发好，
+但我果然还是剪得稍长了一些。",translated,依恩,d8a77df1ef,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#37#12,"ショートだと、ちょっと子供っぽく
+なっちゃいそうなんだもん。","因为剪成短发的话，
+感觉会显得像小孩子嘛。",translated,依恩,fc31672370,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#39#12,"いつもと同じくらいの長さだけど、
+今回もちゃんと似合ってるかな？","虽然和平时是差不多的长度，
+但这次也一样很适合我吧？",translated,依恩,6e483e5c4e,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#41#12,"長い方が良いって言われたけど、
+せっかく切るんだから、思い切って
+バッサリ切っちゃったの。","虽然你之前说长发好，
+但难得剪一次，
+我就痛痛快快剪短了。",translated,依恩,51e910c940,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_03m.txt#42#12,でも、すごく変にはなってないよね？,不过，应该没有变得很怪吧？,translated,依恩,d559a42494,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#44#12,"あなたに意見を聞きたかったんだけど、
+話の途中でいなくなっちゃったから、
+自分で決めたんだよ。","我本来想问问你的意见，
+但说到一半你就不见了，
+所以我就自己做主啦。",translated,依恩,c5536f01db,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_03m.txt#45#12,あなたの好みにあってるといいな。,希望能符合你的喜好呢。,translated,依恩,ab879a0c50,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#47#12,"まあ、毛先を整える程度にしか
+切ってないから、切る前と大して
+変わってはいないけど……。","嘛，因为只稍微修了修发梢，
+跟剪之前相比
+其实并没有太大变化就是了……",translated,依恩,b9123dd9a0,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_03m.txt#48#12,"でも、ロングの方がいい、ってあなたも
+言ってたし……似合ってるよね？","不过你也说过还是长发好……
+很适合我对吧？",translated,依恩,caf1b775bb,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#50#12,"えへへ、どうかな？
+あなたの言うとおりオカッパにしてみたよ。","诶嘿嘿，怎么样？
+我照你说的剪成齐耳短发了哦。",translated,依恩,b99b3155bc,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#51#12,"いつものショートと違うから
+新鮮で面白いかも♪","和平时的短发不一样，
+感觉挺新鲜挺有意思的♪",translated,依恩,71571513bb,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#54#12,とっても似合ってる,非常适合你哦,translated,,2e32706193,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#56#12,……ねえ、どうかな？,……那个，觉得怎么样？,translated,依恩,35f7eb77d4,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#57#12,……もしかして、似合ってない？,……难道说，不适合我吗？,translated,依恩,9757eec22a,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#60#12,"あ、あの、似合ってるか似合ってないか
+ハッキリ言ってほしいんだけど？","那、那个，到底适不适合，
+希望你能明确告诉我嘛？",translated,依恩,591ebfba20,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#61#12,とっても似合ってる,非常适合你哦,translated,,2e32706193,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#62#12,次は変えた方がよさそう,下次还是换个发型比较好,translated,,a32dd751f1,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#65#12,"はぁ……やっぱり、似合ってないのかな？
+次は違う髪形にしよっと。","唉……果然不适合我吗？
+下次换个别的发型好啦。",translated,依恩,42c63475aa,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#71#12,"えへへ……あなたにそう言って
+もらえると、切ってよかった、って
+気持ちになるよ。","诶嘿嘿……能听你这么说，
+我就会觉得
+剪了这个头发真是太好啦。",translated,依恩,cca69216d0,br=0 nl=2,3,
+inc/event/res/haircutevent/haircut04_03m.txt#72#12,"今度切る時も、あなたの好みに合う
+髪型にできたら嬉しいな。","下次剪头发的时候，
+也能剪出符合你喜好的发型就好了呢。",translated,依恩,fa77a103f5,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#74#12,ほっ……よかったぁ。,呼……太好啦。,translated,依恩,c71eaa721b,br=0 nl=0,1,
+inc/event/res/haircutevent/haircut04_03m.txt#75#12,"中々答えてくれないから、もしかして
+似合ってないのかな、って不安だったよ。","因为你半天不回答，
+我还担心是不是很不适合我呢。",translated,依恩,e5c424489d,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#76#12,"似合うって言ってくれてありがと。
+でも、今度の時はあまり焦らさないでね？","谢谢你夸我很适合。
+不过下次可不要再这么吊我胃口啦？",translated,依恩,80dc070ad9,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#81#12,"そっか……あなたの好みには合わない
+髪型になっちゃったみたいだね。","这样啊……看来换了个
+不符合你喜好的发型呢。",translated,依恩,958dfe0bc0,br=0 nl=1,2,
+inc/event/res/haircutevent/haircut04_03m.txt#82#12,"ごめんね、期待に応えられなくて。
+今度切る時は、あなたの好みに合う
+髪型になるよう頑張るよ。","对不起哦，没能达到你的期望。
+下次剪头发的时候，
+我会努力剪出符合你喜好的发型的。",translated,依恩,5d0ffe4fac,br=0 nl=2,3,

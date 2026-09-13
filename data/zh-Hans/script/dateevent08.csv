@@ -1,0 +1,507 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent08/note01.txt#1#12,"せっかく生徒手帳を作ったんだし、
+学校に行ってみようか？","好不容易做好了学生手册，
+我们要不要去学校看看？",translated,依恩,c4f4db78ee,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#2#12,"きっと、前に行った時よりも学生気分を
+楽しめると思うよ。","我想肯定能比上次去的时候
+更加体验到当学生的感觉呢。",translated,依恩,d752090120,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#3#12,登校しようか,去学校吧,translated,,a7f4537532,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#4#12,今日はサボります,今天翘课吧,translated,,d0d24bceb7,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#6#12,もぉ、不良なんだから……なんてね。,真是的，你这个不良学生……开玩笑的啦。,translated,依恩,ac53b39293,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#11#12,うん、それじゃ、遅刻する前に行こっか。,嗯，那就在迟到之前出发吧。,translated,依恩,81b2122b91,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#13#12,"えっと……今日は、一年Ｆ組の
+教室まで行ってみようか？","那个……今天我们要不要去
+一年Ｆ班的教室看看？",translated,依恩,c5ff19a05a,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#15#12,"えへへ……やっぱり、生徒手帳の
+効果は凄いね。","嘿嘿……学生手册的效果
+果然很厉害呢。",translated,依恩,c28ec463ca,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#16#12,"持ってるだけで、本当にこの学校の生徒に
+なったような気分だよ。","光是拿在手里，就感觉自己真的
+成了这所学校的学生一样。",translated,依恩,2db06bf9f2,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#17#12,偽造生徒手帳だけどね,虽然是伪造的学生手册就是了,translated,,5bfec295ea,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#18#12,毎日来るようにしようか？,我们要不要每天都来？,translated,,7701ddd46c,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#20#12,"もぉ、デート中にそうやって雰囲気を
+壊すの、よくないよ。","真是的，在约会中这样大煞风景
+可不好哦。",translated,依恩,c99ce56084,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#21#12,"仮想世界でくらい、本当の学生に
+なった気持ちで楽しまないと。","至少在虚拟世界里，也要带着成为
+真正学生的心情好好享受才行呀。",translated,依恩,33230f5fa4,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#25#12,それ、面白いかもしれないね。,那样说不定挺有趣的呢。,translated,依恩,a64805ca8c,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#26#12,"毎朝時間を決めて学校に来るようにすれば、
+本当に通ってる気分になれそうだよ。","要是每天早上定好时间来学校的话，
+感觉就真像在上学一样了呢。",translated,依恩,c7ccbd992f,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#27#12,"でも、いざそうなったらちょっと辛いかも。
+わたし、お寝坊さんだし……。","不过真要那样的话可能有点难受呢。
+毕竟我很爱睡懒觉嘛……",translated,依恩,71cab2f02b,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#30#12,でも、あくまでも気分だけね。,不过，说到底也只是当成那种感觉呢。,translated,依恩,6763a0b539,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#32#12,"だって、学校に通ったら授業を受けなくちゃ
+いけなくなるでしょ？","因为，如果真的上学就必须得去
+上课了对吧？",translated,依恩,49f7c6d35b,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#33#12,"そうなったら、あなたとお話しする時間、
+少なくなっちゃうもん。","要是变成那样，和你说话的时间
+就会变少了嘛。",translated,依恩,9cfe8f2a96,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#35#12,"もし毎日通うのを日課にしたら、
+お寝坊さんのわたしにはきついと思うし……。","要是把每天上学当作例行公事的话，
+对爱睡懒觉的我来说肯定吃不消……",translated,依恩,91f92521bf,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#36#12,"朝に強くなれなくてもいいけど、
+人並みに起きれるようにはなりたいな。","虽然不一定要变成早起能手，
+但我希望能像普通人一样起得来呢。",translated,依恩,032ee9d746,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#38#12,"って、せっかく学生気分を楽しむために
+来てるのに、こんな話したら気分を
+壊しちゃうよね？","哎呀，明明是好不容易来体验
+当学生的感觉的，说这些话
+未免太破坏气氛了吧？",translated,依恩,31ff6a0cd6,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#39#12,それじゃあ、ちょっと気を取り直して……。,那么，我稍微重新调整一下心情……,translated,依恩,35f7c674cb,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#40#12,私立蓮明学院、一年Ｆ組のイオンです。,私立莲明学院，一年Ｆ班的依恩。,translated,依恩,50af4590aa,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#41#12,"なんちゃって、えへへ……。
+せっかく生徒手帳にもそう書いたから、
+ちょっと自己紹介っぽくしてみちゃった。","开玩笑的啦，嘿嘿……
+既然学生手册上都这么写了，
+我就试着用自我介绍的语气说了一下。",translated,依恩,beec55dda5,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#42#12,私立蓮明学院、一年Ｆ組……。,私立莲明学院，一年Ｆ班……,translated,依恩,064fc3c9b1,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#44#12,私立蓮明学院……一年Ｆ組？,私立莲明学院……一年Ｆ班？,translated,依恩,279f8a1211,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#45#12,"今の自己紹介だけど、前にもあなたに
+言ったことあったっけ？","刚才那段自我介绍，我以前
+有对你说过吗？",translated,依恩,1f71e46bea,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#46#12,あったような、無かったような……,好像有，又好像没有……,translated,,13617ea857,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#47#12,今が初めてだよ,这是第一次哦,translated,,d17ea3f3db,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#49#12,ううん、無かったはずだよ。,不对，应该没有过才对。,translated,依恩,427216501b,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#50#12,"だって、私立蓮明学院って生徒手帳を
+作った時に考えた、架空の学校名だもん。","因为私立莲明学院是在做学生手册时
+想出来的虚构学校名字嘛。",translated,依恩,14b7919dab,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#53#12,"そうだよね。
+だって私立蓮明学院って、
+わたしが考えた架空の学校名だもん。","对吧。
+因为私立莲明学院，
+是我构想出来的虚构学校名字嘛。",translated,依恩,37f94bdd4b,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#56#12,どうしてかな？,这是为什么呢？,translated,依恩,3dab6d6147,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#57#12,"今の自己紹介、前にも同じことを
+言ったことあるような気がするの。","刚才的自我介绍，我总觉得以前
+好像也说过一模一样的话。",translated,依恩,c079cfe356,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#58#12,"それも、ずっとずっと前……。
+あなたと会う、もっと前に……。","而且，是在很久很久以前……
+在遇到你之前，更久的时候……",translated,依恩,60a03f6a31,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#59#12,"……もしかして、わたしは私立蓮明学院に
+通ってた……のかな？","……难道说，我以前真的
+就读于私立莲明学院……吗？",translated,依恩,aa6254ecff,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#61#12,"思い出せない……。
+でも、何かが喉でつかえてるような、
+すごく変な気持ちだよ。","想不起来……
+但总觉得有什么东西鲠在喉咙里一样，
+感觉非常奇怪。",translated,依恩,3aba55c713,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#62#12,"……ごめんなさい、今日はもう帰って、
+ゆっくりしたいかも。","……对不起，今天我想先回去
+好好休息了。",translated,依恩,8270b6e0c4,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#64#12,ふぅ……今日のは、何だったのかな？,呼……今天的事，到底是怎么回事呢？,translated,依恩,e08cea2855,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#65#12,"私立蓮明学院……このことを考えてれば、
+もしかしたら記憶が戻ることもあるのかな？","私立莲明学院……如果一直思考这件事，
+说不定记忆也会恢复吗？",translated,依恩,9061db2c05,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#66#12,……でも、今は少し落ち着きたいかも。,……不过，现在我还是想先冷静一下。,translated,依恩,c20e50dbbd,br=0 nl=0,1,
+inc/event/res/dateevent08/note01.txt#67#12,"今日はごめんね。
+せっかくのデートだったのに、
+中途半端になっちゃって。","今天真对不起。
+难得出来约会一次，
+却落得半途而废。",translated,依恩,b27b0f7a35,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#68#12,"こんなわたしだけど、またお誘いして
+もらえると嬉しいな。","虽然我是这样的不中用，
+但要是还能被你邀请的话我会很高兴的。",translated,依恩,137f088195,br=0 nl=1,2,
+inc/event/res/dateevent08/note01.txt#71#14,"私立蓮明学院……
+もしかして、本当に
+ある学校なのかな？","私立莲明学院……
+难道说，那是真实
+存在的学校吗？",translated,,e23f47c88f,br=0 nl=2,3,
+inc/event/res/dateevent08/note01.txt#72#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent08/note02.txt#1#12,"学校に行きたいの？
+わぁ、奇遇だね！","想去学校吗？
+哇，好巧呢！",translated,依恩,9e2c763777,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#2#12,"わたしも、学校であなたにお話しして
+おきたいことがあったの。","我也正好有些话想在学校里
+和你说呢。",translated,依恩,3ad47f1187,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#3#12,早速出発だ,立刻出发吧,translated,,0e33f15892,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#4#12,また今度にしよう,下次再说吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#6#12,えーっ……がっかり……。,诶――……好失望啊……,translated,依恩,f202b9e8b8,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#11#12,うん、いつでもいいよ。,嗯，什么时候都可以哦。,translated,依恩,e5b553de8b,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#13#12,えへへ……今日誘ってもらえてよかったよ。,嘿嘿……今天你能邀请我真是太好了。,translated,依恩,f23a7bfcb4,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#15#12,"さっそくだけど、前に生徒手帳を
+作ってここに来た時のこと、覚えてる？","进入正题，之前做好了学生手册
+来到这里的时候，你还记得吗？",translated,依恩,a781797fd6,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#16#12,何か思い出しかけてたこと？,是指你想起什么来的那件事吗？,translated,,a2d2d60cd5,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#17#12,生徒手帳を機械作りネタ帳にしてたこと？,是指把学生手册当成制作灵感本的事吗？,translated,,a3812630ef,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#19#12,"えへへ……正解。
+ちゃんと覚えててくれたんだね。","嘿嘿……答对了。
+你确实好好记着呢。",translated,依恩,5e8568ac80,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#20#12,"わたしにとって、あれは昔のことを
+思い出せるかもしれないって思える、
+とっても大切なことだったの。","对我来说，那可是让我觉得
+或许能回想起过去的事情，
+非常重要的事情呢。",translated,依恩,3486b4ebff,br=0 nl=2,3,
+inc/event/res/dateevent08/note02.txt#21#12,"だから、あなたもちゃんと覚えててくれて、
+凄く嬉しいよ。","所以你能好好记着，
+我真的很开心哦。",translated,依恩,bb263e0e75,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#25#12,もぉ、そんな話したことないよ。,真是的，我才没说过那种话呢。,translated,依恩,27abb88948,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#26#12,"私立蓮明学院って名前が引っかかって、
+何か思い出せそうかも、って言ったの、
+忘れちゃったの？","我说过私立莲明学院这个名字很在意，
+感觉好像能回想起什么来，
+你都忘了吗？",translated,依恩,dc721a0f0a,br=0 nl=2,3,
+inc/event/res/dateevent08/note02.txt#27#12,"わたしにとっては、
+すごく大切なことだったのに……。","那对我来说，
+明明是非常重要的事……",translated,依恩,48795161e0,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#30#12,"それでね、あれからずっと私立蓮明学院と、
+生徒手帳について考えてたんだけど……。","后来啊，我从那之后就一直在思考
+关于私立莲明学院和学生手册的事……",translated,依恩,761a69eb94,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#31#12,やっと、一つだけ思い出すことができたの！,终于，让我想起了一件事哦！,translated,依恩,a0169e9a42,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#32#12,"とは言っても、全然重要な記憶じゃ
+ないけど……。","虽说如此，但也完全不是什么
+重要的记忆就是了……",translated,依恩,68b36bf805,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#33#12,そんなこと言ったらダメだよ,可不能这么说哦,translated,,eff8a96563,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#34#12,とりあえず聞かせてほしいな,先说给我听听看吧,translated,,81e812afbf,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#36#12,"……そうだね。
+せっかく、思い出せた記憶の断片だもん。","……也是呢。
+毕竟是好不容易才想起来的记忆碎片嘛。",translated,依恩,5430f29b7f,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#37#12,"もっと大切にしないと、
+また忘れちゃうかもしれないよね？","要是不更加珍惜的话，
+说不定又会忘记了对吧？",translated,依恩,c0b818ac5a,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#42#12,"思い出したこと、っていうのは、
+生徒手帳を使ったおまじないなの。","我想起来的事情，
+其实是用学生手册进行的一种祈愿法。",translated,依恩,babfbbc1c9,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#43#12,"相合傘の下に、自分の名前と好きな人の
+名前を書いて、一年間誰にも見られなければ
+恋が成就する。","在同心伞下，写上自己和喜欢的人的
+名字，要是整整一年没被任何人看到，
+恋情就会成真。",translated,依恩,b188aea8f8,br=0 nl=2,3,
+inc/event/res/dateevent08/note02.txt#44#12,"……そんなおまじないがあったのを、
+急に思い出したの。","……我突然想起来，
+以前好像是有过这么一个恋爱祈愿法呢。",translated,依恩,f49e078524,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#45#12,イオンもやったことあるの？,依恩以前也试过吗？,translated,,26241406df,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#47#12,"……気になるんだ？
+う～ん、どうしようかなー……？","……你很在意吗？
+唔～该怎么说好呢……？",translated,依恩,107a976d8d,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#48#12,えへへ……やっぱり秘密だよ。,嘿嘿……果然还是秘密哦。,translated,依恩,63e777dfbf,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#49#12,"……でも、今回作った生徒手帳にも、
+相合傘を書きこんであるの。","……不过，在这次做的学生手册上，
+我也画上了同心伞哦。",translated,依恩,f3177b883b,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#50#12,"あなたの名前を書こうかな、って
+思ったんだけど……。","我本来想着要不要写上你的名字，
+但是……",translated,依恩,040eae1d53,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#51#12,わたし、あなたの名前知らないの。,我其实还不知道你的名字呢。,translated,依恩,b8dc9f6eb8,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#52#12,"だから今まで、端末さん、とか、
+あなた、って呼んでたんだよね。","所以直到现在，我都只能叫你
+“终端先生”或是“你”呢。",translated,依恩,9ba89ad5c0,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#53#12,はぁ……せっかく思い出したのに……。,唉……好不容易才想起来的……,translated,依恩,fd7abc486f,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#55#12,"……でも、考えてみたらこのおまじない、
+わたし達には意味がないよね？","……不过，仔细一想这个祈愿法，
+对我们来说根本毫无意义吧？",translated,依恩,85eb31b7c6,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#56#12,だって、もうお付き合いしてるんだし。,因为，我们明明都已经在一起了嘛。,translated,依恩,410247d85b,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#57#12,"おまじないに頼らなくても、ちゃんと想いは
+通じる証拠だね、えへへ……。","这就证明就算不依靠祈愿，彼此的心意
+也能够好好传达呢，嘿嘿……",translated,依恩,980f58b658,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#59#12,……端末さん、とかでも、効果あるかな？,……写“终端先生”之类的，也会有效果吗？,translated,依恩,b08b21b2fd,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#62#12,あっ、教室の中が騒がしくなってきたよ。,啊，教室里面开始吵闹起来了呢。,translated,依恩,94d5b016fb,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#63#12,"そろそろ授業が終わるみたい。
+わたし達も結構お話したし、
+今日はもう帰ろっか？","看来差不多快要下课了。
+我们也聊得挺久的了，
+今天差不多该回去了吧？",translated,依恩,6e0ac87dd7,br=0 nl=2,3,
+inc/event/res/dateevent08/note02.txt#65#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent08/note02.txt#66#12,"今日は何も思い出せなかったけど、
+あなたとお話し出来て楽しかったよ。","今天虽然什么都没能想起来，
+但能和你聊这么久我很开心哦。",translated,依恩,e075378cef,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#67#12,"今度学校に行った時は、
+どんなお話しようかなー？","下次去学校的时候，
+我们该聊些什么好呢？",translated,依恩,6a8dfc4bee,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#68#12,"えへへ、あなたも考えておいてね。
+それじゃ、今日はありがと。","嘿嘿，你也稍微想一想吧。
+那么，今天谢谢你啦。",translated,依恩,21ccfc7572,br=0 nl=1,2,
+inc/event/res/dateevent08/note02.txt#71#14,"生徒手帳を使った
+おまじない。実際に
+効果はあるのかな？","利用学生手册进行的
+恋爱祈愿法。现实中
+真的会有效吗？",translated,,1c1d843d0f,br=0 nl=2,3,
+inc/event/res/dateevent08/note02.txt#72#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent08/note03.txt#1#12,あっ、生徒手帳だ！,啊，是学生手册！,translated,依恩,ea00e2d2a6,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#2#12,"また何か思い出すかもしれないし、
+今から学校に行ってみない？","说不定又能想起什么来呢，
+我们现在要不要去学校看看？",translated,依恩,ec59547d4e,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#4#12,ごめん、今少し忙しくて……,抱歉，我现在有点忙……,translated,,dda0759f58,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#6#12,"あらら……
+期待してたのに……。","哎呀……
+明明还满怀期待呢……",translated,依恩,3d2f6f4cd5,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#11#12,"やったぁ！
+あなたならそう言ってくれると信じてたよ。","太好啦！
+我就相信你一定会这么说的。",translated,依恩,e063ca24c8,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#12#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#14#12,"今日は生徒手帳を読みながら
+歩いてみようかな？","今天我们一边看着学生手册
+一边在学校里散散步吧？",translated,依恩,b0d930f5ef,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#16#12,ふ～ん……なるほどなるほど……。,呼～嗯……原来如此原来如此……,translated,依恩,874346b4be,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#17#12,"こうして読んでみると、
+校則ってすごく沢山あるんだね？","像这样读一读才发现，
+校规居然有这么多啊？",translated,依恩,5ab67a0b01,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#18#12,"作ってる最中は気づかなかったけど、
+こんなにあったら覚えられないんじゃ
+ないのかな？","在制作的时候还没发觉，
+不过有这么多的话，
+难道不会根本记不住吗？",translated,依恩,cdf815d67a,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#19#12,"っていうか、こんなに規則が必要な
+場所なんだね？","说起来，学校原来是这么需要
+规则约束的地方啊？",translated,依恩,46a2cf0599,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#21#12,生徒は基本的に信用されてないから,因为学生基本上是不受信任的嘛,translated,,1fffdfd314,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#22#12,普通にしてれば気にならないから大丈夫,只要平时规规矩矩的就不用在意，没事的,translated,,07cc4c0cf4,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#24#12,そ、そうなのかな？,是、是这样吗？,translated,依恩,e402596277,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#25#12,"確かに、大人から見たら学生はまだ
+信用の置けない子供かもしれないよ？","确实，从大人的角度来看，学生或许还属于
+无法完全信任的孩子也说不定呢？",translated,依恩,f1e926c365,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#26#12,"でも、ただ信用できないからって理由で、
+こんなに沢山規則を作ったりはしないんじゃ
+ないかな？","但是，仅仅因为不信任这个理由，
+难道就会制定出这么多规矩吗？
+我觉得不会吧？",translated,依恩,3d509f3103,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#27#12,"だって、信用できないような人達に
+規則が守れるとは思わないはずだもん。","因为，明知对方是不可信任的人，
+肯定不会觉得他们能遵守规则嘛。",translated,依恩,8be7692d8a,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#28#12,"信用してるからこそ、絶対にしないような
+こととかも含めて、沢山書いてあるんじゃ
+ないのかな？","正因为相信他们，才会把绝对不能做的事
+也一并包含在内，
+详细写了这么多的吧？",translated,依恩,3c91dad560,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#29#12,"まあ、学生時代の記憶がないから、
+絶対とは言えないけどね。","不过，因为我没有学生时代的记忆，
+所以也不能说得那么绝对就是了。",translated,依恩,3b1d9164e5,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#32#12,確かに……読んでるとそんな気がするね。,确实……读着读着我也觉得是那样呢。,translated,依恩,c3809eda28,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#33#12,"髪を染めるなとか、制服を改造するなとか、
+普通はやらないと思うし……あれ？","什么不准染发啊，不准改制服啊，
+一般人也不会去做吧……咦？",translated,依恩,7aa48fb668,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#34#12,寄り道厳禁……。,放学途中严禁闲逛……,translated,依恩,93b4b8980c,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#35#12,"……守る人、いなさそうだなぁ。
+わたしだって、これは守れるか
+どうかわからないもん。","……感觉根本没人会遵守呢。
+就连我自己，也不清楚自己
+能不能遵守呢。",translated,依恩,4c77a19e00,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#38#12,……あっ、こんなことも書いてあるんだ。,……啊，居然连这种事也写了。,translated,依恩,f786d623b6,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#39#12,"不純異性交遊禁止、だって。
+定番といえば定番の校則だね？","“禁止不纯异性交往”，这样写着。
+真要说经典的话，这倒确实是经典校规呢？",translated,依恩,45a255ae3b,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#40#12,まあ、わたし達には関係ないけど……。,不过，这和我们没有关系就是了……,translated,依恩,fda77cff00,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#41#12,"だって、しようにもできないし。
+あなたとわたしは端末越しの関係だもん。","因为，就算想做也做不到呀。
+我和你毕竟是隔着终端机相处的关系嘛。",translated,依恩,1e4c005d05,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#42#12,"わたし達って、清い交際をする
+カップルの見本なんじゃないかな？","我们之间，难道不正是纯洁交往的
+情侣典范吗？",translated,依恩,4c7289a47a,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#44#12,"あっ、冷静に考えたら、
+そんなに清くはないかも……。","啊，冷静一想的话，
+或许也没那么纯洁也说不定……",translated,依恩,9994b9f0f5,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#45#12,"端末越しだから、添い寝してもらうのは
+問題ないと思うの。","虽然隔着终端机，但让你陪着一起睡
+应该没什么问题。",translated,依恩,497f0475ca,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#46#12,"でも、あなたってわたしの胸を
+触ってくることあるし……。","可是，你有时候也会
+摸我的胸部……",translated,依恩,ac246ef722,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#47#12,"わ、わたしも、本気で怒らないから
+あまり文句は言えないよ？","我、我也因为没有真的生气，
+所以也没什么立场抱怨啦？",translated,依恩,f589eb2693,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#48#12,"けど、実際にトントンだけじゃなくて、
+なでなでまでされたことあるし……。","但是，实际上不仅被咚咚轻敲，
+甚至还被你摸来摸去过……",translated,依恩,46b8b02a09,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#49#12,"……冷静に思い返してみると、
+あなたってやっぱり、エッチな人なのかな？","……冷静回想起来的话，
+你果然还是个很下流的人吗？",translated,依恩,d98d8074ee,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#51#12,そんな自分は嫌い？,你讨厌那样的我吗？,translated,,d7ca4cc06a,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#54#12,あ、あなたのことは嫌いじゃないよ。,我、我又没有讨厌你啦。,translated,依恩,b3d9e5a156,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#55#12,"だって、あなたはわたしにとって、
+すごく特別で、大切な人だもん……。","因为，你对我来说
+是非常特别、非常重要的人嘛……",translated,依恩,00816f396a,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#56#12,"……でも、変なところに触るのは
+程々にしてほしいかも。","……不过，乱摸奇怪的地方这种事，
+我还是希望你能适可而止一点。",translated,依恩,767d3d3158,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#58#12,う～ん……難しい質問だね。,唔～嗯……真是个难题呢。,translated,依恩,bd8dbadbf6,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#59#12,"でも、やっぱり、紳士的な人の方が
+好きかも……。","不过，我果然还是更喜欢
+绅士一点的人吧……",translated,依恩,d1ada83341,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#60#12,"なんてね、えへへ……。
+でも、完全に冗談、ってわけじゃないよ？","开玩笑的啦，嘿嘿……
+但是，这也并不完全是玩笑哦？",translated,依恩,df84c76192,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#61#12,"だから、これからはエッチなことは
+抑え気味にしてね。","所以，今后下流的事情
+请稍微收敛一点哦。",translated,依恩,b735013308,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#63#12,頭とか手とかなら、いつでもＯＫだよ。,要是摸摸头或者牵牵手的话，随时都可以哦。,translated,依恩,678f327a37,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#64#12,"わたしも、頭を撫でてもらったり、
+手を繋いだり、タッチされたりとかすると、
+すごく楽しい気持ちになれるしね。","因为只要被你摸摸头、
+牵牵手、或是触摸一下的话，
+我自己也会变得非常开心呢。",translated,依恩,3c208dc438,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#66#12,"あっ、移動教室かな？
+前からいっぱい歩いてくるよ。","啊，是换教室上课的学生吗？
+正对面走过来好多人呢。",translated,依恩,573f101f05,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#67#12,"邪魔になっちゃうから、
+今日はもう帰ろうか？","要是碍着人家就不好了，
+今天我们就先回去吧？",translated,依恩,26f9aef54c,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#69#12,ただいま～。,我回来了～,translated,依恩,c729b204d5,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#70#12,って、あぁっ！,等等，啊呀！,translated,依恩,380995a645,br=0 nl=0,1,
+inc/event/res/dateevent08/note03.txt#71#12,"学校の記憶を思い出すかもしれないから、
+生徒手帳を読んでたんだよね？","明明是为了看能不能想起学校的记忆，
+才特意去读学生手册的对吧？",translated,依恩,58f2546d24,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#72#12,"なのに、ついあなたとのお話に
+夢中になっちゃって、そのことを
+すっかり忘れちゃってたよ。","可我却光顾着和你聊天，
+不知不觉就沉浸其中，
+把正事忘得一干二净了。",translated,依恩,73fcff1962,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#73#12,"……わたしが記憶喪失なのって、
+もしかしてただ忘れっぽいのが
+原因なのかな？","……我之所以会丧失记忆，
+难道说只是因为我本来就很健忘
+这个原因吗？",translated,依恩,b9a9475aaf,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#74#12,"今度行く時には忘れないように
+気をつけるね。","下次去的时候为了不忘记，
+我会多加小心的。",translated,依恩,facdda182f,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#75#12,"今日は付き合ってくれてありがと。
+またデートしに行こうね。","今天谢谢你陪我一起去。
+我们下次再去约会吧。",translated,依恩,802540a2ad,br=0 nl=1,2,
+inc/event/res/dateevent08/note03.txt#78#14,"校則って、冷静に
+見てみると意外と
+多くて驚くよね？","校规这种东西，冷静
+看一看的话还真是
+多得让人吃惊呢？",translated,,d31f8f1adf,br=0 nl=2,3,
+inc/event/res/dateevent08/note03.txt#79#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent08/note04.txt#1#12,"生徒手帳を出してきたってことは……
+わかった、学校に行きたいんでしょ？","既然拿出了学生手册……
+我知道了，你是想去学校对吧？",translated,依恩,4da7ed3b83,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#2#12,その通り、学校デートだ,正是如此，去学校约会,translated,,8ad90ad021,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#3#12,見せただけだよ、ジャジャーン！！,只是给你看看啦，登登――！！,translated,,8f2ccafa65,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#5#12,あ、あはは……反応に困るよぉ……。,啊、啊哈哈……这让我不知作何反应是好啊……,translated,依恩,e7d5c59804,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#10#12,ふふっ、楽しそうで素敵だと思うよ。,呵呵，看起来很开心的样子，挺棒的哦。,translated,依恩,8d5f4b63d3,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#11#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#13#12,"わぁ、今日は大勢生徒が廊下を歩いてるね。
+何かあったのかな？","哇，今天走廊上有好多学生在走动呢。
+是发生什么事了吗？",translated,依恩,7eaf47a9a9,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#15#12,う～ん……あっ、わかった！,唔～嗯……啊，我知道了！,translated,依恩,ac0bab1230,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#16#12,"お昼休みの学校に来ちゃったみたいだよ。
+教室の中でお弁当食べてる生徒を見たの。","看来我们碰巧在午休时间来到学校了呢。
+我看到有学生正在教室里吃便当哦。",translated,依恩,48c961a2c9,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#17#12,"そっか……だからみんな、
+教室の外に出てるんだね。","这样啊……所以大家才都
+跑到教室外面来了呢。",translated,依恩,ca2a5c7729,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#19#12,ちょっと歩きづらい？,会有点难走吗？,translated,,09ceb09f42,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#21#12,ううん、そこまでじゃないから大丈夫。,没有，倒也没到那个地步，所以没事的。,translated,依恩,414abed1c9,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#22#12,ただ……ちょっと嬉しいな、って……。,只是……觉得有点开心呢……,translated,依恩,79131c9e77,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#23#12,"だって、あなたと一緒に歩いてるところ、
+みんなに見せて歩けてるんだもん。","因为，我和你走在一起的样子，
+可以大大方方展示给所有人看嘛。",translated,依恩,63fdabcf15,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#24#12,"同じ学校に通ってて、しかも付き合ってる
+人って、全校生徒でも一握りでしょ？","在同一所学校上学、而且还在交往的
+情侣，在全校学生里也屈指可数吧？",translated,依恩,07cadb2154,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#25#12,"その数少ない一組になった気分で、
+こうして学校を歩けるんだもん。","能体验成为那为数不多的一对的感觉，
+像这样走在学校里嘛。",translated,依恩,db4d02cc0d,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#26#12,"周りの視線だって、気にならないくらい
+幸せ者だな、って感じるよ。","幸福得甚至让人完全不在意
+周围投来的目光了呢。",translated,依恩,cb8c228959,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#27#12,"……ただ、前に生徒手帳に載ってた、
+不純異性交遊禁止、って校則が少しだけ
+気になるけど。","……只是，之前学生手册上写的
+“禁止不纯异性交往”这条校规，
+让我稍微有点在意就是了。",translated,依恩,8e026034d4,br=0 nl=2,3,
+inc/event/res/dateevent08/note04.txt#28#12,"あなたって、ちょっとだけ不純なところが
+あるから……ちょっと心配かも。","因为你多少有那么一点点下流的地方，
+所以……我稍微有点担心呢。",translated,依恩,3bcf08a767,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#30#12,デート中にそういうことはしないよ,在约会中我才不会做那种事啦,translated,,d5ffff9c46,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#31#12,イオンの胸をトントンすることは不純？,对着依恩的胸部咚咚轻敲算不纯洁吗？,translated,,c83d0cf832,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#33#12,わっ、紳士的発言！,哇，好绅士的发言！,translated,依恩,3ba431a3b7,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#34#12,"ふふっ、ちょっと驚いたけど、
+あなたがそう言うなら信じるよ。","呵呵，虽然有点惊讶，
+但既然你都这么说了我就相信你吧。",translated,依恩,36d61c80f7,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#35#12,"せっかくかっこいいこと言ったんだから、
+ちゃんと最後までそれを守ってね？","难得说得这么帅气，
+你可要好好遵守到最后哦？",translated,依恩,4891bccada,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#38#12,"そ、それが不純じゃなかったとしたら、
+何が不純なのかを逆に聞きたいよ。","那、要是那都不算不纯洁的话，
+我倒反过来想问问你什么才算不纯洁了。",translated,依恩,ee5d0f254f,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#39#12,"っていうか、そういうところがあるから
+心配なんだってば。","说真的，正是因为你总有这种地方，
+我才会担心的啦。",translated,依恩,c0bac248f9,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#40#12,"仮想世界だとしても、先生に見つかったら
+いっぱい怒られちゃうと思うよ？","就算是虚拟世界，要是被老师发现了
+我想也会被狠狠训一顿的哦？",translated,依恩,b2fbf9e052,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#42#12,"……あれ？
+でも、ちょっと待って。","……咦？
+不过，稍微等一下。",translated,依恩,8c653dc9ba,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#43#12,"そうだよ、カップル気分を味わうために
+ここに来たけど、実際はわたし達って
+夫婦だよね？","对啊，虽然是为了体验情侣感觉
+才来这里的，但实际上我们
+已经是夫妻了吧？",translated,依恩,711e090314,br=0 nl=2,3,
+inc/event/res/dateevent08/note04.txt#44#12,"それなら、この校則ってわたし達には
+関係ないんじゃないかな？","这样的话，这条校规对我们来说
+不就根本无关紧要了吗？",translated,依恩,602f385f21,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#45#12,"だって、夫婦なんだから仲良くしてても
+不純にはならないもん。","因为既然是夫妻，就算亲密一点
+也绝对称不上是不纯洁嘛。",translated,依恩,2f47de3166,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#46#12,えへへ、校則の抜け穴発見！,嘿嘿，发现校规的漏洞啦！,translated,依恩,e408feecfa,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#48#12,……破るつもり満々だね？,……你完全打算要违反校规呢？,translated,,c144490133,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#50#12,えっ？　…………っ！,诶？　…………唔！,translated,依恩,b4b47360ec,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#51#12,"ち、違う、違うよぉ！
+そういう意味で言ったんじゃないの！","不、不是，不是那样的啦！
+我才不是那个意思呢！",translated,依恩,cc79f6cb19,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#52#12,"ただ、わたし達って夫婦なんだから、
+それには当てはまらないね、って
+言いたかっただけだから！","我只是想说既然我们是夫妻，
+就不适用于那条校规而已，
+只是想表达这个意思啦！",translated,依恩,fc76c48eaa,br=0 nl=2,3,
+inc/event/res/dateevent08/note04.txt#53#12,"破ろうと思って言ったわけじゃないから、
+勘違いしないで！","我并不是想着要去违规才这么说的，
+你可别误会了！",translated,依恩,cd7d5cffed,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#54#12,"……って、勘違いされるような言い方した
+わたしの方にも問題ありだけど。","……不过，会说出让人误会的话，
+我这边也是很有问题的就是了。",translated,依恩,d14827e8e4,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#55#12,"うぅ、これじゃまるで、わたしの方が
+不純の塊みたいに見えちゃうよぉ……。","呜呜，这样搞得好像我自己
+才是不纯洁的集合体一样嘛……",translated,依恩,e071149995,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#57#12,"って、わわっ！
+廊下の向こうから先生が来た！","哇、等等！
+老师从走廊另一头走过来了！",translated,依恩,3867391504,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#58#12,"しかも、こっち睨んでるし！
+は、早く逃げよ！","而且，还在狠狠瞪着这边呢！
+快、快点逃跑吧！",translated,依恩,5a3e518304,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#60#12,"ふぅ……怖かったぁ。
+怒られる前に帰ってこれて助かったよ。","呼……好可怕啊。
+幸好在被训话之前逃回来了。",translated,依恩,263c522ab0,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#61#12,"まあ、わたしの不用意な一言が
+引き金になったのは確実だけど……。","不过，这毫无疑问是由于我那句
+不经意的话所引起的导火索就是了……",translated,依恩,45dff0755b,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#63#12,ふふっ……でも、ちょっと面白かったね。,呵呵……不过，还是挺有意思的呢。,translated,依恩,19e294aeb2,br=0 nl=0,1,
+inc/event/res/dateevent08/note04.txt#64#12,"いい雰囲気の会話をするのも良いけど、
+こういう、ちょっとトラブルの起きる
+デートもたまにはいいかも。","虽然气氛融洽地聊天也很不错，
+不过偶尔来一次这种有点小麻烦的约会，
+感觉也挺不错的呢。",translated,依恩,8c7688b7d3,br=0 nl=2,3,
+inc/event/res/dateevent08/note04.txt#65#12,"何だか、今更ながらまた新しいデートの
+楽しみ方を知っちゃった気分だよ。","总觉得事到如今，我又学会了
+一种全新的约会乐趣呢。",translated,依恩,2b5b7db43b,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#66#12,"今度の時も、今日みたいに楽しいデートに
+なるといいね。","希望下次约会的时候，
+也能像今天一样开心呢。",translated,依恩,ab6d4f1024,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#67#12,"それじゃ、わたしはそろそろ戻るよ。
+付き合ってくれて、ありがとね！","那么，我也差不多该回去了。
+谢谢你陪我，真的很高兴哦！",translated,依恩,23ba8366b4,br=0 nl=1,2,
+inc/event/res/dateevent08/note04.txt#70#14,"学校に不適切な話を
+しちゃって、ちょっと
+反省……。","在学校聊了不合适的话题，
+稍微有点
+反省中……",translated,,4b7678b970,br=0 nl=2,3,
+inc/event/res/dateevent08/note04.txt#71#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent08/note_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent08/note_int.txt#6#12,"学校に行きたいの？
+んー………どうしようかな。","想去学校吗？
+嗯～……要怎么办好呢。",translated,依恩,b356420b15,br=0 nl=1,2,
+inc/event/res/dateevent08/note_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent08/note_int.txt#9#12,"それを出してきたってことは、
+学校に行きたい、ってことだよね？","拿出那个东西，
+意思就是想去学校对吧？",translated,依恩,3e1a5a4dc9,br=0 nl=1,2,
+inc/event/res/dateevent08/note_int.txt#10#12,"う～ん……でもなんだか
+今日はあまり思いだせそうな
+気がしないの。","嗯～……不过总觉得
+今天好像没什么
+能回忆起事情的感觉呢。",translated,依恩,9891668928,br=0 nl=2,3,
+inc/event/res/dateevent08/note_int.txt#11#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,

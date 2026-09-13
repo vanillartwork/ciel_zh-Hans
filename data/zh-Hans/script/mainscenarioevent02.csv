@@ -1,0 +1,1420 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/mainscenarioevent02/mea02_01.txt#5#12,"新しい場所…
+そう、思い出したの。夢ノ珠のこと。","新的地方……
+对，我想起来了。关于梦之珠的事。",translated,依恩,59ea60bf41,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#7#12,"それとね、新しい場所の事も思いだした。
+そう…夢ノ珠っていうコロンのこと。","还有呢，我也想起了新地方的事。
+对……就是名为梦之珠的克隆。",translated,依恩,687577ec53,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#9#12,"万寿沙羅でハスの花を咲かせて、
+それが、もう夢ノ珠みたいな遠い所でも
+噂になってて、ビックリした。","在万寿沙罗让莲花绽放的事，
+竟然连梦之珠这么遥远的地方
+都有人在传闻了，真让我吓了一跳。",translated,依恩,3ad8ebd5ce,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_01.txt#10#12,"それでわたし、この夢ノ珠で
+ネイちゃんと出会ったんだ。","然后我呢，就是在这座梦之珠
+遇见了妮伊。",translated,依恩,4fef822cc0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#11#12,"ネイちゃんって凄く活発で、
+とっても頼りになるんだよね。","妮伊性格非常活泼，
+而且特别靠得住呢。",translated,依恩,b2fe3c4401,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#12#12,"ねえ、あなたから見て、
+ネイちゃんってどんな感じだった？","呐，在你的眼中，
+妮伊给你一种怎样的感觉呢？",translated,依恩,f37922ce5d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#13#12,普通に今どきの元気な子,很常见的当下元气女孩,translated,,b1adde62d8,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_01.txt#14#12,結構好みかも…,挺符合我的喜好……,translated,,61fc5c068f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_01.txt#17#12,"そっか、普通に元気な子なんだ。
+あなたの周りには普通にいるタイプの
+女の子なんだね。","这样啊，很常见的元气女孩啊。
+是你身边很普遍的那种
+女孩子类型呢。",translated,依恩,94189297c8,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_01.txt#18#12,"でも、わたしにとっては、今までになく
+元気で活発で、本当にびっくりしたの。","可是对我来说，她那种前所未有的
+活力与开朗，真的让我吃了一惊呢。",translated,依恩,01f914bed4,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#22#12,"えええええっ！！
+あなたって、ネイちゃんみたいな子が
+好みなの！？","诶诶诶诶诶――！！
+你竟然喜欢
+妮伊那种类型的女孩子吗！？",translated,依恩,37b118d584,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_01.txt#24#12,…そっかぁ………。,……这样啊…………。,translated,依恩,00cd972af4,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_01.txt#26#12,"でもそれなら、これからネイちゃんが沢山
+見れるかもしれないから、っ…楽しみだね～。","不过那样的话，今后说不定就能
+经常看到妮伊了，唔……真让人期待呢～。",translated,依恩,dba29fa7b6,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#29#12,"なんかね、先のことはまだ全然思い出せ
+ないんだけど、これからネイちゃんと
+楽しい旅が始まる事だけは思いだしたよ。","总觉得，后面的事虽然还完全想不起来，
+但我唯一想起来的，就是接下来要和妮伊
+展开一段充满乐趣的旅程了哦。",translated,依恩,a9e8387b8a,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_01.txt#30#12,"夢ノ珠でどんなことが起こったのか、
+ちょっとドキドキだけど、きっとネイちゃん
+が、わたしを助けてくれると思う。","梦之珠里究竟发生了什么，
+虽然有些忐忑不安，但我想
+妮伊一定会帮助我的。",translated,依恩,89e84db601,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_01.txt#31#12,"どんな冒険をするのかなぁ～。
+すごく楽しみ♪","会展开怎样的冒险呢～。
+真是超级期待呢♪",translated,依恩,bf88679a44,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01.txt#32#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_01t.txt#3#12,"<CLBU>ああっ、
+もしかしてフォローしてるつもり？","<CLBU>啊啊，
+你该不会是打算帮自己圆场吧？",translated,依恩,2d578b41e5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_01t.txt#4#12,"ありがと！
+でもネイちゃんの方が好みなんでしょ？","谢谢你啦！
+不过你心里还是更中意妮伊对吧？",translated,依恩,5214320ed0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_01t.txt#5#12,"ふふっ、なんてね♪
+ちょっと意地悪だったかな……？","呵呵，开玩笑的啦♪
+我是不是稍微有点坏心眼了……？",translated,依恩,033c26a752,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#5#12,"今回はちょっと、色んな意味で
+ビックリしたよ。","这一次，各种意义上
+都让我大吃了一惊呢。",translated,依恩,5366a0faf8,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#7#12,"それと、他にもあるよ。
+とってもビックリしたこと。","还有，别的也有哦。
+非常让我吃惊的事情。",translated,依恩,7bd14b375e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#9#12,"カノンさんが助けた人達…
+まさか夢ノ珠であんな事に
+なっていたなんて。","卡诺解救的那些人……
+真没想到在梦之珠
+竟然会落得那样的下场。",translated,依恩,5bb682d09e,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#10#12,"それに、パリーさんたちも、いくら地文と
+対立してるとは言っても、生き死にがかかって
+いるんだから助けてあげても…","而且，帕里先生他们也是，就算再怎么
+与地文对立，人命关天之际
+也该施以援手才是啊……",translated,依恩,4345840411,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#11#12,寝返ったんだから当然の報い,既然背叛倒戈那是罪有应得,translated,,003860a81f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#12#12,イオンは優しいな,依恩真善良啊,translated,,495fc5e177,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#14#12,"…んー…そういう考え方もあるけど…
+でも、やっぱりわたしは、困ってる人が
+誰だったとしても、見捨てられないよ。","……唔……虽然也有这种看法……
+但换成我的话，无论遇到困难的人是谁，
+都绝对无法见死不救。",translated,依恩,78258df941,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#15#12,"だって、みんな頑張って生きてるんだもん。
+みんな、その時を一生懸命生きてるんだ
+もん。だから…","因为，大家都在努力生活呀。
+每个人，都在全力以赴活在当下
+不是吗。所以……",translated,依恩,8522a2373a,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#16#12,甘い考え方だな,这种想法太天真了,translated,,213fd1b5ef,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#17#12,イオンは優しいな,依恩真善良啊,translated,,495fc5e177,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#20#12,えっ……。,诶……。,translated,依恩,0fceb3bc5a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#23#12,そ、そうか…な……。,是、是这样……吗……。,translated,依恩,9469d4ed05,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03.txt#25#12,"……ごめんね。
+変なお話しちゃって。","……对不起哦。
+跟你说了些奇怪的话题。",translated,依恩,685647aa8f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#26#12,"…あなたと共感出来なくて残念だけど
+でも、あなたにはあなたの考えが
+あるんだもんね。","……虽然没能和你产生共鸣很遗憾，
+但每个人都有自己的想法，
+这也是理所当然的呢。",translated,依恩,790a56bb0c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#33#12,"…ううん、そういうのじゃなくて。
+わたしはただ、みんなの命とか、幸せとか
+そういうものより大事なものは無いって…。","……不，不是那样的。
+我只是觉得，比起大家的性命或幸福，
+并没有什么东西是更加重要的……。",translated,依恩,76376f65a4,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#34#12,"いつもそう思ってるから……。
+ただそれだけなの。","因为我一直都是这么认为的……。
+仅仅只是这样而已。",translated,依恩,626ecb2408,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#35#12,"でも、わたしの想いに共感してくれて
+すごく嬉しいかも。","不过，你能理解并认同我的想法，
+我真的非常高兴哦。",translated,依恩,d36f177375,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#36#12,"あなたの方が、わたしよりずっと
+優しい人なんだと思うよ。","我觉得你其实比我
+还要温柔得多呢。",translated,依恩,4c505ab257,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#38#12,"だって、わたしのこんな勝手な想いを
+受け入れてくれて、共感してくれてる
+んだもん。えへ♪","因为你愿意包容并认同我
+这种任性一厢情愿的想法呀。
+嘿嘿♪",translated,依恩,069c987155,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_03.txt#40#12,"今回は、あなたとちょっと深いお話が
+出来て良かったかも。","这一次，能跟你聊一些
+稍微有深度的话题真是太好了呢。",translated,依恩,4b6bc69e4b,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03.txt#41#12,"でも、もし不愉快に思っちゃってたら
+ごめんね。","不过，要是让你感到不快了的话，
+对不起哦。",translated,依恩,857525dc17,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#6#12,"<CLBU>…慰めてくれてるの？
+それとも、気を遣ってるの？","<CLBU>……你是在安慰我吗？
+还是说，只是在顾及我的感受？",translated,依恩,56f8b2637a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_03t.txt#7#12,どっちにしても、だいじょうぶだよ。,不管是哪一种，都没关系哦。,translated,依恩,796a72602e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#8#12,みんなそれぞれ、考えは違うもん。,毕竟每个人的想法都不一样嘛。,translated,依恩,a0ba97ac5a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#9#12,"それに、あなたの考え方もわかるし…
+だから平気。","而且，我也能理解你的想法……
+所以没事的。",translated,依恩,44b42e8b25,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#11#12,<CLBU>もう、大丈夫だってば。,<CLBU>真是的，都说了没事啦。,translated,依恩,10c8d1a27f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_03t.txt#16#12,"<CLBU>…えへへ。
+ちょっと嬉しいかも。","<CLBU>……嘿嘿。
+心里稍微有点开心呢。",translated,依恩,be8c8aeeaa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_03t.txt#17#12,"今日のあなたの手は、
+とても温かい…。","今天你的手掌，
+好温暖哦……。",translated,依恩,ef2034c16f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#18#12,想いを共感できてるからかな…？,是因为彼此心意相通了吗……？,translated,依恩,35e04abfaf,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#19#12,ずっとこうしていたいね。,真想一直这样下去呢。,translated,依恩,1f312bb034,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_03t.txt#21#12,<CLBU>…ふふっ♪,<CLBU>……呵呵♪,translated,依恩,548dab90c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_04.txt#5#12,"ふふっ、今回は素敵な冒険だったね。
+ちょっとドキドキしたけど。","呵呵，这次真是一场精彩的冒险呢。
+虽说稍微有点让人提心吊胆。",translated,依恩,d6e15b7bce,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#7#12,"あと、素敵な冒険をしたことも思い出した。
+ちょっとドキドキしたけど。","还有，我也想起了那场精彩的冒险。
+虽说稍微有点提心吊胆就是了。",translated,依恩,596a09a0ce,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#9#12,"カノンさんって、すごくマジメで
+いつもあんな感じなのかなって思ってたけど
+一人の時はとっても可愛かった。","我本以为卡诺平时那么严肃认真，
+一直都会是那副模样呢，
+没想到独处时竟然那么可爱。",translated,依恩,1449f27c80,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#10#12,"なんだか凄く意外だったけど、
+カノンさんが小鳥さんと遊んでいるのを
+見てとても安心したんだよね。","虽然觉得很意外，但看到
+卡诺和小鸟在一起玩耍的模样，
+不知为何感到非常安心呢。",translated,依恩,24c223faab,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#11#12,安心したの？,感到安心了吗？,translated,,08d71d7b2e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#12#12,ドキドキしました！！,让人小鹿乱撞！！,translated,,b29c7c18e3,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#14#12,"うん。
+それまでのカノンさんって、どことなく
+暖かみが無かったっていうか…。","嗯。
+在那之前卡诺总让人觉得
+有些缺乏人情味，或者说……",translated,依恩,d3b0a6ebe8,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#15#12,"でも、それがあの小鳥さんとのことを
+見てから、すごく親しみが湧いたの。","可是，自从看到她和小鸟相处的模样后，
+我就突然涌起了一股亲近感。",translated,依恩,b4041cbf10,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#16#12,わたしと同じところもあるんだって。,原来她也有和我一样的地方呀。,translated,依恩,85008a06c6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#17#12,それはいい事なのか何なのか…,这到底算是好事还是别的什么……,translated,,e886b6a313,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#18#12,イオンと同じで可愛いところもあるよね,和依恩一样也有很可爱的地方呢,translated,,ad8783c7f9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#21#12,"むーっ！
+それって、まるでわたしと一緒だと
+ダメっ子って言ってるみたいなんだけど。","唔――！
+你这么说，简直就像在说只要像我
+就是没用笨小孩一样嘛。",translated,依恩,3b791fb2ef,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#23#12,"そりゃ、ドジだし、のろいし
+いいところ何もないかも知れないけど…。","虽然我是又冒失，动作又慢腾腾，
+也许根本就一无是处……。",translated,依恩,1e3501df2e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#24#12,"もういいもん。
+この話はおしまい！","不理你啦。
+这个话题到此为止！",translated,依恩,a2995890a7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#30#12,"あ、あはは、ありがとう…
+って言っていいのかな…？","啊、啊哈哈，谢谢你……
+我是不是该这么说才对呢……？",translated,依恩,f0649e2801,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#31#12,"でも、わたしドジだしのろまだし
+あんまりいいところ無いな～って思ってたから
+あなたにそう言ってもらえると嬉しいかも。","不过，我总觉得自己又冒失又迟钝，
+没什么优点呢～
+你能这么说我其实挺开心的。",translated,依恩,1870383b77,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#32#12,えへへ…♪,嘿嘿……♪,translated,依恩,615be080cd,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#36#12,"ドキドキ…？
+どうして？　危なっかしいから？","小鹿乱撞……？
+为什么呀？是因为看起来太危险了吗？",translated,依恩,4211ca32f1,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#37#12,いや、可愛くてキュンとしたってこと,不，是指太可爱让人心动不已,translated,,fcd58f6c9e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#38#12,……………そう,……………是啊,translated,,12f1676502,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#40#12,"…ふーん。
+あなたってカノンさんみたいな人が
+好みだったんだね。","……哼～。
+原来你喜欢卡诺
+那种类型的女孩子啊。",translated,依恩,77637fc274,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#41#12,やっぱり…その……大きいから？,果然……那个……是因为很大吗？,translated,依恩,3a9d66ee1f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#42#12,もちろん！,当然！,translated,,0df1110bd9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#43#12,隠れて萌え萌えしてるところに萌えた,背地里被萌到的反差样子很戳我,translated,,c5eec570f6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#46#12,"まあいいや。
+この話はおしまいおしまい。","算啦算啦。
+这个话题就到此打住！",translated,依恩,d553b23809,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#47#12,"…明日からもっとちゃんとした
+ご飯食べよっと……。","……明天起我得更加好好地
+多吃点饭才行了……。",translated,依恩,8fd6882007,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#52#12,"そういうものなんだ。
+でも、わたしもよくその…萌え萌え？
+してるよ？","原来是这么回事啊。
+不过，我平时不也经常
+那个……被戳中萌点吗？",translated,依恩,8e1a9a91eb,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#53#12,"うわぁ、この真空管すごーい！
+カソードとプレートの距離感が絶妙だね♪","哇，这个真空管好厉害！
+阴极与阳极的距离感太绝妙了呢♪",translated,依恩,86fbc5c646,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_04.txt#54#12,………だめ？,………不行吗？,translated,依恩,05997a2e2e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#55#12,まあいいや。この話はこれでおしまい！,算啦算啦。这个话题就到此为止！,translated,依恩,44182024d9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#59#12,"ああ、そういうことなんだ。
+確かに、あんなに小鳥さんに集中していたら
+周りで何か起きても気づかないよね。","啊，原来是这个意思啊。
+确实，注意力全集中在小鸟身上时，
+周围发生什么都不会察觉到呢。",translated,依恩,6571e037a9,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#60#12,"……なんか……
+なんか、そういえば…すごく嫌な予感がする。
+何か思い出せそうな……。","……总觉得……
+总觉得，说起来……有种非常不详的预感。
+感觉好像要回想起什么了……。",translated,依恩,7bd071f26c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#61#12,"でも、今はちょっと無理かも…
+もっと記憶が戻れば、わかるかも
+しれないけど…。","不过，现在可能还稍微有点勉强……
+如果能找回更多记忆的话，
+说不定就会明白了……。",translated,依恩,6ab83d95c0,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_04.txt#62#12,まあいいや。この話はこれでおしまい！,算啦。这个话题就到此为止！,translated,依恩,44182024d9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_04.txt#64#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_04t.txt#5#12,<CLBU>頭撫でてごまかしてもダメだもん。,<CLBU>摸我脑袋蒙混过关也是行不通的哦。,translated,依恩,e83d64815b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_04t.txt#8#12,<CLBU>何度撫でてもダメなものはダーメ！,<CLBU>不管摸多少遍不行就是不――行！,translated,依恩,20b122b546,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_05.txt#5#12,"ネプツールさんって
+すごいインパクトだよね！","尼普楚尔先生
+真的很有冲击力呢！",translated,依恩,c77330003b,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_05.txt#7#12,"そういえば、ネプツールさんのことも
+思い出したんだけど…あの人って
+すごいインパクトだよね！","说起来，我也想起了
+尼普楚尔先生的事……那个人
+真的给人好强烈的视觉冲击呢！",translated,依恩,764d28b902,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#9#12,"わたし、最初会ったとき
+「すごくおっきい！」って思ったもん。","我第一次见到他的时候，
+心里直呼“好大一只！”呢。",translated,依恩,793d3f4f0f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_05.txt#10#12,あんなガタイのいい人、初めて見たよ。,那么壮硕魁梧的人，我还是头一回见到呢。,translated,依恩,5ba82b5e09,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_05.txt#11#12,"それにしても、ネプツールさんって
+どうしてわたしに対して、あそこまで
+良くしてくれるのかな。","不过话说回来，尼普楚尔先生
+为什么会对我
+那么关照有加呢。",translated,依恩,6dd04b621e,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#12#12,イオンに才能があるから,因为依恩有才能,translated,,172fb3ef95,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_05.txt#13#12,多分裏があるから気をつけて,恐怕暗藏玄机，你要小心点,translated,,49946ec0e4,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_05.txt#16#12,"そんなことないよぅ…。
+けど、もしそうだとしたら、
+この後どうなっちゃうんだろう…。","哪有那回事嘛……。
+不过，如果真是那样的话，
+这之后又会变成什么样呢……。",translated,依恩,553692ab35,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#17#12,"なんか、せっかくネプツールさんが
+期待してくれていても、その期待に
+応えられずに失敗しそう…。","总觉得，难得尼普楚尔先生
+对我寄予了厚望，我却好像会因为
+无法回应他的期待而搞砸……。",translated,依恩,e334c32aff,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#18#12,"…とは言っても、もう過去の話だから
+ダメならもう既にダメなんだろうけど…
+やっぱり見るのは怖いよね。","……话虽如此，毕竟已是过去的事了，
+就算搞砸肯定也早已成定局了……
+但亲眼回顾果然还是会害怕呢。",translated,依恩,64f2b063a6,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#22#12,"裏があるの？
+それって、何か企んでるってこと？","暗藏玄机？
+那是指，他在企图图谋什么吗？",translated,依恩,295f863ddd,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_05.txt#23#12,"でも、いくら皇帝候補だからって、
+わたしなんかをどうこうしても、
+何も出ないと思うんだけどなぁ…。","可是，就算再怎么顶着皇帝候选人的头衔，
+对我这种人动什么歪心思，
+也捞不到任何油水吧……。",translated,依恩,c9ace02ef7,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_05.txt#24#12,"まあそれも、もう少し記憶が戻れば
+分かるかもしれない…よね。","嘛，这也只要再找回一些记忆，
+或许就能明白了……对吧。",translated,依恩,b45f4d2a51,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_05.txt#26#12,"ふふ…なーんて、過ぎたことを心配しても
+仕方ないよね！","呵呵……话说回来，操心已经过去的事情
+也是无济于事的呢！",translated,依恩,e82c743826,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_05.txt#27#12,"きっとネプツールさんは悪い人じゃないと
+思うの。だから、大丈夫だよ。","我想尼普楚尔先生肯定不是什么坏人。
+所以，没问题的啦。",translated,依恩,9bc2c94391,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#5#12,"…はぁ…
+やっぱりカノンさんはすごいなぁ…。","……唉……
+卡诺果然好厉害呀……。",translated,依恩,eef576a488,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#7#12,"あと、カノンさんの事なんだけど、
+やっぱりあの人はすごいよね。","还有，关于卡诺的事，
+那个人果然真的很了不起呢。",translated,依恩,0bc5ef0850,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#9#12,"前にも言ったことあるけど、やっぱり
+皇帝にはカノンさんがなったんだと思う。","虽然我以前也说过，但我总觉得
+卡诺果然还是当上了皇帝吧。",translated,依恩,a969ad8cf2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#10#12,"今回の会食のこと思い出したら尚更、
+わたしが皇帝になるなんて、想像
+出来なくなったもの…。","回想起这次聚餐的情景后，
+我更是完全无法想象
+自己当上皇帝的模样了呢……。",translated,依恩,ff53298601,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_06.txt#11#12,イオンが皇帝になったに決まってる,肯定是由依恩当上皇帝了,translated,,3f96fbf438,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_06.txt#12#12,同じく、カノンが皇帝になったと思う,我也觉得是卡诺当上了皇帝,translated,,6dffa08015,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_06.txt#15#12,"そ、そうかな…？
+でも、あなたにそう言ってもらえると
+ちょっと嬉しいかも。","是、是这样吗……？
+不过，你能这么对我说，
+我心里还是挺开心的。",translated,依恩,636dcb1daa,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_06.txt#16#12,"あなたがわたしのこと、
+大切にしてくれてるんだなぁって
+思えるから。","因为这让我能感受到，
+你真的非常
+在乎我呢。",translated,依恩,93bdbaa776,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_06.txt#17#12,"けど「イオンが皇帝になったに
+決まってる」なんて、なんだかター坊の
+言葉みたいだね。えへへ。","不过“肯定是由依恩当上皇帝了”
+这种话，听起来总觉得
+好像阿达会说的话呢。嘿嘿。",translated,依恩,0b4b989713,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_06.txt#18#12,"わたし、少し元気が出たみたい。
+ありがとう。","我好像稍微打起精神来了。
+谢谢你。",translated,依恩,15acdc1ad2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#22#12,"うん、やっぱりそうだよね。
+わたしと同じ意見♪","嗯，果然是那样对吧。
+和我的想法一样呢♪",translated,依恩,a99cd08940,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#23#12,"やっぱり適材適所ってあるよね。
+わたしは別に皇帝になりたいとも
+思ってないし、むしろ困るし…。","果然人还是要各尽其才呢。
+我既没有当皇帝的意愿，
+倒不如说反而会很困扰……。",translated,依恩,f20c08b0d1,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_06.txt#24#12,"でも、カノンさんはもう、皇帝になるべく
+して生まれてきたような人だもん。","可是卡诺，简直就像是
+为了成为皇帝而诞生在这个世上的人呀。",translated,依恩,a84f3ef4a2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#25#12,"カノンさんは、全ての命が平等に生きられる
+世界を創りたいって言ってた。","卡诺说过，她想要创造一个
+让所有的生命都能平等生活的世界。",translated,依恩,2c47d001e7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#26#12,早くその世界を見てみたいなぁ…。,真想快点亲眼看看那个世界呀……。,translated,依恩,bb2493c7c5,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_06.txt#27#12,"というわけで、頑張って記憶を
+取り戻していこうね！","事情就是这样，我们一起加油
+去把记忆找寻回来吧！",translated,依恩,54e145a897,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_06.txt#29#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_07.txt#5#12,"サーリちゃん、喜んでくれるといいなぁ。
+わたしの作ったお守り♪","要是莎丽能喜欢就好了呢。
+我亲手做的护身符♪",translated,依恩,54b1572988,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#7#12,"あと、サーリちゃんへのお守り、
+喜んでくれるといいな～♪","还有，给莎丽的护身符，
+要是她能喜欢就好啦～♪",translated,依恩,a1798f5a39,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#9#12,"でも、わたしって昔から
+お裁縫苦手だったんだね～。","不过，原来我打从以前起
+就不擅长做针线活呀～。",translated,依恩,81ba34cf2c,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#10#12,"早く続きを思い出したいな♪
+サーリちゃんと早く会いたいもん。","好想快点回忆起后续呢♪
+毕竟真想早点见到莎丽嘛。",translated,依恩,9305ff4026,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#11#12,ネプツールの企みの部分、思い出して無い？,尼普楚尔图谋的那部分，你没想起来吗？,translated,,96c5f48896,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07.txt#12#12,…そうだね。楽しみだね！,……是呢。真让人期待呢！,translated,,299f03fdd6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07.txt#15#12,"…え？
+ネプツールさんの、企み？","……咦？
+尼普楚尔先生的，阴谋？",translated,依恩,2d18aa876a,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#16#12,"うーん……今回思い出せたのは、
+ネプツールさんが夢ノ珠を直してくれるって
+約束してくれて…。","唔――……我这次想起来的，
+只有尼普楚尔先生答应
+会帮我们修好梦之珠……。",translated,依恩,74b1e24520,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07.txt#17#12,"それを、カノンさんにお話しにいくところ
+までだったんだけど…。","以及正准备去向卡诺说明
+的那一段而已……。",translated,依恩,fed58c9dbf,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#18#12,あなたは、もっと何かを見たの？,你是看到更多的事情了吗？,translated,依恩,b2c3c0cf9f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07.txt#19#12,だから、ネプツールが何か企んでる,所以说，尼普楚尔暗中有所图谋,translated,,105191a941,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07.txt#21#12,"そうなんだ…。
+でもわたし、そんな記憶全然戻ってきて
+無いんだけど……。","这样啊……。
+可是我完全没有恢复
+那样的记忆呀……。",translated,依恩,aa74b64d52,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07.txt#22#12,"そうだ、また指タッチで
+あなたが見たわたしの記憶のこと、教えて？","对了，再用手指轻触的方式，
+把你看到的关于我的记忆告诉我好吗？",translated,依恩,a1582d1057,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#33#12,"うんっ♪
+早くもっと思い出さないかなぁ♪","嗯♪
+希望能快点回想起更多事情呢♪",translated,依恩,df412b2fc4,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#34#12,"でも、それもこれもぜーんぶ、
+あなたにかかってるんだからね？","不过，这一切的一切，
+全都要仰仗你哦？",translated,依恩,54de7cd835,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07.txt#35#12,"頑張って思い出させてね。
+あ・な・た♪","要加油帮我回想起来哦。
+亲・爱・的♪",translated,依恩,e225540f65,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#3#12,"うーん…なんか上手く伝わってこないん
+だけど、ネプツールさんが、主任さんと
+お話ししているのは分かったよ。","唔……虽然感觉没能完全传达过来，
+但我知道了尼普楚尔先生
+正在和主任谈话哦。",translated,依恩,1e98929015,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#4#12,ネプツールはお守りを主任に渡した,尼普楚尔把护身符交给了主任,translated,,3bf53de40c,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#6#12,"え？　それは、サーリちゃんに
+届けてもらう為じゃなくて？","咦？那难道不是
+为了转交给莎丽吗？",translated,依恩,a891adda0f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#7#12,そんな風ではなかった,看起来不像那样,translated,,290054b10c,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#9#12,"そうなんだ……。
+うーん…良く分からないけど…。","这样啊……。
+唔……虽然我不太明白……。",translated,依恩,feee8dc405,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#10#12,"でも、それが本当でも嘘でも、
+今何かできるわけじゃないから…
+とにかく、もっと思い出してみるしかない。","不过，不论那是真是假，
+眼下我也做不了什么……
+总之只有试着回忆起更多的事情了。",translated,依恩,f884f14619,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#11#12,"あなたの言うことが本当なら、
+サーリちゃんは、この後
+どうなっちゃうんだろう…。","要是你说的是真的，
+莎丽在那之后
+又会变成什么样呢……。",translated,依恩,4925eeeb20,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#12#12,"…教えてくれてありがとう。
+正直ちょっとビックリしちゃった。","……谢谢你告诉我。
+说实话我确实有点吓到了。",translated,依恩,33ce201cf6,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#13#12,"わたしが思い出せる部分と、
+あなたが見ている部分は、
+完全に一致はしていないんだね。","我能回想起来的部分，
+和你所目睹到的部分，
+看来并不完全一致呢。",translated,依恩,a829c028c9,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_07t.txt#14#12,"まぁでも確かに、私がいろんなものの
+作り方を思い出しても、あなたにそれは
+分からないみたいだから、同じだよね。","不过也确实，就算我想起了
+各种东西的制作方法，你似乎
+也无法知晓，所以是一样的道理呢。",translated,依恩,d855f5e14c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_08.txt#5#12,"…ど、どうなっちゃうんだろう…
+カノンさん、大丈夫かな…。","……怎、怎么会变成这样……
+不知道卡诺不要紧吧……。",translated,依恩,9a33bcf0e7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#7#12,"それと、急な断線のこと…
+カノンさん大丈夫かな…。","还有，突如其来的断线……
+卡诺到底有没有事呢……。",translated,依恩,be830987ac,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#9#12,"早く無事が知りたい…
+でも…もしもの事を思えば…
+…知りたくないかも…。","好想快点确认她平平安安……
+可是……一想到万一的情况……
+……又有些害怕知道了……。",translated,依恩,43da51f2df,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_08.txt#10#12,なぜライバルのカノンを心配する？,为什么要担心身为竞争对手的卡诺？,translated,,7d423ec72f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_08.txt#11#12,カノンはきっと大丈夫,卡诺一定没事的,translated,,9668e5acc1,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_08.txt#13#12,"そんな、当たり前だよ。
+人の生き死により大事な事なんて無いもん。","哪有，这是理所当然的呀。
+世上哪有比人命更重要的事情嘛。",translated,依恩,7f646415a1,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#14#12,"それに、カノンさんはライバルでもあるけど
+わたしにとっては、とっても大切な人なの。","而且，卡诺虽然是我的竞争对手，
+但对我来说，也是非常重要的人哦。",translated,依恩,3d70b54fb1,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#15#12,どうして？,为什么？,translated,,005edb699e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_08.txt#18#12,"どうして…って…その、理由はわからない
+けど…でも、本当にそうなの。","要问为什么……那个，虽然我不清楚理由，
+但是……真的就是这样呀。",translated,依恩,7639af921f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#19#12,"まだ思い出せない何かが関係しているのかも
+しれないけど、これは本当なの。","虽说也许与尚未回想起来的某件事有关，
+但这确确实实是真的哦。",translated,依恩,483c30675b,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#20#12,だから、どうか無事でいて欲しい…。,所以，祈祷她能平平安安的……。,translated,依恩,738c3b1a3a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_08.txt#24#12,"うん、わたしもそう願ってる。
+…って、もう過ぎたことだけど…。","嗯，我也是这么祈祷的。
+……虽说，已经是过去的事情了……。",translated,依恩,25f466c1df,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#25#12,"なんかね、まだ上手く言えないんだけど
+カノンさんって、わたしにとって、
+とても大切な人なんだ。","总觉得，虽然现在还说不太清楚，
+但在我心里，卡诺
+真的是一个非常重要的人。",translated,依恩,2c52bf8f15,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_08.txt#26#12,"理由はまだよくわからないし、今の記憶だと
+そこまでじゃないって、私も思うんだけど…。","理由虽然还不太明白，单凭现在的记忆，
+我也觉得好像不至于到那种程度就是了……。",translated,依恩,c61242dac0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#27#12,早く、そういうの…思い出せるといいな…。,要是能快点……想起来就好了呢……。,translated,依恩,e0da3cdfcb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_08.txt#29#12,"けどまさか、こんな事になるなんて……。
+夢ノ珠の人達が必死になる理由もわかるよ。","可是真没想到，竟然会演变成这样……。
+我也能理解梦之珠的居民拼命的缘由了。",translated,依恩,45e4a498be,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#30#12,"夢ノ珠がこれからどうなるかすごく心配
+だけど、今回も万寿沙羅の時のように、
+何かしてあげられてたらいいな。","梦之珠今后会怎样实在令人担心，
+但如果这次也能像在万寿沙罗那时一样，
+为他们帮上什么忙就好了呢。",translated,依恩,b76f3a9fec,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_08.txt#32#12,"…そうは言っても、
+気にしていてもどうしようもないし――","……话虽如此，
+一味瞎操心也于事无补――",translated,依恩,507ceb7292,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_08.txt#33#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_09.txt#5#12,わ、わたし、罪人になっちゃったの？,我、我变成罪犯了吗？,translated,依恩,ea4355d9ae,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#7#12,あと、わたし罪人になっちゃったかも…。,还有，我好像变成罪犯了……。,translated,依恩,3839ec8821,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#9#12,"もしかしたら、それでこんな、
+誰もいない場所に島流しにされていたり
+するのかな…？","难道说，我就是因此才被流放到
+这种空无一人的地方来的
+吗……？",translated,依恩,7bfe24ccf6,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_09.txt#10#12,"うぅ…なんかこの先、
+もう見たくないよぅ…。","呜……后面的内容，
+我总觉得已经不想再看下去了啦……。",translated,依恩,dd2fc08882,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#11#12,"きっと冤罪のまま、無理矢理
+ここに連れてこられちゃうんだよ…。","肯定是蒙受着不白之冤，
+被强行押送到这里来的啦……。",translated,依恩,03775f30ba,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#12#12,"ってことは、もしかしてねりこさんって、
+この場所の看守だったりするのかな…。","这么说来，难道妮莉库小姐
+其实是这个地方的狱警看守吗……。",translated,依恩,ecf38feede,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#13#12,そういえば、そんな感じかも,这么说来，好像还真挺像的,translated,,bd00ed1ae9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#14#12,いや、アレに看守は務まらない,不，那家伙当不了看守,translated,,fcba569a25,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#17#12,"そうだよね！
+なんかシマシマの服着てるし！","对吧！
+而且她身上还穿着条纹服呢！",translated,依恩,fa9973a9f3,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#18#12,"刑務所にいる人って、シマシマの服
+着てるじゃない？","监狱里的人，
+不都穿着条纹服吗？",translated,依恩,d3b9ca63aa,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#19#12,それは受刑者の方…,穿那个的是服刑犯人……,translated,,fd8d5c5a63,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#21#12,"ん、あれ？
+そっか、それじゃわたしが
+あのシマシマの服を着ないといけないんだ。","嗯，咦？
+这样啊，那岂不是说我
+才必须要穿那身条纹服才对。",translated,依恩,74c1737d86,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_09.txt#22#12,ってことは、ねりこさんが受刑者？,这么说来，妮莉库小姐是犯人？,translated,依恩,a8526be701,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#23#12,"そういえばわたし、「とうだいもり」って
+言われてるけど、これって看守の
+隠し言葉だったりしない？","说起来别人总管我叫“灯塔守”，
+这该不会是看守的
+隐语暗号吧？",translated,依恩,4e1f8b57ca,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_09.txt#24#12,飛躍しすぎ,联想跳跃得太夸张了,translated,,b7a3b17897,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#26#12,"う、そっか…ごめん。
+でも、今度ねりこさんに聞いてみよっかな。","唔，这样啊……对不起。
+不过，下次我试着问问妮莉库小姐看好啦。",translated,依恩,2dbde6e5f0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#30#12,"そうかな？
+結構のんびりしてるように見えるけど、
+実はかなり色々見てるよ？　ねりこさん。","是那样吗？
+虽然她表面上看起来挺悠闲散漫的，
+但其实都在看在眼里哦？妮莉库小姐。",translated,依恩,9c324e5d37,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_09.txt#31#12,"例えば、わたしがこの間夜に、
+ケーキをもそもそ食べてたのも知ってたし。","比如前几天夜里我偷偷摸摸
+吃蛋糕的事，她也全都知道呢。",translated,依恩,33f0733322,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#32#12,それってヤバイのでは……？,这情况是不是很不妙啊……？,translated,,36a0f03c03,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#34#12,え？　何が？,咦？怎么了？,translated,依恩,40230b9b71,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_09.txt#35#12,"……ああ、わたしのことを
+何でもしってること？","……啊，是指关于我的事
+她无所不知这一点吗？",translated,依恩,84b4d7e020,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#36#12,"でもねりこさんはもう、
+わたしが思い出せる記憶の始まりから
+ずっと一緒にいる人だから…。","不过妮莉库小姐打从
+我能回想起来的记忆之初，
+就一直陪伴在我的身边了……。",translated,依恩,d93bd96e35,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_09.txt#37#12,"もう何でもアリみたいな気がしちゃって。
+えへへ。","我总觉得发生什么都不足为奇了。
+嘿嘿。",translated,依恩,cdb7b61f85,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#38#12,"でもホントに、今までそれで何か嫌なこととか
+されて無いし、気にしないでね。","不过真的，至今为止她也并没有
+对我做过什么过分的事，别太介意哦。",translated,依恩,a109742a74,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_09.txt#40#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_11.txt#5#12,"ネイちゃん…ありがとう！
+本当にありがとう。
+わたし、島流しにならずに済んだよ…","妮伊……谢谢你！
+真的太谢谢你了。
+我总算免于被流放的下场了……",translated,依恩,4959ce15c6,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#7#12,"…なんて話をしておいてナンだけど、
+実際の所、ここは島流しされた先じゃ
+ないと思うの。","……虽说刚聊了那种话题，
+但实际上，我认为这里
+并不是什么被流放的流放地哦。",translated,依恩,3b93ff54e9,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#8#12,"だって、裁判でネイちゃんが
+私のことを助けてくれたもの。","因为在审判的时候，
+妮伊出手救了我呀。",translated,依恩,51496460ee,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#10#12,"ネイちゃんって本当にすごいよね。
+わたし、あんな勇気が要ること、絶対に
+出来ないもん…。","妮伊真的好厉害呢。
+需要那种莫大勇气的事，
+我是绝对做不来的……。",translated,依恩,d6d3ee3785,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#11#12,わたしもネイちゃんみたいになりたいなぁ。,我也真想变得像妮伊那样啊。,translated,依恩,ae7d6816c0,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#12#12,頑張れば出来る！,只要努力就能做到！,translated,,a5c81a0706,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#13#12,イオンにはイオンのいいところがある,依恩有依恩自己的优点,translated,,d2373dae64,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#15#12,"そ、そうかなぁ…
+でもわたし、のろいし、勇気無いし…","是、是那样吗……
+但我动作又慢，又没勇气……",translated,依恩,65868f225e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#16#12,"ネイちゃんみたいに、バシッバシッって
+色々決めていけないから…
+多分、難しいと思うなぁ…","我没法像妮伊那样干脆利落地
+迅速把各种事情做下决断……
+我想大概，挺难的吧……",translated,依恩,3624497244,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#17#12,"確かにネイちゃんみたいになりたいとは
+思うけど、なれるとは思わないし…","虽然我确实很想变得像妮伊那样，
+但并不觉得自己真能变成那样就是了……",translated,依恩,5e19a1106d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#18#12,"あなたは、やっぱりわたしがネイちゃん
+みたいになった方が嬉しいのかな？","你果然还是觉得我变得
+像妮伊那样会更开心吗？",translated,依恩,6403535bae,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#19#12,もちろん,那当然,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#20#12,いや、そういうわけでは…,不，倒也不是那么回事……,translated,,e8b830dd85,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#23#12,"そっか…。
+それじゃ、ちょっと頑張ってみようかな。","这样啊……。
+那我就试着稍微努力一下看看吧。",translated,依恩,4bf23ac504,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#28#12,"あ、あれ、そうなの？
+それじゃ、いつものわたしがいいのかな？","咦、咦，是那样吗？
+那么说，还是平时的我更好吗？",translated,依恩,a6e9353acd,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#29#12,"うーん、まあいいや。
+わたしはわたしらしく生きることにするね。","唔――算啦。
+我还是决定按照我自己的风格去生活呢。",translated,依恩,f627bbd317,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#32#12,"えへへ、ありがと♪
+なんかそう言ってもらえると嬉しいな。","嘿嘿，谢谢你♪
+你能这么对我说我真高兴呢。",translated,依恩,4d696cd563,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#33#12,"そうだよね。ネイちゃんにはネイちゃんの
+いいところがあるし、わたしにはわたしの
+いいところが…きっとある！……よね？","就是说嘛。妮伊有妮伊的优点，
+而我也有属于我自己的优点……
+一定有的！……对吧？",translated,依恩,ee9e5878c6,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#34#12,ドジッ子なところがいい,冒失笨拙的地方就很不错,translated,,9c956a9d59,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#35#12,シャイなところが可愛い,容易害羞的地方很可爱,translated,,2247cd2a80,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#38#12,"え…えええ！？
+それって、いいところなの？","诶……诶诶诶！？
+那种地方，也能算优点吗？",translated,依恩,915b926788,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#39#12,"なんか、嬉しいっていうか
+喜んでいいのかっていうか…","总觉得，与其说开心，
+不如说真不知道该不该高兴……",translated,依恩,841f3b5df1,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11.txt#42#12,"でも、あなたが本当にそう思ってくれてる
+なら、わたしドジだけど、初めてそれを
+許してあげられる気がするよ。","不过，要是你真的这么认为的话，
+虽然我很笨拙，但我感觉
+自己也是头一回能够释怀原谅了呢。",translated,依恩,7a953e8ea3,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#43#12,ありがとう。,谢谢你。,translated,依恩,d678b6dae2,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11.txt#48#12,"あ、あはは…。
+それってネイちゃんと正反対だよね。
+でも、あなたはそこがいいんだ。","啊、啊哈哈……。
+那完全和妮伊正相反呢。
+不过，原来你喜欢那种地方啊。",translated,依恩,d92cbbdc23,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#51#12,"シャイっていうか、勇気がないっていうか…
+わたし、それで何もできなくて、
+そんな自分が嫌だったけど…","与其说是害羞，不如说是没有勇气……
+我之前总是因此什么都做不成，
+虽然我也曾很讨厌那样的自己……",translated,依恩,049ae50293,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#52#12,"でも、あなたが本当にそう思ってくれてる
+なら、わたし引っ込み思案だけど、
+それを許してあげられる気がするよ。","不过，要是你真的这么认为的话，
+虽然我性格内向退缩，
+但感觉自己也能释怀接受了呢。",translated,依恩,36531c25fa,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11.txt#53#12,ありがとう。,谢谢你。,translated,依恩,d678b6dae2,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#6#12,"<CLBU>にゃっ。
+なんか今日は、撫でられると
+ちょっとこそばゆいかも。","<CLBU>喵呜。
+不知怎的今天被你抚摸时，
+感觉稍微有点痒痒的呢。",translated,依恩,0e42866c62,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_11t.txt#7#12,"にゃーにゃー、ごしゅじんさま♪
+ドジなイオンですがよろしくですにゃー♪","喵呜喵呜，主人大人♪
+虽然依恩是个冒失鬼，但请多指教喵♪",translated,依恩,abaa592169,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#8#12,…って気分になりそう…。,……感觉快要产生这种心境了……。,translated,依恩,2cc35b008e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#9#12,"……って、わたしバカだよね…
+えへへ。","……哎呀，我真傻呢……
+嘿嘿。",translated,依恩,c08f42f894,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#11#12,"<CLBU>にゃーにゃー♪
+…なんてね。","<CLBU>喵呜喵呜♪
+……开玩笑的啦。",translated,依恩,7d10a261b4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_11t.txt#16#12,"<CLBU>ふわぁ…
+なんか今日は撫でられると、
+ちょっとこそばゆい感じがするよ。","<CLBU>呼哇……
+不知怎的今天被你抚摸，
+感觉稍微有点痒酥酥的呢。",translated,依恩,c9af8af9dc,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_11t.txt#17#12,"なんかね、わたしだけのあなた♪
+って感じがして。","总觉得，有一种
+你是我专属之人的感觉呢♪",translated,依恩,3b15617abb,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#18#12,"こんなドジだったり、勇気がなかったり
+するわたしを大切にしてくれるあなたは
+わたしにとって大切な人だから…","能够如此珍视既冒失、
+又缺乏勇气的我的你，
+对我而言是最重要的人……",translated,依恩,5ff7cc3a56,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#19#12,ずっと一緒にいたいな。,真想一直跟你在一起呀。,translated,依恩,da1c327ec6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_11t.txt#21#12,<CLBU>…ふふっ♪,<CLBU>……呵呵♪,translated,依恩,548dab90c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_12.txt#5#12,"カノンさん…本当にシェルノトロンを
+破壊するのかな…どうかな！？","卡诺……真的会去破坏
+榭鲁诺特伦吗……真的会吗！？",translated,依恩,cfc967e18c,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#7#12,"あっ、でも…そんなことよりも、
+カノンさん…。","啊，但是……比起那些事，
+卡诺她……。",translated,依恩,6b23c311f4,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#8#12,"カノンさん…本当にシェルノトロンを
+破壊するのかな…どうかな！？","卡诺……真的会去破坏
+榭鲁诺特伦吗……真的会吗！？",translated,依恩,cfc967e18c,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#10#12,カノンはやる,卡诺下得了手,translated,,667b46db6f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#11#12,イオンが何とかする,依恩会想办法解决的,translated,,80ba25fc42,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#13#12,"でも、カノンさんは、この世界に誰もが
+平等に生きる権利があるって…","可是卡诺明明说过，在这个世界上
+每个人都有平等活下去的权利呀……",translated,依恩,a4d149be77,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#15#12,"だから、天文の人が命と同じくらい
+大切にしているシェルノトロンを
+破壊するなんて…そんなこと……","所以，要去破坏天文的人
+视同性命般无比珍视的榭鲁诺特伦，
+这种事情……怎么会……",translated,依恩,b328ee541e,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#16#12,シェルノトロンは生命ではないから,因为榭鲁诺特伦并不是生命,translated,,724dac8fef,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#18#12,"確かにそうだけど、でも天文の人達に
+とっては、もう身体の一部と同じなのに…","话确实是这么说，但对天文的人们来说，
+那已经如同身体的一部分了一样啊……",translated,依恩,b217971b09,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#19#12,わたしにはわからないよ…その考え方。,我实在无法理解……那种想法。,translated,依恩,516c21e85a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#20#12,"あなたは、カノンさんのその気持ち…
+理解できる？　天文の人達が苦しむのを
+知っていて、破壊することが出来る？","你能理解……卡诺的那种心情吗？
+明知天文的人们会因此痛苦，
+也能痛下决心去破坏吗？",translated,依恩,8e2f37bf49,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#21#12,それよりも大事な事があれば,如果有比那更重要的事,translated,,addf77b3bb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#22#12,自分にはそれは出来ない,换成是我我也做不到,translated,,b7db4507dc,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#25#12,それよりも大事なこと…,比那更重要的事……,translated,依恩,66a6547c05,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#26#12,………そっか…断線……,………这样啊……断线……,translated,依恩,69ee3cfe1e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#27#12,"カノンさんは、地文の人達の命を助ける
+ために、シェルノトロンを破壊するって
+決めたんだ。","卡诺是为了拯救地文人们的性命，
+才毅然决定要去破坏
+榭鲁诺特伦的啊。",translated,依恩,dcfc3bc7ae,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#28#12,"でも、まだ早すぎると思う。
+確かにカノンさんの言うとおり、
+そんなのんびり出来る状況じゃないけど…","可是，我觉得现在还为时过早。
+固然正如卡诺所言，
+眼下绝不是可以悠哉度日的局势，但……",translated,依恩,55d532949b,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#29#12,でも、まだ早すぎるよ……,可是，现在真的还太早了呀……,translated,依恩,b05a8bba49,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#31#12,"そんなことを言ってるから、のろまって
+言われるのかも知れない。でも…","也许正因为我说这种话，
+才会被人说是迟钝慢半拍。可是……",translated,依恩,02e407f5f5,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#32#12,"やっぱり、わたしはみんなが
+助かることを願ってる。カノンさんが
+シェルノトロンを破壊しないことも…","我果然还是希望所有人都能得救。
+也希望卡诺不要去
+破坏榭鲁诺特伦……",translated,依恩,c7b745ced7,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#36#12,"そっか…よかった。
+やっぱりあなたは優しい人。","这样啊……太好了。
+你果然是一个温柔的人呢。",translated,依恩,cc417bbe0d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#37#12,"あなたがそう思う気持ち、
+わたしにはよくわかるよ。","你的那份心情，
+我非常能够体会哦。",translated,依恩,f72b8a7dc7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#38#12,"正当化してるだけかもしれないけど、
+わたしは最後の１秒まで諦めたくないって
+思ってる。","或许这只是在自我开脱，
+但我想要直到最后一秒为止
+都绝不放弃。",translated,依恩,d8add76701,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#39#12,"みんな、天文の人も、地文の人も…
+ジェノムもみんな、助かるといいなって。","所有人，不论是天文还是地文的人……
+连同杰诺姆在内，真希望大家都能得救。",translated,依恩,9fff9eb6e5,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#40#12,"そして、カノンさんも、本当は私と
+同じように天文の人も含めて、幸せに
+なれる世界を創りたいと思ってるって思う。","而且，我认为卡诺其实
+也和我一样，想要创造一个
+连同天文之人在内大家都能幸福的世界。",translated,依恩,e6bf94bfe9,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#42#12,"……わたし、本当にバカだよね。
+ねりこさんにも、いつも
+「頭の中お花畑」って言われるの。","……我，真的很傻吧。
+妮莉库小姐也总是笑我
+“满脑子不切实际的幻想”。",translated,依恩,a5b5f82b36,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#43#12,"でも、やっぱりこの考えは
+変えられないかも。","可是，我大概无论如何
+也改变不了这种想法呢。",translated,依恩,88eb24f34a,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#47#12,"……ごめんね。
+一人で感傷的になっちゃって。","……对不起哦。
+我一个人擅自多愁善感起来了。",translated,依恩,31fa34418f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#48#12,でも、お話、聞いてくれてありがとう。,不过，谢谢你愿意倾听我的倾诉。,translated,依恩,663c0b2c6f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#50#12,あと、ナデナデしてくれてありがとう。,还有，谢谢你摸摸我的头。,translated,依恩,783f86062d,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#51#12,"あなたが日に日に、わたしの支えに
+なってくれてるのが、すごく良くわかるよ。","我能切实体会到，你一天比一天
+更加成为了我的精神支柱呢。",translated,依恩,7e66b8e9cb,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#52#12,…ずっと、わたしの傍にいてね……。,……请一直，陪伴在我的身旁哦……。,translated,依恩,489fb5e528,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#54#12,さて、感傷的になるのはこれでおしまい！,好啦，伤感的心情就到此为止！,translated,依恩,b990cb6531,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_12.txt#57#12,"うん、わたし、何とかしたい。
+この時のわたしがどうしたかはおいておいて
+今はわたし、本当にそう思ってる。","嗯，我想去想办法解决。
+且不论那个时候的我到底怎么做了，
+现在的我，真的是这么想的。",translated,依恩,5234704347,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#58#12,"カノンさんを説得できるかどうかは
+わからないけど、でも説得したい。","虽然不知道能不能说服卡诺，
+但我还是想要试着去说服她。",translated,依恩,76f3e1c6b3,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_12.txt#59#12,"だって、カノンさんも言ってた。
+この世界では、誰もが平等に生きる
+権利があるって…","因为，卡诺自己也说过。
+在这个世界上，每个人都有
+平等活下去的权利呀……",translated,依恩,c14895cb9f,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12.txt#62#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_12t.txt#6#12,<CLBU>えへへ、ありがとう。,<CLBU>嘿嘿，谢谢你。,translated,依恩,2ab2ac7dff,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_12t.txt#7#12,"あなたがわたしに触れてくれると、
+なんだか力をもらってるような
+気持ちになるよ。","只要你抚摸触碰着我，
+我就会觉得仿佛有源源不断的力量
+涌入心头一样哦。",translated,依恩,363740e504,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12t.txt#8#12,"あなたが傍にいてくれていたら、
+もしかしたら本当に、みんなが幸せになれる
+世界を作れたかも…って。","要是有你在身旁陪伴着我，
+说不定真的能够创造出一个
+让所有人都能幸福的世界呢……我是这么想的。",translated,依恩,919ee5923c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12t.txt#9#12,"…といっても、わたしがそう思ってるだけ
+なんだけどね。それくらいあなたが
+わたしを安心させてくれてるってことだよ。","……话虽如此，虽然这仅仅是
+我单方面的想法，但这也足以说明
+你给予了我多么巨大的安心感哦。",translated,依恩,e83c0a719b,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_12t.txt#11#12,<CLBU>…いつも安心をありがとう♪,<CLBU>……谢谢你一直以来给我的安心感♪,translated,依恩,26e07514b8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_13.txt#7#12,"…そうだ……。
+わたし、カノンさんと……。
+今頃思い出した……。","……对了……。
+我和卡诺她……。
+我现在才想起来……。",translated,依恩,88f64efd10,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#9#12,"カノンさん、本当にシェルノトロンを全部
+壊しちゃったんだね…","卡诺，真的把所有的
+榭鲁诺特伦全都破坏掉了呢……",translated,依恩,c74cfa44e1,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#10#12,わたしは…そんなカノンさんを庇った。,而我……却袒护了那样的卡诺。,translated,依恩,e286bcfc6b,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#11#12,"なんか今思うと、本当にこれで良かったのか
+私には自信が無くて…","现在回想起来，我实在没有自信
+确定那样做到底是不是正确的……",translated,依恩,0ed6e519ad,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#12#12,イオンは間違ってない,依恩没有做错,translated,,ee3d964ba3,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#13#12,もっといい方法があったと思う,我觉得原本应该有更好的方法,translated,,b6e57df3fb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#15#12,"…ありがとう。
+でもわたしのせいで、沢山の天文の人を
+傷つけた…","……谢谢你。
+可是由于我的缘故，伤害到了
+那么多天文的人民……",translated,依恩,721c2ad9a5,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#18#12,"…うん…そうだね。
+わたしのせいで、沢山の天文の人を
+傷つけちゃったもん…","……嗯……也是呢。
+毕竟都是因为我，才伤害到了
+那么多天文的人民……",translated,依恩,bfc330867d,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#20#12,"これから挽回していくのかもしれない
+けど、今のわたしは天文の人達の期待を
+裏切って、生活もこわしちゃった。","今后说不定会逐渐挽回，
+但至少现在的我辜负了天文人们的期待，
+还摧毁了大家的生活。",translated,依恩,2991e9ef3f,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#21#12,"ただ、今のわたしが同じ状況におかれたら
+また同じ事をしちゃうと思う。","只是，如果现在的我置身于同样的境地，
+我想我一定还会做出同样的选择。",translated,依恩,48fb10bf4f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#22#12,"だって、あのままだとカノンさんは、
+カンパニーの人達の攻撃で、
+死んでいたと思うから…","因为如果不那么做的话，卡诺
+大概就会在管体公司那些人的围攻下，
+丢掉性命了呀……",translated,依恩,4a994aadc6,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#23#12,"わたしのこの考え方って、良くないのかな。
+みんなを不幸にするだけ…？","我的这种想法，是不是很不好呢。
+难道只会让大家不幸吗……？",translated,依恩,5c40345ea8,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#24#12,そこがイオンのいいところなんだよ,那正是依恩身上的闪光点哦,translated,,1b5f3bf4c8,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#25#12,優しさは時に全員を傷つけるもの,温柔有时是会伤害所有人的,translated,,0899431f71,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#27#12,"…そうかな。
+あなたはわたしを、元気づけようとして
+言ってくれてるの？","……是那样吗。
+你是为了鼓励安慰我，
+才故意这么说的吗？",translated,依恩,ae6a5ff8ba,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#28#12,だとしたら、本当の事を言って？,如果是那样的话，能告诉我你的真心话吗？,translated,依恩,54c2aaaa45,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#29#12,本当にそう思ってる,我真的是这么想的,translated,,db9665fbcf,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#30#12,…優しさは時に全員を傷つけるもの,……温柔有时是会伤害所有人的,translated,,72740c1196,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#33#12,"…そっか。
+えへへ、ありがと。","……这样啊。
+嘿嘿，谢谢你。",translated,依恩,500c4610e8,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#34#12,"あなたは…
+ほんとにわたしだけのあなたなんだね。","你……
+真真正正是我专属的那个人呢。",translated,依恩,26f6ae2e81,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#35#12,"あなたは本当に優しいね。
+いつも、あなたのお陰で
+元気をいっぱいもらってるよ？","你真的好温柔呢。
+一直以来，都是多亏了你
+我才能收获满满的元气哦？",translated,依恩,66fc28ca29,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#37#12,"…そうだよね、こんなことずっと
+考えていても仕方ないよね。","……也是呢，一直纠结这种事
+也无济于事呢。",translated,依恩,fe14ff9a43,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#39#12,"わたしはわたし！
+前に進まなくちゃ！","我就是我！
+必须要向前迈进才行！",translated,依恩,89993fabac,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#43#12,"…そっか。そうだよね。
+正直に言ってくれてありがとう。","……这样啊。说得也是呢。
+谢谢你坦诚地告诉我。",translated,依恩,5fa6556d73,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#44#12,"そのこと、今のわたしにはすごく
+よくわかるよ。","这一点，现在的我
+真的非常能够理解哦。",translated,依恩,a7b328e342,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#45#12,"でも、だからといって、
+もっといい考えが浮かぶわけじゃない。","可是，即便如此，
+我也并不可能凭空想出更好的主意。",translated,依恩,ea8bfcc267,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#46#12,気づきが大事。結果は後からついてくる,意识到最重要。结果自会随之而来,translated,,4e436b6b16,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#47#12,でも今の全力で頑張ったから自分を褒めて,但你竭尽了全力，夸奖一下自己吧,translated,,45767d840a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#52#12,"…うん、そうだよね。
+本当にそうだと思うよ。","……嗯，也是呢。
+我也觉得真的是那样哦。",translated,依恩,99ff5bbd3e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#53#12,"わたし、出来るかも分からないのに
+みんなを助けたいって思っちゃうけど…","我虽然连自己能不能做到都不清楚，
+就总想着要去拯救所有人……",translated,依恩,da2d5e3d60,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#54#12,"それが問題を大きくすることって、
+あるんだなって思った。","但我意识到，有时这样
+反而会把问题搞得更加复杂严重呢。",translated,依恩,f4132bd450,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13.txt#55#12,"もしかしたら、昔のわたしも同じ事を
+気づいたかもしれなけど、
+今は忘れてたからもう一回お勉強♪","过去的我虽然也许
+也曾意识到了同样的事情，
+但现在既然忘了那就再重新学习一遍♪",translated,依恩,97b57d0d23,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#57#12,"本当にありがとう。
+あなたのお陰で、わたし、大切なことを
+気づけたかもしれない。","真的太谢谢你了。
+多亏了你，我才得以
+领悟到了这么重要的道理呢。",translated,依恩,4d9dddbf9d,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13.txt#58#12,なんだか嬉しいな♪,总觉得好开心呀♪,translated,依恩,2c928ab57c,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_13.txt#61#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_13t.txt#6#12,<CLBU>えへへ、ありがとう。,<CLBU>嘿嘿，谢谢你。,translated,依恩,2ab2ac7dff,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_13t.txt#7#12,"こうやってあなたが撫でてくれると、
+それだけで元気が湧いてくるよ。","只要像这样被你轻抚着头，
+光是如此我就能涌起满满的元气哦。",translated,依恩,229d540530,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13t.txt#8#12,"わたしもお返しに、
+あなたを元気にしてあげられたら
+いいのになぁ……","要是我也能反过来，
+让你打起精神、充满元气
+那该有多好呀……",translated,依恩,d705662ead,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_13t.txt#9#12,"どうやったら元気にしてあげられるかな♪
+ちょっと色々考えてみるね！","怎样才能让你元气满满呢♪
+我来好好琢磨琢磨看哦！",translated,依恩,efe1cfb895,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_13t.txt#11#12,"<CLBU>ふふっ、あなたもわたしも元気計画、
+密かに開始してるよ♪","<CLBU>呵呵，你我元气满满大作战，
+已经在暗中悄悄启动了哦♪",translated,依恩,c383d7ea60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_14.txt#5#12,次はプラネタリー・メゾンだって。,下一站据说是行星公馆呢。,translated,依恩,ab773e83ee,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_14.txt#7#12,"その後はプラネタリー・メゾンって所に
+行くことにしたんだよね。","在那之后，我们决定前往
+一个叫行星公馆的地方呢。",translated,依恩,3093d59934,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#9#12,"ネイちゃんのお家がある街。
+ちょっと楽しみなんだ。えへへ。","那是妮伊家所在的城镇。
+稍微有点期待呢。嘿嘿。",translated,依恩,92eb75c8fc,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#10#12,"でも、カノンさんから「逃げるのですね」
+って言われたのを思いだしたとき、
+実はちょっとドキッとしたの。","可是，回想起卡诺对我说
+“你要逃跑吗”的时候，
+其实我的心里猛地咯噔了一下。",translated,依恩,beb3f4c966,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#11#12,"確かにわたしは逃げてる…
+この時は逃げたくて仕方なかったもん。","确实我是在逃避……
+那个时候我真的是拼命想要逃离嘛。",translated,依恩,b85cc19758,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#12#12,"カノンさんは、皇帝になるべく色んな
+勉強をしていて、思想を持っていて、
+凛としていて動じない。","卡诺为了成为皇帝学习了
+各种知识，有着坚定的思想理念，
+并且凛然从容、毫不动摇。",translated,依恩,42057bc4ee,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#13#12,"そしてわたしは、そんなカノンさんと
+３年の間ずっと、戦わなくちゃいけないって
+いわれた。","而我却被告知，在接下来的
+三年时间里，都必须要去和
+那样出色的卡诺相互竞争抗衡。",translated,依恩,08346efb10,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#14#12,"わたし、過去の記憶が無いから、わたしも
+同じように勉強したり、思想を持ったり
+していたかはわからない。けど…","因为我没有过去的记忆，所以我也不清楚
+自己以前是否也像她那样用功学习过、
+或是拥有自己的理念思想。但是……",translated,依恩,d7706df3d3,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#15#12,"この時のわたしも、今のわたしも、
+きっと思ってることは同じで、
+全然解決方法が見いだせないの。","那个时候的我，和现在的我，
+想必心里的想法是一模一样的，
+根本就寻觅不到任何解决办法。",translated,依恩,1258f4d51a,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#16#12,"だから、この時凄く怖かった。
+それで、正直に言えば逃げた。","所以，在那个时候我真的害怕极了。
+坦白讲，我就是逃跑了。",translated,依恩,c01ed48b22,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#17#12,"こんな時、本当にネイちゃんがいてくれて
+よかったと思う。","在那种时候，有妮伊陪伴在身旁，
+我真的觉得太幸运了。",translated,依恩,262b3d0bd7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#18#12,"ネイちゃんの元気と、行動力が、
+わたしにプラネタリー・メゾンっていう
+道を示してくれたんだもん。","正是妮伊的元气与行动力，
+为我指引了前往
+行星公馆的那条道路呀。",translated,依恩,60e1db2843,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#19#12,"確かにカンパニーに行ったら緊張して
+休むどころじゃ無かったと思うし…","确实，如果去了管体公司，肯定会紧绷得
+根本不可能谈得上好好休息……",translated,依恩,01d38cffd2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#21#12,"わたし、これからもこんな失敗をし続けて
+いくような気がするの。","我总觉得，自己今后好像也会
+一直这样不断犯错搞砸下去呢。",translated,依恩,4a71b6b9a3,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#22#12,"でも、ネイちゃんや…テレくん達がいてくれて
+みんなに助けられて、頑張っていけるような
+気もする。","但只要有妮伊、泰雷他们在身边，
+有大家的帮助，我好像又觉得
+自己能够继续努力坚持下去了。",translated,依恩,86e92a3f9a,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#23#12,"だから、続きを思い出すのは怖いけど…
+頑張って記憶を思い出して行こうと思う。","所以，虽说回忆起后续有些让人害怕……
+但我还是决定鼓起勇气继续追寻记忆。",translated,依恩,610da7f08d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#24#12,"…それに、夢から戻ってくれば、
+あなたもいてくれるから…大丈夫。","……而且，只要从梦境中醒来，
+就能看到你在身旁……所以我没事的。",translated,依恩,db93ace924,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_14.txt#25#12,"こうしてお話を聞いてくれるだけで、
+夢の中で蘇った、ショックな記憶が
+癒されていくもの…えへへ。","光是像这样听我倾诉，
+在梦中苏醒的那些令人震惊的记忆
+就全都被治愈抚平了呢……嘿嘿。",translated,依恩,1cee045888,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_14.txt#26#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#3#12,"早く、次の記憶の旅に
+連れて行ってね♪","快点带我踏上
+下一趟记忆之旅吧♪",translated,依恩,88f32d9d3a,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#4#12,"それでね、
+今回も色んなものを思い出したから、
+またメモに書いておくね。","所以呢，
+这次我也想起了各种各样的东西，
+就再记在备忘录里哦。",translated,依恩,8c96943ab0,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#6#12,"それで、今回もまたまた色んなものを
+思い出したよ。","所以呀，这次我也又想起了
+各种各样的东西哦。",translated,依恩,b1655ba313,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#7#12,"メモに書いておくから、
+作って欲しいものがあったら、
+遠慮無く言ってね。","我先记在备忘录里，
+要是有想让我做的东西，
+尽管开口告诉我哦。",translated,依恩,5469d10adf,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#9#12,"それより、今回もいろいろ面白いものを
+思い出したよ。またメモしておくね。","不仅如此，这次我也想起了
+许多有趣的东西哦。这就记在备忘录里。",translated,依恩,15182b6429,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#11#12,"それより、また色んなものの作り方を
+思い出したから、メモっておくね。","先不说这个了，我又想起了
+很多东西的制作方法，记在便签里咯。",translated,依恩,9430cbc455,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#13#12,"さて、今回も恒例の、いろんなものの
+作り方を思い出しちゃった♪　のお時間
+でーす。","好啦，又到了例行的、想起了
+各种东西的制作方法♪ 的时间
+到啦――",translated,依恩,629ed5f011,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#14#12,"えへへ。
+気になる物があったら言ってね♪","嘿嘿。
+要是有感兴趣的东西就跟我说哦♪",translated,依恩,ed78db41f4,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#16#12,"……なんて言ってる場合じゃなかった。
+今回も色々思い出したよ。
+気になるものが有ったら言ってね。","……现在可不是说这种话的时候。
+这次我也想起了不少东西呢。
+要是有感兴趣的就跟我说哦。",translated,依恩,da4b4cb6f5,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#18#12,"というわけで、今回もいろいろ
+作り方を思い出したよ。","言归正传，这次我也想起了
+各种东西的制作方法哦。",translated,依恩,06bfb84043,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#20#12,"今回も思い出したもの、メモしておくから。
+必要になったら言ってね。","这次想起来的东西我也记在便签里了。
+需要的时候就跟我说哦。",translated,依恩,1229eaa7c4,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#22#12,"それはそうと、今回も作り方を
+思い出したものがあるから、
+メモに書いておくね。","先不提这个了，这次我也想起了
+一些东西的制作方法，
+先写在便签里咯。",translated,依恩,95ebb8cb2d,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#24#12,"今回も色々思い出したから、
+またメモに書いておくね。","这次也想起了不少东西，
+再写在便签里咯。",translated,依恩,64af3978d0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#26#12,"さて、今回もいろいろと楽しいものを
+思い出したからね。","好啦，这次也想起了很多
+有趣的东西呢。",translated,依恩,3fdba358e0,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#27#12,"いつも通り、メモに書いておくから、
+ジャンジャン注文してね！","和平常一样记在便签里了，
+尽管向我下单吧！",translated,依恩,bd0a795786,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#29#12,"さて、気を取り直して！
+今回もいろいろなものが作れるように
+なったから、メモしておくね。","好啦，打起精神来！
+这次我也学会制作不少东西了，
+先记在便签里咯。",translated,依恩,0aa2ab3b98,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#31#12,"さあ、今回も思い出したものを
+メモしておくよ！","好，这次想起来的东西
+我也记在便签里了！",translated,依恩,fb2aa36d00,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#32#12,必要になったら、いつでも頼んでね。,需要的时候，随时拜托我做哦。,translated,依恩,42e550576f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#36#12,"<CLY2>レシピ【焼き魚？】が
+追加されました。","<CLY2>已追加配方
+【烤鱼？】。",translated,系统文本,c2b9b8c3b0,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#41#12,"<CLY2>レシピ【メタルその１？】が
+追加されました。","<CLY2>已追加配方
+【金属其一？】。",translated,系统文本,495d9515e0,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#43#12,"<CLY2>レシピ【無機溶剤？】が
+追加されました。","<CLY2>已追加配方
+【无机溶剂？】。",translated,系统文本,ac0ab4658c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#45#12,"<CLY2>レシピ【さくさくパン？】が
+追加されました。","<CLY2>已追加配方
+【酥脆面包？】。",translated,系统文本,a6d8b5431f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#50#12,"<CLY2>レシピ【メタルその２？】が
+追加されました。","<CLY2>已追加配方
+【金属其二？】。",translated,系统文本,ecaa6025e6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#55#12,"<CLY2>レシピ【質素な布？】が
+追加されました。","<CLY2>已追加配方
+【朴素的布？】。",translated,系统文本,03f1f6ef59,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#60#12,"<CLY2>レシピ【フォーマルウェア？】が
+追加されました。","<CLY2>已追加配方
+【正装？】。",translated,系统文本,26b6779682,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#65#12,"<CLY2>レシピ【菓子パン？】が
+追加されました。","<CLY2>已追加配方
+【甜面包？】。",translated,系统文本,0f4626023e,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#70#12,"<CLY2>レシピ【奇怪な鳥？】が
+追加されました。","<CLY2>已追加配方
+【奇怪的鸟？】。",translated,系统文本,74ae078971,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#75#12,"<CLY2>レシピ【超吸引機？】が
+追加されました。","<CLY2>已追加配方
+【超强吸机？】。",translated,系统文本,78a71bfd19,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#80#12,"<CLY2>レシピ【海鮮定食？】が
+追加されました。","<CLY2>已追加配方
+【海鲜定食？】。",translated,系统文本,887fd0fe30,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#85#12,"<CLY2>レシピ【かぼちゃがゆ？】が
+追加されました。","<CLY2>已追加配方
+【南瓜粥？】。",translated,系统文本,d76512f3c6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#90#12,"<CLY2>レシピ【コイル？】が
+追加されました。","<CLY2>已追加配方
+【线圈？】。",translated,系统文本,dcdb8e57f4,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_item_root.txt#95#12,"<CLY2>レシピ【幸せ弁当？】が
+追加されました。","<CLY2>已追加配方
+【幸福便当？】。",translated,系统文本,2abb3d8a7c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#3#12,<CLBU>えへへ。ありがと。,<CLBU>嘿嘿。谢谢你。,translated,依恩,d6ec8ac197,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#5#12,<CLBU>ふふっ。,<CLBU>呵呵。,translated,依恩,f43449a08e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#14#12,<CLBU>…ありがと。,<CLBU>……谢谢。,translated,依恩,5061d122c2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#16#12,<CLBU>…ん。,<CLBU>……嗯。,translated,依恩,e0b0094d9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#20#12,<CLBU>手を握って貰えると、ちょっと安心する。,<CLBU>你能握着我的手，让我稍微安心了些。,translated,依恩,5f10359596,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/mainscenarioevent02/mea02_tch.txt#22#12,<CLBU>…ん。,<CLBU>……嗯。,translated,依恩,e0b0094d9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#26#12,"<CLBU>ちょっと！
+マジメな話をしている時なのに！！","<CLBU>真是的！
+明明正在说正经事呢！！",translated,依恩,e6034730ad,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#28#12,<CLBU>もう…真剣な話してるんだよ？,<CLBU>真是的……我正在说正经事呢？,translated,依恩,d25941fcf0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#30#12,"<CLBU>こんな時まで胸に触ろうとするなんて
+なんだかあなたがよくわからないよ。","<CLBU>这种时候居然还想摸人家胸部，
+总觉得有些搞不懂你呢。",translated,依恩,cf5c61c338,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#34#12,<CLBU>…今おなかをさすられても…,<CLBU>……现在摸人家肚子也……,translated,依恩,c8f213cc5f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/mea02_tch.txt#36#12,"<CLBU>ねえ、マジメな話なんだけど、
+ちゃんと聞いてくれてる？","<CLBU>我说，这可是正经事，
+你有在认真听吗？",translated,依恩,b5a601fa4c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/me_nel03.txt#4#12,お～い、生きとるか～？,喂――你小子还活着吗――？,translated,妮莉库,c72ef91a09,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03.txt#8#12,…ふむ。死んでおるかもしれんのぅ…。,……唔。说不定已经死掉了呢……。,translated,妮莉库,1f51e08162,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03.txt#10#12,おーーーい。,喂――――。,translated,妮莉库,240e8e829b,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03.txt#14#12,…少し５軸をずらしてみるかの…。,……稍微偏移一下第5轴看看吧……。,translated,妮莉库,d884287c1a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#1#12,"<CLBU>おーおー、何とか生きておる
+ようじゃのぅ。","<CLBU>哎呀哎呀，看来你小子
+还总算是活着呐。",translated,妮莉库,01d74a02d8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/me_nel03a.txt#2#12,"そういえばまだ、お前さんがそっちの世界で
+何をやっておるか聞いてなかったの。","说起来，老身还没问过你在那个世界
+到底是在做什么的呐。",translated,妮莉库,5fb00e4a4d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#3#12,お前さんは一体、何者じゃ？,你小子到底是何方神圣？,translated,妮莉库,34f3ff6cfb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#4#12,世の中の悪を増長する使命を持つバッドマン,背负着助长世间罪恶使命的坏蛋侠,translated,,49f0fbd449,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#5#12,噂は必ず裏をとりたがるウラトルマン,听到传闻非要求证内幕的求证曼,translated,,f56659f8ee,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#6#12,毎日昼寝ばかりしておるスーピーマン,每天就只知道睡午觉的呼呼大睡曼,translated,,1426039570,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#7#12,きゃーねりこさーんすてきーどれいにして,呀――妮莉库小姐――好迷人――收我做奴隶吧,translated,,5174dbca5e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#8#12,単なる六十億分の一のコワッパ,不过是六十亿分之一的小屁孩,translated,,63362db7ea,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#12#12,"…っと、そんな話をしに来たわけでは
+なかったわ。","……哎呀，老身可不是来和你
+扯这些闲话的。",translated,妮莉库,c70104a278,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#13#12,"今日は我が、「はてなのおねえさん♪」を
+演じて、お前さんの悩みをズバッと解決
+してやろうと思って来たのじゃ。","今天老身可是特地来扮演“问号大姐姐♪”，
+打算一举帮你小子痛痛快快地
+解决烦恼的呐。",translated,妮莉库,0f6244a400,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#14#12,"早速じゃが、はてなのおねえさん♪は
+質問を受け付けるぞい。","闲话休提，问号大姐姐♪
+现在开始接受提问咯。",translated,妮莉库,11cdd61b35,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#15#12,ほれほれ、何でもいいからはよ質問せぬか！,快点快点，不管什么都行赶快提问呐！,translated,妮莉库,e27322eddb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#16#12,自分だけ見られる記憶がある？,有只有自己能看见的记忆？,translated,,4edc8851ef,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#17#12,ねりこさんの３サイズは？,妮莉库小姐的三围是？,translated,,7efbb27ba9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#20#12,"ふむ、良い質問じゃな。
+早速答えてしんぜよう。","唔姆，问得好。
+老身这就大发慈悲回答你。",translated,妮莉库,bc56068cdf,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#21#12,"お前さんが夢セカイを見ているときに
+アクセスしているのは、とうだいもりの
+脳内じゃ。","你小子在看着梦世界的时候，
+所连接的正是灯塔守的
+脑内呐。",translated,妮莉库,d54b7472b7,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#22#12,"ところでお前さん、自分の脳みそを
+どれくらいフル活用しておる？","话说回来你小子，觉得自己平时
+把大脑充分开发利用了多少？",translated,妮莉库,5049511d6b,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#23#12,"まあせいぜい１，２％程度というところ
+じゃろうが…","嘛，顶多也就百分之一、二左右
+的水准吧……",translated,妮莉库,3218ba958f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#24#12,"とうだいもりも、そこまで低くは無いとは
+思うが、やはり活用していない部分が
+わんさかある。","灯塔守虽然老身觉得不至于那么低，
+但显然也有一大堆
+完全没有利用到的部分。",translated,妮莉库,1ef33c617b,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#25#12,"そういった部分には、あやつは顕在意識で
+アクセスすることが出来んのじゃ。","那样的区域，那家伙在显意识层面
+是没办法去访问的呐。",translated,妮莉库,8e28159ecf,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#26#12,イオンは見てないのに記憶に存在するのは？,依恩明明没亲眼见过，为什么会存在于记忆里？,translated,,4df9cb6352,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#29#12,ふむ。なかなか鋭いツッコミじゃな。,唔姆。吐了个相当犀利的槽呐。,translated,妮莉库,54b0977e0e,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#30#12,"確かに、いくら無意識下にある記憶とはいえ
+見ていないものは記憶に存在せん。","确实，就算是潜意识里的记忆，
+没亲眼见过的东西按理也不会存在于记忆中。",translated,妮莉库,b97544ba8d,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#31#12,……普通の輩は、な。,……换作寻常之人的话，呐。,translated,妮莉库,8a9b6270ee,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#32#12,"そこがあやつの鍵なのじゃ。
+そして、本人もよう気づいておらん。","那正是那家伙的关键所在呐。
+而且，本人也根本完全没察觉到。",translated,妮莉库,b91502548a,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#34#12,どうじゃ。難しくなってきたじゃろう？,如何。开始觉得复杂难懂了吧？,translated,妮莉库,df7a2155e6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#35#12,"まあ、理解せよとは言わん。
+ただお前さんは今後も、とうだいもりの
+知らないはずの記憶を見る事になる。","嘛，老身也没指望你现在就理解。
+只是你小子今后也会继续看到
+灯塔守理应不知晓的记忆。",translated,妮莉库,8d22d79fd5,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#36#12,"とはいえ、何も恐れることはないぞぃ。
+寧ろこの特権を大いに楽しむ事じゃ。","话虽如此，但也用不着害怕什么咯。
+不如好好享受这份特权呐。",translated,妮莉库,efb5fb6250,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#37#12,"そのうち、「きゃー！」「なんだって！？」
+「やだ、すご…♪」と思わず口に出して
+しまうようなシーンが続出すること必至！","不久之后，势必会接连出现让你忍不住惊呼
+“呀――！”“怎么会！？”
+“天哪，好厉害……♪”的场景！",translated,妮莉库,2d569ad8d5,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#38#12,今から楽しみにしておるのじゃぞ。,从现在起就好好期待着吧。,translated,妮莉库,b11ae436ec,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#39#12,"もちろん、この驚きを得られるのは、
+頑張ってとうだいもりに愛を送り続ける
+よいこのみんなだけじゃ♪","当然，能收获这份惊喜的，
+仅限于努力不断给灯塔守
+倾注爱意的好孩子们哦♪",translated,妮莉库,cbffd8497b,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#40#12,今後も精進することじゃな。,今后也要好好精进呐。,translated,妮莉库,bd24d8d7d7,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#43#12,ふむ！　大変良い質問じゃの！,唔姆！问得真是太棒了呐！,translated,妮莉库,a0e9cfaf75,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#44#12,"我も我の３サイズを言いたくて
+仕方なかったのじゃ！","老身也早就迫不及待想把自己的三围
+公之于众了呐！",translated,妮莉库,d3dc6f45c7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#45#12,"お前さんはとてつもない
+ラッキーボーイじゃぞ。","你小子可真是个
+天大的幸运男孩呐。",translated,妮莉库,31e6ed98a2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#46#12,"それじゃ、早速発表するぞぃ。
+メモの準備はいいかの？","那么，这就立刻揭晓咯。
+准备好记下来了吗？",translated,妮莉库,f2d25c3540,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#47#12,我の３サイズはの…,老身的三围是呢……,translated,妮莉库,7344b29982,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#48#12,"いーしゃうりー・まぱくと
+しゅめりやーん・らうり・らうるら？","伊夏乌莉・玛帕克特
+修梅里扬・劳莉・劳鲁拉？",translated,妮莉库,8d476e6251,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#49#12,"…なんじゃよぅ！
+にゃーん、おっきすぎて、
+は・ず・か・し・い～♪","……是这样呐！
+喵――太大了啦，
+好・害・羞・哦～♪",translated,妮莉库,a0fbba184b,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#50#12,全然わからないのですが…,我完全听不懂你在说什么……,translated,,ca11bd6cc3,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#52#12,"なんと！！
+わからないじゃと！？","什么！！
+你居然说听不懂！？",translated,妮莉库,21ef775d50,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#53#12,"…お、お前さん、まさか…
+シャール語を理解出来ぬのか！？","……你、你小子，难不成……
+居然听不懂夏尔语吗！？",translated,妮莉库,0a09cc6b8f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#54#12,ヨヨヨ…何ということじゃ…,呜呜呜……怎会有这种事……,translated,妮莉库,b6a1436b61,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#55#12,"お前さん、小学校で６年間、何を
+学んできたのじゃ！
+給食を食べに行っておったのか！？","你小子在小学里待了整整六年，
+到底都学了些什么啊！
+只是去蹭营养午餐的吗！？",translated,妮莉库,557df3b64c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#56#12,普通の言葉で教えてください,请用普通的话告诉我,translated,,c7280f28f9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#58#12,"何を言っておる！
+昔から３サイズを言うときは、
+シャール語で言うと決まっておるのじゃ。","说什么胡话！
+打从自古以来，报三围的时候
+就规定必须要用夏尔语来说的呐。",translated,妮莉库,ad45b1057c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#59#12,"お前さんの世界にも、そういう常識の
+一つや二つはあるじゃろう？","在你的世界里，也总该有一两条
+这样的基本常识吧？",translated,妮莉库,4fd4441342,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#60#12,まったく、常識を知らぬヤツじゃのう。,真是的，真是不知常识的家伙呐。,translated,妮莉库,078496a200,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#61#12,"まあいいわ、言葉が分かる分からないは
+我のサポート外じゃが、
+とにかく質問には答えたぞぃ。","嘛，算啦，听得懂听不懂
+都不在老身的支持范围内，
+反正问题老身是回答了咯。",translated,妮莉库,72f706cf9a,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#63#12,と、まあこんな所じゃな。,呼，差不多就是这样啦。,translated,妮莉库,3f1e258fac,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#64#12,"それじゃ、これをもって
+「はてなのおねえさん♪」は廃業じゃ。","那么，就此宣告
+“问号大姐姐♪”正式停业啦。",translated,妮莉库,1dc6409cce,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#65#12,知りたい情報はゲットできたかの？,你想知道的情报都弄到手了吗？,translated,妮莉库,7c74ae10d9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#66#12,"何にしてもじゃ。
+得をしたと思うも、損したと思うも、
+お前さんの心持ち次第。","不管怎么说。
+觉得赚到了还是亏大了，
+全凭你小子自己的心态。",translated,妮莉库,2bde103518,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#67#12,"それなら、どんな回答をもらっても
+「得をした！」と思っておった方が、
+人生楽しめるというものじゃ。","既然如此，不论得到什么样的回答，
+都抱着“赚到了！”的心态，
+人生才会更快乐呐。",translated,妮莉库,16b7d32639,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#68#12,"お前さんにも、それくらいの心意気を持って
+人生を謳歌して欲しいものじゃのう！
+むっふっふ。","老身也希望你小子能带着这种气魄
+去尽情享受人生呐！
+唔呼呼。",translated,妮莉库,2cb42b4bf3,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#69#12,"おっと、長居しすぎてしまった。
+あやつがここに戻ってきてしまう。","哎呀，待得太久了。
+那丫头该回这里来了。",translated,妮莉库,bfab21dc11,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#70#12,"それじゃ、今日はこれでおいとまするかの。
+身体にだけは十分気をつけるのじゃぞ。","那么，今天就告退咯。
+身体可千万要多加保重呐。",translated,妮莉库,1398ff3b56,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#75#12,"おお、なんと！
+まさかこの時間で反応が返ってくるとは
+思わなかったぞ。","哦哦，居然！
+真没想到在这点时间内
+你就能给出反应啊。",translated,妮莉库,8b33dde6aa,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#76#12,"じゃが、言ってみたはいいが、
+我はそんなことに全く興味はなかったわ。","不过，虽说是老身自己问的，
+其实老身对此完全没兴趣呢。",translated,妮莉库,0221c4107f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#77#12,"まあ、お前さんが何者じゃろうが、
+ちゃんとお前さんの使命を果たしてくれれば
+我はそれで十分じゃからのぅ。","嘛，不管你小子究竟是何方神圣，
+只要能好好完成你自己的使命，
+老身觉得这就足够了呐。",translated,妮莉库,70b0c9afa8,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#81#12,"な、なんと！？
+お前さん…一体どうしたことじゃ！","什、什么！？
+你小子……到底吃错什么药了！",translated,妮莉库,1d9499b502,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#82#12,このたった０コンマ数秒の間に…,居然在短短的零点几秒之间……,translated,妮莉库,d59956cec6,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#83#12,"「キャー！ねりこサーン！素敵ー！！
+　奴隷にしてください！！！」","“呀――！妮莉库小姐――！好迷人――！！
+　请收我做奴隶吧！！！”",translated,妮莉库,3a44f8058e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#84#12,などという選択肢を選ぶとは！！,就选择了这样的选项！！,translated,妮莉库,98f8e1509b,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#85#12,"うむむ、我はお前さんを少し
+見くびっておったようじゃ…。","唔唔唔，看来老身稍微
+有点小瞧你小子了呐……",translated,妮莉库,48437dd7df,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel03a.txt#86#12,"お詫びに快く、我の奴隷にしてやるぞぃ！
+ほれ、早速靴をなめたもれ！","作为补偿，老身就欣然收你做奴隶咯！
+来，赶快把老身的鞋子舔干净！",translated,妮莉库,2969ff9c97,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04.txt#4#12,お～い、生きとるか～？,喂――你小子还活着吗――？,translated,妮莉库,c72ef91a09,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04.txt#8#12,…ふむ。死んでおるかもしれんのぅ…。,……唔。说不定已经死掉了呢……。,translated,妮莉库,1f51e08162,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04.txt#10#12,おーーーい。,喂――――。,translated,妮莉库,240e8e829b,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04.txt#14#12,…少し５軸をずらしてみるかの…。,……稍微偏移一下第5轴看看吧……。,translated,妮莉库,d884287c1a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#1#12,"<CLBU>おーおー、今日も元気に
+息を吸って吐いてしておったか！","<CLBU>哎呀哎呀，今天也很有精神地
+在呼吸吐纳着呐！",translated,妮莉库,62406ce122,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/mainscenarioevent02/me_nel04a.txt#2#12,"うむうむ。生きていることが一番大事じゃ。
+それに比べたら他の事など大したことでは
+ないからのぅ。","唔姆唔姆。活着才是最要紧的。
+比起这个，其他事情
+根本就算不了什么呐。",translated,妮莉库,62b4e464f8,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#3#12,"ところでお前さんは、
+相変わらずその「大したことではない」
+ことに、色々振り回されておるようじゃの。","不过话说回来，你小子依然
+被那些“算不了什么”的事情
+给耍得团团转呐。",translated,妮莉库,448ff8f1fc,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#4#12,"まあ、そうでもなければ、とうだいもりに
+ここまでつき合ったりせんじゃろうから、
+今回ばかりはお前さんの小ささに感謝じゃ。","嘛，若不是这样，你小子也不会
+陪灯塔守折腾到现在了，
+唯独这次老身得感谢你小子的渺小呐。",translated,妮莉库,d78cb4f967,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#5#12,"いやはや、煩悩とは
+いとも素晴らしいものよのぅ！
+むっふっふ。","哎呀呀，烦恼妄念这东西
+可真是妙不可言呐！
+唔呼呼。",translated,妮莉库,c31314a3f2,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#6#12,"そんな煩悩の塊のお前さんに、
+今日も一つだけ我が手助けしてやるぞぃ。","对你这种烦恼的集合体，
+老身今天也破例帮衬你一把咯。",translated,妮莉库,a64231dba7,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#7#12,"もっと煩悩爆発すること受け合いな
+質問をするがいいぞ。","尽管提些保准能让你烦恼彻底爆发的
+问题来吧。",translated,妮莉库,a318c5a9f2,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#8#12,ねりこはイオンをずっと監視している？,妮莉库一直在监视依恩吗？,translated,,49a68de1e9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#9#12,ねりこさんと添い寝したいです,想和妮莉库小姐一起睡,translated,,cb09efbac9,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#12#12,おーおー、その事か。,哎呀哎呀，是那件事啊。,translated,妮莉库,cf90ec9cfb,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#13#12,"あれじゃろう。我が看守として
+やっていけるかどうか、議論しておった。","就是那个吧。你们在争论老身
+能不能胜任当看守的事。",translated,妮莉库,aaeefb0d13,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#15#12,"それで、お前さんは我を看守っぽいと
+言っておったのう…。",然后，你小子说老身挺像个看守的呐……,translated,妮莉库,961e27243f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#16#12,"しかしとうだいもりも、シマシマの服
+イコール看守というのは、一体どれだけ
+ピンボケしておるのか…ふむ……","不过灯塔守那家伙，觉得穿条纹衣服
+就等于是看守，未免也
+太脱线了吧……唔姆……",translated,妮莉库,faf50416fc,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#17#12,"まあ何にしても、我が看守というのも
+あながち間違った表現ではないぞぃ。","嘛，不管怎么说，说老身是看守
+倒也不能算全错咯。",translated,妮莉库,54504b2e88,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#19#12,"それで、お前さんは我を看守っぽくないと
+言っておったのう…。",然后，你小子说老身根本不像个看守呐……,translated,妮莉库,a46ef38592,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#20#12,"まあ、我をつかまえて、看守が務まらない
+などとはよく言えたものじゃな。","嘛，抓着老身说老身当不好看守，
+你小子还真敢说呐。",translated,妮莉库,68ea750e93,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#22#12,"我はあやつ…とうだいもりの事なら
+どんなことでも知っておる。すなわち、
+看守の中の看守、スーパーカンシュじゃ！","只要是关于那家伙……灯塔守的事，
+老身无所不知。也就是说，
+老身可是看守中的看守，超级看守！",translated,妮莉库,58ca919dd8,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#23#12,"カタカナにすると、なんだか微妙に
+カッコイイのぅ。むっふっふ。","换成片假名念起来，不知怎的
+还挺帅气的呐。唔呼呼。",translated,妮莉库,17f82fdbbc,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#24#12,なぜそんなことを知ってる？,为什么你会知道那些事？,translated,,cf1ebea9b3,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#26#12,"なんじゃ、ノリが悪いやつじゃな。
+まあよい。それだけ気になるのじゃろ。","什么嘛，你小子可真不配合气氛呐。
+嘛算啦。既然你那么在意。",translated,妮莉库,b4223df7ae,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#27#12,"結論から言えば、我は別にとうだいもりと
+お前さんとのイチャコラを覗き見したりは
+しておらん。","直接说结论吧，老身可没有
+特意去偷看你小子和灯塔守
+打情骂俏哦。",translated,妮莉库,f475db3f5c,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#28#12,"ただ、脳内を過去の時間軸にずらすと、
+なぜかあやつの記憶が思い出せて
+しまうのじゃ。","只是每当老身将脑海转到过去的时间轴时，
+不知为何就会回想起
+那家伙的记忆呐。",translated,妮莉库,83d17be5d9,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#29#12,"まあ、あれじゃな。
+ほれ、長くつき合っておると、語らずとも
+お互いを理解できるようになるじゃろ。","嘛，就是那个啦。
+你看，相处久了之后，就算不言不语
+彼此也能心领神会对吧。",translated,妮莉库,7cde99f7ab,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#30#12,"我ととうだいもりは、
+既にその境地に入っているということじゃ。","老身和灯塔守，
+早就已经达到这种境界了呐。",translated,妮莉库,a6dcaeb6a6,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#31#12,それは詭弁だ,这纯属诡辩,translated,,8441af5f0a,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#33#12,"おりょりょ…
+さすがにこれでは納得しなかったか。
+少々見くびりすぎたかの。","哎呀呀……
+看来这种说法糊弄不过去啊。
+老身稍微有点小瞧你小子了呐。",translated,妮莉库,b26a4b3d9f,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#34#12,"まああれじゃ。
+とうだいもりやお前さんに特殊能力が
+あるように、我にもあるのじゃ。","嘛，就是那个啦。
+就像灯塔守和你小子有特殊能力一样，
+老身也是有的呐。",translated,妮莉库,7308d9b1af,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#35#12,"それが、とうだいもりの記憶と共有する
+という能力だったりするわけじゃ。","那就是能与灯塔守共享记忆的
+这样一种能力呐。",translated,妮莉库,5dd7248285,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#36#12,ま、そういう事にしておいてくりゃれ。,嘛，你就当成是这么回事吧。,translated,妮莉库,a6b06fea99,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#39#12,"あっはっはっは！
+なかなか豪儀な事をいうものじゃ！","啊哈哈哈哈！
+你小子还挺敢开口的呐！",translated,妮莉库,3f47dc804b,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#40#12,"我と添い寝したいとな。
+お前さんは、なかなかの命知らずじゃのう。","想和老身一起睡啊。
+你小子还真是不怕死呐。",translated,妮莉库,e979156fd9,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#41#12,"ついでに恥知らずの怖い物知らず、
+世間知らずに親知らず子知らずじゃな！","而且不仅不知羞耻、不知天高地厚，
+还不谙世故、不知好歹甚至没心没肺呐！",translated,妮莉库,f31ad25c5f,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#42#12,"まあ考えてみい。
+我が今の話をとうだいもりにしたら、
+お前さんはどうなると思う？","你小子动动脑子想想。
+要是老身把刚才的话告诉灯塔守，
+你觉得你会有什么下场？",translated,妮莉库,4063aa4bd0,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#43#12,まあ恐らく、燃えないゴミ行きじゃの。,嘛，恐怕会被当成不可燃垃圾丢掉呐。,translated,妮莉库,e0028cfe8b,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#44#12,"それにしてもまあ、よくもここまで
+我に無防備でいられるものじゃな。
+半端ないアホか、それとも策士か…","不过话说回来，你小子居然敢
+在老身面前毫无防备到这种地步。
+到底是个彻头彻尾的笨蛋，还是老谋深算呢……",translated,妮莉库,a673bafd8f,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#45#12,まあ、十中八九前者じゃろな！,嘛，十有八九是前者吧！,translated,妮莉库,cb698f12dd,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#46#12,"というわけで、我はそろそろ
+帰るとするかの。","言归正传，老身也差不多
+该回去了呐。",translated,妮莉库,19db4efd9a,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#48#12,"なんじゃ、その微妙なオーラは。
+まさか、我が本当にお前さんと
+添い寝すると思っておったか？","干嘛呀，露出那副微妙的气场。
+难不成你小子真以为老身
+会陪你一起睡吗？",translated,妮莉库,4173b11a40,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#49#12,"…ふむ、最後に一つだけ質問じゃ。
+なぜ我と添い寝したいと思ったのじゃ？","……唔姆，最后问你一个问题。
+你为什么会想和老身一起睡呐？",translated,妮莉库,daccea3d29,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#50#12,その胸に包み込まれたい！,想要被那对胸部拥入怀中！,translated,,bb780e4b9f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#51#12,その母性愛に包み込まれたい！,想要被那份母爱紧紧包容！,translated,,970618335f,br=0 nl=0,1,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#54#12,"ま、やっぱりそんなところじゃったか。
+単純じゃのう。","嘛，果然也就是这档子事呐。
+真单纯呐。",translated,妮莉库,cf9f4fc96e,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#58#12,"母性愛じゃと？　あっはっは！
+なかなか面白いことを言うように
+なったもんじゃ。","母爱？啊哈哈哈！
+你小子还挺会说些
+逗趣的话了嘛。",translated,妮莉库,ebbc4477a4,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#60#12,"まあよいわ。
+お前さんのその煩悩、一応記憶の片隅に
+留めておこうではないか。","嘛，算啦。
+你小子的这点烦恼妄念，老身就姑且
+记在脑海的一角吧。",translated,妮莉库,396df66583,br=0 nl=2,3,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#61#12,"ゆすりのネタにも使えるしのう…
+むっふっふ……","说不定还能用来当敲诈的把柄呐……
+唔呼呼……",translated,妮莉库,2d3a3824ef,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#63#12,"おっと、長居しすぎてしまった。
+あやつがここに戻ってきてしまう。","哎呀，待得太久了。
+那丫头该回这里来了。",translated,妮莉库,bfab21dc11,br=0 nl=1,2,
+inc/event/res/mainscenarioevent02/me_nel04a.txt#64#12,"それじゃ、今日はこれでおいとまするかの。
+身体にだけは十分気をつけるのじゃぞ。","那么，今天就告退咯。
+身体可千万要多加保重呐。",translated,妮莉库,1398ff3b56,br=0 nl=1,2,

@@ -1,0 +1,439 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#3#12,<CLBU>えへへ、ぷにぷにされちゃった♪,<CLBU>嘿嘿，被捏得软乎乎的呢♪,translated,依恩,68dff356f2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#5#12,"<CLBU>やわらかい？
+…最近ちょっと肥っちゃったかな…？","<CLBU>很软吗？
+……最近是不是有点长胖了呀……？",translated,依恩,2919656ad3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#7#12,<CLBU>ぷにぷに～ぷにぷに～♪,<CLBU>软绵绵～肉乎乎～♪,translated,依恩,7482b388fa,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#9#12,"<CLBU>頭をこづかれると、
+なんだか怒られてる気分になるよ。","<CLBU>被戳脑袋的话，
+总觉得好像在被训斥一样呢。",translated,依恩,94935d2e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#11#12,"<CLBU>…こんなところで頭さわさわされたの
+初めてだよぅ。","<CLBU>……在这样的地方被摸脑袋，
+还是第一次呢。",translated,依恩,23a012841d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#13#12,<CLBU>いたたっ、あたまこづかないでよぅ。,<CLBU>好痛痛，别戳人家的脑袋啦。,translated,依恩,9310e564b3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#15#12,"<CLBU>そういうのは、あまり人が
+いない所でやってね。","<CLBU>那种事情，还是在没什么人的
+地方再做啦。",translated,依恩,2d8c1db2c5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#17#12,"<CLBU>えへへ…。周りからはどんな風に
+見えるのかなぁ。","<CLBU>诶嘿嘿……在周围人看来，
+会觉得我们是什么样子呢。",translated,依恩,ee67c2132a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#19#12,"<CLBU>いてっ！
+もーっ、やったなぁっ！　あはは♪","<CLBU>好痛！
+真是的，竟敢偷袭！　啊哈哈♪",translated,依恩,29e80e09a2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#28#12,"<CLBU>ひゃっ！
+普段触られないところだから、
+ビックリしちゃった。","<CLBU>呀啊！
+因为是平时摸不到的地方，
+吓了我一跳。",translated,依恩,6237e25d29,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#30#12,"<CLBU>こんな所で肩を抱かれたりしたら
+なんだかちょっとドキドキしちゃう。","<CLBU>在这样的地方被搂住肩膀的话，
+总觉得会有点心跳加速呢。",translated,依恩,3bb9823be2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#32#12,"<CLBU>腕を組んでるカップルって
+良くいるよね。","<CLBU>经常能看到
+挽着手臂的情侣呢。",translated,依恩,c1fefb4dc0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#34#12,<CLBU>あはっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒呀。,translated,依恩,95f35ded94,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#36#12,"<CLBU>腕組んで歩いたら、
+どう見てもデートだよね。","<CLBU>要是挽着手臂一起走，
+怎么看都绝对是在约会呢。",translated,依恩,e9aa5e3b1f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#38#12,"<CLBU>外で肩をさわさわされると、
+ちょっと不思議な気分。","<CLBU>在外面被你轻轻摸着肩膀，
+感觉稍微有点奇妙呢。",translated,依恩,a9213380c4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#40#12,"<CLBU>丁度肩が凝ってたところなの。
+なんてね。","<CLBU>刚好我的肩膀有点酸痛呢。
+开玩笑的啦。",translated,依恩,ccc5eab686,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#44#12,<CLBU>手を握られてると、安心するよね。,<CLBU>被握着手的时候，真的很安心呢。,translated,依恩,34b1441d9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#46#12,<CLBU>ずっと握ってたいかも。,<CLBU>甚至想一直这样握着呢。,translated,依恩,edf0418ff3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#48#12,"<CLBU>なんだか手を繋ぐだけで
+ドキドキしちゃうね。","<CLBU>总觉得光是牵着手
+就让人心跳不已呢。",translated,依恩,7c43682545,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#50#12,<CLBU>お～てて～、つ～ないで～♪,<CLBU>手～牵～手～，一～起～走～♪,translated,依恩,06c1f31ec8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#52#12,"<CLBU>わたし、手先が不器用だから
+細かい作業がちょっと苦手なの。","<CLBU>我手脚比较笨拙，
+有点不擅长精细活呢。",translated,依恩,d67e3e3434,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#54#12,<CLBU>手を繋いでお買い物したいねー。,<CLBU>真想牵着手一起去买东西呢――,translated,依恩,71ab8bf105,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#56#12,<CLBU>そういえば、石けん買っていかなくちゃ。,<CLBU>说起来，得顺便买块肥皂回去才行。,translated,依恩,7db1e63bd5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#58#12,"<CLBU>ちょっとだけ、近づけるような
+気がするよね。手を繋ぐと。","<CLBU>只要牵着手，总觉得
+彼此的心情就能更靠近一些呢。",translated,依恩,3d8af0b204,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#62#12,"<CLBU>きゃっ！
+もう！　だーめっ！","<CLBU>呀啊！
+真是的！不行啦～！",translated,依恩,6e9a4f7ae7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#64#12,<CLBU>こーらっ！　そこ禁止！,<CLBU>喂喂！那里严禁触碰！,translated,依恩,41c3538644,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#66#12,"<CLBU>もう…エッチ。
+小さいんだからあんまり見ないで。","<CLBU>真是的……大色狼。
+反正那么小，不要总是直勾勾地盯着看啦。",translated,依恩,d564d2edcb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#68#12,"<CLBU>ちょっと、ダメだよぅ…
+こんな所で！　もう…","<CLBU>等等，不可以啦……
+在这么个地方！真是的……",translated,依恩,e6077c0f44,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#70#12,"<CLBU>はわわ！！
+もう、ダメったらダメーっ！！","<CLBU>哇哇哇！！
+真是的，说了不行就是不行啦～！！",translated,依恩,4039a61d25,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#72#12,"<CLBU>もう、だめだってば！
+みんなにジロジロ見られちゃう。","<CLBU>真是的，都说了不行啦！
+会被大家盯着看的。",translated,依恩,f5e971622b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#74#12,<CLBU>だから、そういう事しちゃダメ！,<CLBU>所以说，不能做那种事情啦！,translated,依恩,d3b80fdb44,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#78#12,"<CLBU>ひぁっ！
+ちょっと、急にそんなとこ突かないで。","<CLBU>呀啊！
+真是的，别突然戳那种地方啦。",translated,依恩,9dfc1f3d6d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#80#12,"<CLBU>お腹がぷにぷにしてるのは、
+肥ってるからじゃないよ？","<CLBU>肚子捏起来软软的，
+可不是因为发胖哦？",translated,依恩,adbfa19173,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#82#12,"<CLBU>お腹突いちゃダメ！
+くすぐったいもん…。","<CLBU>不许戳肚子！
+好痒的啦……。",translated,依恩,59d5a25d8c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#84#12,"<CLBU>おなかぷにぷにしても
+何もでませんよ？","<CLBU>就算捏我的小肚子
+也捏不出什么东西来哦？",translated,依恩,25381264ca,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#86#12,"<CLBU>なんだか不思議な気分…
+小さい頃を思い出すような…","<CLBU>总觉得是种奇妙的感觉……
+好像让人回想起了小时候……",translated,依恩,8ee14d073a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#88#12,"<CLBU>こんなところで
+お腹突いたりしないでよぅ…。","<CLBU>别在这么个地方
+戳人家的肚子啦……",translated,依恩,618d0d6ad9,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#90#12,"<CLBU>ちょ、ちょっとー！
+くすぐったいからだめーっ！！","<CLBU>等、等等――！
+好痒的不行啦――！！",translated,依恩,9389d2a60b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#92#12,<CLBU>くっ、くすぐったいっ！！,<CLBU>好、好痒啊！！,translated,依恩,93315f8040,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#94#12,<CLBU>こんな所で、おなか突かないで～。,<CLBU>不要在人这么多的地方戳我肚子啦～,translated,依恩,73f6aea92f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch01.txt#96#12,<CLBU>んもー。どういうつもりなの？,<CLBU>真是的――你到底想干嘛呀？,translated,依恩,6574c4bd52,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#3#12,<CLBU>えへへ。なでなでされちゃった。,<CLBU>嘿嘿。被摸摸头了呢。,translated,依恩,519fab2995,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#5#12,"<CLBU>お肌、すべすべしてる？
+髪の毛つやつやしてる？
+だといいなぁ…。","<CLBU>皮肤摸起来光滑吗？
+头发看起来有光泽吗？
+要是那样就好了……。",translated,依恩,a5aeb4fcda,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#7#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#9#12,"<CLBU>頭さわさわされると
+なんだかイケナイ雰囲気になっちゃう…
+…かも…","<CLBU>被你轻轻摸着头，
+总觉得气氛变得有点危险起来了……
+……也许吧……",translated,依恩,cc47c6c029,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#11#12,<CLBU>えへへ、なんだか幸せかも。,<CLBU>嘿嘿，总觉得有点幸福呢。,translated,依恩,dbd5a4f214,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#13#12,<CLBU>えへへ、なでり～なでり～♪,<CLBU>嘿嘿，摸摸～摸摸～♪,translated,依恩,6448d37f97,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#15#12,"<CLBU>さわさわされちゃった。
+わたしたちって、なかよしさんだね。","<CLBU>被你轻轻摸了摸呢。
+我们俩的感情还真是好呢。",translated,依恩,38af92e703,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#17#12,<CLBU>ほっぺつるつるしてる？,<CLBU>我的脸颊摸起来滑溜溜的吗？,translated,依恩,ee55a7f3b6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#26#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#28#12,"<CLBU>二の腕って柔らかいよね。
+自分でさするの、結構好きなんだ。","<CLBU>大臂摸起来软软的呢。
+我自己其实也挺喜欢摸这里的。",translated,依恩,1492e4b3fa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#30#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#32#12,"<CLBU>ふふっ、お友達と
+こうやってさわさわしたりして
+遊んでみたい。","<CLBU>呵呵，真想和朋友们
+像这样互相摸来摸去
+打闹着玩呢。",translated,依恩,5a6f6c9962,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#34#12,"<CLBU>寒いときとか、
+こうやって肩を撫でたりするよね。","<CLBU>天冷的时候，
+也会像这样搓搓肩膀取暖吧。",translated,依恩,f8556f0f90,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#36#12,"<CLBU>ふふっ、くすぐったい！
+でも、ここだとあまり盛り上がらないね～。","<CLBU>呵呵，好痒哦！
+不过在这里好像不太能调动起气氛呢～。",translated,依恩,0a6306677b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#38#12,<CLBU>ひゃっ、くすぐったいよぅ。,<CLBU>呀，好痒呀。,translated,依恩,0fb4b01a74,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#40#12,"<CLBU>肩を抱かれて歩くと
+ホントに幸せ。","<CLBU>被你搂着肩膀散步，
+真的好幸福。",translated,依恩,8e36690167,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#42#12,"<CLBU>えへへ、肩はちょっと
+くすぐったいかも。","<CLBU>诶嘿嘿，肩膀稍微
+有点怕痒呢。",translated,依恩,5bef7cd41e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#44#12,"<CLBU>なんだか不思議な気分。
+とろーんってして来ちゃう。","<CLBU>总觉得心情好不可思议，
+整个人都变得轻飘飘软绵绵的。",translated,依恩,3113f7e2d3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#48#12,"<CLBU>手をさわさわされるのって、
+結構好きなの。","<CLBU>手掌被你轻轻摩挲的感觉，
+我其实还挺喜欢的呢。",translated,依恩,902ef30838,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#50#12,"<CLBU>なんか、昔緊張したときに
+手のひらに「の」の字を書いたのを
+思いだした。","<CLBU>总觉得让人联想到
+以前紧张时在手心比划着
+写“の”字放松的事情呢。",translated,依恩,518a65a6c3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#52#12,"<CLBU>二人でさわさわしてると、
+お互い気持ちいい…かも？","<CLBU>两个人这样互相摩挲轻抚，
+彼此感觉都会很舒服……吧？",translated,依恩,08403ebc6e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#54#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#56#12,"<CLBU>小さい頃って、手を繋ぐだけで
+ドキドキしてたよね。","<CLBU>小的时候，光是牵牵小手
+就会心跳不已了呢。",translated,依恩,f4d9577036,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#58#12,"<CLBU>手のひらにマジックで
+色々書いたりしてた？","<CLBU>你以前有用记号笔在手心里
+写过各种各样的东西吗？",translated,依恩,e8372207c3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#60#12,<CLBU>手をさすって温めてくれるの？,<CLBU>是在搓搓手帮我暖手吗？,translated,依恩,517beabbf4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#62#12,<CLBU>えへへ、気持ちいいかも。,<CLBU>嘿嘿，感觉挺舒服的呢。,translated,依恩,c61f773ac8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#64#12,<CLBU>あなたの手って、温かいね。,<CLBU>你的手，好暖和呀。,translated,依恩,86fb04fc63,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#66#12,<CLBU>あはっ、くすぐったいってば。,<CLBU>啊哈，都说了好痒嘛。,translated,依恩,0f9d990f7c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#68#12,"<CLBU>お外が寒いときは、
+二人で手をさすり合うといいよね。","<CLBU>外面天气冷的时候，
+两个人互相搓搓手取暖真好呢。",translated,依恩,20844e578d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#70#12,"<CLBU>さわさわ～さわさわ～。
+ちょっと幸せな気持ち。","<CLBU>摸摸～摸摸～。
+有种小小的幸福感呢。",translated,依恩,9e22d84fcc,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#74#12,"<CLBU>やーん！　だーめ！
+そんなコトするなら、もう帰るよ？","<CLBU>呀啊～！　不行！
+要是再做这种事，我可就要回去了哦？",translated,依恩,931e4673a1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#76#12,"<CLBU>もーっ！
+そんな事したって、あなたには柔らかさ
+伝わらないでしょ？","<CLBU>真是的！
+就算你做这种事，
+你也感受不到那种柔软度吧？",translated,依恩,69e86d7ab3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#78#12,"<CLBU>もう…どうしてそんなに
+胸ばっかり触りたがるのかなぁ…。","<CLBU>真是的……为什么你
+总想摸人家的胸部呢……",translated,依恩,182ed974d2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#80#12,"<CLBU>…もしかして、禁止されると
+燃えるタイプでしょ。","<CLBU>……难道说，你是那种越被禁止
+反而越来劲的类型吧。",translated,依恩,da61041b1b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#82#12,"<CLBU>…もう！
+なんかドキドキしてきちゃったよぅ。
+誰かに見つかったらどうするの？","<CLBU>……真是的！
+总觉得心跳都加速起来了啦。
+要是被谁看到了该怎么办呀？",translated,依恩,299958f74f,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#84#12,"<CLBU>…もう、こんな所でも。
+本当にどこでも触ろうとするんだね。","<CLBU>……真是的，连在这种地方也是。
+你还真是不论在哪里都想摸摸看呢。",translated,依恩,dadbd2b67a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#86#12,"<CLBU>もう！　誰かに見られたら
+恥ずかしいよぅ！","<CLBU>真是的！　要是被人看见了
+多害羞呀！",translated,依恩,272db89e22,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#88#12,"<CLBU>はぁ…。
+本当にどこでも触りたいんだね。","<CLBU>唉……
+你还真是不管在哪里都想摸呢。",translated,依恩,a92b44782b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#92#12,"<CLBU>あはははっ！
+おなかさすられるとくすぐったいよぅ。","<CLBU>啊哈哈哈！
+肚子被你揉来揉去好痒呀。",translated,依恩,561060b80f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#94#12,"<CLBU>なんか、お腹さわさわしてると
+赤ちゃんが生まれてくる時みたいだね。","<CLBU>总觉得肚子被你这样摸来摸去，
+就像怀里要有小宝宝时一样呢。",translated,依恩,0e5a2db147,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#96#12,<CLBU>なんだか気持ちいいかも。,<CLBU>不知为何感觉挺舒服的呢。,translated,依恩,201474d0e5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#98#12,"<CLBU>なんかおなかさすられてると、
+お腹が痛くなって介護されてるみたい。","<CLBU>总觉得被你这么抚摸肚子，
+像是我肚子痛在被人照料一样呢。",translated,依恩,a751097557,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#100#12,<CLBU>あははっ、くすぐったーい！,<CLBU>啊哈哈，好痒啊――！,translated,依恩,123d619f02,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#102#12,"<CLBU>あまりおなかさすらないで。
+嫌じゃないけど、ここはちょっと…。","<CLBU>别老揉我的肚子啦。
+倒不是讨厌，只是在这里有点……",translated,依恩,4873ffd382,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#104#12,"<CLBU>そんなにお腹が好きなの？
+ぽっこりしてるからかなぁ…。","<CLBU>你那么喜欢肚子吗？
+是因为有点肉乎乎的小肚子吗……",translated,依恩,7ea168659b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#106#12,<CLBU>おなかさわさわされてる。,<CLBU>肚子正被你轻轻摸着呢。,translated,依恩,d3411b88a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#108#12,<CLBU>えへへ、くすぐったーい。,<CLBU>诶嘿嘿，好――痒呀。,translated,依恩,db89e192c0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch02.txt#110#12,<CLBU>なんだか不思議とリラックスしてくるよ。,<CLBU>总觉得不可思议地放松下来了呢。,translated,依恩,fdec232bd9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#3#12,<CLBU>えへへ、ぷにぷにされちゃった♪,<CLBU>嘿嘿，被捏得软乎乎的呢♪,translated,依恩,68dff356f2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#5#12,"<CLBU>やわらかい？
+…最近ちょっと肥っちゃったかな…？","<CLBU>很软吗？
+……最近是不是有点长胖了呀……？",translated,依恩,2919656ad3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#7#12,<CLBU>ぷにぷに～ぷにぷに～♪,<CLBU>软绵绵～肉乎乎～♪,translated,依恩,7482b388fa,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#9#12,"<CLBU>頭をこづかれると、
+なんだか怒られてる気分になるよ。","<CLBU>被戳脑袋的话，
+总觉得好像在被训斥一样呢。",translated,依恩,94935d2e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#11#12,"<CLBU>…こんなところで頭さわさわされたの
+初めてだよぅ。","<CLBU>……在这样的地方被摸脑袋，
+还是第一次呢。",translated,依恩,23a012841d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#13#12,<CLBU>いたたっ、あたまこづかないでよぅ。,<CLBU>好痛痛，别戳人家的脑袋啦。,translated,依恩,9310e564b3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#15#12,"<CLBU>そういうのは、あまり人が
+いない所でやってね。","<CLBU>那种事情，还是在没什么人的
+地方再做啦。",translated,依恩,2d8c1db2c5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#17#12,"<CLBU>えへへ…。周りからはどんな風に
+見えるのかなぁ。","<CLBU>诶嘿嘿……在周围人看来，
+会觉得我们是什么样子呢。",translated,依恩,ee67c2132a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#19#12,"<CLBU>いてっ！
+もーっ、やったなぁっ！　あはは♪","<CLBU>好痛！
+真是的，竟敢偷袭！　啊哈哈♪",translated,依恩,29e80e09a2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#23#12,"<CLBU>ひゃっ！
+普段触られないところだから、
+ビックリしちゃった。","<CLBU>呀啊！
+因为是平时摸不到的地方，
+吓了我一跳。",translated,依恩,6237e25d29,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#25#12,"<CLBU>こんな所で肩を抱かれたりしたら
+なんだかちょっとドキドキしちゃう。","<CLBU>在这样的地方被搂住肩膀的话，
+总觉得会有点心跳加速呢。",translated,依恩,3bb9823be2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#27#12,"<CLBU>腕を組んでるカップルって
+良くいるよね。","<CLBU>经常能看到
+挽着手臂的情侣呢。",translated,依恩,c1fefb4dc0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#29#12,<CLBU>あはっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒呀。,translated,依恩,95f35ded94,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#31#12,"<CLBU>腕組んで歩いたら、
+どう見てもデートだよね。","<CLBU>要是挽着手臂一起走，
+怎么看都绝对是在约会呢。",translated,依恩,e9aa5e3b1f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#33#12,"<CLBU>外で肩をさわさわされると、
+ちょっと不思議な気分。","<CLBU>在外面被你轻轻摸着肩膀，
+感觉稍微有点奇妙呢。",translated,依恩,a9213380c4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#35#12,"<CLBU>丁度肩が凝ってたところなの。
+なんてね。","<CLBU>刚好我的肩膀有点酸痛呢。
+开玩笑的啦。",translated,依恩,ccc5eab686,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#39#12,<CLBU>手を握られてると、安心するよね。,<CLBU>被握着手的时候，真的很安心呢。,translated,依恩,34b1441d9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#41#12,<CLBU>ずっと握ってたいかも。,<CLBU>甚至想一直这样握着呢。,translated,依恩,edf0418ff3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#43#12,"<CLBU>なんだか手を繋ぐだけで
+ドキドキしちゃうね。","<CLBU>总觉得光是牵着手
+就让人心跳不已呢。",translated,依恩,7c43682545,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#45#12,<CLBU>お～てて～、つ～ないで～♪,<CLBU>手～牵～手～，一～起～走～♪,translated,依恩,06c1f31ec8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#47#12,"<CLBU>わたし、手先が不器用だから
+細かい作業がちょっと苦手なの。","<CLBU>我手脚比较笨拙，
+有点不擅长精细活呢。",translated,依恩,d67e3e3434,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#49#12,<CLBU>手を繋いでお買い物したいねー。,<CLBU>真想牵着手一起去买东西呢――,translated,依恩,71ab8bf105,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#51#12,<CLBU>そういえば、石けん買っていかなくちゃ。,<CLBU>说起来，得顺便买块肥皂回去才行。,translated,依恩,7db1e63bd5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#53#12,"<CLBU>ちょっとだけ、近づけるような
+気がするよね。手を繋ぐと。","<CLBU>只要牵着手，总觉得
+彼此的心情就能更靠近一些呢。",translated,依恩,3d8af0b204,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#57#12,"<CLBU>きゃっ！
+もう！　だーめっ！","<CLBU>呀啊！
+真是的！不行啦～！",translated,依恩,6e9a4f7ae7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#59#12,<CLBU>こーらっ！　そこ禁止！,<CLBU>喂喂！那里严禁触碰！,translated,依恩,41c3538644,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#61#12,"<CLBU>もう…エッチ。
+小さいんだからあんまり見ないで。","<CLBU>真是的……大色狼。
+反正那么小，不要总是直勾勾地盯着看啦。",translated,依恩,d564d2edcb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#63#12,"<CLBU>ちょっと、ダメだよぅ…
+こんな所で！　もう…","<CLBU>等等，不可以啦……
+在这么个地方！真是的……",translated,依恩,e6077c0f44,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#65#12,"<CLBU>はわわ！！
+もう、ダメったらダメーっ！！","<CLBU>哇哇哇！！
+真是的，说了不行就是不行啦～！！",translated,依恩,4039a61d25,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#67#12,"<CLBU>もう、だめだってば！
+みんなにジロジロ見られちゃう。","<CLBU>真是的，都说了不行啦！
+会被大家盯着看的。",translated,依恩,f5e971622b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#69#12,<CLBU>だから、そういう事しちゃダメ！,<CLBU>所以说，不能做那种事情啦！,translated,依恩,d3b80fdb44,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#73#12,"<CLBU>ひぁっ！
+ちょっと、急にそんなとこ突かないで。","<CLBU>呀啊！
+真是的，别突然戳那种地方啦。",translated,依恩,9dfc1f3d6d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#75#12,"<CLBU>お腹がぷにぷにしてるのは、
+肥ってるからじゃないよ？","<CLBU>肚子捏起来软软的，
+可不是因为发胖哦？",translated,依恩,adbfa19173,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#77#12,"<CLBU>お腹突いちゃダメ！
+くすぐったいもん…。","<CLBU>不许戳肚子！
+好痒的啦……。",translated,依恩,59d5a25d8c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#79#12,"<CLBU>おなかぷにぷにしても
+何もでませんよ？","<CLBU>就算捏我的小肚子
+也捏不出什么东西来哦？",translated,依恩,25381264ca,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#81#12,"<CLBU>なんだか不思議な気分…
+小さい頃を思い出すような…","<CLBU>总觉得是种奇妙的感觉……
+好像让人回想起了小时候……",translated,依恩,8ee14d073a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#83#12,"<CLBU>こんなところで
+お腹突いたりしないでよぅ…。","<CLBU>别在这么个地方
+戳人家的肚子啦……",translated,依恩,618d0d6ad9,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#85#12,"<CLBU>ちょ、ちょっとー！
+くすぐったいからだめーっ！！","<CLBU>等、等等――！
+好痒的不行啦――！！",translated,依恩,9389d2a60b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#87#12,<CLBU>くっ、くすぐったいっ！！,<CLBU>好、好痒啊！！,translated,依恩,93315f8040,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#89#12,<CLBU>こんな所で、おなか突かないで～。,<CLBU>不要在人这么多的地方戳我肚子啦～,translated,依恩,73f6aea92f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch03.txt#91#12,<CLBU>んもー。どういうつもりなの？,<CLBU>真是的――你到底想干嘛呀？,translated,依恩,6574c4bd52,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#3#12,<CLBU>えへへ。なでなでされちゃった。,<CLBU>嘿嘿。被摸摸头了呢。,translated,依恩,519fab2995,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#5#12,"<CLBU>お肌、すべすべしてる？
+髪の毛つやつやしてる？
+だといいなぁ…。","<CLBU>皮肤摸起来光滑吗？
+头发看起来有光泽吗？
+要是那样就好了……。",translated,依恩,a5aeb4fcda,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#7#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#9#12,"<CLBU>頭さわさわされると
+なんだかイケナイ雰囲気になっちゃう…
+…かも…","<CLBU>被你轻轻摸着头，
+总觉得气氛变得有点危险起来了……
+……也许吧……",translated,依恩,cc47c6c029,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#11#12,<CLBU>えへへ、なんだか幸せかも。,<CLBU>嘿嘿，总觉得有点幸福呢。,translated,依恩,dbd5a4f214,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#13#12,<CLBU>えへへ、なでり～なでり～♪,<CLBU>嘿嘿，摸摸～摸摸～♪,translated,依恩,6448d37f97,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#15#12,"<CLBU>さわさわされちゃった。
+わたしたちって、なかよしさんだね。","<CLBU>被你轻轻摸了摸呢。
+我们俩的感情还真是好呢。",translated,依恩,38af92e703,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#17#12,<CLBU>ほっぺつるつるしてる？,<CLBU>我的脸颊摸起来滑溜溜的吗？,translated,依恩,ee55a7f3b6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#21#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#23#12,"<CLBU>二の腕って柔らかいよね。
+自分でさするの、結構好きなんだ。","<CLBU>大臂摸起来软软的呢。
+我自己其实也挺喜欢摸这里的。",translated,依恩,1492e4b3fa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#25#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#27#12,"<CLBU>ふふっ、お友達と
+こうやってさわさわしたりして
+遊んでみたい。","<CLBU>呵呵，真想和朋友们
+像这样互相摸来摸去
+打闹着玩呢。",translated,依恩,5a6f6c9962,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#29#12,"<CLBU>寒いときとか、
+こうやって肩を撫でたりするよね。","<CLBU>天冷的时候，
+也会像这样搓搓肩膀取暖吧。",translated,依恩,f8556f0f90,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#31#12,"<CLBU>ふふっ、くすぐったい！
+でも、ここだとあまり盛り上がらないね～。","<CLBU>呵呵，好痒哦！
+不过在这里好像不太能调动起气氛呢～。",translated,依恩,0a6306677b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#33#12,<CLBU>ひゃっ、くすぐったいよぅ。,<CLBU>呀，好痒呀。,translated,依恩,0fb4b01a74,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#35#12,"<CLBU>肩を抱かれて歩くと
+ホントに幸せ。","<CLBU>被你搂着肩膀散步，
+真的好幸福。",translated,依恩,8e36690167,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#37#12,"<CLBU>えへへ、肩はちょっと
+くすぐったいかも。","<CLBU>诶嘿嘿，肩膀稍微
+有点怕痒呢。",translated,依恩,5bef7cd41e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#39#12,"<CLBU>なんだか不思議な気分。
+とろーんってして来ちゃう。","<CLBU>总觉得心情好不可思议，
+整个人都变得轻飘飘软绵绵的。",translated,依恩,3113f7e2d3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#43#12,"<CLBU>手をさわさわされるのって、
+結構好きなの。","<CLBU>手掌被你轻轻摩挲的感觉，
+我其实还挺喜欢的呢。",translated,依恩,902ef30838,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#45#12,"<CLBU>なんか、昔緊張したときに
+手のひらに「の」の字を書いたのを
+思いだした。","<CLBU>总觉得让人联想到
+以前紧张时在手心比划着
+写“の”字放松的事情呢。",translated,依恩,518a65a6c3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#47#12,"<CLBU>二人でさわさわしてると、
+お互い気持ちいい…かも？","<CLBU>两个人这样互相摩挲轻抚，
+彼此感觉都会很舒服……吧？",translated,依恩,08403ebc6e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#49#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#51#12,"<CLBU>小さい頃って、手を繋ぐだけで
+ドキドキしてたよね。","<CLBU>小的时候，光是牵牵小手
+就会心跳不已了呢。",translated,依恩,f4d9577036,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#53#12,"<CLBU>手のひらにマジックで
+色々書いたりしてた？","<CLBU>你以前有用记号笔在手心里
+写过各种各样的东西吗？",translated,依恩,e8372207c3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#55#12,<CLBU>手をさすって温めてくれるの？,<CLBU>是在搓搓手帮我暖手吗？,translated,依恩,517beabbf4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#57#12,<CLBU>えへへ、気持ちいいかも。,<CLBU>嘿嘿，感觉挺舒服的呢。,translated,依恩,c61f773ac8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#59#12,<CLBU>あなたの手って、温かいね。,<CLBU>你的手，好暖和呀。,translated,依恩,86fb04fc63,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#61#12,<CLBU>あはっ、くすぐったいってば。,<CLBU>啊哈，都说了好痒嘛。,translated,依恩,0f9d990f7c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#63#12,"<CLBU>お外が寒いときは、
+二人で手をさすり合うといいよね。","<CLBU>外面天气冷的时候，
+两个人互相搓搓手取暖真好呢。",translated,依恩,20844e578d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#65#12,"<CLBU>さわさわ～さわさわ～。
+ちょっと幸せな気持ち。","<CLBU>摸摸～摸摸～。
+有种小小的幸福感呢。",translated,依恩,9e22d84fcc,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#69#12,"<CLBU>やーん！　だーめ！
+そんなコトするなら、もう帰るよ？","<CLBU>呀啊～！　不行！
+要是再做这种事，我可就要回去了哦？",translated,依恩,931e4673a1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#71#12,"<CLBU>もーっ！
+そんな事したって、あなたには柔らかさ
+伝わらないでしょ？","<CLBU>真是的！
+就算你做这种事，
+你也感受不到那种柔软度吧？",translated,依恩,69e86d7ab3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#73#12,"<CLBU>もう…どうしてそんなに
+胸ばっかり触りたがるのかなぁ…。","<CLBU>真是的……为什么你
+总想摸人家的胸部呢……",translated,依恩,182ed974d2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#75#12,"<CLBU>…もしかして、禁止されると
+燃えるタイプでしょ。","<CLBU>……难道说，你是那种越被禁止
+反而越来劲的类型吧。",translated,依恩,da61041b1b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#77#12,"<CLBU>…もう！
+なんかドキドキしてきちゃったよぅ。
+誰かに見つかったらどうするの？","<CLBU>……真是的！
+总觉得心跳都加速起来了啦。
+要是被谁看到了该怎么办呀？",translated,依恩,299958f74f,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#79#12,"<CLBU>…もう、こんな所でも。
+本当にどこでも触ろうとするんだね。","<CLBU>……真是的，连在这种地方也是。
+你还真是不论在哪里都想摸摸看呢。",translated,依恩,dadbd2b67a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#81#12,"<CLBU>もう！　誰かに見られたら
+恥ずかしいよぅ！","<CLBU>真是的！　要是被人看见了
+多害羞呀！",translated,依恩,272db89e22,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#83#12,"<CLBU>はぁ…。
+本当にどこでも触りたいんだね。","<CLBU>唉……
+你还真是不管在哪里都想摸呢。",translated,依恩,a92b44782b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#87#12,"<CLBU>あはははっ！
+おなかさすられるとくすぐったいよぅ。","<CLBU>啊哈哈哈！
+肚子被你揉来揉去好痒呀。",translated,依恩,561060b80f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#89#12,"<CLBU>なんか、お腹さわさわしてると
+赤ちゃんが生まれてくる時みたいだね。","<CLBU>总觉得肚子被你这样摸来摸去，
+就像怀里要有小宝宝时一样呢。",translated,依恩,0e5a2db147,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#91#12,<CLBU>なんだか気持ちいいかも。,<CLBU>不知为何感觉挺舒服的呢。,translated,依恩,201474d0e5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#93#12,"<CLBU>なんかおなかさすられてると、
+お腹が痛くなって介護されてるみたい。","<CLBU>总觉得被你这么抚摸肚子，
+像是我肚子痛在被人照料一样呢。",translated,依恩,a751097557,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#95#12,<CLBU>あははっ、くすぐったーい！,<CLBU>啊哈哈，好痒啊――！,translated,依恩,123d619f02,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#97#12,"<CLBU>あまりおなかさすらないで。
+嫌じゃないけど、ここはちょっと…。","<CLBU>别老揉我的肚子啦。
+倒不是讨厌，只是在这里有点……",translated,依恩,4873ffd382,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#99#12,"<CLBU>そんなにお腹が好きなの？
+ぽっこりしてるからかなぁ…。","<CLBU>你那么喜欢肚子吗？
+是因为有点肉乎乎的小肚子吗……",translated,依恩,7ea168659b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#101#12,<CLBU>おなかさわさわされてる。,<CLBU>肚子正被你轻轻摸着呢。,translated,依恩,d3411b88a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#103#12,<CLBU>えへへ、くすぐったーい。,<CLBU>诶嘿嘿，好――痒呀。,translated,依恩,db89e192c0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent_tch/dateevent_all_tch04.txt#105#12,<CLBU>なんだか不思議とリラックスしてくるよ。,<CLBU>总觉得不可思议地放松下来了呢。,translated,依恩,fdec232bd9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25

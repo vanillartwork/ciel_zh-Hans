@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 我不确定该报哪一类
+    url: https://github.com/vanillartwork/ciel_zh-Hans/discussions
+    about: 不确定的话，先到讨论区问一句就好。
+  - name: 版权相关
+    url: https://github.com/vanillartwork/ciel_zh-Hans/blob/main/NOTICE.md
+    about: 权利人通知与授权说明请看 NOTICE.md。

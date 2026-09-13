@@ -1,0 +1,449 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent31/taoru02.txt#3#12,"あっ、それを出してきたってことは、
+温泉に誘ってるんでしょ？","啊，你既然把那个拿出来了，
+就说明你想邀请我去泡温泉吧？",translated,依恩,976bd1ba41,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#4#12,"もぉ、これでもわたし、女の子なんだよ？
+そうやって気軽に温泉に誘われても、
+困っちゃうよ……。","真是的，我好歹也是个女孩子呀？
+你这么随随便便就邀请我去温泉，
+我很为难的啦……",translated,依恩,61c7dcc6cf,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#5#12,"なんてね。
+実はわたしも、ちょっと行きたいなぁ、って
+思ってたところだったの。","开玩笑的啦。
+其实我也正想着，
+要是能去泡个温泉就好了呢。",translated,依恩,800788adc4,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#6#12,"だってせっかく温泉で使うためのタオルを
+作ったんだから、早く使ってみたかったん
+だもん。","因为难得做出了专门在温泉里
+使用的毛巾，
+我很想早点试用看看嘛。",translated,依恩,0283564366,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#7#12,それじゃ、早速行ってみよっか？,那么，我们赶快去看看吧？,translated,依恩,fb4909af73,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#8#12,早速行く,马上就去,translated,,67427d7353,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#9#12,今度行こう,下次再去吧,translated,,4ca6584e0f,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#11#12,"そっか。
+それじゃ、また都合がよくなったら行こうね。","这样啊。
+那就等你方便的时候我们再去吧。",translated,依恩,e3dbf973ae,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#16#12,えへへ、それじゃあ早速行こっか。,嘿嘿，那么我们就赶紧去吧。,translated,依恩,43438a0a50,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#17#12,"バスタオルに着替えるから、
+ちょっと待っててね。","我去换上浴巾，
+稍微等我一下哦。",translated,依恩,be10fa2d89,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#30#12,うん、これでオッケーだね。,嗯，这样就搞定啦。,translated,依恩,719b7bafbe,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#31#12,"それじゃ、早く行こ。
+この格好じゃ風邪引いちゃうよ。","那么，我们快点走吧。
+穿成这样可是会感冒的哦。",translated,依恩,6273612670,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#33#12,"えへへ、どうかな？
+いい感じだと思わない？","嘿嘿，看起来怎么样？
+不觉得感觉很不错吗？",translated,依恩,fdf378a610,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#34#12,"やっぱり温泉といったら、
+頭の上にタオルだよね。","果然一说到温泉，
+就得把毛巾顶在头上呢。",translated,依恩,92a03bdd18,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#35#12,"これで前みたいに、汗が目に入って
+痛い思いをすることも無くなったよ。","这样一来就不会像之前那样，
+因为汗水流进眼里而痛得难受了。",translated,依恩,9087069078,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#36#12,"……でも、頭の上にタオルを載せたままに
+するのって、意外と難しいんだよね。","……不过，要把毛巾一直顶在头上，
+意外地挺难的呢。",translated,依恩,eb381b3d06,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#37#12,"髪の毛の短い男の人ならともかく、
+わたしくらいの長さだと髪でタオルが滑って
+落ちそうになっちゃうの。","短头发的男子也就罢了，
+像我这种长度的头发，毛巾很容易打滑
+总感觉快要掉下来呢。",translated,依恩,0293d48eea,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#38#12,"だからあんまり動かないようにしないと
+いけないから、ちょっとだけ肩が凝るかも。","所以必须尽量保持不动才行，
+感觉肩膀都有点酸痛了呢。",translated,依恩,b89b799a6a,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#39#12,"温泉に来てるのに逆に肩が凝るなんて、
+何だか変だよね？","明明是来泡温泉的，肩膀反而更酸了，
+总觉得怪怪的对吧？",translated,依恩,007e0e0540,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#40#12,"まあ、そのうち慣れると思うから、
+それまでは練習だね。","嘛，我想慢慢就会习惯的，
+在此之前就当是练习吧。",translated,依恩,f42fe7fa8f,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#41#12,"……っていうか、動けない、っていうのを
+聞いて、わたしに変なことしようなんて
+思っちゃってたりしない？","……话说回来，听到我说动弹不得，
+你该不会在想着
+要对我做什么奇怪的事吧？",translated,依恩,34226e2813,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#42#12,"あなたって、意外とエッチなところ
+あるし……。","毕竟你这个人，
+意外地挺下流的嘛……",translated,依恩,b901882a3b,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#44#12,じ、ジックリ見ようとは思ったかも……,我、我可能确实想好好看个够……,translated,,5b3d4f767d,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#45#12,…………思ってないよ,…………我才没那么想,translated,,7b8d2253c0,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#47#12,えへへ、やっぱりねー。,嘿嘿，果然是这样呢――,translated,依恩,e597739663,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#48#12,"でも女の子と一緒に温泉に来てるんだから、
+それくらいのサービスはしてあげないと
+可哀想なのかな？","不过既然是和女孩子一起来泡温泉，
+要是不提供这点程度的服务，
+也未免太可怜了对吧？",translated,依恩,93d4b40d82,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#49#12,う～ん……どうしよっかなぁ？,唔～嗯……该怎么办好呢？,translated,依恩,46f31d0cec,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#50#12,"……まあ、ジックリ見るくらいなら
+許してあげるよ。","……嘛，如果只是好好看个够的话，
+我就原谅你啦。",translated,依恩,55c974aa53,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#51#12,"どうせお湯が濁ってるから、
+じっくり見ても何も見えないと思うしね。","反正泉水很浑浊，
+就算你再怎么仔细看，也什么都看不到呢。",translated,依恩,1d2c0125bf,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#52#12,えへへ、残念でしたー。,嘿嘿，真遗憾呢――,translated,依恩,f9efd0a86d,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#53#12,"……あ、や、やっぱり今のなし！
+じっくり見るのダメ！","……啊，不、不行，刚才的不算！
+不准仔细看！",translated,依恩,1496097e77,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#54#12,"谷間とか、お湯のちょっと下辺りとかは、
+なんとなく見えてるの忘れてたよ……。","我都忘了事业线和水面稍微往下的地方，
+隐隐约约是看得见的啊……",translated,依恩,46d60a599e,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#55#12,"う～、うっかり大胆発言してたなんて。
+恥ずかしいよぉ……。","呜～我竟然不小心说了那么大胆的话。
+好丢人哦……",translated,依恩,d46a153cf4,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#58#12,……な、何、その長い間は？,……怎、怎么了，这漫长的沉默？,translated,依恩,9516911863,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#59#12,"もしかして、わたしが言ったことよりも
+もっと凄いことしようとしてた、なんてこと
+ないよね？","你该不会在想着，要做出比我说的
+还要更加过分的事情吧？
+没有那种事对吧？",translated,依恩,7c0f76e9dd,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#60#12,"……ま、まあ、あなたがエッチな人だって
+いうのはわかってるから、
+別に驚いたりはしないよ。","……嘛、嘛，反正我也早就知道
+你是个下流的人了，
+倒也不会觉得特别惊讶啦。",translated,依恩,7aa9e285db,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#61#12,"で、でも、一応言っておくけど、
+ダメだよ？","不、不过，我还是要事先说清楚，
+绝对不可以哦？",translated,依恩,f263d66109,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#62#12,"仮想世界だからって限度はあるし、
+こっちにも恥ずかしさはあるんだし。","就算这里是虚拟世界也是有限度的，
+人家也是会感到害羞的嘛。",translated,依恩,2fc8a98979,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#63#12,"変なことしたら、すぐに現実に戻るから、
+それを忘れないでね。","你要是敢做什么奇怪的事，我立刻回现实去，
+你可千万别忘了哦。",translated,依恩,9a9a8ec206,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#65#12,"あ、わわっ！
+タオルが！","啊、哇哇！
+毛巾要掉了！",translated,依恩,794a797a7a,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#66#12,"ふぅ……セーフ。
+危うく落ちるところだったよ。","呼……安全上垒。
+差一点就掉下去了呢。",translated,依恩,de1da3b405,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#67#12,"温泉ではお湯にタオルを付けるのは
+絶対に許されない行為だもん。","在温泉里把毛巾浸进水里，
+可是绝对不被允许的行为呢。",translated,依恩,f8525fdf5e,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#68#12,"理由は確か、えっと……
+お湯が汚れるから、だっけ？","理由我记得好像是，那个……
+因为会把泉水弄脏，对吧？",translated,依恩,1a1aa20d52,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#69#12,"……でも、お湯に濡らしたタオルで
+顔を拭きたくなったらどうするのかな？","……不过，要是想用热水浸湿的毛巾
+擦脸的时候，该怎么办才好呢？",translated,依恩,c63ecd4b0e,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#70#12,"つまらないことかもしれないけど、
+お湯に浸かってる時に濡れタオルで
+顔を拭くのって、すごく気持ちいでしょ？","虽然可能只是微不足道的小事，
+但在泡温泉的时候用湿毛巾擦脸，
+感觉真的很舒服对吧？",translated,依恩,dc0b710200,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#71#12,"一々蛇口のところまで行って、濡らして
+戻ってきたんじゃ、なんか空気が壊れて
+萎えちゃいそうだし……。","要是每次都要特地跑到水龙头那里打湿，
+然后再走回来的话，总觉得气氛都被破坏，
+整个人都会扫兴了呢……",translated,依恩,6fe21d6b66,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#72#12,ちょっとだけなら、いいのかな？,稍微泡一下的话，应该没关系吧？,translated,依恩,8022271f8c,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#74#12,イオン、今バスタオル着てるよね？,依恩，你现在不是裹着浴巾吗？,translated,,34bc2de748,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#75#12,他に人がいないから気にしなくてＯＫ,没有其他人在不用在意啦,translated,,fb2afbd735,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#77#12,はっ！？,哈啊！？,translated,依恩,f16a0f7a56,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#78#12,"い、言われるまで忘れてたよ。
+確かにわたし、バスタオルを付けて
+お湯に浸かってるね。","经、经你这么一说我才想起来。
+确实呢，我现在身上正裹着浴巾
+泡在水里呢。",translated,依恩,3b6ab7f25a,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#79#12,"でも、バスタオルを付けて入るのは
+別に間違っていないと思うよ？","不过，裹着浴巾泡温泉，
+我觉得应该不算犯规吧？",translated,依恩,36c899952b,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#80#12,"女の人は結構こうやって入ることが
+多いと思うし……。","我觉得女子大多都是
+像这样裹着泡的嘛……",translated,依恩,6193d66a1e,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#81#12,"あれ？
+じゃあ、どうして小さいタオルを入れるのは
+いけないんだろう？","咦？
+那为什么把小毛巾放进水里
+就不行呢？",translated,依恩,68b1444555,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#83#12,"これについては、これ以上考えない方が
+いいかもしれないね。","关于这个问题，
+也许还是不要再深究比较好吧。",translated,依恩,0170f85a1c,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#84#12,"多分ローカルルールみたいなものとかも
+関わってくると思うから、ちゃんとした
+答えに行き着きそうもないし。","因为这大概还牵涉到当地规则之类的，
+感觉根本不可能
+得出确切的答案嘛。",translated,依恩,5061b2bdaf,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#85#12,"せっかく温泉に来てるんだもん。
+余計なことは考えないのが一番だよね！","难得来泡温泉嘛。
+不去想那些多余的事才是最棒的呢！",translated,依恩,cbc41d7540,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#86#12,"でも、考えてみたらこのお湯って
+濁ってるんだから、別にバスタオルを
+つけて入る必要は無いんだよね？","不过仔细一想，这泉水这么浑浊，
+其实根本就没有必要
+特地裹着浴巾进来吧？",translated,依恩,b341787f00,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#87#12,"透明じゃないんだから、つけてなくても
+見えないんだし。","反正又不是透明的，
+就算不裹着也什么都看不见嘛。",translated,依恩,c3f51ef5de,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#88#12,……けど、期待してもとらないよ？,……不过，就算你满心期待我也不会脱的哦？,translated,依恩,2c4eb2e964,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#91#12,も～、そういう考えはダメだよ。,真是的～抱有那种想法可不行哦。,translated,依恩,d28660bb6b,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#92#12,"人がいないから、何て考えでいると、
+人がいる時でも無意識にやっちゃう
+可能性だってあるでしょ？","要是老想着“反正没人”，
+哪怕有人在的时候，也可能会在无意识间
+做出同样的行为吧？",translated,依恩,afe8044b52,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#93#12,"そうなったら注意されなくても、
+嫌な顔されちゃうし。そんなの嫌だもん。","要是真变成那样，就算没被当面制止，
+也会被别人投来嫌弃的目光嘛。我才不要呢。",translated,依恩,a704e7ff79,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#94#12,"あなたは普段からそういう考えなの？
+だとしたら、何かあった時のために、
+考え方を改めた方が良いかもしれないよ。","你平时也经常抱有这种想法吗？
+要是这样的话，为了以防万一，
+你最好还是改一改这种思维方式哦。",translated,依恩,5734b15dd5,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#95#12,大失敗してからじゃ遅いもん。,等酿成大错可就太迟了嘛。,translated,依恩,8b167543ea,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#97#12,"まあ、何であれタオルをお湯に浸けるのは
+やめておいた方がよさそうだね。","嘛，不管怎么说，
+把毛巾浸进热水里还是别做为妙呢。",translated,依恩,bcf00d136c,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#98#12,"ふぅ～……何だか、少し頭がぼーっと
+してきちゃったかも。","呼～……总觉得脑子
+好像有点发懵了呢。",translated,依恩,1cf31d2009,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#99#12,"軽くのぼせちゃってるみたい。
+倒れちゃう前に、上がった方がよさそうだね。","好像稍微有点泡晕了。
+在晕倒之前，还是先上去比较好呢。",translated,依恩,6d10c7991f,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#100#12,それじゃ、今日はそろそろ帰ろうか。,那么，今天就差不多回去吧。,translated,依恩,b22e2f2d1c,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#102#12,ふ～、ただいまー。,呼～我回来了――,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru02.txt#103#12,"でも、やっぱり温泉は気持ちよかったなぁ。
+また絶対に行こうね！","不过，温泉泡起来果然好舒服啊。
+下次一定还要再去哦！",translated,依恩,9a1ee39cda,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru02.txt#111#14,"温泉にタオルを持って
+ったけど、お湯に入れ
+るのはダメかな？","虽然带了毛巾去泡温泉，
+不过把毛巾放进水里
+果然还是不行的吧？",translated,,56560e959b,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru02.txt#112#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent31/taoru03.txt#1#12,"そ、それを出してきたってことは……
+温泉に行きたいの？","你、你既然把那个拿出来了……
+是想去泡温泉吗？",translated,依恩,c68a226499,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#2#12,"わたしも、ちょっとお湯に浸かって
+ゆっくりしたいかも。","我也想在温泉里稍微泡上一会儿，
+好好放松放松呢。",translated,依恩,dfa286f8ca,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#3#12,行ってみようか？,去看看吧？,translated,,518d144c21,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#4#12,今はお風呂の気分じゃない,现在没有泡澡的心情,translated,,e055212ddd,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#6#12,"そっか……。
+じゃあ、また次の機会にしようね。","这样啊……。
+那就下次有机会再去吧。",translated,依恩,97df1873c1,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#11#12,うん、楽しみだよ～。,嗯，好期待呀～。,translated,依恩,6b5622a3d2,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#12#12,あっ、それじゃあ準備しないと。,啊，那就必须得去准备了呢。,translated,依恩,6f83299c39,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#25#12,"準備できたよ。
+それじゃ、出発しよ。","准备好啦。
+那么，我们出发吧。",translated,依恩,6f3265cf9f,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#27#12,ふ～……やっぱり、温泉は良いよね。,呼～……果然，温泉真棒呢。,translated,依恩,8ce6e7c02e,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#28#12,"家のお風呂とは違って、手足をぐーっ、って
+伸ばせるのが嬉しいよ。","和家里的浴缸不同，能够把手脚
+舒舒服服地伸展开来，真让人开心呢。",translated,依恩,89344ccef0,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#29#12,"お湯の中で手足を伸ばすとね、
+一瞬だけ全身から力が抜けて
+クタッとしちゃうの。","在热水里把手脚伸展开的话，
+一瞬间全身的力气都会松弛下来，
+整个人都变得软绵绵的呢。",translated,依恩,38242895e5,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru03.txt#30#12,あの瞬間が結構好きなんだけど……変かな？,我其实挺喜欢那个瞬间的……很奇怪吗？,translated,依恩,9fbcb3bbae,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#32#12,気持ちよ過ぎてため息がでるよね,太舒服了忍不住叹气呢,translated,,47106396f1,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#33#12,さすがにそこまでのんびりはしない,还不至于那么悠闲啦,translated,,0df6279866,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#35#12,えへへ、やっぱりそうなっちゃうよね？,嘿嘿，果然也会变成那样对吧？,translated,依恩,f4aa64c5ef,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#36#12,"せっかく温泉に来てるんだから、
+のんびりしないと勿体ないよ。","难得来一次温泉，
+不好好放松一下可就太浪费了哦。",translated,依恩,a1ef2e8e67,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#40#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#41#12,"温泉なんだから、できる限りゆっくりして、
+体を休めるべきだと思うけど……。","既然是温泉，我觉得就应该尽可能悠闲，
+好好让身体休息一下才对嘛……",translated,依恩,02d49124d2,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#43#12,ふぅ……でも、本当に気持ちいいよ。,呼……不过，真的很舒服哦。,translated,依恩,50d1a1433a,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#44#12,"何だかこのままだと、お湯に浸かった状態で
+眠っちゃいそうかも……。","总觉得再这样下去，
+我都快泡在水里睡着了呢……",translated,依恩,1315ee6d46,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#45#12,"危ないのはわかってるけど、
+気持ちよさそうって思う自分もいるの。","虽然明知很危险，
+但心里又觉得那样好像会很舒服。",translated,依恩,505bff24ac,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#46#12,温泉で寝る魅力には勝てないよね？,根本抗拒不了在温泉里睡觉的诱惑对吧？,translated,依恩,fc08cbadfa,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#48#12,溺れる前に現実に戻してあげるよ,我会在你溺水前把你送回现实的,translated,,ad9ba792cd,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#49#12,眠気覚ましに背中でも流そうか？,要不要帮你擦个背醒醒神？,translated,,a93e5f6b24,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#51#12,えっ、いいの？,诶，可以吗？,translated,依恩,df63d3ab0e,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#52#12,それじゃ、お言葉に甘えちゃおうかな？,那我就恭敬不如从命啦？,translated,依恩,02a0906812,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#53#12,"ちょっと目を瞑るから、寝て溺れちゃったら
+すぐに助けてね。","我稍微闭一会儿眼睛，要是睡着溺水了
+一定要马上救我哦。",translated,依恩,ebfc655696,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#54#12,ふぅ～……。,呼～……。,translated,依恩,05f9ccd4f4,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#57#12,ぷはっ！？,噗哈！？,translated,依恩,e8e531398c,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#58#12,はぁ、はぁ……び、ビックリしたよぉ……。,哈、哈……吓、吓死我了啦……,translated,依恩,73fae3c049,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#59#12,"何か息苦しいと思って目を開けたら、
+お湯に沈んでて、どうすればいいのか
+わからなくなっちゃってて……。","总觉得有些喘不过气，睁开眼睛一看，
+发现自己已经沉到水里了，
+脑子里一片空白完全不知道该怎么办……",translated,依恩,7c583c013c,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru03.txt#60#12,"あなたが現実に戻してくれなかったら、
+本当に溺れちゃってたところだね。","要不是你把我送回现实，
+我刚才可就真的要溺水了呢。",translated,依恩,5684890398,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#61#12,ありがと、今日は本当に助かったよ。,谢谢你，今天真的多亏有你在。,translated,依恩,1ec3e3701f,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#62#12,また一緒に、温泉行こうね。,下次我们再一起去温泉吧。,translated,依恩,482b27684c,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#74#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#75#12,"……う、うん。
+それじゃあ、ちょっとだけお願いするよ。","……嗯、嗯。
+那就稍微拜托你一下啦。",translated,依恩,0f18037f94,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#76#12,"えへへ……こんなことお願いするなんて、
+温泉のせいで開放的な気持ちになっちゃって
+るのかも……。","嘿嘿……居然向你提出这种请求，
+或许是因为温泉的气氛，
+让我整个人都变得开放起来了吧……",translated,依恩,6187a5ffcc,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru03.txt#77#12,"それに……恋人に背中を流してもらう
+のって、何て言うか、その……。","而且……让恋人帮自己擦背什么的，
+怎么说呢，那个……",translated,依恩,9c88efc7cb,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#78#12,"え、えへへ……仲良しさん、って
+感じがして、ちょっと良いな、って……。","诶、嘿嘿……总觉得很有
+恩爱情侣的感觉，挺好的呢……",translated,依恩,3baaa21a35,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#79#12,で、でも、変なところ触っちゃダメだよ？,不、不过，绝对不许摸奇怪的地方哦？,translated,依恩,f90cdfa289,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#87#12,"ふぅ……どうもありがと。
+すごく気持ちよかったよ。","呼……非常感谢你。
+感觉特别舒服哦。",translated,依恩,771098b071,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#88#12,"えへへ、気持ちよ過ぎて逆に寝ちゃうんじゃ
+ないかな、って思っちゃった。","嘿嘿，因为太舒服了，
+我还以为自己反而会睡过去呢。",translated,依恩,b835d3bec1,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#89#12,"でも、今はさっぱりした気持ちで、
+気分リフレッシュ、って感じかな？","不过，现在感觉一身清爽，
+整个人都彻底焕然一新了呢。",translated,依恩,08a00b5854,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#90#12,えへへ、あなたと温泉に来て正解だったよ。,嘿嘿，能和你一起来泡温泉真是来对了。,translated,依恩,917229cccb,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#91#12,"でも、これ以上入ってると湯あたりしちゃい
+そうだから、今日はそろそろ帰ろっか？","不过，再泡下去感觉就要泡晕了，
+今天我们差不多该回去了吧？",translated,依恩,322c4c3c98,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#93#12,ふぅ～……お部屋が涼しく感じるよ。,呼～……感觉房间里好凉爽呀。,translated,依恩,6e0e511f03,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#94#12,"今日はすごく楽しかったよ。
+本当にありがと。","今天真的过得好开心哦。
+非常感谢你。",translated,依恩,4f3c696ff8,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#95#12,あなたとなら、また温泉に入りたいな。,要是和你一起的话，我还想再去泡温泉呢。,translated,依恩,9015556a1b,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#96#12,その時は、えっと……。,到时候，那个……,translated,依恩,cd6f60a9f0,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#97#12,"……また、背中を流してくれたら
+嬉しいな。","……要是你还能帮我擦背的话，
+我会很高兴的哦。",translated,依恩,d9b6348f13,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#98#12,え、えへへ……それじゃ、またね！,诶、嘿嘿……那么，下次见啦！,translated,依恩,95b1da6374,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru03.txt#106#14,"拭い方が優し過ぎて、
+ドキドキしちゃった。","擦拭的动作太温柔了，
+让我心跳不已。",translated,,a4d85ceb0d,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru03.txt#107#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent31/taoru04.txt#7#12,もしかして、温泉に行きたいの？,难道说，你想去泡温泉吗？,translated,依恩,02fc2f5149,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#8#12,"わたしも、最近ちょっと肩こりが酷くて……
+ちょっとだけ行ってみよっか？","我最近肩膀也酸得厉害……
+我们要不要稍微去泡一下呢？",translated,依恩,1809e505a0,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#9#12,すぐに出発しよう,马上出发吧,translated,,d73f26193e,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#10#12,いや、今はちょっと……,不，现在稍微有点……,translated,,aa35d34acf,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#12#12,あらら……ちょっと残念……。,哎呀呀……有点遗憾呢……,translated,依恩,8e97b8102e,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#17#12,うん、それじゃ早速、しゅっぱーつ！,嗯，那么事不宜迟，出――发！,translated,依恩,cafc971679,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#19#12,ふぅ……。,呼……。,translated,依恩,a8365b834f,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#20#12,"えへへ、やっぱり温泉に浸かってると、
+自然とため息が出ちゃうよね？","嘿嘿，泡在温泉里的时候，
+果然会自然而然地叹出气来呢？",translated,依恩,50dad57129,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#21#12,"特に、今日は疲れを癒すために来てるから、
+いつもより深いため息になっちゃった気が
+するよ。","尤其是今天为了消除疲劳特地过来，
+感觉叹的气
+也比平时更深沉了呢。",translated,依恩,8d4e91e920,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#22#12,"小さい部品を見てると目が疲れて、
+それで肩の辺りが重くなってくるの。","一直盯着细小的零件看眼睛会发酸，
+连带着肩膀那一带也变得沉重起来。",translated,依恩,4864c23ee5,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#23#12,"それに作業自体も細かいから、
+作業が終わった時には重りが乗ってるような
+気になることもあるし……。","而且作业本身也很精细，
+等做完的时候，甚至有时会觉得
+像压了块大石头一样沉重……",translated,依恩,00e06de980,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#24#12,慢性的な肩こりになったら嫌だなぁ……。,要是变成慢性肩颈酸痛可就讨厌了呀……,translated,依恩,5fdf048e03,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#26#12,肩たたきしようか？,要帮你捶捶肩吗？,translated,,85243860c3,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#28#12,"えっ、いいの！？
+それじゃお願いしちゃおっかな。","诶，可以吗！？
+那我就不客气地拜托你啦。",translated,依恩,9877e73401,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#29#12,"肩や二の腕の辺りが酷くて……。
+その辺りをお願いしまーす！","肩膀和大臂那一带特别严重……
+那一带就拜托你啦――！",translated,依恩,7294624b5d,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#48#12,"……ありがと。
+少しだけど軽くなった気がするよ。","……谢谢你。
+感觉稍微轻松一些了呢。",translated,依恩,3098ecbfaa,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#50#12,"ふふっ、でもこんなに気持ちいいなら、
+また作業で疲れるのが楽しみになって
+きちゃいそうかも。","呵呵，不过要是这么舒服的话，
+总觉得我都要开始期待
+下一次因工作而感到疲倦了呢。",translated,依恩,d2dd38c42c,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#51#12,"でも、わたしだけ一方的にしてもらうのは、
+ちょっとだけ申しわけないな……。","不过，光让你单方面帮我捶，
+总觉得稍微有点过意不去呢……",translated,依恩,c828981c26,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#52#12,"あなただって、毎日忙しいんだから
+疲れてるはずなのに……。","毕竟你每天那么忙碌，
+肯定也很疲倦才对嘛……",translated,依恩,f524134def,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#53#12,"わたしも、あなたの肩を叩いてあげられたら
+いいんだけど……。","如果我也能帮你捶捶肩的话
+该有多好啊……",translated,依恩,123504260f,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#54#12,"ごめんね、こっちからは何もして
+あげられなくて。","对不起哦，从我这边
+什么都没法为你做。",translated,依恩,f54fe3e510,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#56#12,疲れ知らずが自慢だから大丈夫,我最引以为傲的就是不知疲倦所以没事,translated,,3bce435cb7,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#57#12,イオンの入浴シーンで癒されてるよ,依恩的入浴场景已经治愈了我哦,translated,,a5332a0651,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#59#12,ふふっ、頼もしい旦那様だね。,呵呵，真是一位值得依靠的老公呢。,translated,依恩,04a106a3ea,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#60#12,"それじゃ、また疲れた時には、
+遠慮なく甘えさせてもらおうかな？","那么，等我下次累了的时候，
+就不客气地向你撒娇啦？",translated,依恩,40742cf509,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#61#12,"何だか、すごく疲れる作業をするのが、
+楽しみになってきそうだよ。","总觉得，哪怕要进行非常累人的工作，
+我也变得有些期待起来了呢。",translated,依恩,506ef80ad1,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#64#12,"もぉ、またそうやってエッチなこと
+ばかり言って……。","真是的，你又像这样
+净说些下流的话……",translated,依恩,a0b5d12092,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#65#12,"でも、あなたが癒されてくれるなら、
+それくらいは大目に見るよ。","不过，只要能让你感到治愈的话，
+这点程度我就睁一只眼闭一只眼啦。",translated,依恩,1440725d38,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#66#12,"それに、何度も一緒に温泉に入ってるから、
+それくらいのことは慣れてるし。","而且，我们都一起泡过好多次温泉了，
+这种程度的事我也早就习惯了嘛。",translated,依恩,fca25a0660,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#69#12,"あとは、肩こりが解消した状態で
+現実に戻れれば言うことなしなんだけど、
+どうなるかちょっとドキドキだね。","剩下的，要是能在肩痛消除的状态下
+回到现实去就再好不过了，
+到底会怎样还真有点让人心跳不已呢。",translated,依恩,31ef4fec0e,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#70#12,"試してみないとわからないし、
+ちょっと早いけど今日はもう戻ろっか？","不试一下也不知道，
+虽然稍微有点早，但今天差不多该回去了吧？",translated,依恩,cb28e7da97,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#72#12,ただいまー……って、あれ！？,我回来了――……咦、奇怪！？,translated,依恩,7c1f84fb9c,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#73#12,"行く前まで感じてた肩こりが、
+ちょっと解消してるよ。","去之前感受到的肩颈酸痛，
+好像稍微缓解了一些哦。",translated,依恩,6efdff17af,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#74#12,"あなたに肩叩いてもらったことが、
+無駄になってなくて安心したよ。","你帮我捶的肩没有白费，
+这下我就放心啦。",translated,依恩,193fe02088,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru04.txt#75#12,"やっぱり、現実に戻ったら何もかもが
+元通りなんていうのは、ちょっとだけ
+寂しい気がするし……。","果然，要是回到现实后一切都
+原封不动恢复原样的话，
+总觉得稍微有点让人难过呢……",translated,依恩,988e7ae35d,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#76#12,それに、また温泉に行く楽しみが増えたね。,而且，再去温泉泡澡的乐趣也增加了呢。,translated,依恩,6c6e2c2378,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04.txt#77#12,"また一緒に、温泉行こうね。
+あと、時々はまた今日みたいに、
+肩を叩いてくれると嬉しいな。","下次我们再一起去温泉吧。
+还有，要是偶尔能像今天这样
+帮我捶捶肩膀的话我会很高兴的哦。",translated,依恩,6492669397,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#82#14,"温泉で肩を叩いて
+もらった。わたしも
+してあげたいなぁ。","在温泉里被帮着捶了肩。
+我也好想
+帮对方捶捶看呀。",translated,,2dfcd99fa3,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04.txt#83#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent31/taoru04_tch.txt#3#12,<CLBU>ね、硬くなってるでしょ？,<CLBU>你看，很僵硬对吧？,translated,依恩,9a2029f554,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent31/taoru04_tch.txt#4#12,って、頭なんだから硬くて当然だよ！,喂，那可是脑袋，硬邦邦是理所当然的啦！,translated,依恩,70fa6faf45,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru04_tch.txt#7#12,<CLBU>もぉ、わたしの頬っぺたは柔らかいもん。,<CLBU>真是的，我的脸颊可是很软的嘛。,translated,依恩,65823435d2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevent31/taoru04_tch.txt#10#12,<CLBU>んっ……そうそう、そこが凄く重かったの。,<CLBU>嗯……对对，那里刚才特别沉重。,translated,依恩,cd8b68d40c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevent31/taoru04_tch.txt#11#12,"ふぅ……気持ちいい……。
+ふふっ、誰かに肩を叩いてもらうのって、
+自分でするより何倍もいいね。","呼……好舒服……
+呵呵，让别人帮自己捶肩膀，
+感觉比自己捶要舒服好几倍呢。",translated,依恩,ed323dfc0a,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru04_tch.txt#14#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevent31/taoru04_tch.txt#15#12,もぉ、そういうイタズラしたらダメだよ！,真是的，不许做那种恶作剧啦！,translated,依恩,f7d265ed3b,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru_int.txt#6#12,"温泉に行きたいの？
+んー………どうしようかな…","想去泡温泉吗？
+唔――……该怎么办好呢……",translated,依恩,58afdb68c9,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent31/taoru_int.txt#9#12,"それを出してきたってことは、
+温泉に行きたいってことだね？","你既然把那个拿出来了，
+就说明你想去泡温泉吧？",translated,依恩,86de68d3d1,br=0 nl=1,2,
+inc/event/res/dateevent31/taoru_int.txt#10#12,"もー、そうやって何かにつけて
+温泉に誘うなんて。
+エッチなんだから……。","真是的，动不动就借机
+邀请我去泡温泉。
+真是个色狼……",translated,依恩,859a85d0e2,br=0 nl=2,3,
+inc/event/res/dateevent31/taoru_int.txt#11#12,"でも、今日は気分じゃないからダメ。
+また今度行こうね。","不过，今天我没那个心情所以不行。
+下次再去吧。",translated,依恩,c09ffc301a,br=0 nl=1,2,

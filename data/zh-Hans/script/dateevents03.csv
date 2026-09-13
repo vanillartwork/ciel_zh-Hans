@@ -1,0 +1,1822 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents03/back_kigae_shop.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents03/back_kigae_shop.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#1#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#3#12,おしゃれな物、沢山見つかるといいなぁ。,希望能发现很多时尚好看的物品呢。,translated,依恩,ca314024ec,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#5#12,"やっぱり、何度もここに来て、その度に
+おしゃれな物を沢山見てるからかな？","果然是因为经常来这里，每次都能
+看到许许多多时尚的物品吧？",translated,依恩,15446a1883,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#6#12,"初めて来た時と比べると、わたしのおしゃれ
+知識も格段にレベルアップ！","比起第一次来的时候，我的时尚
+知识也大幅升级啦！",translated,依恩,99a34df485,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#7#12,"……してるといいなぁ、って思ってるん
+だけど、あなたから見てどうかな？","……要是真升级了就好了呢，
+在你看来感觉怎么样呢？",translated,依恩,2f221b104f,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#9#12,成長はしてると思うよ,我觉得你确实有所长进哦,translated,,18da31905b,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#10#12,少なくともレベルダウンはしてないよ,至少等级绝对没有下降哦,translated,,a346c4752b,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#12#12,えへへ、やっぱりそうかな？,诶嘿嘿，果然是这样吗？,translated,依恩,fba1705f1c,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#13#12,でも、最初にここに来た頃は酷かったよね。,不过，刚开始来这里那会儿真的很糟糕呢。,translated,依恩,efe6b08ebf,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#14#12,"おしゃれとか全然わからなかったし、
+そこまで興味も持ってなかったし……。","对时尚之类的完全不懂，
+而且也没抱多大兴趣……",translated,依恩,6dfa6b37e9,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#15#12,"まさか、おしゃれな物を見に行きたい、
+なんて思うようになるとは、夢にも思って
+なかったもん。","真没想到，我居然会变得想要去
+看各种时尚的东西，以前真是
+做梦都没想到呢。",translated,依恩,e94b424d72,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#19#12,ほっ……それだけでも安心するよ。,呼……光是听你这么说我就安心啦。,translated,依恩,9ce8db0da8,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#20#12,"初めてここに来た時は、本当におしゃれの
+ことを何も知らなかったんだし……。","第一次来这里的时候，我对时尚
+是真的什么都不懂嘛……",translated,依恩,363b1fe330,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#21#12,"あの頃よりもレベルダウンなんてことに
+なってたら……。","要是比起那个时候，
+等级反而还下降了的话……",translated,依恩,bfb83110de,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#22#12,"……ど、どうなっちゃってたんだろう？
+想像すらできないね。","……那、那该变成什么样了呀？
+简直连想象都不敢想呢。",translated,依恩,ef3a6cc27b,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#24#12,"でも、おしゃれって勉強しようにも、
+中々難しくてわからないよね？","不过时尚这东西就算想学，
+也相当难懂、不容易搞明白对吧？",translated,依恩,362a9198f5,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#25#12,"個人の好みも影響するから、もしかしたら
+一般的にはおしゃれじゃない、なんてことも
+あると思うし。","因为也会受到个人喜好的影响，
+说不定在大众看来
+根本算不上时尚呢。",translated,依恩,f1e233e39f,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#26#12,"おしゃれと思ってたら、実は奇抜で派手な
+だけでした、なんてことになったら、
+恥ずかし過ぎるもん。","要是我自以为很时尚，结果其实
+只是单纯奇装异服花里胡哨的话，
+那可就太丢人啦。",translated,依恩,51ec0ba5fd,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#28#12,誰にも見られる心配ないでしょ？,反正又不用担心被其他人看见吧？,translated,,9e96f0e2c5,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#29#12,それはそれでちょっと見てみたいかも,那反倒让我有点想看看呢,translated,,f2ce7ac8cc,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#31#12,"そ、それはまあ、確かにわたしの世界には
+ねりこさん以外誰もいないけど……。","话、话是这么说啦，虽然我的世界里
+除了妮莉库小姐确实没有别人……",translated,依恩,de85c89648,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#32#12,"それでも、やっぱりおしゃれをすることって
+大切だと思うの。","可即便如此，我觉得保持时尚
+也是非常重要的事情哦。",translated,依恩,143985e1e5,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#33#12,"じゃないと、どんどんだらしない人に
+なっちゃいそうだもん。","不然的话，感觉整个人
+会变得越来越邋遢随便嘛。",translated,依恩,7d22553290,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#36#12,"あはは……わたしも自分で言ってて、
+ちょっとだけ気になっちゃった。","啊哈哈……我自己嘴上这么说，
+心里其实也变得稍微有点好奇了呢。",translated,依恩,2820c3d904,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#37#12,"着てみたいか、って聞かれると困るけど、
+そこまですごい服なら見てはみたいよね？","要问我想不想穿那是很为难啦，
+但要是真有那么夸张的衣服，还真想见识见识呢？",translated,依恩,a570b55885,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#40#12,"……あれ？
+あのお店の前に置いてあるのって……。","……咦？
+放在那家店门口的东西是……",translated,依恩,bd5e7168af,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#42#12,"あっ、これカタログだよ！
+通販用のはがきが付いてるあれだね。","啊，这是商品目录哦！
+就是附带邮购明信片的那种呢。",translated,依恩,5b5f0d9bac,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#43#12,わたし、カタログって読むの大好きなんだ。,我最喜欢看商品目录了。,translated,依恩,8899126905,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#44#12,"主に機械関係のカタログだけど……。
+人気商品とか新作とか、色々載ってるから
+読み物としても楽しいよね？","虽然主要是机械相关的目录就是了……
+不过上面登载了好多人气商品和新品，
+作为读物也很有趣对吧？",translated,依恩,1d6e6e0dab,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#45#12,"あっ、そうだ！
+おしゃれを勉強するいい方法があったよ。","啊，对啦！
+我想到了学习时尚的好办法哦。",translated,依恩,0757e77b0a,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#46#12,"おしゃれな物が沢山載ってるカタログを
+読めば、それでおしゃれを勉強できると
+思うの。","只要阅读登载了好多时尚物品的目录，
+我觉得就能借此来
+学习时尚搭配了呢。",translated,依恩,78f25a0544,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#47#12,"うん、我ながらいい考えかも。
+多分これなら、楽しみながら勉強することが
+できるはずだよ。","嗯，我也觉得这是个好主意。
+这样的话，一定能一边享受
+一边学习时尚啦。",translated,依恩,053b5d83ec,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#48#12,"よーし、そうと決まれば、今見たカタログの
+中身を忘れないうちに早く帰らないと。","好――，既然决定了，趁着还没忘记
+刚才看到的目录内容，得赶紧回去才行。",translated,依恩,0ef191dbf1,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#49#12,戻ったらすぐにレシピを作っちゃうね。,回去之后我就立刻把配方做出来哦。,translated,依恩,db0beda7f2,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#51#12,ただいまー。,我回来啦――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#52#12,"う～ん……今更だけど、最初の目的と
+ちょっとずれちゃってたね。","唔～……虽然事到如今才说，
+感觉和最初的目的稍微有些偏离了呢。",translated,依恩,eb846861ac,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#53#12,"でも、新しいレシピが手に入ったんだし、
+わたし的には大満足だよ。","不过既然拿到了新配方，
+对我而言就已经大满足啦。",translated,依恩,d3108a245c,br=0 nl=1,2,
+inc/event/res/dateevents03/catalog01.txt#54#12,どんなカタログになるか、楽しみだね。,会做成什么样的目录呢，真期待呢。,translated,依恩,710fdc4bb4,br=0 nl=0,1,
+inc/event/res/dateevents03/catalog01.txt#55#12,"今日は急なお誘いだったのに、
+付き合ってくれてありがと。
+またデートしに行こうね。","今天明明是临时起意邀你出来的，
+谢谢你陪我一起过来。
+下次再一起去约会哦。",translated,依恩,27f04e5e64,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#57#12,"<CLY2>レシピ【カタログ？】が
+追加されました。","<CLY2>已追加配方
+【目录？】。",translated,系统文本,63f5146413,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents03/catalog01.txt#61#14,"カタログは意外と
+教科書としても
+活用できるんだよ。","商品目录其实意外地
+也能拿来当做教科书
+充分活用哦。",translated,,cf175b8afc,br=0 nl=2,3,
+inc/event/res/dateevents03/catalog01.txt#62#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/date_bonus_shop.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents03/date_bonus_shop.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents03/date_bonus_shop.txt#10#12,もっとよく見せて欲しい,希望能再让我仔细看看,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#12#12,"…も、もっとって…
+えっと、どんな感じかな？","……再、再仔细看是……
+呃，是要摆成什么姿势呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevents03/date_bonus_shop.txt#13#12,こうしてみた方がいい？,这样摆会不会好一点？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#16#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#17#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#22#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#24#12,まだ！！,还不够！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#25#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#27#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents03/date_bonus_shop.txt#33#12,それじゃ、元に戻すね。,那我这就恢复原样啦。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevents03/date_bonus_shop.txt#38#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents03/date_bonus_shop.txt#40#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents03/date_initm_shop.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents03/date_initm_shop.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents03/date_initm_shop.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents03/date_initm_shop.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#14#12,お待たせ。ショッピングセンターに行こう。,久等啦。我们去购物中心吧。,translated,,b3d8f66b16,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#16#12,いますぐ行こう,现在立刻就去吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents03/date_initm_shop.txt#21#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents03/date_initm_shop.txt#97#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents03/date_initm_shop.txt#99#12,"<CLY2>イオンとショッピングセンターに行く
+約束をしました。","<CLY2>与依恩约定好
+一起去购物中心。",translated,系统文本,c46a7e813f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents03/date_initt_shop.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/date_init_shop.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents03/date_init_shop.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents03/date_init_shop.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents03/date_init_shop.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents03/date_init_shop.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents03/date_init_shop.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents03/date_init_shop.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents03/date_init_shop.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents03/date_init_shop.txt#34#12,イオンとショッピングセンターに行く,和依恩一起去购物中心,translated,,5ef5d155d2,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#35#12,やっぱりやめる,还是算了吧,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#39#12,"ああっ！
+来た～っ♪","啊啊！
+你来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents03/date_init_shop.txt#45#12,ねえねえ、いる？,喂喂，你在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#48#12,あ・な・た～♪,亲・爱・的～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents03/date_init_shop.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#2#12,それじゃ、早速行ってみようか。,那么，这就立刻出发去看看吧。,translated,依恩,d3a8a4e984,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#4#12,……相変わらず、凄い場所だよね。,……这里还是一如既往，是个好厉害的地方呢。,translated,依恩,53933b4880,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#5#12,"と、とにかく、ここで立ち止まっていても
+しょうがないし、見て回ろうか？","总、总之，光是愣在这里也没用，
+我们四处逛逛看吧？",translated,依恩,880926caff,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#7#12,はぁ……。,哈啊……,translated,依恩,1083486be2,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#8#12,"もう何回も来てる場所だけど、
+やっぱりおしゃれなところは苦手だよ。","虽然已经是来过好多次的地方了，
+但果然还是应付不来时尚的高级场所呢。",translated,依恩,70566aa74c,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#9#12,"怖いわけじゃないけど、空気が合わない
+感じがして落ち着かなくなるの。","倒不是害怕，就是总感觉空气格格不入，
+让人静不下心来呢。",translated,依恩,2c3da77c17,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#10#12,"わたし、こういうキラキラ～って感じの
+おしゃれな場所って、ちょっと苦手かな。","我可能有点应付不来这种
+闪闪发光的时尚场所呢。",translated,依恩,2e0d8a2407,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#11#12,"もっとこう、アングラっぽい場所とかが
+好きなんだけどなぁ……。","我其实更喜欢那种，
+充满地下暗巷风格的地方啦……",translated,依恩,1bd19716c3,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#12#12,"例えばほら、路地裏にある何となくかび臭い
+パーツ屋とか！！","比如说你看，小巷深处那种带着点霉味的
+零件商店之类的！！",translated,依恩,5df467a2b8,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#13#12,"ああいうお店にレア物が眠ってるんだよね。
+えへへ、行きたくなってきちゃったなぁ。","那种店里往往沉睡着稀有罕见的好货呢。
+诶嘿嘿，搞得我都好想去逛逛了呀。",translated,依恩,c420572f8c,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#15#12,それならもう帰ろうか？,既然这样要不现在就回去？,translated,,99729c16ed,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#16#12,一緒に少しずつ慣れていこうよ,我们一起慢慢习惯这里吧,translated,,f8789e8e93,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#18#12,えー……それはちょっと嫌だよぉ。,诶――……那样我可不乐意嘛。,translated,依恩,d853328254,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#19#12,"確かに苦手なところだけど、
+せっかく一緒に来てるんだもん。","虽然确实不擅长应付这种地方，
+但难得两个人一起来了呀。",translated,依恩,a12a24522a,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#20#12,もう少し、デート気分を楽しもうよ。,稍微再享受一下约会的气氛嘛。,translated,依恩,989d9b519d,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#21#12,"むぅ、不安がってるわたしをかっこよく
+エスコートしてくれるのを期待してたん
+だけどなぁ……。","唔，我本来还期待着你能帅气地
+护送引领不安的我
+来一场约会的说……",translated,依恩,f0e980007a,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#22#12,"……まあ、ちょっと期待し過ぎちゃった
+わたしもいけないんだけどね。","……嘛，也是我有些
+期待过头了就是啦。",translated,依恩,368e914cec,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#23#12,"このおしゃれな場所の空気に
+惑わされちゃったみたい。","看来是被这里时尚高级的氛围
+给冲昏头脑了呢。",translated,依恩,dcc9a85046,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#26#12,う、うん……あなたがそう言うなら。,嗯、嗯……既然你都这么说了。,translated,依恩,e76e3e1408,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#27#12,"わたし一人だったら、絶対に無理って
+言ってたと思う。","要是只有我一个人，
+我绝对会说受不了的。",translated,依恩,5449e27923,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#28#12,"でも、あなたが一緒にいるんだもんね？
+それなら安心できるよ。","不过，有你在我身边嘛对吧？
+那样的话我就能安心啦。",translated,依恩,591c7e8b9c,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#29#12,"……あなたと、ちょっと背伸びをした場所で
+デートしてる、って思っていれば、すぐに
+慣れるかな？","……只要想着是在和你
+稍稍逞强来到这种高级场所约会，
+感觉很快就能习惯了吧？",translated,依恩,55383bca42,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#30#12,な、なんてね、えへへへー……。,开、开玩笑的啦，诶嘿嘿嘿……,translated,依恩,09e3fb4ccd,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#32#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#34#12,"あそこのお店にある置物って……。
+ほら、あれだよあれ！！","那边那家店里的摆件是……
+你看，就是那个啦那个！！",translated,依恩,6bfbc742ae,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#35#12,"名前はわからないんだけど、ほら、
+鳥の形したおしゃれな置物で、コップの水に
+顔を入れたり出したりするアレだよ！","虽然不知道名字，但你看，
+就是鸟儿形状的精致小摆件，
+会往水杯里一低头一抬头喝水的那个！",translated,依恩,ac4e7056a9,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#36#12,"わかるでしょ？
+ほら、ししおどしみたいな……。","你能明白吧？
+就像添水装置那样……",translated,依恩,3e1bd25648,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#37#12,……水飲み鳥、じゃな。,……那是喝水鸟吧。,translated,妮莉库,13fe8dae2e,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#38#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#40#12,"コップに顔を突っ込んだり上げたりする
+あの置物じゃろ？
+あれは水飲み鳥というのじゃ。","就是把脑袋扎进水杯里又抬起来的
+那个小摆件对吧？
+那东西叫做喝水鸟。",translated,妮莉库,95b9534d68,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#41#12,"ねりこさん！！
+どうしてここに！？","妮莉库小姐！！
+你怎么会在这里！？",translated,依恩,d71c593c2b,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#42#12,"デート中の幸せ者に言えるような、華やかな
+理由ではないのは確実だの。","反正肯定不像你们约会中的幸福情侣那样，
+有着什么光鲜亮丽的理由就是了。",translated,妮莉库,397af46174,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#43#12,も、もぉ、からかわないでよぉ……。,真、真是的，不要取笑我嘛……,translated,依恩,37d4ea581f,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#44#12,"でも、さっき言ってたの本当なの？
+ちゃんとした名前が水飲み鳥、って。","不过刚才说的那是真的吗？
+它的正式名字居然叫喝水鸟。",translated,依恩,1ba1320e5a,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#45#12,"無論じゃ。
+……なんじゃ？何やら不満そうじゃな。","那是自然。
+……怎么？看你的样子似乎不太满意嘛。",translated,妮莉库,b641bac984,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#46#12,"だ、だって、おしゃれな小物なのに
+名前が普通だから、ちょっと……。","可、可是，明明是这么精致的小摆件，
+名字却这么普普通通，感觉稍微有点……",translated,依恩,d4c9803322,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#47#12,"もっとこう、カタカナの入ったカッコイイ
+感じの名前を期待してたのに。","我还以为会是更帅气、
+更有洋气高级感的名字呢。",translated,依恩,bd04e7e0d8,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#48#12,"誰かさんも「ししおどしみたい」とか
+言っておった様な気がするがの……。","咱记得刚才某人好像还说过
+“就像添水装置那样”之类的话吧……",translated,妮莉库,6716bf86fe,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#49#12,"まあ、イオンがその手の物を知らないのは
+無理ない話じゃ。
+何と言っても、記憶がないのだしな。","嘛，依恩不知道那种东西
+也是无可厚非的事。
+毕竟你连记忆都没有了嘛。",translated,妮莉库,619588d540,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#50#12,"まさかとは思うが、お前さんもイオンと
+同じでこれの名前がわからなかったわけでは
+あるまい？","虽然咱觉得不太可能，不过你这家伙
+总不会也和依恩一样，
+连这玩意的名字都不知道吧？",translated,妮莉库,b16194486f,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#52#12,わからなかった,我也不知道呢,translated,,44b05efdcf,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#53#12,知ってたよ,我当然知道啦,translated,,741efb5161,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#55#12,えへへ、わたし達、気が合うね。,诶嘿嘿，我们俩还真是意气相投呢。,translated,依恩,789e498d0e,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#56#12,はて……今のは喜ぶところじゃったか？,奇怪……方才这有什么好高兴的吗？,translated,妮莉库,d275aad811,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#57#12,"だが、さすがにこれの名前を知らないと
+いうのは、問題があるのう。","不过，连这东西的名字都不知道，
+未免也太说不过去咯。",translated,妮莉库,5fcd07268d,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#58#12,"しょうがないよ。
+だってわたし達、おしゃれな物とは
+無縁な人間だもん。","没办法呀。
+毕竟我们都是和时尚无缘的
+大外行嘛。",translated,依恩,fbfc417d82,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#59#12,開き直るない。,莫要破罐子破摔呀。,translated,妮莉库,5919f79288,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#60#12,"まったく……お前さん達は、もう少し
+おしゃれについて勉強してみてはどうじゃ。","真是的……你们俩何不多学学
+时尚方面的知识呢。",translated,妮莉库,8834ba23fb,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#61#12,"勉強？
+ねりこさんが教えてくれるの？","学习？
+是妮莉库小姐要教我们吗？",translated,依恩,7a63b8d04f,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#62#12,"この手のものは教えてどうなるものでは
+ないのでな。
+教える代わりに、これをやろう。","这方面的事情可不是单靠传授
+就能学会的呐。
+权当代替指点，把这个给你吧。",translated,妮莉库,a031a2d849,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#65#12,わぁ、物知りなんだね！！,哇，你懂得可真多呢！！,translated,依恩,8a7282d3cf,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#66#12,"イオンよ、お前さんが知らな過ぎる
+だけじゃ……。","依恩啊，纯粹只是你这丫头
+知道的太少罢了……",translated,妮莉库,88c0d44b07,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#67#12,"うぅ、記憶を無くす前は知ってたかも
+しれないのにぃ……。","呜呜，明明在失去记忆之前，
+我说不定是知道的嘛……",translated,依恩,b46f957005,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#68#12,"おしゃれを理解できないお前さんが、
+知っていたとは思えんのう。","咱可不觉得对时尚一窍不通的你，
+以前能知道这玩意儿呢。",translated,妮莉库,bf8a70c318,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#69#12,"とはいえ、お前さんはおしゃれを知るための
+努力をした方が良いのは確かじゃな。","话虽如此，你确实该为了了解时尚
+而稍微付出点努力才对呐。",translated,妮莉库,85eb0207b6,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#70#12,というわけで、こいつをくれてやるぞ。,有鉴于此，就把这个赏给你吧。,translated,妮莉库,4ee5784469,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#72#12,え……レシピカード？,诶……配方卡？,translated,依恩,c883c04bcb,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#73#12,"おしゃれな小物を作るためのレシピじゃ。
+おしゃれな物を作っていれば、そのうち
+おしゃれになるはずじゃよ。","这是用于制作时尚小物件的配方。
+只要多做些精致的小玩意，
+不知不觉间自然就会变得时尚咯。",translated,妮莉库,f3be46eda3,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#74#12,"まあ、おしゃれ初心者にはちょうどいい
+教科書代わりになると思うでな。","对时尚新手来说，
+倒是正适合拿来当替代教科书呢。",translated,妮莉库,47efa49aa7,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#75#12,わぁ。ありがとうねりこさん！,哇，谢谢妮莉库小姐！,translated,依恩,fd9cb60299,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#76#12,"ん～っふっふっふ、我は面倒見の
+良い女じゃからのぅ。","唔呵呵呵，毕竟咱是个
+懂得照顾人的好女人呐。",translated,妮莉库,410f4383a5,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#77#12,"頑張って作るのだぞぃ。
+完成したら、ここで見せてもらうからのぅ。","好好努力制作出来吧。
+等做好了，可得在这里让咱见识见识。",translated,妮莉库,023c5871a3,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#78#12,うん、期待しててね！,嗯，敬请期待吧！,translated,依恩,43516aa1f9,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#80#12,えへへ、もらっちゃったー。,诶嘿嘿，收下一张配方啦～,translated,依恩,b167fbd3df,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#81#12,"一体どんなのが出来上がるのか、
+凄く楽しみだね。","究竟能做出什么样的小物件来呢，
+真让人期待呀。",translated,依恩,82b7c74406,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#82#12,それじゃ、今日はそろそろ帰ろうか？,那么，今天就差不多该回去啦？,translated,依恩,4bb2fd5b90,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#84#12,ふぅ……ただいまー。,呼……我回来啦――,translated,依恩,1b2b7c5a0b,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#85#12,何だか、思わぬお土産を貰っちゃったね。,总觉得收到了意想不到的好礼物呢。,translated,依恩,1277c656ff,br=0 nl=0,1,
+inc/event/res/dateevents03/komono01.txt#86#12,"おしゃれな小物を作るためのレシピかぁ。
+どんなのができるのか今から楽しみ。","制作时尚小物件的配方呀。
+真让人从现在起就开始期待会做出什么了呢。",translated,依恩,e4d655c658,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#87#12,"これが出来上がったら、また一緒に
+ショッピングセンターに行こうね。","等把这个做出来之后，
+我们再一起去购物中心哦。",translated,依恩,1fe781edbe,br=0 nl=1,2,
+inc/event/res/dateevents03/komono01.txt#88#12,"<CLY2>レシピ【おしゃれ小物？】が
+追加されました。","<CLY2>已追加配方
+【时尚小物件？】。",translated,系统文本,c1b103d3cd,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents03/komono01.txt#94#14,"ねりこさんがくれた
+おしゃれなレシピで
+何が出来るのかな？","用妮莉库小姐给的
+时尚配方，
+究竟能做出什么呢？",translated,,2de3eed99d,br=0 nl=2,3,
+inc/event/res/dateevents03/komono01.txt#95#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_bonus_tch1.txt#5#12,"<CLBU>……そんなに顔が好きなら、少しは肌の
+お手入れとか気をつけた方がいいかな？","<CLBU>……要是你那么喜欢我的脸，我是不是
+稍微注意一下肌肤护理会比较好呢？",translated,依恩,8bb8603c60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#6#12,"今度来た時、いい美容液とかないか
+見てみよっと。","下次再来的时候，
+我去看看有没有好用的美容液吧。",translated,依恩,6da2323a9d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#9#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#10#12,"えへへ、人がいっぱいいるところでも、
+つい見つめ合いたくなるね。","诶嘿嘿，即便是在人这么多的地方，
+也忍不住想和你四目相对呢。",translated,依恩,fb214e8519,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#25#12,"<CLBU>えへへ……こういうところでのデートも、
+もう気後れしなくなったね。","<CLBU>诶嘿嘿……在这样的地方约会，
+我也已经不再感到怯场了呢。",translated,依恩,9067b8d7a3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch1.txt#26#12,"これからも、もっともっとあなたと
+一緒に来たいな。","今后我也想更加更加频繁地
+和你一起来呢。",translated,依恩,84581e70d0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#29#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#30#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#40#12,<CLBU>わたしが子供じゃなくてよかったよ。,<CLBU>幸好我不是小孩子呢。,translated,依恩,a3ff20b1d8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#41#12,"もしそうだったら、迷子の手を引いて
+歩いてるようにしか見えないと思うし。","要是小孩子的话，看上去肯定就像
+是在牵着走丢的孩子散步一样嘛。",translated,依恩,a84a22bc59,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#44#12,"<CLBU>トントンされた時だけじゃなくて、
+ずっと握ったままでいられたらいいのにね。","<CLBU>不仅是被咚咚轻拍的时候，
+要是能一直紧紧握着手就好了呢。",translated,依恩,0a62bea826,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#47#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch1.txt#48#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#58#12,"<CLBU>か、家族連れが多いんだから、
+こういうところで胸を触るのは……。","<CLBU>这里拖家带口的客人很多，
+在多人的地方摸胸口有些……",translated,依恩,f57dd1c64c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#59#12,"って、家族連れがいないところなら
+触っていい、って意味じゃないよ！？","我可不是说在没人的地方
+就可以随便摸的意思哦！？",translated,依恩,d0afbe6f24,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#62#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#63#12,"み、みんな見てるところでこんなこと
+するなんて……。
+少しは自重してよ。","在、在大家都在看的地方
+做这种事情……
+你稍微也给我克制一点啦。",translated,依恩,9c97b79231,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#66#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#67#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#77#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#80#12,"<CLBU>……お腹を触られるのって
+結構恥ずかしいんだよ？","<CLBU>……被你摸肚子
+其实还挺不好意思的哦？",translated,依恩,ceb06d22ce,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#83#12,<CLBU>トントンなら、そっとだよ？,<CLBU>要是咚咚轻拍的话，可得轻轻的哦？,translated,依恩,800d053dfc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#84#12,"お腹は強くトントンされたら、
+苦しくなっちゃうから……。","要是肚子被用力咚咚拍的话，
+会很难受的嘛……",translated,依恩,12a1db52a0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#98#12,"<CLBU>……そんなに顔が好きなら、少しは肌の
+お手入れとか気をつけた方がいいかな？","<CLBU>……要是你那么喜欢我的脸，我是不是
+稍微注意一下肌肤护理会比较好呢？",translated,依恩,8bb8603c60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#99#12,"今度来た時、いい美容液とかないか
+見てみよっと。","下次再来的时候，
+我去看看有没有好用的美容液吧。",translated,依恩,6da2323a9d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#102#12,<CLBU>もしかして、子ども扱いしてる？,<CLBU>难道说，你把我当小孩看了？,translated,依恩,dbe358bdcc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#103#12,"もぉ……これでも、あなたの恋人さん
+なんだよ？","真是的……人家好歹也是
+你的恋人呀？",translated,依恩,fa54e5bdf8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#106#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#107#12,"えへへ、人がいっぱいいるところでも、
+つい見つめ合いたくなるね。","诶嘿嘿，即便是在人这么多的地方，
+也忍不住想和你四目相对呢。",translated,依恩,fb214e8519,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#120#12,"<CLBU>えへへ……こういうところでのデートも、
+もう気後れしなくなったね。","<CLBU>诶嘿嘿……在这样的地方约会，
+我也已经不再感到怯场了呢。",translated,依恩,9067b8d7a3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch1.txt#121#12,"これからも、もっともっとあなたと
+一緒に来たいな。","今后我也想更加更加频繁地
+和你一起来呢。",translated,依恩,84581e70d0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#124#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#125#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#128#12,<CLBU>腕くらい組んでも、おかしくないよね？,<CLBU>只是挽一下手臂的话，不算奇怪吧？,translated,依恩,2170dfbdb9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#129#12,だって、恋人同士なんだし……えへへ。,毕竟我们可是恋人嘛……诶嘿嘿。,translated,依恩,020daf7be5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#137#12,<CLBU>わたしが子供じゃなくてよかったよ。,<CLBU>幸好我不是小孩子呢。,translated,依恩,a3ff20b1d8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#138#12,"もしそうだったら、迷子の手を引いて
+歩いてるようにしか見えないと思うし。","要是小孩子的话，看上去肯定就像
+是在牵着走丢的孩子散步一样嘛。",translated,依恩,a84a22bc59,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#141#12,"<CLBU>トントンされた時だけじゃなくて、
+ずっと握ったままでいられたらいいのにね。","<CLBU>不仅是被咚咚轻拍的时候，
+要是能一直紧紧握着手就好了呢。",translated,依恩,0a62bea826,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#144#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch1.txt#145#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#153#12,"<CLBU>か、家族連れが多いんだから、
+こういうところで胸を触るのは……。","<CLBU>这里拖家带口的客人很多，
+在多人的地方摸胸口有些……",translated,依恩,f57dd1c64c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#154#12,"って、家族連れがいないところなら
+触っていい、って意味じゃないよ！？","我可不是说在没人的地方
+就可以随便摸的意思哦！？",translated,依恩,d0afbe6f24,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#157#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#158#12,"み、みんな見てるところでこんなこと
+するなんて……。
+少しは自重してよ。","在、在大家都在看的地方
+做这种事情……
+你稍微也给我克制一点啦。",translated,依恩,9c97b79231,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#161#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#162#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#170#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#173#12,"<CLBU>……お腹を触られるのって
+結構恥ずかしいんだよ？","<CLBU>……被你摸肚子
+其实还挺不好意思的哦？",translated,依恩,ceb06d22ce,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#176#12,<CLBU>トントンなら、そっとだよ？,<CLBU>要是咚咚轻拍的话，可得轻轻的哦？,translated,依恩,800d053dfc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#177#12,"お腹は強くトントンされたら、
+苦しくなっちゃうから……。","要是肚子被用力咚咚拍的话，
+会很难受的嘛……",translated,依恩,12a1db52a0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch1.txt#188#12,"<CLBU>えへへ…。周りからはどんな風に
+見えるのかなぁ。","<CLBU>诶嘿嘿……在旁人眼里
+会把我们看成什么样子呢。",translated,依恩,ee67c2132a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#190#12,"<CLBU>なんか、こうやってると、
+仲の良い夫婦みたいだよね。","<CLBU>总觉得像这样走在一起，
+就像感情恩爱的夫妻一样呢。",translated,依恩,985e9251a8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#192#12,"<CLBU>いてっ！
+もーっ、やったなぁっ！　あはは♪","<CLBU>好痛！
+真是的，你偷袭我！啊哈哈♪",translated,依恩,29e80e09a2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#201#12,"<CLBU>腕組んで歩いたら、
+どう見てもデートだよね。","<CLBU>要是挽着手臂一起走，
+怎么看都绝对是在约会呢。",translated,依恩,e9aa5e3b1f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#203#12,"<CLBU>外で肩をさわさわされると、
+ちょっと不思議な気分。","<CLBU>在外面被你轻轻摸着肩膀，
+感觉稍微有点奇妙呢。",translated,依恩,a9213380c4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#205#12,"<CLBU>丁度肩か凝ってたところなの。
+なんてね。","<CLBU>我刚好觉得肩膀有点酸呢。
+开玩笑的啦。",translated,依恩,517e04aca5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#209#12,<CLBU>手を繋いでお買い物したいねー。,<CLBU>真想牵着手一起去买东西呢――,translated,依恩,71ab8bf105,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#211#12,<CLBU>そういえば、石けん買っていかなくちゃ。,<CLBU>说起来，得顺便买块肥皂回去才行。,translated,依恩,7db1e63bd5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch1.txt#213#12,"<CLBU>ちょっとだけ、近づけるような
+気がするよね。手を繋ぐと。","<CLBU>只要牵着手，总觉得
+彼此的心情就能更靠近一些呢。",translated,依恩,3d8af0b204,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#217#12,"<CLBU>こ、こらっ、
+ここ、ショッピングセンターだよ！？","<CLBU>喂、等等，
+这里可是购物中心哦！？",translated,依恩,a3a6f65595,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#219#12,"<CLBU>もう、だめだってば！
+みんなにジロジロ見られちゃう。","<CLBU>真是的，都说不行啦！
+会被大家直勾勾盯着看的。",translated,依恩,f5e971622b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#221#12,<CLBU>だから、そういう事しちゃダメ！,<CLBU>所以说，不能做那种事情啦！,translated,依恩,d3b80fdb44,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#225#12,<CLBU>くっ、くすぐったいっ！！,<CLBU>好、好痒啊！！,translated,依恩,93315f8040,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#227#12,<CLBU>こんな所で、おなか突かないで～。,<CLBU>不要在人这么多的地方戳我肚子啦～,translated,依恩,73f6aea92f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#229#12,<CLBU>んもー。どういうつもりなの？,<CLBU>真是的――你到底想干嘛呀？,translated,依恩,6574c4bd52,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#233#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#235#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch1.txt#237#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#5#12,<CLBU>……もうちょっと、撫でてほしいな。,<CLBU>……希望能被你再多摸一会儿呢。,translated,依恩,f0a67b68da,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#8#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#11#12,"<CLBU>もぉ、みんな見てるところでは
+恥ずかしいよ……。","<CLBU>真是的，在大家都在看的地方
+太难为情了啦……",translated,依恩,e0fac880ea,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#12#12,"何だか、子供扱いされてるように
+見られそうだし……。","感觉会被别人看成
+是在被当成小孩子对待嘛……",translated,依恩,fa88e66d80,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#27#12,"<CLBU>こういうところで腕を組んでもらえると、
+エスコートしてもらってる気分になるよ。","<CLBU>在这样的地方能被你挽着手臂，
+感觉就像是被你贴心护送一样呢。",translated,依恩,3afebb0f07,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#28#12,えへへ……ちょっとだけ、お姫様気分だね。,诶嘿嘿……稍微有点像小公主的感觉呢。,translated,依恩,d76325492d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#31#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#32#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#35#12,"<CLBU>ここでデートしてる人達って、
+みんな手を繋いだり腕を組んだりしてるよ。","<CLBU>在这里约会的人们，
+大家也都在牵着手或者挽着手臂呢。",translated,依恩,021dfc02d2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#36#12,わたし達も負けてられないね。,我们可也不能输给他们呢。,translated,依恩,0eb49c85a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#46#12,"<CLBU>手を繋ぎながらウインドウショッピングを
+するのって、デートの王道だよね？","<CLBU>一边牵着手一边逛街看橱窗，
+绝对算得上是约会的经典王道吧？",translated,依恩,2aaa0c9cf6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#47#12,"……でも、ドキドキしちゃって、
+見てる物が頭に入ってこないかも……。","……不过因为太紧张心动了，
+看到的东西可能完全进不去脑子里呢……",translated,依恩,840023ec14,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#50#12,"<CLBU>えへへ……そんなにしなくても、
+わたしの手はどこにも逃げませんよー。","<CLBU>诶嘿嘿……不用那么用力握着，
+我的手又不会逃走啦――",translated,依恩,3b336cc360,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#53#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#54#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#64#12,<CLBU>や、やだ、揺らさないで！,<CLBU>不、不要，别乱摇晃我啦！,translated,依恩,cfe72b53fb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#65#12,"ほら、周りの人が見てるよ……。
+う～、恥ずかしいなぁ……。","你看，周围的人都在看呢……
+唔～，好难为情呀……",translated,依恩,becbc592c4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#68#12,<CLBU>……エッチ。,<CLBU>……下流。,translated,依恩,1e09e557c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#69#12,でも、そういうところも嫌いじゃないよ。,不过，你这种地方我也并不讨厌哦。,translated,依恩,7e8b40b156,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#72#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#82#12,"<CLBU>ば、場所をわきまえないカップルみたいで、
+ちょっと恥ずかしいんだけど……。","<CLBU>感觉就像是不知分寸的情侣一样，
+让人觉得有些不好意思呢……",translated,依恩,f895fddf8c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents03/shop_bonus_tch2.txt#85#12,<CLBU>あっ、んふっ！,<CLBU>啊，唔嗯！,translated,依恩,bc2c64f5dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#86#12,"も、もぉ！
+お腹はくすぐったいんだから、
+あんまり撫でないでってば……。","真、真是的！
+肚子很怕痒的，
+都说了不要一直摸啦……",translated,依恩,4cac049016,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#89#12,"<CLBU>普段ならお腹を撫でられると落ち着いた
+気持ちになるけど、今は無理みたい。","<CLBU>平时被你摸摸肚子会觉得很踏实，
+但现在看来似乎完全不行呢。",translated,依恩,d36f35df0f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#90#12,"やっぱり、こんなににぎやかな場所だと、
+さすがにね……。","毕竟在这么热闹繁华的地方，
+到底还是有些静不下心来呢……",translated,依恩,a59240a7ee,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#104#12,<CLBU>……もうちょっと、撫でてほしいな。,<CLBU>……希望能被你再多摸一会儿呢。,translated,依恩,f0a67b68da,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#107#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#110#12,"<CLBU>もぉ、みんな見てるところでは
+恥ずかしいよ……。","<CLBU>真是的，在大家都在看的地方
+太难为情了啦……",translated,依恩,e0fac880ea,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#111#12,"何だか、子供扱いされてるように
+見られそうだし……。","感觉会被别人看成
+是在被当成小孩子对待嘛……",translated,依恩,fa88e66d80,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#124#12,"<CLBU>こういうところで腕を組んでもらえると、
+エスコートしてもらってる気分になるよ。","<CLBU>在这样的地方能被你挽着手臂，
+感觉就像是被你贴心护送一样呢。",translated,依恩,3afebb0f07,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#125#12,えへへ……ちょっとだけ、お姫様気分だね。,诶嘿嘿……稍微有点像小公主的感觉呢。,translated,依恩,d76325492d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#128#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#129#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#132#12,"<CLBU>ここでデートしてる人達って、
+みんな手を繋いだり腕を組んだりしてるよ。","<CLBU>在这里约会的人们，
+大家也都在牵着手或者挽着手臂呢。",translated,依恩,021dfc02d2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#133#12,わたし達も負けてられないね。,我们可也不能输给他们呢。,translated,依恩,0eb49c85a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#141#12,"<CLBU>手を繋ぎながらウインドウショッピングを
+するのって、デートの王道だよね？","<CLBU>一边牵着手一边逛街看橱窗，
+绝对算得上是约会的经典王道吧？",translated,依恩,2aaa0c9cf6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#142#12,"……でも、ドキドキしちゃって、
+見てる物が頭に入ってこないかも……。","……不过因为太紧张心动了，
+看到的东西可能完全进不去脑子里呢……",translated,依恩,840023ec14,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#145#12,"<CLBU>えへへ……そんなにしなくても、
+わたしの手はどこにも逃げませんよー。","<CLBU>诶嘿嘿……不用那么用力握着，
+我的手又不会逃走啦――",translated,依恩,3b336cc360,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#148#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#149#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#157#12,<CLBU>や、やだ、揺らさないで！,<CLBU>不、不要，别乱摇晃我啦！,translated,依恩,cfe72b53fb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#158#12,"ほら、周りの人が見てるよ……。
+う～、恥ずかしいなぁ……。","你看，周围的人都在看呢……
+唔～，好难为情呀……",translated,依恩,becbc592c4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#161#12,<CLBU>……エッチ。,<CLBU>……下流。,translated,依恩,1e09e557c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#162#12,でも、そういうところも嫌いじゃないよ。,不过，你这种地方我也并不讨厌哦。,translated,依恩,7e8b40b156,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#165#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#173#12,"<CLBU>ば、場所をわきまえないカップルみたいで、
+ちょっと恥ずかしいんだけど……。","<CLBU>感觉就像是不知分寸的情侣一样，
+让人觉得有些不好意思呢……",translated,依恩,f895fddf8c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents03/shop_bonus_tch2.txt#176#12,<CLBU>あっ、んふっ！,<CLBU>啊，唔嗯！,translated,依恩,bc2c64f5dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#177#12,"も、もぉ！
+お腹はくすぐったいんだから、
+あんまり撫でないでってば……。","真、真是的！
+肚子很怕痒的，
+都说了不要一直摸啦……",translated,依恩,4cac049016,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#180#12,"<CLBU>普段ならお腹を撫でられると落ち着いた
+気持ちになるけど、今は無理みたい。","<CLBU>平时被你摸摸肚子会觉得很踏实，
+但现在看来似乎完全不行呢。",translated,依恩,d36f35df0f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#181#12,"やっぱり、こんなににぎやかな場所だと、
+さすがにね……。","毕竟在这么热闹繁华的地方，
+到底还是有些静不下心来呢……",translated,依恩,a59240a7ee,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_bonus_tch2.txt#192#12,"<CLBU>さわさわされちゃった。
+わたしたちって、なかよしさんだね。","<CLBU>被你轻轻摸了摸呢。
+我们俩的感情可真好呀。",translated,依恩,38af92e703,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#194#12,"<CLBU>髪の毛サラサラ、つやつやかな？
+ダメだったらシャンプー
+買っていかなくちゃ。","<CLBU>我的头发有柔顺光泽吗？
+如果不够好的话，
+得顺便买瓶洗发水回去才行。",translated,依恩,48e07f2578,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#196#12,<CLBU>ほっぺつるつるしてる？,<CLBU>我的脸颊摸起来滑溜溜的吗？,translated,依恩,ee55a7f3b6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#205#12,"<CLBU>肩を抱かれて歩くと
+ホントに幸せ。","<CLBU>被你搂着肩膀散步，
+真的好幸福。",translated,依恩,8e36690167,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#207#12,"<CLBU>えへへ、肩はちょっと
+くすぐったいかも。","<CLBU>诶嘿嘿，肩膀稍微
+有点怕痒呢。",translated,依恩,5bef7cd41e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#209#12,"<CLBU>なんだか不思議な気分。
+とろーんってして来ちゃう。","<CLBU>总觉得心情好不可思议，
+整个人都变得轻飘飘软绵绵的。",translated,依恩,3113f7e2d3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#213#12,<CLBU>あはっ、くすぐったいってば。,<CLBU>啊哈，都说了好痒嘛。,translated,依恩,0f9d990f7c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#215#12,"<CLBU>お外が寒いときは、
+二人で手をさすり合うといいよね。","<CLBU>外面天气冷的时候，
+两个人互相搓搓手取暖真好呢。",translated,依恩,20844e578d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#217#12,"<CLBU>さわさわ～さわさわ～。
+ちょっと幸せな気持ち。","<CLBU>摸摸～摸摸～。
+有种小小的幸福感呢。",translated,依恩,9e22d84fcc,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#221#12,"<CLBU>きゃっ！
+だから、ここお外なんだよ？","<CLBU>呀啊！
+都说了，这里可是大庭广众之下哦？",translated,依恩,e92eb1ff97,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#223#12,"<CLBU>もう！　誰かに見られたら
+恥ずかしいよぅ！","<CLBU>真是的！被谁看见的话
+会好难为情呀！",translated,依恩,272db89e22,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#225#12,"<CLBU>はぁ…。
+本当にどこでも触りたいんだね。","<CLBU>唉……
+你可真是随时随地都想动手动脚呢。",translated,依恩,a92b44782b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#229#12,<CLBU>おなかさわさわされてる。,<CLBU>肚子正被你轻轻摸着呢。,translated,依恩,d3411b88a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#231#12,<CLBU>えへへ、くすぐったーい。,<CLBU>诶嘿嘿，好――痒呀。,translated,依恩,db89e192c0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#233#12,<CLBU>なんだか不思議とリラックスしてくるよ。,<CLBU>总觉得不可思议地放松下来了呢。,translated,依恩,fdec232bd9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents03/shop_bonus_tch2.txt#237#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#239#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_bonus_tch2.txt#241#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_datego01.txt#6#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_datego01.txt#7#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_datego01.txt#9#12,えへへ♪　お待たせ～。,诶嘿嘿♪久等啦――,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego02.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego03.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#3#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#4#12,"あのね、その…
+大した用事じゃ無いんだけど…。","那个呀，怎么说呢……
+虽然也不是什么大不了的事啦……",translated,依恩,8ac2a08fda,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_dategom.txt#5#12,その、ね…ほら……えっと…。,那个，呐……你看……呃……,translated,依恩,85fbf571de,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#6#12,"また、デートしたいな～とか
+思っちゃったりして…その……。","我想着……要是能再去约会就好了呢～
+那个……",translated,依恩,9169fedd88,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_dategom.txt#7#12,"…ショッピングセンターに
+一緒にお買い物に行きたいな…って…。","……我想和你一起去购物中心
+买买东西呢……",translated,依恩,f01d728bf1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_dategom.txt#8#12,"そ、それで！
+予定…どうかな？","所、所以说！
+你的安排……如何呢？",translated,依恩,7f310da9bc,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_dategom.txt#9#12,もちろん大丈夫,当然没问题啦,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#10#12,今週はちょっと無理かも,这周可能有点不太行呢,translated,,85c8c99542,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#12#12,"ほ、ほんと！？　嬉しい！
+また、あなたと一緒にお買い物
+出来るなんて、素敵かも♪","真、真的吗！？太高兴了！
+又能和你一起去买东西，
+感觉好棒哦♪",translated,依恩,9c83913381,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_dategom.txt#17#12,そっかぁ…残念。,这样啊……真遗憾。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_dategom.txt#18#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents03/shop_kigae.txt#9#12,"さて、と。
+今日は何を着ていこうかな～。","好――啦。
+今天穿哪件衣服去好呢～",translated,依恩,24fa7c4a93,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#10#12,"お洒落なショッピングセンターだから、
+それに見合う格好をしていかないと…。","因为是时尚的购物中心，
+得穿一身相称的衣服去才行……",translated,依恩,8f47949f0c,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#11#12,イオンはそのままで十分可愛い,依恩现在这样就已经足够可爱了,translated,,153cd01d53,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#12#12,いつもと違うイオンが見たい,想看到和平时不一样打扮的依恩,translated,,1dc4fcccaa,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#14#12,…うーん………。,……唔――……,translated,依恩,643f2d1cbf,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#16#12,"とは言っても、わたし、全然
+服のレパートリーが無いんだよね…。","话虽如此，我其实根本就
+没有什么能换穿的衣服款式呢……",translated,依恩,97d6035d9d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#17#12,仕方ないから、この格好で行こっと…。,没办法，就穿这一身去吧……,translated,依恩,523b7d5e6e,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#20#12,"え、えええっ！
+そ、そんなことないよぅ……。","诶、诶诶诶！
+哪、哪有你说的那么好啦……",translated,依恩,650e688e67,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#21#12,"で、でもあなたがそういうなら、
+このままの格好で行くことにするね。","可、可是既然你都这么说了，
+那我就以这副打扮去好啦。",translated,依恩,2f3aa04dd0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#22#12,えへへ、ちょっと嬉しい♪,诶嘿嘿，有点开心呢♪,translated,依恩,54099cd0b8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#25#12,"そ、そうだよね！
+デートなんだし…。","也是呢！
+毕竟是约会嘛……",translated,依恩,c9501229f5,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#26#12,そ、それじゃ…えっと……。,那、那么……呃……,translated,依恩,69a5194d6e,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#28#12,これに、着替えて……と…。,换上这件……好啦……,translated,依恩,c7828c2d87,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#36#12,そうだ、これにしよっと……。,对啦，就选这件吧……,translated,依恩,a6add28a15,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#43#12,"…でも、わたし今着てるのしか
+持ってないよぅ……。","……可是，我除了现在身上穿的这件
+就没有别的衣服了呀……",translated,依恩,b782e0cc62,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#44#12,仕方ない、このままで行こう……。,没办法，就穿这个去吧……,translated,依恩,23dd9b0ab0,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#49#12,おまたせ～♪,久等啦～♪,translated,依恩,a17ce62072,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#54#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#55#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#56#12,かわいい！！,太可爱了！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_kigae.txt#58#12,"えへへ…ありがと♪
+わたしもこの服好きだから、嬉しいな。","诶嘿嘿……谢谢你♪
+我也很喜欢这件衣服，好开心哦。",translated,依恩,93894dc723,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_kigae.txt#61#12,"そ、そうなの…？
+なんか、そんなダイレクトに言われたら
+はずかしい…かも…。","是、是吗……？
+被你这么直白地夸奖，
+感觉怪不好意思的……",translated,依恩,ec8f038a0f,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_pt01.txt#2#12,"ねえねえ、気分転換に
+ショッピングセンターに行ってみない？","呐呐，要不要去购物中心
+换换心情呀？",translated,依恩,b96ba4db05,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt01.txt#4#12,"ちょっとだけショッピングセンターに
+行かない？","要不要去购物中心
+稍微逛一逛呀？",translated,依恩,adfb0882b4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt01.txt#6#12,ショッピングセンターを見に行かない？,要不要去购物中心看看呀？,translated,依恩,fd4e926d8d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_pt01.txt#8#12,"ショッピングセンターに行きたいんだけど、
+付き合ってもらえるかな？","我想去购物中心，
+你能陪我一起去吗？",translated,依恩,b72f60289a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt02.txt#2#12,ふぅ～、ただいまー。,呼～，我回来啦――,translated,依恩,be613041d4,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_pt02.txt#4#12,あ～、楽しかったぁ。,啊～，玩得好开心呀。,translated,依恩,e068f53971,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_pt02.txt#6#12,ただいまー。,我回来啦――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_pt03.txt#2#12,"一緒に行ってくれてありがと。
+また行こうね。","谢谢你陪我一起去。
+下次再去哦。",translated,依恩,4c7335eed0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt03.txt#4#12,"今日は付き合ってくれてありがと。
+嬉しかったよ。","今天谢谢你陪我一起去。
+我真的好开心哦。",translated,依恩,91d4d14ee8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt03.txt#6#12,"凄く楽しかったよ。
+また一緒に付き合ってね。","玩得超级开心呢。
+下次还要再陪我一起去哦。",translated,依恩,4fcc72c346,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_pt03.txt#8#12,またウインドウショッピングしに行こうね。,下次再去逛街看橱窗哦。,translated,依恩,176380d545,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#2#12,"それじゃ、準備はいい？
+出発しまーす。","那么，准备好了吗？
+我们要出发喽――",translated,依恩,0ba7a906a1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#4#12,"……わ、わかってはいたけど、
+やっぱり緊張するね。","……虽、虽然早就做好了心理准备，
+但果然还是好紧张呢。",translated,依恩,d50374e944,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#5#12,とにかく、色々見てみようよ。,总之，先到处逛逛看吧。,translated,依恩,6d6a0db294,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#7#12,"……このショッピングセンター、
+本当に凄いよね。","……这家购物中心，
+真的好厉害呀。",translated,依恩,e645ddcc9b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#8#12,"こんなに沢山のお店が入ってて、
+その全てがおしゃれなお店なんだもん。","里面开了这么多家店铺，
+而且每一家都是那么时尚高档呢。",translated,依恩,c96070ebfb,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#9#12,"洋服のお店も、凄くしっかりした服しか
+置いてないみたいで……あれ？","服装店里好像也只陈列着
+质感非常讲究的衣服……咦？",translated,依恩,8eb1b51dc8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#11#12,"よく見ると、カジュアルな感じの服も
+売ってるみたい。","仔细一看，好像也有在卖
+休闲风格的衣服呢。",translated,依恩,0fd7faf5c8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#12#12,"それでも、普通のお店で売ってるような物と
+比べると、やっぱりおしゃれな感じだね。","即便如此，跟普通店铺里卖的衣服相比，
+果然还是显得非常时尚呢。",translated,依恩,a146cfe7b4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#13#12,"でも、フォーマルな服の方が
+圧倒的に多いね。","不过，正式礼服风格的服装
+还是占了压倒性的多数呢。",translated,依恩,c0d0d9946e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#15#12,"わたしの普段着を考えると、
+大人っぽいフォーマルな服は
+似合わないかも……。","考虑到我平时的穿衣风格，
+这种成熟端庄的正式礼服
+可能不太适合我呢……",translated,依恩,9f6ed2da85,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s01.txt#17#12,意外と似合いそう,我觉得意外地会很合适哦,translated,,9c4903bb5e,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#18#12,カジュアルな服が似合う,还是休闲风格的衣服更适合你,translated,,a8e4508f30,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#21#12,"そ、そうかな？
+大人っぽい服だから、あんまり自信ないよ。","是、是这样吗？
+因为是偏成熟的衣服，我没什么自信呢。",translated,依恩,56d03dbdd5,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#22#12,"……でも、そういう風に言ってもらえると、
+やっぱり嬉しいな、えへへ。","……不过，能听你这么夸我，
+果然还是好开心呀，诶嘿嘿。",translated,依恩,2647d8b749,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#26#12,"うん、やっぱり普段から着慣れてる服が
+一番似合うよね。","嗯，果然还是平时穿惯了的衣服
+才最适合我呢。",translated,依恩,04933e4eb1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#29#12,わぁ、何だか凄くいい匂いがするよぉ！,哇，总觉得飘来了一股超级香的味道哦！,translated,依恩,549b62f4f5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#30#12,"これは……あそこのレストランからの
+匂いだね。","这是……从那边那家餐厅
+飘过来的香味呢。",translated,依恩,48d645e657,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#32#12,"やっぱり、他のお店と同じでレストランも
+凄くおしゃれな雰囲気だよ。","果然和其他店铺一样，这家餐厅
+也洋溢着非常时尚的气氛呢。",translated,依恩,442db62902,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#33#12,"メニューに載ってる料理も、
+高級な感じの料理ばかりだし。","菜单上登载的料理，
+也全都是些看起来很高档的菜品呢。",translated,依恩,3ff63ae88a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#34#12,でも、どれも凄く美味しそうだね。,不过每一道看起来都超级美味呢。,translated,依恩,afea75097f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#35#12,"あなたはこのメニューの中では、
+どれが美味しそうだと思う？","这份菜单里的菜，
+你觉得哪一道看起来最好吃？",translated,依恩,0bb2be787d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#37#12,チーズインデミグラスハンバーグ,奶酪夹心多蜜酱汉堡排,translated,,e262d9435c,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#38#12,シーザーサラダ,凯撒沙拉,translated,,bf97824af3,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#41#12,"うっ……な、名前聞いただけで
+凄く美味しいのがわかるね。","唔……光、光是听名字，
+就知道肯定超级好吃了呢。",translated,依恩,7b43a964a0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#42#12,"きっとわたしが想像してる以上に
+美味しいんだろうなぁ……。","味道肯定会比我想象中的
+还要更加美味吧……",translated,依恩,959e08ca43,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#46#12,さっぱりしてて凄く美味しいよね。,口感清脆爽口，超级好吃的对吧。,translated,依恩,53ad11c25f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#47#12,"わたし、あの上に乗ってるクルトンが
+好きなの。","我特别喜欢洒在上面的
+脆烤面包丁呢。",translated,依恩,da5dbb7cfa,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#49#12,……食べたいけど、今日はやめておくよ。,……虽然很想吃，但今天就先算了。,translated,依恩,97af4dc60f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#50#12,"あまりお腹が空いてない状態で食べるのは、
+ちょっと勿体無い気もするし。","在肚子不太饿的状态下去吃的话，
+总觉得稍微有点浪费呢。",translated,依恩,e0563316de,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#51#12,"また今度、お腹が空いてる時に
+入ってみるね。","等下次肚子饿的时候，
+我再进去尝尝看吧。",translated,依恩,f3f542fc27,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#53#12,ふぅ……今日はそろそろ帰ろうかな？,呼……今天差不多该回去了吧？,translated,依恩,450cfaf02d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#55#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#56#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s01.txt#62#12,"あなたがいてくれたおかげで、
+あまり緊張しないで見れたよ。","多亏有你陪在我身边，
+我才能没那么紧张地逛了一圈呢。",translated,依恩,802349d0a7,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s01.txt#67#14,"ショッピングセンター
+すごかった～♪
+次は何か食べたいな♪","购物中心
+太棒啦～♪
+下次想吃点什么呢♪",translated,,9cfa605cf1,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s01.txt#68#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s02.txt#2#12,それじゃ、早速行ってみようか。,那么，这就立刻出发去看看吧。,translated,依恩,d3a8a4e984,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#4#12,……あ、あれ？,……咦、咦？,translated,依恩,c377f5e95d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#5#12,"ここって、前に来たショッピングセンター
+……かな？","这里是之前来过的购物中心
+……对吧？",translated,依恩,ac606bb85f,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#6#12,"いろんなおしゃれなお店があるし、
+間違いないよね。","有这么多时尚高雅的店铺，
+肯定不会有错的呢。",translated,依恩,a54be07c59,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#7#12,"でもやっぱり、煌びやかっていうか、
+おしゃれっていうか。
+凄く場違いな感じがする……。","但果然还是太璀璨夺目了，
+或者说太时尚了。
+让人感觉自己完全格格不入……",translated,依恩,8ae0bdc7de,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#8#12,"……ま、まあ、少し見て歩いていれば
+慣れてくるかもしれないし……。
+とりあえず、行ってみよっか？","……嘛、嘛，稍微逛一逛走一走的话
+说不定就能慢慢习惯了……
+总之，我们走吧？",translated,依恩,8ff6c5612b,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#11#12,"なんか、本当にどこもかしこも
+おしゃれなお店ばかりだね。","总觉得真的是走到哪里，
+全都是些格外时尚高级的店铺呢。",translated,依恩,b9d36b41af,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#12#12,"服を売ってる店も、ブティック、って
+感じの高級なお店ばっかりだし。","卖衣服的店也都是些
+高级精品买手店风格的商铺。",translated,依恩,100cf5cdff,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#13#12,"スウェットとかジャージとか、
+パーカーなんかも売ってなさそうだよ。","感觉连卫裤、运动服或者连帽衫
+这类的衣服都完全买不到呢。",translated,依恩,73f9912366,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#14#12,"こっちのアクセサリーのお店は……
+うわっ、値札の桁が凄いことになってるし！","这边的饰品店是……
+哇啊，价格标签上的位数也太吓人了吧！",translated,依恩,98cc69cae1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#15#12,"……オシャレ過ぎて場違いだと思ったけど、
+金額的にも、わたしには場違いみたい。","……本以为只是太时尚而格格不入，
+看来从价格上来说我也同样格格不入呢。",translated,依恩,1f0fb071c1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#16#12,"……あなたはこういうところ、慣れてるの？
+緊張とかしない？","……你对这种地方，已经习惯了吗？
+会不会觉得紧张呀？",translated,依恩,060f19d6e8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#18#12,普通じゃないか？,不是很平常吗？,translated,,288fea21db,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#19#12,きゅ、急に声かけないでよ！,别、别突然跟我搭话啦！,translated,,0fb50ea902,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#21#12,"そ、そうなの？
+……あなたって、凄い人なんだね。","是、是这样吗？
+……你这个人，可真厉害呢。",translated,依恩,ea4f9c5833,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#22#12,"わたしなんか、慣れてないからさっきから
+ずっとソワソワしちゃってるよ……。","像我因为不习惯，从刚才开始
+就一直坐立不安的呢……",translated,依恩,86c326728a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#23#12,"でも、あなたまで緊張しないでいてくれて
+助かっちゃった。","不过，幸好你没有跟着我一起紧张，
+帮大忙啦。",translated,依恩,668fc4ec57,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#24#12,"頼りがいがある人が一緒にいてくれると、
+心強いね。","身边能有个可靠的人陪着，
+真的很让人安心呢。",translated,依恩,dcef12cfc4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#25#12,えへへ、頼りにしてるよー。,诶嘿嘿，我可指望你啦――,translated,依恩,c12c1311ed,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#28#12,い、いくらなんでも緊張し過ぎだよ！,再、再怎么说你也紧张过头了吧！,translated,依恩,1f895bd737,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#29#12,"あなたって、わたし以上にこういう場所に
+免疫ないんだね……。","看来你比我还要更加对这种地方
+没有免疫力呢……",translated,依恩,19b6d0c341,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#30#12,"……くすっ。
+あ、ごめんね。","……噗嗤。
+啊，对不起哦。",translated,依恩,8b245dd7fc,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#31#12,"あなたがすごく驚くから、
+何か少しおかしくなっちゃって。","因为你刚才吓了一大跳的样子，
+让我忍不住觉得有点好笑呢。",translated,依恩,1fd8e8ec59,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#32#12,"あ、面白がってなんかいないよ！
+むしろ、緊張がほぐれて助かっちゃった。
+……ありがとね。","啊，我绝对没有嘲笑你的意思哦！
+倒不如说多亏这样让我放松下来了。
+……谢谢你啦。",translated,依恩,8f82168c67,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#34#12,"……でも、ここって何をすれば
+いいんだろうね？","……不过，在这里到底
+该做些什么好呢？",translated,依恩,b981f271bf,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#35#12,"一応ショッピングセンターなんだから、
+買い物をする場所……だよね。","毕竟名义上是购物中心，
+应该是买东西的地方……对吧。",translated,依恩,ce5e5de81f,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#36#12,"でも、もしここで何か買ったとしても、
+持って帰ることはできないわけで……。","可是，就算在这里买了什么东西，
+也没办法带回去对吧……",translated,依恩,ec0d89a805,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#38#12,"ほら、パーツ屋でわたしがやったこと、
+あなたも覚えてるでしょ？","你看，之前在零件店我做的那件事，
+你应该也还记得吧？",translated,依恩,49ee92ec72,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#39#12,"……欲しいものを見つけても、
+それを持って帰れないんじゃ
+買い物しても意味がないもん。","……就算找到了想要的东西，
+要是带不回去的话，
+买下来也没有意义嘛。",translated,依恩,389c43ad3e,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#42#12,"ショッピングセンターに来て買い物が
+できないのって、ちょっとした意地悪
+みたいだね……。","特意来到购物中心却不能买东西，
+总觉得稍微有点像是在故意
+捉弄人一样呢……",translated,依恩,eb91a8bbee,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#43#12,"まあ、ちょっとおしゃれ過ぎるお店ばかり
+だから、そう簡単に買い物できる場所では
+ないのも事実なんだけど……。","嘛，虽然这里的店铺全都太过高档，
+本身就不是能随随便便买东西的地方，
+这也是事实就是了……",translated,依恩,45ad799488,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#44#12,"で、でも、やっぱりお買い物したいよね？
+わたしはしたい！","可、可是，果然还是想买东西对吧？
+反正我是很想买！",translated,依恩,03db0f179b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#46#12,また泣くことになるような……,感觉结果又会哭鼻子的……,translated,,f72d27a9b2,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#47#12,せめて気分だけでも買い物しようか,至少在心情上享受一下购物吧,translated,,25f1c34534,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#49#12,う～ん……それはないと思うよ？,唔～……我觉得应该不至于啦？,translated,依恩,9b3996ca59,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#50#12,"だってわたし、おしゃれな服とか小物って、
+よくわからないし。","毕竟我对时尚的衣服或小物件，
+其实完全搞不懂嘛。",translated,依恩,b6eaf5f953,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#51#12,"レトロな真空管とか、何か凄そうだけど
+壊れて動かない激安ジャンク品の機械とかに
+ときめいちゃう人だもん！","我可是会对怀旧真空管，
+或是看似很厉害却坏掉不转的超便宜废品机械
+怦然心动的人呀！",translated,依恩,a6e4cf3b46,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#52#12,"……うぅ、自分で言ってて
+少し悲しくなってきちゃった……。","……呜呜，我自己嘴上这么说，
+都有点觉得悲伤起来了……",translated,依恩,0334727cb3,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#53#12,"で、でも好きなのは本当だから、
+後悔はしてないもん！","可、可是我喜欢这些是千真万确的，
+我才不会后悔呢！",translated,依恩,adcb6ca17e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#56#12,"そうだよ！気分だけなら
+持って帰ることもできるんだし！","说得对！光是心情的话，
+也是能够带回去的嘛！",translated,依恩,c496c9472b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#57#12,"要はほら、形が残らない
+買い物をすればいいんじゃない？","也就是说，你看，
+只要买不留实物形态的东西不就好啦？",translated,依恩,e61e559d21,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#58#12,例えば……レストランでお食事するとか！,比如说……在餐厅吃顿大餐！,translated,依恩,3cc7a0e697,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#59#12,"現実に戻った時に満腹にはならないけど、
+味は楽しめるし、それに食べた気分も持って
+帰ることができるし。","虽然回到现实中肚子不会吃饱，
+但能享受到美味，而且吃过大餐的美好心情
+也同样能够带回去嘛。",translated,依恩,c67f4403ae,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#60#12,"どうどう？ナイスアイデアだと思わない？
+えへへ、これなら楽しめそうだね。","怎么样怎么样？不觉得是个绝妙的点子吗？
+诶嘿嘿，这样一来就能玩得开心啦。",translated,依恩,8678460924,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#62#12,あっ、そうだ、いいこと思いついた！,啊，对啦，我想到了一个好主意！,translated,依恩,829a178c71,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#63#12,"ほら、こういうショッピングセンターって、
+どのお店でも使えるポイントカードが
+あるでしょ？","你看，像这种大型购物中心，
+一般都会有在所有店铺都能通用的
+积分卡对吧？",translated,依恩,5cd48e7699,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#64#12,"それがあれば、どんなものを買っても
+その証拠がポイントとして残るよね！","只要有那个，不管买了什么东西，
+都能作为积分证据留存下来呢！",translated,依恩,df016af0ee,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#65#12,"あ、でもここでポイントカードを
+貰っても、カードを持って帰れなくちゃ
+意味がないか……。","啊，可是在这里就算拿到积分卡，
+要是带不回去的话
+也就没有意义了呀……",translated,依恩,0f19e6976d,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#66#12,……となると、自分で作るしかない、かな？,……这么一来，就只能由我自己来做啦？,translated,依恩,54e8217ce1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#67#12,"仮想世界で買い物をすると、その記録が
+カードに記憶されるようにすれば、
+ばっちりだよね。","只要设计成在虚拟世界买东西时，
+能够把记录储存到卡片里，
+那就万无一失了对吧。",translated,依恩,bd8290c961,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#68#12,"それなら多分……
+うん、簡単に作れそう！","那样的话大概……
+嗯，感觉很轻松就能做出来！",translated,依恩,4e221010b8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#70#12,"よぉし、決まりだね！
+そうと決まれば今日はもう帰らないと！","好嘞，那就这么决定啦！
+既然定好了，今天就得赶紧回去才行！",translated,依恩,55afc3c16e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#72#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#73#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#77#12,"戻ったらすぐにレシピを渡すね。
+それじゃ、戻りまーす！","回去之后我就立刻把配方交给你哦。
+那么，这就回去喽――！",translated,依恩,a8a8684d9a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#79#12,たっだいまー！,我回来啦――！,translated,依恩,cfdb88f086,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#80#12,"ふぅ～……おしゃれな物に囲まれて
+緊張したせいかな？
+なんだか凄く疲れた気がする……。","呼～……也许是被那么多时尚物品
+包围着太紧张了吧？
+总觉得整个人都精疲力竭了呢……",translated,依恩,47d35f4421,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s02.txt#81#12,"でも、ああいうおしゃれな場所って
+新鮮で、見てて楽しかったよ。","不过，那种时尚高雅的场所很有新鲜感，
+逛起来非常开心哦。",translated,依恩,6595da7585,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#82#12,"ま、まあ、緊張してそわそわしてたから、
+そうは見えなかったかもしれないけど。","嘛、嘛，虽然因为太紧张而局促不安，
+看起来可能不太像很开心的样子就是啦。",translated,依恩,3a45f5ea22,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#83#12,"……うん、次はもう少し
+余裕を持って回れるように頑張る。","……嗯，下次我会努力做到
+更加从容地去逛逛看。",translated,依恩,ca70214bbd,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#84#12,と、とにかく、レシピを渡すね。,总、总之，先把配方交给你吧。,translated,依恩,f88fc7f803,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s02.txt#85#12,"はい、これ。
+今度行く時はこれを持って行こうね。","给，这个。
+下次去的时候我们把这个带上吧。",translated,依恩,ea6089a4a3,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#87#12,"<CLY2>レシピ【カード？】が
+追加されました。","<CLY2>已追加配方
+【卡片？】。",translated,系统文本,c7636db910,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents03/shop_s02.txt#92#14,"おしゃれな場所って
+新鮮で楽しい♪","时尚的地方
+既新鲜又好玩♪",translated,,7f712e284b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s02.txt#93#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s03.txt#2#12,"それじゃ、ちょっと緊張するけど……
+行くよー。","那么，虽然有点紧张……
+我们要出发喽――",translated,依恩,7157486995,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#4#12,"……あれ？
+今日はちょっと人が少ないかも。","……咦？
+今天人好像稍微有点少呢。",translated,依恩,5fc688bf4b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#5#12,"どうしたのかな？
+いつもはどこを見ても人でいっぱいなのに。","怎么回事呢？
+平时无论看哪里都挤满了人呢。",translated,依恩,96a271d6bc,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#6#12,"お店もガラガラだし……あれ？
+何だろう、看板が立ってる。","店铺里也都空空荡荡的……咦？
+那是什么，立着一块告示牌。",translated,依恩,f3fa6cb538,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#7#12,えっと……大売りつくしセール、明日から？,呃……全场清仓大促销，明天开始？,translated,依恩,ffe2da09a9,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#8#12,"……なるほど。
+そういうことだったんだね。","……原来如此。
+原来是这么一回事呀。",translated,依恩,e2c309fa65,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#10#12,"セールが始まる前日なら、
+これだけ空いてても不思議じゃないね。","要是大促销开始的前一天，
+这么冷清也就不奇怪了呢。",translated,依恩,fa637d2432,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#11#12,"ちょっと寂しい感じもするけど、
+お店の人達にとっては、
+嵐の前の静けさなのかな。","虽然感觉稍微有点冷清，
+但对店员们来说，
+应该算是暴风雨前的宁静吧。",translated,依恩,bda1df8c5c,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s03.txt#12#12,う～ん、セールかぁ……。,唔～，大促销呀……,translated,依恩,daa428df06,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#13#12,"ちょっと、興味あるかも。
+セール期間中に、来てみたいなぁ。","我稍微有点感兴趣呢。
+真想在促销期间也来看看呀。",translated,依恩,38ef8eb2d0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#15#12,掘り出し物探しに？,是想来淘宝贝吗？,translated,,1f81dcde47,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#16#12,大量買いに？,是想来大肆扫货吗？,translated,,c3d0a95fc5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#19#12,"普通だったら買えない高い物が、
+ビックリするくらい値下がりしてるのを
+見つけるのって、楽しいよね。","要是能发现平时买不起的高档商品
+大降价到让人吃惊的程度，
+那种感觉一定会很有趣吧。",translated,依恩,5cbe0ae99a,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s03.txt#23#12,"やっぱりいい物が安くなった時に、
+買いだめはしておきたいかな。","果然还是会想趁着好东西降价时，
+好好多囤一点货呢。",translated,依恩,c3a7dc9c58,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#24#12,それが、セールの醍醐味だと思うよ。,我觉得这就是大减价的魅力所在哦。,translated,依恩,63c3f4c43a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#27#12,"……うわっ、更に閑散としてる場所を
+発見しちゃったよ。","……哇啊，发现了一个
+更加冷冷清清的地方哦。",translated,依恩,56f5888c0f,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#28#12,"フードコート……。
+いつもは学生さんや親子連れとかで
+賑わってるのに、今日は誰もいないよ。","美食广场……
+平时明明总是挤满了学生和家庭顾客，
+今天却一个人都没有呢。",translated,依恩,128ea8ed5f,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s03.txt#29#12,何だか、ちょっと怖い感じも……。,总觉得稍微有一点吓人呢……,translated,依恩,b4f2429c96,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#30#12,……でもこれ、貸切のチャンスだよね？,……不过这岂不是包场的大好机会吗？,translated,依恩,5ab6cdf2a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#31#12,"ねえねえ、せっかくだから
+何か食べていこうよ。","呐呐，难得碰上这种机会，
+我们去吃点东西吧。",translated,依恩,c6c522e0a4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#32#12,"フードコートで貸切気分を楽しめるなんて、
+珍しいんだし。","能在美食广场体验包场的感觉，
+可是非常罕见的呢。",translated,依恩,9d9b0796ec,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#33#12,う～ん、何を食べようかなぁ？,唔～，吃点什么好呢？,translated,依恩,a72d41e3de,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#35#12,バナナクレープ,香蕉可丽饼,translated,,11170142a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#36#12,ピリ辛ラーメン,微辣拉面,translated,,f46e2351f2,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#39#12,"えへへ、フードコートの定番といえば、
+やっぱりクレープだよね。","诶嘿嘿，说到美食广场的经典必点，
+果然还是可丽饼呢。",translated,依恩,43bd968630,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#43#12,"こういうところのラーメンって、
+意外と美味しかったりするんだよね。","这种地方的拉面，
+其实意外地很好吃呢。",translated,依恩,7215b08c6c,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s03.txt#45#12,よーし、決まり！,好――，决定啦！,translated,依恩,6a5d9b9c92,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#46#12,それじゃ、注文しに行ってくるね。,那我这就去点餐啦。,translated,依恩,96c6573fd0,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#48#12,待って！　もっと見つめていたいから,等等！我还想再多注视你一会儿,translated,,1725d3a505,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#49#12,行ってらっしゃい,路上小心哦,translated,,41e6db3620,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s03.txt#55#12,"えへへ、貸しきり状態だったからかな？
+凄くリッチな食事をしているような
+気分だったよ。","诶嘿嘿，可能是因为包场了吧？
+总觉得自己享受了一顿
+超级奢华的大餐呢。",translated,依恩,94ca065b25,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s03.txt#60#14,"貸しきり状態の
+フードコートで食事♪
+おいしかった～♪","在包场状态的
+美食广场吃饭♪
+太美味啦～♪",translated,,b7c9935f7f,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s03.txt#61#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s04.txt#2#12,それじゃ、出発するよー。,那么，这就出发喽――,translated,依恩,ff5d968efa,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#4#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#5#12,"わぁ、今日はレストランばっかりの場所に
+出ちゃったみたい。","哇，今天好像逛到了
+全是餐厅的聚集区呢。",translated,依恩,c96c91e0b2,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#7#12,"このショッピングセンター、
+レストランが入ってるのは知ってたけど、
+こんなに沢山あったんだね。","我虽然知道这家购物中心里有餐厅，
+但没想到
+居然有这么多家呢。",translated,依恩,a30d1a43a6,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s04.txt#8#12,"こっちはハンバーグ屋さんで、
+向かいにあるのがお蕎麦屋さん、
+その隣は、定食屋さん？","这边是汉堡排餐厅，
+对面是荞麦面店，
+旁边那家是定食屋？",translated,依恩,075583ff62,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s04.txt#9#12,"高級なお店しか入ってないと思ってたけど、
+こういうお店も入ってたんだね。","我本来以为全都是高档豪华的餐厅，
+原来也有这种接地气的店铺呢。",translated,依恩,85f3c187f7,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#10#12,えへへ、ちょっと安心しちゃった。,嘿嘿，总算稍微放下心来了。,translated,依恩,c4fc2a9009,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#11#12,……あっ、美味しそうなの発見！,……啊，发现看起来很好吃的东西了！,translated,依恩,762d330ee0,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#13#12,冷しゃぶサラダ,冷涮肉沙拉,translated,,aec6826c24,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#14#12,味噌バターラーメン,味噌黄油拉面,translated,,f788b79708,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#17#12,"意外とお肉が多いけど、ポン酢がかかってる
+からさっぱりと食べれるのがいいよね。","肉比想象中的多，但因为淋了果醋酱汁，
+所以吃起来格外清爽解腻呢。",translated,依恩,9dbf7f2f62,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#21#12,"バターの入った味噌ラーメンって、
+味が濃厚になって凄く美味しいよね。","加入了黄油的味噌拉面，
+汤头变得非常浓郁醇厚，超美味呢。",translated,依恩,b8f80e6f36,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#24#12,"……なんだか、
+見てたらお腹が空いてきちゃった。","……总觉得，
+光是看着肚子就饿起来了。",translated,依恩,6edb675f68,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#25#12,"今日は結構空いてるし、
+食事をしていっちゃおうか？","今天店里挺空的，
+我们要不要直接在这里吃顿饭呢？",translated,依恩,9ab9dbb62b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#26#12,"でも、せっかくなら普段入らない
+お店がいいよね。","不过难得来一次，
+还是挑平时不去进的店比较好吧。",translated,依恩,c76d3b6ce0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#27#12,"いつも行ってるようなお店に入るより、
+新しい何かを開拓出来るかもしれないし。","比起进平时常去的店，
+说不定能开拓出一些全新的美味呢。",translated,依恩,08fbdaaa8a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#28#12,そうなると、どこのお店がいいかなぁ？,这样的话，挑哪家店好呢？,translated,依恩,f137559a13,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#30#12,料亭風レストラン,料亭风高级餐厅,translated,,bcbf42b10d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#31#12,立ち食い蕎麦屋,立食荞麦面店,translated,,4fce5402ba,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#34#12,"ちょ、ちょっと緊張するけど、
+開拓するならこれくらい凄いお店に
+入るのも悪くないよね？","虽、虽然稍微有点紧张，
+但既然要开拓新领域，
+进这么厉害的店也不错对吧？",translated,依恩,71624be5b1,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s04.txt#38#12,"そういえば、立ち食いのお店って
+入ったことがなかったような気がするよ。","说起来，我好像从来没有
+进过站着吃的店铺呢。",translated,依恩,58d183022f,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#40#12,よーし、今日はこのお店で食事をしようよ。,好――，今天就在这家店吃饭吧。,translated,依恩,288ccf390c,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#41#12,それじゃ、入ろうか。,那么，我们进去吧。,translated,依恩,ca3f5b2a4b,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#43#12,待って！　もっと見つめていたいから,等等！我还想再多注视你一会儿,translated,,1725d3a505,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#44#12,そうだね,好啊,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s04.txt#50#12,"えへへ、想像してたよりも美味しい物を
+見つけられて、大満足だよ。","诶嘿嘿，找到了比想象中还要美味的食物，
+真是大满足呀。",translated,依恩,de38965858,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s04.txt#55#14,"レストランで
+いつもと違った食事。
+大満足だよ♪","在餐厅里
+吃了一顿和平时不一样的饭菜。
+超级满足哦♪",translated,,e64b1d266b,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s04.txt#56#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s05.txt#2#12,それじゃ、早速行ってみようか。,那么，这就立刻出发去看看吧。,translated,依恩,d3a8a4e984,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#4#12,……あっ、何だか凄く甘い香りがする。,……啊，总觉得飘来了一股好甜的香气。,translated,依恩,528952e530,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#6#12,"甘い香りって言っても、
+食べ物じゃないよ？","虽说是甜甜的香气，
+但可不是食物哦？",translated,依恩,95cf5d2c44,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#7#12,"これは化粧品の香りみたい。
+周りを見てみると、
+そういうお店ばかり並んでるし。","这好像是化妆品的香气呢。
+看看周围，
+全都是排成一排的化妆品店铺呢。",translated,依恩,f9ebbd7224,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s05.txt#8#12,……化粧品激戦区、なのかな？,……这里是化妆品激战区吗？,translated,依恩,90c7da65d7,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#9#12,"う～ん……わたしにはあんまりよく
+わからないかも。","唔～……我对这方面
+可能看不太懂呢。",translated,依恩,27e8cdfcfa,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#10#12,あんまりお化粧ってしないタイプなの。,我是属于平时基本不怎么化妆的类型呢。,translated,依恩,cca8bc1ff7,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#11#12,"あっでも、化粧品を持っていない、ってわけ
+じゃないからね？","啊不过，并不是说我手头
+完全没有化妆品哦？",translated,依恩,203f1d01c9,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#12#12,わたしだって女の子だもん。,我毕竟也是个女孩子嘛。,translated,依恩,cb779ff30d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#14#12,リップクリームとか？,比如润唇膏之类的？,translated,,b3a3e9d815,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#15#12,一通り全部？,基本一整套都有？,translated,,7a8d945c3c,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#18#12,えへへ……実は、それ以外持ってないの。,诶嘿嘿……其实除了那个我全都没有呢。,translated,依恩,22694824c6,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#19#12,今はそれだけでも困らないしね。,不过现在光有那个也不会觉得不便嘛。,translated,依恩,f2d9c7f1bf,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#23#12,うん、もちろん。,嗯，那是当然。,translated,依恩,8bdfcaca88,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#24#12,"やっぱり一通り用意しておかないと、
+何かあった時に困るかもしれないし。","果然还是得准备一整套才行，
+万一遇到什么特殊情况可能会犯愁呢。",translated,依恩,4e6b1160c3,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#27#12,"あれ？
+何だろう、この張り紙？","咦？
+那张告示是什么呀？",translated,依恩,26cdd96eb8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#28#12,"……無料アイメイク教室？
+簡単ぱっちりメイク、だって。","……免费眼妆体验课？
+写着轻松打造明眸大眼妆呢。",translated,依恩,fc929ba8b0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#29#12,"こんなことまでやってるんだね。
+でも、このチラシに載ってる写真凄いよ。","居然连这种活动都有开展呢。
+不过，这传单上印的照片好厉害呀。",translated,依恩,706a76e9c9,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#30#12,前と後でこんなに違いが出るんだね。,妆前和妆后的变化居然有这么大呢。,translated,依恩,8335c88cb3,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#31#12,"こういうのあまり考えたことないけど、
+ちょっと面白そうかも。","我以前虽然没怎么考虑过这些，
+但感觉稍微有点意思呢。",translated,依恩,96cc380487,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#32#12,"今日はもう終わっちゃったみたいだから、
+今度受けに来てみようかな？","今天的课好像已经结束了，
+下次要不要来听听看呢？",translated,依恩,c596a6d06a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#34#12,今のままがいい,你保持现在的样子就好,translated,,489effbd6f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#35#12,受けてみた方がいい,去听听看比较好哦,translated,,4cbe54416a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#38#12,"う～ん……確かに、考えたことがないのは、
+必要ないってことだもんね。","唔～……确实，之前没考虑过这种事，
+就说明并不是必需品嘛。",translated,依恩,53955fa107,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#39#12,"もっと他に面白そうな教室を見つけたら、
+そっちを受けてみるよ。","等找到其他更有意思的体验课时，
+再去听听看好啦。",translated,依恩,2cbd899b6e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#43#12,うん、何事も挑戦だよね。,嗯，万事都要勇敢尝试嘛。,translated,依恩,602e3bc28d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#45#12,さてと、色々見たし、そろそろ帰ろうか？,好啦，看了好多东西，差不多该回去了吧？,translated,依恩,e35cc4ed0d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#47#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#48#12,行ってらっしゃい,路上小心哦,translated,,41e6db3620,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s05.txt#54#12,"えへへ、まさかわたしが化粧品を見て回る
+なんて、夢にも思わなかったよ。","诶嘿嘿，我居然会四处看化妆品，
+做梦都没想到呢。",translated,依恩,e7de932ae4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#55#12,"でも、おかげで凄く新鮮で楽しかったよ。
+たまには、こういうのもいいね。","不过托你的福，既新鲜又好玩呢。
+偶尔逛逛这种地方也不错呢。",translated,依恩,7b72021046,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s05.txt#60#14,"ショッピングセンター
+で化粧品を見た。
+新鮮で楽しかった♪","在购物中心
+看了化妆品。
+既新鲜又很开心♪",translated,,a14042cf49,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s05.txt#61#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s06.txt#2#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛啦。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#4#12,……ん、到着だね。,……嗯，到达目的地啦。,translated,依恩,c61ec4bf02,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#5#12,あのね、今日は見たいところがあるの。,那个呢，今天我有想看的地方。,translated,依恩,a1219d3525,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#6#12,"あなたが良いって言ってくれるなら、
+見に行きたいな。","如果你答应的话，
+我很想去看看呢。",translated,依恩,f093470caa,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#8#12,いいよ,可以啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#10#12,"ありがと。
+それじゃ、着いてきて。","谢谢你。
+那么，跟紧我哦。",translated,依恩,0e331ca075,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#12#12,"えへへ……何だか、今日はいつもより
+ドキドキしちゃってるかも。","诶嘿嘿……总觉得今天比平时
+还要更加心跳加速呢。",translated,依恩,396bc17456,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#13#12,"初めてここに来た時、おしゃれな場所に
+驚いて、すごくドキドキしてたのを
+覚えてる？","第一次来这里的时候，为时尚的场所
+感到吃惊，心脏噗通噗通直跳的事情，
+你还记得吗？",translated,依恩,4d0d2dfd8f,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s06.txt#14#12,"今日は、あの時とは違うドキドキで、
+胸が苦しいくらいだよ。","今天则是和那时截然不同的心动，
+胸口都甚至有些难受了呢。",translated,依恩,9a46c5486b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#16#12,これから行くところに関係があるの？,和接下来要去的地方有关系吗？,translated,,670ac242c0,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#17#12,体調が悪いの？,身体不舒服吗？,translated,,2114ea22eb,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#19#12,えへへ……多分そうかも。,诶嘿嘿……大概是的呢。,translated,依恩,7bd224f5ac,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#20#12,"そういえば、まだどこに行くのかを
+言ってなかったね。","说起来，我都还没告诉你
+要去哪里呢。",translated,依恩,ecdbf3ea0e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#23#12,"あっ、そうじゃないの。
+心配させちゃってごめんね。","啊，不是身体不舒服啦。
+让你担心了，对不起哦。",translated,依恩,1edad74809,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#24#12,"多分、これから行こうとしてるところに、
+原因があるんじゃないかな？","原因大概是出在
+我们接下来正准备要去的地方吧？",translated,依恩,fa358a86bc,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#26#12,今日はね、服を見に行こうと思ってるの。,今天呢，我是想去看衣服的哦。,translated,依恩,1c9a0337fb,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#27#12,でも買いに行くわけじゃないよ？,不过可不是去买衣服哦？,translated,依恩,a54877021d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#28#12,"ここでいいのを見つけても、
+現実に持って帰ることはできないし。","因为就算在这里找到了好看的衣服，
+也没办法带回现实中嘛。",translated,依恩,cf2267c9f2,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#29#12,"でも、おしゃれな服を見れば、
+今度服を作る時に役に立つと思ったの。","但是只要多看看时尚漂亮的衣服，
+我觉得下次做衣服的时候就能派上用场呢。",translated,依恩,f1e70d6001,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#31#12,今でも十分おしゃれだよ,你现在就已经足够时尚漂亮了哦,translated,,72bbf8b0cb,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#32#12,勉強家だね,真爱钻研好学呢,translated,,45f297f7a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#34#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#35#12,"でも、ちゃんとしたデート用の服って、
+まだ持ってないんだもん。","可是，正经适合约会穿的衣服，
+我手头还一件都没有嘛。",translated,依恩,ef6ff9d038,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#38#12,"えへへ……だって、あなたとのデートを
+すこしでも素敵なものにしたいんだもん。","诶嘿嘿……毕竟我想让你和我的约会
+能够尽可能变得更美好一些嘛。",translated,依恩,b9ed549473,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#39#12,"そのためにも、デート用の服って、
+必要だと思うの。","为此，专门用来约会的衣服
+也是很有必要的对吧。",translated,依恩,feb474d8eb,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#42#12,"やっぱり、デートの時はそれなりに素敵な
+服を着ないと、雰囲気でないでしょ？","约会的时候要是不穿上漂亮的衣服，
+不是就完全没有那种浪漫气氛了吗？",translated,依恩,1032d58e27,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#43#12,今までとは違って、もう、その……。,毕竟和以往不同，我们现在已经，那个……,translated,依恩,6be7d096a1,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#44#12,こ、恋人……なんだし……。,已、已经是恋人……了嘛……,translated,依恩,c87b97d555,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#45#12,"やっぱり、恋人がかっこ悪い服を着てたら、
+あなただって嫌でしょ？","要是自己的恋人穿得土里土气，
+换做是你肯定也会觉得不太好吧？",translated,依恩,14bc5bf79b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#46#12,"わたしだって、あなたに恥を
+かかせるようなこと、したくないもん。","我也不想做出任何
+让你丢脸难堪的事情呀。",translated,依恩,c04dcd2f41,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#47#12,"それに、少しでも自慢したくなるような、
+そんな存在になれたらな、って思うし……。","而且，我也希望能成为
+让你忍不住想四处夸耀的女朋友嘛……",translated,依恩,de791bd605,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#49#12,親に自慢できるくらい素敵だよ,你美好到足以向父母夸耀哦,translated,,ab35773238,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#50#12,独り占めしたいから自慢はしないよ,因为想独占你，所以才不跟别人夸呢,translated,,ca737f7513,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#52#12,そ、それは……やめてもらいたいかも。,那、那个……我还是希望你别跟父母夸呢。,translated,依恩,25c79107c5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#53#12,"もう少し家事を勉強して、おしゃれな服も
+着れるようになってからの方がいいな。","最好还是等我多学学做家务、
+也能穿上更漂亮的衣服之后再说比较好呢。",translated,依恩,970a6326ea,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#54#12,"あなたの親御さんに呆れられちゃったら、
+すごく悲しいもん。","万一被你的父母嫌弃看扁的话，
+我可是会非常伤心的嘛。",translated,依恩,2258d040b8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#58#12,ふ～ん……意外と独占欲強いんだ？,哼～嗯……原来你意外地很有独占欲呀？,translated,依恩,90a266f2ba,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#59#12,"えへへ……でも、独占されるのも、
+悪い気持ちじゃないかも……。","诶嘿嘿……不过被你这样独占着，
+感觉好像也不坏呢……",translated,依恩,a94662fb9e,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#62#12,……もうそろそろ到着するね。,……差不多要到达目的地啦。,translated,依恩,03975492e2,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#63#12,"えへへ、どんな服があるのか楽しみだよ。
+わたしに似合うのがあるといいな。","诶嘿嘿，真期待会有什么样的衣服呢。
+要是能有适合我的款式就好啦。",translated,依恩,89368c3cf1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#64#12,"う～ん……可愛い系か、綺麗系か……。
+デートにはどっちがいいのかな？","唔～……是可爱风好，还是成熟优雅风好呢……
+约会选哪种风格更好呢？",translated,依恩,0c24f2e6c0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#65#12,"わたしとしては、あんまり綺麗過ぎる
+大人の服は似合わないと思うし……。","作为我自己来说，感觉太成熟优雅的
+大人风格不太适合我呢……",translated,依恩,ef9089eb62,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#66#12,……あっ、そうだ！,……啊，对啦！,translated,依恩,19f35125d3,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#67#12,"ねえねえ、あなたの普段着ている服って、
+どんな感じなのか教えて。","呐呐，告诉我你平时常穿的衣服
+大概都是些什么样子的好不好？",translated,依恩,d844a870d4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#69#12,派手な感じ,比较花哨显眼的风格,translated,,3828eb1fe7,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#70#12,地味な感じ,比较朴素低调的风格,translated,,fcb24b9bb2,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#72#12,"派手系の服？
+ちょっと意外かも。","比较显眼花哨的衣服？
+感觉稍微有点意外呢。",translated,依恩,0842af0512,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#75#12,"地味系の服だね？
+教えてくれてありがと。","是朴素低调的衣服对吧？
+谢谢你告诉我哦。",translated,依恩,990deae492,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#77#12,"じゃあ、わたしもそれに合わせた服を
+中心に見てみようかな？","那我挑选衣服时，也以能和你搭配的款式
+为主来着重看看吧？",translated,依恩,43e42130fe,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#78#12,"本当は、あなたの着ている服と同じものを
+作って、ペアルックとかにしてみたいの。","其实我一直很想做出和你一样的衣服，
+来穿情侣装呢。",translated,依恩,ba1dcdcea0,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#79#12,"実際にあなたの着ている服を見れたら、
+同じ服を作れたけど、こっちからは
+見えないでしょ？","要是能亲眼看到你穿的衣服，
+虽然就能做出情侣装了，
+但我这边又看不到对吧？",translated,依恩,2dbd4dce99,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s06.txt#80#12,"だから、雰囲気だけでも同じものを
+着ようかな、って思ったの。","所以我就想着，哪怕只是在氛围风格上，
+穿上相同的衣服也挺好的。",translated,依恩,1855799837,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#81#12,"あっ、もしくはあなたがわたしと同じ服を
+着る、って方法もあるかな？","啊，或者反过来由你穿上
+和我一样的衣服，这种方法也可以哦？",translated,依恩,6cd411387a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#82#12,なんてね、えへへ……。,开玩笑的啦，诶嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#84#12,"はい、とうちゃーく。
+それじゃ、早速見てみるね。","好啦，到――达。
+那么，这就立刻去看看吧。",translated,依恩,028f152282,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#89#12,"ふぅ……ちょっと、色んな服を見過ぎて
+目が回っちゃったかも。","呼……看了太多各种各样的衣服，
+眼睛都有点转不过来了呢。",translated,依恩,c8ecdce35d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#90#12,"でも、今後のデートに着ていける
+服作りの参考になったよ。","不过，对今后约会穿的
+衣服制作很有参考价值哦。",translated,依恩,d4bc997ac1,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#91#12,それじゃ、今日はそろそろ帰ろうか？,那么，今天就差不多该回去啦？,translated,依恩,4bb2fd5b90,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#93#12,もう少し一緒にいたい,还想和你再多待一会儿,translated,,42da148f6a,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#94#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s06.txt#100#12,"えへへ、デートに良さそうな服、
+しっかりチェックしてきたよ。","诶嘿嘿，适合约会穿的漂亮衣服，
+我已经仔细考察过一遍啦。",translated,依恩,f328eccad6,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#101#12,"いつになるかはわからないけど、
+今日見た服を参考にレシピを
+作れたらいいな。","虽然不知道会是什么时候，
+但要是能参考今天看到的衣服
+做出新配方就好了呢。",translated,依恩,74a71348fd,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s06.txt#106#14,"目指せ、あなたとの
+ペアルック♪","目标是与你一起
+穿情侣装♪",translated,,34a98ad083,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s06.txt#107#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s07.txt#2#12,それじゃ、出発しよ！,那么，这就出发吧！,translated,依恩,feb91d021f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#4#12,う～ん……今日はどこを見ようか？,唔～……今天逛哪里好呢？,translated,依恩,04d1d46cbd,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#6#12,"考えてみると、ショッピングセンターに
+来るようになってから、結構経ったよね？","仔细想想，从我们开始常来购物中心，
+已经过去相当长的时间了吧？",translated,依恩,c33c64a0bd,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#7#12,"初めて来た頃は、ブティックや普通のお店に
+入るのさえ、おしゃれだから怖い、なんて
+思ってたのに……。","刚开始来的时候，哪怕只是进
+精品店或普通小店，我都还觉得
+太时尚了很害怕呢……",translated,依恩,a69a326635,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#8#12,"えへへ……思い出してみると、
+ちょっと懐かしいよね？","诶嘿嘿……现在回想起来，
+感觉稍微有点怀念呢？",translated,依恩,4bfef9b366,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#9#12,"それに、ここって広いから何回来ても
+楽しめると思ってたけど……。","而且，这里原本那么宽敞，我以为
+不管来多少次都能玩得很尽兴的……",translated,依恩,edf1c35c63,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#10#12,"やっぱり、ちょっと見飽きた感が
+出てきちゃったかも。","但果然还是稍微有点
+看腻了的感觉呢。",translated,依恩,5379fab03b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#11#12,面白くないとか、そういう意味じゃないよ？,我并不是说这里无聊的意思哦？,translated,依恩,097ef80389,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#12#12,"ただ、ここのところブティックも小物屋も、
+置いてある物が全然変わってないから、
+それも原因の一つかも……。","只是最近不管是精品店还是小饰品店，
+陈列的商品都完全没有变化，
+这可能也是原因之一吧……",translated,依恩,f45192ea2a,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#13#12,"目新しい物が見たいわけじゃないけど、
+もう少し頻繁に商品の入れ替えをして
+ほしいな……。","倒不是非要看什么标新立异的东西，
+但还是希望店家能够
+更频繁地换换新商品呢……",translated,依恩,1504c5fc50,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#15#12,掘り出し物でも探す？,要不要去找找冷门的好宝贝？,translated,,2ce10c20da,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#16#12,その気持ち、わかるかも,那种心情，我或许能理解呢,translated,,02fad5e7e9,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#18#12,わたしもそれは考えてみたの。,我也考虑过那个主意呢。,translated,依恩,0f7711bf54,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#19#12,"でも、掘り出し物を見つけたとしても、
+持って帰れないから……。","可是，就算找到了宝贝好物，
+也没法带回去嘛……",translated,依恩,849e9cf5e3,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#20#12,"これもショッピングセンターに来て
+素直に喜べない一因なの。","这也是来到购物中心却无法
+发自内心感到高兴的原因之一呢。",translated,依恩,fde3c4bcac,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#23#12,"そうだよね？
+やっぱり、少しは変化がほしいよね？","对吧？
+果然还是希望稍微能有点变化吧？",translated,依恩,f63271976d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#24#12,"並んでる小物が少し変わってたり、
+飾ってある服が変わってたり……。","比如摆在架子上的小饰品换一换，
+橱窗里展示的衣服换一换之类的……",translated,依恩,3f63d6d976,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#25#12,"それくらいの変化でも、見ている方としては
+十分興味がわいてくるのに……。","光是这种程度的改变，作为看客的我
+就能提起极大的兴趣了呢……",translated,依恩,4e1258a632,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#28#12,あとは、その……。,还有就是，那个……,translated,依恩,d5ba13dca4,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#29#12,"デートなら、もう少し雰囲気のある場所に
+行ってみたいかなぁ、なんて……。","既然是约会，我想去稍微更加
+有情调一点的地方呢……",translated,依恩,1acf8f5cf4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#30#12,"ここも、また商品が入れ替わったら
+楽しいと思うの。","这里要是等商品更新换代了，
+我觉得肯定也会很好玩的。",translated,依恩,b4485d6df9,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#31#12,"でも、もうちょっと静かなところ、
+っていうか、雰囲気のいいところ、
+っていうか……。","不过，稍微再安静一点的地方，
+或者说更有情调的地方，
+该怎么说呢……",translated,依恩,9d5ef948a7,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#32#12,"……二人きりになれるようなところが、
+いいかなぁ、なんて……。","……要是能只有我们两个人独处的地方，
+就更好啦……",translated,依恩,dd2bdca37a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#33#12,"えへへ……最近ね、そういう場所中心の
+デートに憧れてるの。","诶嘿嘿……最近呀，我很憧憬去那种
+充满情调的私密地点约会呢。",translated,依恩,b727ad4c0b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#34#12,それって、変かな？,这样想会不会很奇怪呀？,translated,依恩,41fb0bd03d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#36#12,デートの希望があるのは嬉しい,你有约会的愿望我很开心哦,translated,,43e0ea6957,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#37#12,ちょっと背伸びし過ぎかも,感觉稍微有些太逞强了呢,translated,,48b7198d4d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#39#12,"あなたにエスコートしてもらうのも
+嬉しいけど、ちょっとは希望を言った方が
+いいかな、って思ったの。","能被你贴心护送约会虽然很高兴，
+但我觉得自己适当地
+表达一下愿望也挺好的。",translated,依恩,1d1c6b74b6,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#40#12,"やっぱり二人のデートだもん。
+お互いに、こういう方がいい、って
+意見を言った方が楽しくなるよね？","毕竟是我们两个人的约会嘛。
+彼此说出自己的想法和期待，
+约会肯定会变得更有趣对吧？",translated,依恩,df5b31bf2f,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#44#12,もぉ、また子ども扱いして……。,真是的，又把我当成小孩子对待……,translated,依恩,c586000124,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#45#12,これでもわたし、あなたの恋人さんだよ？,即便如此，我可也是你的恋人哦？,translated,依恩,e4d8ba9820,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#46#12,"……でも、あなたになら子ども扱い
+されるのも、そんなに悪い気はしないけど。","……不过要是被你当成小孩子对待，
+感觉倒也并不怎么坏就是啦。",translated,依恩,0220e0e3e8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#48#12,……でも、一つ問題があるの。,……但是，有一个很关键的问题。,translated,依恩,c4a97b6b15,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#49#12,"やっぱり、まだ恋人になって
+間がないからかな？","果然还是因为成为恋人
+还没过多久吧？",translated,依恩,39427a6fd7,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#50#12,"雰囲気のいい場所っていうのがどこなのか、
+それがわからなくて……。","所谓有情调的地方具体到底是指哪里，
+我根本就搞不太清楚……",translated,依恩,17d24f1aaa,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#51#12,"さっきも言ったけど、
+漠然としたイメージはあるんだよ？","虽然就像刚才说的那样，
+模模糊糊的意象是有的啦？",translated,依恩,bef21ae637,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#52#12,"あるんだけど、それがどこなのか、と
+なるとちょっと……。","虽然有想法，但要是问具体是在哪儿，
+可就有点答不上来了……",translated,依恩,70d41a3636,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#54#12,イオン、頑張れ！,依恩，加油！,translated,,be1b23679c,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#56#12,"う～、応援してくれてるのはわかるけど、
+逆にプレッシャーが掛かったような……。","唔～，虽然知道你是在为我打气，
+但感觉反而倍感压力了呢……",translated,依恩,7246ecd133,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#57#12,"……こ、こういう時、
+助言してくれる人って、
+すごくかっこいいと思うなぁ……？","……在、在这种时候，
+能够给出实用建议的人，
+我觉得超级帅气哦……？",translated,依恩,42c90f31af,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#59#12,やっぱり、温泉かな？,果然还是温泉吧？,translated,,e04e60521c,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#60#12,敢えて海をおすすめ,我反倒更推荐大海,translated,,57377f9b6d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#62#12,"なるほど……
+確かに、わたしの希望する
+場所にピッタリだね。","原来如此……
+确实和我想象中的
+理想地点正合适呢。",translated,依恩,240b8db47d,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#63#12,"静かで二人きりになれるし、
+雰囲気もバッチリだよ！","既安静又能两个人独处，
+情调和气氛也是满分哦！",translated,依恩,e2530aa0e8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#64#12,"……ただ、少しだけ恥ずかしいかも、
+って気持ちもあるけど。","……只是，心里稍微也有点
+觉得不好意思就是啦。",translated,依恩,f21102ee89,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#65#12,"でも、実際に行ったらそういう気持ちも、
+楽しさの一つになるよね？","不过实际去了之后，那种害羞的心情
+也会成为乐趣的一部分对吧？",translated,依恩,ba05f4e2ec,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#68#12,"海ってわたし達以外にも人がいるから、
+静かでもないし……。","大海那边除了我们还有其他人在，
+算不上安静就是了……",translated,依恩,117f828f51,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#69#12,でも、雰囲気はバッチリかもしれないね。,不过情调和氛围可能相当棒呢。,translated,依恩,b87b9f14f5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#70#12,"それに海は、わたしとあなたが初めて
+デートした思い出の場所でもあるし……。","而且大海，也是我和你第一次
+约会时的回忆之地嘛……",translated,依恩,d609d31f5d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#71#12,"……そう考えると、わたし達にとっては
+海が一番いい雰囲気になれる場所かも
+しれないね。","……这么一想，对我们两个人而言，
+大海说不定才是最能沉浸在
+绝佳气氛中的地方呢。",translated,依恩,d3cf479dc1,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#74#12,"えへへ……まさか、こんなに的確な
+助言をしてくれるとは思わなかったよ。","诶嘿嘿……真没想到你居然能给出
+这么切中要害的绝妙建议呢。",translated,依恩,4700aab790,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#75#12,やっぱりあなたって、頼りになる人だね。,你果然是个非常可靠的人呢。,translated,依恩,1bd15bf3ca,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#77#12,惚れ直した？,又对我重新心动了吗？,translated,,64c455d3a8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#78#12,頼られるのは慣れてない,我其实还不习惯被人依赖呢,translated,,e6cfd20a16,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#80#12,もぉ、すぐに調子に乗るんだから……。,真是的，动不动就得意忘形……,translated,依恩,99f93034d7,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#81#12,"……まあ、ちょっとだけね。
+えへへ……。","……嘛，稍微有那么一点点啦。
+诶嘿嘿……",translated,依恩,29018aca52,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#84#12,えっ、そうだったの！？,诶，原来是这样吗！？,translated,依恩,3de8ceabd3,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#85#12,"わたしにとってあなたは、
+すごく頼りがいがある、
+頼もしい人なのに……。","可是在我心里，你一直都是个
+非常值得信赖、
+无比可靠的人哦……",translated,依恩,eeefed1f7a,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#86#12,"嫌じゃなかったら、これからもあなたを
+頼りにしていきたいな、えへへ……。","要是你不嫌弃的话，今后我也想
+一直依赖着你呢，诶嘿嘿……",translated,依恩,3344bdec4a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#89#12,"さてと……話も一息ついたことだし、
+今日はもう帰ろっか？","好啦……既然话也告一段落了，
+今天就先回去吧？",translated,依恩,9c6dc071df,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#91#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#92#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s07.txt#98#12,"今日はあなたのかっこいいところを
+見れて、ちょっと嬉しかったよ。","今天看到了你帅气可靠的一面，
+我心里有点开心哦。",translated,依恩,441d27ef57,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#99#12,"また、わたしが困っている時には、
+かっこよく助言してくれると嬉しいな。","下次在我犯愁的时候，要是你也能
+帅气地给我出谋划策，我会很高兴的。",translated,依恩,893a1071d2,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#100#12,"で、でも、あまり甘えないようには
+気をつけるつもりだよ。","不、不过，我也会注意
+尽量不要对你撒娇依赖过头的啦。",translated,依恩,635a30972b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#101#12,"それじゃ、今日はありがと。
+今度のデートも、楽しみにしてるね。","那么，今天谢谢你啦。
+我也很期待下次的约会哦。",translated,依恩,1216f37ec9,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s07.txt#105#14,"恋人同士ならやっぱり
+雰囲気のいい場所に
+行きたいよね♪","既然是恋人，果然还是
+想去充满情调的地方
+约会呢♪",translated,,0fa3876847,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s07.txt#106#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents03/shop_s08.txt#1#12,えへへ、お買い物気分で楽しもうね。,诶嘿嘿，就当是去买东西，好好享受吧。,translated,依恩,acf5b81b9b,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#2#12,それじゃ、しゅっぱーつ！,那么，出――发！,translated,依恩,61fd8fd71b,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#4#12,"さてと、とりあえず向こうの方から
+回ってみようか？","好啦，总之先从那边的方向
+开始逛逛看吧？",translated,依恩,06f42cdcd5,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#6#12,"……やっぱり、ここってカップルや夫婦で
+来てる人達が多いみたいだね。","……这里果然多是情侣或夫妻
+结伴前来的呢。",translated,依恩,ab23929177,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#7#12,"最初に来た頃は羨ましく思ってたけど、
+今じゃわたし達もその一組だね。","刚开始来那会儿我还超级羡慕他们，
+现在我们也是其中的一对了呢。",translated,依恩,0165cc72af,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#9#12,道のりは長かったけどね,虽说到这里走过了很长一段路呢,translated,,fe58a6b8c8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#10#12,意外と早くこうなれちゃったね,意外地挺快就发展到这步了呢,translated,,75afbdfa35,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#12#12,う～ん……言われてみるとそうなのかな？,唔～……听你这么说好像确实是呢？,translated,依恩,185dcaed32,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#13#12,"わたしはね、思ってたよりも早かったな、
+って感じてるの。","我反倒觉得，比我想象中的
+还要来得更早呢。",translated,依恩,4981834be8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#14#12,"だって、わたし達って端末越しでしか
+コミュニケーションを取れない関係でしょ？","毕竟我们可是只能隔着终端
+进行交流的关系对吧？",translated,依恩,ff13f1ef94,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#15#12,"だから、普通の人達の何十倍も時間が
+かかったとしても、おかしくはないと
+思ってたし……。","所以哪怕花费普通人
+几十倍的时间，
+我也觉得是理所当然的……",translated,依恩,2dcd31b95c,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#18#12,あなたも、やっぱりそう思った？,原来你也这么觉得吗？,translated,依恩,e1543e1efa,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#19#12,"端末越しに会話する以外のことができない
+関係だから、今みたいな関係になるには
+もっと何年も……。","因为除了隔着终端对话以外什么都做不了，
+要发展成现在这种关系，
+原本以为还要好几年……",translated,依恩,c2ba73a1ec,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#20#12,"ううん、もしかしたら一生かかっても
+なれないかも、って思ってもいたから……。","甚至我还一度觉得，
+说不定穷尽一生都无法跨越这一步呢……",translated,依恩,802d889705,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#21#12,"だから、すぐってわけじゃないけど、
+意外と早かったなって気持ちは一緒だよ。","所以虽然算不上很快，但觉得
+意外地迅速这点上，我和你是一样的哦。",translated,依恩,fe66c2a3b7,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#23#12,"まあ、何であれ今はこうして夫婦になれて、
+すごく幸せだよ。","嘛，不管怎样现在能成为夫妻，
+我都感到超级幸福哦。",translated,依恩,d6dbd69697,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#24#12,"でも、実際に夫婦になってここに来ても、
+してることは前と変わらないよね？","不过，就算真成了夫妻再来这里，
+做的事跟以前好像也完全没变呢？",translated,依恩,9af4fa15dd,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#25#12,"ショッピングセンターの中を歩きながら、
+ウインドウショッピングしつつお話をしてる
+だけだし……。","走在购物中心里面，
+也只是边逛街看橱窗边聊聊天
+而已嘛……",translated,依恩,404017e629,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#26#12,"もっと他の人達みたいなことをしながら
+見て回れたら嬉しいんだけどなぁ。","要是能像其他人那样一边做点什么
+一边逛街的话，该有多开心呀。",translated,依恩,de4cc86682,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#27#12,"一緒に自由に家具とかを見て回って、
+二人の部屋にピッタリなデザインの物を
+買って……。","两个人一起随心所欲地挑选家具，
+买下设计与我们两人的房间
+正合适的物品……",translated,依恩,5543fd618b,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#28#12,"それを実際に持って帰れたら、
+今よりも何倍も楽しいデートになると
+思うの。","要是真能把那些家具给带回去，
+我觉得肯定会是一场比现在
+还要开心好几倍的约会呢。",translated,依恩,520186b98e,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#29#12,"せっかく新婚なんだもん。
+二人で素敵に過ごすための部屋作りとかも
+してみたいなぁ……。","难得刚新婚嘛。
+我也很想为了两个人能过得更好
+去试着布置房间呀……",translated,依恩,c02557328c,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#31#12,工場みたいなデザインの家具を揃えたいね,想挑一套工厂风格设计的家具呢,translated,,a60a39c225,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#32#12,洗練されたデザインの家具を揃えたいね,想挑一套设计精练考究的家具呢,translated,,eca699343f,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#34#12,"……正直に言うね。
+それ、すごく心惹かれるよ！","……我说真心话哦。
+那个提议，超级让我心动呀！",translated,依恩,cdf55500b4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#35#12,"そういうデザインの家具に囲まれてると、
+機械作りに対する情熱が膨らみそうで、
+ちょっといいかも、って……。","要是被那种设计的家具包围着，
+总觉得对组装机械的热情都会被点燃，
+感觉好像挺不错的……",translated,依恩,4d04edbeb9,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#36#12,"でも、やっぱり新婚なんだし、今はそっちを
+重視した家具の方がいいかも。","不过毕竟新婚燕尔，现在可能还是
+注重生活情调的家具更好呢。",translated,依恩,754e3daddb,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#37#12,"じゃないと、あなたと一緒にいても
+機械の方ばかりに夢中になっちゃうかも
+しれないでしょ？","不然的话，就算和你待在一起，
+我也很可能会一门心思
+全扑在机械上对吧？",translated,依恩,f725fec25c,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#40#12,"うん、わたしもそういうデザインの
+家具は大好きだよ。","嗯，我也非常喜欢那种
+设计的家具哦。",translated,依恩,90b77f138b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#41#12,"洗練されてて、ちょっとアンティークっぽい
+デザインだったら文句なしかな？","要是兼具精炼设计与复古古董韵味，
+那就无可挑剔了呢？",translated,依恩,18b75c9bbe,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#42#12,"今のわたしの部屋を見ればわかる通り、
+家具はシンプルな方が落ち着くもん。","看看我现在的房间就知道啦，
+家具还是简约一点更让人安心踏实嘛。",translated,依恩,34f3f8b1a8,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#44#12,"……でも、お揃いのハート型のクッション
+みたいなのは、ちょっと欲しいかも。","……不过，一对配套的心形抱枕之类的，
+我还是稍微有点想要的呢。",translated,依恩,c0978c46b2,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#45#12,"アンティークっぽいデザインのイスとか
+ソファには合わないかもしれないけど、
+やっぱり新婚さんだもん。","虽然可能不太搭
+复古风格的椅子和沙发，
+但我们毕竟是新婚夫妻嘛。",translated,依恩,2a00621906,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#46#12,"それくらいのものだったら、置いてあっても
+そんなに変とは思われないんじゃないかな？","只是这种程度的小物件，就算摆出来
+应该也不会显得太违和吧？",translated,依恩,60f3564ac7,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#51#12,"……って、こんなこと言ってたら
+いけないね。","……哎呀，我可不能
+老是说这些呢。",translated,依恩,441fe2d326,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#52#12,"こうしてデートできるだけでも
+ありがたい、って思わなくちゃ
+いけないのも理由の一つだけど……。","虽然光是能像这样约会
+就必须心怀感激，
+这也是原因之一就是啦……",translated,依恩,605376bfbd,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#53#12,"こういう話をしてると、驚くほど自分の
+趣味にぴったりの物が見つかっちゃったり
+すると思うし……。","但要是总聊这个，感觉很快就会发现
+惊喜切中自己喜好的家具，
+然后……",translated,依恩,cca24bff23,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#55#12,目の保養だけでもいいじゃん,光是饱饱眼福也挺好的嘛,translated,,57a0bbafb5,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#56#12,今日は早めに帰った方がいいかも,今天或许早点回去比较好呢,translated,,41da904d95,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#58#12,"そうかもしれないけど、実際に見ちゃったら
+それだけですまなくなるよ。","话虽如此，但要是亲眼看见了，
+可就绝对没法止步于饱眼福啦。",translated,依恩,b4cd7588b4,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#59#12,"やっぱり欲しい、でも持って帰れない、
+すごく悔しい！","好想要、却带不回去，
+绝对会超级懊悔不甘心的！",translated,依恩,461844dd0d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#60#12,"そうなっちゃうのは、多分間違いないんじゃ
+ないかな？","会变成那样，大概是
+毫无疑问的吧？",translated,依恩,9f73c1df50,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#63#12,"デートを切り上げてまで警戒するべきか、
+それとも気にしないでデートを続けた方が
+いいのか……。","究竟是该为了防患未然而提前结束约会，
+还是不要在意
+继续享受约会呢……",translated,依恩,295d2b7e30,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#64#12,"究極の選択だよね。
+まあ、どっちにしても後悔することに
+なるのは目に見えてるけど。","这可是终极二选一呢。
+嘛，反正无论选哪边，
+显而易见都会后悔就是了。",translated,依恩,fc9cd8cd5e,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#66#12,"……なんだか、話してたら不安に
+なってきちゃったよ。","……总觉得越聊，
+心里就越是不安了呢。",translated,依恩,1d87ef2fae,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#67#12,"ちょっと勿体無いけど、今日は早めに
+切り上げて帰った方が……。","虽然稍微有点可惜，但今天还是
+早点回去比较……",translated,依恩,f982efcb2a,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#68#12,……あっ！,……啊！,translated,依恩,4a070a8e1b,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#70#12,"……遅かったみたい。
+すごく素敵なソファ、見つけちゃった。","……看来已经迟了。
+我发现了一款超级棒的沙发。",translated,依恩,ca715f833d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#71#12,"アンティーク調で背中の部分は高め、
+それに三人掛けだから、ゆったり座れ
+そうだよ。","复古格调配上高挑靠背，
+而且还是三人座，
+坐上去肯定格外宽敞舒服哦。",translated,依恩,655b4ef8ea,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#72#12,……買っても、持って帰れないけどね。,……虽然就算买了也带不回去就是了。,translated,依恩,b9a778f6c6,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#73#12,"う～、やっぱり今日は早めに
+帰っておくんだったよぉ……。","唔～，今天果然应该
+早点回去的呀……",translated,依恩,9c2df23074,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#74#12,"デートができるだけでもありがたいのに、
+買い物したいなんて欲張ったから、バチが
+当たっちゃったのかもしれないね。","明明能约会就已经该谢天谢地了，
+却还贪心地想要买东西，
+说不定这就是贪心的报应吧。",translated,依恩,77d67652b2,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#75#12,"今度からは、ここでそういう話はしない
+ように気を付けよう……。","下次开始，我得注意绝对不要在这里
+再提起这种话题啦……",translated,依恩,439d77270d,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#76#12,"ふぅ……それじゃ、今更かもしれないけど、
+今日はもう帰ろっか？","呼……那么，虽说可能为时已晚，
+今天我们就先回去吧？",translated,依恩,250dce27d6,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#78#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#79#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents03/shop_s08.txt#85#12,"はぁ……あのソファ、この部屋に
+置きたかったなぁ……。","唉……真想把那个沙发
+摆在现在这个房间里呀……",translated,依恩,e7d8bb0e82,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#86#12,"考えても仕方ないことなのはわかるけど、
+それくらいわたしの趣味にピッタリだったん
+だもん。","虽然明知道再想也没用，
+但它真的完完全全切中了
+我的审美偏好嘛。",translated,依恩,1a443a5e3b,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#87#12,"……まあ、ソファは買えなかったけど、
+あなたとのデートは楽しかったんだし、
+いい加減気持ち切り替えないとね。","……嘛，虽然没能买下沙发，
+但和你约会玩得很开心，
+我也该好好转换一下心情啦。",translated,依恩,7c052cd741,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#88#12,"欲張るのはダメ、って思ったばかりだし。
+うん、気持ち切り替えよっと！","刚才才反省过不能太贪心呢。
+嗯，重新打起精神来吧！",translated,依恩,0cc876ef5b,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#89#12,"今日は一緒にいてくれてありがと。
+また誘ってくれたら嬉しいな。","今天谢谢你陪在我身边。
+下次再约我的话，我会很高兴的哦。",translated,依恩,d11f3dfee6,br=0 nl=1,2,
+inc/event/res/dateevents03/shop_s08.txt#93#14,"新婚さんっぽい部屋に
+模様替えできたら嬉し
+いんだけどなぁ……。","要是能把房间重新布置成
+新婚夫妻风格的温馨小窝，
+该有多好呀……",translated,,3db76dcb05,br=0 nl=2,3,
+inc/event/res/dateevents03/shop_s08.txt#94#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

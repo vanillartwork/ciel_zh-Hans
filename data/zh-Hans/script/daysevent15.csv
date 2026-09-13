@@ -1,0 +1,507 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/daysevent15/day15_01.txt#6#12,"いつか、あなたと本当にデートに
+出かけられたら嬉しいな。","真希望有朝一日，
+能够真正和你一起出门约会呀。",translated,依恩,08eea923c8,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#7#12,"例えば、ショッピングセンターとか
+どうかな？","比如说去大型购物中心商场之类的，
+你觉得怎么样？",translated,依恩,5d7b7da35f,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#8#12,"あなたに服を選んでもらって、
+それを着てデートをするの。","由你来帮我挑选衣服，
+然后我穿着它和你一起约会。",translated,依恩,235164dc4c,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#9#12,"ふふっ、どんな服を選んでもらえるのか、
+想像するだけでもわくわくしてくるよ。","呵呵，你会为我挑什么样的衣服呢，
+光是想象一下就让人兴奋不已呢。",translated,依恩,6805d149dd,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#10#12,派手過ぎない可愛い系を選ぶと思う,我觉得会选不太张扬的花哨可爱风,translated,,39c7834b5b,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_01.txt#11#12,ゴージャスで煌びやかな服を選ぶと思う,我觉得会选华丽夺目、金光闪闪的服饰,translated,,6ef6c2f435,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_01.txt#15#12,ふふっ、わたしもそういう服がいいな。,呵呵，我也最喜欢那种风格的衣服啦。,translated,依恩,1ba32c8bc9,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_01.txt#16#12,"……でも、せっかくだからほんの少しだけ、
+冒険してみたい気もするけど……。","……不过既然难得挑一次，
+心里其实也想稍微大胆冒险尝试一下就是了……",translated,依恩,16242adee2,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#21#12,"ご、ゴージャスで煌びやかって……
+どう考えてもわたしには合わないと
+思うけど……。","华、华丽夺目金光闪闪什么的……
+不管怎么想，
+感觉都跟我完全不搭吧……",translated,依恩,3f62b2892f,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_01.txt#22#12,"イメージが合わな過ぎるからかな？
+想像することもできないくらいだもん。","可能是因为跟我的形象差得太远了吧？
+我甚至都完全想象不出自己穿上的样子嘛。",translated,依恩,d06bbe1f81,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#24#12,"でも、あなたが選んでくれた服なら、
+どんな物でも気に入っちゃいそうだよ。","不过只要是你为我挑选的衣服，
+不管是怎样的款式我都一定会超级喜欢的哦。",translated,依恩,42f69b3cee,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_01.txt#25#14,"あなたに服を選んで
+もらえる日が、いつか
+来てくれたらいいな。","真希望有朝一日，
+能迎来由你帮我
+挑选衣服的那一天呀。",translated,,ee18f0b189,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_02.txt#6#12,"たまには外食がいいな、って思っても、
+わたしの世界じゃそれは無理だから、
+時々それが辛くなることがあるの。","就算偶尔冒出‘好想去外面下馆子’的念头，
+但在我这个世界根本办不到，
+有时一想到这点就会觉得挺难受的呢。",translated,依恩,c65292d09e,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_02.txt#7#12,"面倒くさがらないで自分で作れ、って
+思うかもしれないけど、やっぱり自分の
+料理ばかりじゃ飽きちゃうもん。","你可能会觉得‘别偷懒自己动手做不就得了’，
+但老是吃自己做的菜，
+总归是会吃腻的嘛。",translated,依恩,d15f0d7769,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_02.txt#8#12,"あ～あ、レストランくらいはあっても
+いいのになぁ……。","啊～啊，哪怕只有一家小餐馆也好，
+要是能有就好了呀……",translated,依恩,c8f4d1ca77,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#9#12,立ち食いソバ屋とかもいいよね？,路边的站食荞麦面店感觉也挺有风味的吧？,translated,,81357ff659,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_02.txt#10#12,"パスタとかハンバーグとか……
+あっ、焼肉とかもいいよね？","意面啦汉堡肉啦……
+啊，烤肉听起来也超棒对吧？",translated,依恩,9c1b802e89,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#11#12,"綺麗に盛られたお刺身とかも、
+たまには食べてみたいし……。","摆盘精致诱人的生鱼片刺身，
+偶尔也真想尝一尝呢……",translated,依恩,2b17f51464,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#12#12,"……言ってたら、
+余計に行きたくなってきちゃった。","……越是这么聊着，
+就越发想去外面吃大餐了啦。",translated,依恩,c00f1671d0,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#14#12,"ねりこさん、レストラン経営とかも
+始めてくれないかな？","妮莉库小姐就不能考虑顺便开一家
+小餐厅副业吗？",translated,依恩,add8e4f7be,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#22#12,……ま、まあ、確かに美味しいとは思うよ？,……嘛、嘛，味道确实应该很不错啦？,translated,依恩,ec38a6f001,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_02.txt#23#12,"けど、たまの外食で立ち食いソバって
+いうのは、ちょっと寂しいような……。","可是好不容易去外面吃顿饭，结果是立食荞麦面，
+总让人觉得稍微有点凄凉呢……",translated,依恩,0b88cdeabf,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#24#12,"でも、そう言うってことは、
+あなたは立ち食いソバ好きなのかな？","不过你既然这么提了，
+难道说你很喜欢吃站着吃的荞麦面吗？",translated,依恩,b829fea5e0,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#25#12,"そう思うと、それもいいかな、って気に
+なってくるから不思議だよ。","这么一想，不知不觉觉得那样也挺不错的，
+真是不可思议呢。",translated,依恩,8d147d87b8,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_02.txt#26#14,"仮想空間じゃなくて、
+現実で外食をしたい
+なぁ……。","不是在虚拟空间里，
+而是在现实中真正下一次馆子，
+该多好呀……",translated,,ea11aa6b80,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_03.txt#6#12,"食べ過ぎって訳じゃないとは思うけど、
+食事の後に苦しくなる時があるの。","虽然我觉得自己应该没有暴饮暴食，
+但吃完饭后有时会觉得肚子撑得难受呢。",translated,依恩,e94b67f9c6,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#7#12,"やっぱり、少し前までとは違って、
+いろんな料理を作れるように
+なったからかな？","果然是因为比起不久之前，
+现在学会做各种各样的料理了
+所以才会这样吗？",translated,依恩,0768e12ffc,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_03.txt#8#12,"あなたから見てわたしの食生活って、
+どんな風に見える？","在你看来，我的饮食生活
+大概是怎样的一种状态呢？",translated,依恩,2e60c98c8e,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#9#12,美味しそうな物ばかり食べてて羨ましい,满桌都是美味佳肴真让人羡慕呢,translated,,24f9e96b2e,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_03.txt#10#12,結構質素だよね？,感觉其实相当简朴朴素吧？,translated,,3ecec1ac2d,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_03.txt#14#12,えっ、そんな風に見えてたの！？,诶，在你眼里竟然是那样看的吗！？,translated,依恩,e025ea8660,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_03.txt#15#12,"う～ん……ってことは、やっぱり
+食べ過ぎちゃってるのかもしれないね。","唔～……这么说来，
+我可能果然还是稍微有点吃太多了吧。",translated,依恩,109db5321f,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#16#12,"でも、あなたに美味しそうって思って
+もらえたのは、ちょっと嬉しいかも。","不过能让你觉得饭菜看起来很诱人，
+心里悄悄有些开心呢。",translated,依恩,648975bd25,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#17#12,"これからも、あなたにそう思ってもらえる
+ように、料理は頑張っていこっと♪","为了今后也能让你一直这么觉得，
+做饭方面我也要继续加倍努力啦♪",translated,依恩,756dd216cb,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#22#12,"あ、あはは……まさか、質素とまで
+言われるとは思ってなかったよ……。","啊、啊哈哈……真没想到，
+居然会被你用‘简朴’来形容呢……",translated,依恩,1c178e496f,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#23#12,"わたしとしては、結構頑張って
+色々作ってる気がしてたんだけどなぁ。","我原本还自我感觉挺努力地
+变换花样做了不少东西的呢。",translated,依恩,425cea3932,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_03.txt#24#12,"豪遊し過ぎ、って思われるのも問題だけど、
+質素って思われるのもあんまり嬉しくないし
+もう少し料理頑張るようにしよっと。","被觉得太奢侈铺张固然是个问题，
+但被觉得太简陋寒酸也让人开心不起来，
+看来我还得在做菜上多下点工夫呢。",translated,依恩,4aeee79eba,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_03.txt#26#14,"食べ過ぎた後の苦しさ
+って、辛いけど幸せな
+証拠でもあるよね？","吃得太撑之后的难受感，
+虽然难受但也是
+满满幸福的证明对吧？",translated,,85433a0867,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_04.txt#6#12,"とうだいもりは意外と面倒くさがりな
+ところがあるようじゃのぅ。","“守灯人这小妮子，
+意外地也有挺嫌麻烦偷懒的一面嘛。”",translated,依恩,f29ec1b34c,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#7#12,って、ねりこさんに言われちゃったの。,被妮莉库小姐这样数落了一通呢。,translated,依恩,c2ce384d8f,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_04.txt#8#12,"う～ん、確かに自分でもまめな性格とは
+思わないけど……やっぱり直した方が
+いいのかな？","唔～虽然我也承认自己确实算不上勤快细致，
+但……果然还是应该改正克服一下
+比较好吗？",translated,依恩,ca61f85d49,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_04.txt#9#12,呼んだらすぐに来てくれるからまめだよ,只要一呼唤你就立刻赶过来，已经很勤快啦,translated,,c40fd96153,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_04.txt#10#12,"でも、特にだらしないって思われるほど
+面倒くさがりってわけでもないと思うの。","不过我觉得自己也没懒惰到
+会被人觉得邋遢不堪的程度就是了嘛。",translated,依恩,56fe2f3c0a,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#11#12,"毎日色んな物を作るし、お片付けや掃除も
+ちゃんとやってるんだし。","每天都有做各种东西，收纳收拾和打扫卫生
+我也都好好完成了呀。",translated,依恩,f472a0d582,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#13#12,"日常生活で最低限必要なことはやってるん
+だから、そんなに気にする必要はないよね？","日常生活里最起码的事情我都有认真在做，
+其实也没必要那么放在心上对吧？",translated,依恩,2174dae0c9,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#21#12,"えへへ、当然だよ。
+あなたは何よりも優先だもん。","嘿嘿，那是理所当然的啦。
+毕竟你的事情比任何事都要优先嘛。",translated,依恩,499f4282cd,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#22#12,"ま、まあ、お風呂とかおトイレの時は
+別だけど……。","嘛、嘛，不过在泡澡或者上洗手间的时候
+就得另当别论了就是啦……",translated,依恩,f7558522fa,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_04.txt#23#14,"まめな人になろう、
+って思っても、すぐに
+なるのは難しいよね？","就算下定决心要当个勤快人，
+想要立刻脱胎换骨
+也是很困难的对吧？",translated,,ed86f5109e,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_05.txt#6#12,"朝ごはんって、お昼や夜に比べて
+作るのが億劫に感じるの。","比起午饭和晚饭，
+做早饭总会让人觉得格外麻烦费劲呢。",translated,依恩,5a1602cae3,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_05.txt#7#12,"やっぱり、寝起きに食事を作るんだから、
+そう感じちゃうのは仕方ないよね？","毕竟刚睡醒就得动手做吃的，
+产生那种厌烦心情也是在所难免的对吧？",translated,依恩,9f6ebb2bee,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_05.txt#8#12,"でも、ちゃんと食べないと一日乗り切ろう、
+って気持ちになれないし……。","可是要是不好好吃早饭，
+一整天又提不起精神去拼搏干活……",translated,依恩,7785733df8,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_05.txt#9#12,一体どうしたらいいのかな？,到底该怎么办才好呢？,translated,依恩,a3a2fb30ab,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_05.txt#10#12,前日に作り置きするとかは？,提前在前一天做好备着怎么样？,translated,,1046ef129f,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_05.txt#11#12,料理は眠気覚ましにもなるよ,下厨做饭也能顺便提神驱散困意哦,translated,,41ce226b18,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_05.txt#15#12,"なるほど……それなら寝起きに料理する
+必要がなくなるね。","原来如此……那样的话
+一大早刚睡醒就不用急着下厨了呢。",translated,依恩,2e6da706de,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_05.txt#16#12,"まあ、毎日色々作るから、時間のある時だけ
+になるけど、なるべく前日に作り置き
+しておくようにしよっと。","嘛，毕竟每天要做各种各样的事情，
+虽然只能挑有闲暇的时候，但我也会尽量
+提前一天做好留到第二天吃的。",translated,依恩,f9a3b1eacb,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_05.txt#21#12,あ～、たしかにそれはあるかもしれないね。,啊～经你这么一说，确实很有道理呢。,translated,依恩,7c684b30a0,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_05.txt#22#12,"特にわたしの場合、起きた時には
+まだ寝足りない、って思うことが
+結構あるし……。","尤其是像我，一大早刚睡醒的时候
+总会觉得睡得还不够香甜，
+这种赖床的时候其实挺多的……",translated,依恩,b8fc6916e0,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_05.txt#23#12,"これから毎日そうする、っていうのは
+無理だと思うけど、できる限りは毎朝
+料理するように頑張ってみよっと。","虽然要我从今往后每天都坚持做早饭
+可能有点勉强，但只要力所能及，
+我也会努力每天早晨都亲自下厨的。",translated,依恩,774ebd6cc0,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_05.txt#25#14,"寝起きですぐに包丁や
+火を使うのって、結構
+危険だよね？","刚睡醒迷迷糊糊就动用
+菜刀和明火，
+其实相当危险对吧？",translated,,5b7308e036,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_06.txt#6#12,"タオルかけに掛かってるタオルって、
+使おうとした時に濡れてると、
+結構ガックリくるよね？","挂在毛巾架上的擦手毛巾，
+伸手想用的时候要是摸起来湿漉漉的，
+真的很让人沮丧失望对吧？",translated,依恩,683eb2674f,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_06.txt#7#12,"洗い物とか料理とかしてる時って、
+何度も手を拭くからびしょ濡れになって
+乾きにくくなるのも当然だけど……。","在洗碗洗菜或者做饭的时候，
+因为要反复擦好多次手，弄得透湿
+很难彻底晾干也是理所当然的啦……",translated,依恩,3cd7a69414,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_06.txt#8#12,使うたびに新しいのを出したら？,每次用的时候都拿条新的不就行了？,translated,,1b15b1ddd8,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_06.txt#9#12,あっ、いいこと思いついた！,啊，我想到了一个好办法！,translated,依恩,13b71770fc,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_06.txt#10#12,"小さいタオルじゃなくて、バスタオルくらい
+大きなタオルを使うようにすればいいんじゃ
+ないかな？","不用普通的小毛巾，
+要是换成大浴巾那样又大又厚的毛巾，
+会不会比较好呢？",translated,依恩,3e0c7875e7,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_06.txt#11#12,"それなら何回手を拭いたとしても、
+タオル全部がびしょ濡れになることは
+ないと思うの。","那样的话哪怕擦再多次手，
+应该也不至于
+让整条大浴巾全都湿透对吧。",translated,依恩,ccea6a7a74,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_06.txt#13#12,"えへへ、我ながらナイスアイデアかも。
+今度試してみよっと♪","嘿嘿，自我感觉真是个绝妙的好主意呢。
+下次我一定要试一试♪",translated,依恩,ce94ee8e7d,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_06.txt#21#12,"そ、それはちょっと……タオルを贅沢に
+使い過ぎじゃないのかな？","那、那样做是不是……稍微有点
+太奢侈浪费毛巾了呀？",translated,依恩,f7eb34f0a6,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_06.txt#22#12,"でも、タオルは拭くためにあるんだから、
+それも悪くはないのかもしれないね。","不过毛巾本来就是用来擦干水分的，
+那样做或许也挺合理的呢。",translated,依恩,3ab4018100,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_06.txt#23#12,"使っても洗ってまた使うんだから、
+無駄なこともしてないわけだし。","用脏了洗洗还能接着用，
+其实也算不上什么铺张浪费嘛。",translated,依恩,39e2481cb7,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_06.txt#24#12,試しに、早速やってみよっと。,我来试着马上实践看看好啦。,translated,依恩,5a591b7a6c,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_06.txt#25#14,"もう温風乾燥機を
+自分で作った方が
+早い気もしてきたよ。","感觉倒不如干脆
+自己动手做个热风烘手机
+来得更快呢。",translated,,0ccbec0321,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_07.txt#6#12,"甘辛い味、って当たり前のように
+使ってるけど、正直、よくわからないよね？","‘甜辣口’这个词虽然平时很自然地挂在嘴边，
+但老实说，到底是指什么味道有点摸不着头脑对吧？",translated,依恩,4681c4b4e0,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#7#12,"実際に甘さと辛さを一緒に楽しめる味、
+ってわけでもないんだし……。","毕竟也并不像是真的能同时品尝出
+甜味与辛辣刺激的那种滋味嘛……",translated,依恩,9ba1c097e2,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#8#12,"結局のところ、甘辛いっていうのは
+どういう味のことを言ってるのかな？","归根结底，所谓的‘甜辣口’
+到底是指怎样的一种味道呢？",translated,依恩,9a8723bc2e,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#9#12,みたらし団子のタレみたいな味かな？,大概是指酱油团子上面那种甜咸酱汁的味道吧？,translated,,4a86b850de,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_07.txt#10#12,お好み焼きのソースみたいな味かな？,大概是指日式御好烧酱汁那种醇厚微辣的味道吧？,translated,,07aaf02c8a,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_07.txt#14#12,あっ、確かにそうかもしれないね！,啊，经你这么一说确实很有可能呢！,translated,依恩,3101f7ffbd,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_07.txt#15#12,"あれって甘さの中に辛さがある、って
+感じられるから、まさに甘辛いが
+ピッタリの味かも。","那个确实能让人在甘甜之中感受到丝丝咸辣，
+可以说跟‘甜辣口’的形容
+完美吻合呢。",translated,依恩,c99c402bcd,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_07.txt#16#12,"そう考えると、もしかしたら甘辛い味って
+お菓子に多いのかもしれないね。","这么一想，所谓的甜咸辣风味
+说不定在点心小吃里其实很普遍呢。",translated,依恩,4b93f69753,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#21#12,"わたしも、甘辛いっていうのだと、
+真っ先にそれが思い浮かんだよ。","一提到甜辣滋味，
+我也是第一时间就想到了那种酱汁呢。",translated,依恩,8e2da049c9,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#22#12,"あなたもそう思うってことは、やっぱり
+あんな感じの味が甘辛い、っていうので
+正解なのかな？","既然你也是这么觉得的，
+看来那种味道就是大众所谓的‘甜辣口’，
+完全没错了吧？",translated,依恩,7780706c02,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_07.txt#23#12,"もしかしたら甘辛い味の正体って、
+ソースなのかもしれないね。","搞不好所谓甜辣风味的真面目，
+其实就是调味酱汁本身呢。",translated,依恩,6e3fc8fb90,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_07.txt#25#14,"甘辛い味を想像するの
+って、他の味よりも
+難しいよね？","想象‘甜辣口’的滋味，
+比起其他味道来
+要困难得多对吧？",translated,,58e69a2e88,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_08.txt#6#12,最近、どうも食事が偏ってる気がするの。,最近总觉得自己的饮食习惯有点偏食呢。,translated,依恩,2687824039,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_08.txt#7#12,"何だか、いつも同じものを食べてるような、
+そんな気がして……。","总觉得每次好像都在吃差不多的东西，
+老是有这种感觉……",translated,依恩,20f61c7999,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_08.txt#8#12,"あなたから見てどうかな？
+わたし、普段多く食べてるものってある？","在你眼里看来怎么样？
+我平时有什么吃得特别多的东西吗？",translated,依恩,04b6f9c850,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_08.txt#9#12,甘い物をよく食べてる気がする,感觉你平时经常吃很多甜食呢,translated,,807517645c,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_08.txt#10#12,辛い物をよく食べてる気がする,感觉你平时经常吃辛辣的食物呢,translated,,c0ab744f5f,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_08.txt#14#12,そ、そんなに甘い物食べちゃってた！？,我、我已经吃了那么多甜食了吗！？,translated,依恩,e1b8a3676f,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_08.txt#15#12,"どうしよう……もしかしたらわたしが
+気づいてないだけで、体重がすごいことに
+なっちゃってたりするかも……。","怎么办……搞不好在我没察觉的时候，
+体重已经悄悄增长到一个
+非常可怕的地步了也说不定……",translated,依恩,e02f053645,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_08.txt#16#12,"今日からは、少し甘い物を減らすように
+頑張ってみるよ。
+太りたくないもん。","从今天开始，我一定会加倍努力
+少吃一点甜食的。
+毕竟我可不想变胖嘛。",translated,依恩,9540932074,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_08.txt#21#12,えっ、本当！？,诶，真的假的！？,translated,依恩,d619221866,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_08.txt#22#12,"う～ん、あまり意識してなかったけど、
+言われてみるとそんな気がするかも……。","唔～虽然我自己没怎么留意，
+但听你这么一说好像确实有那么回事呢……",translated,依恩,7e4d22f328,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_08.txt#23#12,"辛い物ばかりじゃ体に悪いし、
+今日からなるべく控えるようにするよ。","老吃重辣对身体也不好，
+从今天开始我尽量克制少吃一点好啦。",translated,依恩,a95f9324d8,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_08.txt#25#14,"食事って、どうしても
+自分が好きな物だけに
+偏っちゃうよね？","平时的饮食习惯，
+不管怎样都会偏向于
+自己爱吃的东西对吧？",translated,,bde71445e9,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_09.txt#6#12,何だか、少し疲れてきちゃったかも……。,不知怎的，感觉稍微有点累了呢……,translated,依恩,bac74ffed9,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_09.txt#7#12,"こういう時って、無性に甘い物を
+食べたくなるよね？","在感到疲倦的时候，
+总是会格外渴望吃甜食对吧？",translated,依恩,f033a8b5ae,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_09.txt#8#12,となると、やっぱり……パフェかな？,这么说来的话，果然还得是……芭菲冰淇淋吧？,translated,依恩,ac18f7fed2,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_09.txt#9#12,チョコと生クリームたっぷりの方がいい,淋满巧克力酱和厚厚鲜奶油的比较好,translated,,82657317b8,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_09.txt#10#12,"フルーツパフェなんていいかも。
+果物いっぱいで美味しいよ！","水果芭菲感觉也很不错呢。
+铺满丰富的水果又香又甜！",translated,依恩,b202b49fbc,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_09.txt#11#12,"アイスも果物のシャーベットだから、
+さっぱりした甘さでいくらでも食べられ
+ちゃいそうだよね？","上面的冰淇淋也是水果雪葩沙冰，
+甜得清爽怡人，
+感觉吃多少都能吃得下对吧？",translated,依恩,fa2e5c1c56,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_09.txt#13#12,"ただ、すいすい入っちゃうから、
+気をつけないと頭が痛くなっちゃうことに
+なりそうだけど……。","不过因为吃起来太顺口了，
+要是不小心吃得太急，
+可能会冰得太阳穴发痛就是了……",translated,依恩,e46e226adb,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_09.txt#14#12,"ああ、言ってたら食べたくなって
+きちゃったよ……。","啊啊，光是嘴上说说
+就让我变得超级想吃了啦……",translated,依恩,1922c4a789,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_09.txt#22#12,チョコレートパフェ、パフェの王道だね。,巧克力芭菲，可以说是芭菲甜品里的王道呢。,translated,依恩,9111030b3a,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_09.txt#23#12,"チョコシロップに砕いた板チョコ、
+それにチョコアイスの上にたっぷり盛った
+濃厚な生クリーム……。","香浓巧克力酱配上碎巧克力块，
+在巧克力冰淇淋球上挤满厚厚一层
+醇厚顺滑的鲜奶油……",translated,依恩,dfe0cb5f95,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_09.txt#24#12,"……考えてたら、すごく食べたい気持ちに
+なってきちゃったよ。
+カフェに行けばあるのかな？","……脑子里光是回味一下，
+就彻底按捺不住想吃的冲动了呢。
+去咖啡馆里能吃得到吗？",translated,依恩,8f51c53a27,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_09.txt#25#14,"疲れた時のために、
+パフェを常備して
+おけたらいいのに。","真希望能为了疲劳时备用，
+在身边常备着一份
+芭菲甜品呀。",translated,,e5d00da938,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_10.txt#6#12,最近、どうも食事が偏ってる気がするの。,最近总觉得自己的饮食习惯有点偏食呢。,translated,依恩,2687824039,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_10.txt#7#12,"何だか、いつも同じものを食べてるような、
+そんな気がして……。","总觉得每次好像都在吃差不多的东西，
+老是有这种感觉……",translated,依恩,20f61c7999,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#8#12,"あなたから見てどうかな？
+わたし、普段多く食べてるものってある？","在你眼里看来怎么样？
+我平时有什么吃得特别多的东西吗？",translated,依恩,04b6f9c850,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#9#12,こってりした物をよく食べてる,感觉你平时经常吃油腻重口味的东西,translated,,2f3b1e0333,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_10.txt#10#12,さっぱりした物をよく食べてる,感觉你平时经常吃清淡爽口的东西,translated,,f3be896cfd,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_10.txt#14#12,"うっ……い、言われてみると、
+確かにそういう物をよく食べてたかも。","呜……经、经你这么一说，
+我平时好像确实经常吃那样的东西呢。",translated,依恩,2938b4dca2,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#15#12,"味の濃い物が好きだから、
+自然とこってり系が多くなっちゃうのかも
+しれないね。","因为我很喜欢浓郁重口味的食物，
+不知不觉中油腻厚重的菜式
+可能就变多了呢。",translated,依恩,b25c07715d,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_10.txt#16#12,"でも、そればかりじゃ体に悪いし、
+たまにはさっぱり系も食べようかな。","不过老是吃那些对身体也不好，
+偶尔我也多吃点清淡爽口的菜式吧。",translated,依恩,9f2dac9ae6,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#21#12,"そっか……でも、言われてみると
+確かにそうかも。","这样啊……不过经你这么一提，
+仔细想想确实是呢。",translated,依恩,c8f9a78426,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#22#12,"食べ終わった時はいつもお腹一杯だけど、
+すぐにまたお腹が空いちゃってたし。","刚吃完的时候虽然肚子很饱，
+但很快肚子就又饿得咕咕叫了。",translated,依恩,08d1782440,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_10.txt#23#12,"さっぱりした物ばかりだったから、
+お腹に溜まらなかったんだね。
+たまにはこってりした物も食べよっと。","因为全都是些清淡爽口的食物，
+所以不怎么顶饱扛饿呢。
+偶尔我也吃点油水厚重的东西好啦。",translated,依恩,6980da8db6,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_10.txt#25#14,"食事って、どうしても
+自分が好きな物だけに
+偏っちゃうよね？","平时的饮食习惯，
+不管怎样都会偏向于
+自己爱吃的东西对吧？",translated,,bde71445e9,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_11.txt#6#12,"パンケーキの美味しい食べ方っていうと、
+どんなものを想像する？","说到松饼最美味诱人的吃法，
+你会想象出怎样的一种搭配呢？",translated,依恩,52f67543eb,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#7#12,わたしは、そうだなぁ……。,我的话，让我想想……,translated,依恩,2731b49a26,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_11.txt#8#12,"あっ、ジャムを載せたりとかかな？
+パンケーキとジャムの組み合わせは
+最高だよ。","啊，抹上厚厚的果酱之类的吗？
+松饼搭配香甜果酱的组合，
+确实也是人间绝配呢。",translated,依恩,2df802a001,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_11.txt#9#12,バターとメープルシロップだと思う,我觉得黄油搭配枫糖浆才是王道,translated,,3a3e7d026e,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_11.txt#10#12,"特にお勧めなのは、柑橘系の果物で作った
+ジャムを使うことかな？","我个人格外推荐的，
+是用柑橘类水果熬制的酸甜果酱哦？",translated,依恩,abb0958741,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#11#12,"パンケーキの甘さに、ジャムの甘酸っぱさが
+加わって、どんどん手が進んじゃうの。","松饼本身的香甜融进果酱的酸爽，
+真的会让人胃口大开停不下来呢。",translated,依恩,2a4dc695b2,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#13#12,"食欲のない朝とか、眠気の取れない朝でも、
+これなら無理なく食べられるはずだよ。","就算在没有食欲、或者困意未消的早晨，
+这种搭配也能让人毫无负担地吃下肚哦。",translated,依恩,e775941fa7,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#21#12,"パンケーキの王道スタイルだね。
+わたしも、その食べ方は大好きだよ。","这可是吃松饼最经典的王道搭配呢。
+我也超级喜欢那种吃法哦。",translated,依恩,903e5f959c,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#22#12,"焼きたてのパンケーキの上で溶けていく
+バターを見てると、ワクワクしてくるの。","看着黄油在刚出锅热腾腾的松饼上慢慢融化，
+心里就觉得莫名兴奋期待呢。",translated,依恩,0cf9d5929d,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#23#12,"どんなに食欲のない朝でも食べられる、
+朝ごはんの王様だね。","不管早上再怎么缺乏食欲也能轻松咽下，
+可以说是早餐界的无冕之王呢。",translated,依恩,9356c2dd3d,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_11.txt#24#14,"パンケーキって、
+そのままでも美味しい
+から好きなの。","松饼就算什么都不抹
+直接原汁原味吃也很香，
+所以我一直很喜欢呢。",translated,,f8288fb9be,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_12.txt#6#12,"体調の悪い時とか、食欲のない時には
+ヨーグルトを食べるようにしてるの。","在身体不太舒服或者没什么胃口的时候，
+我一般都会选择吃酸奶来垫肚子。",translated,依恩,ef0fc497d7,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#7#12,"あれなら飲む感じで食べられるし、
+美味しいのがいいよね？","那个就像喝饮品一样吸溜吸溜就吃完了，
+而且味道酸甜可口很棒对吧？",translated,依恩,d27888e767,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#8#12,"あなたはヨーグルトといったら、
+どんな味を想像する？","一提起酸奶，
+你脑海里最先浮现出的是什么口味呢？",translated,依恩,30924eb10c,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#9#12,果物の味がついてるもの,带有各种水果风味的那种,translated,,2aabe6ff6d,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_12.txt#10#12,やっぱりプレーンかな？,果然还是纯正的原味酸奶吧？,translated,,5c991f2ba2,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_12.txt#14#12,"うんうん、果物とヨーグルトの味って、
+すごく合うよね？","嗯嗯，水果搭配酸奶的口感，
+真的超级契合相得益彰对吧？",translated,依恩,3d54d5c448,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#15#12,"味だけじゃなくて、果物の固まりが
+一緒に入ってたりするのも好きなの。","不单单是水果香气，里面要是拌有切好的
+大颗真果粒，我也特别中意喜欢哦。",translated,依恩,5b6317fe31,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#16#12,"ヨーグルトも果物も体に良い物だし、
+毎日でも食べたいくらいだよ。","无论是酸奶还是新鲜水果都对健康大有益处，
+甚至让我巴不得天天都能吃到呢。",translated,依恩,e166cbd8db,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#21#12,わかる、それわかるよ！,太懂了，我完全明白那种感觉！,translated,依恩,e36267fcf2,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_12.txt#22#12,"すごく酸っぱくてたくさんは無理だけど、
+食べた瞬間にさっぱりした気持ちになるのが
+いいよね？","虽然酸溜溜的没办法一口气吃太多，
+但在放进嘴里那一瞬间涌上来的爽口感，
+真的很让人精神一振对吧？",translated,依恩,cb5b20753f,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_12.txt#23#12,"でも、ちょこっとだけお砂糖を振って
+食べるのも好きかも、えへへ……。","不过，稍微撒上一小勺白糖拌着吃，
+我也蛮喜欢的呢，嘿嘿……",translated,依恩,8ac8e32281,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_12.txt#25#14,"ヨーグルトって体にも
+いいから、毎日食べる
+ようにしようかな？","酸奶对身体健康
+大有益处，要不要
+试着每天都坚持吃呢？",translated,,f17580642a,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_13.txt#6#12,わたし、ソーセージって結構好きなの。,其实我呢，相当喜欢吃香肠哦。,translated,依恩,510d9c4f80,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_13.txt#7#12,"スモークとかバジルとか、
+いろんな味があるのがいいよね？","烟熏风味或者罗勒香草风味，
+有形形色色各种不同的口味很棒对吧？",translated,依恩,96a02b2253,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#8#12,"でも、中でも気に入ってるのは、
+チーズ入りのだよ。","不过在这些里面我最偏爱的，
+还得数灌了芝士夹心的香肠呢。",translated,依恩,2fa9d250c4,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#9#12,チョリソーの方が好きかも,我可能更偏爱辛辣多汁的辣味香肠呢,translated,,957780ad89,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_13.txt#10#12,"一口噛んだ瞬間、ソーセージの味と
+チーズの味が一緒に広がるのが好きなの。","一口咬下去的瞬间，肉肠的浓香与芝士的
+咸甜奶香同时在唇齿间迸发，超喜欢的。",translated,依恩,2853da0d3d,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#11#12,"そういえば、チーズインハンバーグなんて
+食べ物もあるけど、お肉とチーズって
+相性がいいのかもしれないね。","说起来市面上也有芝士夹心汉堡肉这种美食，
+看来鲜肉与浓厚芝士之间，
+说不定有着天作之合的极高契合度呢。",translated,依恩,41deac7862,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_13.txt#13#12,"何だか、話してたら食べたくなって
+きちゃったなぁ。","不知不觉聊着聊着，
+就让我馋得肚子咕咕叫了呢。",translated,依恩,cb78c44690,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#21#12,チョリソーって、辛いソーセージだっけ？,辣味香肠，是指那种带有辛辣风味的香肠对吧？,translated,依恩,e6db862757,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_13.txt#22#12,"う～ん……わたし、辛いのってあまり
+得意じゃないんだけど……大丈夫かな？","唔～……我其实不是很擅长应付太辣的食物，
+不知道能不能吃得惯呢……",translated,依恩,7b28889ba4,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#23#12,"でもあなたのお勧めなら、
+今度食べてみよっと。","不过既然是你推荐的，
+下次我也去尝尝看好啦。",translated,依恩,d72ae8a927,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_13.txt#24#14,"あなたの世界には
+どんなソーセージが
+あるのかな？","在你的那个世界里，
+究竟有着怎样形形色色的
+美味香肠呢？",translated,,0f0cff540a,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_14.txt#6#12,"わたし、あなたと結婚してからずっと、
+物を作る時に心がけていることがあるの。","自从和你结为夫妻之后，
+我在亲手制作各种物品时一直都牢记着一件事。",translated,依恩,a58b511468,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#7#12,"家庭的な奥さんっぽく見てもらえるように、
+頑張ろうって……。","为了能让自己看起来更像个顾家贤惠的妻子，
+一直在暗暗加倍努力着……",translated,依恩,92d47dc192,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#8#12,"ただ、実際に何をどうすればいいのか
+わからないから、本当にそう見えてるって
+自信はないの。","只是我具体该怎么做才好自己也不懂，
+所以并没有百分之百的把握和自信
+觉得自己真的有贤妻良母的模样就是了。",translated,依恩,3dfd1c75a6,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_14.txt#9#12,"あなたから見てどうかな？
+わたし、家庭的な奥さんっぽく見えてる？","从你的角度看感觉如何呀？
+现在的我，看起来有像个顾家贤惠的妻子吗？",translated,依恩,31ca92ec4a,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#10#12,料理をしてる姿はそう見える,看你下厨做饭的身影确实很有贤妻的感觉哦,translated,,28d6558d55,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_14.txt#11#12,機械を作ってる姿はそう見える,看你满头大汗组装机械的模样确实很有贤妻感,translated,,56f5a433cf,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_14.txt#15#12,"ほっ……ちゃんとそう見えてるみたいで
+安心したよ。","呼……看来真的有好好展现出来呢，
+这下我就放心啦。",translated,依恩,1dd5b63f4d,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#16#12,"でも、よくよく考えたら他の部分で
+家庭的な奥さんっぽく感じるような
+ことって、まず無いよね？","不过仔细想想，除了下厨做饭之外，
+在其他方面能让人感受到贤妻良母气质的地方，
+基本上根本就找不到呢？",translated,依恩,3c06dc6cfd,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_14.txt#17#12,"えへへ、これからもそう見えるように、
+奥さんとして頑張っていこっと。","嘿嘿，为了今后也能一直让你这么觉得，
+作为你的妻子我也会继续全力以赴的！",translated,依恩,9511f0fec9,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#22#12,ほっ、そう見えてるなら良かっ……。,呼，能让你这么觉得真是太好……,translated,依恩,f99922452a,br=0 nl=0,1,
+inc/event/res/daysevent15/day15_14.txt#23#12,"って、えぇっ！？
+機械作りしてる時にそう見えちゃうの！？","等等，诶诶诶！？
+竟然是在我组装摆弄机械时看出来的吗！？",translated,依恩,9e7d337f47,br=0 nl=1,2,
+inc/event/res/daysevent15/day15_14.txt#24#12,"うぅ、本当は料理をしている姿とか、
+編み物をしてる姿がそう見える、って
+言ってもらいたかったのに……。","呜呜……人家本来是满心期待你能夸我
+下厨做饭的身影或者做针线织毛衣的样子
+很有贤妻良母风范的嘛……",translated,依恩,63c784b990,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_14.txt#25#12,"で、でも、一応家庭的な奥さんっぽく
+見えてはいるみたいだし、とりあえず
+喜んでおくべき……なのかなぁ？","不、不过不管怎么说，总归也算被你夸奖成
+有顾家贤妻的模样了，姑且还是先高兴一下……
+应该没错吧？",translated,依恩,29a8d1b83d,br=0 nl=2,3,
+inc/event/res/daysevent15/day15_14.txt#27#14,"家庭的な奥さんっぽく
+見られるようになりた
+いな。","好希望能早日成为
+在别人眼里散发着
+顾家贤淑气质的妻子呀。",translated,,e67eaaa6e5,br=0 nl=2,3,

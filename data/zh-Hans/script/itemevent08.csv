@@ -1,0 +1,656 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/itemevent08/rt_item_assist007a.txt#3#12,エルステングリッド、完成したよ。,埃尔斯坦栅极，制作完成啦。,translated,依恩,f0652142a4,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_assist007a.txt#4#12,"クラケットさん達が、わたしの魂を
+引き寄せて、捕まえるために作った管の
+機能をイメージして作ったものなの。","这是以库拉肯特先生他们为了吸引并捕获我的灵魂
+而制造的管道功能为灵感制作出来的哦。",translated,依恩,88c63e7cb6,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_assist007a.txt#5#12,"トリモチになっててべたべたしてるから、
+一度触ると中々取れないんだよ？","因为表面像粘鸟胶一样黏糊糊的，
+一旦碰到了可就很难扯下来哦？",translated,依恩,0e09c4a0bd,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#6#12,"床に置いたり、天井からぶら下げておくと、
+小さな虫を取るのに使えるんじゃないかな？","要是放在地板上或者从天花板上吊下来，
+感觉可以用来捕捉小飞虫呢？",translated,依恩,900d88dc7f,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#8#12,魂を取るものが、虫を取るものに……,捕获灵魂的东西，变成了捕虫工具……,translated,,d5180776a2,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_assist007a.txt#9#12,"指先でちょっと触れるだけでも、
+トリモチがしっかりくっついて
+中々外れないの。","哪怕只是用指尖轻轻碰一下，
+粘胶就会牢牢粘住很难撕下来哦。",translated,依恩,347b3aac0b,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_assist007a.txt#10#12,"だから、小さな虫だったら触れたら最後、
+抜け出すことは不可能だよ。","所以如果是小虫子的话，一旦碰上就完蛋了，
+根本不可能逃脱得了哦。",translated,依恩,71633b1617,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#13#12,"水周りに時々小バエが飛んでることが
+あるから、台所にでもぶらさげておこう
+かな？","水槽水池附近偶尔会有小飞虫飞来飞去，
+要不要试着在厨房里挂上一根呢？",translated,依恩,2c6658321d,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_assist007a.txt#17#12,"そ、それは、まあ……
+でも、仕方ないの。","那、那个嘛，确实……
+但也无可奈何嘛。",translated,依恩,aa254336bd,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#18#12,"いくらわたしでも、魂を引き寄せて捕まえる
+物を作るなんて、できないもん。","就算是我，
+要做出吸引并捕捉灵魂的东西也是不可能的嘛。",translated,依恩,20e442b274,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#19#12,"でも、絶対にできない、って保証もないから
+もしかしたら……。","不过，既然没有绝对做不出来的保证，
+说不定……",translated,依恩,33a9f01826,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#20#12,"……は、外れててほしいなぁ。
+やっぱり、トリモチで捕まえられるのは、
+あまり嬉しくないし……。","……真、真希望别猜中啊。
+毕竟要是被粘胶给抓住，
+怎么想都不会开心的嘛……",translated,依恩,45669c8577,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_assist007a.txt#23#14,"エルステングリッドを
+作ったよ♪","做出了
+埃尔斯坦栅极♪",translated,,1d2414b763,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#25#14,"エルステングリッドが
+完成したよ♪","埃尔斯坦栅极
+制作完成啦♪",translated,,127a59d523,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_assist007a.txt#27#14,"エルステングリッドの
+作成完了。
+次は何を作ろうかな♪","埃尔斯坦栅极
+制作完毕。
+下次要做什么好呢♪",translated,,f2eca7d284,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_assist007a.txt#29#14,"エルステングリッドが
+できたよ♪","做好了
+埃尔斯坦栅极♪",translated,,22ea5085f7,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#3#12,次元論、完成……。,维度论，制作完成……,translated,依恩,b8b05fd523,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_book004a.txt#4#12,"って、言っていいのかな？
+今回のは、完成とは言えないかも。","……真的能这么说吗？
+这次的成果，或许还称不上是大功告成呢。",translated,依恩,0dca0db879,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#5#12,"元々は天文の昔の職員さんが書いた
+論文なんだけど、わたしの専門分野じゃ
+ないから、よくわからなくて……。","原本是过去天文的职员写下的学术论文，
+但因为不是我的专业领域，所以不太看得懂……",translated,依恩,fbfa956a45,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_book004a.txt#6#12,"それでも、頑張って思い出そうとは
+したんだよ？",即便如此，我也努力试着去回忆回想了哦？,translated,依恩,6dba3be696,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#7#12,"それで、どうにか覚えてる箇所だけは
+作ることが出来たけど……。",虽然总算是把还能勉强记住的部分复现出来了……,translated,依恩,1121522180,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#8#12,"まあ、極一部に変わりないから、
+これだけじゃ使えないね。","但归根结底只是一小部分，
+光凭这个根本没办法实际运用呢。",translated,依恩,4c24aac985,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#9#12,"そもそも次元論って、丸々一冊あっても
+理解するのがすごく難しい分野だもん。","原本维度论这个领域，
+就算有一整本完整的书也是极难理解的嘛。",translated,依恩,e98a3e333f,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#10#12,"それを、記憶を頼りにどうにか再現した
+極一部だけじゃ、逆に混乱することに
+なりかねないし……。","要是仅凭记忆勉强还原出这么微小的一部分，
+反而很可能会让人更加混乱……",translated,依恩,ec0147a26a,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_book004a.txt#11#12,"でも、面白そうな内容ではあるから、
+ちゃんとした本を一冊手に入れたいな。","不过内容看起来挺有趣的，
+真想弄到一本内容完整的正规书籍呢。",translated,依恩,915240e20d,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#13#14,"次元論を
+作ったよ♪","做出了
+维度论♪",translated,,6ede75fbee,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#15#14,"次元論が
+完成したよ♪","维度论
+制作完成啦♪",translated,,a10efa4003,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_book004a.txt#17#14,"次元論の
+作成完了。
+次は何を作ろうかな♪","维度论
+制作完毕。
+下次要做什么好呢♪",translated,,e273cacda7,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_book004a.txt#19#14,"次元論が
+できたよ♪","做好了
+维度论♪",translated,,965460153c,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#3#12,ＴｚＳ２プレート、完成したよ。,TzS2极板，制作完成啦。,translated,依恩,05169f9a38,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#4#12,"これは天文で研究されてる、最新式の
+シェルノトロン用のプレートなの。","这是天文正在研发的、
+用于最新型榭鲁诺特伦的极板哦。",translated,依恩,f2dacd8699,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#5#12,"……まあ、まだ研究段階のものだから、
+問題も残ってるけど。","……嘛，因为目前仍处于研发阶段，
+所以还遗留着一些问题就是了。",translated,依恩,9584223e6b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#7#12,最新式を簡単に作っちゃったの？,这么简单就把最新型号做出来了吗？,translated,,4fbde012fe,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#8#12,"えっと、このプレートは普通の物よりも、
+反応速度が格段に上がってるの。","呃，这块极板相比起寻常之物，
+反应速度有了极其显著的提升哦。",translated,依恩,5d83b236c8,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#9#12,……優れている箇所は、そこだけかな？,……硬要说优秀的地方，也就只有这点了吧？,translated,依恩,693a403d0b,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#12#12,"一番の問題は、耐久性が恐ろしく
+低くて、ちょっと出力を上げるだけで
+すぐに破損しちゃうところなの。","最大的问题在于耐用性低得吓人，
+只要稍微把输出功率调高一点，
+就会立刻损坏哦。",translated,依恩,a20ab407fe,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#13#12,"だから大規模な詩魔法はもちろん、
+離れた距離の通信もできないから……。","因此别说是大规模诗魔法了，
+就连长距离通信都无法胜任……",translated,依恩,22f86f2f8a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#14#12,"……まあ、出来ることはもちろん、
+使用目的もかなり限られるのは確かだね。","……嘛，无论是能做到的事还是使用途径，
+确实都被极其严苛地限制住了呢。",translated,依恩,ad47c6664b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#15#12,"まだ研究段階のものだし、今後どうなるかを
+楽しみにしてようよ。","毕竟还是研发阶段的产物，
+就满怀期待地看看今后会如何发展吧。",translated,依恩,fcae953feb,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#19#12,"あはは、最新式だからって作れない、
+ってわけじゃないよ。","啊哈哈，并不是说
+因为是最新型号就做不出来哦。",translated,依恩,4b57e34cae,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#20#12,"新型でも旧型でも、レシピカードがあれば
+大抵のものは作れるもん。","不管是新型还是旧型，只要有配方卡，
+绝大多数东西都是能做出来的嘛。",translated,依恩,d6669de5d5,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#21#12,"最新式を研究するのと、作るのとは、
+まったくの別物だよ。","研发最新技术与按照图纸制作，
+完全是两码事哦。",translated,依恩,19e207c58c,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#24#14,"ＴｚＳ２プレートを
+作ったよ♪","做出了
+TzS2极板♪",translated,,8ead236372,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#26#14,"ＴｚＳ２プレートが
+完成したよ♪","TzS2极板
+制作完成啦♪",translated,,3ed1498b74,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#28#14,"ＴｚＳ２プレートの
+作成完了。
+次は何を作ろうかな♪","TzS2极板
+制作完毕。
+下次要做什么好呢♪",translated,,73b5eac101,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_cathode006a.txt#30#14,"ＴｚＳ２プレートが
+できたよ♪","做好了
+TzS2极板♪",translated,,2ea17b23ca,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#3#12,天文印瞬間栄養ゼリー、完成だよ！,天文牌瞬间营养果冻，制作完成啦！,translated,依恩,689e531d49,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish016a.txt#4#12,"まあ、これはわたしが作ったものだから、
+天文印というよりはイオン印の方が
+正しいのかもしれないけど……。","嘛，既然是我亲手做的，
+比起“天文牌”，叫“依恩牌”可能更恰当吧……",translated,依恩,de3c449c22,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_dish016a.txt#5#12,"ま、まあ、細かいことはいいや。
+これについての説明をするね。","好、好啦，细节就先不管了。
+我来向你说明一下这个吧。",translated,依恩,c97d8139aa,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#6#12,"これは簡単に食べられて、栄養も補充できる
+とっても便利なゼリーなの。","这是能够轻松食用且迅速补充营养、
+非常方便的一款果冻哦。",translated,依恩,065073ed04,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#7#12,"体調が悪い時、食欲がない時には
+これを食べれば一瞬で栄養補給完了！","身体不舒服或者没有食欲的时候，
+只要吃下这个就能瞬间完成营养补给！",translated,依恩,c71f87b180,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#8#12,……って、今の説明だと思うよね？,……听了刚才的说明，你肯定会这么想对吧？,translated,依恩,436374e963,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish016a.txt#9#12,"でもこれは、科学的に無理やり多くの栄養を
+体全体に行き渡らせる効果があるの。","但这其实是通过科学手段
+强行把大量营养运送到全身各个角落的效果哦。",translated,依恩,0eb0d8f753,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#11#12,栄養が回るならいいんじゃない？,只要营养能输送过去不就行了吗？,translated,,0d834616e7,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish016a.txt#12#12,"科学的に、って一言が付くだけで、
+すごく怪しい薬に見えてくるよね？","光是带上“科学手段”这么个词，
+听起来就像非常可疑的药剂了对吧？",translated,依恩,ce5299683e,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#13#12,"一応薬じゃなくて、
+食品に分類されるのに……。","明明这并不属于药品，
+而是一道正儿八经的食品的说……",translated,依恩,ad3fe5926e,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#16#12,"とりあえず、どうしてもって時以外は
+あまり食べない方が良さそうだね。","总之不到迫不得已的紧要关头，
+感觉还是尽量别吃为好呢。",translated,依恩,09e9c23871,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#20#12,"栄養だけならまだ良かったんだけど、
+効果はそれだけじゃないの。","要光是补充营养倒也还罢了，
+但效果可不仅止于此哦。",translated,依恩,244952cc49,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish016a.txt#21#12,"これは内緒なんだけど、アドレナリンを
+大量に分泌させて眠気を覚ますような
+効果もあってね。","这可是秘密哦，其实它还有促使肾上腺素大量分泌、
+从而强行驱散睡意的作用呢。",translated,依恩,2584bb91b8,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_dish016a.txt#22#12,"つまり、使い過ぎると何日も寝ていない時
+みたいに、テンションがおかしなことに
+なっちゃうの……。","也就是说，一旦用过头了，就会变得像
+好几天没睡过觉一样，情绪亢奋得极不正常……",translated,依恩,8e5274a13c,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_dish016a.txt#23#12,"すごく忙しい時なんかはありがたいのかも
+しれないけど……あまり使いたいとは
+思えない薬……。","在极其忙碌的关键时刻或许会很让人感激，
+但实在让人不太想多碰这种药……",translated,依恩,073addd1fe,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_dish016a.txt#24#12,じゃなくて、食べ物だよね！,不对，是食品啦！,translated,依恩,fbe792ec01,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#3#12,えへへ、ルビーロールの出来上がりだよ！,诶嘿嘿，红宝石肉卷做好啦！,translated,依恩,cb75588329,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#4#12,"熱を通して甘さを増したルビーグラスで、
+ジューシーなお肉を包んだ料理なの。","这是用加热后甜度倍增的红宝石草，
+把多汁鲜嫩的肉馅包裹起来烹饪的料理哦。",translated,依恩,6328d4c2c1,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish017a.txt#5#12,わかりやすく言うと、ロールキャベツかな？,通俗易懂地说，大概就像卷心菜肉卷那样吧？,translated,依恩,30636b4bfc,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#6#12,"でも、ルビーグラスの方がキャベツよりも
+美味しいから、こっちの方が好きかも。","不过红宝石草比卷心菜更好吃，
+所以我可能更喜欢这个呢。",translated,依恩,15a2492060,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish017a.txt#8#12,見た目が食べ物に見えない,外观看起来一点都不像食物,translated,,e86003674d,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#9#12,"ジューシーなお肉とこの甘さが、
+不思議と合うんだよね。","多汁的鲜肉与这股甘甜，
+不可思议地非常契合呢。",translated,依恩,7d09c88652,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish017a.txt#10#12,"あなたにも食べさせてあげられたら
+いいのに……。",要是也能亲手做给你尝尝该多好啊……,translated,依恩,728ee3993d,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish017a.txt#13#12,"すごく美味しいよ、って言ってもらえる
+自信、あるんだけどなぁ……。","我可是非常有信心，
+能让你由衷夸奖一句“太好吃了”的呢……",translated,依恩,44973ef77d,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_dish017a.txt#17#12,あはは……確かにそれはあるかも。,啊哈哈……确实可能会这么觉得呢。,translated,依恩,3ae51810fb,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#18#12,"熱を通したルビーグラスは、
+本物のルビーみたいに鮮やかな色に
+なるから、宝石にしか見えないよね？","加热后的红宝石草，会变得像真正的红宝石一样
+鲜艳夺目，看起来完全就是宝石对吧？",translated,依恩,5b6e39f46f,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_dish017a.txt#19#12,でも、わたしはこの色が好きなの。,但我很喜欢这个颜色哦。,translated,依恩,68d72187dd,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_dish017a.txt#20#12,"食べられる宝石みたいに思えて、
+何だか御伽噺に出てくる料理っぽい
+ところが好きなんだ。","感觉就像可以食用的宝石一样，
+总透着一种童话故事里出现的料理的感觉，
+我很喜欢呢。",translated,依恩,aa2693b23f,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event019a.txt#3#12,"りんごをまったく使ってない
+りんご飴、完成だよ！","完全没用苹果做出来的
+苹果糖，制作完成啦！",translated,依恩,02362d9fa1,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#4#12,"……だって、わたしの周りには
+りんごがないんだもん。","……毕竟在我的周围，
+根本就没有苹果嘛。",translated,依恩,a16c796d7b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#5#12,"でも、味の近いモロッカの実を
+使ってるから、味に関しては
+本物と変わらないはずだよ。","不过，因为用了味道相近的莫罗卡之果，
+所以在味道上应该和真正的苹果没两样哦。",translated,依恩,12d7073650,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event019a.txt#7#12,りんごは食べたことあるの？,你吃过苹果吗？,translated,,db540109b7,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_event019a.txt#8#12,"とは言っても、りんご飴になっちゃうと、
+りんごの味はほとんどしなくなるよね？","虽说如此，一旦做成了苹果糖，
+其实就几乎尝不出什么苹果味了吧？",translated,依恩,72aa752b67,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#9#12,"りんごを包んでる水飴の甘さの方が、
+どうしても気になっちゃうし……。","无论如何都会更在意
+包裹着果实的糖浆甜味嘛……",translated,依恩,0e0aa08515,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#12#12,"そう考えると、モロッカの実になってても
+あまり気にならないんじゃないかな？","这么一想，就算换成了莫罗卡之果，
+应该也不会觉得有什么违和感才对吧？",translated,依恩,e3c29d8f84,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#16#12,"……あれ？
+そういえば、食べたことないかも。","……咦？
+话说回来，我好像还真没吃过呢。",translated,依恩,e7b934becc,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#17#12,"でも……凄く小さい頃に、食べたことが
+あるような気もするの。","不过……总觉得在非常非常小的时候，
+似乎曾经吃过的样子。",translated,依恩,37d001abd4,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#18#12,"風邪引いて寝込んだ時に、摩り下ろした
+りんごを食べさせてもらったことがあった
+ような……。","比如感冒卧病在床的时候，
+好像有人喂我吃过擦成泥的苹果……",translated,依恩,81a969b7d0,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event019a.txt#19#12,…………ダメ、これ以上思い出せない。,…………不行，再多的我就想不起来了。,translated,依恩,48c9834bfd,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_event019a.txt#20#12,"でも、わたしも昔はりんごのあるところに
+住んでいたのかもしれないね。","不过，或许我从前
+也曾生活在有苹果的地方呢。",translated,依恩,fbfebb42dd,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#23#14,"りんご飴を
+作ったよ♪","做出了
+苹果糖♪",translated,,f0d5040c84,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#25#14,"りんご飴が
+完成したよ♪","苹果糖
+制作完成啦♪",translated,,880e1f2082,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event019a.txt#27#14,"りんご飴の
+作成完了。
+次は何を作ろうかな♪","苹果糖
+制作完毕。
+下次要做什么好呢♪",translated,,d1bcfa2bf8,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event019a.txt#29#14,"りんご飴が
+できたよ♪","做好了
+苹果糖♪",translated,,8ffc945c4b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#3#12,海洋生物図鑑端末、できあがり！,海洋生物图鉴终端，制作完成！,translated,依恩,56328bd393,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_event020a.txt#4#12,"これにはね、十万種を超える海洋生物の
+データが克明に記されてるの。","这里面呀，详实精确地记录着
+超过十万种海洋生物的资料哦。",translated,依恩,aab2930d9c,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#5#12,"打ち込みながら読んでたけど、
+すごく勉強になっちゃった。","我一边录入一边阅读，
+真是学到了好多知识呢。",translated,依恩,d7d0a5898c,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#7#12,打ち込み作業、大変だったでしょ？,录入数据的工作，很辛苦吧？,translated,,e0aa4fe86f,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_event020a.txt#8#12,"普段何気なく水族館で見ている魚に、
+こんな習性があったんだなぁ、とか……。","比如平时在水族馆里漫不经心看着的鱼，
+原来有着这样的习性啊……",translated,依恩,066022f842,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#9#12,"……深海魚のはずなのに、水槽の中に
+入れられてるのはかわいそうだなぁ、とか。","还有……明明是深海鱼，
+却被装在浅浅的水槽里，
+真有点可怜呢，诸如此类的。",translated,依恩,17543d0a5a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#12#12,"あとは、まだ見たことのない綺麗なお魚も
+沢山載ってるんだよ。","另外，上面还登载了好多我从未见过的
+美丽鱼类哦。",translated,依恩,326d75effd,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#13#12,"今度水族館に行った時は、この端末を持って
+珍しいお魚を探しながらデートしたいな。","下次去水族馆的时候，我想带着这台终端，
+一边寻找罕见的鱼类一边和你约会呢。",translated,依恩,23fac8c1b6,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#17#12,それがね、全然大変じゃなかったの。,其实呀，完全一点都不辛苦哦。,translated,依恩,65575a53a0,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_event020a.txt#18#12,"最初は、十万種類のデータを打ち込む
+なんてちょっと面倒かも、って思ったん
+だけど……。","一开始我还觉得，要录入十万种资料
+可能会有点麻烦呢……",translated,依恩,2a20434dbf,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event020a.txt#19#12,"色んな魚のデータを読んでるうちに
+楽しくなっちゃって、気がついたら
+終わってたって感じだよ。","但读着各种各样鱼类的资料，
+不知不觉就沉迷其中，
+回过神来的时候竟然就已经全部弄完了哦。",translated,依恩,f1c0d8c76c,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event020a.txt#20#12,"う～ん……お魚だけじゃなくて、
+動物の図鑑も作ったら楽しそうだなぁ。","唔～……不光是鱼类，
+要是再做一本动物图鉴感觉也会很有趣呢。",translated,依恩,9292b40441,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#23#14,"海洋生物図鑑端末を
+作ったよ♪","做出了
+海洋生物图鉴终端♪",translated,,b8f5391a1d,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#25#14,"海洋生物図鑑端末が
+完成したよ♪","海洋生物图鉴终端
+制作完成啦♪",translated,,b65105b80a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_event020a.txt#27#14,"海洋生物図鑑端末の
+作成完了。
+次は何を作ろうかな♪","海洋生物图鉴终端
+制作完毕。
+下次要做什么好呢♪",translated,,c40789ff37,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_event020a.txt#29#14,"海洋生物図鑑端末が
+できたよ♪","做好了
+海洋生物图鉴终端♪",translated,,ad1b5f7b8e,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#3#12,レジスタートロン、完成したよ。,电阻特伦，制作完成啦。,translated,依恩,ed95acb019,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_final009a.txt#4#12,"これは、わたしの魂が捕まってたトロンと、
+同じタイプのトロンなの。","这和我曾经被困住灵魂的特伦，
+是属于同一类型的特伦哦。",translated,依恩,a4ab3cc4b2,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#5#12,"言わなくてもわかると思うけど……
+わたしの魂は入ってないよ？","我想就算不说你也明白……
+里面可没有关着我的灵魂哦？",translated,依恩,042ad36a9a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#6#12,"ていうか、もし入ってたらここにいる
+わたしは何なんだ、ってことになっちゃうと
+思うし。","话说回来，要是真关进去了，
+那站在这里的我又是怎么一回事了嘛。",translated,依恩,89f60c417f,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final009a.txt#7#12,"……それにしても、人間の魂って、
+こんな小さなものの中に入っちゃう
+大きさなんだね？","……话虽如此，人类的灵魂，
+竟然是能装进这么小的容器里的尺寸呢？",translated,依恩,77b8e18f90,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final009a.txt#8#12,"それとも、わたしのだけが人一倍小さかった
+だけなのかな？","还是说，仅仅是因为我的灵魂
+比常人要小上一倍呢？",translated,依恩,a31c7e0384,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#9#12,"……何だか、人間って意外とちっぽけな
+存在に思えてきそうで、あまり見ていたく
+ないかも。","……总觉得越看越会觉得人类是种渺小的存在，
+稍微有点让人不大想一直盯着它看了呢。",translated,依恩,8f9c3e7e3b,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final009a.txt#11#14,"レジスタートロンを
+作ったよ♪","做出了
+电阻特伦♪",translated,,9c85a17379,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#13#14,"レジスタートロンが
+完成したよ♪","电阻特伦
+制作完成啦♪",translated,,ee83aada3d,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final009a.txt#15#14,"レジスタートロンの
+作成完了。
+次は何を作ろうかな♪","电阻特伦
+制作完毕。
+下次要做什么好呢♪",translated,,e7130f20ba,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final009a.txt#17#14,"レジスタートロンが
+できたよ♪","做好了
+电阻特伦♪",translated,,25524010a2,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#3#12,ＷＶテクスメタル、完成したよ。,WV纹理金属，制作完成啦。,translated,依恩,72127f9afb,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_final015a.txt#4#12,"ちなみに、正式名称は別にあるんだけど、
+すごく長いから、みんなＷＶテクスメタル
+って呼んでるの。","顺带一提，它虽然另有正式名称，
+但因为实在太长了，大家通常都叫它WV纹理金属。",translated,依恩,c1138f28b7,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final015a.txt#5#12,"だから、あなたもＷＶテクスメタル、って
+覚えてくれてればいいと思うよ。","所以我觉得，你也只要记住
+“WV纹理金属”这个名字就足够啦。",translated,依恩,8ab6489f60,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#7#12,正式名称を教えてほしい,希望能告诉我它的正式名称,translated,,43989460ca,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_final015a.txt#8#12,"それで、これがどんなものかっていうと、
+加工法によって重力を変化させる特殊な
+金属でね……。","至于这到底是什么东西呢，
+它是一种能根据加工方法改变重力的特殊金属哦……",translated,依恩,6f687fc19f,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final015a.txt#9#12,"有用性が高い金属ではあるけど、
+その代わりすごく希少価値の高い金属で、
+使用されてる箇所は少ないんだけど……。","虽然实用性极高，但相对的稀有价值也极高，
+实际被采用的场合非常罕见……",translated,依恩,9ad0063d6a,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final015a.txt#12#12,"……わたし、そんなにすごい金属まで
+造れるようになっちゃったんだね？","……没想到现在的我，
+竟然连这么厉害的金属都能亲手制造出来了呢？",translated,依恩,f68241b523,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#16#12,"い、良いけど……一回じゃ覚えられないと
+思うよ？","好、好是可以啦……
+不过我想你听一遍肯定是记不住的哦？",translated,依恩,ecd8bce363,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#17#12,ＷＶテクスメタルの正式名称は……。,WV纹理金属的正式名称是……,translated,依恩,efd1dbe915,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_final015a.txt#18#12,重可変型Ｔｚ媒体特殊加工金属、だよ。,“重力可变型Tz介质特殊加工金属”哦。,translated,依恩,92d79209ae,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_final015a.txt#19#12,"……一息に言おうとすると、
+舌を噛みそうになるよね？","……要是想一口气念下来，
+感觉舌头都快咬到了对吧？",translated,依恩,7aeefdcebf,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#22#14,"ＷＶテクスメタルを
+作ったよ♪","做出了
+WV纹理金属♪",translated,,99f531f3e6,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#24#14,"ＷＶテクスメタルが
+完成したよ♪","WV纹理金属
+制作完成啦♪",translated,,94135a46b1,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_final015a.txt#26#14,"ＷＶテクスメタルの
+作成完了。
+次は何を作ろうかな♪","WV纹理金属
+制作完毕。
+下次要做什么好呢♪",translated,,cb82be4723,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_final015a.txt#28#14,"ＷＶテクスメタルが
+できたよ♪","做好了
+WV纹理金属♪",translated,,1d449a5bfe,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#3#12,光振動子、完成だよ！,光振子，制作完成啦！,translated,依恩,47efc7b8f9,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_machine011a.txt#4#12,この光振動子の中には、光の薄膜があるの。,在这枚光振子的内部，设有一层光之薄膜哦。,translated,依恩,0926206f9e,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_machine011a.txt#5#12,"それが音を捉えると、それが何の音なのか、
+もしくは誰の音なのかを解析することが
+できるんだよ。","一旦捕捉到声音，
+就能解析出那是什么声音、或者是谁发出的声音哦。",translated,依恩,89254bd491,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_machine011a.txt#7#12,使い道がわからない,不知道有什么用处,translated,,ad5d1fe01c,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_machine011a.txt#8#12,"あっ、でも音を捉えるっていっても、
+音そのものを捉えるわけじゃないの。","啊，不过说是捕捉声音，
+但捕捉的并不是声音本身哦。",translated,依恩,05d3dde752,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#9#12,"どんな音にも精神波が込められてるから、
+その精神波の波長を解析して、人なのか
+動物なのかを判断するんだよ。","因为任何声音中都蕴含着精神波，
+所以它是通过解析精神波的波长，
+来判断是人还是动物。",translated,依恩,f97c5a3253,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_machine011a.txt#12#12,"ラシェーラの個体識別ではこれに勝る
+機械は無いらしいけど……。","据说在拉榭拉的个体识别技术中，
+没有任何机械能出其右呢……",translated,依恩,2606d4be23,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#13#12,わたしのいる世界では、使い道が無いかも。,"不过在我现在身处的世界里，
+可能毫无用武之地呢。",translated,依恩,c78aa2f764,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_machine011a.txt#17#12,"う～ん……確かに、わたしの世界では
+使い道はないかも……。","唔～……确实，在我的世界里
+或许真的派不上用场……",translated,依恩,57623e0dba,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#18#12,"これを使って音の発生源を特定しなくちゃ
+いけないほど、広くない世界だし。","毕竟这个世界并没有大到
+非得用它来精确定位声源不可的程度。",translated,依恩,ac40b20d3f,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#19#12,"それに、わたしとねりこさんしか
+いないんだから。",更何况，这里本来就只有我和妮莉库两个人嘛。,translated,依恩,a853993df2,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#22#14,"光振動子を
+作ったよ♪","做出了
+光振子♪",translated,,93d1393135,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#24#14,"光振動子が
+完成したよ♪","光振子
+制作完成啦♪",translated,,f04a877caa,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_machine011a.txt#26#14,"光振動子の
+作成完了。
+次は何を作ろうかな♪","光振子
+制作完毕。
+下次要做什么好呢♪",translated,,8b8a6cc442,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_machine011a.txt#28#14,"光振動子が
+できたよ♪","做好了
+光振子♪",translated,,b17a805d75,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#3#12,"ジャジャーン！
+ＴｚソーラーＲＮＡ、完成したよ！","铛铛――！
+Tz太阳能RNA制作完成啦！",translated,依恩,92aec4ec9e,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#4#12,この見た目から、何か感じない？,看着这个外观，你有感觉到什么吗？,translated,依恩,1aa543d9c4,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_rna006a.txt#5#12,"これはね、天文を象徴したＲＮＡで、
+基板の上にはソーラーパネルを
+載せてあるの。","这个呀，是象征着天文的RNA，
+在基板上还搭载了太阳能电池板哦。",translated,依恩,f1a394ca3a,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_rna006a.txt#7#12,基板なのにソーラーパネル？,明明是基板却带着太阳能板？,translated,,564c9a30ee,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_rna006a.txt#8#12,"天文にも、放射線対策として、
+有害な波動に対する耐性を持った
+ソーラーパネルが使われてるんだけど……。","在天文那边，作为防辐射对策，
+也用到了耐受有害波动的
+太阳能电池板呢……",translated,依恩,7a80771596,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_rna006a.txt#9#12,"それと同じで、これも絶えず太陽から
+降り注ぐＴｚ波を取得することができるの。","和那个一样，这个也能不断获取
+从太阳倾泻而下的Tz波哦。",translated,依恩,8d103e9546,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#12#12,"天文を象徴としたＲＮＡっていうより、
+ＲＮＡとしても使える天文の模型、って
+思った方がいいかもしれないね。","与其说是象征天文的RNA，
+不如当成恰好能作为RNA来用的
+天文模型或许更好理解呢。",translated,依恩,e5c1881114,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_rna006a.txt#16#12,"ま、まあ、基板だから機械に組み込む時は、
+大抵内部に付けることになるよね？","不、不过毕竟是基板，装进机器里时，
+一般都是装在内部的对吧？",translated,依恩,d85a83d1bd,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#17#12,"そうなると、ソーラーパネルの意味は、
+なくなっちゃうけど……。","那样一来，太阳能电池板不就
+完全派不上用场了吗……",translated,依恩,7af3f5e39b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#18#12,"で、でも、これを使う時は基板を外に
+むき出しになるようにつければ、
+ちゃんと使えるようになるはずだよ！","但、但是，使用它时只要把基板
+暴露在外侧安装的话，
+肯定就能正常起效啦！",translated,依恩,c7753e9447,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_rna006a.txt#19#12,"……何か、間違ってるような気が
+しなくもないけど……。","……虽然我也隐约觉得，
+好像哪里有点搞错了……",translated,依恩,906cf3bed7,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#22#14,"ＴｚソーラーＲＮＡを
+作ったよ♪","做出了
+Tz太阳能RNA♪",translated,,fe8492ef34,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#24#14,"ＴｚソーラーＲＮＡが
+完成したよ♪","Tz太阳能RNA
+制作完成啦♪",translated,,6af06957f0,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_rna006a.txt#26#14,"ＴｚソーラーＲＮＡの
+作成完了。
+次は何を作ろうかな♪","Tz太阳能RNA
+制作完毕。
+下次要做什么好呢♪",translated,,d080d75248,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_rna006a.txt#28#14,"ＴｚソーラーＲＮＡが
+できたよ♪","做好了
+Tz太阳能RNA♪",translated,,98b526c4d6,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_salad005a.txt#3#12,ルビーグラスのサラダ、完成だよ！,红宝石草沙拉，制作完成啦！,translated,依恩,275e0f0d2c,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_salad005a.txt#4#12,上に載ってる緑色の葉っぱが決め手なの。,上面放着的绿色叶子是点睛之笔哦。,translated,依恩,e02690b223,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_salad005a.txt#5#12,"これがあることで、ルビーグラスの紅い色が
+すごく映えるんだよ。","有了这个搭配，红宝石草的红色
+就会显得特别鲜艳夺目呢。",translated,依恩,a14d135639,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_salad005a.txt#7#12,綺麗過ぎると食欲が湧かないかも,太漂亮了反而提不起食欲呢,translated,,65567fec16,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_salad005a.txt#8#12,あっ、でも見た目だけじゃないからね？,啊，不过可不仅仅是卖相好哦？,translated,依恩,195f3b0336,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_salad005a.txt#9#12,"特性の漬け汁でしっかりと味を
+つけてあるから、ただ甘いだけじゃないの。","用特制腌汁已经好好入味了，
+所以可绝不是单纯的甜味哦。",translated,依恩,642943cbf3,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_salad005a.txt#12#12,"ルビーグラスを使ってるからって、
+ただ甘いだけのサラダだと思ったら、
+食べた瞬間ビックリするはずだよ。","要是以为用了红宝石草就只是
+一份单纯偏甜的沙拉的话，
+吃下去的瞬间肯定会大吃一惊的。",translated,依恩,68cd0cecb2,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_salad005a.txt#13#12,"……何とかして、あなたにも食べて
+もらえたらいいのに。","……要是能有什么办法，
+也能让你尝一尝就好了。",translated,依恩,58f9c8b2ca,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_salad005a.txt#17#12,あっ、それわかるかも。,啊，这心情我或许能理解。,translated,依恩,ef0bfaa0ec,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_salad005a.txt#18#12,"綺麗過ぎて食べ物に見えないからかな？
+わたしも、これって食べられるのかな、って
+思いながら作ってたし……。","是因为太好看了不像食物的缘故吗？
+其实我在做的时候，也是一边想着
+“这真的能吃吗”一边做出来的……",translated,依恩,6cf3cc7602,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_salad005a.txt#19#12,"でも、一口食べればそんな考えはすぐに
+どこかに行っちゃうはずだよ。","不过只要吃上一口，这种想法肯定
+一下子就会烟消云散啦。",translated,依恩,55fd6025a7,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#3#12,は～い、複合励起七極管、完成っ！,好――啦，复合激发七极管制作完成！,translated,依恩,d7fb3c5037,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_tube004a.txt#4#12,"これ、見た目は普通の真空管に
+見えるかもしれないけど、
+すごい効果を持った物なんだよ。","这件东西，虽然外观上看起来
+可能就像普通的真空管一样，
+但它可是具有惊人效果的物品哦。",translated,依恩,5899fa5301,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_tube004a.txt#5#12,"この真空管の中に、いつもの電場を
+発生させることが出来るようになっててね。","在这个真空管内部，能够产生
+我们平时所说的那种电场哦。",translated,依恩,e07f1d510a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#6#12,"その相互作用で、Ｔｚ波を増幅させる
+ことができるんだよ。","依靠那种相互作用，
+就能够将Tz波进行放大哦。",translated,依恩,7b52638525,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#8#12,専門的過ぎて理解できない,太专业了完全听不懂,translated,,59f52d9a1f,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_tube004a.txt#9#12,"二極式整流真空管の出力と比べると、
+その強さ、何と数百倍！","要是和二极式整流真空管的输出相比，
+那强度居然有整整几百倍呢！",translated,依恩,ccc54372eb,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#10#12,"これ一つが二極式整流真空管数百個分の
+価値があるってことだね。","也就是说光这一个的价值，
+就抵得上数百个二极式整流真空管呢。",translated,依恩,2df98a0d4b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#13#12,"……でも、わたしとしては、これ一つだけ
+よりも、何百個も真空管をつけた方が
+良いんじゃないかな、って思うの。","……不过以我个人的想法来说，
+与其只装这一个，感觉装上几百个真空管
+不是更有意思一些吗。",translated,依恩,ccecda3f31,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_tube004a.txt#14#12,そっちの方が、見ててワクワク出来るもん。,因为那样看着更让人兴奋嘛。,translated,依恩,98fa3a645e,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_tube004a.txt#18#12,"そういえば、あなたの住んでる世界には
+Ｔｚ波がないんだっけ？","说起来，你所生活的世界里
+好像是没有Tz波的对吧？",translated,依恩,beacce2171,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#19#12,"それじゃあ、ちょっとこの話は難しいかも
+しれないね。","那这样的话，这个话题
+可能对你来说稍微有点难懂呢。",translated,依恩,0331df7ee5,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#20#12,"とりあえず、この真空管はＴｚ波を
+すごく増幅させる、超高性能な真空管、
+って思ってくれれば大丈夫だよ。","总之，只要把它当成能够大幅放大Tz波、
+性能超级出色的真空管，
+这样来理解就完全没问题啦。",translated,依恩,743f011d65,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_tube004a.txt#23#14,"複合励起七極管を
+作ったよ♪","做出了
+复合激发七极管♪",translated,,71f989a1fb,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#25#14,"複合励起七極管が
+完成したよ♪","复合激发七极管
+制作完成啦♪",translated,,d84730e1d8,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_tube004a.txt#27#14,"複合励起七極管の
+作成完了。
+次は何を作ろうかな♪","复合激发七极管
+制作完毕。
+下次要做什么好呢♪",translated,,fb2a83a872,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_tube004a.txt#29#14,"複合励起七極管が
+できたよ♪","做好了
+复合激发七极管♪",translated,,89a7574d3f,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#3#12,ＱＷＭＣ、完成したよ！,QWMC制作完成啦！,translated,依恩,158ba9ebc7,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#4#12,"って、名前だけじゃ何が何だか
+わからないよね？","不过，光听这个名字的话，
+完全搞不懂到底是什么对吧？",translated,依恩,5b3bd0ceea,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#5#12,"えっと、これはＴｘＢＩＯＳの一つで、
+天文職員のシェルノトロンにだけ使われる、
+特別なものなの。","嗯，这是TxBIOS的一种，
+是仅在天文职员的榭鲁诺特伦上使用的
+特别元件哦。",translated,依恩,7e1e225979,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#7#12,ＱＷＭＣってどういう意味？,QWMC是什么意思？,translated,,0f31eb8135,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#8#12,"天文職員が使ってるシェルノトロンは、
+普通の人が使ってるものとは性能が
+桁違いなんだよ。","天文职员所使用的榭鲁诺特伦，
+性能上跟普通人使用的东西相比
+可以说是天差地别呢。",translated,依恩,a713b9ce7c,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#9#12,"一般的に出回っているものでは到達できない
+領域まで、簡単にアクセスすることが
+出来ちゃうの。","市面上普遍流通的设备无法涉足的领域，
+它都能轻轻松松地直接访问哦。",translated,依恩,61d6006be7,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#12#12,"……これ、わたし個人が作ったら
+いけないものだよね？","……这个，应该不是我个人
+可以私自做出来的东西吧？",translated,依恩,468d79df8a,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#13#12,"天文の人達にバレないようにしないと……
+怒られるの嫌だもん。","可千万不能被天文的人发现了……
+我才不想挨骂呢。",translated,依恩,2240cc22a1,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#17#12,"……やっぱり、名前の方が
+気になっちゃうよね？","……果然，你还是比较在意
+它名字的含义对吧？",translated,依恩,830710b6ee,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#18#12,"えっとね、Ｑｕａｎｔｕｍ　Ｗａｖｅ
+Ｍｅｃｈａｎｉｃｓ　Ｃｌａｓｓの
+頭文字を取って、ＱＷＭＣっていうの。","那个呢，它是取自Quantum Wave
+Mechanics Class的
+首字母缩写，所以叫做QWMC哦。",translated,依恩,e231d9b132,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#19#12,"……名称って、大切だよね？
+こんな名前じゃ、説明されない限り
+誰もわからないよ……。","……名字这种东西，真的很重要对吧？
+叫这种名字，要是没人解释的话
+谁也搞不明白的嘛……",translated,依恩,f74a8f111e,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#22#14,"ＱＷＭＣを
+作ったよ♪","做出了
+QWMC♪",translated,,80e832fdf8,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#24#14,"ＱＷＭＣが
+完成したよ♪","QWMC
+制作完成啦♪",translated,,a92488211f,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#26#14,"ＱＷＭＣの
+作成完了。
+次は何を作ろうかな♪","QWMC
+制作完毕。
+下次要做什么好呢♪",translated,,b65f1e643c,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_txbios006a.txt#28#14,"ＱＷＭＣが
+できたよ♪","做好了
+QWMC♪",translated,,a4d6a81e1b,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#3#12,"じゃじゃーん！
+ヒュムネステリオン、完成だよ！","铛铛――！
+修姆涅斯特利昂制作完成啦！",translated,依恩,f4e0ebe034,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#4#12,"えへへ、一見普通のワンピースっぽく
+見えるけど、生地はつなぎと同じものを
+使ってあるの。","诶嘿嘿，乍看之下像普通的连衣裙，
+但面料使用的可是
+跟连体工作服一样的材质哦。",translated,依恩,cee37a0a56,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_wear014a.txt#5#12,"だから、普通のつなぎと同じように
+使うことができるんだよ。","所以，完全可以像普通的连体工作服
+一样穿来工作哦。",translated,依恩,3eef00bad3,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#7#12,普通のつなぎを着ても可愛いと思うよ？,我觉得就算穿普通的连体工作服也很可爱哦？,translated,,d416888c97,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_wear014a.txt#8#12,"でも、初めてこれを見た人は、
+まずこれがつなぎとはわからないよね？","不过，初次看到这件衣服的人，
+肯定看不出这是一件连体工作服吧？",translated,依恩,b9af8b1bcb,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#9#12,"そもそも、つなぎって作業してる時に
+ケガや汚れを防止する目的で着る服だし。","话说回来，连体工作服本来就是工作时
+为了防止受伤或弄脏而穿的衣服嘛。",translated,依恩,205dcf5efc,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#10#12,なのに、こんなに肌を露出してるんだもん。,可这件衣服，却露出了这么多肌肤嘛。,translated,依恩,683fbc216c,br=0 nl=0,1,
+inc/event/res/itemevent08/rt_item_wear014a.txt#13#12,"だから、実際に危険な作業をする時に、
+つなぎの代わりとして使うのには
+向いてないかもしれないね。","所以在真正要进行危险作业的时候，
+拿它来当连体工作服穿，
+可能并不太合适呢。",translated,依恩,f054322e8b,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_wear014a.txt#17#12,"ふふっ、そう言われると、普通のつなぎも
+着てみたくなってくるよ。","呵呵，被你这么一说，
+我也想试着穿穿看普通的连体工作服了呢。",translated,依恩,ff8b9be392,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#18#12,"覚えてる限りだと、つなぎを着た記憶も
+ないから、どんな感じなのかちょっと
+気にもなるし……。","在我的记忆中，从来没穿过连体工装，
+所以也稍微有点好奇
+穿上去会是什么样的感觉呢……",translated,依恩,6d9d1cfc5e,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_wear014a.txt#19#12,"今度、ねりこさんにあった時にでも、
+お店にないか聞いてみようかな？","下次见到妮莉库小姐的时候，
+问问看她的店里有没有卖吧？",translated,依恩,e973165171,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#22#14,"ヒュムネステリオンを
+作ったよ♪","做出了
+修姆涅斯特利昂♪",translated,,b3571f34d0,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#24#14,"ヒュムネステリオンが
+完成したよ♪","修姆涅斯特利昂
+制作完成啦♪",translated,,d5b775d8e2,br=0 nl=1,2,
+inc/event/res/itemevent08/rt_item_wear014a.txt#26#14,"ヒュムネステリオンの
+作成完了。
+次は何を作ろうかな♪","修姆涅斯特利昂
+制作完毕。
+下次要做什么好呢♪",translated,,e7531bbb94,br=0 nl=2,3,
+inc/event/res/itemevent08/rt_item_wear014a.txt#28#14,"ヒュムネステリオンが
+できたよ♪","做好了
+修姆涅斯特利昂♪",translated,,e91b9927fb,br=0 nl=1,2,

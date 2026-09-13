@@ -1,0 +1,521 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/daystaskevent01/tas_bta01.txt#6#12,今呼んだ～？,刚才是在叫我吗～？,translated,依恩,7e6f3fcd88,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_bta01.txt#7#12,"ごめんね。
+今お風呂だから、またあとでね。","对不起哦。
+我现在在洗澡，待会儿再说吧。",translated,依恩,069ed36d58,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_bta01.txt#9#12,"えっ！　あっ！
+今呼んだよね？","诶！啊！
+刚才是在叫我对吧？",translated,依恩,44891dab13,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_bta01.txt#10#12,"ごめんね、お風呂に入ってるから、
+あとでお話しようね。","对不起哦，我现在在泡澡，
+待会儿再聊吧。",translated,依恩,0f49eb02d9,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_bta01.txt#12#12,今お風呂に入っているところなの。,我现在正在洗澡呢。,translated,依恩,ecb247637f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_bta01.txt#13#12,上がったら、いっぱいお話しようね。,等我出去之后，再好好聊很多话哦。,translated,依恩,db931e4099,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_bta01.txt#15#12,"あっ、は～い！
+ごめんねぇ、今お風呂なの～。","啊，来～啦！
+抱歉呀，我现在在洗澡呢～。",translated,依恩,6b6b4d0449,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_bta01.txt#16#12,ちょっと、タイミング悪かったかな……。,好像时机有点不太凑巧呢……,translated,依恩,1e8283b6d1,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_bta01.txt#18#12,"今呼ばれたような気がしたんだけど、
+気のせいじゃないよね？","总觉得刚才好像有人叫我，
+应该不是我的错觉吧？",translated,依恩,d20188b9e0,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_bta01.txt#19#12,"ごめんなさい。
+今お風呂だから、またあとでね。","真不好意思。
+我现在在洗澡，待会儿再说哦。",translated,依恩,fd662ccfe5,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#2#12,どうかしたの～？,怎么了吗～？,translated,依恩,763d3d916a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#3#12,お風呂に行きたい,想去浴室,translated,,82fcbbdbfb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#4#12,そんなつもりはない,没有那个意思,translated,,13e857296d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#8#12,ねぇ、どっちなの～？,那个，到底是哪种意思呀～？,translated,依恩,4222efcf41,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#10#12,あれ？　どうしたのかな？,咦？怎么了吗？,translated,依恩,e8c7193213,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#13#12,"はぁ……。
+お風呂でゆっくりしよう。","哈……
+在浴池里好好放松一下吧。",translated,依恩,0637398ad1,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#17#12,や、やっぱり、そうなんだ……。,果、果然是这样呀……,translated,依恩,51fec3eed8,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#18#12,えっと、その……ごめんね。,那个，不好意思哦……,translated,依恩,5c132fa512,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#19#12,"聞いておいてなんだけど、
+やっぱり恥ずかしいから……。","虽然是我主动问你的，
+但果然还是太害羞了啦……",translated,依恩,76b6d235ef,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#20#12,"端末を置く場所はあるけど、
+さすがにちょっと……。","虽然确实有可以放终端的地方，
+但这也未免太……",translated,依恩,1772d0f175,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#24#12,よかったぁ……。,太好啦……,translated,依恩,3bd9f171d5,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#25#12,えへへ、なんかちょっと緊張しちゃったよ。,诶嘿嘿，总觉得刚才稍微紧张了一下呢。,translated,依恩,03a719c1f2,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#26#12,それじゃあ、お風呂上がるまで待っててね。,那么，等我洗完出去再找你哦。,translated,依恩,8c462ca05b,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#28#12,"ねぇ……もしかして、
+またお風呂に来たいって言うの？","我说……难道说，
+你又想来浴室吗？",translated,依恩,35fc57691d,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#29#12,行きたい,想去,translated,,4dc8ee3969,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#30#12,なんでもない,没事,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#34#12,ねぇ、あ、あの～……。,那个……那、那个～……,translated,依恩,b62ad59a12,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#36#12,どうしたんだろ？,这是怎么了呀？,translated,依恩,a328fd0a3f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#39#12,"ふぅ……。
+なんか安心しちゃった……。","呼……
+总算松了一口气……",translated,依恩,7797c55119,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#43#12,あぅ……だ、だからだめだってば……。,啊呜……都、都说了不可以啦……,translated,依恩,fbf0a9e20f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#44#12,"それにシャワーカーテンがあるし、
+端末置く場所からは見れないよ？","而且有浴帘挡着，
+从放终端的地方是看不到的哦？",translated,依恩,59cc3883ad,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#45#12,"もしなかったとしても、
+わ、わたしの裸なんて……。","就算没有浴帘，
+我、我的裸体也没什么好看的……",translated,依恩,05224d7916,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btb01.txt#46#12,あぅ、もう！　想像しちゃったよぉ……。,啊呜，真是的！我都脑补出画面来了啦……,translated,依恩,bce1bc8883,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#49#12,よかったぁ……。,太好啦……,translated,依恩,3bd9f171d5,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#50#12,えへへ、なんかちょっと緊張しちゃったよ。,诶嘿嘿，总觉得刚才稍微紧张了一下呢。,translated,依恩,03a719c1f2,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btb01.txt#51#12,それじゃあ、お風呂上がるまで待っててね。,那么，等我洗完出去再找你哦。,translated,依恩,8c462ca05b,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#20#12,お風呂って気持ちいいよね～。,泡澡真的很舒服呢～。,translated,依恩,07ef851002,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#21#12,"身体にたまった疲れがすぅって、
+抜けていく気がするよ。","总觉得积攒在身体里的疲劳，
+都嗖的一下排空了呢。",translated,依恩,9f9e623b75,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btc01.txt#23#12,はぁ、つい長湯しちゃいそう……。,哈，感觉一不小心就会泡太久……,translated,依恩,c1237b78ea,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#25#12,"今更だけど、こんな湿気の強いところに
+持ってきて大丈夫だったかな？","虽然现在说有点晚了，
+带到湿气这么重的地方真的没问题吗？",translated,依恩,95693f7408,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btc01.txt#26#12,壊れたりしないか、ちょっと心配だよ。,有点担心会不会弄坏呢。,translated,依恩,6a13bd1f5c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#31#12,"暇になっちゃった？
+でも、あともうちょっとだけいいかな？","觉得无聊了吗？
+不过，能再稍微等我一下下吗？",translated,依恩,40e533355f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btc01.txt#33#12,"あなたも一緒に入れればいいのに。
+でも、さすがに壊れちゃう……よね。","要是你也能一起泡就好了。
+不过，肯定会弄坏的……对吧。",translated,依恩,7eba25d8a6,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btc01.txt#35#12,何度も呼んでどうしたの？,叫了我好几次，怎么了吗？,translated,依恩,28092a9fed,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#36#12,も、もしかして、その……えっと……。,难、难道说，那个……唔……,translated,依恩,712097a7bb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btc01.txt#37#12,"ううん！　やっぱりなんでもない！
+気にしないで！","没、没什么！果然还是别提了！
+别放在心上哦！",translated,依恩,776de1922f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#3#12,"ちゃっぷちゃぷ～、ぴっちゃぴちゃ～、
+ぱちゃぱちゃ～♪","哗啦哗啦～，滴答滴答～，
+扑哧扑哧～♪",translated,依恩,86e9628925,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#5#12,"あわあわ～、ぷくぷく～、
+あわあわ～、ふっふふ～ん♪","泡泡～，咕嘟咕嘟～，
+泡泡～，呼呼呼～嗯♪",translated,依恩,348950c61f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#7#12,"はぁ……体の疲れも一緒に
+流れていくみたい……。","哈……感觉身体的疲倦
+也一起被冲走了呢……",translated,依恩,ca7ad645b1,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#9#12,"気持ちいい～……。
+このまま眠っちゃいたいかも……。","好舒服呀～……
+感觉都快要睡着了……",translated,依恩,6dde10a404,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#11#12,"……女の子の髪の毛って、どのくらいの
+長さが一番魅力的なんだろう……。","……女孩子的头发，到底多长
+才最有魅力呢……",translated,依恩,32f6d50ba2,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#13#12,あはは、泡がきれ～♪,啊哈哈，泡泡好漂亮～♪,translated,依恩,8d0da39b79,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#15#12,う～ん、ちょっとお肉が気になるかも……。,嗯～，好像有点在意身上的肉肉了……,translated,依恩,5c21dd5320,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#17#12,"あわあわ～、ふわふわ～、パチン。
+えへへ～♪","泡泡～，飘呀飘～，啪嗒。
+诶嘿嘿～♪",translated,依恩,ef1e5c6850,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#19#12,"お風呂って、どうしてこんなに
+落ち着くんだろう……。","泡澡的时候，
+为什么会让人这么心静呢……",translated,依恩,217812323c,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#21#12,じゃぶじゃぶ～♪,哗啦哗啦～♪,translated,依恩,0aeda9b276,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#23#12,"はぁ～……。
+いい気持ち……。","哈啊～……
+好舒服……",translated,依恩,cbd0b2dd7e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#25#12,"髪の毛のお手入れって大変……。
+でも、ちゃんとしなきゃ。","打理头发真的好麻烦……
+不过，可不能偷懒呢。",translated,依恩,cb0e7422b5,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#27#12,う～ん、あそこをあぁしてみたら……。,嗯～，如果把那里那样弄一下的话……,translated,依恩,2a01f4c22b,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#29#12,あぅ～……考えが延々ループしてる……。,啊呜～……思路开始无限循环了……,translated,依恩,448b16943c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#30#12,一回、考えるの止めようかな……。,先暂时放空一下脑子吧……,translated,依恩,daac14357f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#32#12,"水で体を洗うとお肌の張りが良くなる
+らしいけど――","听说用冷水洗身体
+能让皮肤变得更有弹性――",translated,依恩,69153615ce,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#33#12,さすがに風邪引いちゃうよね。,不过那样绝对会感冒的吧。,translated,依恩,3df2a2b047,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#35#12,う～ん、あれはしょうがないのかな～。,嗯～，那种事也是没办法的吧～。,translated,依恩,2944db930d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#37#12,"あわあわ♪　ぶっくぶっく♪
+らんらんらん♪","泡泡♪ 咕嘟咕嘟♪
+啦啦啦♪",translated,依恩,07cf0927fa,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#39#12,今日の日記にはなんて書こうかなぁ……。,今天的日记该写些什么好呢……,translated,依恩,64cf62d543,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_btd01.txt#41#12,"はぁ……。
+なんか眠くなってきちゃった……。","哈啊……
+不知不觉开始犯困了……",translated,依恩,06f70c2ca7,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_btd01.txt#43#12,疲れが染み出ていくみたいだよ～……。,疲倦好像都在慢慢渗出来了呢～……,translated,依恩,5e1d3eb56f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#10#12,"物作りの最中って、お話ししない方が
+集中できそうに思うけど、作業によっては
+そうじゃない時もあるんだよ。","做东西的时候，虽然不说话好像
+更容易集中注意力，但其实根据工序的不同
+有时候也不全那样哦。",translated,依恩,f063f24c0a,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_comp01.txt#11#12,"簡単な作業の時は、お話ししながらの方が
+意外と楽しく進められるの。","在做简单工作的时候，边聊边做
+反而能意外愉快地推进呢。",translated,依恩,f9c302c0f9,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#12#12,"だから、作業中でも遠慮せずに
+わたしに話しかけてね。","所以，哪怕我在做事，
+你也不用客气随时跟我说话哦。",translated,依恩,a7b76bbf0e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#14#12,"う～ん……やっぱりわたし、料理よりも
+工作をしてる時の方が幸せかも。","唔～……比起做饭，
+我做手工的时候果然更幸福呢。",translated,依恩,9c17935d07,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#15#12,"やっぱりわたしって、こういう作業が
+合ってるみたい。","果然我还是更适合
+做这类工作呢。",translated,依恩,e9cd376f18,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#16#12,なんて、今更かな？,现在才这么说，有点迟钝了吗？,translated,依恩,9700aa64b0,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#18#12,"あなたが見てくれてると、頑張って
+すごい物を作らなくちゃ、って気に
+なれるの。","有你在看着我的时候，
+我就会涌起一股
+必须要努力做出厉害东西的心情呢。",translated,依恩,b010e2d11f,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_comp01.txt#19#12,"……でも、あんまりジッと見られると、
+ドキドキして失敗しちゃうかも。","……不过，要是被你盯得太紧，
+我可能会心跳加速不小心搞砸哦。",translated,依恩,b2feea616b,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#21#12,"えへへ、こういう作業は大好きだから、
+つい気分が高まっちゃうよ。","诶嘿嘿，因为我很喜欢这种工作，
+不知不觉就会情绪高涨呢。",translated,依恩,2c803646da,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#22#12,"あ～あ、あなたと一緒に作れたら、
+もっともっと楽しくなるのに……。","啊～啊，要是能和你一起做的话，
+肯定会变得更加更加开心的……",translated,依恩,998b1db68c,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#34#12,えっと、これは……。,那个，这个是……,translated,依恩,7cc7fb6c3a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#36#12,ここはこうして……。,这里要这样弄……,translated,依恩,4d6c07930d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#38#12,うん、悪くないかな。,嗯，感觉还不错。,translated,依恩,48f50f4805,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#40#12,"らんらら～♪　らんらら～♪
+らんららんらら～♪","啦啦啦～♪ 啦啦啦～♪
+啦啦啦啦啦～♪",translated,依恩,5069e8497f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_comp01.txt#42#12,ねこねこ♪　にゃんにゃん♪,喵喵♪ 喵呜喵呜♪,translated,依恩,5d684496ae,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#44#12,ふんふふんふ♪　ふんふふんふ♪,哼哼哼哼♪ 哼哼哼哼♪,translated,依恩,e3f400f34c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_comp01.txt#48#12,あれ……どうしようかなぁ……。,哎呀……该怎么办好呢……,translated,依恩,bd5871fea9,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#10#12,"あなたと会う前は料理なんてほとんど
+しなかったのに、今じゃもう日課に
+なっちゃったよ。","在遇见你之前我基本都不怎么做饭的，
+现在却已经变成
+每天必做的日常啦。",translated,依恩,1cd2b6f005,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_cook01.txt#11#12,"……まあ、だからって得意かと聞かれたら
+素直に頷けないけど……。","……嘛，话虽如此，要是问我擅不擅长，
+我也没法坦然点头承认就是了……",translated,依恩,ceb3313ea4,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#13#12,"せっかく上手に作れても、
+食べるのはわたしだけなんだよね。","就算好不容易做得很可口，
+吃的人也只有我一个呢。",translated,依恩,24de547844,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#14#12,"あなたにも食べさせてあげられたら、
+もっと頑張ろうって気になれるのに……。","要是也能做给你尝尝的话，
+我肯定会更加努力去做的……",translated,依恩,ff840172f2,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#15#12,それがちょっと残念かな？,这一点稍微有点遗憾吧？,translated,依恩,1a5b158d4a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#17#12,"包丁を使って材料を切る時って、
+すごく緊張するの……。","拿菜刀切食材的时候，
+真的会觉得好紧张……",translated,依恩,691c2caf9f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#18#12,"野菜の皮を剥く時は特にね。
+指を切らないかなぁ、って、
+毎回ビクビクしてるよ。","特别是在削蔬菜皮的时候。
+我每次都战战兢兢的，
+生怕会切到手指呢。",translated,依恩,e711b32e75,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_cook01.txt#19#12,"工作の時は、もっと危ない道具を使った
+精密作業をしてるのに……不思議だね？","明明做手工的时候，用过更危险的工具
+做精密操作……真是不可思议呢？",translated,依恩,42efbff082,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#21#12,"料理の途中で調味料が切れてることに
+気づいたら、どうしたらいいのかな？","做饭做到一半，发现调味料用完了的话，
+该怎么办才好呢？",translated,依恩,72fb280912,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#22#12,"近所の人に、調味料貸してください、って
+お願いすることもできないし……。","总不能去拜托附近的人，
+跟人家说请借我点调味料吧……",translated,依恩,115e053d27,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#23#12,"ねりこさんの家はちょっと離れてるし……
+っていうか、借りに来たなら買っていけ、
+って言われちゃうかな？","妮莉库小姐的家又稍微有点远……
+不如说，真要过去借的话，
+大概会被她说既然来了就直接买吧？",translated,依恩,f68232b3c5,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_cook01.txt#35#12,えっと、これは……。,那个，这个是……,translated,依恩,7cc7fb6c3a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#37#12,ここはこうして……。,这里要这样弄……,translated,依恩,4d6c07930d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#39#12,うん、悪くないかな。,嗯，感觉还不错。,translated,依恩,48f50f4805,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#41#12,"らんらら～♪　らんらら～♪
+らんららんらら～♪","啦啦啦～♪ 啦啦啦～♪
+啦啦啦啦啦～♪",translated,依恩,5069e8497f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_cook01.txt#43#12,ねこねこ♪　にゃんにゃん♪,喵喵♪ 喵呜喵呜♪,translated,依恩,5d684496ae,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#45#12,ふんふふんふ♪　ふんふふんふ♪,哼哼哼哼♪ 哼哼哼哼♪,translated,依恩,e3f400f34c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_cook01.txt#49#12,あれ……どうしようかなぁ……。,哎呀……该怎么办好呢……,translated,依恩,bd5871fea9,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eata01.txt#5#12,今ご飯食べてるから、またあとでね。,我正在吃饭呢，待会儿再聊哦。,translated,依恩,8afd7ef790,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eata01.txt#7#12,"ごめんなさい。
+先にご飯食べちゃうから、またあとでね。","不好意思哦。
+等我先吃完饭，待会儿再说吧。",translated,依恩,ab1f21e945,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eata01.txt#9#12,あ……ちょっとタイミング悪かったね。,啊……时机好像有点不巧呢。,translated,依恩,e8fcaf8ab6,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eata01.txt#10#12,"先にご飯食べちゃうから、
+またあとでお話しようね。","我先吃完饭，
+待会儿再和你聊哦。",translated,依恩,28cd7335dd,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eatb01.txt#149#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#151#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#153#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#154#12,またあとでお話しよう。,待会儿再聊吧。,translated,依恩,b9ca4c7f91,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#159#12,……食べるの遅くてごめんね。,……我吃得慢真是不好意思哦。,translated,依恩,2b441015e0,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#161#12,"ごめんなさい。
+まだ食べ終わってないからあとでね。","对不起哦。
+我还没吃完呢，待会儿再说吧。",translated,依恩,ee75725da9,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eatb01.txt#163#12,が、頑張って早く食べてみるね。,我、我会努力吃快一点的。,translated,依恩,72bfc2919e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#168#12,もう、そんなにお話したいの？,真是的，就这么想和我说话呀？,translated,依恩,7d34008464,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#170#12,もう少しだから、我慢してね。,马上就好啦，稍微忍耐一下哦。,translated,依恩,91453447fd,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eatb01.txt#172#12,"急ぎすぎるの身体に良くないけど、
+頑張ってみるから待ってて。","虽然吃太急对身体不好，
+不过我会尽量抓紧的，等我一下哦。",translated,依恩,d0c2fd7241,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#8#12,今着替えてるから、ちょっと待って～。,我正在换衣服呢，稍微等一下～,translated,依恩,e64d50f388,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eq01.txt#10#12,ごめんなさい。,对不起。,translated,依恩,7083782acb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eq01.txt#11#12,"今着替えているところだから
+少しだけ待ってね。","我现在正在换衣服，
+稍微等我一下下哦。",translated,依恩,3adcb16288,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#15#12,も～、そんなに焦らせないでよ～。,真是的～别催得这么急嘛～。,translated,依恩,ced5571245,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eq01.txt#17#12,"す、すぐに着替えちゃうから
+そんなに焦らせないでよ～。","我、我马上就换好了，
+别催得这么急嘛～。",translated,依恩,1fdf2dba91,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#21#12,"えっと……あれ？
+着方間違えちゃってるよぉ……。","那个……咦？
+衣服好像穿反了啦……",translated,依恩,ff5f3c4e92,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#23#12,"えっと、これがこっちで、こっちが……。
+あ、あれ？","那个，这个穿这边，这边是……
+咦、咦？",translated,依恩,0a5ade52f7,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#28#12,"えへへ、もうちょっとだよ。
+楽しみにしててね。","诶嘿嘿，马上就好啦。
+好好期待着哦。",translated,依恩,e9bb3d3c77,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#30#12,そんなに早くわたしを見たいの？,就这么想快点看到我吗？,translated,依恩,4515621873,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eq01.txt#31#12,えへへ、もうせっかちさんなんだから♪,诶嘿嘿，真是个急性子呢♪,translated,依恩,7fe13f0905,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_eq01.txt#34#12,"も、もうちょっとでいい感じになるから
+そんなに慌てないで。","马、马上就穿得差不多了，
+别那么着急嘛。",translated,依恩,0cf90788f6,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#38#12,"だから、まだだってば～。
+せかされたら余計に失敗しちゃうよ～。","都说了还没好嘛～。
+你越催我反而越容易穿错啦～。",translated,依恩,e78cb4ce99,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#41#12,"わ、分かってるってば。
+うぅ、こんな感じでいいのかな……。","我、我知道啦。
+呜呜，这样穿应该就可以了吧……",translated,依恩,4e8877e7d6,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_eq01.txt#43#12,"えっと……ごめんね。
+こんがらがっちゃった。
+もうちょっとだけ待って。","那个……对不起哦。
+衣服缠成一团了。
+再稍微等我一下下。",translated,依恩,be2a35e9e4,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_frdw01.txt#3#12,ん……んん～……。,嗯……嗯～……,translated,依恩,eb32cb40fe,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_frdw01.txt#4#12,あれ？　わたし寝ちゃってた？,咦？我睡着了吗？,translated,依恩,1fad840733,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_frdw01.txt#6#12,あれ？　いつの間にか寝ちゃってた？,咦？不知不觉间睡着了？,translated,依恩,772356afe2,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_frdw01.txt#7#12,疲れてたのかなぁ……。,难道是太累了吗……,translated,依恩,522aad5cac,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_frdw01.txt#8#12,"けどお昼寝したおかげで
+元気になったみたい。
+さぁ、頑張ろう～。","不过睡了个午觉，
+感觉整个人精神多了呢。
+好，加把劲吧～。",translated,依恩,d058987f06,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_frdw01.txt#10#12,ふぁぁぁ……。おはよ～……。,呼啊……早～啊……,translated,依恩,79c1b4f6b9,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_frdw01.txt#11#12,"あはは、なんか眠くなっちゃって
+お昼寝しちゃった。","啊哈哈，总觉得有点犯困，
+就睡了个午觉。",translated,依恩,fa597ff631,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_frdw01.txt#12#12,"けどもう大丈夫。
+すぐ起きるよ。","不过已经没事啦。
+我马上起来哦。",translated,依恩,d18f0f1981,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#7#12,"ちょっとまって、
+今考え事してるから……。","稍微等一下，
+我现在正在琢磨事情……",translated,依恩,cad6f82bcc,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#9#12,今ちょっと考え中。,我现在正在思考呢。,translated,依恩,3f0797db6d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#10#12,すぐに終わるから少しだけ待ってて。,马上就想完了，稍微等我一下下哦。,translated,依恩,c5bfcd1e7c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#12#12,ごめんね、少し待ってて。,对不起哦，稍微等我一下。,translated,依恩,794cd42894,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#16#12,ごめんなさい、あと少し待って。,不好意思，再稍微等我一下下。,translated,依恩,17bb162fe5,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#18#12,も、もうちょっとだけ待って～。,再、再稍微等我一下嘛～,translated,依恩,a2ad9abbfc,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#20#12,も、もう少しだけ……ね。,再、再等一下下……好吗。,translated,依恩,3b93157ddb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#22#12,"えっと、ごめんね。
+もう少しだけ待ってて。","那个，对不起哦。
+再稍微等我一下下。",translated,依恩,42a23e99d0,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#24#12,そんなに慌てなくても、ちゃんと行くよ～。,不用那么着急，我待会儿就过去啦～。,translated,依恩,bf6776bce9,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#26#12,だから待っててってば～。,所以都说了让你等等嘛～。,translated,依恩,84d3a6d0b8,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#30#12,そんなにせかさないでよ～。,别催得那么急嘛～。,translated,依恩,89477b880d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#32#12,わ、わかってるよ。あと少しだけだから。,我、我知道啦。马上就好啦。,translated,依恩,6b7d39a13a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#34#12,"お、落ち着いてよ～。
+もうちょっとだけ～。","冷、冷静一点嘛～。
+再等一小会儿就好啦～。",translated,依恩,f1c37230b8,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#36#12,はぁ……。分かってるってば。,唉……都说了我知道啦。,translated,依恩,d8c9b3c1f7,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#38#12,"そんな何回も呼ばなくたって
+分かってるのに……。","不用叫我这么多次，
+我也知道的啦……",translated,依恩,5fb89cf794,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#42#12,"もう、分かってるってば。
+あとちょっとだけ待って。","真是的，我知道啦。
+再等一小会儿就好。",translated,依恩,1e0b6a2e06,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#44#12,"も～、そんな慌てないでよ。
+もうちょっとだから待ってて！","真是的～别这么着急嘛。
+马上就好啦，等等我！",translated,依恩,aa5f14311e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_mt01.txt#47#12,どうしてそんなに焦らせるのかな……。,为什么这么心急呢……,translated,依恩,ce7c52eb48,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#48#12,慌てたら余計に時間かかっちゃうよ。,慌慌张张的反而会花更多时间哦。,translated,依恩,df4f680926,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#50#12,あなたって我慢できない人なんだね……。,你还真是个按捺不住性子的人呢……,translated,依恩,ed9ca333a7,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_mt01.txt#51#12,ちょっとショックかも……。,稍微有点受打击呢……,translated,依恩,2f23fbc834,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_pta01.txt#2#12,もう、そんなにお話したいの？,真是的，就这么想和我说话呀？,translated,依恩,7d34008464,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_pta01.txt#4#12,もう少しだから我慢してね。,马上就好啦，先忍耐一下哦。,translated,依恩,4fd701443a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_pta01.txt#6#12,"わたしもあなたとお話するのは好き
+だけど、これが終わるまで待っててね。","虽然我也很喜欢和你聊天，
+但等我把这个弄完好吗。",translated,依恩,f2c516e403,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_ptb01.txt#2#12,そんなに慌てないで。,不要那么心急嘛。,translated,依恩,631e17edf1,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptb01.txt#3#12,あとでたくさんお話しようね♪,待会儿再跟你聊很多话哦♪,translated,依恩,ea8233b202,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptb01.txt#5#12,えへへ、ほんとせっかちさんなんだから。,诶嘿嘿，真是个急性子呢。,translated,依恩,e00432934d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptb01.txt#6#12,もうちょっと我慢してね。,再稍微忍耐一下下哦。,translated,依恩,07cedf21cf,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptb01.txt#8#12,"えっと、その……他のこと、
+できなくなっちゃうの……。","那个……这样的话，
+我就没法做别的事情了啦……",translated,依恩,978b3e5d00,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_ptb01.txt#9#12,わかってくれると、嬉しいな。,你要是能理解的话，我会很高兴的。,translated,依恩,0378521e0f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptc01.txt#2#12,"お話したいって言われて嬉しいような、
+せかされて悲しいような……。","你说想聊天我挺开心的，
+被催得这么急又觉得有点难过……",translated,依恩,a89ee54b5d,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_ptc01.txt#3#12,ちょっと複雑だね。,心情真有点复杂呢。,translated,依恩,3e27cf21f8,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptc01.txt#6#12,ごめんなさい。まだなの。,对不起哦，还没好呢。,translated,依恩,d1f5d11797,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptc01.txt#7#12,何かで時間潰しててくれると嬉しいな。,要是你能找点别的事打发时间就好了呢。,translated,依恩,12fa25593b,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_ptc01.txt#9#12,"まだダ～メ。
+中途半端で終わらせたら気持ち悪いもん。","还不行～哦。
+半途而废的话感觉心里好难受嘛。",translated,依恩,2fb08b1e06,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_ptc01.txt#10#12,だからごめんね。もう少し我慢して。,所以对不起哦，再稍微忍耐一下吧。,translated,依恩,72d3134a0f,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#5#12,"え、えぇ！
+こんなときに！？","诶、诶诶！
+偏偏挑这种时候！？",translated,依恩,772328ed3e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#6#12,あ、あとでお話しようね……。,待、待会儿再聊哦……,translated,依恩,08b72090d0,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#8#12,……い、今いませ～ん。,……现、现在不在哦～。,translated,依恩,5de97deea6,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#9#12,"って、あぁ！
+返事したら分かっちゃうよ……。","等、啊！
+一回答不就穿帮了嘛……",translated,依恩,34b683e422,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#10#12,"ごめんね。
+今は無理だから、またあとでね。","对不起哦。
+我现在抽不开身，待会儿再说吧。",translated,依恩,db3438623c,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#12#12,"え、えっと……ごめんなさい。
+今ちょっと無理……かも。","那个……对不起。
+现在稍微有点……不方便。",translated,依恩,573b5427e2,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#13#12,またあとでね。,待会儿再说哦。,translated,依恩,7079819548,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#15#12,今呼んだ？,刚才是在叫我吗？,translated,依恩,4ecb180c64,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#16#12,"その……今お手洗い中だから……。
+い、言わなくても分かるよね？","那个……我现在在上厕所啦……
+不、不用我说你也明白的吧？",translated,依恩,6409d4f455,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#18#12,ま～だだよ～。,还～没好哦～。,translated,依恩,1bc45f7b9d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#20#12,"あはは。
+か、かくれんぼ……なんちゃって……。","啊哈哈。
+捉、捉迷藏……开玩笑的啦……",translated,依恩,b9e1f3203e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#22#12,"い、今お手洗い中なんだけど……。
+その……一緒にはいる？","我、我现在在上洗手间呢……
+那个……要一起进来吗？",translated,依恩,81de23eb8f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_res01.txt#23#12,って、冗談！　冗談だよ！？,开、开玩笑的！开玩笑的啦！？,translated,依恩,c1eb4b1ac2,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_res01.txt#24#12,もぅ、わたしなに言ってるんだろ……。,真是的，我到底在胡说些什么呀……,translated,依恩,258c21cd9e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#10#12,"ふぁぁぁ。
+もう寝ないと起きたとき辛そうだね。","哈啊～
+再不睡的话，明天起床会很难受的呢。",translated,依恩,c88acfa8c9,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#11#12,そろそろ寝るね。,我差不多该睡啦。,translated,依恩,6483a768ce,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#13#12,う～ん、さすがに眠くなってきちゃった。,嗯～，果然不知不觉犯困了呢。,translated,依恩,62ef4c5e41,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#14#12,そろそろ寝るね。,我差不多该去睡啦。,translated,依恩,6483a768ce,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#16#12,お話に夢中になりすぎちゃったね。,聊天聊得太投入了呢。,translated,依恩,1e9de5d09c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#17#12,そろそろ寝よっか。,差不多该去睡了吧。,translated,依恩,4e2889b3bb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#22#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#23#12,早く寝ないと疲れが残っちゃうよ。,不早点睡的话，疲倦会消除不掉的哦。,translated,依恩,505728d067,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#25#12,……う、う～ん。,……唔、嗯～,translated,依恩,1c8993ef19,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#26#12,"どうしたの？
+まだ話したりないのかな？","怎么了吗？
+难道是还没聊够吗？",translated,依恩,9a55293566,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#28#12,……う、う～ん。,……唔、嗯～,translated,依恩,1c8993ef19,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#29#12,さすがにもう寝ようよ……。,差不多真的该睡啦……,translated,依恩,51db037c02,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#30#12,明日起きれなくなっちゃうよ？,不然明天会起不来的哦？,translated,依恩,fd0131f57d,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#35#12,……さすがにそろそろ限界かも。,……差不多真的快到极限了。,translated,依恩,36cac888bb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#36#12,"本当はもうちょっと話してたいけど……。
+ごめん……ね……。","其实我还想再多聊会儿的……
+对不……起呢……",translated,依恩,78572f9198,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#38#12,ん……もう、そんなに話したりないの？,唔……真是的，就这么还没聊够吗？,translated,依恩,9894f6bbf1,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#39#12,"でもだめだよ。
+また今度……ね。","但是不行哦。
+下次……再聊吧。",translated,依恩,20f8a4719f,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#42#12,"あっあれ！？
+わたし今眠って……。","啊、啊咧！？
+我刚才好像睡着了……",translated,依恩,fcb232c608,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#43#12,もう、眠ってたのに起こさないでよ～……。,真是的，我都睡着了别把我叫醒嘛～……,translated,依恩,94970c890c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#48#12,"ごめんね……。
+さすがにもう目を開けてられないかも……。","对不起哦……
+感觉真的已经睁不开眼睛了……",translated,依恩,8a28400121,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#49#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#51#12,"んに……。
+もう……だめ……。","唔唔……
+已经……不行了……",translated,依恩,7aa2404e2c,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#52#12,おやしゅみなしゃい……。,晚安……呼呼……,translated,依恩,2c495db4a8,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slad01.txt#54#12,"……目蓋が……重くて……
+もう……無理……。","……眼皮……好沉……
+已经……撑不住了……",translated,依恩,910ac38877,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slad01.txt#55#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#2#12,"えへへ……。
+真空管……きれ～……。","诶嘿嘿……
+真空管……好漂亮……",translated,依恩,e55c1288e2,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#3#12,てかてか～……。ぴかぴか～……。,亮闪闪～……金灿灿～……,translated,依恩,41cd06d45e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#5#12,"ん～……もうだめだよ……。
+そんなところさわっちゃ～……。","唔～……不可以啦……
+碰那种地方的话～……",translated,依恩,0827dfe066,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#6#12,こ、壊れちゃうよ～……。,会、会弄坏的啦～……,translated,依恩,8fa6f1934a,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#7#12,……真空管……むにゃむにゃ。,……真空管……唔喃唔喃。,translated,依恩,f750c465ae,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#9#12,"えへへ～……。
+上手にできました～……。","诶嘿嘿～……
+做得真漂亮～……",translated,依恩,14256cce93,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#11#12,頭なでなで……気持ちいいよ～……。,摸摸头……好舒服哦～……,translated,依恩,c52420eadf,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#13#12,"うぅ……黒いのが……
+黒いのが追いかけてくる～……。","呜呜……黑黑的东西……
+黑黑的东西追上来了～……",translated,依恩,a4d62e1c25,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#15#12,"だめだよ～……。
+そんなところさわっちゃ～……。","不可以啦～……
+碰那种地方的话～……",translated,依恩,2ee2d1578e,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#17#12,う～ん……お腹が……お腹が……。,唔～……肚子……肚子……,translated,依恩,40fa2c7345,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#18#12,すいた……。,饿了……,translated,依恩,778d7f013e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#19#12,えへへ、なに食べようかな～……。,诶嘿嘿，吃什么好呢～……,translated,依恩,b5bd062c1b,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#21#12,ありが……とう……。,谢……谢你……,translated,依恩,4240faa535,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#22#12,もう……寂しくないよ……。,已经……不觉得寂寞了哦……,translated,依恩,ee9f8179d3,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#24#12,"あ、足の生えたきのこが
+追ってくるよ～……。","长、长了腿的蘑菇
+追过来了～……",translated,依恩,81cc689166,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#25#12,うぅ……気持ち悪い……。,呜呜……好恶心……,translated,依恩,3fbadf5579,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#27#12,"真空管が一つ……真空管が二つ……
+真空管が三つ……真空管が四つ……。","一个真空管……两个真空管……
+三个真空管……四个真空管……",translated,依恩,be3e849bfa,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#28#12,"えへへ、まだまだあるよ～……。
+しあわせ～……。","诶嘿嘿，还有好多好多呢～……
+好幸福～……",translated,依恩,eff41ef299,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#30#12,えへへ、ぐるぐる～……。,诶嘿嘿，转圈圈～……,translated,依恩,9535138d2c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#31#12,ぐるぐる～ぐるぐる～……。,咕噜咕噜～转呀转呀～……,translated,依恩,5ddf7906fb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#33#12,"犬さんかわいいよ～……。
+けど猫さんもかわいい……。","狗狗好可爱哦～……
+不过猫猫也很可爱……",translated,依恩,4fb6ad5aa9,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#34#12,"えへへ……。
+わんわん……にゃあにゃあ……。","诶嘿嘿……
+汪汪……喵呜喵呜……",translated,依恩,9b37f6d147,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#36#12,う～ん……お魚が……空を飛んでる……。,唔～……鱼儿在……天上飞呢……,translated,依恩,b2e3af1456,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#37#12,ふしぎだね～……。,好不可思议呀～……,translated,依恩,f5056af869,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#39#12,"しわとしわを合わせて、
+しあわわわわわわ～……。","双手合十，
+幸幸幸幸幸福～……",translated,依恩,26016d05eb,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#40#12,えへへ、なんちゃって～……。,诶嘿嘿，开玩笑的啦～……,translated,依恩,e829ae4df8,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#42#12,"まぁるくて～、ふわふわで～、
+もふもふで～……。","圆滚滚的～，毛茸茸的～，
+软绵绵的～……",translated,依恩,1b4875133a,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#43#12,大きな猫さんもかわいいよ～……。,大猫猫也很可爱哦～……,translated,依恩,c3fff36937,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#45#12,お、大きな毛虫～……。,好、好大的毛毛虫～……,translated,依恩,0ef49cb546,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#46#12,怖い～……気持ち悪いよ～……。,好可怕～……好恶心哦～……,translated,依恩,d89879fef0,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#48#12,えへへ、パーツの山だ～……。,诶嘿嘿，是零件堆成的小山耶～……,translated,依恩,6f1b2d6aec,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#49#12,"選び放題、作り放題だよ～……。
+夢みたい……。","随便挑随便选，做个痛快～……
+像做梦一样……",translated,依恩,8528f40dd8,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#51#12,"もう、エッチなんだから～……。
+ちょっとだけだよ～……。","真是的，太下流啦～……
+只能碰一下下哦～……",translated,依恩,de456f1c2b,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#53#12,ねずみさん～、だめ……だめだよ～。,小老鼠～，不行……不可以哦～。,translated,依恩,45d7e567c2,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#54#12,コードを……かじらないで……。,不要……啃电线啦……,translated,依恩,11e3a47234,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#56#12,"わたし飛んでる……。
+空を飛んでるよ～……。","我在飞……
+我在天上飞呢～……",translated,依恩,d273e1a7a8,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#57#12,星に手が届きそうだよ～……。,感觉伸手就能摸到星星了呢～……,translated,依恩,d516f9b6e4,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#59#12,ふぇ？　もう朝～……？,咦？已经天亮了～……？,translated,依恩,b3cf67167e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#60#12,お顔洗って～……朝ご飯作らなきゃ……。,得洗脸～……然后做早饭了呢……,translated,依恩,449d120bbe,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#61#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#63#12,ん～、もう朝？,嗯～，已经早上了？,translated,依恩,88555da817,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#64#12,"まだ、眠いよ。
+……もうちょっとだけ、お願い……。
+むにゃむにゃ……。","还，好困哦。
+……再让我睡一小会儿，拜托了……
+唔喃唔喃……",translated,依恩,a866cbd62c,br=0 nl=2,3,
+inc/event/res/daystaskevent01/tas_slbb01.txt#66#12,"ふぇ～……？
+もう朝にゃの？","诶～……？
+已经天亮了喵？",translated,依恩,b8ecad3ceb,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_slbb01.txt#67#12,今日も一日がんばにょ～……。,今天一天也要加油喵～……,translated,依恩,887fa47a99,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#68#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#70#12,あと5分……10分……20分……。,再睡5分钟……10分钟……20分钟……,translated,依恩,41afa70166,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#71#12,えへへ……なんちゃって……。,诶嘿嘿……开玩笑的啦……,translated,依恩,91b23609b9,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbb01.txt#72#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbc01.txt#2#12,ん……ん～……。,嗯……唔～……,translated,依恩,4a140ae0eb,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbc01.txt#4#12,す～……す～……。,呼～……呼～……,translated,依恩,18419f924c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbc01.txt#6#12,ん～……。,嗯～……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_slbc01.txt#8#12,むにゃむにゃ……。,唔喃唔喃……,translated,依恩,725bdaa57e,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#6#12,おはようー。,早上好～。,translated,依恩,9b35c25348,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#8#12,おっはよ♪,早上好♪,translated,依恩,eab4257c1c,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#11#12,"朝の挨拶って、なんかいいね。
+今日も頑張ろうって思えるよ。","清晨打个招呼，感觉真好呢。
+今天也感觉干劲满满了呢。",translated,依恩,01c52544ae,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_wk01.txt#13#12,"今日は寝覚めもすっきりしてるし、
+一日頑張れそうだよ。","今天早上醒来感觉神清气爽的，
+今天一天应该都能元气满满哦。",translated,依恩,23d5751f9d,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_wk01.txt#15#12,今日も良い一日になるといいね。,今天也会是美好的一天呢。,translated,依恩,a617f31040,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#19#12,お～は～よ～……。,早～上～好～……,translated,依恩,31c1d47eb0,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#21#12,お、おはよう……。,早、早上好……,translated,依恩,ab85e74224,br=0 nl=0,1,
+inc/event/res/daystaskevent01/tas_wk01.txt#24#12,"まだ眠い……。
+もうちょっと寝てたかったかも……。","还是好困……
+真想再多睡一会儿呀……",translated,依恩,de1d442b1a,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_wk01.txt#26#12,"う～ん、なんかまだ眠い……。
+あとでお昼寝しようかなぁ。","唔～，总觉得还是好困……
+待会儿去睡个午觉吧。",translated,依恩,f92f627428,br=0 nl=1,2,
+inc/event/res/daystaskevent01/tas_wk01.txt#28#12,"昨日ちょっと頑張りすぎたせいかな？
+ちょっとだけ目蓋が重いよ～。","可能是昨天太拼命了吧？
+眼皮感觉沉沉的呢～。",translated,依恩,d544631c92,br=0 nl=1,2,

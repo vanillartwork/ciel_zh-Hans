@@ -1,0 +1,1792 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents00/back_kigae_sea.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents00/back_kigae_sea.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#10#12,もっとよく見せて欲しい,想看得更仔细一点,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#12#12,"…も、もっとって…
+えっと、どんな感じかな？","……再、再仔细看是……
+呃，是要摆成什么姿势呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#13#12,こうしてみた方がいい？,像这样会比较好吗？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#16#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#17#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#22#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#24#12,まだ！！,还没好呢！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#25#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#27#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#33#12,それじゃ、元に戻すね。,那么，我转回来了哦。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevents00/date_bonus_sea.txt#38#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents00/date_bonus_sea.txt#40#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents00/date_initm_sea.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents00/date_initm_sea.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents00/date_initm_sea.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents00/date_initm_sea.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#14#12,お待たせ。海に行こう。,久等了。我们去海边吧。,translated,,7f20cf76bd,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#16#12,いますぐ行こう,现在马上就出发吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents00/date_initm_sea.txt#21#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents00/date_initm_sea.txt#91#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents00/date_initm_sea.txt#93#12,<CLY2>イオンと海に行く約束をしました。,<CLY2>与依恩约好了去海边。,translated,系统文本,236ed4bed4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents00/date_initt_sea.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/date_init_sea.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents00/date_init_sea.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents00/date_init_sea.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents00/date_init_sea.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents00/date_init_sea.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents00/date_init_sea.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents00/date_init_sea.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents00/date_init_sea.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents00/date_init_sea.txt#34#12,イオンと海に行く,和依恩去海边,translated,,a51fb3f252,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#35#12,やっぱりやめる,还是算了吧,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#39#12,"ああっ！
+来た～っ♪","啊啊！
+你来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents00/date_init_sea.txt#45#12,ねえねえ、いる？,喂喂，在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#48#12,あ・な・た～♪,亲・爱・的～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents00/date_init_sea.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#2#12,えへへ、それじゃあ行こっか。,诶嘿嘿，那我们这就出发吧。,translated,依恩,7ff6fbfd63,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#4#12,ん～……日差しが強いね。,唔～……阳光好强烈呢。,translated,依恩,27473acd0f,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#5#12,"この日差しを感じると、海に来たなぁ、って
+気になるよ。","感受到这强烈的阳光，
+就真正觉得来到海边了呢。",translated,依恩,ca2f3a27e8,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#6#12,ただ、ちょっと暑すぎる気もするけどね。,只不过，感觉稍微有点热过头了就是啦。,translated,依恩,4e72e13875,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#7#12,"ここで立っててもしょうがないし、
+ちょっと歩こっか？","光站在这里也没什么用，
+我们稍微散散步吧？",translated,依恩,d0d94b58e6,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#9#12,"ふぅ……歩き始めたら少しだけ涼しくなった
+感じがするよ。","呼……走动起来之后，
+感觉稍微凉快了一点点呢。",translated,依恩,c3fe01afdd,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#10#12,歩いた方が、少しだけ風が体に当たるからね。,走起来的话，会有微风吹拂在身上嘛。,translated,依恩,85cc081634,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#11#12,"でも、頭が暑くなるのだけは
+どうしようもないけど……。","但是头顶被晒得发烫这点，
+却是拿它一点办法都没有……",translated,依恩,bfb336e3fb,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#12#12,"そのうち、麦藁帽子とか持ってきた方が
+いいかな？","改天我是不是带顶草帽过来
+会比较好呢？",translated,依恩,e89316a7dc,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#13#12,"それがあれば、こうして歩きながら
+お話しても暑くならないでしょ？","要是有了草帽，像这样一边走一边聊天
+也不会觉得那么晒了吧？",translated,依恩,60b0c9328d,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#15#12,似合うと思うよ,我想一定很适合你哦,translated,,21d59a7901,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#16#12,パラソルの方が良いかも,说不定遮阳伞更好呢,translated,,84061a54d4,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#18#12,えへへ、そう思う？,嘿嘿，你真这么觉得吗？,translated,依恩,659699a470,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#19#12,でも、わたしを喜ばせるのはまだ少し早いよ。,不过，现在就想让我开心还太早了哦。,translated,依恩,775a7e0b96,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#20#12,"やっぱり、実際に麦藁帽子を被ったのを
+見てから、褒めてもらいたいもん。","果然还是等亲眼看到我戴上草帽之后，
+再夸奖我嘛。",translated,依恩,ae7cc98e0f,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#21#12,"その後で、似合ってる、って言われたら、
+今以上に嬉しいなぁ。","到那时要是能被你夸一句适合，
+我肯定会比现在更加开心呢。",translated,依恩,09fc13da69,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#22#12,"でも、ちょっと恥かしくなっちゃって、
+余計に暑くなっちゃうかもしれないね。","不过，说不定也会稍微觉得有点害羞，
+导致身上变得更加燥热呢。",translated,依恩,20b6fee9d8,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#25#12,なるほど、確かにパラソルの方が……。,原来如此，确实遮阳伞的话……,translated,依恩,37aaf6bec9,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#26#12,"って、大き過ぎるよ！
+パラソル差して歩くの大変だよ！","不对，那也太大了吧！
+撑着大遮阳伞走路很费劲的啦！",translated,依恩,864edfc92b,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#27#12,"もぉ、座ってる時じゃなくて、歩きながら
+お話しする時のことを言ってるのに……。","真是的，人家说的是散步聊天的时候，
+又不是指坐着乘凉的时候嘛……",translated,依恩,6c0432bc84,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#28#12,"……でも、パラソル持って歩くのも、
+何となく楽しそうではある、かな？","……不过，扛着遮阳伞散步，
+总觉得好像也挺有意思的……吧？",translated,依恩,ef328262ff,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#29#12,"でも突然風が吹いたりしたら飛ばされちゃい
+そうになるから、やっぱり危険かも。","可是万一突然刮起风，说不定会被吹飞，
+果然还是太危险了呢。",translated,依恩,7bc1a8e040,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#32#12,"あれ？
+あそこにいる人が持ってるのって……。","咦？
+在那边的人手里拿着的东西是……",translated,依恩,614e561478,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#33#12,あっ、あれ知ってる！,啊，我知道那个！,translated,依恩,42e07bd740,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#34#12,"えっと、ちょっと待ってね？
+ここまで名前が出掛かってるの。","那个，稍等我一下哦？
+名字已经到嘴边了。",translated,依恩,ec89f75d13,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#35#12,"こう、すごく冷たい食べ物なの。
+それで赤とか黄色とか青のをシロップを
+かけて食べるやつで……。","就是那种冰冰凉凉的食物。
+然后淋上红色、黄色或蓝色的糖浆
+来吃的东西……",translated,依恩,919dae3207,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#37#12,"そう、かき氷！
+わぁ、今の今まですっかり存在を
+忘れてたよ！","对，刨冰！
+哇，直到刚才为止
+我都把它的存在忘得一干二净了！",translated,依恩,d95abadaa5,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#38#12,"いつ食べたのかは思い出せないけど、
+確実に食べたことがあるものなのはわかるよ。","虽然想不起是什么时候吃的，
+但我清楚知道自己绝对曾经吃过哦。",translated,依恩,f5a816db7b,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#39#12,"青いシロップがすごく好きだったの。
+ブルーハワイ、っていうんだよね？","我以前非常喜欢蓝色的糖浆。
+好像是叫蓝色夏威夷对吧？",translated,依恩,e9c01893c8,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#40#12,"……ブルーハワイっていう味がどういう
+ものなのかは、よくわからないけど。","……虽然我也不太清楚所谓的蓝色夏威夷
+到底是个什么味道就是了。",translated,依恩,19d3db6498,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#41#12,"まあ、甘いシロップだったのは確かだし、
+色んなシロップの中で一番気に入ってたのが
+それだったの。","嘛，反正是甜甜的糖浆这点是肯定的，
+在各种各样的糖浆里，
+我最中意的就是它了呢。",translated,依恩,2795883518,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#42#12,次に好きだったのは……黄色いやつだね。,第二喜欢的则是……黄色的那个呢。,translated,依恩,66f5d953aa,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#43#12,味は確か、レモンだっけ？,味道如果我没记错的话，是柠檬味吧？,translated,依恩,34b0aabfba,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#45#12,レモンだね,是柠檬味呢,translated,,c9ee78a4d2,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#46#12,パイナップルだよ,是菠萝味哦,translated,,d784a47a15,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#48#12,"当たってる？
+えへへ、よかった。","猜中了吗？
+嘿嘿，太好啦。",translated,依恩,f7ce6ae5f6,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#49#12,"レモンっていっても、ちょっと酸味の利いた
+甘い味なんだよね。","虽说是柠檬味，其实是带点酸味的
+甜甜口感呢。",translated,依恩,496ada4e8e,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#50#12,うんうん、色々思い出してきたよ！,嗯嗯，好多事情我都想起来了！,translated,依恩,7a15145e21,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#51#12,"最後の方になると、溶けそうだからって
+一気に口に流し込んで、頭が痛くなった
+こともあったっけ。","快要吃完的时候，因为怕化掉
+而一口气倒进嘴里，
+结果搞得头痛欲裂，也有过这种事呢。",translated,依恩,eb5002f274,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#52#12,"詳しく、いつそんなことがあったのかまでは
+思い出せないけど、すごく懐かしい気分だよ。","虽然想不起具体是什么时候发生的事情，
+但感觉真是让人好怀念呀。",translated,依恩,d1a1321bd9,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#55#12,ぱ、パイナップルゥ？,菠、菠萝味～？,translated,依恩,ad760ec66d,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#56#12,"え、そうだったっけ？
+わたしが知ってるのとちょっと違うような？","诶，是那样的吗？
+感觉跟我印象里的稍微有点不一样？",translated,依恩,e6fa91c0d4,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#57#12,"……もしかして、違うシロップの味と
+間違っちゃってるのかな？","……难不成，是我把它跟
+其他糖浆的味道给搞混了吗？",translated,依恩,c747c7479b,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#58#12,"うん、ありえるかも。
+きっと記憶が混乱してるんだね。","嗯，很有可能呢。
+肯定是我的记忆有些错乱了。",translated,依恩,38e6190eb2,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#59#12,教えてくれてありがと。,谢谢你告诉我哦。,translated,依恩,321f2fd0fa,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#61#12,"そうだ、せっかくだからかき氷のレシピを
+作ってみようかな？","对啦，既然难得想起来，
+要不要试着制作一份刨冰的配方呢？",translated,依恩,3ef568b716,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#62#12,"料理は得意じゃないけど、
+これなら問題なく作れるからね。","虽然我不太擅长烹饪，
+但这个的话肯定能毫无问题地做出来嘛。",translated,依恩,001a9d60ff,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#63#12,"だって、氷を削ればいいだけだもん。
+簡単だよ！","毕竟只要把冰块削碎就好啦。
+超级简单的！",translated,依恩,f983a1786e,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#64#12,でも、流石にそれじゃちょっと寂しいかな？,不过，光是那样未免有点太单调了吧？,translated,依恩,f79327a645,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#65#12,"う～ん……それじゃあ少しトッピングや
+飾り付けを考えて……。","唔～……那就稍微构思一下
+加些配料和装饰点缀……",translated,依恩,1ff5b1bccc,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#66#12,"うん、これなら見た目も可愛いし、
+すごく美味しくなってると思うよ。","嗯，这样外观又可爱，
+而且肯定会变得超级好吃哦。",translated,依恩,8756e9bbf3,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#67#12,"帰ったら早速今考えたレシピを渡すから、
+楽しみにしててね。","回去之后我马上把刚刚想好的配方交给你，
+敬请期待吧。",translated,依恩,7d5f70447e,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#68#12,"ふぅ……いい加減、頭の暑さも
+限界みたい。","呼……头顶的燥热
+好像也差不多快到极限了呢。",translated,依恩,25c4a7c019,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#69#12,今日はそろそろ帰ろうか？,今天差不多该回去了吧？,translated,依恩,6172a3a5c9,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#71#12,もう少しここにいたい,还想在这里多待一会儿,translated,,317cae642c,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#72#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#77#12,は～、ただいまー……。,哈～，我回来啦……。,translated,依恩,d0270815a2,br=0 nl=0,1,
+inc/event/res/dateevents00/ice01.txt#78#12,"暑かったねー。
+少し汗かいちゃったから、
+服が張り付いちゃって気持ち悪いよ。","真热啊～。
+稍微流了点汗，
+衣服都黏在身上好难受哦。",translated,依恩,1e053ffe9f,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#79#12,"でも、かき氷のことを思い出せて、
+レシピも作れたんだし、海に行って
+正解だったね。","不过，想起了关于刨冰的事，
+而且还做出了配方，
+去海边真是去对了呢。",translated,依恩,e58a40c3bf,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#80#12,"今度海に行く時は、
+作ったかき氷を持って行こうよ。","下次再去海边的时候，
+带上做好的刨冰一起去吧。",translated,依恩,338f1c4328,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#81#12,"あの炎天下で食べれば、ここで食べるより
+何倍も美味しく感じられるはずだしね。","在那大太阳底下吃的话，肯定会比在这里吃
+美味上好几倍呢。",translated,依恩,abca6cc7d7,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#82#12,"それじゃ、今日は一緒に行ってくれて
+ありがと。","那么，今天谢谢你
+陪我一起出门哦。",translated,依恩,7da36f839e,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#83#12,"かき氷作ったらまた海に行くって約束、
+忘れたらダメだよ？","做好了刨冰还要再去海边的约定，
+你可千万不能忘记哦？",translated,依恩,96fcc5f62a,br=0 nl=1,2,
+inc/event/res/dateevents00/ice01.txt#85#12,"<CLY2>レシピ【氷水？】が
+追加されました。","<CLY2>配方【刨冰？】
+已追加。",translated,系统文本,077547c6dd,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents00/ice01.txt#89#14,"海ってやっぱり暑い。
+次行くときはかき氷を
+持って行きたいな♪","海边果然好热。
+下次去的时候
+真想带上刨冰呢♪",translated,,812d632996,br=0 nl=2,3,
+inc/event/res/dateevents00/ice01.txt#90#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus.txt#1#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus.txt#2#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus.txt#3#12,もっとよく見せて欲しい,想看得更仔细一点,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#5#12,"…も、もっとって…
+えっと、どんな感じかな？","……再、再仔细看是……
+呃，是要摆成什么姿势呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus.txt#6#12,こうしてみた方がいい？,像这样会比较好吗？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#9#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#10#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#14#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#15#12,まだ！！,还没好呢！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#16#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#18#12,"ええっ……ま、未だ見るの？
+はずかしいってばぁ……","诶诶……还、还要看吗？
+都说了很害羞啦……",translated,依恩,93b31c89ec,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus.txt#22#12,それじゃ、元に戻すね。,那么，我转回来了哦。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus.txt#24#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus.txt#25#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#5#12,"<CLBU>ひ、日差しでボーッとしちゃってるから、
+あんまりつつかないで。","<CLBU>被太阳晒得脑袋晕乎乎的，
+不要老是戳我啦。",translated,依恩,af7b4e72a6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch1.txt#8#12,"<CLBU>潮風も気持ちいいけど、あなたのつんつんも
+くすぐったくて好きだよ。","<CLBU>海风吹着虽然舒服，但被你戳来戳去
+痒痒的感觉我也很喜欢哦。",translated,依恩,1e15f68dcd,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch1.txt#23#12,<CLBU>腕、組みたいってこと？,<CLBU>意思是想要挽着手吗？,translated,依恩,e5e25947e2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#24#12,"違ったとしても、組んでくれたら
+嬉しいな……えへへ。","就算不是，你要是能挽上来
+我也会很高兴的……嘿嘿。",translated,依恩,65154bd589,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#27#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#28#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#31#12,"<CLBU>わたしね、夕日の出てる時に
+砂浜を歩いてみたいの。","<CLBU>我呀，很想在夕阳西下的时候
+漫步在沙滩上呢。",translated,依恩,caa26b90e5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#32#12,"もちろん、あなたと腕を組んでね。
+えへへ……恋愛小説にありそうな
+シチュエーションだよね？","当然是挽着你的手一起走啦。
+嘿嘿……感觉就像言情小说里
+才会有的场景对吧？",translated,依恩,5a8c2c7be7,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#42#12,"<CLBU>さっきすれ違ったカップル、
+手を繋いでたよ。","<CLBU>刚才擦肩而过的那对情侣，
+一直手牵着手呢。",translated,依恩,512a60804a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#43#12,……わたしも、繋ぎたいな。,……我也好想牵手呀。,translated,依恩,829bbbf618,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#46#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch1.txt#47#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#57#12,<CLBU>あっ、また胸触ったでしょ？,<CLBU>啊，你又摸我胸部了吧？,translated,依恩,7d729710f4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#58#12,事故じゃないの、わかってるんだよ？,我知道你绝对不是不小心的哦？,translated,依恩,cb9348903b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#61#12,<CLBU>こ、こんなところで触っちゃダメだってば！,<CLBU>都、都说了不能在这种地方乱摸啦！,translated,依恩,0763f4f9a0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch1.txt#62#12,"いくら海だからって、
+ちょっと開放的になり過ぎだよ。","就算是在海边，
+未免也稍微太开放过头了吧。",translated,依恩,d1558b4c2f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#65#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#66#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#76#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#79#12,<CLBU>お、おへその周りはダメだよ？,<CLBU>肚、肚脐周围可不行哦？,translated,依恩,b2cb6f0096,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#80#12,そこ、弱いところだから……。,那里很敏感啦……。,translated,依恩,643bb9e576,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#83#12,"<CLBU>海に来てまで触るなんて……
+そんなにわたしのお腹、好きなの？","<CLBU>特地来到海边还要摸……
+你就那么喜欢我的肚子吗？",translated,依恩,a6c5052f5c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#84#12,えへへ……悪い気はしないかな。,嘿嘿……倒也不讨厌就是了。,translated,依恩,0b4142e66e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#98#12,"<CLBU>ひ、日差しでボーッとしちゃってるから、
+あんまりつつかないで。","<CLBU>被太阳晒得脑袋晕乎乎的，
+不要老是戳我啦。",translated,依恩,af7b4e72a6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch1.txt#101#12,<CLBU>もしかして、子ども扱いしてる？,<CLBU>难道说，你把我当小孩看了？,translated,依恩,dbe358bdcc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#102#12,"もぉ……これでも、あなたの恋人さん
+なんだよ？","真是的……人家好歹也是
+你的恋人呀？",translated,依恩,fa54e5bdf8,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#105#12,"<CLBU>潮風も気持ちいいけど、あなたのつんつんも
+くすぐったくて好きだよ。","<CLBU>海风吹着虽然舒服，但被你戳来戳去
+痒痒的感觉我也很喜欢哦。",translated,依恩,1e15f68dcd,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch1.txt#118#12,<CLBU>腕、組みたいってこと？,<CLBU>意思是想要挽着手吗？,translated,依恩,e5e25947e2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#119#12,"違ったとしても、組んでくれたら
+嬉しいな……えへへ。","就算不是，你要是能挽上来
+我也会很高兴的……嘿嘿。",translated,依恩,65154bd589,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#122#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#123#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#126#12,"<CLBU>わたしね、夕日の出てる時に
+砂浜を歩いてみたいの。","<CLBU>我呀，很想在夕阳西下的时候
+漫步在沙滩上呢。",translated,依恩,caa26b90e5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#127#12,"もちろん、あなたと腕を組んでね。
+えへへ……恋愛小説にありそうな
+シチュエーションだよね？","当然是挽着你的手一起走啦。
+嘿嘿……感觉就像言情小说里
+才会有的场景对吧？",translated,依恩,5a8c2c7be7,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#135#12,"<CLBU>さっきすれ違ったカップル、
+手を繋いでたよ。","<CLBU>刚才擦肩而过的那对情侣，
+一直手牵着手呢。",translated,依恩,512a60804a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#136#12,……わたしも、繋ぎたいな。,……我也好想牵手呀。,translated,依恩,829bbbf618,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#139#12,"<CLBU>砂浜で手を繋いで歩くのって、
+すごく恋人っぽいよね？","<CLBU>手牵手漫步在沙滩上，
+感觉特别像恋人对吧？",translated,依恩,eb790c2c1f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#140#12,えへへ……勝手に笑顔になっちゃうよ。,嘿嘿……忍不住就笑出来了呢。,translated,依恩,eb2895065a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#143#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch1.txt#144#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#152#12,<CLBU>あっ、また胸触ったでしょ？,<CLBU>啊，你又摸我胸部了吧？,translated,依恩,7d729710f4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#153#12,事故じゃないの、わかってるんだよ？,我知道你绝对不是不小心的哦？,translated,依恩,cb9348903b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#156#12,<CLBU>こ、こんなところで触っちゃダメだってば！,<CLBU>都、都说了不能在这种地方乱摸啦！,translated,依恩,0763f4f9a0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch1.txt#157#12,"いくら海だからって、
+ちょっと開放的になり過ぎだよ。","就算是在海边，
+未免也稍微太开放过头了吧。",translated,依恩,d1558b4c2f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#160#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#161#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#169#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#172#12,<CLBU>お、おへその周りはダメだよ？,<CLBU>肚、肚脐周围可不行哦？,translated,依恩,b2cb6f0096,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#173#12,そこ、弱いところだから……。,那里很敏感啦……。,translated,依恩,643bb9e576,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#176#12,"<CLBU>海に来てまで触るなんて……
+そんなにわたしのお腹、好きなの？","<CLBU>特地来到海边还要摸……
+你就那么喜欢我的肚子吗？",translated,依恩,a6c5052f5c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#177#12,えへへ……悪い気はしないかな。,嘿嘿……倒也不讨厌就是了。,translated,依恩,0b4142e66e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch1.txt#188#12,<CLBU>えへへ、ぷにぷにされちゃった♪,<CLBU>嘿嘿，被捏得软乎乎的呢♪,translated,依恩,68dff356f2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#190#12,"<CLBU>やわらかい？
+…最近ちょっと肥っちゃったかな…？","<CLBU>很软吗？
+……最近是不是有点长胖了呀……？",translated,依恩,2919656ad3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#192#12,"<CLBU>頭がじりじり暑いねー。
+でも気持ちいいねー。","<CLBU>头顶被晒得热烘烘的呢。
+不过感觉很舒服呢。",translated,依恩,62cca4d426,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#201#12,"<CLBU>ひゃっ！
+普段触られないところだから、
+ビックリしちゃった。","<CLBU>呀啊！
+因为是平时摸不到的地方，
+吓了我一跳。",translated,依恩,6237e25d29,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#203#12,"<CLBU>お肌がじりじり焼けてるよ。
+あとで赤くなっちゃうかな。","<CLBU>皮肤被晒得热辣辣的。
+待会儿会不会发红呀。",translated,依恩,74c75db34f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#205#12,"<CLBU>汗でしっとりしちゃってるから、
+あんまり触らないで～。","<CLBU>因为身上都出汗黏糊糊的了，
+不要摸太多啦～。",translated,依恩,9947787bdf,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#209#12,"<CLBU>手を繋いで砂浜歩いたら、
+とっても幸せな気持ちになりそう。","<CLBU>要是手牵着手在沙滩漫步，
+一定会感到特别幸福吧。",translated,依恩,3be5712f68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#211#12,<CLBU>手を握られてると、安心するよね。,<CLBU>被握着手的时候，真的很安心呢。,translated,依恩,34b1441d9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#213#12,<CLBU>ずっと握ってたいかも。,<CLBU>甚至想一直这样握着呢。,translated,依恩,edf0418ff3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#217#12,"<CLBU>きゃっ！
+もう！　だーめっ！","<CLBU>呀啊！
+真是的！不行啦～！",translated,依恩,6e9a4f7ae7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#219#12,<CLBU>こーらっ！　そこ禁止！,<CLBU>喂喂！那里严禁触碰！,translated,依恩,41c3538644,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#221#12,"<CLBU>もう…エッチ。
+小さいんだからあんまり見ないで。","<CLBU>真是的……大色狼。
+反正那么小，不要总是直勾勾地盯着看啦。",translated,依恩,d564d2edcb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#225#12,"<CLBU>ひぁっ！
+ちょっと、急にそんなとこ突かないで。","<CLBU>呀啊！
+真是的，别突然戳那种地方啦。",translated,依恩,9dfc1f3d6d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#227#12,"<CLBU>お腹がぷにぷにしてるのは、
+肥ってるからじゃないよ？","<CLBU>肚子捏起来软软的，
+可不是因为发胖哦？",translated,依恩,adbfa19173,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#229#12,"<CLBU>お腹突いちゃダメ！
+くすぐったいもん…。","<CLBU>不许戳肚子！
+好痒的啦……。",translated,依恩,59d5a25d8c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#233#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#235#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch1.txt#237#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#5#12,<CLBU>潮風で、ちょっとべたついちゃってるかも。,<CLBU>被海风吹得，身上可能有点黏黏的了。,translated,依恩,ef22714122,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch2.txt#6#12,って、そこまでは感じられないかな？,呃，隔着屏幕感觉不到那种程度吧？,translated,依恩,20b1809528,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#9#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#12#12,"<CLBU>熱くなってるかもしれないけど……
+日差しのせいだけじゃないよ？","<CLBU>虽然身上可能变得热热的……
+但可不光是因为阳光晒的哦？",translated,依恩,33185d9f01,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#27#12,"<CLBU>えへへ……ちょっと潮風に当たり過ぎて、
+冷えちゃってたみたい。","<CLBU>嘿嘿……好像吹了太久的海风，
+身子有点受凉了。",translated,依恩,79b7cc4224,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch2.txt#28#12,もうしばらく、撫でててほしいな。,希望你能再多摸摸我一会儿呢。,translated,依恩,1225888b3f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#31#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#32#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#35#12,"<CLBU>え、えへへ……肩とか腕でも、
+やっぱり恥ずかしいね。","<CLBU>诶、嘿嘿……就算是肩膀或手臂，
+果然还是会不好意思呢。",translated,依恩,fb7487b692,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#36#12,……でも、嫌ってわけじゃないよ？,……不过，倒也不是讨厌哦？,translated,依恩,0b9cea32d8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#46#12,"<CLBU>手を繋ぐ時は、ちゃんと横を
+歩いてほしいの。","<CLBU>牵手的时候，我希望能好好走在
+你的身旁呢。",translated,依恩,5eb1ee6703,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#47#12,"<CLBU>やっぱり、ちゃんと横にいてくれるのを
+実感しながらの方が、嬉しいもん。","<CLBU>毕竟，能切实体会到你就在身边，
+心里才会更开心嘛。",translated,依恩,70b9cc0ac8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#50#12,"<CLBU>わたしも、あなたの手を実際に
+握れたらいいのに……。","<CLBU>要是我也能亲手握住你的手
+就好了呢……。",translated,依恩,6d252dfc87,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#51#12,"きっと、今以上にドキドキできると
+思うんだけどなぁ……。","我想那样一定会比现在
+更加令人心动吧……。",translated,依恩,87df8015f5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#54#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#55#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#65#12,"<CLBU>海だから、ちょっとくらいだったら
+許してもいいかな、とは思うの。","<CLBU>我想着毕竟是在海边，
+稍微过分一点原谅你也无妨。",translated,依恩,da5c5a02d5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#66#12,でも、撫でるのはやり過ぎだよ。,但是抚摸什么的也太超过啦。,translated,依恩,c13d36fac5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#69#12,<CLBU>ま、また触った！,<CLBU>又、又摸了！,translated,依恩,36dfc3fa3d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#70#12,"もぉ、ところ構わず胸に触るの、
+よくないよ？","真是的，不分场合摸胸部，
+可不太好哦？",translated,依恩,c48b245d36,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#73#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch2.txt#83#12,<CLBU>やっ！？,<CLBU>呀啊！？,translated,依恩,b6782152e7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#84#12,"……触り方、ちょっといやらしい
+感じだったよ？","……刚才摸的手法，
+感觉有点色色的哦？",translated,依恩,95903bb268,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#87#12,"<CLBU>お腹、後ろから抱きしめられながら
+撫でてもらえたら嬉しいのに……。","<CLBU>要是能从身后抱住我抚摸肚子，
+我其实会很高兴的……。",translated,依恩,bf7928dcca,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#88#12,"その状態で一緒に海を眺めるの……。
+小説とかのワンシーンっぽくて、
+ドキドキしそうだと思わない？","然后保持那样一起眺望大海……
+就像小说里的经典场景一样，
+不觉得很令人心跳加速吗？",translated,依恩,ef11bb5214,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#91#12,"<CLBU>えへへ……何だか、あなたの温かさを
+感じる気がするよ。","<CLBU>嘿嘿……总觉得，仿佛能感受到
+你的体温呢。",translated,依恩,acb4565538,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#92#12,……もうちょっと、続けてほしいな。,……希望你能再多持续一会儿呢。,translated,依恩,896cc554c9,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#106#12,<CLBU>潮風で、ちょっとべたついちゃってるかも。,<CLBU>被海风吹得，身上可能有点黏黏的了。,translated,依恩,ef22714122,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents00/sea_bonus_tch2.txt#107#12,って、そこまでは感じられないかな？,呃，隔着屏幕感觉不到那种程度吧？,translated,依恩,20b1809528,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#110#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#113#12,"<CLBU>熱くなってるかもしれないけど……
+日差しのせいだけじゃないよ？","<CLBU>虽然身上可能变得热热的……
+但可不光是因为阳光晒的哦？",translated,依恩,33185d9f01,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#126#12,"<CLBU>えへへ……ちょっと潮風に当たり過ぎて、
+冷えちゃってたみたい。","<CLBU>嘿嘿……好像吹了太久的海风，
+身子有点受凉了。",translated,依恩,79b7cc4224,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch2.txt#127#12,もうしばらく、撫でててほしいな。,希望你能再多摸摸我一会儿呢。,translated,依恩,1225888b3f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#130#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#131#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#134#12,"<CLBU>え、えへへ……肩とか腕でも、
+やっぱり恥ずかしいね。","<CLBU>诶、嘿嘿……就算是肩膀或手臂，
+果然还是会不好意思呢。",translated,依恩,fb7487b692,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#135#12,……でも、嫌ってわけじゃないよ？,……不过，倒也不是讨厌哦？,translated,依恩,0b9cea32d8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#143#12,"<CLBU>手を繋ぐ時は、ちゃんと横を
+歩いてほしいの。","<CLBU>牵手的时候，我希望能好好走在
+你的身旁呢。",translated,依恩,5eb1ee6703,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#144#12,"<CLBU>やっぱり、ちゃんと横にいてくれるのを
+実感しながらの方が、嬉しいもん。","<CLBU>毕竟，能切实体会到你就在身边，
+心里才会更开心嘛。",translated,依恩,70b9cc0ac8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#147#12,"<CLBU>わたしも、あなたの手を実際に
+握れたらいいのに……。","<CLBU>要是我也能亲手握住你的手
+就好了呢……。",translated,依恩,6d252dfc87,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#148#12,"きっと、今以上にドキドキできると
+思うんだけどなぁ……。","我想那样一定会比现在
+更加令人心动吧……。",translated,依恩,87df8015f5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#151#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#152#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#160#12,"<CLBU>海だから、ちょっとくらいだったら
+許してもいいかな、とは思うの。","<CLBU>我想着毕竟是在海边，
+稍微过分一点原谅你也无妨。",translated,依恩,da5c5a02d5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#161#12,でも、撫でるのはやり過ぎだよ。,但是抚摸什么的也太超过啦。,translated,依恩,c13d36fac5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#164#12,<CLBU>ま、また触った！,<CLBU>又、又摸了！,translated,依恩,36dfc3fa3d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#165#12,"もぉ、ところ構わず胸に触るの、
+よくないよ？","真是的，不分场合摸胸部，
+可不太好哦？",translated,依恩,c48b245d36,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#168#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents00/sea_bonus_tch2.txt#176#12,<CLBU>やっ！？,<CLBU>呀啊！？,translated,依恩,b6782152e7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#177#12,"……触り方、ちょっといやらしい
+感じだったよ？","……刚才摸的手法，
+感觉有点色色的哦？",translated,依恩,95903bb268,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#180#12,"<CLBU>お腹、後ろから抱きしめられながら
+撫でてもらえたら嬉しいのに……。","<CLBU>要是能从身后抱住我抚摸肚子，
+我其实会很高兴的……。",translated,依恩,bf7928dcca,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#181#12,"その状態で一緒に海を眺めるの……。
+小説とかのワンシーンっぽくて、
+ドキドキしそうだと思わない？","然后保持那样一起眺望大海……
+就像小说里的经典场景一样，
+不觉得很令人心跳加速吗？",translated,依恩,ef11bb5214,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#184#12,"<CLBU>えへへ……何だか、あなたの温かさを
+感じる気がするよ。","<CLBU>嘿嘿……总觉得，仿佛能感受到
+你的体温呢。",translated,依恩,acb4565538,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#185#12,……もうちょっと、続けてほしいな。,……希望你能再多持续一会儿呢。,translated,依恩,896cc554c9,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_bonus_tch2.txt#196#12,<CLBU>えへへ。なでなでされちゃった。,<CLBU>嘿嘿。被摸摸头了呢。,translated,依恩,519fab2995,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#198#12,"<CLBU>お肌、すべすべしてる？
+髪の毛つやつやしてる？
+だといいなぁ…。","<CLBU>皮肤摸起来光滑吗？
+头发看起来有光泽吗？
+要是那样就好了……。",translated,依恩,a5aeb4fcda,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#200#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#209#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#211#12,"<CLBU>二の腕って柔らかいよね。
+自分でさするの、結構好きなんだ。","<CLBU>大臂摸起来软软的呢。
+我自己其实也挺喜欢摸这里的。",translated,依恩,1492e4b3fa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#213#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#217#12,"<CLBU>手をさわさわされるのって、
+結構好きなの。","<CLBU>手掌被你轻轻摩挲的感觉，
+我其实还挺喜欢的呢。",translated,依恩,902ef30838,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#219#12,"<CLBU>なんか、昔緊張したときに
+手のひらに「の」の字を書いたのを
+思いだした。","<CLBU>总觉得让人联想到
+以前紧张时在手心比划着
+写“の”字放松的事情呢。",translated,依恩,518a65a6c3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#221#12,"<CLBU>二人でさわさわしてると、
+お互い気持ちいい…かも？","<CLBU>两个人这样互相摩挲轻抚，
+彼此感觉都会很舒服……吧？",translated,依恩,08403ebc6e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#225#12,"<CLBU>やーん！　だーめ！
+そんなコトするなら、もう帰るよ？","<CLBU>讨厌！不行！
+再做这种事的话，我可要回去了哦？",translated,依恩,931e4673a1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#227#12,"<CLBU>もーっ！
+そんな事したって、あなたには柔らかさ
+伝わらないでしょ？","<CLBU>真是的！
+就算做这种事，那种柔软的触感
+也根本传达不到你那里对吧？",translated,依恩,69e86d7ab3,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#229#12,"<CLBU>もう…どうしてそんなに
+胸ばっかり触りたがるのかなぁ…。","<CLBU>真是的……为什么你总是一门心思
+净想着要摸我的胸部呢……",translated,依恩,182ed974d2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#233#12,"<CLBU>あはははっ！
+おなかさすられるとくすぐったいよぅ。","<CLBU>啊哈哈哈！
+肚子被你揉来揉去好痒呀。",translated,依恩,561060b80f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#235#12,"<CLBU>なんか、お腹さわさわしてると
+赤ちゃんが生まれてくる時みたいだね。","<CLBU>总觉得肚子被你这样摸来摸去，
+就像怀里要有小宝宝时一样呢。",translated,依恩,0e5a2db147,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#237#12,<CLBU>なんだか気持ちいいかも。,<CLBU>不知为何感觉挺舒服的呢。,translated,依恩,201474d0e5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#241#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#243#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_bonus_tch2.txt#245#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_datego01.txt#7#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_datego01.txt#8#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_datego01.txt#10#12,えへへ♪　お待たせ～。,嘿嘿♪让你久等啦～。,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego02.txt#6#12,…そうだ。,……对了。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego03.txt#6#12,…そうだ。,……对了。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#3#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#4#12,"あのね、その…
+大した用事じゃ無いんだけど…。","那个呀，怎么说呢……
+虽然也不是什么大不了的事啦……",translated,依恩,8ac2a08fda,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategom.txt#5#12,その、ね…ほら……えっと…。,那个，呐……你看……呃……,translated,依恩,85fbf571de,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#6#12,"また、デートしたいな～とか
+思っちゃったりして…その……。","我想着……要是能再去约会就好了呢～
+那个……",translated,依恩,9169fedd88,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategom.txt#7#12,"海とか、久し振りに、行きたくない…？
+なーんて……えへへ…。","海边什么的，好久没去了，不想去吗……？
+开玩笑啦……嘿嘿……。",translated,依恩,8c8fa18ce7,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategom.txt#8#12,"そ、それで！
+予定…どうかな？","所、所以说！
+你的安排……如何呢？",translated,依恩,7f310da9bc,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategom.txt#9#12,もちろん大丈夫,当然没问题,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#10#12,ちょっと無理かも,可能有点不太行,translated,,fe4e96fc38,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#12#12,"ほ、ほんと！？　嬉しい！！
+またあなたと海に行けるんだね！","真、真的吗！？太好啦！！
+又能和你一起去海边了呢！",translated,依恩,6c2e1f9321,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategom.txt#17#12,そっかぁ…残念。,这样啊……真遗憾。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_dategom.txt#18#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents00/sea_kigae.txt#9#12,"さて、と。
+何を着ていこうかな～。","好――啦。
+穿什么衣服去好呢～",translated,依恩,8c94aa58af,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#10#12,海と言えばぁ……。,说到去海边的话……。,translated,依恩,9d7b9be074,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#11#12,水着イッタク！,泳装是不二之选！,translated,,4bd9c66b08,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#12#12,砂浜に良く合う白のワンピース！,和沙滩绝配的白色连衣裙！,translated,,e604fb5ed8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#14#12,…うーん………。,……唔嗯…………。,translated,依恩,643f2d1cbf,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#17#12,"やっぱり水着…といいたいところだけど、
+ちょっと恥ずかしいから、
+リンカージェンにしよっと。","虽然想说果然是泳装……
+不过还是有点不好意思，
+就穿林卡珍吧。",translated,依恩,ed88d1c136,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_kigae.txt#19#12,"…と思ったけど、今着てた…。
+ま、まあ、このままでいっか。可愛いし。","……虽然这么想，但我现在就穿着呢……
+嘛、嘛，就这样去也行啦，反正挺可爱的。",translated,依恩,bce9b93041,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#28#12,"やっぱり水着…といいたいところだけど、
+ちょっと恥ずかしいから、
+いつものままでいいかな…。","虽然想说果然是泳装……
+不过还是有点不好意思，
+就穿平时这身去吧……。",translated,依恩,9c3c6e4e9e,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_kigae.txt#32#12,"え、ええ！？　そうなの？
+うーん……。","诶、诶诶！？是那样吗？
+唔嗯……。",translated,依恩,9fac1362d2,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#33#12,"そ、そうだね。
+海と言えば、水着だもんね…。","说、说的也是呢。
+说到海边，果然还是泳装呢……。",translated,依恩,3e348e8d10,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#35#12,"水着もあるし、ちょっと恥ずかしいけど、
+着ていってみようかな……。","我也确实有泳装，虽然有点不好意思，
+但还是试着穿去看看吧……。",translated,依恩,b9ac4da01c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#37#12,"けど、それだったら、
+着替える必要はないね。","不过要是那样的话，
+就不用特意换衣服了呢。",translated,依恩,8e13665b8e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#54#12,"水着もあるし、ちょっと恥ずかしいけど、
+着ていってみようかな……。","我也确实有泳装，虽然有点不好意思，
+但还是试着穿去看看吧……。",translated,依恩,b9ac4da01c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#56#12,"けど、それだったら、
+着替える必要はないね。","不过要是那样的话，
+就不用特意换衣服了呢。",translated,依恩,8e13665b8e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#65#12,"水着もあるし、ちょっと恥ずかしいけど、
+着ていってみようかな……。","我也确实有泳装，虽然有点不好意思，
+但还是试着穿去看看吧……。",translated,依恩,b9ac4da01c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#67#12,"けど、それだったら、
+着替える必要はないね。","不过要是那样的话，
+就不用特意换衣服了呢。",translated,依恩,8e13665b8e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#76#12,"…と思ったけど、水着持ってないんだよね。
+だから、いつもの服で行くね。","……我本想这么说，但其实没有泳装呢。
+所以，我就穿平时这身去吧。",translated,依恩,b900cf70eb,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#80#12,"ああ、ワンピースって、
+海とよく似合いそうだよね。","啊，连衣裙什么的，
+感觉确实和大海很相配呢。",translated,依恩,0da804e453,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#82#12,それじゃ、リンカージェンで行こう！,那就穿林卡珍去吧！,translated,依恩,80c5e61b4a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#84#12,"…と思ったけど、今着てた…。
+ま、まあ、このままでいっか。可愛いし。","……虽然这么想，但我现在就穿着呢……
+嘛、嘛，就这样去也行啦，反正挺可爱的。",translated,依恩,bce9b93041,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#86#12,そうしよっと♪,就这么定啦♪,translated,依恩,470c405821,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#94#12,"と思ったけど、ワンピースなんて
+持ってないよ…。
+いつもの服で行くね。","虽然这么想，但我根本没有
+连衣裙之类的衣服啦……。
+就穿平时这身去吧。",translated,依恩,dd702922fc,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_kigae.txt#98#12,おまたせ～♪,久等啦～♪,translated,依恩,a17ce62072,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#103#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#104#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#105#12,かわいい！！,太可爱了！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_kigae.txt#107#12,"ほんと？
+ちょっと嬉しいかも♪","真的吗？
+感觉有点开心呢♪",translated,依恩,853256be37,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_kigae.txt#110#12,"ええっ……な、なんか恥ずかしい。
+でも、嬉しいかも…♪","诶诶……总、总觉得好害羞。
+不过，心里也挺开心的…♪",translated,依恩,461c4fd10d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt01.txt#2#12,"ねえねえ、ちょっと気分転換に
+海に行かない？","呐呐，要去海边
+散散心吗？",translated,依恩,44d7afde82,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt01.txt#4#12,ねえねえ、ちょっとだけ海に行ってみない？,呐呐，要不要稍微去海边走走？,translated,依恩,ce5bd5b0e7,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt01.txt#6#12,"海に行こうと思うんだけど、
+どうかな？","我想去海边转转，
+你觉得怎么样？",translated,依恩,1d9e8f3b1a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt01.txt#8#12,"う～ん……気分転換に
+どこか行きたいな……。","唔～嗯……好想去哪里
+散散心呀……。",translated,依恩,0462c56c7e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt01.txt#9#12,"海に行って、太陽の光を
+うんと体に浴びてこようかな？","要不去海边，让身体
+尽情沐浴一下阳光吧？",translated,依恩,66e6351ba3,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt02.txt#2#12,ふぅ～、ただいまー。,呼～，我回来了。,translated,依恩,be613041d4,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt02.txt#4#12,あ～、楽しかったぁ。,啊～，真开心啊。,translated,依恩,e068f53971,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt02.txt#6#12,えへへ、楽しかったぁ。,嘿嘿，真开心啊。,translated,依恩,8719c29517,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt03.txt#2#12,また砂浜をお散歩しようね。,下次再去沙滩散步吧。,translated,依恩,450c0af730,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt03.txt#4#12,"今日は付き合ってくれてありがと。
+また一緒に行こうね。","今天谢谢你陪我。
+下次再一起去哦。",translated,依恩,17d962f435,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_pt03.txt#6#12,また一緒に行こうね。,下次再一起去哦。,translated,依恩,f8fea3efcd,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_pt03.txt#8#12,今度は何か、遊べる物を持って行きたいね。,下次真想带点能玩的东西去呢。,translated,依恩,6a407940de,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#2#12,えへへ、それじゃあ行こっか。,诶嘿嘿，那我们这就出发吧。,translated,依恩,7ff6fbfd63,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#4#12,"ん～、ちょっと暑いけど、
+やっぱり陽の光は気持ちいいね。","嗯～，虽然有点热，
+但晒着阳光果然好舒服啊。",translated,依恩,7005005b47,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#5#12,思い切って来て正解だったね。,鼓起勇气过来真是来对了呢。,translated,依恩,b683fbb341,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#6#12,それじゃ、ちょっと歩こうか？,那么，稍微走走吧？,translated,依恩,a58032a32b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#8#12,"ねえ、海っていうとあなたは何を
+思い浮かべるかな？","呐，说到大海你会联想到
+什么东西呢？",translated,依恩,219d6adc23,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#9#12,わたしはね、えっと……。,我呢，那个……。,translated,依恩,fdcbbb1543,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#10#12,……えへへ、やっぱり秘密。,……嘿嘿，还是保密。,translated,依恩,540a2c549b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#11#12,"えっとね、
+あなたから先に教えてほしいな。","那个呀，
+希望你先告诉我呢。",translated,依恩,b7a9857afc,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#12#12,それで、あなたは何を思い浮かべるの？,那么，你会联想到什么呢？,translated,依恩,182855eb09,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#14#12,綺麗な海,美丽的大海,translated,,8bbf842586,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#15#12,真っ白な砂浜,纯白的沙滩,translated,,d3d777d756,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#22#12,あっ、そうだよね！,啊，说的也是呢！,translated,依恩,7954f5e175,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#23#12,わたしも、同じものを考えてたの。,我刚才也在想一样的东西呢。,translated,依恩,d4b368cc10,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#24#12,"まあ、海といったら何か、って言われれば
+数は限られてるし、不思議ではないかな？","不过，要说起海边能有什么，
+选项也就那些，倒也不算稀奇吧？",translated,依恩,04261852b9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#25#12,"……でも、やっぱりわたし達って、
+気が合ってる、ってことだよね？","……但是，这果然说明我们两个人
+很有默契对吧？",translated,依恩,7caadc2139,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#26#12,"えへへ、そう考えると、ちょっとだけ
+照れくさいかも。","嘿嘿，这么一想，感觉稍微有点
+不好意思呢。",translated,依恩,aee1da1f36,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#27#12,"い、嫌って意味じゃないよ？
+正直、嬉しいなぁって思ってるし……。","不、不是讨厌的意思哦？
+说实话，其实心里觉得很高兴……。",translated,依恩,a4fc4a573b,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#28#12,"え、えへへ……
+余計に恥ずかしくなっちゃうこと
+言ってるね、わたし。","诶、嘿嘿……
+我好像越说
+越让自己难为情了呢。",translated,依恩,27b1929b7e,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s01.txt#29#12,"なんか……暑くなってきたね。
+こういうときは冷たくて甘い物かな？","感觉……开始变热了呢。
+这种时候就该吃点又冰又甜的东西吧？",translated,依恩,88cf5bf63c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#31#12,そうだね,确实呢,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#32#12,むしろ辛い物,反而想吃辣的,translated,,c631845ae0,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#35#12,えへへ、暑いときはやっぱりそうだよね。,嘿嘿，天热的时候果然该这样呢。,translated,依恩,65d2ab735c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#39#12,"言われてみると、
+たしかにそういうのも良いかも。","听你这么一说，
+确实那样也不错呢。",translated,依恩,10b9f058b6,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#42#12,"それにしても、このままだと
+たくさん汗をかいちゃいそう……。","不过话说回来，再这样下去
+感觉会流很多汗呢……。",translated,依恩,e94fadb160,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#43#12,そうなる前に一回帰らない？,要不要在出汗前先回去呀？,translated,依恩,c0e5336be2,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#45#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#46#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s01.txt#50#12,"いつでも来れるし、
+そのとき、またたくさんお話しよう。","反正随时都能来，
+到时候再好好聊个够吧。",translated,依恩,3df628d7c0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#53#12,"ちょっとだったけど、あなたと色んな
+お話できて楽しかったよ。","虽然时间不长，但能和你聊
+这么多话题，真的很开心哦。",translated,依恩,a9a410647c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s01.txt#58#14,"一緒に海に行った♪
+たくさんお話できて
+楽しかった♪","一起去了海边♪
+聊了好多好多话，
+真开心♪",translated,,e95a11f692,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s01.txt#59#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s02.txt#2#12,それじゃ、出発するよー。,那么，这就出发喽――,translated,依恩,ff5d968efa,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#4#12,"ん～、ちょっと暑いけどやっぱり
+太陽の光を浴びると元気になった気に
+なれるよね。","嗯～，虽然有点热，但沐浴在
+阳光下果然会让人觉得
+精神满满呢。",translated,依恩,56fac163da,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#5#12,光合成、ってやつかな？,这大概就是光合作用吧？,translated,依恩,e52864779c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#6#12,"なんて、わたしが
+そんな事するなんておかしいよね。","开玩笑啦，我怎么可能
+会做那种事嘛，真奇怪呢。",translated,依恩,9a0d32524c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#7#12,"それじゃ、ここでジッとしてても
+仕方がないし、少し歩こっか？","那么，一直呆站在这里也没意思，
+稍微走走吧？",translated,依恩,7afbd2f1de,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#9#12,んんぅー……気持ちいいねー。,嗯嗯～……好舒服呀。,translated,依恩,8b23a90cc3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#10#12,"わたしって割と家に引きこもってるから
+こうして太陽の下を歩くと
+すごく新鮮な感じがするよ。","我平时基本都宅在家里，
+像这样走在阳光下，
+感觉特别新鲜呢。",translated,依恩,959d5feb75,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#11#12,"そういえば、あなたはどうなの？
+わたしと同じで、家の中に閉じこもりっ
+ぱなしなんてことないよね？","话说回来，你又是怎样的呢？
+该不会和我一样，一直宅在家里
+不出门吧？",translated,依恩,41c0a29aa1,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#13#12,類は友を呼ぶ、ってね,物以类聚嘛,translated,,f17375247c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#14#12,外出はよくするよ,我经常出门哦,translated,,4ff462720c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#16#12,"えへへ、やったね。
+似た者同士。","嘿嘿，太好啦。
+我们是同道中人呢。",translated,依恩,90c98197bf,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#17#12,"……って、喜んじゃダメだよね。
+どう考えても不健康コースまっしぐらだし。","……等等，这可不能高兴吧。
+怎么想都完全是在迈向不健康啊。",translated,依恩,31b33024cf,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#18#12,"お互い、これからは少し外に出るように
+心がけなきゃね。","我们彼此今后都得注意
+多往外走走才行呢。",translated,依恩,e37861af2b,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#19#12,"なーんて、これといって用事が無いと外出
+するにしても難しいよね。","话虽如此，要是没什么要紧事，
+想要特地出门也很难呢。",translated,依恩,2ccf55c48a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#20#12,"例えば～……どこかに遊びに行くとか！
+もしくは、散歩とか？","比如～……去哪里玩之类的！
+或者是散步？",translated,依恩,9d1ff18eb3,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#21#12,"ん～……どっちにしろ、一人でするのは
+ちょっと寂しそうだね。","唔～嗯……但不管哪个，一个人去
+感觉都挺寂寞的呢。",translated,依恩,30601869f7,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#22#12,"あなたが一緒なら、散歩も遊びに行くのも
+楽しめると思うんだけどなぁ。","不过要是有你相伴，散步也好出去玩也好，
+我想都会很开心的吧。",translated,依恩,d7ea68d94c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#23#12,"……っていうか、せっかく海に来てるん
+だからお話だけっていうのも勿体無いね。","……话说回来，好不容易来次海边，
+光是聊天感觉也太可惜了呢。",translated,依恩,04865b46c5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#24#12,"泳ぐのは無理だけど、何か他にできること
+ってないかな？","虽然没法游泳，但不知道
+还有没有别的能玩的事情呢？",translated,依恩,3b61c8d32f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#27#12,そっか～、意外とアウトドア派なんだね。,这样啊～，你意外地挺喜欢户外的呢。,translated,依恩,5f64090d3e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#28#12,"わたしも少し見習わないとダメなのは
+わかってるんだけど……。
+特に外に出る用事がないんだよね……。","我也知道自己该向你学学，
+这我也明白……
+但平时真没什么要出门的事嘛……。",translated,依恩,e728c8a555,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#29#12,"あなたはお仕事とか学校とかで
+外出をしてるのかな？","你是因为工作或上学之类的事情
+才经常外出的吗？",translated,依恩,c76ad76707,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#30#12,"わたしは、今のところどっちとも
+関わりがないからね。
+本当、外出する目的がなくて困っちゃう。","因为我现在和这两样
+都扯不上关系呢。
+真的完全没有出门的目的，好苦恼呀。",translated,依恩,b5c5cf9e0b,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#31#12,"……ま、まさかとは思うけどっ……
+頻繁に、で、デートをするために外出して
+る、なんてことはない……よね？","……虽、虽然我觉得应该不会……
+但你该不会经常为了约、约会
+才出门的……吧？",translated,依恩,3d923cd6ab,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#32#12,"あ、あなたって凄く優しそうだから、その、
+周りが放っておかないような気がするし！","你、你看上去非常温柔，那个，
+感觉身边的人不会放着不管嘛！",translated,依恩,7a2b488a68,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#33#12,"え、えへへ、お世辞かどうかの判断は
+あなたに任せるけど……少なくとも、
+わたしはあなたが優しい人だと思ってる。","诶、嘿嘿，算不算奉承交由你来判断……
+但至少，
+我认为你是一个很温柔的人。",translated,依恩,73294b4551,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#34#12,"実際に触れ合うこともできないような
+わたしのことを、こんなにも気にかけて
+くれるんだもん。","毕竟对于连实体都无法触碰到的我，
+你却能如此
+关照体贴嘛。",translated,依恩,442b07e178,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#35#12,"えへへ……ちょっと、恥ずかしいこと
+言っちゃったね。","嘿嘿……不小心说了些
+让人害羞的话呢。",translated,依恩,62268a20d2,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#36#12,"あ～あ、あなたとずっと一緒だったら、
+外出もこんな風に楽しくできるのになぁ。","啊～啊，如果能一直和你在一起，
+外出也能像现在这样开开心心的了吧。",translated,依恩,f4e785d2e0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#37#12,"……でも、よくよく考えたら海に来てるのに
+ただお話しながら歩くだけっていうのは、
+ちょっと勿体無い気がするね。","……不过仔细想想，既然都来到海边了，
+却只是边聊天边散步，
+总感觉有点太可惜了呢。",translated,依恩,a39c00e546,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#38#12,"やっぱり海に来てるんだし、何か海らしい
+ことしないとだよね！","难得来趟海边，果然得做点
+很有海边特色才行呢！",translated,依恩,74c5ec6c12,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#39#12,"とは言ったものの、海らしいことって
+どんなことなんだろう？","虽然这么说了，但海边特色的事情
+具体是什么样的呢？",translated,依恩,0c9ea143ff,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#41#12,"泳ぐ以外で海ですることっていうと、
+砂浜でできることだから……。","除了游泳以外在海边能做的事，
+那就是在沙滩上能玩的活动了……。",translated,依恩,fe70061084,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#42#12,"あっ、いくつか思いついたよ。
+ビーチバレーでしょ、それにスイカ割り。
+あと、潮干狩りなんかもできるよね！！","啊，我想到几个了！
+沙滩排球，还有蒙眼打西瓜。
+另外赶海挖贝壳之类的也能做呢！！",translated,依恩,e0d7bae71a,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#44#12,オイル塗りなんてどうかな？,帮你涂防晒油怎么样？,translated,,2a006d3b56,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#45#12,"……や、やっぱり、潮干狩りは無しね！
+何か、デートで潮干狩りっていうのは
+ムードの欠片も感じられないし……。","……不、不过，赶海挖贝壳还是算了！
+总觉得在约会时去挖贝壳，
+根本没有半点浪漫气氛嘛……。",translated,依恩,294c70aa71,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#46#12,"それに、沢山採れても
+家に持って帰れないし……。
+それじゃつまらないよね？","而且就算挖到了很多，
+也没法带回家里……。
+那样岂不是太无趣了吗？",translated,依恩,ee4f219cf9,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#47#12,"ビーチバレーも二人だけでするのは
+ちょっと寂しい……。","沙滩排球只有两个人打
+也有点冷清……。",translated,依恩,1c8bed6064,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#48#12,"って、それだとスイカ割りも
+二人だと盛り上がらないような……！？","等等，这么说来打西瓜
+两个人好像也热闹不起来……！？",translated,依恩,c84ba6e402,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#49#12,"う～ん……二人で楽しめる海での遊びって、
+意外と少ないのかもしれないね。","唔～嗯……两个人能在海边玩的活动，
+意外地可能挺少的呢。",translated,依恩,3758104b42,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#51#12,"でもまあ、わたしはこうしてあなたと
+歩いてお話してるだけで楽しいよ。","不过嘛，我只要能像这样和你
+一边散步一边聊天就很开心了哦。",translated,依恩,71fb7a64ab,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#52#12,"海っていうシチュエーションでするのは
+ちょっと勿体無い気はするけど、
+こうい贅沢も悪くないと思うし。","虽说特地在海边这么做
+感觉稍微有点奢侈浪费，
+但我觉得偶尔这样奢华一次也不坏嘛。",translated,依恩,641a4b6c50,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#53#12,"……も、もしもだけど、ここで手を
+繋げたら、もっと楽しく……。","……要、要是说，能在这里牵手
+的话，肯定会更开心……。",translated,依恩,c161886b75,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#54#12,……あなたも、そう思ってくれてる？,……你也是这么想的吗？,translated,依恩,2a3daa1a90,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#55#12,え、えへへ。,诶、嘿嘿。,translated,依恩,9c228ba54e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#57#12,"はぁ……恥ずかしいこと言っちゃったから、
+何だか顔が熱くなって来ちゃったよ。","哈啊……因为说了令人害羞的话，
+总觉得脸都开始发烫了呢。",translated,依恩,58be388888,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#58#12,"今日はそろそろ帰ろうか？
+海でどんな遊びをするかは、
+また次に来た時に考えよ！","今天是不是该回去了呀？
+至于在海边玩什么，
+等下次来的时候再考虑吧！",translated,依恩,7d9009d28d,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#59#12,"えへへ、海での遊びを思いつくことは
+できなかったけど、今度来た時に何を
+するかは決まったね。","嘿嘿，虽然没想出在海边玩什么，
+但下次来的时候要做什么
+已经决定好了呢。",translated,依恩,0ccc06905e,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#60#12,それじゃ、今日はこの辺で戻りましょ！,那么，今天就先回去吧！,translated,依恩,4678baaab5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#62#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#63#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#68#12,たっだいまー！！,我回来啦――！！,translated,依恩,8a29a6cace,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#69#12,"今日も沢山お話できて、凄く満足したよ。
+付き合ってくれてありがとね。","今天也聊了好多，感觉非常满足哦。
+谢谢你陪我聊天呢。",translated,依恩,2f7b63b647,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#70#12,"でもやっぱり、せっかく海に行ったん
+だから、海でしかできないようなことを
+考えた方がいいのかもしれないね。","不过果然，难得去了一趟海边，
+还是该好好想想
+只有在海边才能做的事呢。",translated,依恩,b1dda197dc,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#71#12,"まあ、慌てて考えてもしょうがないし、
+また今度海に行った時にお話しながら
+決めようね。","不过，着急去想也没用，
+等下次去海边的时候，
+再边聊边决定吧。",translated,依恩,1c0effe97d,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#72#12,えへへ、楽しみにしてるから！！,嘿嘿，我很期待哦！！,translated,依恩,144891af5c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#79#12,"オイル塗り？
+エンジンオイルのこと？","涂油？
+是说机油吗？",translated,依恩,d82f620a8d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#80#12,"わたし、エンジンオイルのあの臭いって
+凄く好きなの。","我其实特别喜欢
+机油的那股气味呢。",translated,依恩,e872177187,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#81#12,"何て言うのかな？
+こう、工業って感じの素敵な臭いだなぁ、
+って胸がキュンとして……。","该怎么说呢？
+就是那种让人心动的、
+充满工业气息的迷人气味……",translated,依恩,c7e7a71c2d,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#83#12,"あ、待って。
+あれ？　海でオイル？
+それってつまり……。","啊，等等。
+哎？在海边涂油？
+那也就是说……",translated,依恩,c71c4f6bb1,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#85#12,ま、まさか、サンオイルのこと！？,难、难道是防晒油！？,translated,依恩,932406e83d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#86#12,"だ、ダメダメダメ！！
+そんな、サンオイルなんてダメだよ！！","不、不行不行不行！！
+防晒油什么的绝对不行啦！！",translated,依恩,dfd4f2c93e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#87#12,"だってそれって、あ、あなたに、その……
+色んなとこ……触られるってことでしょ！？","因为那样的话，就等于要被你、那个……
+摸遍……各个地方了吧！？",translated,依恩,d6d36e28dd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#88#12,"そ、そんなのダメだよ！
+だって恥ずかしいもん！！","那、那种事怎么行呀！
+太让人难为情了嘛！！",translated,依恩,3151340820,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#90#12,やだやだ、塗りたい塗りたい！！,不要不要，我想涂我想涂！！,translated,,b57f1ad9e6,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#91#12,イオンの肌を、紫外線から護りたいんだ,我想保护依恩的肌肤不受紫外线伤害,translated,,e117cae79a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#93#12,"ちょ、ちょっとやめてよ！
+そんな子供みたいに駄々こねなくても……。
+ほ、ほら、周りの人達が見てるから！！","等、等等别闹啦！
+用不着像个小孩子一样耍赖吧……
+你看，周围的人都在看呢！！",translated,依恩,1770d67d9c,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#96#12,"……。
+一見かっこよさそうなセリフだけど、
+本音は、変なこと考えてるんでしょ？","……。
+虽然听起来好像很帅气，
+但真心话其实在想些奇怪的事吧？",translated,依恩,7085603183,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#98#12,ううう、っていうかなんだろう？,呜呜呜，话说回来怎么回事呢？,translated,依恩,23a4547cae,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#99#12,"オイルの話が出た瞬間から、わたしが
+オイルを塗られなくちゃいけない運命が
+決定付けられた感じが……。","总觉得从提起防晒油的瞬间起，
+我就注定了
+必须要被涂油的命运……",translated,依恩,7851208b81,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#100#12,"……ま、まあ、わたしもそういうことを
+してもらうのに、ちょっとだけ憧れてた
+と言えば憧れてたんだけど……。","……不、不过，如果说被别人这么做，
+其实我自己心里也稍稍有些憧憬
+就是了……",translated,依恩,e9bc541ecf,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#101#12,"だ、だって海でオイルを塗って
+もらうのって、何かお嬢様っぽいっていうか
+ラブラブっぽいっていうか……。","因、因为在海边被人涂防晒油，
+总觉得很有大小姐风范，
+或者说很有恩恩爱爱的感觉嘛……",translated,依恩,00788c04c6,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#102#12,"とにかく、その……わ、わたしも、
+興味がないってわけじゃないの！","总之，那个……我、我也
+不是完全不感兴趣啦！",translated,依恩,1dedb69be5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#103#12,"だから、ね。
+帰ったらオイルのレシピ……用意するから。
+……それでいい？","所以，好吗。
+回去后我会准备……防晒油的配方。
+……这样总行了吧？",translated,依恩,8cb72206e2,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#105#12,やった！イオン愛してる！,太棒了！依恩我爱你！,translated,,c1822cea42,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#106#12,イオンの愛を感じた……！,我感受到了依恩的爱……！,translated,,d31a7b79bf,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#108#12,も、もぉ、調子良過ぎだよ！！,真是的，你也太会顺杆爬了吧！！,translated,依恩,d90174b659,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#111#12,"わたしはあなたの
+やましい気持ちを感じたよ……！","我只感受到了
+你那不怀好意的心思啦……！",translated,依恩,74300d49ed,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#113#12,ほんと、しょうがないんだから……。,真是拿你没办法呢……。,translated,依恩,3d54b619ba,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#114#12,それじゃ、今日はそろそろ帰りましょ。,那么，今天也差不多该回去啦。,translated,依恩,a4c5977574,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#116#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#117#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#122#12,"たっだいまー！！
+あ～、面白かったね！！","我回来啦――！！
+啊～，真有趣呢！！",translated,依恩,056c732a9c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#123#12,"それじゃ、今日は付き合ってくれて
+ありがと！！
+また一緒に海に行こうね！！","那么，谢谢你
+今天陪我一起去！！
+下次还要一起去海边哦！！",translated,依恩,d9b56582c2,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#125#12,"はい、わかってます。
+レシピを渡すまでは終わらないよね。","好啦，我知道啦。
+在把配方交给你之前还不算完对吧。",translated,依恩,c13111e883,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s02.txt#126#12,"まあ、渡すと言った以上はちゃんと
+渡すけど、作ってもすぐに使おうとか
+言い出さないでね。","既然说了会给你，我就会好好给你的，
+但做出来后你可别马上嚷嚷着
+要拿来用哦。",translated,依恩,2cf44e48e8,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#127#12,わたしにだって、心の準備が必要だし……。,就算是我，也是需要心理准备的嘛……。,translated,依恩,c76ce74c56,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#128#12,それじゃ、これを渡しておくね。,那么，先把这个交给你吧。,translated,依恩,a2ba531d5d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s02.txt#130#12,"<CLY2>レシピ【オイル？】が
+追加されました。","<CLY2>已追加配方
+【防晒油？】。",translated,系统文本,cd1777f22b,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents00/sea_s02.txt#135#14,"海楽しかった～♪
+でも、オイル塗りは
+恥ずかしいかも……。","海边真开心～♪
+不过涂防晒油
+可能会很害羞……。",translated,,b147849d9e,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s02.txt#136#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s03.txt#2#12,それじゃ、行くよー。,那么，出发咯～。,translated,依恩,70ded98db1,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#4#12,"ん～っ！！
+ここはいつ来てもいい天気だね。","嗯～！！
+这里不管什么时候来，天气都这么好呢。",translated,依恩,79a7a778d9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#6#12,"えへへ……。
+海に来ると、ワクワクしてこない？","嘿嘿……。
+来到海边，心情不会兴奋起来吗？",translated,依恩,0e38ddad80,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#7#12,"なんていうのかな？
+こう、バカンス、って感じがするから？","该怎么说呢？
+就是，很有度假的感觉吧？",translated,依恩,34afc29f51,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#8#12,それとも……。,还是说……。,translated,依恩,1667138161,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#9#12,あなたと一緒に来てるから、かな？,是因为和你一起来的关系呢？,translated,依恩,ac008d28c7,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#10#12,"え、えへへ……ワクワクしてたのが
+ドキドキに変わっちゃった。","诶、嘿嘿……原本兴奋的心情
+都变成心跳加速了呢。",translated,依恩,aff8746d16,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#11#12,"でも、何か一緒に遊べるようなものを
+持ってくればよかったね。","不过，要是带点能一起玩的
+东西过来就好了呢。",translated,依恩,dec6d8237a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#12#12,"泳ぐ以外にも、海で遊べることは
+色々あるんだし。","毕竟除了游泳之外，
+在海边能玩的事还有很多嘛。",translated,依恩,b41c4ab693,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#14#12,潮干狩り,赶海挖贝壳,translated,,17adfcebaf,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#15#12,ビーチバレー,沙滩排球,translated,,7c55dc3eb2,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#22#12,うんうん、面白そうだよね。,嗯嗯，听起来很有意思呢。,translated,依恩,fa52bf5158,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#23#12,"あ、でもこうやってお話してるのが
+つまらない、って意味じゃないよ？","啊，不过我可不是说
+像这样聊天很无聊哦？",translated,依恩,70467c8de5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#24#12,"ただ、せっかく海に来てるんだから、
+ちょっと特別なこともしたいなぁ、って。","只是觉得难得来趟海边，
+也想做点特别的事情嘛。",translated,依恩,70374305ee,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#26#12,"う～ん……遊ぶ以外でできることって
+いったら……。","唔～嗯……要说除了玩耍之外
+还能做什么的话……。",translated,依恩,285137a18e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#28#12,イオンを見つめていたい,想一直注视着依恩,translated,,f47ba31a8a,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#35#12,……そうだ、海の家でお食事しない？,……对了，要不要在海滨小屋吃点东西？,translated,依恩,4ea81d566d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#36#12,わたし、海の家のラーメン、大好きなの。,我最喜欢海滨小屋的拉面了。,translated,依恩,ba6e311c78,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#37#12,"海で食べるラーメンって、シンプルなのに
+凄く美味しく感じられるよね？","在海边吃拉面，虽然很简单，
+但总觉得格外美味对吧？",translated,依恩,32583a7557,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#38#12,あなたは何を食べたい？,你想吃点什么呢？,translated,依恩,c93798303b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#40#12,ソースたっぷり焼きそば,酱汁浓郁的炒面,translated,,210d83886c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#41#12,冷やし中華,中华凉面,translated,,1146573579,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#48#12,わぁ、それも美味しそう！,哇，那个看起来也很好吃！,translated,依恩,d66f4743a7,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#49#12,"えへへ、わたしもそっちを食べたく
+なってきちゃったかも。","嘿嘿，搞得我都想
+尝尝看你选的那个了呢。",translated,依恩,2f3d70be54,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#50#12,"海の家に着くまでに、
+どっちにするか選べるかな？","在走到海滨小屋之前，
+我能决定好选哪样吗？",translated,依恩,7fe9048649,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#53#12,"えへへ、なんだかお食事をしにいった
+みたいになっちゃったね。","嘿嘿，总感觉好像变成
+专程跑去吃顿饭了呢。",translated,依恩,f3a0bb3a5b,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s03.txt#54#12,でも、凄く美味しかったなぁ……。,不过，真的非常好吃呢……。,translated,依恩,c1c5a11421,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s03.txt#59#14,"一緒に海に行って
+海の家でお食事♪
+おいしかった～♪","一起去了海边，
+在海滨小屋吃了饭♪
+真好吃～♪",translated,,74c86cb438,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s03.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s04.txt#2#12,それじゃ、出発するよー。,那么，这就出发喽――,translated,依恩,ff5d968efa,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#4#12,ん～っ、気持ちいいー！,嗯～，好舒服呀！,translated,依恩,6c36109b76,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#6#12,"潮風もいいけど、この景色を眺めてるだけで
+心が開放された気持ちになるね。","海风固然舒服，但光是眺望这片景色，
+心情就感觉豁然开朗了呢。",translated,依恩,4060bf1e1a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#7#12,"やっぱり、ずっと狭い部屋の中に
+いるからかな？","果然是因为一直待在
+狭窄的房间里的缘故吧？",translated,依恩,921d656c4e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#8#12,"あ～あ、海の見えるところに家があれば、
+窓を開けるだけでこの景色を楽しむことが
+できるのになぁ……。","啊～啊，要是在能看得见海的地方有栋房子，
+只要推开窗户就能欣赏这片景色
+该有多好呀……。",translated,依恩,ff99eef5cd,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s04.txt#9#12,海の見える家って、良いと思わない？,看得见大海的房子，不觉得很棒吗？,translated,依恩,a8d6b1be05,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#11#12,海の見える丘のコテージ,能看见大海的山丘小木屋,translated,,843850c3f3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#12#12,港町の一軒家,港口小镇的独栋别墅,translated,,d373b4176f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#15#12,"わぁ、素敵！
+住んでみたいなぁ……。","哇，太棒了！
+真想住住看呀……。",translated,依恩,f06df3ba2f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#19#12,"あ、それもいいかも。
+毎日新鮮なお魚を食べれそうだよね。","啊，那个好像也不错。
+感觉每天都能吃到新鲜的鱼呢。",translated,依恩,a557234843,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#21#12,う～ん……。,唔～嗯……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#22#12,"わたしって、自分で思ってたよりも
+海が好きなのかも。","我可能比自己想象的
+还要更加喜欢大海呢。",translated,依恩,99515b598c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#23#12,でも、泳ぎは苦手なんだよね……。,不过，我不擅长游泳呢……。,translated,依恩,31ae21dd08,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#24#12,"もう少し泳げたら、
+きっと楽しいんだろうけど……","要是能游得更好一点，
+肯定会更开心吧……",translated,依恩,98703caa7d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#25#12,"砂浜から海を見るのもいいけど、
+海の上から砂浜や、
+水平線を見るのも素敵だと思わない？","从沙滩上看大海固然很好，
+但从海面上眺望沙滩或者
+水平线，不觉得也很美妙吗？",translated,依恩,f7a1343a4c,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s04.txt#26#12,"でも、泳げないわたしだと、
+そんな景色を見るのは難しいよね？","可是对于不会游泳的我来说，
+想看那种景色很难对吧？",translated,依恩,f859539a7f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#28#12,シャチの浮き輪,虎鲸游泳圈,translated,,d56e40285e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#29#12,クルーザー,游艇,translated,,903d65fe53,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#32#12,"そっか、浮き輪があれば泳げなくても
+海に入れるよね？","这样啊，有游泳圈的话就算不会游泳
+也能进到海里了对吧？",translated,依恩,b90f826acd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#33#12,"それにシャチの浮き輪っていうのが
+可愛くて素敵だよ。","而且虎鲸游泳圈
+既可爱又很棒呢。",translated,依恩,1e944abfb0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#37#12,"なるほど、クルーザーに乗れば
+泳ぐ必要ないよね。","原来如此，坐游艇的话
+就完全不需要游泳了呢。",translated,依恩,40afd0e5a8,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#38#12,"それに凄くおしゃれな感じがするね。
+えへへ、乗ってみたいなぁ。","而且感觉非常时髦呢。
+嘿嘿，真想坐坐看呀。",translated,依恩,6de7088c24,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#41#12,素敵なアイデアを出してくれてありがと。,谢谢你提出了这么棒的想法。,translated,依恩,959d76f8cb,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#42#12,"すぐに実行するのは無理だけど、
+いつか一緒に、海の上からの景色を
+楽しみたいね。","虽然没法立刻实现，
+但希望有朝一日能和你一起
+欣赏海面上的风景呢。",translated,依恩,5dd204a97a,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s04.txt#43#12,それじゃ、今日はそろそろ帰ろうか？,那么，今天就差不多该回去啦？,translated,依恩,4bb2fd5b90,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#45#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#46#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#52#12,やっぱり海に行って正解だったね。,果然去海边是正确的选择呢。,translated,依恩,f38195b438,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s04.txt#53#12,"行く前より、
+気分がスッキリした気がするよ。","感觉心情比去之前
+舒畅多啦。",translated,依恩,48a837da3a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#58#14,"一緒に海に行って
+リフレッシュできた♪","一起去了海边，
+身心都焕然一新♪",translated,,4b75dc0f4e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s04.txt#59#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s05.txt#2#12,えへへ、それじゃあ行こっか。,诶嘿嘿，那我们这就出发吧。,translated,依恩,7ff6fbfd63,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#4#12,"えへへ、何度来ても
+わくわくするね。","嘿嘿，不管来多少次
+都让人兴奋不已呢。",translated,依恩,a16ff0ef40,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#6#12,"今更かもしれないけど、
+海に来るといつも砂浜ばかりだよね？","虽然现在说可能有点迟，
+不过每次来海边总是在沙滩上呢？",translated,依恩,207850e16f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#7#12,"もちろん一緒に歩いてお話しするのは
+砂浜の方がいいと思うよ。","当然，要是一起散步聊天的话，
+沙滩确实更好一些啦。",translated,依恩,1dc2752482,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#8#12,"でも、たまには岩場とかでも
+新鮮でいいと思わない？","不过，偶尔去去礁石区
+不觉得也很有新鲜感吗？",translated,依恩,768ec57205,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#9#12,"もちろん歩けはしないと思うけど、
+岩場には岩場の楽しみがあると思うし。","虽然可能没法散步，
+但我觉得礁石区也有那里的乐趣嘛。",translated,依恩,96f405844d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#11#12,岩に座っておしゃべり,坐在岩石上聊天,translated,,0498de61c4,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#12#12,カニ捕り,抓螃蟹,translated,,f3fbe367b0,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#15#12,"こうやって砂浜を歩きながらよりも、
+落ち着いてお話できそうだよね。","比起像这样在沙滩上边走边聊，
+感觉更能静下心来聊天呢。",translated,依恩,718bc5329d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#16#12,"足だけ海水につけてれば、
+凄く気持ちいいと思うし。","如果只把脚浸在海水里，
+我想一定会特别舒服吧。",translated,依恩,19a1dfab85,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#20#12,"岩場だったら、小さくて可愛いカニが
+沢山いるはずだよね。","要是礁石区的话，
+应该会有很多小巧可爱的螃蟹吧。",translated,依恩,ceeb7a873d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#21#12,"もちろん捕まえたら、
+その後はちゃんと海に返すよ。","抓到之后，
+当然会好好放回海里啦。",translated,依恩,25ac6921db,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#23#12,"でも、足場が不安定な場所だから、
+わたしじゃ転んじゃうかもしれないね。","不过因为那里下脚很不稳当，
+换成我说不定会摔跤呢。",translated,依恩,6deec8c81d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#24#12,だとしたら、あとは……。,这么说的话，剩下就只有……。,translated,依恩,bd5bb399f3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#25#12,"あっ、パラソルとシートがあれば、
+砂浜に座ってゆっくりとお話できるよね？","啊，如果有遮阳伞和野餐垫，
+就能坐在沙滩上悠闲地聊天了吧？",translated,依恩,717993fa21,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#26#12,"それなら、お弁当をこっちに持ってきて、
+ここで食べたりもできるし。","那样的话，还能把便当带过来，
+坐在这里享用呢。",translated,依恩,bc375f9c8a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#27#12,えへへ、それいいかも。,嘿嘿，那样好像挺不错的。,translated,依恩,c9a8363c08,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#28#12,お弁当のリクエストとかある？,便当有什么想吃的点单吗？,translated,依恩,a282df18dd,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#30#12,明太子おにぎり,明太子饭团,translated,,bbc69401ce,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#31#12,鮭おにぎり,三文鱼饭团,translated,,d64bfdc97e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#38#12,あはは、おにぎりはおべんとうの定番だね。,啊哈哈，饭团确实是便当的经典呢。,translated,依恩,2da30bca47,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#39#12,"それくらいなら、
+わたしでもどうにか作れそうだよ。","要是那种程度的话，
+连我也能勉强做出来呢。",translated,依恩,612f3f2aff,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#41#12,"それじゃあ、いい感じのパラソルと
+シートのレシピを考えておくね。","那么，我会构思一份合适的
+遮阳伞和野餐垫配方。",translated,依恩,13ebdba2ec,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#42#12,"それを作って、いつかここで
+おにぎりを一緒に食べようね。","做出来之后，总有一天我们要
+坐在这里一起吃便当饭团哦。",translated,依恩,9f1876c590,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#43#12,"きっと、凄く美味しく感じられるん
+だろうなぁ……。","那样一定会让人觉得
+超级美味吧……。",translated,依恩,0c046a5b22,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s05.txt#44#12,さてと、そろそろ帰ろうかな。,那么，差不多该回去了吧。,translated,依恩,252e407d06,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#46#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#47#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#53#12,やっぱり外出すると、気持ちが軽くなるね。,外出走走果然能让人心情变轻松呢。,translated,依恩,d43dcc58dd,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#54#12,これでまた作業に集中できそうだよ。,这样一来又能重新集中精力工作了。,translated,依恩,4d8fda60f5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s05.txt#59#14,"一緒に海に行った♪
+いつかおにぎりを
+一緒に食べたいな♪","一起去了海边♪
+好想总有一天
+能一起吃便当饭团呢♪",translated,,25d7aca7ab,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s05.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s07.txt#2#12,"海に行く時って、他の場所よりも
+ドキドキするかも。","去海边的时候，比起其他地方
+感觉心跳得更快呢。",translated,依恩,ef878f3d81,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#3#12,"初めてデートした場所だからかな？
+わたしの中で特別な場所なのかも。","是因为那是我们初次约会的地方吗？
+在我的心里也许是很特殊的地方呢。",translated,依恩,c8a2d525ba,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#4#12,"っと、ここで話してちゃ勿体無いよね？
+早く出発しよ。","哎呀，呆在这里聊太可惜了对吧？
+快点出发吧。",translated,依恩,4347f71875,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#6#12,ん～っ、海の開放感、最高だね！,嗯～，大海的开阔感真是棒极了！,translated,依恩,ebdb1f34a8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#8#12,"えへへ……やっぱり砂浜を歩くのって、
+気持ちよくて好きかも。","嘿嘿……漫步在沙滩上的感觉
+果然既舒服又让人喜欢呢。",translated,依恩,484b8a436a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#9#12,"砂を踏みながら歩く感触も面白いし、
+潮風も心地いいし……。","踩着沙子散步的触感很有趣，
+海风吹拂的感觉也很惬意……。",translated,依恩,dc6b363096,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#10#12,"でも、最初に来た頃はそんなことを言う
+余裕は無かったよね？","不过，刚开始来的那会儿
+可完全没有闲心说这些话呢？",translated,依恩,edadf0c3a8,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#12#12,暑い暑い言ってたよね？,当时一直喊热对吧？,translated,,714163803d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#13#12,海の臭いが苦手って言ってたよね？,当时说不习惯海风的气味对吧？,translated,,27d5eaffbd,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#15#12,あっ、覚えててくれたんだ！？,啊，你居然还记得吗！？,translated,依恩,c8a9bc65ab,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#16#12,"もうずっと前のことだから、
+忘れちゃってるかと思ったよ。","因为已经是那么久以前的事了，
+我还以为你早就忘记了呢。",translated,依恩,32daed3c2c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#17#12,えへへ、ちょっと嬉しいな。,嘿嘿，稍微有点开心呢。,translated,依恩,97764e0920,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#18#12,"あ、でもあんまりデートっぽくない
+話ばかりしてたかも……。","啊，不过当时净说些
+不太像在约会的话题就是了……。",translated,依恩,6684b2c6e4,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#22#12,"えっ！？
+わたし、そんなこと言ってないよ？","诶！？
+我才没有说过那种话呢？",translated,依恩,6bc6072ed6,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#23#12,"ほら、覚えてない？
+最初に来た頃って、暑い暑い、って
+ずっと言ってたでしょ？","你看，不记得了吗？
+最早来的那会儿，
+我不是一直嚷嚷着好热好热吗？",translated,依恩,10f9c48498,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s07.txt#24#12,"……まあ、あんまり覚えられてても
+嬉しくない思い出ではあるけど……。","……虽然就算被记住
+也不是什么让人开心的回忆就是了……。",translated,依恩,ac71c85df9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#26#12,"日差しと汗の話ばっかりしてた
+気がするし……。","总觉得自己当时
+净在聊阳光和流汗的事了……。",translated,依恩,4932a6a947,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#27#12,今からすると、考えられないよね？,现在想来，真是难以置信呢？,translated,依恩,cfb677cb4e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#28#12,"でも、あの頃はまだあなたと会ったばかり
+だったし、それに……。","不过，那时候我还刚和你相识不久，
+而且……。",translated,依恩,88612ac451,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#29#12,あれでも、結構緊張してたんだよ？,别看那样，其实我当时相当紧张哦？,translated,依恩,e59d3d8f95,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#30#12,"わたしと一緒にいて、あなたも楽しいって
+思ってくれるのかな、って……。","一直担心着和我在一起，
+你是否也会觉得开心呢……。",translated,依恩,cdfa44a56d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#32#12,今も昔も楽しいと思ってる,无论过去还是现在我都觉得很开心,translated,,9492ff6621,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#33#12,あの頃は退屈だった,那时候觉得挺无聊的,translated,,6075837863,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#35#12,"えへへ……そう言ってもらえると、
+少しだけほっとするよ。","嘿嘿……听你这么说，
+我总算稍微放心一些了。",translated,依恩,8684b33581,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#36#12,"あれでも、どうにかお話を盛り上げようって
+必死だったんだもん。","别看那样，当时我可是拼了命
+想要让聊天气氛活跃起来呢。",translated,依恩,e3824d0816,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#37#12,"だから、楽しいと思ってもらえてるのが
+わかって、安心しちゃった。","所以知道你也觉得开心，
+我就彻底安心啦。",translated,依恩,f93ba392ea,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#38#12,"でも、今はもう、そんな風に考えなくても
+自然とお話できるようになったよ。","不过现在就算不用想那么多，
+也能自然而然地聊起来了呢。",translated,依恩,d62f760800,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#42#12,うっ……やっぱり、そうだよね？,呜……果然，是那样对吧？,translated,依恩,8f5c315315,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#43#12,"わたしも、帰ってきてからいつも
+後悔してたんだよ？","其实我每次回去之后，
+也总是会后悔哦？",translated,依恩,8b0e562cd8,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#44#12,"もっとお話するようなことが
+あったんじゃないか、って……。","总想着是不是还有什么
+别的话题可以聊呢……。",translated,依恩,8ee4b14768,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#45#12,一人反省会、っていうのかな？,这大概就叫做个人反省会吧？,translated,依恩,acd043be11,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#46#12,"でも、今こうして普通にお話できるのは、
+そのおかげかもしれないね。","不过现在能像这样自如地交谈，
+说不定也多亏了当时的积累呢。",translated,依恩,eeee3ac340,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#48#12,"楽しいお話だけじゃなくて、
+ちょっとだけ大胆なことを
+言ったりもできるようになったし。","不仅是聊些开心的事，
+偶尔我也能说出
+一些稍微大胆点的话了呢。",translated,依恩,613b46f764,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s07.txt#49#12,"あっ、でも計算して言ってるわけじゃ
+ないから、勘違いしないでね。","啊，但我可不是算计好才说的，
+你可别误会哦。",translated,依恩,3a1463f22a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#50#12,"お話に夢中になっているうちに、
+自然と言っちゃうだけだもん。","只是在聊得投入的时候，
+自然而然就脱口而出了嘛。",translated,依恩,127ba32abb,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#52#12,"よくよく考えてみると、そっちの方が
+問題あるような……。","仔细想想，这样反而
+问题更大吧……。",translated,依恩,7e0e6b5a67,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#54#12,それだけ楽しんでもらえてるなら嬉しい,你能这么开心我就很高兴了,translated,,8aef5de0e0,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#56#12,そっか……そうだよね。,这样啊……也是呢。,translated,依恩,796cbb1d54,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#57#12,"自然と言っちゃうのは、それだけあなたとの
+お話を楽しんでる証拠だよね？","会自然脱口而出，正是因为
+和你聊天很开心的证据对吧？",translated,依恩,b375a2164e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#58#12,"……でも、思い返してみると、
+本当に懐かしいね？","……不过回想起来，
+真的很让人怀念呢？",translated,依恩,5863ab6d1c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#59#12,"初々しい、っていうのかな？
+ちょっと、あの頃に戻ってみたいって
+気持ちになるかも……。","该说是很青涩稚嫩吗？
+总觉得甚至会有一点想回到
+那个时候的心情呢……。",translated,依恩,46fded6775,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s07.txt#60#12,"あの時の、上手くお話できないドキドキ感、
+もう一度感じてみたいなぁ……。","当时那种因为不知所措而心跳不已的感觉，
+真想再体验一次呀……。",translated,依恩,7ba0163f78,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#61#12,そんな風に思うのって、やっぱり変かな？,会有这种想法，果然很奇怪吗？,translated,依恩,f3608ad1f9,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#63#12,あの頃のイオンも可愛かった,那时候的依恩也很可爱,translated,,47e89d3525,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#64#12,変じゃないけど、今の方がいい,不奇怪，但我更喜欢现在的你,translated,,ff59a6b6c5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#66#12,"えへへ……そう言ってもらえると
+嬉しいけど、ちょっと困るかも。","嘿嘿……听你这么夸奖
+虽然很高兴，但也稍微有点为难呢。",translated,依恩,c8c09f2cd7,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#67#12,"無理なのはわかってるけど、
+わたしもその頃に戻りたいな、って
+気持ちになっちゃうし……。","虽然知道不可能，但我也会忍不住
+产生想要回到那时候的
+心情嘛……。",translated,依恩,645681195b,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s07.txt#68#12,"そう思うのは、あの頃のわたしが
+あったからこそなんだよね？","会这么想，也正因为有
+当初那个我的存在对吧？",translated,依恩,8af2b2d0e9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#71#12,そっか……よかった、そう言ってもらえて。,这样啊……太好了，能听你这么说。,translated,依恩,89ad72af5f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#72#12,"昔のわたしの方がいい、何て言われたら、
+どうしようかと思っちゃったよ……。","要是你说更喜欢过去的我，
+我都不知道该怎么办才好了呢……。",translated,依恩,e5ebc39720,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#75#12,"でも、今だってあなたとお話してると、
+ドキドキしちゃうのは本当だよ？","不过，就算现在和你聊天，
+会心跳不已也是真的哦？",translated,依恩,fb42433634,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#76#12,"前みたいにお話できないほどじゃない、
+ってだけだもん。","只不过没有像以前那样
+紧张得说不出话来而已嘛。",translated,依恩,e2d5699318,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#80#12,"ふぅ……ちょっと、日差しに
+当たり過ぎちゃったかも……。","呼……好像有点被阳光
+晒得太久了呢……。",translated,依恩,2def7a0fc6,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#81#12,今日はそろそろ帰ろっか？,今天差不多该回去了吧？,translated,依恩,3105b624e3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#83#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#84#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s07.txt#91#12,"何だか、今日はとっても懐かしい気持ちに
+なれたデートだったね。","总觉得今天的约会，
+让人心里感到格外怀念呢。",translated,依恩,a70fb109c5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#92#12,"いつか、今日のことも思い出話として
+話すようになるのかな？","总有一天，今天的事情也会变成
+回忆的一部分拿来畅聊吧？",translated,依恩,54bdf3546c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#93#12,"そんな日が来るまで、これからもずっと
+一緒にいてね。","在那一天到来之前，今后也要
+一直陪在我身边哦。",translated,依恩,8597bef542,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#94#12,"それじゃ、今日はありがと。
+今度のデートも楽しみにしてるよ。","那么，今天谢谢你啦。
+我也很期待下次的约会哦。",translated,依恩,125973f0d3,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#97#14,"海での懐かしいお話で
+盛り上がっちゃった。","聊起了在海边的往事，
+气氛格外热烈呢。",translated,,1fa07878eb,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s07.txt#98#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s08.txt#1#12,"海は思い出がいっぱいある場所だから、
+行くって思うだけでドキドキしてくるよ。","海边满载着我们许多回忆，
+光是一想到要去，心里就小鹿乱撞呢。",translated,依恩,39c446fafb,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#2#12,えへへ、それじゃあ早速行こうか。,嘿嘿，那我们赶紧出发吧。,translated,依恩,e0d086092d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#4#12,ん～っ、潮風が気持ちいいよぉ！,嗯～，海风吹着好舒服呀！,translated,依恩,7675212df5,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#6#12,"ふふっ……やっぱり海は初めてデートに来た
+場所だから、思い出深いよね？","呵呵……毕竟海边是我们第一次约会
+去过的地方，格外令人难忘对吧？",translated,依恩,0b29d43f94,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#7#12,"何度も来たから、全部のデートのことを
+細かく覚えてるわけじゃないけど……。","因为来过很多次，虽说并不是每次约会的
+点点滴滴都记得一清二楚……。",translated,依恩,cabb5f628c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#8#12,"でも、初めてここに来た時のことだけは
+しっかり覚えてるの。","但唯独第一次来这里时的事情，
+我依然记忆犹新哦。",translated,依恩,7c8c0e70d2,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#10#12,海を知らなかったのには驚いた,当时你居然不知道大海，吓了我一跳,translated,,6c5e018238,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#11#12,初めの頃より、デートが長くなった気がする,感觉比起最初的时候，约会时间变长了呢,translated,,651f6aa616,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#13#12,"うん、今更だけど、わたし自身
+ビックリしてるよ。","嗯，虽然现在才说，
+但我自己也吓了一跳呢。",translated,依恩,64e742d2b5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#14#12,"だって、海って小説とか読んでると、
+意外とよく出てくるでしょ？","毕竟看小说的时候，
+大海其实还挺常出现的吧？",translated,依恩,05c775b230,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#15#12,"それなのに、初めてここに来た時に
+海を見ても海って気づけなかったんだもん。","可第一次来这里看到大海的时候，
+我却完全没意识到那是海嘛。",translated,依恩,5ee5b2c04d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#16#12,"……海を思い出すまでのわたしって、
+海の出てくる小説を、どんな想いで
+読んでたんだろう？","……在我想起大海之前，
+读着出现大海的小说时，
+究竟是以怎样的心情在读呢？",translated,依恩,ecc5111c00,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#17#12,"今は、その時のことが思い出せなくて
+ちょっとだけ残念な気分だよ。","现在想不起当时的心情，
+总觉得稍微有点遗憾呢。",translated,依恩,2c06c6fed4,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#20#12,あっ、それわたしも思ってたの！,啊，我刚才也这么觉得呢！,translated,依恩,6b468d01c0,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#21#12,"最初の頃って、デートというよりは
+作業の気分転換にちょっとお散歩する、
+って感覚だったからかな？","最早那会儿，比起约会，
+可能更像是在工作转换心情时
+稍微去散个步的感觉吧？",translated,依恩,7b44b56c97,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#22#12,"どこに出かけても、ちょっと話すだけで
+すぐに帰っちゃってたよね。","不管去哪里，都只是稍微聊两句
+就马上回去了呢。",translated,依恩,ab080ca5be,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#24#12,"……でも、あの頃はまさか、わたし達が
+結婚までするとは思わなかったなぁ。","……不过那时候，真没想到
+我们竟然会走到结婚这一步呢。",translated,依恩,a05857def3,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#25#12,"って、その時はまだ会って間もなかったし、
+そんなこと思わなくて当然だね。","哎呀，那时我们才刚认识不久，
+想不到那种事也是理所当然的呢。",translated,依恩,c74a9b5bd8,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#27#12,自分もビックリしてる,我自己也吓了一跳,translated,,667122de7e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#28#12,未だに信じられないし、実感がわかない,至今难以置信，也没有实感,translated,,36e59c2c3f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#30#12,"ふふっ、そうだよね。
+だって、こうしてる今だって、信じられない
+気持ちになることがあるもん。","呵呵，说的也是呢。
+毕竟就算像现在这样，
+我有时也会觉得难以置信嘛。",translated,依恩,6c7b2bd384,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#31#12,"顔も声も知らないし、触れ合ったことも
+無い人と結婚するなんて……。","跟长相声音都不知道、也没触碰过的人
+结婚什么的……。",translated,依恩,5e6d2920db,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#32#12,"世界中探しても、そんな夫婦って
+わたし達くらいだよね？","就算找遍全世界，这样的夫妻
+大概也就只有我们了吧？",translated,依恩,31366f9abc,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#35#12,ひ、酷い！,太、过分了！,translated,依恩,3295604913,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#36#12,えへへ……なんてね、冗談だよ。,嘿嘿……开玩笑的啦。,translated,依恩,4a29a1435b,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#37#12,"だって、わたしだってあなたと同じ
+気持ちだもん。","因为其实我也有着
+和你一样的心情嘛。",translated,依恩,39cf1c1e70,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#38#12,"端末越しで、しかもかなり限定された
+やりとりしかできないんだし……。","隔着终端，而且只能进行
+相当有限的互动交流……。",translated,依恩,67946df022,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#39#12,どうしても、そう思っちゃうよね？,无论如何，都会这么觉得对吧？,translated,依恩,d625da23a8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#42#12,"って、何だか付き合い始めた時と、
+同じようなお話をしちゃってるね。","哎呀，总觉得聊着聊着，
+又说起刚开始交往时一样的话了呢。",translated,依恩,3266c260d0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#43#12,"でも、本当にわたし達の関係って、
+予期しないことばっかり続いてる
+気がするなぁ……。","不过，我们两人的关系
+真的总是接二连三地
+发生意想不到的事呢……。",translated,依恩,3e9909486d,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#44#12,"これからも、こんな毎日がずっと
+続くのかな……？","今后这样的日子，
+也会一直持续下去吗……？",translated,依恩,03482ed145,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#45#12,"わたしは、そうだったら楽しくて良いな、
+って思ってるよ。","我觉得要是那样的话，
+又开心又美好呢。",translated,依恩,93aa97f6b1,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#47#12,次は何が起きると思う？,你觉得接下来会发生什么？,translated,,4f18426bcc,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#49#12,う～ん、そうだなぁ……。,唔～，该怎么说呢……。,translated,依恩,bd316a2b50,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#50#12,"出会いがあって、交際がスタートして、
+今は結婚までしちゃったから……。","经历了相遇，开始交往，
+如今甚至都结了婚……。",translated,依恩,ced3921ae9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#51#12,やっぱり、次は本当の出会い……かな？,那么接下来，果然是现实中的相遇……吧？,translated,依恩,ac2352b9f7,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#52#12,"もしかして、さすがにそれは無理、とか
+思ってる？","你该不会觉得，
+那怎么想都不可能吧？",translated,依恩,af5248d85c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#53#12,"でも、こうして出会えただけでも、
+奇跡に等しいことなんだよ？","可是，光是能像这样相遇，
+就已经等同于奇迹了哦？",translated,依恩,6b3c116ea5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#54#12,"それなのに、こうして結婚までして、
+夫婦になっちゃったんだし……。","更何况我们还结了婚，
+成为了真正的夫妻……。",translated,依恩,04d8b9ab7e,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#55#12,"心から願ってれば、本当に叶うかも、って
+わたしは思ってるよ。","我是觉得只要发自内心地祈愿，
+说不定真的能实现哦。",translated,依恩,e2f1ec1468,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#57#12,"もしかして……わたし今、すごく傲慢な
+発言しちゃった？","难道说……我刚才说了
+非常傲慢自大的话吗？",translated,依恩,f8ac2e5bd4,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#58#12,"端末越しだけど、大好きな人ができて、
+心が繋がってるのを感じられるように
+なった。","虽然隔着终端，但有了心爱的人，
+也能感受到
+彼此的心灵相通了。",translated,依恩,1101a2312c,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#59#12,"それだけでもすごいことなんだから、
+やっぱり、これ以上望んだら
+いけないのかな？","光是这样就已经非常不可思议了，
+果然我不该
+奢求更多吗？",translated,依恩,754633aa87,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#61#12,傲慢じゃない、当然の感情だ,这不是傲慢，是理所当然的情感,translated,,e153a33899,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#62#12,確かにそうかも……,确实可能如此……,translated,,e923a434f8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#64#12,"そっか……。
+うん、そうだよね。","这样啊……。
+嗯，说的也是呢。",translated,依恩,db330944a7,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#65#12,"好きな人と、実際に会ってみたいって思う
+感情が、悪いはずないもん。","想要去见真正喜欢的人，
+这种感情怎么可能会是不对的嘛。",translated,依恩,1136d4d8dd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#66#12,"傲慢かも、なんていうのを気にし過ぎて
+自分を抑えるの、わたしの悪いところだね。","总是太在乎会不会太傲慢，
+从而压抑自己，真是我的坏毛病呢。",translated,依恩,249bd4c8ef,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#67#12,"これからは、もっと色んなことを望んで、
+それが普通だって思うようにするよ。","今后我会去期盼更多的事情，
+并把它当成理所当然的。",translated,依恩,56f9c2d3ab,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#69#12,特に、あなたに関することにはね。,特别是关于你的事情呢。,translated,依恩,a8eaf6adf4,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#70#12,"ふふっ、あなたとしたいこと、
+数え切れないくらい沢山考えちゃおっと。","呵呵，我想和你想做的事，
+多得数都数不清呢。",translated,依恩,34eb121864,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#72#12,もちろん、度が過ぎない程度にね。,当然，要在适度的范围内啦。,translated,依恩,ae18e2ec0e,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#77#12,"そっか……。
+やっぱり、ちょっと傲慢だったね。","这样啊……。
+果然，还是有点太傲慢了呢。",translated,依恩,d29f3f10fd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#78#12,"今の幸せに酔って、少し調子に乗っちゃっ
+てたみたい。","沉醉在当下的幸福里，
+我好像有点得意忘形了呢。",translated,依恩,de8bce6b07,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#79#12,"少し自分を抑えるようにするよ。
+そうじゃないと、あなたに嫌われちゃうと
+思うし……。","我会试着稍微克制一下自己的。
+不然的话，
+我想一定会被你讨厌的……。",translated,依恩,9c9070f17b,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#82#12,"ふぅ……ちょっと日差しに当たり過ぎ
+ちゃったみたい。","呼……好像有点被阳光
+晒得太久了呢。",translated,依恩,66ca9d24e6,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#83#12,お話も沢山したし、そろそろ帰ろっか？,聊了这么多，差不多该回去了吧？,translated,依恩,111fb3d59c,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#85#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#86#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s08.txt#92#12,"やっぱり、海に行くとどうしても
+昔の思い出話をしちゃうね。","果然，每次来海边总会不由自主地
+聊起过去的往事呢。",translated,依恩,64830ba28d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#93#12,"でも、それだけ長く一緒にいるって
+証拠だから……わたしは結構好きだよ。","但这正说明我们在一起很久了嘛……
+所以其实我挺喜欢的哦。",translated,依恩,fc373fab6f,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#94#12,"今日のデートも昔話にできるくらい、
+ずっと一緒にいようね。","我们要一直在一起，
+直到今天的约会也能成为往事畅谈哦。",translated,依恩,f180d8b0d5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#95#12,"それじゃ、そろそろ作業に戻るね。
+今度のデートも、近いうちに行こうね。","那么，我差不多该回去工作了。
+下次约会，我们近期再去吧。",translated,依恩,a0157a73bd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s08.txt#99#14,"今日のデートが昔話に
+なるくらい、いっぱい
+デートしたいな。","真希望能多多约会，
+多到让今天的约会
+也能变成昔日回忆呢。",translated,,e0f6077b2f,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s08.txt#100#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents00/sea_s09.txt#1#12,"海はわたし達にとって特別な場所だから、
+出発する前はいつもドキドキするよ。","大海对我们来说是很特殊的地方，
+所以出发前我总是心跳不已呢。",translated,依恩,f0c4bbfd1d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#2#12,"早く行った方がいいね。
+それじゃ、しゅっぱーつ！","还是快点出发比较好呢。
+那么，出――发！",translated,依恩,11a2107933,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#4#12,"ふふっ……何だか、帰ってきたなぁ、って
+気持ちになってくるね。","呵呵……总觉得，有种
+“终于回来了”的感觉呢。",translated,依恩,b1a6a5496a,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#6#12,"……こうして、あなたと一緒に浜辺を
+歩いてると、すごく安心できるの。","……像这样和你一起在海边漫步，
+会让我感到非常安心呢。",translated,依恩,4c421d24e5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#7#12,"あなたが隣にいてくれる……。
+わたしの隣で、わたしを見ていてくれてる。","因为有你在我身旁……
+你就在我身边注视着我。",translated,依恩,863f5e6a6b,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#8#12,"それがわかるから、こうしている時は
+すごく安心できて……幸せな気持ちで
+いっぱいになるの。","因为真切地明白这一点，像这样待着的时候
+我就能感到无比安心……
+心中充满幸福感呢。",translated,依恩,a289694a33,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#9#12,"……最近は部屋にいると、
+ちょっと不安になるようなことを
+考えちゃってるから、特にね。","……特别是最近在房间里的时候，
+我总会去胡思乱想一些
+让人不安的事情呢。",translated,依恩,2cc9803c60,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#11#12,どんなこと考えてるの？,你在想什么样的事情呢？,translated,,e1e6f87bc9,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#13#12,ん……言いにくいんだけど、えっと……。,唔……虽然有点难以启齿，那个……。,translated,依恩,b7a0683930,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#14#12,"わたし達は、あと何回こうしてデートが
+できるのかな、って……。","我总在想……我们还能像这样
+再约会多少次呢……。",translated,依恩,82e5882eef,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#15#12,"そんなことを、よく一人で考えてて……
+それで不安になることが多いの。","我经常一个人想着这种事……
+然后就会变得格外不安。",translated,依恩,5d8aa3ec9c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#17#12,イオンが望むなら何度でもできるよ,只要依恩想去，多少次都可以哦,translated,,f027d7bc93,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#18#12,どうして突然そんなこと思ったの？,怎么突然会想到这种事？,translated,,1e03a976c1,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#20#12,"……わかってるよ。
+あなたなら、きっとそう言うんじゃないかな
+って思ってたから。","……我知道的啦。
+因为我就猜到，
+你一定会这么说的。",translated,依恩,cf147f2848,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#21#12,でも……それでもやっぱり、不安なの。,但是……即便如此，我还是会不安。,translated,依恩,094e7a1039,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#24#12,"突然ではないよ。
+ずっと前から、時々考えることはあったの。","并不是突发奇想哦。
+其实很久以前，我就偶尔会想到了。",translated,依恩,993185b5c0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#25#12,"ただ、最近になってその頻度が、
+自分でも驚くくらい多くなってきてて……。","只不过到了最近，这种念头频繁得
+连我自己都感到惊讶……。",translated,依恩,3a82284328,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#27#12,"……わたしもね、あなたとの心の繋がりに
+関しては、少しも不安は抱いてないよ。","……我自己对于和你心灵上的羁绊，
+也是没有半点怀疑与不安的哦。",translated,依恩,8d9b17e47c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#28#12,"わたしがあなたのことを大切に思ってる
+ように、あなたもわたしのことを大切に
+思ってくれてる。","正如我无比珍视你一样，
+你也是同样
+深深珍视着我的。",translated,依恩,7e7160de02,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#29#12,"それはよくわかってるの。
+うそじゃないよ？","这一点我很清楚明白。
+不是假话哦？",translated,依恩,99f174d8d0,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#30#12,"でも……端末の繋がりに関しては、
+不安なことばかりだよ。","但是……关于通过终端的连接，
+我却充满了不安。",translated,依恩,d454e385b9,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#31#12,"だって、あなたと繋がってる端末って、
+仕組みについてはまったくの謎だもん。","毕竟和你相连的这台终端，
+其工作原理完全是个谜团嘛。",translated,依恩,ad1df1918c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#32#12,"どんな風に動いているのかはもちろん、
+どんな通信手段であなたと繋がってるのかも
+わからないんだよ？","它究竟是如何运转的自不必说，
+甚至连是用什么通信手段和你连接的
+我们都一无所知呀？",translated,依恩,f023f79d11,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#33#12,"だから、もしも今端末に異常が起きて、
+あなたとの通信が切れたとしても、
+それを修理する自信がないの。","所以如果现在终端出现故障，
+导致和你断开了通讯，
+我根本没有信心能够修好它。",translated,依恩,c374631551,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#35#12,ねりこさんならわかるんじゃない？,妮莉库小姐应该会明白吧？,translated,,1a3d569120,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#37#12,"ううん、前に気になって聞いたことが
+あるんだけど、ねりこさんにもよくは
+わかんないんだって。","没有，之前因为好奇我去问过，
+但妮莉库小姐
+好像也不太清楚呢。",translated,依恩,9565b4fc23,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#38#12,"異世界と繋がる物、っていうのだけで、
+原理まではちんぷんかんぷんじゃよ、って
+言ってたもん。","她说只知道这是与异世界相连的东西，
+至于原理如何
+完全是一头雾水呢。",translated,依恩,3a08be0f6f,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#39#12,"……まあ、分解してよく調べてみれば、
+もしかしたら構造とか原理とかがわかる
+かもしれないよ？","……虽然要是拆开来仔细研究一下，
+说不定能搞懂它的
+构造或者原理吧？",translated,依恩,21741657b9,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#40#12,"でも、もし分解してわからなくなったら、
+その時点であなたとお別れになっちゃう
+でしょ？","但要是拆开后复原不了，
+在那一刻不就
+不得不和你分别了吗？",translated,依恩,e1a9d9eadf,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#41#12,だから、分解は絶対にできないし……。,所以，绝对不能把它拆开呀……。,translated,依恩,104e06a988,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#42#12,"こんな風に、色々考えて不安になるのは、
+前よりもあなたに対する想いが強くなった
+からだと思うの。","会像这样胡思乱想感到不安，
+我想是因为比起以往，
+我对你的感情变得更加深厚了吧。",translated,依恩,af7caed25c,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#43#12,"それについては、嬉しいと思ってるよ。
+ああ、本当にわたしはあなたのことが
+好きで好きで堪らないんだなぁ、って……。","关于这一点，我其实觉得很高兴哦。
+总觉得，自己真的已经是
+无可救药地深爱着你了呢……。",translated,依恩,103617e6fd,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#44#12,"それに比例して、不安がこんなにも
+大きくなるなんて、想像もしてなかった
+けど……。","虽然我万万没有想到，
+伴随而来的不安
+竟然也会变得如此强烈就是了……。",translated,依恩,60d3ca8ec0,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#46#12,そうならないことをいつも祈ってる,我也一直在祈祷不会变成那样,translated,,63383474f3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#47#12,どうなろうと、イオンのことは忘れない,无论发生什么，我都绝不会忘记依恩,translated,,f79c7b05ad,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#49#12,"……うん。
+わたしも、そうならないように祈ってるよ。","……嗯。
+我也一直在祈祷不要变成那样哦。",translated,依恩,c6c3752d41,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#50#12,"そうする以外に何もできない、っていうのが
+正しいけど……。","虽然说准确点，
+我们除了祈祷之外什么都做不了……。",translated,依恩,ccc64340af,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#51#12,"でも、あなたもわたしと同じ気持ちで
+祈ってくれているのがわかったからかな？","但也许是因为知道你也在怀着
+和我同样的心情祈祷吧？",translated,依恩,37fbee72af,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#52#12,"何だか、少しだけ気持ちがラクになった
+気がするよ。","总觉得心里
+稍微轻松了一点呢。",translated,依恩,6f1dc0e606,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#56#12,"うん……わたしも、何があっても絶対に
+あなたのことは忘れないよ。","嗯……我也一样，无论发生什么，
+都绝对不会忘记你的。",translated,依恩,299cd3045d,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#57#12,"例えあなたと離れ離れになったとして、
+それから何十年経ったとしても、
+絶対に忘れたりしないから……。","就算万一真的和你分隔两地，
+在那之后过去了几十年，
+我也绝对不会忘记你的……。",translated,依恩,7d22538024,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#58#12,"あなたはわたしの大切な旦那様でもあるし、
+一人ぼっちだったわたしから寂しさを
+消してくれた人だもん。","因为你不仅是我最珍视的丈夫，
+更是在我孤身一人时
+为我驱散寂寞的人嘛。",translated,依恩,f351e76bae,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#59#12,"記憶喪失で昔を思い出せないわたしが
+言っても、説得力ないかもしれないけど。","虽然由丧失记忆、想不起过去的我说出口，
+可能没什么说服力就是了。",translated,依恩,7498735ea1,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#61#12,"……って、何だか少し暗い話に
+なっちゃったね。","……哎呀，总觉得话题
+变得有点沉重了呢。",translated,依恩,77bfd81af3,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#62#12,"せっかくのデート中なのに、
+離れ離れになった時のことを話すなんて、
+雰囲気ぶち壊しだと思うし……。","明明是在难得的约会中，
+却去聊分开之后的事情，
+感觉太煞风景了……。",translated,依恩,51029d6424,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#63#12,"いくら不安だったとはいえ、
+ちょっと無神経だったよ。","就算心里再怎么不安，
+我也太不解风情了呢。",translated,依恩,681c77f9f1,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#64#12,"それに、例え本当にそうなったとしても、
+こうして一緒に過ごした時間は消えたりは
+しない。","而且，就算真的遭遇了那种事，
+我们像这样一起度过的时光
+也是绝不会消失的。",translated,依恩,eacd189c8e,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#65#12,"だから、二人でいられる間は、
+たくさん思い出を語れるように……。","所以，在两人能相处的日子里，
+为了能多多倾诉回忆……。",translated,依恩,15fa8338dd,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#66#12,"もしも離れ離れになったとしても、
+思い出を残せるように……。","哪怕有朝一日真的分隔两地，
+也能留下美好的回忆……。",translated,依恩,b822408382,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#67#12,"これからも、いっぱい……
+いっぱいデートしようね。","今后我们也要很多很多次……
+很多很多次地约会哦。",translated,依恩,b031f9ed68,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#68#12,あっ、でも毎日はちょっと困るかな？,啊，不过每天都去的话会有点吃不消吧？,translated,依恩,f3e121d76f,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#69#12,"やっぱり、デートは特別なイベント、って
+感じがしないと、盛り上がらないもん。","毕竟约会还是要有一种
+“特别的盛事”的感觉，才会兴奋嘛。",translated,依恩,55849ca6a4,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#71#12,"ふぅ……大分長く話しちゃってたね。
+暑いし、のども渇いてきちゃった……。","呼……聊了相当长一段时间呢。
+天气又热，嗓子也开始干渴了……。",translated,依恩,928afef113,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#72#12,今日はそろそろ帰ろっか？,今天差不多该回去了吧？,translated,依恩,3105b624e3,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#74#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#75#12,そうだね、帰ろう,好的，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#81#12,今日は、思ってたことを話せてよかったよ。,今天能把心里想的事情说出来，太好了。,translated,依恩,e4769b6941,br=0 nl=0,1,
+inc/event/res/dateevents00/sea_s09.txt#82#12,"これからも、もっともっと二人の思い出を
+増やしていこうね。","今后我们也要创造更多更多
+属于两人的回忆哦。",translated,依恩,58c9c7df0c,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#83#12,"デートのお誘いも楽しみにしてるから、
+また一緒にお出かけしようね。","我也很期待你的约会邀请，
+下次还要一起出门哦。",translated,依恩,9f314b7da5,br=0 nl=1,2,
+inc/event/res/dateevents00/sea_s09.txt#87#14,"これからも、たくさん
+デートの思い出を
+作っていきたいね。","今后也希望能
+创造许多许多
+约会的回忆呢。",translated,,4b6a980539,br=0 nl=2,3,
+inc/event/res/dateevents00/sea_s09.txt#88#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

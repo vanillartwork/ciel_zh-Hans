@@ -1,0 +1,546 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/daysevent14/day14_01.txt#6#12,"最近ね、ちょっと大きい家に住みたいな、
+って思うことがあるの。","最近呢，我有时会想着
+要是能住进大一点的房子就好了呢。",translated,依恩,56329a6448,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#7#12,"今って、全部の作業をこの部屋の中だけで
+終わらせちゃってるでしょ？","毕竟现在所有的作业，
+全都挤在这个房间里完成对吧？",translated,依恩,e8daa459d0,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#8#12,"だから、書斎とか、作る物に合った
+いろんな作業場のある家に住みたいな、
+って思ってるの。","所以我就在想，要是能住在有书房、
+以及适合制作各种物品的
+专门工作室的房子里该有多好呀。",translated,依恩,0360a0944d,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_01.txt#9#12,掃除大変だよ？,打扫起来会很辛苦哦？,translated,,613992a3a5,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_01.txt#10#12,専用の作業場ってかっこいいよね,有专用的工作室感觉好帅气呢,translated,,15e2a53a59,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_01.txt#14#12,言われてみると、たしかにそうだよね？,经你这么一说，确实是呢？,translated,依恩,b93b87cac9,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_01.txt#15#12,"部屋が十部屋あったとしたら、単純計算で
+今より十倍掃除に時間が取られることに
+なっちゃうんだし……。","要是有十个房间的话，单纯计算一下，
+打扫所花的时间
+可就变成现在的十倍了呢……",translated,依恩,a2cf73be42,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_01.txt#16#12,"お掃除ロボットのレシピも、
+時間がある時に考えてみようかな？","扫地机器人的配方，
+我也趁有空的时候想想看好了？",translated,依恩,a43906b0b7,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#21#12,"やっぱりそう思う！？
+何か、プロっぽくて憧れるよね。","你也这么觉得对吧！？
+总觉得很有专业工匠的感觉，好向往呀。",translated,依恩,fe5db8d69f,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#22#12,"機械を作る部屋は無機質で、
+壁に工具や電源を沢山付けたり……。","制作机械的房间要设计得很有机械感，
+墙壁上装满各种工具和电源……",translated,依恩,1866793306,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#23#12,"裁縫とかをする部屋は、壁に自分で織った
+布を貼ったりして飾り付けるの。","做针线活的房间呢，就在墙上贴上自己织的布
+来进行一番装点。",translated,依恩,22b883d0b3,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#24#12,"ふふっ、想像するだけでも
+楽しくなってくるよ。","呵呵，光是想象一下
+就觉得好开心了呢。",translated,依恩,d35ae70ace,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_01.txt#26#14,"専用作業部屋のある
+大きな家に住みたい。","想住在有专用工作室的
+大房子里。",translated,,c0dee225d8,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#6#12,"ねりこさんにね、結婚したんだから
+いい加減少しは化粧をしたらどうだ、
+って注意されちゃったの。","妮莉库小姐对我说，既然都结婚了，
+好歹也稍微化点妆怎么样，
+被她这样提醒了呢。",translated,依恩,de0903eb2f,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_02.txt#7#12,"あっ、言っておくけど、
+今だってしてないわけじゃないんだよ？","啊，先声明一下，
+我现在也不是完全不化的哦？",translated,依恩,e703dc49b8,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#8#12,"わたしだって女の子だもん。
+最低限のことは毎日してるよ。","我毕竟也是个女孩子嘛。
+起码每天都有做最基本的护理哦。",translated,依恩,7e472c4047,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#9#12,"そう言ったんだけど、あまりにも薄過ぎて
+手を抜いてるように見える、って……。","虽然我这么说了，但她说妆容实在太淡了，
+看起来就像偷工减料偷懒一样……",translated,依恩,0d4a8a3090,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#10#12,今くらいが一番似合ってるよ,现在的样子就是最适合你的哦,translated,,d95a668328,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_02.txt#11#12,"う～ん、もう少し、時間をかけた方が
+いいのかな？","唔～是不是多花点时间
+化得更精致一点比较好呢？",translated,依恩,3be3a4f918,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#12#12,"でも、あまりしっかりメイクしたとしても、
+わたしって毎日いろんな物を作るでしょ？","可是就算化得很浓很精致，
+我每天不是都得制作各种各样的东西嘛？",translated,依恩,396cee0c7a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#13#12,"結構汚れる作業も多いから、
+結局すぐに洗い流すことになっちゃうし、
+時間をかける意味が無いんだけどなぁ……。","很多作业都会弄得很脏，
+到头来马上就得洗掉，
+感觉花那么多时间也没什么意义嘛……",translated,依恩,df61e826db,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_02.txt#15#12,"って、そんなこと言ってたらダメだね。
+手抜きに思われてるのも問題だし、
+たまにはしっかり時間をかけてみよっと。","哎呀，找这种借口可不行呢。
+被人觉得偷懒也是个问题，
+偶尔也好好花点时间打扮打扮吧。",translated,依恩,838a0cca22,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_02.txt#23#12,"ふふっ、あなたがそう言ってくれるなら、
+やっぱりこのままでいようかな？","呵呵，既然你都这么说了，
+那我果然还是保持现在这样就好啦？",translated,依恩,987618a460,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#24#12,"他の人にどう見られるかも重要だけど、
+わたしとしては、あなたに似合ってる、って
+言われる方が大切だし。","虽然在别人眼里的形象也很重要，
+但对我来说，能听到你说很适合我，
+才是最重要的事嘛。",translated,依恩,a9c46d2317,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_02.txt#25#12,"ねりこさんには申しわけないけど、
+しばらくは今のままでいよっと。","虽然有点对不起妮莉库小姐，
+不过暂时还是保持现在的样子吧。",translated,依恩,d5d0825b2a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_02.txt#26#14,"女性にとって化粧は
+最低限のマナーだと
+思うの。","我觉得对于女性来说，
+化妆是最起码的礼仪
+对吧。",translated,,23899a472e,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_03.txt#6#12,"たまには、おもいっきり料理を
+してみようかな？","偶尔要不要大展身手、
+尽情做一顿料理呢？",translated,依恩,e25ef0882a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#7#12,"テーブルの上に載り切らないくらい、
+たくさん作ってみたいの。","好想做上一大桌子、
+多到桌上都摆不下的料理呢。",translated,依恩,b690461552,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#8#12,"いろんな食べ物が並んだテーブルを見ると、
+嬉しい気持ちになれるでしょ？","看到餐桌上摆满形形色色的美食，
+心里肯定会感到格外开心对吧？",translated,依恩,c26d75b288,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#9#12,食べきるの大変そうだね,感觉想要全部吃完会很辛苦呢,translated,,19a27edccc,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_03.txt#10#12,手の込んだ一品料理の方がいいと思う,我觉得做一道精致费工夫的招牌菜比较好,translated,,b9e539b9a1,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_03.txt#14#12,"あっ……言われてみれば、それだけ作っても
+わたし一人で食べないといけないんだ。","啊……经你这么一说，就算做那么多，
+也只能由我一个人全部吃完呢。",translated,依恩,874b5187d0,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#15#12,"それだと、作った料理のほとんどが
+ムダになっちゃうね。","那样的话，做好的大部分饭菜
+可就都要白白浪费掉了呢。",translated,依恩,b79ab02c43,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#16#12,はぁ……あなたにも食べてもらえたらなぁ。,唉……要是你也能一起吃就好了呀。,translated,依恩,08a49d417e,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_03.txt#21#12,"手の込んだ一品料理……。
+料亭とかで出される、思わず見蕩れちゃう
+小鉢に入った料理とかかな？","精致费工夫的单品料理……
+就像高级料亭里端上来的、让人看得入迷的
+装在小钵里的精致料理那样吗？",translated,依恩,da700339fd,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_03.txt#22#12,"確かに、そういうのが作れたらかっこいいと
+思うけど……でも、ちょっと大人の料理な
+感じがするから、自信ないかも。","确实，如果能做出那种料理肯定很帅气，
+但……总觉得那非常有成熟大人的感觉，
+我可能没什么自信呢。",translated,依恩,bccfd14ec7,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_03.txt#23#12,"あれは本格的なプロにしか作れない、
+芸術品だもん。","那种可是只有真正的专业大厨才能做出来的
+艺术品嘛。",translated,依恩,8c6220c1c4,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_03.txt#25#14,"おもいっきり料理を
+してみたくなる時、
+あるよね？","有时也会突然很想
+痛痛快快做一顿大餐
+对吧？",translated,,6d239f9796,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_04.txt#6#12,"機械作りは楽しいけど、完成した物を
+修理する時に、愕然とすることがあるの。","组装机械虽然很有趣，但在修理做好的成品时，
+有时也会让人目瞪口呆呢。",translated,依恩,a4f0e59d62,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_04.txt#7#12,"外装を開けて、グチャグチャになった
+配線を見た時なんか、特にね。","尤其是打开外壳，
+看到里面杂乱如麻的走线的时候。",translated,依恩,28f1c989ee,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_04.txt#8#12,"絶対にあとで後悔するのがわかってるのに、
+作ってる最中は面倒くさくなっちゃって、
+そのまま蓋をしちゃうの。","明知道之后一定会后悔，
+但制作过程中嫌麻烦，
+就直接那样把盖子合上了。",translated,依恩,76a05d27f6,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_04.txt#9#12,中身までこだわってこそプロでしょ？,连内部构造都精益求精才是专业人士吧？,translated,,4dad4a6953,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_04.txt#10#12,"こういうところに、自分のだらしなさが
+出ちゃうんだよね……。","在这些地方，总是会暴露出
+我粗枝大叶懒散的一面呢……",translated,依恩,ceac42aa52,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_04.txt#11#12,"でも、グチャグチャになった配線を
+辿ってく作業も、楽しいといえば
+楽しいんだけど……。","不过，顺着乱成一团的排线
+一点点梳理追查的过程，
+说有趣其实也挺有趣的啦……",translated,依恩,da0a3a7b0a,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_04.txt#13#12,"そう考えると、あまりまめに作るのは、
+よくないのかもしれないね。","这么一想，排线整理得太一丝不苟，
+说不定反而没那么有乐趣了呢。",translated,依恩,d03a1769af,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_04.txt#21#12,っ！？,咦！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_04.txt#22#12,"そ、そうだよね……。
+わたし、大切なことを忘れてたみたい。","说、说得也是呢……
+我好像把最重要的事情给忘了。",translated,依恩,6f678f0e3a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_04.txt#23#12,"でも、あなたの言葉で目が覚めたよ。
+よーし、これからは面倒くさがらないで、
+ちゃんと束ねるようにしよっと。","不过，听了你的话我彻底清醒过来了。
+好～！以后我不会再偷懒嫌麻烦，
+一定会好好把排线扎紧整理齐整的。",translated,依恩,c796fffcf7,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_04.txt#24#14,"機械の中身がグチャ
+グチャになってたら、
+ガックリくるよね？","要是机械内部
+乱得一塌糊涂的话，
+真的很让人沮丧对吧？",translated,,da49d967ce,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_05.txt#6#12,最近、お庭が少し荒れてきてるの。,最近，庭院稍微有点荒芜杂乱了呢。,translated,依恩,9cd350532d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_05.txt#7#12,"物作りに必要な材料かと思ったら、
+ただの雑草ばっかりで……。","本来以为是做东西需要的材料，
+结果全都是些普通的杂草……",translated,依恩,fed1ee2f13,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_05.txt#8#12,"そのうちどうにかなると思ってたら、
+ちょっとした草原みたいなことに
+なっちゃった。","本以为放着不管也没关系，
+结果不知不觉中，
+已经长得像一片小草原一样了。",translated,依恩,5e056a1d9f,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_05.txt#9#12,……どうしたらいいと思う？,……你觉得该怎么办才好呢？,translated,依恩,ac60df2411,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_05.txt#10#12,寒くなったら枯れてなくなるよ,等天气变冷就会枯萎消失的啦,translated,,6b40d909f6,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_05.txt#11#12,採取に行った時に少しずつ抜こう,去采集的时候顺便拔掉一点吧,translated,,e4b5e9d21f,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_05.txt#15#12,あなたって……頭良いんだね。,你……真的很聪明呢。,translated,依恩,3dba6fef48,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_05.txt#16#12,"そうだよ、雑草なんだから寒くなって
+生えなくなるのを待てばいいんだよ。","对呀，反正都是杂草，只要等天气变冷
+不再生长就行了嘛。",translated,依恩,f15317c7b4,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_05.txt#21#12,"そっか、一気に全部じゃなくて、
+採取に行った時に少しずつやれば、
+そのうち綺麗になるよね。","这样啊，不用一口气全拔掉，
+每次去采集时顺手拔一点，
+迟早能收拾干净对吧。",translated,依恩,555ba47745,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_05.txt#22#12,"元々、そんなに広い庭じゃないんだし、
+それなら苦労せずに綺麗にできそうだよ。","庭院本来也不是特别大，
+这样的话感觉不用费太大劲就能弄干净呢。",translated,依恩,0a699ecf2d,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_05.txt#24#12,"あなたに相談して正解だったみたい。
+また困ったことがあったら相談に乗ってね。","找你商量看来是找对人啦。
+以后要是再遇到困难还要帮我出主意哦。",translated,依恩,d3cf50e40d,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_05.txt#25#14,"雑草を自動で刈る
+機械、作ったほうが
+いいのかな？","做一台能够自动
+割掉杂草的机器，
+会不会比较好呢？",translated,,5f20ce93af,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_06.txt#6#12,"朝起きると、時々着替えるのが
+面倒になる時があるの。","早上醒来的时候，有时会觉得
+换衣服是件特别麻烦的事呢。",translated,依恩,17908edb90,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#7#12,"だって、どうせ一日中家に篭って
+物作りしてるだけなんだもん。","毕竟反正也是一整天都窝在家里
+忙着做东西而已嘛。",translated,依恩,fee6f1b3fb,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#8#12,"それなら、一々着替える必要はないと
+思わない？","那样的话，你不觉得
+根本没有每次都换衣服的必要吗？",translated,依恩,490f34ecc9,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#9#12,ねりこさんが急に来るかもしれないよ？,妮莉库小姐可能会突然过来哦？,translated,,57ad673675,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_06.txt#10#12,"あなたの前でずっとパジャマなのは
+少し抵抗あるけど……でも、いいよね？","一直在你面前穿着睡衣
+虽然多少有点不好意思……但也没关系吧？",translated,依恩,cc40249610,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#11#12,"だってわたし達、夫婦なんだし。
+それに、家の中ではリラックスできる
+服装でいたいもん。","毕竟我们可是夫妻嘛。
+而且在家里，
+就是想穿能彻底放松下来的便服嘛。",translated,依恩,f1d9b936f4,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_06.txt#13#12,"それに、疲れたらすぐにベッドで
+横になれるから便利だと思うの。","况且累了还能立刻倒在床上休息，
+我觉得非常方便呢。",translated,依恩,7393d3290b,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#14#12,"しばらく、パジャマのままで生活するのも
+悪くないかもしれないね。","暂时一直穿着睡衣生活，
+说不定也挺惬意的呢。",translated,依恩,90fb40b010,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#22#12,あっ、たしかにそれはあるかも……。,啊，那倒确实很有可能……,translated,依恩,aabb6eec5d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_06.txt#23#12,"家だからって気を抜き過ぎではないか、
+とか言われちゃいそうだよね？","感觉很有可能会被她说：
+“就算在家里是不是也太不修边幅了”呢？",translated,依恩,d34fde2ded,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_06.txt#24#12,"そうなったら、きっとお店に行くたびに
+それを言い続けられそうだし……。
+やっぱり、服はちゃんと着るようにするよ。","要是真那样，每次去她店里
+肯定都会被她一直念叨不休吧……
+我果然还是好好换上正装衣服吧。",translated,依恩,5c4c2ddea8,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_06.txt#25#14,"家から出ない生活は、
+着替えすら億劫に
+感じるよ。","足不出户的生活，
+连换衣服都觉得
+麻烦得不得了呢。",translated,,f7c5e305f5,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_07.txt#6#12,"最近、ねりこさんのお店に行くたびに
+わたし達の生活のことを聞かれるの。","最近每次去妮莉库小姐的店里，
+都会被问起关于我们生活的事呢。",translated,依恩,e6ace1f738,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_07.txt#7#12,"我が見ていないところで何をしておる？
+正直に申してみよ、って……。","“在吾看不到的地方究竟做了些什么？
+给吾从实招来”之类的……",translated,依恩,ebdca87b3a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_07.txt#8#12,"……何を期待してるのか予想はつくけど、
+今までと変わらずデートしてお話して、
+一緒に過ごしてるだけなのにね。","……虽然完全猜得到她在期待听到什么，
+但明明就和平常一样约约会聊聊天，
+两个人一起待着而已嘛。",translated,依恩,131789eb4c,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_07.txt#9#12,あえて、凄いことをしてる、と言おう,索性故意说做了一些惊天动地的事吧,translated,,ad83fcb123,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_07.txt#10#12,健全を絵に描いたような夫婦だしね,毕竟是健康纯洁得如同典范一样的模范夫妻嘛,translated,,7006542f37,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_07.txt#14#12,"あはは、わたしも一度だけ考えたよ。
+そう言ったら、逆に慌てて何も聞かなく
+なるかも、ってね。","啊哈哈，我也曾经想过一次哦。
+要是那么说的话，说不定她反而会慌张得
+什么都不敢再打听了呢。",translated,依恩,9decffa871,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_07.txt#15#12,でも……相手はねりこさんだよ？,可是……对方毕竟是妮莉库小姐哦？,translated,依恩,d66cd7590a,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_07.txt#16#12,"逆に面白がって食いついてきちゃいそうで、
+直前で留まったよ……。","感觉她更有可能会觉得好玩而穷追猛打，
+所以临到嘴边我还是忍住了……",translated,依恩,6cd04ae6ee,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_07.txt#21#12,うん、健全にラブラブな新婚さんだよね。,嗯，是健康纯洁又甜蜜恩爱的新婚夫妻呢。,translated,依恩,e68857b3ba,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_07.txt#22#12,"でも、ねりこさんにはそんなこと言ったら、
+つまらん、って言われるかも……。","不过要是对妮莉库小姐这么说，
+说不定会被她说“真无趣”呢……",translated,依恩,7f7f1dc5f3,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_07.txt#23#12,"そのうち、あなたの方からねりこさんに
+言っておいてもらえたら嬉しいな。","改天要是你能主动去向妮莉库小姐说明一下，
+我会很开心的哦。",translated,依恩,6525e70a8f,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_07.txt#25#14,"色々聞かれるのは困る
+けど、嬉しいのも事実
+だよ。","虽然被问这问那很困扰，
+但心里其实挺高兴的，
+这也是事实呢。",translated,,ddf5aa7fe9,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_08.txt#6#12,"たまにだけど、うんと味の濃い物を
+食べたくなることってない？","虽然只是偶尔，但你会有突然想吃
+口味特别重的东西的时候吗？",translated,依恩,a0834c6f0b,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#7#12,"わたしは時々、うんと甘い物を食べたい、
+って思うことがあるの。","我有时就会突然很想很想
+吃特别甜的东西呢。",translated,依恩,3a182d5b06,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#8#12,"主に、疲れてる時とか、頭を使った作業を
+してる時なんかにね。","主要是在身体疲倦、或者做需要
+高度动脑筋的作业的时候呢。",translated,依恩,f55cb83d51,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#9#12,逆に辛い物を食べたくなる時は？,那反过来想吃辣的时候呢？,translated,,937d8e3a61,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_08.txt#10#12,"よく、疲れてる時は甘い物を欲しがる、
+って話を聞くけど、あれって本当だね。","经常听说人累的时候就会渴望吃甜食，
+看来那是真的呢。",translated,依恩,e35bf05846,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#11#12,"なにをしてる時でも、
+関係なくそう思っちゃうんだもん。","不管当时在做什么，
+都会忍不住冒出这种念头嘛。",translated,依恩,64855de324,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#13#12,"そういう時のためにも、何か甘い物を
+常備しておいた方がよさそうだね。","为了应付那种时候，
+平时常备一些甜食看来会比较好呢。",translated,依恩,75c8118a1a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#21#12,"いつもじゃないけど、甘い物を食べた後には
+そう思うことがあるよ。","虽然不是每次都会，但吃完甜食之后
+有时确实会有这种想法哦。",translated,依恩,61b467f01b,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#22#12,"水飴っぽい、べっとりした甘さの物を
+食べた後って、どうしても口の中が
+変に甘いままになっちゃうでしょ？","吃了像麦芽糖那样又黏又甜的东西后，
+嘴巴里不管怎样
+都会一直残留着甜腻的感觉对吧？",translated,依恩,21fae6d329,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_08.txt#23#12,"そういう時に、すごく辛い物を食べて
+甘さを消したい、って思うの。","那种时候，就会想吃点特别辣的东西
+来把嘴里的甜味压下去呢。",translated,依恩,72ecd337d3,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#24#12,"まあ、甘さが辛さで相殺できる保証は、
+どこにもないんだけど……。","嘛，虽然完全没有任何保证
+能证明甜味可以用辣味来抵消就是了……",translated,依恩,1a2c1fadde,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_08.txt#25#14,"いつでも食べられる
+極端に味の濃いものを
+常備しておきたいな。","好想在身边常备一些
+随时都能吃的、
+口味特别浓郁的食物呢。",translated,,c8ce48e2e9,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_09.txt#6#12,うっ……何だか、ちょっと寒気がするかも。,唔……不知怎么的，感觉有点发冷呢。,translated,依恩,20f8ac3dba,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_09.txt#7#12,"もしかして、風邪を引きかけてるのかな？
+そういえば少し熱っぽいような……。","难道是快要感冒了吗？
+这么说来好像确实有点发烧的感觉……",translated,依恩,c9ce7bdd91,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_09.txt#8#12,"でも、一人暮らしだからのんびり寝ても
+いられないのが辛いところだね。","不过因为是一个人生活，想优哉游哉卧床休息
+也是不可能的，这就是难熬的地方呢。",translated,依恩,661b701113,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_09.txt#9#12,看病できなくてごめんね,没能照顾你真是对不起呢,translated,,282ab0f60d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_09.txt#10#12,端末越しならうつらないし安心だね,隔着终端就不会被传染了，真放心呢,translated,,1d2aca4478,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_09.txt#14#12,"ううん、気にしないで。そんなこと
+してもらってあなたに移しちゃったら、
+申しわけなくなっちゃうもん。","没有啦，别放在心上。要是让你照顾我
+却反而传染给你了的话，
+我可就要过意不去了嘛。",translated,依恩,4ef8bc69f8,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_09.txt#15#12,"それに、あなたがそう言ってくれるだけで、
+ちょっと元気になった気もするし。","而且，只要你能对我说这句话，
+我就感觉精神稍微好起来一些了呢。",translated,依恩,9ac7aa39ec,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_09.txt#16#12,"あなたの優しい言葉があれば、
+わたしは薬いらずだね。","只要有你温柔体贴的话语，
+我连药都不用吃啦。",translated,依恩,7a6bf926c0,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_09.txt#21#12,"うん、一緒の部屋にいて移しちゃったら、
+わたしも申しわけなくなっちゃうもん。","嗯，要是呆在同一个房间传染给你的话，
+我也会觉得很过意不去嘛。",translated,依恩,893baf2e52,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_09.txt#22#12,……でも、少しは心配して欲しかったな。,……不过，还是希望你能稍微关心我一下呀。,translated,依恩,e22517364a,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_09.txt#24#14,"今度は自分で風邪薬を
+作れるようになりたい
+な。","下次希望能做到
+能够自己制作
+感冒药就好了呢。",translated,,1654db5a73,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_10.txt#6#12,"超濃厚大盛りとんこつラーメン。
+背脂タップリ濃厚スープが売りです！","“超浓郁大碗豚骨拉面。
+主打大量猪背脂的浓厚汤底！”",translated,依恩,eda7f2e799,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#7#12,"っていうチラシがねりこさんのお店に
+貼ってあるの。","妮莉库小姐的店里，
+贴着这么一张宣传单哦。",translated,依恩,cb01e874dc,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#8#12,"……食事できるわけじゃないのに、
+どうして貼ってあるのかは謎だけど。","……虽然店里根本不提供餐饮，
+但为什么会贴在那里完全是个谜就是了。",translated,依恩,17dc3b075a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#9#12,スープは飲まない方がいいんだけどね,不过那种拉面的汤底最好还是别喝呢,translated,,5284201001,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_10.txt#10#12,"でも、写真を見る限りだと、
+すごく美味しそうだったなぁ。","不过，光看照片上的样子，
+感觉真的很美味呢。",translated,依恩,b6e987b43e,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#11#12,"うちでも作れないことはないと
+思うけど、う～ん……。","虽然我觉得自己在家里也不是做不出来，
+但是唔～……",translated,依恩,54cb270f04,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#13#12,やっぱり、自分で作るのはやめておこっと。,果然还是放弃自己亲自动手做吧。,translated,依恩,5a648a302e,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_10.txt#14#12,"濃厚スープを作った後のお片づけ、
+大変なことになりそうだもん。","熬完浓厚汤底之后的善后收拾工作，
+光是想想就觉得会非常麻烦可怕嘛。",translated,依恩,56e302b6f4,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#15#12,"……でも、機会があったら
+食べてみたいなぁ。","……不过，要是以后有机会的话，
+真想尝尝看呢。",translated,依恩,6f8d46b0a5,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#23#12,"そういえば、健康のことを考えるなら
+スープは飲まない方がいい、って前に
+聞いたことがあったかも。","说起来，如果考虑到健康的话，
+最好还是不要把汤底喝掉，
+以前我好像也听说过呢。",translated,依恩,cfd6c4c8b6,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_10.txt#24#12,"う～ん、でも毎日食べるわけじゃないから、
+たまに食べる時くらい飲んでも、
+そんなに悪くはないと思うのに……。","唔～不过又不是每天都吃，
+偶尔吃一次的时候喝一喝汤，
+我觉得应该也没那么糟糕才对嘛……",translated,依恩,87a6a3a826,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_10.txt#25#12,"でも、あなたがそう言うなら、
+わたしは我慢するよ。","不过既然你都这么说了，
+那我就忍耐一下好啦。",translated,依恩,37be72d4cc,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_10.txt#26#14,"ラーメン屋すらない
+世界に住んでることを
+改めて実感したよ。","再次切身体会到了
+自己正住在一个
+连拉面店都没有的世界里呢。",translated,,e3734e511e,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_11.txt#6#12,何だか、お肉食べたくなってきちゃった。,不知怎么的，突然好想大口吃肉呀。,translated,依恩,e59430b3aa,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_11.txt#7#12,"お腹が減ってるわけじゃないんだけど、
+最近ちょっと疲れ気味だからかな？","虽然肚子并不是很饿，
+但或许是因为最近有点容易疲劳吧？",translated,依恩,9dd6effa58,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_11.txt#8#12,"お肉をしっかり食べて、ちょっとでも
+栄養を付けたいと思ってるの。","所以想好好吃一顿肉，
+尽量多补充一点营养呢。",translated,依恩,d7a6504fc7,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_11.txt#9#12,"でも、お肉を食べるとしても、
+どんな食べ方が美味しいのかな？","不过就算要吃肉，
+怎样做才最好吃呢？",translated,依恩,7b52e39dfc,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_11.txt#10#12,ステーキ！　ステーキソース美味しいよ,牛排！牛排酱汁超好吃的哦,translated,,0ade10e96d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_11.txt#11#12,冷しゃぶ！　さっぱりしてご飯が進むよ,凉拌涮肉！清爽可口很下饭哦,translated,,108567358d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_11.txt#15#12,ふふっ、シンプルだけど王道だね。,呵呵，虽然简单但真是王道之选呢。,translated,依恩,7071875e39,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_11.txt#16#12,"でも、ステーキかぁ……。
+確かに他のどんな食べ方よりも、
+元気一杯になれそうだね。","不过，牛排啊……
+确实感觉比任何其他吃法，
+都要更能让人元气满满呢。",translated,依恩,f952c71a9c,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_11.txt#17#12,"問題は、ステーキのレシピがないから
+作れないってことだけど……。","问题在于我手头没有牛排的配方，
+根本做不出来就是了……",translated,依恩,e02733f736,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_11.txt#22#12,"そっか、確かにお肉だけっていうのは
+寂しいから、ご飯に合う食べ方の方が
+いいよね？","这样啊，确实只单单吃肉的话
+感觉有点单调，还是配米饭吃的方法
+比较好对吧？",translated,依恩,7a57eb03e8,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_11.txt#23#12,"う～ん、何だかそんなこと言ってたら、
+急に食べたくなってきちゃったよ。","唔～听你这么一说，
+我突然变得超想吃了啦。",translated,依恩,dee29d92fb,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_11.txt#24#12,冷しゃぶのレシピ、あればいいのに……。,要是有凉拌涮肉的配方就好了呢……,translated,依恩,e9592fff42,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_11.txt#26#14,"レシピが無くても
+何でも作れる人に
+なりたい。","好想成为就算没有配方
+也什么都能做得出来的
+厉害的人呀。",translated,,3252216e45,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_12.txt#6#12,"サラダにはドレッシングをかけるけど、
+いつもどの味にするかで悩むの。","虽然吃沙拉都会淋沙拉酱，
+但我总是在纠结选什么口味好呢。",translated,依恩,8877e063e8,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#7#12,"最近だと、シーザーサラダドレッシングと、
+和風ドレッシングの二つかな？","最近基本就是在凯撒沙拉酱、
+和日式和风酱这两者之间选吧？",translated,依恩,21e048bd8e,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#8#12,"どっちも美味しいから、
+いつもどっちをかけるかで悩んじゃうの。","因为两种都很好吃，
+所以我每次都会为淋哪种而烦恼呢。",translated,依恩,e4c57bac7b,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#9#12,シーザーサラダの方が美味しそう,感觉凯撒沙拉吃起来会更香呢,translated,,1f22f31184,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_12.txt#10#12,"あっ、でも和風ドレッシングの方が
+そろそろ無くなりかけてたような……。","啊，不过日式和风酱好像
+差不多快要见底用完了呢……",translated,依恩,a430417c16,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#11#12,"ってことは、無意識にそっちの方を
+気に入ってる、ってことなのかな？","这么说来，难道代表我下意识里
+其实更偏爱那一边吗？",translated,依恩,a174f11d4e,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#13#12,"……まあ、せっかくのサラダなんだから、
+さっぱり食べたいって思うのは普通だよね。","……嘛，毕竟是难得吃沙拉，
+想吃得清爽一点也是人之常情对吧。",translated,依恩,bd55c0ba9f,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#21#12,"ふふっ、あなたはシーザーサラダの方が
+好きなのかな？","呵呵，你是更喜欢
+凯撒沙拉那一边吗？",translated,依恩,7a3685e507,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#22#12,"それなら、今度食べる時はそっちの方を
+かけて食べよっと。","既然这样，下次吃的时候
+我就淋那一种好啦。",translated,依恩,096136941a,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#23#12,"あなたの好みに合う物を食べてれば、
+わたしの好みもあなたと一緒にできるかな？","只要多吃符合你喜好的东西，
+我的口味也能变得和你一样吧？",translated,依恩,dbe1eedc8e,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_12.txt#24#14,"ドレッシングが無いと
+サラダは食べられない
+の。","没有沙拉酱的话，
+沙拉就完全吃不下去
+呢。",translated,,02d885bd3b,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_13.txt#6#12,"毎日自分一人のために料理するのって、
+結構大変なの。","每天只为了自己一个人做饭，
+其实挺辛苦的呢。",translated,依恩,6cc8a770df,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#7#12,"作ってる途中で、何かもう面倒だから
+今日は食事いいかな、って思うことも
+結構あるし……。","经常在做饭做到一半的时候，
+觉得好麻烦、今天干脆别吃了吧，
+这种念头其实挺经常冒出来的……",translated,依恩,e4c25fac54,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_13.txt#8#12,"そういう時には、料理しなくても
+問題ないよね？","那种时候，就算不做饭
+应该也没什么大问题对吧？",translated,依恩,1c260f1854,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#9#12,料理してるイオンが好きなのに……,明明我很喜欢看依恩做料理的样子……,translated,,610b57f4be,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_13.txt#10#12,グルメイトがあるしね,毕竟还有美食伴侣在嘛,translated,,2572e8e6d7,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_13.txt#14#12,"あ、あなたにそんな風に言われたら、
+面倒とか言えなくなっちゃうよ……。","被、被你这么一说，
+我就完全不好意思再说什么嫌麻烦了啦……",translated,依恩,566d8936db,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#15#12,"でも、あなたが好きって言ってくれるなら、
+これからもちゃんとお料理するね。","不过既然你都说喜欢了，
+那我以后也会好好用心做饭的哦。",translated,依恩,6f35b83f70,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#20#12,"うん、食べきれないほどあるし、
+食べてもいつの間にか、
+もとに戻ってるんだよね。","嗯，多到吃都吃不完，
+而且就算吃掉了，不知道什么时候
+又会变回原来的数量呢。",translated,依恩,9207657cf9,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_13.txt#21#12,"だから、面倒に思った時には、
+グルメイトを食べるのも悪くないよね？","所以嫌麻烦的时候，
+吃吃美食伴侣也没什么不好的对吧？",translated,依恩,1fe6c2a0f3,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#22#12,"それに、せっかくあるんだもん。
+食べないと勿体無いよ。","而且既然有现成的，
+不吃掉岂不是太浪费了嘛。",translated,依恩,8a75e1d165,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_13.txt#24#14,"食べてくれる人が
+いてくれれば、料理も
+楽しくなるのに……。","要是有能帮我吃的人在，
+做饭肯定也会
+变得开心起来的……",translated,,46563b7bb5,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_14.txt#6#12,"あなたはお刺身やお寿司を食べる時は、
+ワサビをつける人なのかな？","你在吃刺身或者寿司的时候，
+是会蘸芥末的那类人吗？",translated,依恩,7b400ecd42,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#7#12,"わたし、実はワサビってあんまり
+得意じゃないの。","其实我呢，
+不是很擅长应付芥末呢。",translated,依恩,9eabf5d417,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#8#12,"スパイスとかの辛さと違って、
+鼻にツンと来るのが苦手なんだ。","它和香料的那种辣不一样，
+那种直冲鼻腔的刺鼻感让我很不习惯。",translated,依恩,a66a12624b,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#9#12,子供みたいだね,简直跟小孩子一样呢,translated,,2fe750c807,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_14.txt#10#12,"でも、お醤油だけで食べたとしても、
+わたしとしては大満足だよ。","不过哪怕只蘸酱油吃，
+对我来说也已经大满足了哦。",translated,依恩,679854257e,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#11#12,"お魚本来の甘さを、ワサビに邪魔されずに
+感じることができるんだもん。","这样就能在不被芥末打扰的情况下，
+品尝到鱼肉原本的鲜甜甘美了嘛。",translated,依恩,094b8a3d89,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#12#12,"だから、ワサビをつけない方が
+美味しく食べられると思うの。","所以我认为不放芥末，
+吃起来反而更加美味呢。",translated,依恩,9ef18c9b77,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#14#12,"もし普段、ワサビをつけて食べてるなら、
+ちょっとさび抜きにして食べてみてね。","如果你平时习惯蘸芥末吃的话，
+下次不妨试试看完全不蘸的吃法哦。",translated,依恩,5a8e82b511,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#22#12,うっ！？,呜！？,translated,依恩,9ff33e5dde,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_14.txt#23#12,"……わ、ワサビが苦手な人に対して、
+一番ダメージ与えることを言ったね？","……对、对于讨厌芥末的人来说，
+你刚才可是说了伤害最深的一句话哦？",translated,依恩,652231acec,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_14.txt#24#12,"でも、たしかにわたしももう子供じゃないん
+だから、そろそろワサビにも慣れておく
+必要があるのかな？","不过，我也已经不再是小孩子了，
+是不是确实有必要
+差不多也该学着习惯吃芥末了呢？",translated,依恩,da0a62b6bc,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_14.txt#25#12,今度、ちょっと練習してみるよ。,下次，我稍微练习尝试一下好啦。,translated,依恩,95d8e9c914,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_14.txt#26#14,"ワサビは辛いという
+より、痛い、の方が
+正しいと思うの。","与其说芥末是辣，
+我觉得用‘痛’来形容
+才更加准确呢。",translated,,625710ea58,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_15.txt#6#12,"わたし、派手な装飾を作るのって
+そんなに得意じゃないの。","其实我对于制作华丽夸张的饰品，
+并不是很擅长呢。",translated,依恩,80c05214d1,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_15.txt#7#12,"特に複雑な形をしてるものなんかだと、
+作ってる途中で何が何だかわからなく
+なってきちゃうし……。","尤其是那种造型特别复杂的饰品，
+做着做着往往
+就会变得一头雾水了呢……",translated,依恩,09dac47773,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_15.txt#8#12,"もっと日頃から、アクセサリーとか
+付けて勉強しておくべきだったかなぁ？","我是不是应该平时多戴戴首饰，
+多观摩学习一下会比较好呢？",translated,依恩,865b6fe757,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_15.txt#9#12,アクセサリーなんか付けなくても可愛い,就算不戴任何首饰你也已经很可爱了,translated,,e2cbc79dfd,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_15.txt#10#12,イオンは器用だからすごいの作れそう,依恩手这么巧肯定能做出厉害的东西,translated,,c2a611a48d,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_15.txt#14#12,えへへ、そう言ってもらえると嬉しいな。,诶嘿嘿，你能这么说我真高兴。,translated,依恩,498008f58c,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_15.txt#15#12,"でも、それなら無理に勉強する必要は
+ないよね？","不过既然那样，就没必要
+勉强自己去刻意学习了吧？",translated,依恩,dc2503debc,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_15.txt#16#12,"付けないのに作っても、
+ムダになっちゃうだけなんだし。","毕竟做了自己又不戴，
+到头来也只是白白浪费掉而已嘛。",translated,依恩,41ba563bb5,br=0 nl=1,2,
+inc/event/res/daysevent14/day14_15.txt#21#12,"そ、そうかな？
+機械作りに関してはそうかもしれないけど、
+アクセサリー関係はどうだろう？","是、是那样吗？
+组装机械方面或许还可以，
+但首饰饰品之类的真的行得通吗？",translated,依恩,e26a348c5f,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_15.txt#22#12,"でも、あなたがそう思ってくれてるなら、
+頑張れば得意なものになりそうな気が
+してきたよ。","不过既然你都这么看好我，
+我感觉只要努力一下，
+说不定真的能变成自己的强项呢。",translated,依恩,6f2450926b,br=0 nl=2,3,
+inc/event/res/daysevent14/day14_15.txt#23#12,そのうち、真剣に勉強を始めてみようかな？,改天我也正儿八经地开始认真钻研一下吧？,translated,依恩,d8bdf7ec79,br=0 nl=0,1,
+inc/event/res/daysevent14/day14_15.txt#25#14,"アクセサリーなんかの
+装飾は、センスがない
+と作れないよね？","像首饰这类的饰品装饰，
+要是没有良好的审美品味，
+肯定是做不出来的对吧？",translated,,5ee7c34eaf,br=0 nl=2,3,

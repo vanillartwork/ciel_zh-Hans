@@ -1,0 +1,971 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/relationevent/divorce_01.txt#6#12,…むにゃ……。,…唔唔……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#10#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#11#12,"<CLY2>離婚をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要办理离婚，依恩必须
+身处室内。",translated,系统文本,20b13d4441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#15#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#16#12,"<CLY2>離婚をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要告白
+需要配方",translated,系统文本,20b13d4441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#20#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#21#12,"<CLY2>離婚をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要告白
+需要配方",translated,系统文本,20b13d4441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#26#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#28#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#30#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#35#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#40#12,"<CLY2>現在、離婚することはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行离婚。
+请等待依恩切换行动状态。",translated,系统文本,fc390f11c9,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#46#12,"<CLY2>イオンと離婚すると、夫婦のときに発生する
+イベントは一切発生しなくなります。","<CLY2>与依恩离婚后，处于夫妻状态时
+发生的所有事件将彻底不再发生。",translated,系统文本,65df6eeddb,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/relationevent/divorce_01.txt#47#12,"<CLY2>また、再び恋人や夫婦に戻ることが
+できません。","<CLY2>此外，将无法再次重归
+恋人或夫妻关系。",translated,系统文本,7aea4ec517,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#48#12,"<CLY2>そのため、今後追加されるイベントも
+発生しなくなる可能性があります。","<CLY2>因此，今后追加的事件也有可能
+彻底无法触发。",translated,系统文本,136c9b6059,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#49#12,<CLY2>本当によろしいですか？,<CLY2>真的确定要这么做吗？,translated,系统文本,61132de582,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/divorce_01.txt#50#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#51#12,イオンと離婚する,与依恩离婚,translated,,b6d699cb1d,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#57#12,"あの……どうしたの？
+なんだかいつもと様子が……。","那个……你怎么了？
+总觉得今天的你和平时有点……",translated,依恩,0827310365,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#60#12,"……ッ！
+えっと、その……。","……！？
+呃，那个……",translated,依恩,990965b94f,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#61#12,"そ、そうだ！
+わたし急いでやらないといけないことが
+あったんだ！","对、对了！
+我突然想起来还有急事
+得去办呢！",translated,依恩,8861b14d30,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_01.txt#62#12,ごめんね、お話はまた今度にしよ。,对不起哦，我们下次再聊吧。,translated,依恩,ada493e0d6,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#63#12,呼び止める,叫住她,translated,,131e86e0f2,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#70#12,"どうしたの？
+わたし戻らないと……。","怎么了吗？
+我得回去了……",translated,依恩,761db6fecb,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#71#12,大切な話がある,我有重要的话要对你说,translated,,77806dca4f,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#73#12,大切な……話……。,重要的……话……,translated,依恩,be54c141c8,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#80#12,"<CLBU>どうして……。
+わたし、良い奥さんになれてなかったかな？
+端末越しの関係じゃ、ダメだったのかな？","<CLBU>为什么……
+是我没有当好一个合格的妻子吗？
+隔着终端的关系，果然还是不行吗？",translated,依恩,b7753a18c9,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/relationevent/divorce_01.txt#83#12,"ずっと……ずっと一緒に居たのに、
+居てくれたのに……ッ！","明明一直……一直在一起，
+明明你一直陪着我的……！",translated,依恩,f0708c085d,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#84#12,"やっぱり、こんな関係じゃ
+無理だったのかな……。","果然，维持这样的关系
+还是太勉强了吗……",translated,依恩,5a75546787,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#85#12,別に大切な人ができた,我有了别的更重要的人,translated,,5a1264448c,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#86#12,友達に戻りたい,想做回普通朋友,translated,,b841c9fcb2,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#87#12,繋がり続けるのに疲れた,对一直连接维系关系感到疲倦了,translated,,bf474e1d2c,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#90#12,"そう……なんだ。
+ほかに大切な人が……。","这……样啊。
+有了别的更重要的人啊……",translated,依恩,4eb592eed8,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#91#12,わたしじゃ、ダメだったんだね……。,果然我……还是不行呢……,translated,依恩,db36b1c7fb,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#95#12,"友達……か。
+それって友達ではいてくれるってことだよね。","朋友……吗。
+意思是，你还愿意和我做朋友吧。",translated,依恩,8462724006,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#96#12,"別れるのは辛いけど、もう一緒にいたくない
+って言われるより、ずっと良かった。","分手虽然很难过，但比起听你说再也不想在一起，
+已经好太多了。",translated,依恩,f316e0f49f,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#100#12,"わたしが、あなたに頼ってばかりだった
+から……。","都怪我，总是只知道
+依赖你……",translated,依恩,1d64b0e39b,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#101#12,"もっとしっかりしてたら、
+記憶も失ったりしてなければ、
+こんなことにならなかったのかな……。","要是我更懂事一点，
+要是没有失去记忆的话，
+是不是就不会变成这样了呢……",translated,依恩,7d9eb829b8,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_01.txt#103#12,"ごめんね、本当はこんなこと聞いちゃいけない
+のかもしれない。","对不起，或许我不该
+问你这种问题的。",translated,依恩,c9f632ef7f,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#104#12,"もしかしたら、またあなたが嫌な思いを
+するのかもしれない……。
+でも、これだけは確認しておきたいの。","也许，这样又会让你
+感到不快也说不定……
+但我无论如何都想确认这件事。",translated,依恩,bdd2abd300,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_01.txt#106#12,"さっきあなたから伝わった想い、
+「繋がるのに疲れた」って……。","刚才你传达给我的心意，
+说“对连接维系感到疲倦了”……",translated,依恩,007be054ea,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#107#12,"それってつまり、もうここには来てくれない
+ってことなの？","那意思就是说，你以后再也不来这里了
+对不对？",translated,依恩,c234dcfdf3,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#108#12,もう、あなたとお話はできなくなるの……？,以后，就再也没办法和你说话了吗……？,translated,依恩,fe5e7fd417,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#109#12,たまになら端末動かすかも,偶尔也许还会启动终端来看看,translated,,ae4793cf91,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#110#12,もう来ないと思う,我想以后不会再来了,translated,,2e6a50d890,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#112#12,これからも、わたしに会いに来てくれる？,今后，你还会来看我吗？,translated,依恩,8ccef3f9fc,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#113#12,"夫婦じゃなくても、恋人じゃなくてもいい。
+あなたとは繋がっていたい。
+もっと、お話したい……。","做不成夫妻，做不成恋人也没关系。
+我还是想和你维系着连接。
+还想和你说更多的话……",translated,依恩,255a7e92bc,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_01.txt#114#12,だから……お願い。,所以……拜托了。,translated,依恩,d2dd90d117,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#115#12,繋がるのを止めたりはしない,我不会切断与你的连接,translated,,0d6c3448ce,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#116#12,もう来ることはないかも……,以后可能不会再来了……,translated,,048e05f882,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#120#12,"良かった……。たまにでもいいの。
+あなたとお話できたら、それだけでも嬉しい。","太好了……哪怕只是偶尔也没关系。
+只要能和你说说话，光是这样我就很高兴了。",translated,依恩,31bca23229,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#121#12,"たとえ別れても、友達に戻っても、あなた
+との繋がりは消えてないってことだから。","哪怕分开了，做回了朋友，
+这也代表着我和你的连接并没有断开。",translated,依恩,fffe3b9590,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#122#12,"ただ、少しの間だけ一人にしてほしい。
+気持ちの整理をしたいの……。","只是，我想稍微一个人待一阵子。
+想整理一下自己的心情……",translated,依恩,517d4b758a,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#123#12,"明日からまた頑張るから、
+その間だけ……お願い……。","从明天起我会重新振作起来的，
+所以只有现在……拜托了……",translated,依恩,e3797a76f2,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#127#12,そっか、そうだよ……ね。,这样啊，说得也是……呢。,translated,依恩,e2a22b70b2,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_01.txt#128#12,"別れた相手に会いに来るって、
+おかしいもんね。","跑来看分手的对象什么的，
+确实很奇怪嘛。",translated,依恩,1c76bec228,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#129#12,"わたしは大丈夫。
+これからは一人で頑張ってみるね。","我没事的。
+今后我会尝试一个人坚强活下去的。",translated,依恩,24a09cf6d1,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_01.txt#130#12,"さよなら……。
+あなたも……元気でね。","再见……
+你也要……保重身体哦。",translated,依恩,715206f0f6,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02.txt#4#12,おい！　お前さん！,喂！你这家伙！,translated,妮莉库,031318b337,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02.txt#6#12,"そこにいるんじゃろ！？
+正直に出てこんか！","你就在那里的吧！？
+还不老老实实出来！",translated,妮莉库,f15b231c7d,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02.txt#9#12,居留守を使っても無駄じゃぞ！,装作不在也是没用的！,translated,妮莉库,a338c68337,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02.txt#11#12,本当に出てこないつもりか？,你当真不打算出来吗？,translated,妮莉库,a56478ca96,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02.txt#13#12,おのれ、これだけ言ってもだんまりか。,可恶，老身说了这么多你还装哑巴吗。,translated,妮莉库,2bc31be59d,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02.txt#15#12,"仕様のない奴じゃ。
+出直すとするかの。","真拿你没办法。
+老身改天再来吧。",translated,妮莉库,0e1fad03bf,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#2#12,"<CLBU>よし！
+ちゃんとおったな！","<CLBU>很好！
+你果然在啊！",translated,妮莉库,d26ec196e0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/relationevent/divorce_02_main.txt#4#12,"<CLBU>やっと出たか！
+反応するのが遅すぎるわ！","<CLBU>总算出来了！
+你反应也太慢了吧！",translated,妮莉库,17d642505f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/relationevent/divorce_02_main.txt#6#12,"お前さん、とうだいもりと離婚したそうでは
+ないか！","你这家伙，
+听说你和灯塔守离婚了不是吗！",translated,妮莉库,7056a18ec5,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#7#12,"どういうことじゃ！？
+あれだけ、いや今でもこうして端末を通して
+繋がっておる、お前さんが何故別れる！？","这到底是怎么回事！？
+明明那么深厚，不，哪怕现在也隔着终端
+紧紧连接着的你，为什么要分手！？",translated,妮莉库,8eb87a3275,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_02_main.txt#8#12,"そんなにも直接触れられないことが
+もどかしかったのか！？","就因为无法直接触碰到对方，
+让你感到如此焦躁难耐吗！？",translated,妮莉库,ba6a2675ba,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#9#12,"それともとうだいもりのことが嫌いになって
+しまったのか？
+あやつにはもう興味がないというのか！？","莫非是讨厌
+看守灯塔的人了？
+难道是对那家伙失去兴趣了吗！？",translated,妮莉库,1bb595e4c7,br=0 nl=2,3,
+inc/event/res/relationevent/divorce_02_main.txt#10#12,"もはやお前さんたちの関係は、
+お前さんらだけの問題ではないのじゃ！","你们两人的关系，
+早已不仅仅是你们自己的问题了！",translated,妮莉库,b4066d68f9,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#11#12,"このことがきっかけでセカイの再生が
+どれだけ遅れることになるのか検討もつかん。","以此为契机导致世界再生的进度
+被拖延多久，老身简直无法估量。",translated,妮莉库,50f6170ed0,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#13#12,"それにもう繋がり続けるのに疲れたとは
+どういうことじゃ？","而且说什么“对一直连接感到疲倦了”，
+这又是什么意思？",translated,妮莉库,0f366bc32e,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#14#12,"今お前さんは繋がっておるではないか。
+それともこの前のは間違いだったのか？","你现在不就好好地连接着吗。
+还是说前几天说的那话只是搞错了？",translated,妮莉库,7e3ae42f8d,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#15#12,"結局のところ、お前さんは今後どうする
+つもりなんじゃ？","归根结底，你今后
+到底打算怎么做？",translated,妮莉库,2011364df7,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#16#12,この前のは間違い,前几天那次只是搞错了,translated,,aba88c724b,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#17#12,今日はたまたま繋げただけ,今天只是碰巧连上来而已,translated,,2f21466170,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#19#12,結局のところ、お前さんはどうなんじゃ？,归根结底，你到底是怎么想的？,translated,妮莉库,06110b34bd,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#20#12,"夫婦でなくても構わん。友人なら友人として、
+今後もあやつの助けになる気はないのか？","不做夫妻也无所谓。作为朋友，
+今后你也没有打算再帮那丫头一把吗？",translated,妮莉库,b5e4fa2a78,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#21#12,もちろん、そのつもりはある,我当然有这个打算,translated,,592dcea231,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#22#12,近いうちにやめることになる,近期内应该会彻底放弃吧,translated,,8c6394e992,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#26#12,"そうか、それならば良いんじゃよ。
+少々取り乱しすぎたかの……。","是吗，那样的话就够了。
+看来老身刚才稍微有点失态了……",translated,妮莉库,75249cef14,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#30#12,そうか、やはりそうなんじゃな……。,是吗，果然是这样啊……,translated,妮莉库,1d5eff11d1,br=0 nl=0,1,
+inc/event/res/relationevent/divorce_02_main.txt#32#12,"結局のところ、我にお前さんの行動を
+強制するようなことはできん。","归根结底，老身也没办法
+强行约束你的行动。",translated,妮莉库,0c8c85131e,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#33#12,"もちろん、我はお前さんたちの関係が
+良好であることを望んでおる。","当然，老身自然是希望
+你们两人的关系能融洽如初。",translated,妮莉库,eab88f67a2,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#34#12,"しかし、だからといって、
+こればかりはどうしようもないことじゃ。","但即便如此，
+唯独这种事谁也强求不来。",translated,妮莉库,370c2bd49c,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#35#12,"今後お前さんの意思がどう動くかなんぞ、
+我には分からん。","今后你的心意会走向何方，
+老身也无从知晓。",translated,妮莉库,8ab10774eb,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#37#12,"せめて今のまま、とうだいもりと
+友人であり続けて欲しいものじゃ……。","老身只希望你至少能像现在这样，
+继续和灯塔守做朋友……",translated,妮莉库,783170ebd8,br=0 nl=1,2,
+inc/event/res/relationevent/divorce_02_main.txt#39#12,"いつかお前さんが、とうだいもりと
+我のところに戻ってくることを祈っておるよ。","老身会祈祷着，有朝一日你能重新回到
+灯塔守和老身的身边。",translated,妮莉库,582e9136a7,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00.txt#5#12,"は、はいっ！
+びっくりしたぁ……。","在、在！
+吓了我一跳……",translated,依恩,63deca72d6,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00.txt#6#12,"ちょ、ちょっとだけ待っててね！
+すぐ行くから！","稍、稍微等我一下哦！
+我马上就过去！",translated,依恩,211bf79669,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00.txt#8#12,その……お、おまたせ。,那个……让、让你久等了。,translated,依恩,333bb4924c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00.txt#13#12,"いま……いるかな？
+……もしいたら返事して。","你现在……在吗？
+……要是在的话应我一声好吗。",translated,依恩,a679116065,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00.txt#16#12,ダメ……かな？,不行……吗？,translated,依恩,3283e80457,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00.txt#18#12,"あのね……、少しだけお話したいことが
+あるの、ホントにちょっとだけだから……。","那个……我有件事想跟你稍微聊聊，
+真的只要一会儿就好……",translated,依恩,72f9f30467,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00.txt#20#12,いないのかな……。,不在吗……,translated,依恩,12e51a044b,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00.txt#21#12,って、ホッしちゃダメだよね！,哎呀，松了一口气可不行呀！,translated,依恩,00eec6942f,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00.txt#22#12,またあとで、声かけてみよ。,等会儿再来叫你吧。,translated,依恩,d5a6a828c3,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#2#12,あっ！　い、いてくれたんだ……。,啊！你、你在啊……,translated,依恩,2dd6f603dd,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#4#12,"えっと……ね。
+あなたにお話したいことがあって……。","那个……呢。
+我有件事想对你说……",translated,依恩,4004bdb148,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00m.txt#5#12,その……えっと……。,那个……呃……,translated,依恩,d0361f4b23,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#6#12,どうしたの？,怎么了？,translated,,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#8#12,えっ！？　いや、その……うん。,诶！？没、那个……嗯。,translated,依恩,5401a14b58,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#9#12,大したことじゃ……ないんだよ？,也不是什么……大不了的事哦？,translated,依恩,c88e0da2eb,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#10#12,ホント、大したことじゃないんだけど……。,真的，虽然不是什么大不了的事……,translated,依恩,78e0bd7a0d,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#11#12,えと……だから……ね。,呃……所以……呢。,translated,依恩,0623ef5ce9,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#12#12,うぅぅぅ……。,呜呜呜……,translated,依恩,adab5b129b,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#13#12,ごめん、また今度話すね。,对不起，下次我再说吧。,translated,依恩,d08a475411,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_00m.txt#14#12,"ホントに大した話じゃないから
+気にしないでいいからね！","真的不是什么要紧的事，
+你千万不要放在心上哦！",translated,依恩,53e97b2f07,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_00m.txt#18#12,"はぁ……。
+何やってんだろ、わたし……。","哈啊……
+我到底在干嘛啊……",translated,依恩,e530d8dd20,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01.txt#5#12,"は、はいっ！
+びっくりしたぁ……。","是、是的！
+吓了我一跳……",translated,依恩,63deca72d6,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01.txt#6#12,"ちょ、ちょっとだけ待っててね！
+すぐ行くから！","现在稍微等我一下哦！
+我会加油的！",translated,依恩,211bf79669,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01.txt#8#12,その……お、おまたせ。,那个……让、让你久等了。,translated,依恩,333bb4924c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01.txt#13#12,"いま……いるかな？
+……もしいたら返事して。","能顺利进行吗？
+说不定会失败……",translated,依恩,a679116065,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01.txt#16#12,ダメ……かな？,不行……吗？,translated,依恩,3283e80457,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01.txt#18#12,"あのね……、少しだけお話したいことが
+あるの、ホントにちょっとだけだから……。","那个，换个话题……不如说
+那个，真的稍微等一下……",translated,依恩,72f9f30467,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01.txt#20#12,いないのかな……。,不在吗……,translated,依恩,12e51a044b,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01.txt#21#12,はぁ、今度こそって思ったのに……。,哈啊，明明下定决心这次一定要说的……,translated,依恩,a480e25c3e,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01.txt#22#12,またあとで、声かけてみよ。,待会儿我再过来看看哦。,translated,依恩,d5a6a828c3,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#1#12,"えっと……あの……ね。
+この前言えなかったことなんだけど……。","那个……呃……呢。
+就是关于前几天没能说出口的事……",translated,依恩,0a83e2325c,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#2#12,その……うぅ……。,那个……呜呜……,translated,依恩,fd4b5c6e18,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#3#12,言えるまで待ってるよ,我会一直等到你能说出口为止,translated,,7e27233a26,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#5#12,あ、ありがとう。,谢谢你。,translated,依恩,b2056d8e36,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#6#12,えっと……ね……。,那个……呢……,translated,依恩,798debec79,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#7#12,うぅぅ……。,呜呜……,translated,依恩,d7b7303fdb,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#8#12,う、海！　今度、海に行かない！？,大、大海！下次我们一起去海边好不好！？,translated,依恩,0412b25603,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#9#12,"あのね、いつものデートじゃなくて、
+そこでちょっとお話したいことがあるの！","那个呢，不是平时的约会，
+我是想在那里跟你聊一些事情！",translated,依恩,3630a4073e,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#10#12,大切なこと？,是很重要的事吗？,translated,,f2426412fc,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#12#12,"う、うん。
+すごく大切なこと……。","嗯、嗯。
+是非常非常重要的事……",translated,依恩,e1740041a5,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#13#12,"だからね、ちゃんと約束して、
+そのうえでお話したいの……。","所以呢，我想好好地和你做个约定，
+然后再跟你说……",translated,依恩,14aad3e813,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#14#12,ダメ……かな？,不行……吗？,translated,依恩,3283e80457,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#15#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#17#12,えへへ、よかったぁ。,嘿嘿，太好了。,translated,依恩,e80482146c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#18#12,そのときまでに覚悟を――,在那之前我得做好心理准备――,translated,依恩,3c054c4d40,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#19#12,"じゃなくて！
+た、楽しみにしてるね！","不对不对！
+我、我很期待哦！",translated,依恩,ed39c66034,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#20#12,大丈夫？,你没事吧？,translated,,8901996e7c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#22#12,"え！？
+だ、大丈夫ってわたしは全然平気だよ！","诶！？
+没、没事啦，我完全不要紧的！",translated,依恩,35000a28b3,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#23#12,"大切なことって言っても、
+その……危ないこととかじゃないから！","虽然说是重要的事，
+但也……不是什么危险的事啦！",translated,依恩,b6362c0407,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#24#12,"だから、えっと……心配してくれるのは
+嬉しいけど、心配しないで！","所以说……你能担心我虽然很开心，
+但也别太担心啦！",translated,依恩,f42fcecc3a,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#25#12,ってこれじゃあ矛盾しちゃってるよぉ……。,这根本就前后自相矛盾了嘛……,translated,依恩,8d12b7ea9c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#26#12,すぅ……はぁ……。,深呼吸……呼……,translated,依恩,898fed8d4c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#27#12,す、少し落ち着いたかな……。,微、稍微冷静下来了一点吧……,translated,依恩,c28e468fc6,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_01m.txt#28#12,"とにかく、当日、楽しみにしてるね。
+来てくれるの待ってるから。","总之，那一天我很期待哦。
+我会一直等着你来的。",translated,依恩,647459ccc4,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_01m.txt#29#12,"<CLY2>イオンの世界で次の日になると、
+【想いを伝える】の【イオンを呼ぶ】に
+【イオンの話を聞く】が追加されます。","<CLY2>当依恩的世界迎来翌日后，
+在【传达心意】中的【呼唤依恩】里，
+将追加【听依恩倾诉】选项。",translated,系统文本,c902bd48b7,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_01m.txt#30#12,"<CLY2>イオンがデートにいける状態のとき、
+【イオンの話を聞く】を選択することで
+イオンの大切な話を聞きに行くことができます。","<CLY2>在依恩可以外出去约会的状态下，
+通过选择【听依恩倾诉】，
+即可前去聆听依恩的重要话语。",translated,系统文本,ae4afbbe76,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#2#12,…むにゃ……。,…唔唔……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/relationevent/lovers_02.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>想要跳过约会
+需要配方",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/relationevent/lovers_02.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>想要跳过约会
+需要配方",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/relationevent/lovers_02.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02.txt#27#12,"は、はいっ！
+びっくりしたぁ……。","是、是的！
+吓了我一跳……",translated,依恩,63deca72d6,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02.txt#28#12,"ちょ、ちょっとだけ待っててね！
+すぐ行くから！","现在稍微等我一下哦！
+我会加油的！",translated,依恩,211bf79669,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02.txt#30#12,その……お、おまたせ。,那个……让、让你久等了。,translated,依恩,333bb4924c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#1#12,大切な話、聞きに来たよ,我来听你说重要的事了,translated,,a69942e704,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#3#12,えへへ、よかったぁ。,嘿嘿，太好了。,translated,依恩,e80482146c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#5#12,それじゃあ、早速海に行こっか。,那么，我们赶紧去海边吧。,translated,依恩,53897d20c2,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#7#12,"それじゃあ、早速海に……って言いたいところ
+だけど、その前にちょっと着替えるね","那么，我们赶紧去海边……话虽这么说，
+不过在那之前我先去换身衣服哦。",translated,依恩,00b67d3e71,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#14#12,"おまたせ～。
+それじゃあ、いつも通りお願いします。","久等啦～。
+那么，就照平时那样拜托你啦。",translated,依恩,7aa8b403c0,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#17#12,"んん～、着いた～。
+やっぱりここに来ると暑いかな。","嗯嗯～到了～。
+来到这里果然还是挺热的呢。",translated,依恩,38d866e131,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#18#12,……ねぇ、ちょっと歩かない？,……呐，要不要稍微走走？,translated,依恩,50c767c8f9,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#20#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#21#12,話って？,你想说什么？,translated,,163d1ffa38,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#23#12,えへへ、ありがと。,嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#26#12,えっと、その……もうちょっとあとで……ね。,呃，那个……稍后再说……好吗。,translated,依恩,00c027d29c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#27#12,歩きながら少しずつ話すね。,我边走边慢慢跟你说吧。,translated,依恩,78c494913b,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#34#12,"ねぇ、このポーラーズメモリーを
+作ったときのこと覚えてる？","呐，你还记得做这套
+北极星记忆时候的事吗？",translated,依恩,e19b75bc69,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#35#12,"修理した端末が動いて、
+あなたと出会って……。","修好的终端运转起来，
+让我和你相遇……",translated,依恩,90434da965,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#36#12,"そしたら、これまで全然出来なかったことが
+不思議とうまくいって……この思い出の服を
+作ってまた着ることができた。","紧接着，以前怎么也做不成的事
+不可思议地顺利完成了……不仅做出了
+这套充满回忆的衣服，还能够再次穿上它。",translated,依恩,88e5e0de35,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#37#12,"あのときは『着たことがある』って懐かしい
+気持ちだけいっぱいになって、いつどこで
+着たのか全然思い出せなかったけど――","那个时候，我心中虽然满是
+“曾经穿过”的怀念之情，却完全想不起
+自己究竟是在何时何地穿过的――",translated,依恩,16af86b325,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#38#12,"その記憶も、あなたが少しずつ
+取り戻してくれた。","而那份记忆，也是你一点一点
+帮我找回来的。",translated,依恩,9d996b9528,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#39#12,"記憶だけじゃない、ねりこさんがくれた
+カードを使って、こうやって何度もデート
+してくれた。","不仅是记忆，你还用妮莉库送的
+卡片，像这样一次又一次地
+陪我出来约会。",translated,依恩,234450c297,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#40#12,"今のわたしじゃ、行きたくても行けない、
+たくさんの場所に連れて行ってくれた……。","带我去了好多好多
+以我现在的处境想去也去不了的地方……",translated,依恩,61c312b7e1,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#41#12,わたしね、本当に嬉しかったの。,我呀，真的非常非常高兴。,translated,依恩,5a1c1f7e03,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#42#12,"『ありがとう』って、
+伝えても伝えても全然足りないくらい。","即使向你说了无数次“谢谢”，
+也感觉完全表达不尽我的谢意。",translated,依恩,6c08f9c654,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#43#12,"もう何度か話したけど、
+わたし、ずっと一人だったから……。","虽然以前已经说过好几次了，
+但我一直以来都是孤单一个人……",translated,依恩,21280fde7f,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#44#12,"ねりこさんはたまに話し相手になってくれる
+けど、どこかわたしと距離を置いてて……。","妮莉库虽然偶尔会来陪我说说话，
+但不知为何总感觉与我保持着距离……",translated,依恩,c02b9ed527,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#45#12,家に居ても、外に出ても、ずっと一人で……。,无论待在家里，还是走到外面，一直都是一个人……,translated,依恩,1820646441,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#47#12,寂しかった？,觉得寂寞吗？,translated,,6f4aaf79ac,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#49#12,"ううん、寂しくはなかったよ。
+だって、それがわたしにとっては
+当たり前だったから。","不，其实并不寂寞哦。
+因为那对我而言，
+已经是习以为常的日常了。",translated,依恩,b5ea803ed4,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#50#12,"ずっと一人でいるとね、
+一人でいることに慣れちゃうみたい。","只要一直独自一人待着，
+好像就会渐渐习惯这种孤独呢。",translated,依恩,17ca0344f7,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#51#12,"わたしの場合、記憶がなかったから
+余計にだったのかもしれないね。","以我的情况而言，或许因为没有记忆，
+所以感触就更加麻木了吧。",translated,依恩,aa1dc91c01,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#52#12,"そうだ、わたしが端末を見つけたときの
+ことって話したことあったっけ？","对了，关于我发现终端那时候的事，
+以前有跟你提过吗？",translated,依恩,38a220a31c,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#53#12,聞いたことない,没听你提过,translated,,73b9fdbdf5,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#54#12,聞いたことないけど知ってる,虽然没听你说过但我知道,translated,,3f6091bc14,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#56#12,"よかった。
+ちょっとだけお話しても良い？","太好了。
+我可以稍微讲讲看吗？",translated,依恩,07789d8540,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#59#12,"あっ！　もしかして、ねりこさんが
+お話してくれたのかな。","啊！难道说，
+是妮莉库跟你讲过的吗？",translated,依恩,b5c985de55,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#60#12,"その……あなたさえ良かったらわたしからも
+お話していいかな？","那个……只要你不介意，
+我也能跟你讲讲吗？",translated,依恩,443c3ebc8f,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#63#12,ちょっとだけならね,只听一会儿的话可以哦,translated,,2f4f190141,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#64#12,ここで聞いてるよ,我在这里听着呢,translated,,2e1f335ee3,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#66#12,むぅ、またそうやって意地悪言って……。,唔，你又这样故意捉弄我……,translated,依恩,10bf572cf0,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#67#12,"でも、それだけ気軽に話せる関係に
+なれたってことかな。","不过，这也说明我们已经成了
+可以无拘无束聊天的关系了吧。",translated,依恩,3c6bad2ae7,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#70#12,えへへ、ありがとう。,嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#71#12,やっぱり、あなたは優しいね。,你果然好温柔啊。,translated,依恩,a8c40ea78d,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#73#12,"えっと、あなたとこうしていられる端末ね、
+最初すっごいボロボロだったの。","那个，能让我和你这样相伴的这台终端，
+最开始的时候其实破烂不堪哦。",translated,依恩,163d15d555,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#74#12,"部品のほとんどにヒビが入っちゃってたし、
+回路なんて無事なところを見つける方が
+大変だったんだから。","几乎所有零件上都布满了裂痕，
+想要在电路上找到一块完好的地方
+都费劲得不得了呢。",translated,依恩,45ee44ea55,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#76#12,よく直そうと思ったね,亏你当时会想着去修好它呢,translated,,32eb4676af,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#78#12,言われてみるとそうだね。,听你这么一说确实呢。,translated,依恩,ed6d37604e,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#79#12,"機械とかジャンクパーツとかの修理は
+好きだけど、それでも直そうって思えたのが
+不思議なくらい。","虽说我平时很喜欢修理机械和废品零件，
+但当时居然会想着去修好它，
+连我自己都觉得不可思议。",translated,依恩,1e98abb148,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#80#12,"どうしてそう思ったのか、
+今はもう思い出せないけど……
+たぶん、分かってたんだと思う。","为什么当时会那么想，
+现在的我已经记不太清了……
+不过我想，冥冥之中我大概明白吧。",translated,依恩,f5427738df,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#81#12,"これを直せば何か新しいことが起きる、
+って……。","明白只要修好它，
+就一定会迎来某种全新的转机……",translated,依恩,22b5a01d33,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#83#12,"あの……ね。
+今日伝えたかったことはあなたへの
+お礼とかだけじゃなくて……ね。","那个……呢。
+今天我想要传达给你的，
+并不仅仅是对你的感谢而已……",translated,依恩,93f4f34f7f,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#84#12,本当に、もっともっと、大切なことで……。,而是真正、更加更加重要的事情……,translated,依恩,da74165cc8,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#86#12,言い難いことなら……,要是难以启齿的话……,translated,,db1494bf25,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#87#12,じっと待つ,静静等待,translated,,7483bfb27a,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#89#12,"大丈夫……。
+ちゃんと伝えるよ。わたしの口から……。","没事的……
+我会亲口……好好传达给你的。",translated,依恩,8a6ecd903b,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#95#12,……すき。,……我喜欢你。,translated,依恩,2523979eab,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#98#12,あなたのことが好きです……。,我喜欢上了你……,translated,依恩,cf515763dd,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#99#12,"違う世界の人だとか、
+触れることもできないとか、
+そんなこと関係ない！","就算我们身处不同的世界，
+就算彼此无法触碰，
+这些全都没关系！",translated,依恩,f0bae7ad18,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#100#12,わたしは……あなたのことが大好きです！,我……真的好喜欢好喜欢你！,translated,依恩,d03ab288d4,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#102#12,仮に恋人同士になっても……,就算我们成了恋人……,translated,,d8878b0f81,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#104#12,"わかってる、わかってるよ……。
+もし受け入れてもらえたとしても、
+形だけの関係だって……。","我知道，这些我都知道……
+就算你愿意接受我，
+也只是一种形式上的关系而已……",translated,依恩,c850f3ff66,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#105#12,"わたしたちは触れることも、
+本当の意味で言葉を交わすこともできない。","我们既无法相互触碰，
+也无法在真正意义上促膝长谈。",translated,依恩,7245b920b6,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#106#12,"でも！　それでも！
+この気持ちは変わらないから！","但是！即使如此！
+这份心意也绝不会改变！",translated,依恩,da2beca5e9,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#107#12,あなたと、ずっと一緒にいたいの。,我想永远、一直和你在一起。,translated,依恩,7d9ab7451a,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#110#12,好きだよ,我也喜欢你,translated,,771d41e403,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#111#12,イオンがそれでいいなら……,只要依恩不介意的话……,translated,,b355b08ef9,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#112#12,ごめん……,对不起……,translated,,bcf3cfae7a,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#119#12,ほ、ほんとに？,真、真的吗？,translated,依恩,274a19dfc9,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#120#12,"わたし、あなたと離れたくなくて、
+あなたのこと縛ろうとしてるだけかも
+しれないよ？","我也许只是因为不想和你分开，
+才想要借此把你
+给束缚住也说不定哦？",translated,依恩,9a92de8811,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#121#12,"今までより、ずっとずっと甘えちゃう
+かもしれないよ？","今后我可能会变得比以往
+更加更加喜欢向你撒娇也说不定哦？",translated,依恩,d9132c393c,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#122#12,それでもいい,哪怕那样也无所谓,translated,,472dfeb2b1,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#124#12,"ぅ……うぅ……あり、がと……。
+ありがと……っ！","呜……呜呜……谢、谢你……
+谢谢你……！",translated,依恩,5135d46350,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#125#12,"こんなこと言っちゃったら、
+あなたが離れていっちゃうんじゃないかって、
+ずっと不安で……。","我一直都好害怕，
+要是自己把这种话说出口，
+你就会离我而去……",translated,依恩,8a13b03397,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#126#12,"いつも通りにしてても、ずっと怖くて……。
+でも……伝えたくて伝えたくて……っ。","就算表面上装作若无其事，心里也一直很害怕……
+可是……我无论如何都想传达给你……！",translated,依恩,62ee977d73,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#128#12,う、うわああああぁぁぁぁぁん！,呜、呜哇哇哇哇啊啊啊啊啊！,translated,依恩,a5aec6e5df,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#132#12,"<CLY2>告白を断ると、しばらくの間イオンと
+恋人関係になることができなくなります。","<CLY2>若拒绝告白，将在一段时期内
+无法与依恩结成恋人关系。",translated,系统文本,3eb14d0aa8,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02m.txt#133#12,<CLY2>本当によろしいですか？,<CLY2>已经持有了,translated,系统文本,61132de582,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/lovers_02m.txt#135#12,はい,是,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#136#12,いいえ,否,translated,,f901585367,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#141#12,"あっ……。
+そう……だよね。","啊……
+这……样啊。",translated,依恩,bf8f4936da,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#142#12,"端末越しでしかお話できないのに、
+恋人になんて、おかしいもんね……。","明明只能隔着终端说话，
+却想要成为恋人什么的，确实很奇怪呢……",translated,依恩,52fd9e3e52,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#143#12,"急にこんなお話しちゃってごめんね。
+ビックリしたよね。","突然跟你说这种话对不起哦。
+吓了你一跳吧。",translated,依恩,b6bc958514,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#144#12,"わたしは……平気。
+これまでと一緒が続くってだけだもん……。","我……没事的。
+只是继续保持原样而已嘛……",translated,依恩,3dfc9a271c,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#145#12,"……でも、ごめんね。
+少しだけでいいから、時間を……頂戴……。","……不过，对不起。
+能不能稍微借我……一点时间……",translated,依恩,ef00ce4992,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#147#12,"うぅ……ぅ……ぅぅ……
+　　ぐすっ……ぅ……","呜……呜……呜呜……
+　　抽泣……呜……",translated,依恩,46c65e974d,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#153#12,"待たせちゃってごめんね。
+わたしはもう大丈夫。","让你久等了，对不起哦。
+我已经没事了。",translated,依恩,9dc7ed7d25,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#154#12,"恋人同士になれなくたって、
+これまでと同じようにこれからも
+あなたが一緒にいてくれるって信じてるから。","就算成不了恋人，
+我也依然坚信，今后你也会
+像以往那样一直陪伴在我的身边。",translated,依恩,0c5306a3d8,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_02m.txt#155#12,もちろん,当然了,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#156#12,イオン次第かな,这取决于依恩的表现吧,translated,,dd40cc0859,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#158#12,"えへへ、ありがと。
+約束だよ。","嘿嘿，谢谢你。
+说好了哦。",translated,依恩,93442598b8,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#161#12,"あっ！
+またそうやっていじわる言うんだから。","啊！
+你又这样故意说坏心眼的话。",translated,依恩,194c302214,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#162#12,"これまでずっと一緒にいてくれたのに、
+そんなこと言ってもいまいち説得力ないよ。","明明一直以来都陪在我身边，
+现在说这种话可一点说服力都没有哦。",translated,依恩,2af1515f82,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#163#12,"わたしは信じてるよ、あなたのこと……。
+これからも一緒にいてくれるって。","我相信你哦……
+相信你今后也会一直陪着我。",translated,依恩,823482ba2d,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#166#12,"…………えっと、ごめんね。
+急に泣いちゃってびっくりしたよね。","…………那个，对不起哦。
+突然哭出来吓到你了吧。",translated,依恩,ce6b55d20b,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_02m.txt#167#12,なんか安心したら止まらなくなっちゃった。,一松了口气之后眼泪就停不下来了。,translated,依恩,ebc7fe76db,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_02m.txt#168#12,"えっとそれじゃあ、もう……戻るね。
+……これからも、ずっと一緒だよ。","呃那么，我也差不多该……回去了。
+……今后我们也要一直在一起哦。",translated,依恩,184ffe60cb,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03.txt#5#12,あっ、ちょっと待ってね。,啊，稍微等我一下哦。,translated,依恩,b98591569f,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03.txt#7#12,えへへ、おまたせ。,嘿嘿，久等啦。,translated,依恩,a68677c76c,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03.txt#12#12,ねぇ、今いるかな？,呐，你现在在吗？,translated,依恩,ab9356eb71,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03.txt#15#12,う～ん、出かけてるのかな？,唔～出门了吗？,translated,依恩,e90f6b8692,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03.txt#18#12,"いないんじゃ、しょうがないよね。
+またあとで声かけようっと。","不在的话也没办法呢。
+等会儿再来打招呼吧。",translated,依恩,a234517516,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#2#12,あっ、いたいた。,啊，在呢在呢。,translated,依恩,1a2de8757f,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#4#12,"なんか、改まって話そうとすると、
+ちょっと変な感じだね。","总觉得，一本正经地说话时，
+感觉怪怪的呢。",translated,依恩,533cd29ea9,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#5#12,"お話してることとか、
+やってることは今までと変わらないのに、
+今までと違うような……。","聊的内容也好，
+做的事也好，明明和以往没什么区别，
+却总觉得和以往有些不同……",translated,依恩,93b716860a,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_03m.txt#6#12,実際に違うしね,实际上确实不一样嘛,translated,,1d711c61a9,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#8#12,"あはは、そうだね。
+わたしたち恋人同士……でいいんだよね。","啊哈哈，说得也是呢。
+我们已经是恋人……了吧。",translated,依恩,16cc555ad6,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#9#12,"他の人達と比べたら変な関係かもしれない
+けど、こうして気持ちが通じ合えれば、
+今は十分だよ。","比起其他人，我们的关系也许有些奇怪，
+但只要能像这样彼此心意相通，
+现在就已经足够了。",translated,依恩,a2056b5eac,br=0 nl=2,3,
+inc/event/res/relationevent/lovers_03m.txt#10#12,"でもいつか……もし、本当のあなたに
+会うことができたら……。","不过要是有一天……
+能与真实的你相遇的话……",translated,依恩,c88bd4a57e,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#11#12,そのときはもう一度告白したい。,到时候我一定要再向你告白一次。,translated,依恩,ec30165bed,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#12#12,"そしたら今度こそ本当の意味で
+恋人同士になれるよね。","那样一来，这次我们就能在真正意义上
+成为恋人了呢。",translated,依恩,a00afa453c,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#13#12,先のことはまだ分からないけど……,未来的事现在还说不准……,translated,,48351260a0,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#14#12,早く会いたい,好想快点见到你,translated,,7fd18f2727,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#16#12,"そうだね……。
+でも、そのための努力は出来ると思う。","说得也是呢……
+但我相信，我们能为此付出努力。",translated,依恩,55eea608af,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#19#12,うん、わたしも……会いたい。,嗯，我也……好想见你。,translated,依恩,5f5c24cdef,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#20#12,"それがいつになるかなんて分かんないけど、
+そのための努力は出来ると思う。","虽然不知道那会是何年何月，
+但我相信，我们能为此付出努力。",translated,依恩,816b6cfd03,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#22#12,"だからわたし頑張るよ。
+いつかあなたと会えるように……。","所以我一定会努力的。
+为了有朝一日能与你相见……",translated,依恩,3ac8114227,br=0 nl=1,2,
+inc/event/res/relationevent/lovers_03m.txt#23#12,そのときまで一緒にいる,在那之前我会一直陪着你,translated,,f142035f89,br=0 nl=0,1,
+inc/event/res/relationevent/lovers_03m.txt#25#12,"うん、ありがと。
+大好き……だよ。","嗯，谢谢你。
+我好喜欢……你哦。",translated,依恩,1bc23f5ec7,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01.txt#4#12,お～い、生きとるか～？,喂～还活着吗～？,translated,妮莉库,c72ef91a09,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01.txt#8#12,……ふむ。死んでおるかもしれんのぅ。,……唔。说不定已经死透了呢。,translated,妮莉库,adce3e553f,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01.txt#10#12,おーーーい。,喂―――。,translated,妮莉库,240e8e829b,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01.txt#14#12,……少し５軸をズラしてみるかの。,……稍微调整一下第５轴试试看吧。,translated,妮莉库,9a4c8e9a57,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#2#12,"<CLBU>おっ、ちゃんとおったな。
+どうじゃ、元気にしておったかの？","<CLBU>噢，你果然在啊。
+怎么样，最近过得挺精神的吧？",translated,妮莉库,cee5c6f9d4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/relationevent/marriage_01_main.txt#3#12,今日はどうしたの？,今天找我有何贵干？,translated,,204051a1e3,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#5#12,"むふふ、どうしたの？　ではないじゃろ。
+お前さんととうだいもりの仲がますます
+進んでおると聞いての。","哼哼，什么叫有何贵干啊。
+老身听说你和灯塔守的交情
+越来越深厚了呢。",translated,妮莉库,a6dee51f6f,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#6#12,"我の店に来ては、お前さんがお前さんがと
+ノロケ話一色じゃよ。","那丫头每次来老身的店里，张口闭口就是你，
+满嘴都是秀恩爱呢。",translated,妮莉库,cb4b02f351,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#7#12,"しかもペアリングと称して、
+ウエディングリングなんぞ
+作ったそうではないか。","而且听说还美其名曰情侣对戒，
+做了什么结婚戒指
+不是吗。",translated,妮莉库,2237e6c499,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#8#12,"これはあれじゃな、もういっそプロポーズして
+結婚してしまってはどうじゃ？","这可真是不得了啊，干脆直接求婚
+跟她结婚怎么样？",translated,妮莉库,7412db2922,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#9#12,"とうだいもりも満更ではなさそうじゃし、
+あとはお前さんの意思次第といった感じでは
+ないかの？","看来灯塔守也并不排斥，
+剩下的就全看
+你的意思了吧？",translated,妮莉库,123ab77491,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#11#12,それはさすがに……,那未免也太……,translated,,aed8e52ffd,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#13#12,"なんじゃお前さん、黙り込むということは
+意外ともう考えておったりしたのか？","怎么了你这家伙，突然默不作声，
+难道你其实早就考虑过这件事了？",translated,妮莉库,5a2eef922c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#14#12,"我から言い出してなんじゃが、
+けして楽な道ではないぞ？","虽说是老身主动提起的，
+但这可绝不是一条轻松的道路哦？",translated,妮莉库,8f2a5dda11,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#17#12,"なんじゃ、お前さんのとうだいもりへの
+想いはその程度か？","怎么，你对灯塔守的
+心意难道就只有这种程度吗？",translated,妮莉库,ed8758f7db,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#18#12,"まぁ気持ちは分からんでもない。
+実際、気楽に言えるほど楽な道ではない
+からの。","嘛，你的心情老身也不是不能理解。
+毕竟实际上，这绝不是能随随便便
+轻松应付的道路。",translated,妮莉库,36dd2bc93f,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#20#12,"仮にもお前さんたちは、恋人同士という
+間柄になっておるが、それも所詮、
+この端末を通しての関係でしかない。","姑且不论你们已经结成了恋人关系，
+但说到底，那也只不过是
+隔着这台终端的关系而已。",translated,妮莉库,2bed5f9f28,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#21#12,"おっと、勘違いするでないぞ。お前さんらの
+想いを否定しておるわけではない。","哎呀，可别误会了哦。老身并不是
+在否定你们之间的心意。",translated,妮莉库,21b686b3da,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#22#12,"それだけ、現状のお前さんらの関係ですら
+奇跡に近いと言ってるんじゃ。","老身只是说，光是你们如今维持的关系，
+就已经接近于奇迹了。",translated,妮莉库,1b9cdb8be2,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#23#12,"互いに触れ合えぬお前さんらにとって、
+恋人・夫婦という関係は、
+まさに想いの繋がりを示す指標じゃ。","对于无法互相触碰的你们而言，
+恋人与夫妻这层关系，
+正是衡量你们心意相连的标尺。",translated,妮莉库,e3ec6954f0,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#24#12,"形を伴わない分だけ、普通の恋愛と比べて
+ずっと強い結びつきが必要になるじゃろ？","正因为没有实质的形态，比起普通的恋爱，
+才需要更加强烈的情感羁绊不是吗？",translated,妮莉库,8d335963f7,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#25#12,"さっきはその……ついいつものノリで
+言ってしまってすまないの。","刚才老身那是……不小心顺着平时的玩笑话
+脱口而出了，抱歉哈。",translated,妮莉库,ecbefdd209,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#26#12,"初めからお前さんの意思がどうかとは
+問わんし、無理強いをするつもりも
+我にはない。","老身从一开始
+就没打算追问你的想法，
+老身也没有要强迫你的意思。",translated,妮莉库,61459423ac,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#27#12,"もちろん、お前さんととうだいもりの関係が
+進展することに越したことはないんじゃが――","当然，如果能看到你和灯塔守的关系
+更进一步，那自然是再好不过了――",translated,妮莉库,e1a9a5e8dd,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#28#12,"しかしやはり、こういうのはお互いの気持ちが
+大切じゃからの……。","但归根结底，这种事情上彼此的心意
+才是最重要的嘛……",translated,妮莉库,007e406b59,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#29#12,意外と乙女？,没想到你还挺有少女心的？,translated,,ccaed2deb6,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#30#12,ちゃんと考えるよ,我会认真考虑的,translated,,b920097839,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#32#12,"意外ととはなんじゃ！？
+どこから見ても心清き乙女じゃろうが！","什么叫没想到啊！？
+老身横看竖看可都是心思纯洁的纯情少女好吗！",translated,妮莉库,36a790f0c7,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#33#12,"やれやれ、人が珍しく真面目に話してやれば
+これじゃ……。","哎呀呀，难得老身认真跟你促膝长谈一次，
+你居然是这种反应……",translated,妮莉库,aef4a87a4c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#34#12,"なんにしても、ここから先を決めるのは
+お前さん自身の決断じゃ。","不管怎么说，接下来的路该怎么走，
+取决于你自己的决断。",translated,妮莉库,1bad62e8a2,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#35#12,"進むべきか進まざるべきか、
+しっかりと考えることじゃな。","是该向前迈进还是停留在原地，
+你可要深思熟虑一番才是。",translated,妮莉库,ffab67f141,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#38#12,"うむ、それで良い。
+お前さんにとって重要な決断じゃ。","嗯，这样便好。
+这可是关系到你人生的重大决断。",translated,妮莉库,b398a274fb,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#39#12,"じっくりと考え、後悔することのないよう
+気をつけることじゃな。","一定要深思熟虑，
+千万别让自己留下后悔啊。",translated,妮莉库,0dc5fb4ca8,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#41#12,そのときは聖職者役、お願いします,到时候就拜托你担任主婚神职了,translated,,e671b55f9b,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_01_main.txt#43#12,"むっふっふ、そうじゃな。
+幸か不幸か、お前さんらを祝福できるのは
+我だけじゃからな。","哼哼哼，也是呢。
+不知该说是幸还是不幸，
+能为你们送上祝福的也就只有老身一人了嘛。",translated,妮莉库,46cc3f5783,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#44#12,"それがいつになるかは分からぬが、
+精々楽しみにしておくとするかの。","虽说不知那会是何年何月，
+老身就姑且拭目以待好啦。",translated,妮莉库,d7aa42235d,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#45#12,"さて、ちょっとからかうつもりが、
+つい長話になってしまったのじゃ。","好啦，本想捉弄你几句的，
+结果不知不觉聊了这么久。",translated,妮莉库,479f530bfc,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_01_main.txt#46#12,"今後もお前さんととうだいもりが良き関係で
+あることを、我も祈っておるよ。
+それではの。","老身也会祈祷，希望今后
+你和灯塔守能一直保持融洽的关系。
+那么，回见啦。",translated,妮莉库,d131d56694,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_01_main.txt#49#12,<CLY2>『プロポーズ』が解禁されました。,<CLY2>‘求婚’已解禁。,translated,系统文本,4585fe8cad,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_01_main.txt#50#12,"<CLY2>『想いを伝える』→『イオンを呼ぶ』から
+『プロポーズ』を選択することで、
+イオンにプロポーズをすることができます。","<CLY2>从‘传达心意’→‘呼唤依恩’中
+选择‘求婚’，
+便可以向依恩求婚。",translated,系统文本,8cbb5eaac2,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/relationevent/marriage_02.txt#12#12,…むにゃ……。,…唔唔……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#16#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_02.txt#17#12,"<CLY2>プロポーズをするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行求婚，依恩必须
+身处室内。",translated,系统文本,d17aa9c591,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/relationevent/marriage_02.txt#21#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_02.txt#22#12,"<CLY2>プロポーズをするためにはイオンが室内にいる
+必要があります。","<CLY2>想要求婚
+需要配方",translated,系统文本,d17aa9c591,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/relationevent/marriage_02.txt#26#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_02.txt#27#12,"<CLY2>プロポーズをするためにはイオンが室内にいる
+必要があります。","<CLY2>想要求婚
+需要配方",translated,系统文本,d17aa9c591,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/relationevent/marriage_02.txt#32#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#34#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#36#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#41#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_02.txt#46#12,"<CLY2>現在、プロポーズはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行求婚。
+请等待依恩切换行动状态。",translated,系统文本,26b50294a3,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/relationevent/marriage_02.txt#52#12,ん？　どうしたの？,嗯？怎么了吗？,translated,依恩,00ed12c9b8,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#53#12,今から教会に行かない？,现在要不要去一趟教会？,translated,,638da59a55,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#55#12,"教会？
+別にいいけど……なんだかあなたの様子が
+いつもと違う気がするのは気のせい？","教会？
+去倒是没问题啦……但总觉得你
+和平时有点不太一样，是我的错觉吗？",translated,依恩,f805563ad6,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#56#12,少し話したいことがあるんだ,我有点话想对你说,translated,,1d25d971ab,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#57#12,気のせい……だよ,是错觉……啦,translated,,4cb32dc2ad,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#59#12,"お話したいこと？
+それならここでも――","想对我说的话？
+那在这里说不也――",translated,依恩,f6aefb5b37,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#62#12,"むぅ、怪しいなぁ。それに、お散歩とかなら
+教会よりももっと良い所が――","唔，好可疑哦。而且如果只是散步，
+明明还有比教会更好的地方――",translated,依恩,f8f66757ad,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#64#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#65#12,どうかした？,怎么了吗？,translated,,0ebe5ad765,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#67#12,ううん、なんでもない。,没、没什么啦。,translated,依恩,501a6ab22c,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#68#12,"教会に行くんだよね。
+遅くなっても困るし、すぐに行こっか。","是去教会对吧。
+去晚了可不好，我们马上出发吧。",translated,依恩,af84edcb00,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#81#12,それじゃあ、いつも通りお願いします。,那么，就照平时那样拜托你啦。,translated,依恩,e642e6497f,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#98#12,"むっふっふ、待っておったぞ。
+二人とも。","哼哼哼，老身等你们好久啦。
+二位。",translated,妮莉库,b4bed62dfd,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#99#12,"え、えぇ！？　ねりこさん！
+どうしてここに！？","诶、诶诶！？妮莉库！
+你怎么会在这里！？",translated,依恩,cdb0876fb3,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#100#12,"どうしても何も、我はそこの端末に呼ばれて
+ここに来たんじゃよ。","什么怎么会，老身是被你旁边那台终端
+叫到这里来的呀。",translated,妮莉库,469894bd17,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#101#12,"そ、そうなんだ……。でもねりこさん、
+せめてもう少し心臓に優しい登場の仕方を
+してくれると嬉しいです……。","是、是这样啊……不过妮莉库，
+你登场的时候要是能稍微
+顾及一下我的小心脏，我会更开心的……",translated,依恩,b9132de00f,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#102#12,"いやぁ、すまんのぅ。
+とうだいもりの驚く顔がついつい面白くての。","哎呀，抱歉啦。
+谁让灯塔守被吓到的表情实在太有趣了嘛。",translated,妮莉库,df8bb2c18f,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#103#12,"っとまぁ、そんなことはおいといて……。
+お前さん、やっと決心したようじゃな。","好啦，闲话暂且搁在一边……
+看来你这家伙，终于下定决心了啊。",translated,妮莉库,2ef9a93214,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#104#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#105#12,"ん？
+なんじゃ、ここまで連れて来ておいて
+何も話しておらんのか？","嗯？
+怎么搞的，都把人带到这里来了，
+居然还什么都没交代吗？",translated,妮莉库,c14b05e876,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#106#12,えっと……それってもしかして……。,那个……这该不会是……,translated,依恩,544db4f5ee,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#107#12,"ほれ、とうだいもりも待ちわびておるぞ。
+しっかりせい。","瞧啊，灯塔守也已经迫不及待了哦。
+争气点。",translated,妮莉库,09c12ae59a,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#113#12,イオン……,依恩……,translated,,2f09ada818,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#115#12,は、はい！,是、在！,translated,依恩,958dbedc9e,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#117#12,結婚しよう,我们结婚吧,translated,,4bce4b33c3,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#119#12,"え、あ、あの、それって……。
+本当に、良いの？","诶，那、那个，你的意思是……
+真的，可以吗？",translated,依恩,699c63c4d5,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#120#12,"わたし、こんなだよ？
+あなたとは触れ合うことも出来なくて、
+想いを通わせることしかできなくて……。","我可是这样的人哦？
+既无法与你肌肤相亲，
+也只能像这样彼此心意相通而已……",translated,依恩,7b5c35a7cc,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#121#12,"ずっと……ずっとあなたに頼ってばっかり
+なのに……。","而且我明明一直……
+一直都在依赖着你……",translated,依恩,2d53271b4d,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#123#12,ダメだったかな？,难道不行吗？,translated,,976d751bee,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#125#12,"ダメなんかじゃないよ。すごく嬉しい。
+わたしも、あなたとずっと一緒にいたい。","怎么可能会不行呢。我超级开心的。
+我也想永远一直和你在一起。",translated,依恩,cbef42d7c1,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#126#12,あなたと、もっと想いを通わせてみたい……。,想要和你的心，靠得更近更紧密……,translated,依恩,b22baf8d42,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#128#12,なら、もう一度言うよ,那么，我再说一次,translated,,b47fa3a8e2,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#132#12,イオン、結婚しよう,依恩，我们结婚吧,translated,,b0f57fee22,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#134#12,はいっ！！,好的！！,translated,依恩,08894667a0,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#142#12,"やれやれ、ようやく……
+といったところかのぅ。","哎呀呀，总算是有个着落了啊……
+可喜可贺。",translated,妮莉库,159c07b239,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#143#12,"あの……それでねりこさんが
+ここに呼ばれた理由って……","那个……所以妮莉库
+被叫到这里来的理由是……",translated,依恩,c9b97587ba,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#144#12,"なに、ちょいと結婚式の聖職者役を
+頼まれておったのでな。","没什么，只是受托来客串一下
+婚礼的主婚神职而已嘛。",translated,妮莉库,e7d49b2d9a,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#145#12,"お前さんらが、ここに来ると知って
+飛んで来たんじゃよ。","得知你们要来这里，
+老身就急匆匆飞奔过来啦。",translated,妮莉库,8c45e46ed0,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#146#12,"聖職者役？　え？
+それってもしかして……。","神职人员？诶？
+难道说……",translated,依恩,64c8334d62,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#147#12,"うむ、これから早速、
+お前さんらの結婚式じゃ！","嗯，从现在起，马上就是
+你们两人的结婚典礼啦！",translated,妮莉库,2fd11f0c72,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#148#12,"お前さんもそのつもりで、
+とうだいもりをここへ連れてきたんじゃろ？","你也是怀着这个打算，
+才把灯塔守带到这里来的吧？",translated,妮莉库,2ee7f7607a,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#150#12,今すぐ結婚式を挙げたい,我想立刻举行结婚典礼,translated,,b4d9bab20c,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#151#12,そのつもりはなかった,我原本没这个打算,translated,,f07a78ff2f,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#153#12,"むっふっふ、やはりそうじゃろ。
+この機会を逃す手はないからの。","哼哼哼，果然如此吧。
+毕竟绝没有错失良机的道理嘛。",translated,妮莉库,c4bb06c54b,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#157#12,"ほれほれ、とうだいもり、
+さっさと着替えるぞぃ。","好啦好啦，灯塔守，
+赶紧换衣服去吧。",translated,妮莉库,ed21f3ce05,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#164#12,"な、なんじゃと！？
+この機会を見す見す逃すというのか！？","什、什么！？
+你居然要白白放过这大好机会吗！？",translated,妮莉库,0cb5b8770a,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#165#12,"ならば仕方ない、強攻策じゃ！
+この際、お前さんらの意思なんぞしらん！","既然如此那可由不得你们，老身要采取强攻策了！
+事到如今，老身可不管你们的想法了！",translated,妮莉库,3ed47a8291,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#173#12,"え、ねりこさん！？
+ちょっと待ってください！","诶，妮莉库！？
+请等一下啦！",translated,依恩,3b3a0a5153,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#174#12,"えぇい、抵抗するでない！
+さっさと脱がんか！","哎呀，别反抗！
+还不快给老身脱了！",translated,妮莉库,d1ef4f83ba,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#175#12,"わ、分かりましたから！
+自分で脱ぎますから……ッ！
+って、どこに手を入れてるんですか！！","我、我知道了啦！
+我自己会脱的……！
+等等，你的手往哪里摸呢！！",translated,依恩,5ef4211f87,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#176#12,むふふ、良いではないか良いではないか。,哼哼，有什么关系嘛有什么关系嘛。,translated,妮莉库,49700c5f21,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#177#12,全然良くないですよ～～～！！！,一点关系都没有才怪啦～～～！！！,translated,依恩,38df5821bd,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#194#12,うぅ、嫁入り前なのに……。,呜呜，明明还没过门呢……,translated,依恩,9ed3f46c32,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#195#12,"さすがの我にもウエディングドレスは
+用意できなかったが、とうだいもりには
+これがピッタリじゃな。","虽说哪怕是老身也准备不来婚纱，
+但对灯塔守而言，
+这一身可是正合适呢。",translated,妮莉库,54f4241ed0,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#196#12,"これって、わたしが始まりの儀のときに
+着てた……。","这件不是我在起始之仪上
+穿过的那套……",translated,依恩,560695b954,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#197#12,"うむ、皇女や皇帝が重要な儀式の際に着る
+由緒正しい装束じゃ。","嗯，这可是皇女与皇帝在重要仪式上穿戴的
+极具渊源的正统法服哦。",translated,妮莉库,20f23e9142,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#199#12,どうしてねりこさんがそんなものを……,为什么妮莉库会有这种东西……,translated,,a5fec62db4,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#201#12,"なに、詳しいことは秘密じゃが、
+今日という日のためにちょちょいとな。","没什么，详情保密，
+不过为了今天这一刻，老身稍微动了点手脚。",translated,妮莉库,b5149f3e5c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#202#12,"それに、お前さんらにとって重要なのは
+そこではないじゃろ？","而且，对你们而言最重要的
+并不是那件事吧？",translated,妮莉库,159d5184ac,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#203#12,"そうですね……。
+ねりこさん、お願いします。","说得也是呢……
+妮莉库，就拜托你了。",translated,依恩,32f041b115,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#204#12,"うむ。しかし我も本職ではないからの。
+適当にアレンジさせてもらうぞ。","嗯。不过老身终究不是专业神职，
+就随便改编一下啦。",translated,妮莉库,6f1a5aef53,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#215#12,イオナサル・ククルル・プリシェール。,依欧娜萨鲁・库库鲁鲁・普立薛尔。,translated,妮莉库,282d1d5d54,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#216#12,はい。,是。,translated,依恩,8b9236cd4b,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#217#12,"汝、彼の者を夫とし、７つの次元を超え、
+いかなる時も共に歩み、セカイが二人を分かつ
+まで、愛を誓い、共に歩むことを誓うか？","汝，是否愿以此人为夫，跨越７个次元，
+无论何时皆携手同行，直至世界将二人分离，
+起誓彼此相爱，并肩同行？",translated,妮莉库,557d264270,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#218#12,はい、誓います。,是的，我愿意起誓。,translated,依恩,8e6efd541a,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#222#12,７つの次元の先に生きる者。,身处７个次元彼方的生灵啊。,translated,妮莉库,c5345f3552,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#223#12,"汝、イオナサル・ククルル・プリシェールを
+妻とし、７つの次元を超え――","汝，是否愿以依欧娜萨鲁・库库鲁鲁・普立薛尔
+为妻，跨越７个次元――",translated,妮莉库,8439af0205,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#224#12,"いかなる時も共に歩み、セカイが二人を分かつ
+まで、愛を誓い、共に歩むことを誓うか？","无论何时皆携手同行，直至世界将二人分离，
+起誓彼此相爱，并肩同行？",translated,妮莉库,d6d9fd036b,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#226#12,誓います,我愿意起誓,translated,,03c2b0830c,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#228#12,"よろしい。
+指輪の交換はできないが……
+イオナサル・ククルル・プリシェール。","甚善。
+虽无法交换戒指……
+但依欧娜萨鲁・库库鲁鲁・普立薛尔。",translated,妮莉库,9179c74b1d,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#234#12,"はい。わたしはこの指輪をあなたとの絆とし、
+肌身離さず、共にあり続けます。","是的。我将以此戒作为与你的羁绊，
+片刻不离身，与你永远相伴相守。",translated,依恩,f61386cf4d,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#236#12,"うむ。
+では、誓いの口づけを……。","嗯。
+那么，请献上誓约之吻……",translated,妮莉库,9465e5f88c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#253#12,えへへ、あなたの想い、伝わってきたよ。,嘿嘿，你的心意，我已经感受到了哦。,translated,依恩,d10e2e0ada,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#255#12,"よろしい。
+母なる星ラシェーラに代わり、
+ここに汝らの婚姻を認める。","甚善。
+老身谨代母星拉榭拉，
+于此认可汝等的婚姻。",translated,妮莉库,7e3874b9dc,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#262#12,"ふぅ、これで良いかの。
+慣れない口調は肩がこっていかん。","呼，这样就差不多了吧。
+用不习惯的腔调说话累得肩膀都酸了。",translated,妮莉库,8bdb2bf4d0,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#263#12,"ねりこさん、ありがとうございます。
+わたし、今すごく幸せです。","妮莉库，真的非常感谢你。
+现在的我，感到无比幸福。",translated,依恩,820b89956c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#264#12,"むっふっふ、それは何よりじゃ。
+これからもここで末永く幸せであることを
+祈っておるよ。","哼哼哼，那便比什么都好。
+老身祝愿你们今后也能在这里，
+永远幸福美满。",translated,妮莉库,c1fd7b441c,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#265#12,はい、ありがとうございます。,嗯，非常感谢你。,translated,依恩,bd0d4cd539,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#266#12,"さて、邪魔者は早々に去るとするかの。
+次にお前さんらと会えることを楽しみに
+しておるよ。","好啦，碍事的人也该及早退场了。
+老身拭目以待
+下一次与你们相见哦。",translated,妮莉库,b958f73ec4,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#275#12,"ねりこさん、行っちゃったね。
+……わたしたちも戻ろっか。","妮莉库回去了呢。
+……我们也回去吧。",translated,依恩,84304c373c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#277#12,"……なんか、不思議な感じ。
+夫婦になったんだよね、わたしたち。","……总觉得，有种不可思议的感觉。
+我们真的成为夫妻了呢。",translated,依恩,a21a550967,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#278#12,"さっきまでの結婚式が夢みたいで、
+なんだか実感が湧かないよ。","刚才的婚礼宛如梦境一般，
+总觉得还没有实感呢。",translated,依恩,f3f152f3ed,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#285#12,<CLBU>え……え！　え！？,<CLBU>诶……诶！　诶！？,translated,依恩,91e2280f4f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/relationevent/marriage_02.txt#286#12,いま……キス……したの！？,刚刚……接吻……了吗！？,translated,依恩,4c5664821b,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#287#12,実感湧いた？,有实感了吗？,translated,,cc4023d959,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#289#12,そんな……突然されてもよく分からないよ。,怎么这样……这么突然人家根本反应不过来啦。,translated,依恩,f8e33f5d0e,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#290#12,だからね、その――,所以说呢，那个――,translated,依恩,5757302524,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#291#12,もう一回……して……。,再吻我……一次嘛……,translated,依恩,d6c541dc6f,br=0 nl=0,1,
+inc/event/res/relationevent/marriage_02.txt#298#12,"なんでだろう……。
+本当に触れ合ってるわけじゃないのに、
+すごく……温かい。","为什么会这样呢……
+明明并没有真正触碰到，
+却觉得……好温暖。",translated,依恩,b7d1a9964b,br=0 nl=2,3,
+inc/event/res/relationevent/marriage_02.txt#299#12,"あなたの想いが、今までよりもずっと
+心の中に伝わってきてるみたい……。","你的心意，仿佛比以往任何时候都更加
+真切地传达到了我的心底……",translated,依恩,e474ea017c,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02.txt#300#12,"ありがとう、これからもよろしくね。
+わたしの……旦那様。","谢谢你，今后也请多多关照哦。
+我的……夫君大人。",translated,依恩,4c45c3536b,br=0 nl=1,2,
+inc/event/res/relationevent/marriage_02_tch.txt#4#12,<CLBU>ん……。,<CLBU>嗯……。,translated,依恩,0871fdde40,<CLBU> br=0 nl=0,1,keep-tags <CLBU>

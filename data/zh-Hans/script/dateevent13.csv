@@ -1,0 +1,686 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent13/rinks01.txt#3#12,あっ、わたしが作ったエルリンクスだ！,啊，是我做的艾尔林克斯！,translated,依恩,0bca6d59f0,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#4#12,"えへへ、すごく良くできてると思わない？
+自信作なんだよ。","诶嘿嘿，不觉得做得很棒吗？
+这可是我的自信之作哦。",translated,依恩,78b35320e9,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#5#12,"ん～……でも、改めてみると少しだけ
+直したい箇所があるかも……。","嗯～……不过重新看一遍的话，
+感觉有些地方还是想稍微修改一下……",translated,依恩,4d81ade50c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#6#12,やっぱりもう少し修行が必要だね。,果然还是需要再多修行一下呢。,translated,依恩,ed69516a52,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#7#12,今からパーツ屋に行こう,现在就去零件店吧,translated,,d529883f89,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#8#12,そうだね,也是呢,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#10#12,"ほんと。
+またパーツ屋さんに行きたいなぁ……。","真的。
+好想再去零件店逛逛啊……",translated,依恩,a2eb546534,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#16#12,"ほんと！？　やったぁ！
+それじゃ、早速お願いしていい？
+ふふっ、楽しみ♪","真的吗！？太棒啦！
+那就赶紧拜托你带我去了哦？
+呵呵，好期待♪",translated,依恩,b724e49315,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#18#12,"とうちゃーく！
+さあ、話はいいから見てまわろうよ！","顺～利抵达！
+好啦，先别说话了，快到处逛逛吧！",translated,依恩,73b9f85595,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#20#12,ん～、ふふっふふ～ん♪,嗯～哼哼哼哼～♪,translated,依恩,ed1989692a,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#21#12,"えへへー、いいないいなぁ。
+こうやって沢山のパーツ屋さんが並ぶ通りを
+歩くのって、幸せな気持ちになれるよ。","诶嘿嘿～真好啊真好啊。
+走在这样排列着许多零件店的街上，
+心情就会变得超级幸福呢。",translated,依恩,7c72fd0992,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#22#12,"店に並んでる色んなパーツを見ながら、
+パーツ独特の機械臭を嗅げるんだもん。","既能看着店里摆着的各种零件，
+又能闻到零件独特的机械味道嘛。",translated,依恩,9b34fb51dc,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#23#12,"あ～あ、近所にこういう場所が
+あればいいのに……。","啊～啊，要是附近也有
+这样的地方就好了……",translated,依恩,def21dc966,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#24#12,"そしたらわたし、そこを散歩コースにして
+毎日行くんだけどなぁ。","那样的话，我一定会把它当散步路线，
+每天都跑去逛的。",translated,依恩,e8639d9f86,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#25#12,"あっ！
+あそこのお店に置いてあるテスター、
+すごく可愛いデザインしてる！","啊！
+那边店里摆着的测试仪，
+设计得好可爱啊！",translated,依恩,e9639971c2,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#26#12,"ピンク色で、しかもデコッてあるよ。
+あはは、女の子向けみたいだね。","是粉红色的，而且还贴满了装饰。
+哈哈，感觉是面向女孩子的呢。",translated,依恩,1746913773,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#27#12,"……でも、邪道だからわたしは絶対に
+買わないけど。","……不过那是邪道，
+我绝对不会买就是了。",translated,依恩,b5a1211449,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#28#12,"わたしはシンプルなのが好きなの。
+何かそっちの方が、匠、って感じがして
+テンションが上がるんだよね。","我比较喜欢简约的风格。
+总觉得那样更有工匠的感觉，
+让人格外有兴致呢。",translated,依恩,0580a582d9,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#29#12,"それに、わたしとしては無機質な
+デザインの方がかっこいいと思うし。","而且我个人觉得，
+冰冷机械感的设计才更帅气呢。",translated,依恩,f8f1ec9016,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#30#12,"あっ、向こうのお店に
+壊れたアンプが売ってる！","啊，对面的店里
+有卖坏掉的功放！",translated,依恩,c6636df3e8,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#31#12,"しかも超破格だよ！
+いいなぁ、買って分解して
+修理したいなぁ……。","而且价格超级便宜哦！
+真好啊，好想买回去拆开
+然后修好它啊……",translated,依恩,7109729e65,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#32#12,"わわっ、ゴツいキーボードまである！
+ああいうのって叩いた時の重さとか音が
+すごく心地良いんだよね！","哇哇，居然连厚重的键盘都有！
+那种东西敲击时的手感和声音，
+听起来真的超级舒服呢！",translated,依恩,2815ad3372,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#33#12,"ああもう、まるでここは天国だよ！
+わたし、このお店の間に小さなテントを
+張って暮らしたいよ！","啊真是的，这里简直就像天堂一样！
+我都想在这些店铺中间
+搭个小帐篷住下了啦！",translated,依恩,4d8dec605c,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#35#12,何だか楽しそうだね,感觉你很开心呢,translated,,3028e6670d,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#36#12,たまに来るから楽しいんじゃない？,是因为偶尔来一次才开心的吧？,translated,,80c700929b,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#38#12,でしょでしょ、そう思うよね！？,对吧对吧，你也这么觉得吧！？,translated,依恩,98d889c0e4,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#39#12,"朝は開店したパーツ屋さんの声や音で
+気持ちよく目を覚ませるしね。","早上能在零件店开门的动静中
+神清气爽地醒来呢。",translated,依恩,44ef553b4b,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#40#12,"それでお昼はパーツ屋さんを巡りながら、
+掘り出し物を沢山買うの。","然后白天一边逛零件店，
+一边淘好多便宜的好货。",translated,依恩,1db0aea8cb,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#41#12,"夜はパーツ屋さんが静かになった頃に、
+延々と機械弄りをしてそのまま寝落ち。","晚上等零件店安静下来之后，
+就一直摆弄机械，然后直接睡着。",translated,依恩,153ad44eba,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#42#12,"想像するだけでも幸せになれるよ。
+まさに夢の生活だね！","光是想象一下就觉得好幸福哦。
+简直就是梦想般的生活呢！",translated,依恩,1e7439700c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#43#12,"……でも、やっぱりテントじゃなくて
+一軒家の方がいいかなぁ？","……不过，比起帐篷，
+果然还是一栋独立的小房子更好吧？",translated,依恩,643ca312f2,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#46#12,"うっ……言われてみれば、
+確かにそんな感じがするかも……。","呜……被你这么一说，
+好像确实有点那种感觉呢……",translated,依恩,876d3072f0,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#47#12,"いくら楽しくて大好きとは言っても、
+やっぱり毎日だと飽きちゃうかも
+しれないよね？","就算再怎么开心、再怎么喜欢，
+要是每天都这样的话，
+说不定也是会腻的吧？",translated,依恩,1c4354cdd9,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#48#12,"それに掘り出し物を探しにいく楽しみや、
+買った物を家にワクワクしながら持って帰る
+楽しみも無くなっちゃうわけだし。","而且寻找宝物的乐趣，
+还有满怀期待地把买到的东西带回家的
+那种开心劲，也都会没有了呢。",translated,依恩,5704ceea59,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#49#12,"いいところに気づいてくれてありがと。
+もしパーツ屋街で住めるチャンスに
+出会っても、堪える自信がついたかな。","谢谢你提醒了我这么好的盲点。
+以后要是遇到能住在零件街的机会，
+我应该也有忍住的自信了吧。",translated,依恩,6fcf139a74,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#52#12,"あれ？
+あそこのお店にあるのって……。","哎呀？
+那边店里的那个是……",translated,依恩,6c0e635bb9,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#53#12,"う、うそっ！
+あれってＴｚ波の整流器だよ！","骗、骗人！
+那个是Tz波整流器啊！",translated,依恩,9068fbbb78,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#54#12,"うわぁ、しかもこんなに安く出てるなんて！
+掘り出し物とかそんなレベルじゃないよ！
+奇跡だよ！","哇啊，而且居然卖得这么便宜！
+这已经不是淘到宝的等级了！
+简直是奇迹啊！",translated,依恩,ead6ee5d4a,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#55#12,う～ん……欲しいなぁ。,嗯～……好想要啊。,translated,依恩,ada9ea7f51,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#57#12,エルリンクスも整流器だよね？,艾尔林克斯也是整流器对吧？,translated,,47ff0e3abe,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#58#12,落ち着いて、ここで買っても……,冷静点，就算在这里买了……,translated,,ceb7346956,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#60#12,っ！？,！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#61#12,"スゴイスゴイ！
+ちゃんとエルリンクスの効果を
+覚えてくれてたんだね！","好厉害好厉害！
+你居然好好记住了
+艾尔林克斯的功效呢！",translated,依恩,06b33782ad,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#62#12,"その通り、エルリンクスもＴｚ波の
+整流器だから、効果的にはこれと
+まったく同じだよ。","没错，艾尔林克斯也是Tz波
+整流器，所以在效果上
+和这个是完全一样的哦。",translated,依恩,5ef46967ec,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#63#12,けど、一つだけまったく違う点があるの。,但是，有一点是完全不一样的。,translated,依恩,d68e7267aa,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#64#12,"それはね、これがエルリンクスじゃない、
+ってことだよ！","那就是，这个并不是
+艾尔林克斯！",translated,依恩,0e92079318,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#67#12,落ち着いてなんかいられないよ！,怎么可能冷静得下来嘛！,translated,依恩,4039c7c483,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#68#12,"これ、多分一世代前のモノじゃないかな？
+あちこち傷や錆があるし、エルリンクスと
+比べると倍ぐらい大きいもん。","这个，大概是上一代的产品吧？
+到处都是划痕和锈迹，而且比起艾尔林克斯，
+体积差不多大了一倍嘛。",translated,依恩,29766c1a05,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#69#12,"動かした時の音も、きっと耳障りなほど
+大きいに違いないよ。","运转时的噪音，
+也绝对刺耳得不得了吧。",translated,依恩,3b7d45fa22,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#70#12,"……ほ、欲しいかも。
+ううん、かもじゃなくて、絶対に欲しい！","……好、好像很想要。
+不，不是好像，是绝对想要！",translated,依恩,79e7009465,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#71#12,"まあ、エルリンクスと効果は同じだから、
+わざわざこんなの買う必要が無い、って
+いうのはわかるよ。","虽说效果和艾尔林克斯一样，
+所以没必要特地买这种东西，
+这个道理我也懂啦。",translated,依恩,4e0e83628d,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#72#12,"でもね、これはエルリンクスじゃないの。
+効果が同じでも、全く別物なの！","但是呢，这个并不是艾尔林克斯。
+就算效果一样，也完全是不同的东西！",translated,依恩,69de31ff35,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#74#12,だからつまり、えっと……。,所以也就是说，呃……,translated,依恩,b93908a820,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#75#12,……ああもう、説明するの難しいよ！,……啊真是的，太难解释了啦！,translated,依恩,d32befbf79,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#76#12,"とにかく、これを買わずにはいられない、
+ってこと。
+納得してくれた？","总之，就是到了不得不买的地步了。
+就是这么回事。
+你明白了吗？",translated,依恩,756832db14,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#77#12,"えへへ、ベッドの横に置くのに
+丁度いい大きさだし……。","诶嘿嘿，放在床旁边
+大小也正合适……",translated,依恩,4c586d9ad6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#79#12,"って、そうだった。仮想世界で買っても
+現実には持って帰れないんだよね。","哎呀，我想起来了。就算在虚拟世界买了，
+也是没办法带回现实中去的呢。",translated,依恩,438f3e5a9b,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#80#12,"危なかったぁ……。
+ここでもし買っちゃったりしたら、
+現実に戻って後悔するところだったよ。","好险好险……
+要是刚才真买下来的话，
+回到现实可就要后悔莫及了呢。",translated,依恩,593b73af9a,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#81#12,"……まあ、買う気満々の状態だったのに、
+持って帰れないのに気づいた今の気分も
+結構キツいものがあるけどね。","……不过，刚才明明满脑子都想买，
+现在意识到带不回去之后的心情，
+其实也挺让人难受的就是了。",translated,依恩,dc0e23e5d9,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#82#12,……グスッ。,……抽泣。,translated,依恩,ae7b2b3b32,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#83#12,"な、泣いてないよ！
+ちょっと悔しいだけだもん！","才、才没有哭呢！
+只是觉得有点不甘心而已嘛！",translated,依恩,b12f6b9f45,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#84#12,……今日は、もう帰ろうか？,……今天，我们就先回去吧？,translated,依恩,18b81f82a9,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#86#12,はぁ……。,哈啊……,translated,依恩,1083486be2,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks01.txt#87#12,"パーツ屋に行った時に、すぐに夢中に
+なっちゃうのって、わたしの悪いクセ
+だよね。","一去零件店就立刻沉迷其中，
+这也是我的
+坏习惯呢。",translated,依恩,5ea1f2b48a,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#88#12,"せっかく楽しい気分だったのを、
+自分でぶち壊しにしちゃうんだもん。","难得那么开心的心情，
+都被我自己给搞砸了嘛。",translated,依恩,69bd25dfb4,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#89#12,"……今度行った時は、はしゃぎ過ぎて
+持って帰れないことを忘れないように
+気をつけるよ。","……下次再去的时候，
+我一定会注意别玩得太嗨
+以至于忘了带不回去这回事的。",translated,依恩,c882b2a435,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#90#12,"それじゃ、今日は付き合ってくれて
+ありがとね。","那么，今天谢谢你
+陪我出来哦。",translated,依恩,c7a45506dd,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks01.txt#93#14,"たとえ同じ機能でも
+欲しくなっちゃうもの
+ってあるよね？","就算功能完全一样，
+也总会有让人忍不住想买的东西
+对吧？",translated,,4cbedb770d,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks01.txt#94#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent13/rinks02.txt#3#12,"エルリンクスかぁ……。
+これを見ると、前にパーツ屋に行った時に
+見つけた整流器のことを思い出すよ。","艾尔林克斯啊……
+看到这个，就会让我想起之前去零件店时
+发现的那台整流器呢。",translated,依恩,6d72b521e6,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#4#12,あれ、本当に欲しかったんだけどなぁ……。,那个，当时真的很想要呢……,translated,依恩,273fb6f818,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#5#12,それじゃ、パーツ屋に行こうか？,那我们要去零件店吗？,translated,,5549eb13a3,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#6#12,残念だったね,真遗憾呢,translated,,511c7fcadc,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#8#12,"ほんと。
+またパーツ屋さんに行きたいなぁ……。","真的。
+好想再去零件店逛逛啊……",translated,依恩,a2eb546534,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#13#12,"ほんと！？
+本当に連れて行ってくれるの？
+ありがとう！","真的吗！？
+真的愿意带我去吗？
+太谢谢你了！",translated,依恩,496a367562,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#14#12,"わたし、ずっとあの時のリベンジを
+したくて仕方なかったの。","我一直心心念念着
+想把上次的遗憾给弥补回来呢。",translated,依恩,68b1e1246e,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#15#12,"お礼に、わたしがあみ出した
+パーツ屋巡りの美学を教えてあげるね。
+それじゃ、おねがいします♪","作为谢礼，我就把我总结出的
+逛零件店的美学传授给你吧。
+那么，就拜托你带路啦♪",translated,依恩,16354c9423,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#17#12,ふぅ……到着だね。,呼……到了呢。,translated,依恩,a2222df9d5,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#18#12,"それじゃ、そろそろ行こうか？
+あ、でも静かにね。","那么，我们差不多走吧？
+啊，不过动作要轻声一点哦。",translated,依恩,4cc83290d6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#21#12,"うん、よかった。
+みんなわたしに気づいてないみたい。","嗯，太好了。
+大家好像都没注意到我。",translated,依恩,00a84451e9,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#22#12,"この調子で静かに見て周ってれば、
+きっとわたしだってバレないよね。","照这个势头悄悄到处逛的话，
+肯定不会暴露是我吧。",translated,依恩,9dcefa62cf,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#23#12,"……覚えられてない可能性も
+十分考えられるけど。","……虽然也很有可能
+压根就没人记住我就是了。",translated,依恩,fbd853d119,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#24#12,"まあ、一応コソコソしておいた方が
+いいかな？","不过，姑且还是鬼鬼祟祟一点
+比较好吧？",translated,依恩,cc0b6bd7b9,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#26#12,そんなに覚えられたくないの？,就那么不想被人记住吗？,translated,,22c811fb53,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#27#12,恥ずかしがり屋だね,你还真容易害羞呢,translated,,da039294a5,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#29#12,"っ！？
+その言葉、待ってましたー！","！？
+我等的就是这句话～！",translated,依恩,5fac7cdf00,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#30#12,"いや、あのね、わたしだって顔を覚えられて
+常連になるのは嫌いじゃないよ。","不，那个呢，被认出长相
+成为熟客这种事，我也并不讨厌哦。",translated,依恩,f530865771,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#31#12,"むしろこういうパーツ屋の人に顔を
+覚えられるようになったら、
+すごく光栄だと思うくらいだよ！","不如说如果能被这种零件店的老板
+记住长相的话，
+我甚至会觉得非常光荣呢！",translated,依恩,66b78a083c,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#32#12,"でもね、ここのパーツ屋って少し怪しい、
+アンダーグラウンドっぽい雰囲気のある
+お店ばかりでしょ？","但是你看，这里的零件店到处都透着可疑，
+全都是很有地下黑市风格
+的店铺对吧？",translated,依恩,561935a2d3,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#33#12,"そういうお店では、なるべくコソコソした
+感じで買い物をした方が楽しいんだよ。","在这种店铺里，尽可能鬼鬼祟祟地
+去买东西才更有趣呢。",translated,依恩,8762e81b92,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#34#12,"何か、非合法なものを買いに来てる、って
+感じになれて楽しいんだもん！","会有一种像在买非法的危险物品的感觉，
+超好玩的嘛！",translated,依恩,33fa8faf5c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#35#12,"やっぱりこういうところに来た以上、
+雰囲気も楽しまないと勿体無いよね。","既然难得来到了这种地方，
+要是不好好体会一下氛围可就太浪费了呢。",translated,依恩,1477645d4c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#38#12,チッチッチ……わかってないなぁ。,啧啧啧……你真是不懂呢。,translated,依恩,5e54570f21,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#39#12,"ほら、このパーツ屋の並んでる場所を
+よーく見て、心で感じて。","来，好好看着这些零件店林立的地方，
+用内心去感受。",translated,依恩,02ea04f9c9,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#40#12,何となくだけど、怪しい感じがしない？,总觉得，隐隐有种可疑的气氛对吧？,translated,依恩,3f70faca30,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#41#12,"普通の人だったら絶対にこんなところに
+近寄ったりしないなぁ、っていう、独特の
+空気みたいなものに包まれてるでしょ？","被一种“普通人绝对不会
+靠近这种地方”的
+独特气氛所包围着对吧？",translated,依恩,2559d4441c,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#42#12,"こういうところを周る時はね、
+コッソリと顔を覚えられないような感じで
+周った方が楽しめるんだよ。","在逛这种地方的时候呀，
+偷偷摸摸、不让别人记住长相地
+四处闲逛才更有乐趣呢。",translated,依恩,6c613a86c0,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#43#12,"その方が、非合法パーツを買いに来てるって
+気分になれて、いつもよりテンション高く
+見て周れるしね。","那样会有一种自己是来买非法零件的
+奇妙感觉，逛起来也比平时
+更有兴致嘛。",translated,依恩,7102455eb4,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#44#12,"……まあ、テンション高くって言っても、
+心の中でだけどね。","……不过就算说兴致高涨，
+也只是在心里暗爽就是了。",translated,依恩,a5b8d2dc67,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#45#12,騒いだらコソコソじゃなくなっちゃうし。,毕竟要是吵吵闹闹的，就谈不上鬼鬼祟祟了嘛。,translated,依恩,2ac2311274,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#47#12,"……でも、実際に非合法な物が売ってる
+わけじゃないから、勘違いはしないでね。","……不过这里并不是真的在卖违法物品，
+你可不要误会哦。",translated,依恩,c625c54b00,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#48#12,"本当に純粋に雰囲気を楽しんでるだけ
+なんだから。","我真的纯粹只是在享受
+这种氛围而已啦。",translated,依恩,545b80366a,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#49#12,"ただ、ちょっと非合法的な値段に
+吊り上がった商品を目にすることは
+よくあるけど……。","只不过，偶尔确实能看到
+有些商品被炒到了
+近乎违法的离谱天价就是了……",translated,依恩,23fc4cb9ff,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#50#12,さっきからもう四つくらい見たもん。,刚才开始我就已经看到四五个了呢。,translated,依恩,934e2e651b,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#51#12,"定価の二十倍くらいの値段になってた
+物もあったよ。","甚至还有被炒到
+原价二十倍左右的东西呢。",translated,依恩,67954eea04,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#52#12,"そういう物の大半は生産終了した
+良品だから、プレミア価格になるのは
+仕方がないとは思うよ。","那种东西多半是停产的
+优质良品，所以会变成溢价珍品
+我觉得也是没办法的事啦。",translated,依恩,6328683172,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#53#12,"ただ、あの値段で誰が買うんだろう？
+ってところまで高いのも、なんだかね……。","只是贵到让人好奇到底谁会买的地步，
+总觉得还是有点难以接受呢……",translated,依恩,d8fa4182af,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#55#12,類似品で十分だよね？,用同类替代品就足够了吧？,translated,,86454ee5fd,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#56#12,定価の何倍も出してまで買いたくないよね,并不想花原价的翻倍去买呢,translated,,55647a0a66,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#58#12,大抵のモノはそうなんだよねぇ……。,大多数东西确实是这样呢……,translated,依恩,55f0c804da,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#59#12,"第一、生産終了した物よりはその後に
+作られた新機種の方が、
+性能が格段に上なのは当然だし。","话说回来，比起停产的老货，
+后来推出的新机型
+性能大幅提升也是理所当然的嘛。",translated,依恩,1b2f9c7b32,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#60#12,"正直な話、高いお金を払って性能の悪い物を
+買うようなもんだよ。","说实话，那简直就像是花大价钱
+去买性能落后的东西一样。",translated,依恩,227d7ef875,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#61#12,"まあ、コレクター魂がくすぐられる人じゃ
+ない限り、まず買わないよね。","要不是收藏欲被戳中的狂热粉丝，
+基本上是绝对不会买的吧。",translated,依恩,2c4f0706dc,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#62#12,……けどね、そうじゃない時もあるの。,……但是呢，偶尔也会有例外哦。,translated,依恩,7a39fd93d2,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#63#12,"こういう機械パーツの中には、
+生産終了品の方が新機種よりも
+性能のいい物があったりするんだよ。","在这种机械零件当中，
+有时停产老货的性能
+反而会比新机型更加优秀呢。",translated,依恩,2918b162b8,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#64#12,"新機種になって、余計な機能や装置が付いた
+とか、ただ純粋に悪くなってる、
+なんてこともあるからね。","因为换成新机型后，多了多余的功能装置，
+或者单纯在各方面偷工减料，
+也是会有这种情况的呢。",translated,依恩,85e2a1bfbe,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#65#12,"だから、一概に類似品で十分とは
+言えないの。","所以，也不能一概而论地说
+有替代品就足够了哦。",translated,依恩,74f2d24b56,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#66#12,"まあ、そこまで拘っても使ってるうちに
+段々慣れてきて気にならなくなる人が
+大半だと思うけどね。","不过就算那么讲究，随着平时慢慢使用，
+大多数人大概也都会渐渐习惯，
+变得不再介意了吧。",translated,依恩,ce00a80aee,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#69#12,……そうかな？,……是吗？,translated,依恩,4f7b35b841,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#70#12,"わたしは欲しいよ。
+正直、お金があれば定価の何十倍だとしても
+喜んで買っちゃうはずだよ。","我可是很想要的哦。
+老实说，只要有钱，哪怕是原价的好几十倍，
+我也绝对会满心欢喜地买下来的。",translated,依恩,ab7c27d1aa,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#71#12,"だって、もう手に入らないものなんだよ？
+レア物だよ！？
+プレミアだよ！","毕竟那可是再也买不到的绝版宝贝啊！
+是稀有孤品哦！？
+是收藏级溢价品啊！",translated,依恩,af1cf5a23d,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#72#12,"例え使い道が無かったとしても、
+コレクションとして家に置いておきたいと
+思わない？","就算买回去完全派不上用场，
+难道你就不想
+放在家里当收藏品吗？",translated,依恩,127b5a12b3,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#73#12,"古い機械はね、観賞用として部屋に
+置いておくだけでもいいんだよ。","老旧机械啊，哪怕只是作为观赏摆件
+放在房间里也是极好的哦。",translated,依恩,b3d6bdf7d6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#74#12,"機械好きにとっては、絵画やアンティークの
+置物と同じような価値のあるものだからね。","对喜欢机械的人来说，它的价值
+可完全不亚于名画或者古董摆件呢。",translated,依恩,9284ec98b6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#75#12,"見てるだけで心が穏やかになるもん。
+はぁ……お金があればなぁ……。","光是看着它，心情就会平静下来嘛。
+哈啊……要是有钱就好了啊……",translated,依恩,488faef8e6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#78#12,"まあ、価値だけじゃなくて値段も絵画や
+アンティークの置物と同じようなものだから
+簡単に手を出せないのが辛いところなんだよね。","不过不仅是价值，就连价格也跟名画古董差不多，
+让人没法轻易下手，
+这点实在很让人痛苦呢。",translated,依恩,94dc3e370d,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#79#12,でも、いつか買って部屋に置きたいなぁ。,不过，真希望总有一天能买一个摆在房间里啊。,translated,依恩,2e3dc866b6,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#80#12,"あ、でも置物にする前に一度分解して
+中身を見ると思うけどね。","啊，不过在当成摆件之前，
+我肯定会先拆开来看看内部构造就是了。",translated,依恩,9e7e5d6aea,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#81#12,"レア物の機械を分解した時のあのドキドキ、
+言葉では表せないよ。","拆解稀有机械时的那种心跳不已，
+简直无法用语言来形容呢。",translated,依恩,ff6728e932,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#82#12,"……って、いつの間にかまたテンションが
+上がっちゃってたみたい。","……哎呀，不知不觉中
+我的兴致又莫名高涨起来了。",translated,依恩,d7b5a1f6fb,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#83#12,"今日はコソコソと見て周る楽しさを、
+あなたに教えるために来たのに。
+これじゃいつもと変わらないよ。","明明今天是为了向你传授
+鬼鬼祟祟到处逛的乐趣才来的。
+结果这样一来和平时根本没区别嘛。",translated,依恩,5120449294,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#84#12,はぁ……今日はもう帰ろうか？,哈啊……今天我们就先回去吧？,translated,依恩,dd8db76e0f,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#86#12,あ～、楽しかったぁ！,啊～玩得好开心！,translated,依恩,118842cebe,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#87#12,"最初の目的とはちょっと違っちゃったけど、
+まあ、楽しかったのは間違いないんだから
+結果オーライ、かな？","虽然和最初的目的有点出入，
+不过玩得很开心是千真万确的，
+也算结果圆满吧？",translated,依恩,82eced50a3,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks02.txt#88#12,えへへ、また一緒に行こうね。,诶嘿嘿，下次再一起去哦。,translated,依恩,99d43a7d55,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks02.txt#91#14,"珍しい物って、実用度
+以上に価値があるの♪","稀罕少见的东西，
+往往拥有超越实用度的价值哦♪",translated,,d37769eaa2,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks02.txt#92#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent13/rinks03.txt#3#12,"エルリンクス、もう少し見た目とか配線を
+まとめられると良いんだけどなぁ……。","艾尔林克斯，要是能把外观和走线
+整理得更整齐一些就好了呢……",translated,依恩,6202ab97cb,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#4#12,"何か参考になる物があるかもしれないし、
+ちょっと急だけどパーツ屋に行ってみない？","说不定能找到什么作为参考的东西，
+虽然有点突然，要不要去零件店逛逛？",translated,依恩,836793565c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#5#12,良いよ,好啊,translated,,e657dd31a6,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#6#12,今日はちょっと……,今天有点不太方便……,translated,,0a4a2e1b34,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#8#12,"そっかぁ……。
+じゃあ、また次の機会だね。","这样啊……
+那就等下次机会吧。",translated,依恩,8d8a12b6c3,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#13#12,"本当！？
+それじゃあ、早速準備するね。","真的吗！？
+那我这就去准备哦。",translated,依恩,4991f6210f,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#26#12,"えへへ、せっかくパーツ屋に行くんだから、
+それっぽい服を着てみたよ。","诶嘿嘿，难得去一趟零件店，
+我特意换了身很有那种感觉的衣服哦。",translated,依恩,86a8451fa5,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#27#12,"それじゃ、準備もできたし。
+そろそろ出発しようか？","那么，准备也做好了。
+我们差不多该出发了吧？",translated,依恩,a6497ebf3c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#29#12,"やっぱりここに来るとわくわくするね。
+早く見て回ろうよ。","果然来到这里就会满怀期待呢。
+快到处逛逛看吧。",translated,依恩,0d3ed2738e,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#31#12,今日はどんな面白い物が見つかるかなぁ？,今天能找到什么有趣的东西呢？,translated,依恩,aaf378e301,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#32#12,"あなたも、面白い物が見つけたら
+すぐにわたしに教えてね。","你要是发现了什么有意思的东西，
+也要立刻告诉我哦。",translated,依恩,947bf89c75,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#34#12,もしかして、目的忘れてる？,你该不会把目的给忘了吧？,translated,,fe50a358de,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#36#12,え……あっ！！,诶……啊！！,translated,依恩,2c5a3a487a,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#37#12,"そうだった、今日はエルリンクスの参考に
+なる物を見に来たんだよね？","我想起来了，今天是为了看能作为
+艾尔林克斯参考的东西才来的对吧？",translated,依恩,c9cc0837b1,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#38#12,"ダメだなぁ、わたしって。
+ここに来るとどうしても夢中に
+なっちゃうんだもん……。","我真是太差劲了。
+只要一来到这里，
+就无论如何都会沉迷其中嘛……",translated,依恩,60436e18a3,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#39#12,"……もしかして、わたしだけ楽しんで、
+あなたはあまり楽しめてない？","……难道说，光是我一个人开心，
+你其实觉得很无聊吗？",translated,依恩,24fca5a92e,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#40#12,"もしそうだったら、ごめんなさい。
+あなたが楽しめなかったら一緒に来た意味が
+なくなっちゃうよね……。","要是那样的话，对不起哦。
+要是你不能玩得开心，
+那我们一起过来就没有意义了呢……",translated,依恩,3a59ab6917,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#42#12,楽しめるように、機械のこと教えて,为了让我也能乐在其中，教教我机械的知识吧,translated,,eb33db19d8,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#43#12,珍しい物を見れるから楽しめてるよ,能看到稀罕的东西我也挺开心的哦,translated,,ba301cec7f,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#45#12,"う、うん！
+それなら任せて！","嗯、嗯！
+那这事就包在我身上吧！",translated,依恩,b0c8e09ac8,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#46#12,"えへへ、あなたが機械のことに興味を
+持ってくれて、すごく嬉しいよ。","诶嘿嘿，你能对机械产生兴趣，
+我真的超级高兴哦。",translated,依恩,c26ccbeb06,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#50#12,"あなたが楽しんでくれてるなら、
+わたしはそれでいいけど……。","既然你也能乐在其中，
+那我也就放心了，不过……",translated,依恩,cda9047d21,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#51#12,"そ、そうだ！
+ならせめて、わたしに機械のことを
+解説させて！","对、对了！
+那至少，让我来为你讲解
+机械方面的知识吧！",translated,依恩,caedea420b,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#52#12,"あなたが少しでも機械のことを知って
+楽しめるように頑張るから！","为了让你多少了解一些机械并且乐在其中，
+我会加油讲的！",translated,依恩,12fcfd83c4,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#54#12,えっと、それじゃあ……。,那个，那么……,translated,依恩,5b0a47f626,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#55#12,"エルリンクスがTz波用の整流器ってことは、
+作ったときにお話したよね？","艾尔林克斯是用于Tz波的整流器这件事，
+我做出来的时候有跟你讲过对吧？",translated,依恩,9850f54dd4,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#56#12,で、Tz波をより安定して使うためには……。,然后，为了更加稳定地利用Tz波……,translated,依恩,0bc0c00d6d,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#58#12,ごめん、Tz波っていうのがよくわからない,抱歉，我不太懂什么是Tz波,translated,,1136f1d402,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#60#12,あっ、そっか！,啊，也是呢！,translated,依恩,74a86486a8,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#62#12,"住んでる世界が違うんだから、
+知らなくてもしょうがないよね。","毕竟我们生活的世界完全不同，
+你不知道也是没办法的事呢。",translated,依恩,7f010f5152,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#63#12,それなら、知らなくてもしょうがないね。,既然这样，不知道也是没办法的呢。,translated,依恩,49c8082359,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#66#12,"でも、そこから説明しなくちゃいけないと
+なると、ちょっと時間がかかるかも……。","不过要是从那里开始解释的话，
+可能要花上不少时间呢……",translated,依恩,c043170d95,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#67#12,"もっと時間のあるときに、
+わかりやすく説明するね。","等以后时间更充裕的时候，
+我再深入浅出地解释给你听哦。",translated,依恩,73f12f8c1c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#68#12,それじゃ、今日はそろそろ帰ろうか？,那么，今天我们差不多就先回去吧？,translated,依恩,4bb2fd5b90,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#70#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#71#12,"ん～、やっぱりパーツ屋を見て周るのは
+すごく楽し……。","嗯～果然逛零件店
+超级开……",translated,依恩,9ea1541b6c,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks03.txt#72#12,"……あれ？
+確かわたし、エルリンクスの参考になる物を
+見に行ったんじゃなかったっけ？","……咦？
+我记得我不是为了寻找
+艾尔林克斯的参考物品才去的吗？",translated,依恩,a11a1710b5,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#73#12,はぁ……またやっちゃった……。,哈啊……我又给搞砸了……,translated,依恩,a29966f30b,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks03.txt#74#12,"でも、パーツ屋を見て周れたのは
+楽しかったよ。
+また一緒に行こうね。","不过，能到处逛零件店
+还是很开心的哦。
+下次再一起去吧。",translated,依恩,c42ccd8657,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#82#14,"今度、機械のことを
+じっくり教えてあげる
+約束をしたよ♪","约好了下次
+要好好教你
+关于机械的知识哦♪",translated,,91a5f89418,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks03.txt#83#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent13/rinks04.txt#1#12,"エルリンクスみたいな機械を見せられると、
+またパーツ屋に行ってみたいなぁ、って
+気持ちになるよ。","只要看到像艾尔林克斯这样的机械，
+我就会忍不住冒出
+想再去逛零件店的念头呢。",translated,依恩,0b2d2e070a,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#2#12,"あそこって、歩いてるだけでも
+幸せな気持ちになれるんだもん。","那个地方，光是走在路上
+心情就会变得超级幸福嘛。",translated,依恩,3bfee47f74,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#3#12,ねぇねぇ、今からちょっと行ってみようよ。,呐呐，我们现在就稍微去逛一下吧。,translated,依恩,4d01699543,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#4#12,行ってみようか,去看看吧,translated,,5e0ceaf754,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#5#12,今日は用事があるから……,今天还有别的事……,translated,,95922ed363,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#7#12,そっか……じゃあ、また今度ね。,这样啊……那就下次再去吧。,translated,依恩,0a7f536496,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#12#12,うん、やったぁ！,嗯，太棒啦！,translated,依恩,3e2f90f182,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#13#12,"それじゃ、準備はいい？
+パーツ屋に向けて、しゅっぱーつ！","那么，准备好了吗？
+目标零件店，出～发！",translated,依恩,1bacfda5ef,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#15#12,"えへへ……このパーツ屋独特の臭い……
+これだけで幸せな気持ちになれるよ。","诶嘿嘿……零件店独特的这种味道……
+光是闻着就能让人心情幸福呢。",translated,依恩,994fc10205,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#17#12,"今日は、あなたの方を見ているように
+しようかな？","今天，我是不是该多看着你一些
+比较好呢？",translated,依恩,3f39da027a,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#18#12,"いつもはお店の方に目が行っちゃって、
+ついそっちの方に夢中になっちゃうでしょ？","因为平时我的目光总是被店铺吸引，
+不知不觉就沉迷在那边了对吧？",translated,依恩,2114f288b6,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#19#12,"それだと、せっかく二人で来ている
+意味がなくなっちゃうと思うし……。","要是那样的话，难得我们两个人一起来，
+我觉得就失去意义了嘛……",translated,依恩,e8fa76afcd,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#20#12,"ごめんね、いつもパーツの方ばかりに
+気が向いちゃって……。","对不起哦，我的心思
+总是一下子全飞到零件那边去了……",translated,依恩,afe8919c96,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#22#12,パーツ屋ではパーツを重視して良いよ,在零件店里以零件为重也是可以的哦,translated,,0217ebf5d9,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#24#12,"えへへ……そう言ってもらえると、
+冗談抜きで嬉しいよ。","诶嘿嘿……你能这么说，
+说真的我超级高兴哦。",translated,依恩,a079ba4ffe,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#25#12,でも、やっぱりそれはダメだと思うの。,但是，我觉得那样果然还是不行的。,translated,依恩,eef961b136,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#26#12,"恋人同士だもん。
+それなのにパーツの方に夢中になってたら、
+やっぱり悪い気が……。","毕竟我们是恋人嘛。
+如果光顾着沉迷零件，
+果然还是会觉得很过意不去……",translated,依恩,096acfb6de,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#27#12,"……ううん。
+それよりも、勿体ない、って気がするし。","……不。
+比起那个，更会觉得太浪费了呢。",translated,依恩,ed80222307,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#28#12,"……でも、やっぱり昔と今では、
+すごく自分が変わったのがわかるよ。","……不过，对比过去和现在，
+我能真切地感受到自己变了好多呢。",translated,依恩,9503e314c7,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#29#12,"こう話してる最中もね、ドキドキするのは
+あなたと話してるからだ、っていうのが
+ちゃんとわかるようになったの。","就像现在这样聊着天的时候，
+我也能很清楚地明白，这份心跳不已
+是因为在和你说话呢。",translated,依恩,7228558357,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#30#12,"前だったら、色んな珍しいパーツに
+囲まれた嬉しさでドキドキしてる、って
+思ったんじゃないかな？","要是换作以前，我肯定会以为
+是因为被各种稀罕零件包围太高兴，
+才心跳不已的吧？",translated,依恩,0d3fa5e775,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#31#12,"でもね、あなたに対して感じるのと、
+パーツに対して感じるのって、
+全然違うんだよ。","但是呢，对你产生的心跳，
+和对零件产生的心跳，
+是完全不一样的哦。",translated,依恩,227f76a314,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#32#12,"パーツの場合は、嬉しくて最初から
+激しいドキドキなの。","面对零件的时候，是因为高兴
+从一开始就会心跳不已得很剧烈。",translated,依恩,83744e83d5,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#33#12,"でも、あなたの場合だと、最初は静かな
+トクントクンッて感じなんだ。","但是面对你的时候，一开始是静静的、
+扑通、扑通的那种感觉。",translated,依恩,ea9dd47dbf,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#34#12,"そんな時にあなたが、ドキッとすることを
+言ってくれると、ドキドキに変わるの。","然后在这种时候，只要你说了让我心中一惊的话，
+就会一下子变成剧烈的心跳不已呢。",translated,依恩,257acb910f,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#35#12,"……って言っても、わからないかな？
+う～、いい説明の仕方が思いつかないよぉ。","……不过这么说，你能明白吗？
+呜～我想不出更好的表达方式了啦。",translated,依恩,c52f0a9ef1,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#37#12,何となくわかるから大丈夫だよ,大体能明白，没事的哦,translated,,63d5fba71f,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#38#12,頑張って説明してくれたのはわかるよ,我明白你已经很努力在解释了哦,translated,,6c67a17a2d,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#40#12,"そ、そう？
+それならいいんだけど……。","是、是吗？
+你能明白就好，不过……",translated,依恩,5f2f1ecd5f,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#41#12,"もしかして、あなたもわたしと同じような
+ドキドキの仕方なのかな？","难道说，你心跳不已的方式
+也和我差不多吗？",translated,依恩,0433ad02eb,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#44#12,"もう少しわかりやすい説明の仕方が
+できればよかったんだけど……。","要是能表达得
+再浅显易懂一些就好了呢……",translated,依恩,c2032000cb,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#45#12,"恋愛小説を沢山読んで、いい説明の仕方を
+勉強しようかな？","是不是该多读点恋爱小说，
+好好学习一下怎么更好地表达呢？",translated,依恩,002708d5ad,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#47#12,"でも、今のわたしって本当にパーツを
+気にしてない状態で話してるよ。","不过，现在的我真的完全
+没有分心去关注零件，在跟你说话哦。",translated,依恩,7f2b8d33c0,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#48#12,"視界に入りはするけど、あなたの方を
+見ていたい、って気持ちが強いし……。","虽然零件确实会映入眼帘，
+但想看着你的心情更加强烈嘛……",translated,依恩,2de8b893e4,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#49#12,"……恋人の力って、すごいんだね？
+ちょっとビックリだよ。","……恋人的力量，真的很不可思议呢？
+连我自己都有点吃惊了。",translated,依恩,4a5cddbc3e,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#51#12,"今なら、とんでもなくレアな真空管が
+視界に入ったとしても、気づかないかも。","换成现在的我，哪怕极其罕见的真空管
+进入视线，说不定都注意不到呢。",translated,依恩,0b76c5fd08,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#53#12,"でも、とんでもなくレアな真空管が
+視界に入ったとしたら……。","但是，要是真的有极其罕见的真空管
+映入眼帘的话……",translated,依恩,2f97300c9d,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#54#12,"そ、そういう時は仕方ないよね？
+時にはそういうのも大切だよ、多分！","那、那种时候也是没办法的对吧？
+有时候那种事也很重要，大概吧！",translated,依恩,939c9c8d52,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#57#12,"ふぅ……ドキドキが沢山で、
+ちょっと疲れちゃったかも……。","呼……各种心跳不已接连不断，
+感觉好像有点累了呢……",translated,依恩,5c180d8a1a,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#58#12,今日はもう帰ろうか？,今天我们差不多该回去了吧？,translated,依恩,dab713e9a7,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#60#12,その前に真空管を見て行こう,在那之前先去看看真空管吧,translated,,4b8bb2500f,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#61#12,早く帰ってゆっくりしよう,早点回去好好休息吧,translated,,4496b785a9,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#64#12,"えへへ、やっぱり、ずっと気になってたの
+バレてるよね？","诶嘿嘿，果然我一直在意那东西的事，
+已经被你完全看穿了对吧？",translated,依恩,a102c7ee53,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#65#12,"出来れば、最後の最後までパーツに
+興味を見せないで終わりたかったん
+だけど……。","如果可以的话，我本来很想坚持到
+最后都不对零件表现出任何兴趣的，
+但是……",translated,依恩,858d886e63,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#66#12,やっぱり、自分にウソはつけないね。,果然还是没办法对自己说谎呢。,translated,依恩,a8d6f9920f,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#67#12,"でも、今のあなたの誘い方、
+すごく嬉しかったよ。","不过，你刚才邀请我的方式，
+真的让我超级高兴哦。",translated,依恩,c01cfa16cf,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#68#12,"こんなに胸がキュンとする誘い方を
+してくれるなんて、夢みたい！","居然能用这么让人怦然心动的方式来约我，
+简直就像做梦一样！",translated,依恩,1ab2ec6da1,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#69#12,"えへへ……それじゃ、もう少しだけ
+わたしに付き合ってね。","诶嘿嘿……那么，就请你再稍微
+陪我一会儿吧。",translated,依恩,0115751b86,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#73#12,うん、わたしもそうしたいな。,嗯，我也想早点回去呢。,translated,依恩,6f2e6f9b1d,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#76#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks04.txt#77#12,"……やっぱり、帰ってきた時の感じも
+いつもとは違う気がするよ。","……果然，回到家时的感觉
+也和往常不太一样呢。",translated,依恩,6de1f0b7a4,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#78#12,"パーツ屋に行ったのに、楽しかったのが
+あなたとのお話だったからかな？","明明是去了零件店，但最开心的
+却是一直在和你聊天，是因为这样吗？",translated,依恩,68a6507c1a,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#79#12,"これなら、パーツ屋でのデートも
+もう問題なさそうだね。","这样一来，在零件店约会
+似乎也就完全没有问题了呢。",translated,依恩,9aac2886b1,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#80#12,"……でも、たまにはパーツをじっくりと
+見て回るデートもしてくれると嬉しいな。","……不过，偶尔也能和我来一场
+仔仔细细看遍零件的约会的话，我会很高兴的。",translated,依恩,aadef4ebea,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks04.txt#81#12,"それじゃ、今日は付き合ってくれて
+ありがと。
+また一緒に行こうね！","那么，今天谢谢你
+陪我出来。
+下次再一起去吧！",translated,依恩,ca3832537f,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#84#14,"パーツへの愛が、
+あなたへの愛に
+移行した気がする。","感觉对零件的爱，
+似乎转移到了
+对你的爱上面。",translated,,9223dbcc18,br=0 nl=2,3,
+inc/event/res/dateevent13/rinks04.txt#85#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent13/rinks_int.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks_int.txt#6#12,"パーツ屋に行きたいの？
+んー………どうしようかな。","想去零件屋吗？
+嗯～……该怎么办呢。",translated,依恩,30950f94de,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks_int.txt#9#12,パーツ屋にはまた今度行こうよ。,零件屋还是等下次再去吧。,translated,依恩,2ac631ba40,br=0 nl=0,1,
+inc/event/res/dateevent13/rinks_int.txt#10#12,"今日はちょっとゆっくりと見ていられる
+時間がないから、行っても楽しめなさそう。","今天没有足够的时间慢慢逛，
+就算去了感觉也没法尽兴呢。",translated,依恩,c347199956,br=0 nl=1,2,
+inc/event/res/dateevent13/rinks_int.txt#11#12,"やっぱりパーツ屋に行く以上は、
+じっくり見て楽しめる余裕がないと、
+つまらないもん。","毕竟既然要特意去零件屋，
+要是没有能从容细细游览的心情，
+那就太无趣了嘛。",translated,依恩,b5878e4ae0,br=0 nl=2,3,

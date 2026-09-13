@@ -1,0 +1,2896 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/tutorialevent/de00_01.txt#11#12,"よっ、とうだいもり。
+元気にしとるか？","哟，灯塔守。
+精神还好吗？",translated,妮莉库,a055aca472,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#12#12,って、おらんのか。,哎，不在吗。,translated,妮莉库,f305a82f92,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01.txt#13#12,まぁ、その方が好都合かもしれんの……。,嘛，这样说不定正好合我心意呢……,translated,妮莉库,2073503dcd,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01.txt#15#12,"さてと……、
+ふむ、あれがそうじゃな。","那么……
+嗯，就是那个了吧。",translated,妮莉库,ff5a24f406,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#18#12,"どうやら、きちんと動いとるようじゃし、
+声でもかけてみるかのう。","看来运转得挺正常的，
+跟它打个招呼看看吧。",translated,妮莉库,793f98d2fd,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#20#12,"ほれ、返事をせい。
+生きてないわけではなかろう？","喂，回个话呀。
+总不至于没气了吧？",translated,妮莉库,efd629de26,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#22#12,"ふむ、だんまりか。
+なんぞ、怪しまれとるのかの……？","唔，一声不吭吗。
+难道是觉得我很可疑……？",translated,妮莉库,21b7d4b7bc,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#23#12,……まさか、壊れたりしとらんよな？,……应该不至于坏掉了吧？,translated,妮莉库,6948153f18,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01.txt#25#12,"やれやれ……。せっかく、いろいろと
+教えてやろうと思ったんじゃが……。","哎呀呀……亏我还想好心
+教你各种事情呢……",translated,妮莉库,dd1b91c0c7,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01.txt#28#12,仕様ない。また来るとするかの。,没办法。改天再来吧。,translated,妮莉库,19e4e5509a,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#1#12,<CLBU>おっ、ちゃんと生きておったようじゃの。,<CLBU>哦，看来还活得好好的嘛。,translated,妮莉库,8b824c9ff7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/tutorialevent/de00_01t.txt#2#12,"むっふっふ、どうじゃ？
+あやつとの生活はうまくいっとるか？","唔呼呼，怎么样？
+和那家伙的生活还顺利吗？",translated,妮莉库,587df27df8,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#3#12,だれ？,谁啊？,translated,,60be8e8322,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#4#12,泥棒か！,小偷吗！,translated,,e5817822ce,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#6#12,"おっと、すまんすまん。
+自己紹介を忘れておったな。","哎呀，抱歉抱歉。
+忘了做自我介绍了。",translated,妮莉库,7abb3b4178,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#9#12,泥棒とは挨拶じゃのう。,一上来就叫人小偷，可真没礼貌啊。,translated,妮莉库,11073c8aa5,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#10#12,"もし本当にそうなら、
+のん気におぬしに話しかけたりせんわ。","如果我真是小偷，
+哪会这么悠闲地跟你搭话啊。",translated,妮莉库,b884c6111c,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#12#12,"我は“ねりこ”という雑貨屋を
+経営しておる者じゃ。","我是经营一家名为“妮莉库”的
+杂货铺的老板。",translated,妮莉库,5d45b1b5fd,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#13#12,"呼ぶときは……そうじゃな。
+“ねりこさん”でどうじゃ。","称呼的话……我想想。
+叫“妮莉库小姐”怎么样？",translated,妮莉库,bb5058cd8d,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#14#12,"とうだいもりも、
+我のことをそう呼ぶしの。","毕竟灯塔守
+也是这么称呼我的嘛。",translated,妮莉库,2db7d39577,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#15#12,何の用？,有什么事？,translated,,223e48efa3,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#16#12,イオンなら出かけてる,依恩的话出门了,translated,,58383a9616,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#18#12,"ほぅ……
+存外、お主は大人しい性格のようじゃの。","哦……
+没想到你的性格还挺文静的嘛。",translated,妮莉库,d710b4ad33,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#21#12,"それは見れば分かる。
+今日はお主に用があって来たのじゃよ。","那点事我一看就知道了。
+我今天可是有事找你才来的哦。",translated,妮莉库,ec1c6412e1,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#23#12,"おぬしはまだこの世界のことを
+何も知らんじゃろ？","你对这个世界
+还一无所知对吧？",translated,妮莉库,085371485d,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#24#12,たしかによく知らない,确实不太了解,translated,,f1504e00b0,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#26#12,"そこでじゃ、我が少しばかりじゃが、
+おぬしに教えてやろうと思っての。","所以呢，我就想着
+稍微指点指点你。",translated,妮莉库,80257a5cec,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#27#12,よいか？　よく聞くんじゃよ。,听好了哦？给我仔细听着。,translated,妮莉库,d3560ed792,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#28#12,"この世界には、
+時間の概念があるようで、ない――","在这个世界里，
+看似有时间的概念，实则不然――",translated,妮莉库,a94834c628,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#29#12,"次の一秒が、
+実は前の一秒かもしらんのじゃ。","下一秒，
+其实可能就是前一秒呢。",translated,妮莉库,1f54ad4aeb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#30#12,よく分からない,听不太懂,translated,,229761b2bc,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#32#12,まぁ、そうじゃろな。,嘛，也是呢。,translated,妮莉库,306e57f2ab,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#33#12,"おぬしにとっては、未知の世界じゃ。
+いきなり理解はできまい。","对你来说是个未知的世界嘛。
+不可能一下子就理解的。",translated,妮莉库,44ea8f3358,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#34#12,"今は、おぬしの居る世界と我らの住む世界は
+違う次元軸にある、という事だけを
+知っとればよいじゃろう。","现在只要知道，你所在的世界
+和我们生活的世界处于不同的维度轴上，
+这就足够了吧。",translated,妮莉库,0bc88d60b1,br=0 nl=2,3,
+inc/event/res/tutorialevent/de00_01t.txt#35#12,"それによって、あやつが今の様に窮屈な
+暮らしを続けているのはたしかな事じゃ。","正因如此，那家伙现在才会
+过着这般局促拘束的生活，这也是事实。",translated,妮莉库,e62ae1078b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#36#12,"しかしそれも……、そうじゃのう。
+この時空にあって、この時空のものでない
+物なら、あるいは変化が訪れるかもしれん。","不过……我想想啊。
+如果是身在此处、却非此处所有的事物，
+说不定就能带来变化呢。",translated,妮莉库,37c3c1b865,br=0 nl=2,3,
+inc/event/res/tutorialevent/de00_01t.txt#37#12,自分のこと？,是指我吗？,translated,,83a55c1b68,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#38#12,この世界のものじゃないもの？,非这个世界所有的事物？,translated,,a5a5bafb5d,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#40#12,かもしれんのう。,说不定哦。,translated,妮莉库,b33d4cf1f1,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#43#12,"なんじゃ、察しが悪いのぅ。
+おぬしのことじゃよ。","真是的，反应真迟钝呢。
+指的就是你呀。",translated,妮莉库,77320c6c44,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#45#12,"おぬしならば、もしかしたら
+このメビウスの輪を断ち切れるやもしれん。","如果是你的话，说不定
+就能斩断这个莫比乌斯之环呢。",translated,妮莉库,6a0a061e69,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#46#12,どうやって？,具体怎么做？,translated,,d6756896c9,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#48#12,"……もしかして、わざとやっとるのか？
+わかっとるんじゃろ？","……难道说，你是故意的？
+其实你心里很清楚吧？",translated,妮莉库,f503d0790e,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#49#12,"鍵となるのは、とうだいもり……
+イオンの記憶じゃ。","关键就在于灯塔守……
+也就是依恩的记忆。",translated,妮莉库,1061996daf,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#50#12,"もういくらかは解けておるようじゃが、
+あやつの失った記憶全てには、
+まだまだ遠く及んどらん。","虽然似乎已经解开了一部分，
+但离她失去的全部记忆，
+还差得远呢。",translated,妮莉库,2390c58b5e,br=0 nl=2,3,
+inc/event/res/tutorialevent/de00_01t.txt#51#12,とても一筋縄ではいかん作業じゃ。,那可绝不是一朝一夕能完成的事。,translated,妮莉库,42c0d4fe0b,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#52#12,"ゆっくりと時間をかけて
+記憶の紐を解いていくのがよい。","慢慢花时间
+去解开记忆的丝线才好。",translated,妮莉库,0c4b2d671e,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#53#12,"我もここに来てずいぶんと経っておるでの。
+さすがに、そろそろ飽きてきたのじゃ。","我来这里也已经很久了，
+说实话，差不多也快腻味了呢。",translated,妮莉库,15cf1513ea,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#54#12,"おぬしがこの世界に与える変化……、
+期待しておるぞ。","你给这个世界带来的变化……
+我可是很期待的哦。",translated,妮莉库,9bd5db2c73,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#55#12,"もし、あの娘に面白いことが起きたら
+ちゃんと我を呼ぶんじゃぞ？","要是那姑娘身上发生了什么有趣的事，
+可一定要叫我哦？",translated,妮莉库,b348166c2b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#56#12,"超音速で駆けつけて見物させてもらう
+からの！",我可是会以超音速赶过来围观的！,translated,妮莉库,4b849b316e,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#57#12,気が向いたら,看心情吧,translated,,aa3d320a40,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#58#12,そんなことはしない,我才不会叫你,translated,,a2836f7df4,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#60#12,"あっはっは！
+なかなか話が分かるようで、安心したわ。","啊哈哈！
+看来你挺识趣的嘛，这就放心了。",translated,妮莉库,06003c85df,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#63#12,"くふふ、どうやらちゃんとあやつを
+大切にしておるようじゃの。",哼哼，看来你确实很珍惜那家伙嘛。,translated,妮莉库,edce4c8f23,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#65#12,"ま、わざわざ言われんでも、
+我は勝手に来るがの！","嘛，就算你不特意叫我，
+我也一样会擅自跑过来的就是了！",translated,妮莉库,7474e09ec2,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#66#12,"おっと、そうじゃ。
+おぬしに渡したいものがあったんじゃ。","哎呀，对了对了。
+我有个东西想给你。",translated,妮莉库,72d7401e5f,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#67#12,うちの店で扱ってる試供品のカードでの。,是我们店里进的试用品卡片。,translated,妮莉库,1371a8613f,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#68#12,"これまで店の奥でほこりをかぶって
+おったんじゃが……。",之前一直扔在店里的角落吃灰……,translated,妮莉库,b6f6de810b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#69#12,"おぬしならこれを使えるはずじゃ。
+一度試してみてはどうかの？","要是你的话，应该能用得上这东西。
+要不要试着用一次看看？",translated,妮莉库,1f37292cd4,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#70#12,"もしかしたら、とうだいもりと
+いい事が出来るかもしれんぞ？　くふふ。","说不定能跟灯塔守
+发生什么好事呢？唔呼呼。",translated,妮莉库,34c2b17551,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#71#12,"さて、あやつが帰って来ると話が
+ややこしくなりそうじゃし、退散するかの。","好了，等那家伙回来事情又该变麻烦了，
+我先撤啦。",translated,妮莉库,daabaea5c9,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#72#12,"まぁ、また気が向いたら
+同じようなカードを持ってきてやるでの。
+楽しみにしとれよ～。","嘛，等我心情好了，
+还会给你带类似的卡片过来的。
+好好期待着吧～",translated,妮莉库,11715c8afa,br=0 nl=2,3,
+inc/event/res/tutorialevent/de00_01t.txt#73#12,それじゃ、またの。,那么，回见啦。,translated,妮莉库,6cc3cb90cc,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_01t.txt#74#12,"これっきりにならないことを
+祈っておるぞ。",希望这不会是最后一次见面呢。,translated,妮莉库,552323cc69,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_01t.txt#79#12,<CLY1>何かのカードを入手しました。,<CLY1>获得了某种卡片。,translated,系统文本,f77420cfe8,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/tutorialevent/de00_02.txt#7#12,"ただいま～。
+もしかして、待っててくれたの？","我回来了～
+难道说，你一直在等我吗？",translated,依恩,90306764c7,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02.txt#10#12,"えへへ、もしそうだったら、
+ちょっと嬉しいな。","诶嘿嘿，如果是那样的话，
+我会挺开心的呢。",translated,依恩,71f034e781,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02.txt#14#12,"はぁーい！
+今行くよー。","好――的！
+我这就过去哦――",translated,依恩,1df923538a,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02.txt#17#12,えへへ♪　おまたせ～。,诶嘿嘿♪让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02.txt#23#12,今いるかな？,现在你在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02.txt#27#12,あれ？　なんだろう？,咦？这是什么呀？,translated,依恩,57e8edfbfe,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02.txt#28#12,"あのね、なんか変なカードが
+挿さってるんだけど……。","那个啊，不知为什么
+插着一张很奇怪的卡片……",translated,依恩,94c23fa37b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02.txt#30#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02.txt#32#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#4#12,あれ？　なんだろう？,咦？这是什么呀？,translated,依恩,57e8edfbfe,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#5#12,"あのね、なんか変なカードが
+挿さってるんだけど……。","那个啊，不知为什么
+插着一张很奇怪的卡片……",translated,依恩,94c23fa37b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#7#12,"ねえ、なんか見たことないカードが
+あなたに挿さってるんだけど……。","我说，不知为什么
+你身上插着一张从没见过的卡片……",translated,依恩,39a3010efb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#9#12,"これなんだろう？
+何か心当たりある？","这是什么呀？
+你有什么头绪吗？",translated,依恩,8cc519ac48,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#10#12,ねりこさんが来た,妮莉库小姐来过了,translated,,f11e5e7ee6,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#12#12,え？　ねりこさんが来たの？,诶？妮莉库小姐来过了吗？,translated,依恩,6880d6e0fd,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#13#12,"じゃあ、これはそのときに
+挿していったんだね。",那么，这个就是她那个时候插上去的吧。,translated,依恩,87427d7c57,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#14#12,"たぶん、危ないものじゃないと思うけど、
+どんなものなのかな？","我想应该不是什么危险的东西，
+不过到底是什么呢？",translated,依恩,959075c3c3,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#15#12,何か聞いてたりする？,她有跟你交代什么吗？,translated,依恩,e8613ec888,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#16#12,いいことが出来るって言ってた,她说会有好事发生,translated,,9be4926d82,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#17#12,よく分からない,我也不太清楚,translated,,229761b2bc,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#19#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#20#12,う～ん、いなくなっちゃったのかな？,唔～，不在了吗？,translated,依恩,0c0caae8af,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#21#12,"はぁ……仕方ない。
+またあとで呼んでみよう。","唉……没办法。
+待会儿再呼唤你看看吧。",translated,依恩,f88f23e783,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#26#12,"いい……こと？
+いい事ってなんだろう？","好……事？
+好事到底是指什么呀？",translated,依恩,adcd092d37,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#29#12,そっかぁ……。,这样啊……,translated,依恩,0b7418ea74,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#30#12,"ねりこさん、ときどき意味深なことだけ
+言ってどっか行っちゃうから……。","妮莉库小姐有时候就是这样，
+净说些意味深长的话就跑掉了……",translated,依恩,8c866fdebe,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#32#12,ねぇ、何か前と違った感覚とかある？,我说，你有没有觉得感觉和之前不同？,translated,依恩,e1fbd4bf8c,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#33#12,何かやれそうな気がする,感觉好像能做点什么,translated,,3b0cf9f7c9,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#35#12,本当！？,真的吗！？,translated,依恩,d27e7076a7,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#36#12,えへへ、それじゃ早速試してみようよ。,诶嘿嘿，那我们赶紧试试看吧！,translated,依恩,4a16116751,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#37#12,"ねりこさんが言うとおり、
+何かいい事があるかもしれないよ？","正如妮莉库小姐所说，
+说不定真的会有什么好事呢？",translated,依恩,24806f44e3,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#38#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#39#12,また今度にしよう,下次再说吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#41#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#42#12,"う～ん、何か気を悪くするような
+こと言っちゃったのかな……。","唔～，难道我说了什么
+惹你不高兴的话吗……",translated,依恩,9bcc8e97a2,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#43#12,また今度、誘ってみようかな。,下次再约你看看好了。,translated,依恩,3ddd05920e,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#48#12,"えへへ、ありがとう！
+何が起きるのか楽しみだね。","诶嘿嘿，谢谢你！
+真期待会发生什么呢。",translated,依恩,744829eafb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#51#12,"そ、そうだよね。
+あなたにも都合があるよね。","也、也是呢。
+你也有你自己的事情嘛。",translated,依恩,db4ab37bcb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#52#12,……でもやっぱり、ちょっとがっかり…。,……不过果然还是有点失望……,translated,依恩,31b9fbfb5c,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#53#12,仕方ないのは分かってるんだけどね……。,我也明白这是没办法的事啦……,translated,依恩,bc3ea48d0e,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#54#12,仕方ないな,真拿你没办法,translated,,a37051f0cd,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#55#12,次の機会ならきっと,下次一定可以的,translated,,e58809af05,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#56#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#57#12,それじゃ、またね。,那么，回见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_02m.txt#61#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#62#12,"えへへ、ありがとう。
+わたしの我侭に付き合ってくれて。","诶嘿嘿，谢谢你。
+愿意陪我这么任性。",translated,依恩,14e82f99d3,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#63#12,"でも、何が起きるんだろう？
+楽しみだなぁ。","不过，到底会发生什么呢？
+好期待呀。",translated,依恩,49d1e9ce8f,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#66#12,"あはは、そうだよね……。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……
+抱歉啦，让你扫兴了。",translated,依恩,9f02251689,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02m.txt#67#12,"あなたの都合がいいときでいいから、
+また今度、試してみようね。","等你方便的时候就好，
+我们下次再试试看吧。",translated,依恩,f580c2d679,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_02t.txt#1#12,<CLBU> …あっ！　いたいた！,<CLBU>……啊！你在呀！,translated,依恩,e66b30c309,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/de00_02t.txt#3#12,今そっちに行くね。,我这就过去哦。,translated,依恩,f82f9b39eb,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#8#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#11#12,"えへへ♪　おまたせ～。
+この前のカード、試してみない？","诶嘿嘿♪让～你久等啦。
+要不要试试之前那张卡片？",translated,依恩,675c57aba6,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03.txt#12#12,それじゃあ、試してみようか,那就试一试吧,translated,,fcd28033f8,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#13#12,また今度ね,下次再说吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#15#12,"えへへ、ありがとう！
+何が起きるのか楽しみだね。","诶嘿嘿，谢谢你！
+真期待会发生什么呢。",translated,依恩,744829eafb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03.txt#18#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#19#12,しょぼ……。,好失落……,translated,依恩,8447ea1054,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#25#12,ねーねー……。,我说我说……,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#26#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#27#12,……おーい…。,……喂～……,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#29#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03.txt#31#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#1#12,それじゃあ、早速お願い。,那么，马上拜托你啦。,translated,依恩,aa31330282,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#2#12,何が起こるのかワクワクだよ。,一想到会发生什么就好期待呢。,translated,依恩,76ecb46bd3,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#4#12,"……あ、あれ？
+この感覚……何かに似ているような……。","……诶、奇怪？
+这种感觉……好像在哪里体验过……",translated,依恩,af2c65ff92,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#8#12,ここって、え、あれ！？,这里是……诶，等等！？,translated,依恩,45aea91572,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#9#12,"わたしたち、
+さっきまで部屋の中にいたよね！？","我们刚才
+明明还在房间里的吧！？",translated,依恩,090d548741,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#10#12,もしかしてこれって、瞬間移動とか！？,难道说这是瞬间移动之类的！？,translated,依恩,a63f4736b8,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#12#12,それはない,那不可能,translated,,e10178b938,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#14#12,う、うん、そうだよね。,嗯、嗯，也是呢。,translated,依恩,ebe02ff5b1,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#15#12,"もしそうだったら、
+端末が動かなくなってるはずだし……。","要是那样的话，
+终端应该就无法运转了才对……",translated,依恩,0adc51d6a4,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#16#12,それにここって……海、だよね？,而且这里……是大海吧？,translated,依恩,83c5a50c91,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#17#12,わたしの家の近くにこんな場所ないし……。,我家附近可没有这种地方……,translated,依恩,200b6a41cd,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#18#12,一体どういうことだろう？,这到底是怎么回事呀？,translated,依恩,46d3e81cb2,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#20#12,さっきの感覚って？,刚才的感觉是？,translated,,4c83dd323e,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#22#12,"あっ、そういえばね、
+ここに来る前、何かに似た感覚がしたの。","啊，说起来呢，
+在来这里之前，有一种似曾相识的感觉。",translated,依恩,e52de78e95,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#23#12,"えっと……ちょっと違うんだけど、
+夢セカイに行くときみたいな感覚かな。","那个……虽然有点微妙的不同，
+但很像是去往梦世界时的那种感觉呢。",translated,依恩,884fd3bcc9,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#24#12,"なんかいつもと様子が違うけど、
+ここもそう……なのかな？","虽然感觉和平时不大一样，
+但这里也是……对吧？",translated,依恩,4bc3996ba1,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#25#12,"でもなんだろう……現実なのに現実じゃない
+みたいな感じで……。","不过该怎么说呢……明明是现实，
+却感觉不像是现实一样……",translated,依恩,6514f8188c,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#26#12,う～ん、うまく言葉に出来ないよぉ。,唔～，很难用语言表达出来啦。,translated,依恩,16677c5f5c,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#28#12,仮想空間？,虚拟空间？,translated,,701eb65df3,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#30#12,あっ、それだよ！,啊，就是那个！,translated,依恩,ca29a0d3f0,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#31#12,"あっちが夢セカイだから、
+こっちは仮想世界……かな。","那边是梦世界，
+这边应该算……虚拟世界吧。",translated,依恩,619b076aa4,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#32#12,"そうだ。
+せっかくだし、この中を歩いてみよっか。","对了。
+难得来一趟，我们到处走走看吧。",translated,依恩,f368f8466e,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#34#12,海のことは覚えてるんだ？,你还记得大海的事？,translated,依恩,0430f5fc3f,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#36#12,"あっ、うん。
+ちゃんと覚えてるよ。","啊，嗯。
+我记得很清楚哦。",translated,依恩,6d762aab22,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#37#12,"こういう一般常識というか、
+必要最低限の記憶は消えてないみたい。","这类一般常识，或者说
+最低限度的必要记忆，似乎并没有消失。",translated,依恩,bc54d320b3,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#38#12,"思い出とか、自分がどこから来たのかって
+いうのは、全然ダメなんだけどね。","不过关于回忆，或者自己从何而来，
+就完全想不起来了呢。",translated,依恩,7646462181,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#39#12,"だから、海のことで覚えてるのもあるけど
+覚えてないのもある、って感じかな。","所以说，关于大海的事有些记得、
+有些不记得，大概是这种感觉吧。",translated,依恩,40d3190264,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#40#12,"なんか、すごく曖昧な感じになっちゃって
+ごめんね。","感觉说得很含糊不清，
+对不起哦。",translated,依恩,b6f25e9112,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#42#12,気にしなくていい,不用在意,translated,,5821150e3b,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#43#12,むしろ安心した,反而放心了,translated,,9b6cec337d,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#45#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#48#12,そ、そうなの？,是、是这样吗？,translated,依恩,84fcdfe281,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#49#12,"なんかよく分からないけど……
+ありがとう、でいいのかな。","虽然不太懂……
+但这种时候说谢谢就好吧。",translated,依恩,d25ea22f42,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#51#12,それにしても、やっぱり海って暑いね。,不过话说回来，海边果然好热啊。,translated,依恩,8e50af2367,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#52#12,"日差しもそうだけど、
+土からの熱気もすごいし……。","不仅阳光刺眼，
+从地面上腾起的热气也相当厉害……",translated,依恩,69c108c454,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#53#12,このままじゃ汗だくになっちゃいそう……。,再这样下去感觉都要大汗淋漓了……,translated,依恩,3d7382d844,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#55#12,一回帰ろうか,先回去一趟吧,translated,,e4bc421980,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#58#12,う、うん、そうだね。,嗯、嗯，也是呢。,translated,依恩,8af4172d26,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#59#12,"ごめんね。
+せっかく来れたのに……。","对不起哦。
+难得来一趟的说……",translated,依恩,ff17abb33d,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#60#12,"そうだ。せっかくだから、
+ここの砂、少し持ち帰ろうよ。","对了。好不容易来一次，
+我们稍微带一点这里的沙子回去吧。",translated,依恩,c1c477e135,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#61#12,初めて二人で来た記念に♪,就当是我们两人第一次前来的纪念♪,translated,依恩,45e8eb17e6,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#62#12,"あとね、ここに来たら海であったこととか、
+いろいろ思い出せそうな気がするの。","还有呢，感觉来到这里，
+就能回想起许多在海边发生过的事。",translated,依恩,edb65df9c4,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#63#12,だからその――,所以说――,translated,依恩,27135d8e06,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#64#12,よろしくね♪,今后也请多关照啦♪,translated,依恩,3507408608,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#66#12,"ふぅ、ただいま～。
+なんか、すごかったね。","呼，我回来了～
+总觉得刚才好神奇呢。",translated,依恩,26435275bf,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#67#12,って、あれ？,……咦？奇怪？,translated,依恩,d8d6fe6d4f,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#68#12,"持ち帰ってきたはずの砂が
+無くなっちゃってる……。","原本带回来的沙子
+不见了……",translated,依恩,245aa7f57c,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#69#12,"もしかして、あっちの世界のものは
+持ち帰れないのかなぁ……。","难道说，那个世界的物品
+是带不回来的吗……",translated,依恩,244c78d51a,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#70#12,"はぁ……。
+形に残せないのは、ちょっと残念かな。","唉……
+无法作为实物留下来，真有点遗憾呢。",translated,依恩,e8dc459999,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#71#12,"でも、一緒に行ける場所ができたのは、
+きっといいことだよね。","不过，多了一个能一起去的地方，
+也算是一件好事吧。",translated,依恩,874d83696b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#72#12,他にもあるって言ってた,听说还有别的卡片,translated,,baf6128751,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#74#12,え！？　そうなの！？,诶！？真的吗！？,translated,依恩,342c30f6b0,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03m.txt#75#12,"それじゃあ、他のカードでは
+別の場所にいけたりするのかな？","这么说来，用别的卡片
+也能去往不同的地方了吧？",translated,依恩,84f04ed113,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#76#12,"えへへ、なんか楽しみだね。
+一体どんなところにいけるんだろう。","诶嘿嘿，好期待呀。
+到底能去什么样的地方呢。",translated,依恩,7df4b05713,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03m.txt#77#12,"もし新しいカードが手に入ったら、
+また一緒に行ってみようね。","如果拿到了新卡片，
+一定要再一起去看看哦。",translated,依恩,f7fd00bd3b,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03t.txt#3#12,<CLBU> …あっ！　いたいた！,<CLBU>……啊！你在呀！,translated,依恩,e66b30c309,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/de00_03t.txt#4#12,"ねりこさんからもらったカードで
+何が出来るか試してみようよ。","用妮莉库小姐给的卡片，
+试一试能做些什么吧。",translated,依恩,96e59e5a25,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03t.txt#5#12,それじゃあ、試してみようか,那就试一试吧,translated,,fcd28033f8,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03t.txt#6#12,また今度ね,下次再说吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03t.txt#8#12,"えへへ、ありがとう！
+何が起きるのか楽しみだね。","诶嘿嘿，谢谢你！
+真期待会发生什么呢。",translated,依恩,744829eafb,br=0 nl=1,2,
+inc/event/res/tutorialevent/de00_03t.txt#11#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/tutorialevent/de00_03t.txt#12#12,しょぼ…。,好失落……,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00.txt#3#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00.txt#9#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00.txt#10#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00.txt#14#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00.txt#15#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#5#12,あ、そういえば、一つ相談があるの。,啊，说起来，我想跟你商量一件事。,translated,依恩,f49b1f871b,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#7#12,"呼び出しちゃってごめんね。
+一つ相談があるの。","把你叫出来真不好意思。
+我想找你商量一件事。",translated,依恩,19b79b627d,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#9#12,"実はね、わたしが元いた世界の服を
+一つ作ってみようかな、って思ってて――","其实呢，我在想……
+要不要做一件我原来世界的衣服呢――",translated,依恩,7597887f33,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#10#12,"でも、こっちにいる間はイオンとして
+頑張るって決めてたでしょ？","不过，之前明明决定了在做好依恩前，
+要全力以赴努力的对吧？",translated,依恩,f3c23eb500,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#11#12,"もしかしたら、決心が鈍っちゃうかもしれ
+ないし、あんまり良くないんじゃないか、
+って不安もあるの。","说不定决心会产生动摇，
+我心里也很担心这样会不会不太好。",translated,依恩,25391c19be,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#12#12,"あなたはどう思う？
+やっぱりやめておいた方がいいかな？","你是怎么想的呢？
+果然还是算了吧？",translated,依恩,afbae0eab5,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#13#12,どうせやるなら徹底的に,既然要做就贯彻到底,translated,,aeea820df2,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#14#12,イオンがやってみたいなら……,只要依恩想做的话……,translated,,9e4a5be987,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#16#12,"徹底的に……。
+うん、そうだね。","贯彻到底……
+嗯，也是呢。",translated,依恩,ae249fca59,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#17#12,"せっかく作ろうと思えたんだし、
+やれるだけやってみるね。","难得萌生了制作的念头，
+我就竭尽全力试一试吧。",translated,依恩,d2c3a05c4c,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#20#12,ふふ、ありがとう。,呵呵，谢谢你。,translated,依恩,3353bd9ea1,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#21#12,"そうだね。
+せっかく作りたいって思ったのに、
+立ち止まるなんてわたしらしくないよね。","也是呢。
+难得萌生了制作的念头，
+驻足不前可不像我的风格呢。",translated,依恩,d0da1b8afc,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#23#12,"レシピを作っておくから、いつも通り、
+必要になったら声をかけて。","我会把配方准备好的，和往常一样，
+等需要的时候就叫我吧。",translated,依恩,e64985aea6,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#24#12,"あなたのおかげで決心もついたし、
+頑張って作っちゃうよ♪","多亏了你我才下定决心，
+我一定会加油做出来的♪",translated,依恩,1314eb2b5e,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode00_tch.txt#26#12,"<CLY2>レシピ【あの頃の思い出？】が
+追加されました。","<CLY2>已追加配方
+【那时回忆？】。",translated,系统文本,0b414023ec,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#14#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#18#12,"<CLY2>いまお話することはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法进行对话。
+请等待依恩切换行动。",translated,系统文本,0a8fa60eaa,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#23#12,あ、ちょうど良かった。,啊，来得正好。,translated,依恩,e0e287b0e3,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#25#12,"あのね、この前メモリアを作ってみて、
+もっと色々できないかな、って思ったの。","那个啊，上次试着做了心存记忆，
+我在想能不能做更多各种各样的事情呢。",translated,依恩,016ffee894,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#26#12,色々？,各种各样？,translated,,724c68a296,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#28#12,"うん。体はどうしようもないけど、
+髪の色とか瞳の色を元のわたしと同じに
+してみようかな、って。","嗯。身体虽然没办法改变，
+但我在想能不能把发色和瞳色
+变得和原来的我一样。",translated,依恩,c73970aa93,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#29#12,"それとね、そうしてるときはイオンじゃ
+なくて、寧って呼んで欲しいの。","还有呢，变成那样的时候，
+希望你别叫我依恩，而是叫我宁。",translated,依恩,90f5b7b89f,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#30#12,"……おかしいよね。
+自分でイオンとして頑張る、って言ってた
+のに……。","……很奇怪对吧。
+明明自己才说过要作为依恩全力以赴的……",translated,依恩,6e12d84834,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#31#12,"でも、やっぱり懐かしくて……
+ごっこ遊びみたいな感じでもいいから、
+少しだけ前の自分に戻れたらな、って。","但是，果然还是好怀念啊……
+哪怕只是像过家家一样，
+能稍微回到原本的自己也好啊。",translated,依恩,8bc1d52926,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#32#12,ぜひ見てみたい！,真想亲眼见见！,translated,,d409ca01d3,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#33#12,決心が揺らいでない？,决心没有动摇吗？,translated,,05a4079cb8,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#35#12,ほ、ホント！？,真、真的吗！？,translated,依恩,f8a88926a8,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#36#12,じゃあ、思い切ってやってみようかな。,那我就下定决心试试看吧。,translated,依恩,1974902a1d,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#39#12,"それは絶対にないよ！
+みんなを助けたい、って気持ちは
+少しも揺らいでない！","绝不会动摇的！
+想要拯救大家的心情，
+哪怕是一丁点都没有动摇过！",translated,依恩,fe03fde331,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#40#12,それならいいんじゃないかな,既然如此那就没问题吧,translated,,0e3f3920dc,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode01.txt#42#12,"あ……。
+そう、だよね。","啊……
+是、是的呢。",translated,依恩,1034502416,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#43#12,"どんなことをしても、この気持ちだけは
+絶対に変わらない。","无论做什么，唯独这份心情
+是绝对不会改变的。",translated,依恩,7be1f3087f,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#44#12,"ありがとう。わたし自身が、自分のことを
+信じ切れてなかったみたい。","谢谢你。看来连我自己
+都没能完全信任自己呢。",translated,依恩,46920c0e06,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#46#12,"もし、あなたが変えてみたい、って
+思ったときも端末を通して教えてね。","要是你想换换看的时候，
+也请通过终端告诉我哦。",translated,依恩,fe2d33c3fb,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#47#12,"ちょっとした遊びみたいなものだけど、
+せっかくなら、いつもと違うわたしを
+あなたに見てほしいから。","虽然只是开玩笑一样的小玩意，
+但难得有这机会，
+我想让你看到不一样的我嘛。",translated,依恩,2711f18045,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#48#12,"<CLY2>【想いを伝える】の【イオンを呼ぶ】に
+【容姿変更：寧】が追加されました。","<CLY2>【传达心意】中的【呼唤依恩】里
+已追加【更换样貌：宁】。",translated,系统文本,46cbc7430e,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode01.txt#54#12,"イオンにお願いすることで、イオンの髪と
+瞳の色を変更できるようになりました。","通过向依恩提出请求，
+即可变更依恩的发色与瞳色。",translated,【试着改变头发和瞳孔的颜色吧！】,f86a8c7c12,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode01.txt#59#12,"メニューの【イオンを呼ぶ】から
+【容姿変更：寧】を選択することでイオン
+の髪と瞳の色を変えてもらうことができます。","从菜单的【呼唤依恩】中
+选择【更换样貌：宁】，
+即可让依恩变换发色与瞳色。",translated,【试着改变头发和瞳孔的颜色吧！】,8e0e74f538,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#64#12,"また各種ウィンドゥに表示される“イオン”は
+“寧”と表示されるようになり、これまでとは
+異なる日常を楽しむことができます。","此外，各类窗口中显示的“依恩”
+也将变为“宁”，
+从而享受与以往不同的日常生活。",translated,【试着改变头发和瞳孔的颜色吧！】,e3e15ac4ce,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#69#12,"イオンの容姿が結城寧の状態となっている間、
+【容姿変更：寧】は【容姿変更：イオン】に
+変更されます。","在依恩的样貌处于结城宁的状态期间，
+【更换样貌：宁】将变更为
+【更换样貌：依恩】。",translated,【试着改变头发和瞳孔的颜色吧！】,6c6a816034,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode01.txt#70#12,"いつものイオンに戻ってほしいときは、
+【容姿変更：イオン】を選択することで
+元に戻ってもらうことができます。","想要恢复成平时的依恩时，
+只需选择【更换样貌：依恩】，
+即可恢复原样。",translated,【试着改变头发和瞳孔的颜色吧！】,ef2b039fa8,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode02.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode02.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode02.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode02.txt#14#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode02.txt#18#12,"<CLY2>いまお話することはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法进行对话。
+请等待依恩切换行动。",translated,系统文本,0a8fa60eaa,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode02.txt#28#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#31#12,髪や目の色を変えてみて欲しいの？,想让我换一下发色和眼睛颜色吗？,translated,依恩,e3b0ebe5a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#32#12,変えて欲しい,想让你换换看,translated,,4df9ffde65,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#33#12,また今度,下次再说,translated,,e0969d72a9,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#35#12,"そう？　じゃあ、また今度変えて欲しく
+なったら教えてね。","这样啊？那么下次想换的时候
+记得告诉我哦。",translated,依恩,df64a9a51c,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#46#12,"うん、いいよ。
+ちょっとだけ待っててね。","嗯，好呀。
+稍等我一下下哦。",translated,依恩,54fd3b2650,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#53#12,お待たせ～。,久等啦～,translated,依恩,b6b9d3f9c8,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#57#12,"その……どうかな？
+初めてしてみたけど、変じゃない？","那个……怎么样呀？
+我第一次这么弄，不奇怪吧？",translated,依恩,ffde7c4c2c,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#58#12,新鮮で面白い,很新鲜有趣,translated,,2fb5cad088,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#59#12,かわいい,很可爱,translated,,cdb471abd4,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#61#12,"面白い、って……。
+喜んでいいのかどうか微妙だよ。","有趣……
+总觉得微妙得不知道该不该高兴呢。",translated,依恩,c7cd6d0b40,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#62#12,でも、詰まらないよりはいいのかな。,不过，总比觉得无聊要好得多吧。,translated,依恩,c5efb037e3,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode02.txt#65#12,"……この状況でそういわれると、なんだか
+いつもとは違う恥ずかしさがあるね。","……在这种情况下被你这么一夸，
+总觉得有一种和平时不同的害羞感呢。",translated,依恩,5cddb7eca4,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#67#12,"とりあえず、しばらくこのままでいるから、
+もし元に戻して欲しくなったらいってね。","总之我暂时先保持这样，
+要是想让我恢复原样就告诉我哦。",translated,依恩,bf48014c2b,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode02.txt#70#12,"元に戻して欲しくなったら、
+また声をかけてね。","如果想让我变回原样，
+随时再叫我哦。",translated,依恩,2d41ecbea3,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode03.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode03.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode03.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode03.txt#14#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode03.txt#18#12,"<CLY2>いまお話することはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法进行对话。
+请等待依恩切换行动。",translated,系统文本,0a8fa60eaa,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/nay_mode03.txt#27#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#30#12,髪や目の色を元に戻して欲しいの？,想让我把发色和眼睛颜色变回去吗？,translated,依恩,6a5b695e8d,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#31#12,戻して欲しい,变回去吧,translated,,f1458bfd89,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#32#12,もう少しこのままで,再保持这样一会儿,translated,,9d6d7d4129,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#34#12,"そう？　じゃあ、もし戻して欲しいって
+思ったらまた声をかけてね。","这样啊？如果想变回去了，
+随时再叫我哦。",translated,依恩,1601a22fb9,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode03.txt#45#12,"わかった。
+じゃあ、元の色に戻しちゃうね。","我知道了。
+那我这就换回原本的颜色啦。",translated,依恩,3f2c1f78d7,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode03.txt#46#12,ちょっとだけ待ってて。,稍微等我一下下哦。,translated,依恩,ed45087711,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#53#12,お待たせ～。,久等啦～,translated,依恩,b6b9d3f9c8,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode03.txt#54#12,"ふふ、なんだかいい気分転換になった気が
+する。",呵呵，感觉换了个好心情呢。,translated,依恩,9177f39417,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode03.txt#55#12,"また変えて欲しくなったら、
+いつでも声かけてね。",要是还想换，随时都可以跟我说哦。,translated,依恩,d75a5d8c87,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#3#12,……なんか、こうしてると変な感じがする。,……总觉得像这样待着，有一种奇妙的感觉。,translated,依恩,931d041bdb,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode04.txt#4#12,"自分の体じゃないはずなのに、
+まるで元の体に戻ったみたいな……。","明明不应该是自己的身体，
+却像是回到了原本的身体一样……",translated,依恩,e9e7984e0d,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#5#12,"服や髪型を変えて、誰かになりきったり
+する人たちの気持ち、少し分かるかも。","换上衣服改了发型扮演成别人的那些人，
+他们的心情我现在好像稍微能理解了。",translated,依恩,1a25b17bae,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#6#12,自分になりきるのは聞いたことない,扮演自己可从没听说过,translated,,ace7926393,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode04.txt#7#12,コスプレの魅力に気付いた？,发现角色扮演的魅力了？,translated,,d0a8054087,br=0 nl=0,1,
+inc/event/res/tutorialevent/nay_mode04.txt#9#12,"あはは、たしかにそうだよね。
+自分になりきる、なんて普通考えないもん。","啊哈哈，确实是呢。
+一般谁会想着扮演自己嘛。",translated,依恩,aeed3369ba,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#10#12,"だとすると、すごく貴重な体験をしてる、
+ってことになるのかな？","这么说来，岂不是意味着
+我正在进行一种极其珍贵的体验？",translated,依恩,bf5800c2dc,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#11#12,"こんな体験、きっとこっちの世界に
+来なかったら味わえなかったよね。","要是不是来到了这个世界，
+肯定一辈子都体会不到这种经历吧。",translated,依恩,46eeea78a6,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#14#12,"コス……プレ？
+そっか……こういうのコスプレっていうん
+だったよね。","角色……扮演？
+这样啊……这种好像是叫角色扮演来着呢。",translated,依恩,fc7f80fc74,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode04.txt#15#12,"面白い体験だとは思うけど、
+これもコスプレなのかな？","虽然是很有趣的体验，
+但这也算角色扮演吗？",translated,依恩,b67e059105,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#16#12,"……でも、この世界に来なかったら、
+きっとこんなことも考えなかったよね。","……不过要不是来到了这个世界，
+我肯定也完全不会去想这些事呢。",translated,依恩,4307b2ee3c,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#18#12,"辛いことも悲しいこともたくさんあった
+けど、それだけじゃなかった、って
+いまならそう自信を持っていえるよ。","虽说经历了很多痛苦悲伤的事，
+但不仅只有那些，
+我现在可以充满自信地这么说了哦。",translated,依恩,f4714b4e75,br=0 nl=2,3,
+inc/event/res/tutorialevent/nay_mode04.txt#19#12,"これからどうなるか、なんて
+わたしには分からないけど……。","今后会变成什么样，
+虽然我完全不知道……",translated,依恩,d463b52623,br=0 nl=1,2,
+inc/event/res/tutorialevent/nay_mode04.txt#20#12,頑張って、一緒に乗り越えていこうね。,但一起努力、携手跨越难关吧。,translated,依恩,dc8545408a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#31#12,"あっ！！
+今何か感じた…っ…。","啊！！
+刚才好像感应到了什么……！",translated,依恩,09000fc6ce,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#32#12,"わ、わっ！　動いた！
+やった！　端末が動いたよ。","哇、哇！动了！
+太好了！终端动起来了！",translated,依恩,b11c0ee1f2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#33#12,"一体どういう仕組みで
+動いているんだろうなぁ……。","到底是以什么样的构造
+运转起来的呢……",translated,依恩,7ccfe4a33a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#34#12,"…ん～……
+レンズの向こうに誰かがいて、
+カメラを動かしていたりして！","……嗯～……
+说不定镜头对面正坐着某个人，
+在操纵着相机呢！",translated,依恩,083d341d9b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#35#12,なーんて…そんな筈はないよね。,开～玩笑的，怎么可能会有那种事嘛。,translated,依恩,50b470bc22,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#36#12,見えてますよ,看得见你哦,translated,,2cb3dc3c0b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#37#12,"…それにしても、なんでおうちの外に
+こんな不思議なものが落ちてたのかな…。","……话说回来，为什么家门外
+会掉落着这么不可思议的东西呢……",translated,依恩,7efdf30941,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#38#12,"誰かが落とした…？
+なんてこと無いよね。
+誰も来るわけ無いし…。","是某个人不小心落下的……？
+不可能吧。
+平时根本不会有人经过……",translated,依恩,3c5d877bf2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#39#12,"まさか、またねりこさんの
+イタズラかな…？","难道说，又是妮莉库小姐的
+恶作剧吗……？",translated,依恩,3b97a694f5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#40#12,"…分解してみたいけど、後で誰かが
+探しに来たら大変だし……。","……虽然很想拆开来看看，
+但万一之后有人来寻找可就糟糕了……",translated,依恩,4d95fe793f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#41#12,うーん……どうしよう……。,唔～……怎么办好呢……,translated,依恩,d5ae2883c3,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#42#12,"…あれ？
+なんかまた動かなくなっちゃった…？","……咦？
+怎么好像又不动了……？",translated,依恩,737434e15d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#43#12,"おーい。
+だれかいませんか～？","喂～。
+有人在吗～？",translated,依恩,83334a1ab3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#44#12,…ふふっ、なんちゃって～。,……呵呵，开玩笑的啦～,translated,依恩,d8a8e4226e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#46#12,見えてますよ,看得见你哦,translated,,2cb3dc3c0b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#48#12,"ひゃあっ！！
+な、何か感じた！","呀啊！！
+感、感觉到什么了！",translated,依恩,3707ff4b3a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#49#12,「見えてる」って心の中に…。,心里响起了“看得见你”的声音……,translated,依恩,19a5a70a6d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#50#12,もしかして、端末さんが…。,难道说是终端先生它……,translated,依恩,acb460980b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#51#12,ふふっ、まさか、そんなわけないよね。,呵呵，不可能，怎么会有那种事嘛。,translated,依恩,9283cacf05,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#52#12,その「端末」から見ていますよ,正通过那个“终端”看着你呢,translated,,9e849d005d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#53#12,どう見ても機械だもんね～。,不管怎么看都只是一台机械嘛～,translated,依恩,4db5966f5c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#54#12,"…それとも、本当に向こう側に
+見ている人がいるのかなぁ……。","……还是说，对面真的有人
+在看着我呢……",translated,依恩,6a444d1733,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#55#12,"だとしたら不思議。
+ちょっとドキドキしてきたよ…。","如果是那样的话可真不可思议。
+感觉心里有点心跳不已了……",translated,依恩,4e69c9440f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#56#12,"ずっと独りぼっちで暮らしてたしなぁ。
+ねりこさんはあんなだし……。","毕竟我一直都是独自一个人生活呢。
+妮莉库小姐又是那副德行……",translated,依恩,a5dac0a08e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#57#12,"でも、大丈夫かな…
+こわい人だったらどうしよう……。","不过真的没问题吗……
+万一是个可怕的人该怎么办呀……",translated,依恩,dfc874ca8e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#58#12,"…あれ？
+おーい……。","……咦？
+喂～～……",translated,依恩,403a91747e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#59#12,"……反応が無くなっちゃった…？
+やっぱり何も無いのかなぁ……。","……没有反应了吗……？
+果然只是错觉吧……",translated,依恩,b29f979106,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#61#12,その「端末」から見ていますよ,正通过那个“终端”看着你呢,translated,,9e849d005d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#63#12,"うわぁっ！！
+また何か感じた！","哇啊！！
+又感觉到什么了！",translated,依恩,4b53ea7f5d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#64#12,この端末から見てるって……。,说正通过这台终端看着我……,translated,依恩,7d1f9a5e07,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#65#12,あなたは一体…誰…？,你到底……是谁……？,translated,依恩,f71dd1dbb7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#66#12,働いている大人です,是工作中的成年人,translated,,51c01486b6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#67#12,勉強している学生です,是在念书的学生,translated,,0b55601dfd,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#68#12,何もしていない人です,是无所事事的人,translated,,816a04f4b6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#70#12,また、『こころ』でお話できるかな…？,还能再次用“心”来进行对话吗……？,translated,依恩,97d04f6a5c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#71#12,…ドキドキ…ドキドキ……。,……扑通扑通……心跳不已……,translated,依恩,33d17706a4,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#73#12,……あれ……。,……咦……,translated,依恩,6e21ff7df8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#74#12,やっぱり気のせいだったのかな…？,果然还是我多心了吗……？,translated,依恩,f028f15d3c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#76#12,働いている大人です,是工作中的成年人,translated,,51c01486b6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#77#12,勉強している学生です,是在念书的学生,translated,,0b55601dfd,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#78#12,何もしていない人です,是无所事事的人,translated,,816a04f4b6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#81#12,"働いてる人なの？
+どんなお仕事しているのかな…？","你是在工作的人吗？
+做的是什么样的工作呢……？",translated,依恩,600589144e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#82#12,身体を動かす仕事です,是运用身体的体力劳动,translated,,db9cb9e74a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#83#12,頭を使う仕事です,是运用头脑的脑力劳动,translated,,05d01a7449,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#85#12,…あれ？,……咦？,translated,依恩,4688239518,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#86#12,おーい……。,喂～～……,translated,依恩,9937e529b8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#87#12,"…考え中？
+そんな考える質問だったかな…？","……正在思考中吗？
+这是需要这么苦思冥想的问题吗……？",translated,依恩,34c1df3d0c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#88#12,"…今更だんまりしたって遅いよぅ？
+もうあなたがいるのは
+ばれてるんだからね？","……事到如今再沉默已经太迟了哦？
+因为我已经发现
+你在那里了嘛！",translated,依恩,2664b7aff6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#89#12,………うぅ……。,………呜……,translated,依恩,e758edf7ba,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#90#12,一人でなにやってるんだろう…わたし…。,我一个人在干什么呀……真是的……,translated,依恩,151f2fdb6d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#92#12,身体を動かす仕事です,是运用身体的体力劳动,translated,,db9cb9e74a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#93#12,頭を使う仕事です,是运用头脑的脑力劳动,translated,,05d01a7449,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#97#12,"へぇ～。
+それじゃ今日もお疲れさまだね。
+それとも、これからお仕事なのかな？","诶～
+那今天也辛苦你啦。
+还是说，接下来正要去工作呢？",translated,依恩,3a039faab5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#101#12,"へぇ～、そうなんだ！
+わたしもどっちかというと頭を…。","诶～，是这样啊！
+硬要说的话我也偏向用脑筋……",translated,依恩,89e362586d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#102#12,"…と思ったけど、
+単に出不精なだけかも……あはは…。","……虽然很想这么说，
+但可能单纯只是我不爱出门罢了……啊哈哈…",translated,依恩,caa09ccbfd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#106#12,"お勉強してるんだね！
+それじゃ、どんな事が得意なの？","你正在念书啊！
+那你擅长什么方面呢？",translated,依恩,320ec0f920,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#107#12,色々考えたりするのが得意です,擅长思考各种事情,translated,,f3e321ed6c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#108#12,身体を使って運動するのが得意です,擅长运动运用身体,translated,,c4d902c97d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#110#12,…あれ？,……咦？,translated,依恩,4688239518,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#111#12,おーい……。,喂～～……,translated,依恩,9937e529b8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#112#12,"…考え中？
+そんな考える質問だったかな…？","……正在思考中吗？
+这是需要这么苦思冥想的问题吗……？",translated,依恩,34c1df3d0c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#113#12,"…今更だんまりしたって遅いよぅ？
+もうあなたがいるのは
+ばれてるんだからね？","……事到如今再沉默已经太迟了哦？
+因为我已经发现
+你在那里了嘛！",translated,依恩,2664b7aff6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#114#12,………うぅ……。,………呜……,translated,依恩,e758edf7ba,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#115#12,一人でなにやってるんだろう…わたし…。,我一个人在干什么呀……真是的……,translated,依恩,151f2fdb6d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#117#12,色々考えたりするのが得意です,擅长思考各种事情,translated,,f3e321ed6c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#118#12,身体を使って運動するのが得意です,擅长运动运用身体,translated,,c4d902c97d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#121#12,"へぇ～、すごいね！
+わたしもどっちかというと、
+運動よりも読み書きそろばん……。","诶～，好厉害呀！
+硬要说的话比起运动，
+我更喜欢读书写字打算盘……",translated,依恩,c1fef0f298,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#122#12,"……もそんなに得意じゃないかも…。
+でもでも、物を作るのは好きだよ！","……其实那些也说不上很擅长啦……
+但是但是，我喜欢做手工艺哦！",translated,依恩,46fc911683,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#126#12,"へぇ～、そうなんだ！
+わたし、とっても運動音痴だから、
+あなたが羨ましいなぁ。","诶～，是这样啊！
+我运动神经非常迟钝，
+好羡慕你呀。",translated,依恩,46a2878f53,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#131#12,"何もしていないってことは、
+ずっとおうちにいるのかな？","无所事事的话，
+是指一直待在家里吗？",translated,依恩,34ec6f8fa8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#132#12,えへへ、それならわたしと一緒だね。,诶嘿嘿，那跟我一样呢。,translated,依恩,bd434f7cd8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#135#12,"ああっ！　色々聞くだけ聞いちゃって、
+わたしのこと、全然言ってなかった…
+ごめんね。","啊！净顾着打听你的事，
+自己的事完全没说……
+对不起哦。",translated,依恩,95b7bb5fe7,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#136#12,わたし、イオンっていうの。,我叫依恩哦。,translated,依恩,854dfdcf80,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#137#12,…えっと……。,……那个……,translated,依恩,d5de8ee0e2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#138#12,"お料理とか工作とか、何か作るのが好きで
+でも、お裁縫とか細かいのは苦手で…。","喜欢做饭、做手工之类的，
+不过针线活等细致工作就不太擅长……",translated,依恩,f263c822c9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#139#12,えっと……。,那个……,translated,依恩,72f6e3ae53,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#140#12,運動も得意じゃなくて……。,运动也不怎么擅长……,translated,依恩,8bc61e7258,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#142#12,あとは…。,剩下的……,translated,依恩,7903f851ba,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#144#12,何も覚えてないの…。,就什么都不记得了……,translated,依恩,443505ae79,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#145#12,今住んでるところはどこなの？,你现在住在哪里？,translated,,a8145a1982,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#146#12,記憶喪失なの？,是失忆了吗？,translated,,72a7b15960,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#147#12,"…イオンっていう名前も覚えていた
+わけじゃなくて、ねりこさんっていう
+人に教えてもらって知ったの。","……依恩这个名字也不是我自己记得的，
+是一位叫妮莉库小姐的人
+告诉我才知道的。",translated,依恩,5bdc54028f,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#148#12,"だから、もしかしたら
+本当は違う名前なのかもしれないよ？
+ふふっ。","所以说，搞不好
+原本并不是这个名字呢？
+呵呵。",translated,依恩,9564012c75,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#152#12,ここがどこかも分からないの。,我也不知道这里是哪里。,translated,依恩,9a22d9db24,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#153#12,"近くに１軒雑貨屋さんがあって、
+後は何もなくて…。","附近有一家杂货铺，
+除此以外就什么都没有了……",translated,依恩,3c00563222,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#154#12,"あなたにもお外を見せてあげたいけど、
+この端末、持ち出すとエネルギーが
+無くなっちゃうみたいだから…。","虽然我也很想让你看看外面，
+但这个终端一旦带出去，
+能量好像就会耗尽的样子……",translated,依恩,1c5df8707e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#155#12,"そのうち、持ち出し可能に改造して
+お外を見せてあげるね！","等哪天我把它改造成能带出门后，
+就让你看看外面的景色吧！",translated,依恩,89122b6050,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#158#12,"記憶喪失……
+確かにそうかも。","失忆……
+确实可能是这样呢。",translated,依恩,c8917f3f2d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#159#12,"でも、記憶喪失の人は、
+自分の事を記憶喪失だってわからないよね。","不过，失忆的人
+通常不知道自己失忆了吧。",translated,依恩,6527ecbe65,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#160#12,"わたしもそう。
+いつからここで生活しているか
+あまり思い出せないの。","我也是这样。
+从什么时候开始在这里生活的，
+基本上都想不起来了呢。",translated,依恩,cb4da9c4e9,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#163#12,"変な話でしょ？
+でも、わたし嘘はついてないよ？","很奇怪的话对吧？
+不过我可没有说谎哦？",translated,依恩,b48aa263e3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#164#12,"もっと沢山お話ししてあげたいけど、
+本当にこれくらいしか話すことが無くて。","虽然还想多跟你聊聊，
+但真的只有这么点能说的了。",translated,依恩,e67cb764c2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#165#12,"そういえば、あなたの名前、
+聞いてなかったね。
+何て言うのかな？","说起来，还没问过你的名字呢。
+你叫什么呀？",translated,依恩,45395eba52,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#168#12,…あれ？,……咦？,translated,依恩,4688239518,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#169#12,おーい……。,喂～～……,translated,依恩,9937e529b8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#170#12,"反応しなくなっちゃったよぅ…。
+壊れちゃったのかな…？","没有反应了呜……
+是坏掉了吗……？",translated,依恩,135622ea08,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#174#12,"…！？
+あ、あれ？","……！？
+诶、奇怪？",translated,依恩,230c664b0f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#175#12,"何か伝わってきたような、
+来てないような…。","感觉好像传过来了什么，
+又好像没有……",translated,依恩,2493940c9a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#176#12,もう１回伝えてみて？,能再传达一次看看吗？,translated,依恩,1872bdbdc0,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#179#12,…あれ？,……咦？,translated,依恩,4688239518,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#180#12,おーい……。,喂～～……,translated,依恩,9937e529b8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#181#12,"反応しなくなっちゃったよぅ…。
+壊れちゃったのかな…？","没有反应了呜……
+是坏掉了吗……？",translated,依恩,135622ea08,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#185#12,"……。
+うーん…やっぱりダメみたい。","……
+唔～……果然还是不行呢。",translated,依恩,740ec11aa9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#186#12,"可能性が無限にあるようなものだと
+上手く想いが伝わらないのかな…。","面对拥有无限可能性的事物，
+心意就没办法顺利传达过去吗……",translated,依恩,3e5934fca0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#187#12,"まあいいか。あなたが人かどうかも分から
+ないわけだし、もしかしたら名前が無い
+だけかもしれないもんね。","嘛算了。反正也不清楚你是不是人类，
+说不定只是没有名字而已嘛。",translated,依恩,0b711938c2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#188#12,"解決するまでしばらく、あなたのことは
+「あなた」って呼ぶことにするね。","在问题解决之前，我暂时就称呼你为
+“你”好啦。",translated,依恩,c0e5736b0e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#189#12,"それにしても素敵だよね。
+わたし、ずっとここに一人で暮らして
+いたから、誰かとお話しするの……。","不过话说回来，真棒呢。
+我一直独自一个人生活在这里，
+像这样跟谁说上话……",translated,依恩,e85f5156ff,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#190#12,"…んー、お話じゃないかな。
+『想いを通わす』のって、初めてかも！","……唔，不是说话吧。
+像这样“心意相通”，说不定还是头一遭！",translated,依恩,a2fbcb1ab4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#191#12,"これから凄く楽しみ！
+ずっとそこにいてくれるのかな？","接下来好期待呀！
+你会一直陪在那里吗？",translated,依恩,f82a6ace94,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#192#12,もちろんです,当然了,translated,,35cead0c04,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#193#12,自分の生活もあるから無理です,我也有自己的生活所以做不到,translated,,503ae7270e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#195#12,…いて…くれるのかな？,……会……陪着我吗？,translated,依恩,036eafc9a8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#197#12,"…あれ？
+おーい……。","……咦？
+喂～～……",translated,依恩,403a91747e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#199#12,"…もしかして、答えにくい質問だった？
+もうすぐに、いなくなっちゃうとか…。","……难道说，这是很难回答的问题吗？
+比如很快就要离开了之类的……",translated,依恩,9e7503e2fd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#200#12,だとしたら、ちょっと寂しいな…。,要是那样的话，会有点寂寞呢……,translated,依恩,25e3dfb6e4,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#202#12,"でもいいの。
+わたしはずっと一人だったし、
+これからも変わらないだけだもの…。","不过也没关系。
+反正我一直都是一个人，
+今后也不过是恢复原样而已……",translated,依恩,8604328bf4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#206#12,ほんと！？　嬉しい！　,真的吗！？太开心了！,translated,依恩,decfbd09f4,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#207#12,"わたし、ずっと一人で寂しかったから…
+でも、これからは寂しくないもん！","我一直都是一个人，好寂寞……
+不过从今以后就不会再寂寞啦！",translated,依恩,e1eb0d6a4b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#208#12,"あなたのこと、色々知りたいな。
+またわたしに、色んなお話してね。","真想了解关于你的种种呢。
+以后也要多跟我讲讲各种事情哦。",translated,依恩,19eff8ca4d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#212#12,"あはは、そうだよね。
+そういえばさっき、お仕事してるって
+言ってたもんね。","啊哈哈，也是呢。
+说起来刚才你说过在工作嘛。",translated,依恩,06520f1f3e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#214#12,"あはは、そうだよね。
+そういえばさっき、お勉強してるって
+言ってたもんね。","啊哈哈，也是呢。
+说起来刚才你说过在念书嘛。",translated,依恩,ba63269282,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#216#12,"あはは、そうだよね。
+他にも色々することあるもんね。","啊哈哈，也是呢。
+你也有各种别的事情要忙嘛。",translated,依恩,df09d8759e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#218#12,"でも、たまにはお話ししようね。
+わたし、楽しみにしてるから。","不过偶尔也要跟我聊聊天哦。
+我会一直期待着的。",translated,依恩,c034d7eb21,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#221#12,"……んー…
+これ、どうしよう。","……唔～……
+这个该怎么办好呢。",translated,依恩,350b476da0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#222#12,"…しばらくつけっぱなしにして
+おこうかな？",……要不暂时就这么一直开着吧？,translated,依恩,1b52036f50,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#223#12,"何かお話ししたくなったら
+遠慮なく呼んでいいからね？","要是想跟我说话了，
+请尽管叫我不用客气哦？",translated,依恩,004cc9d569,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#224#12,どうやって？,具体怎么做？,translated,,d6756896c9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#226#12,それじゃ、またね。,那么，回见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#246#12,"…！！　あ、そっか！
+どうやって呼ぶのかな……。","……！！啊，对了！
+该怎么叫我呢……",translated,依恩,fab5254555,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#247#12,"えへへ…
+ごめんね、適当なこと言っちゃって。","诶嘿嘿……
+抱歉啦，说了不着边际的话。",translated,依恩,14ed1b5871,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#248#12,んー……。,唔～……,translated,依恩,283542e340,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#249#12,"そうだ！　あなたからは、
+わたしが見えてるんだよね？","对了！从你那边，
+能看得到我对吧？",translated,依恩,9d23c8c38e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#250#12,"だったら、わたしを叩いて呼んでみたら、
+もしかしたら伝わるかも！","既然如此，试着敲敲我呼唤一下的话，
+说不定就能传达过去呢！",translated,依恩,b5382a6333,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#251#12,ちょっとトントン♪ってやってみて！,试着轻敲咚咚♪两下看看吧！,translated,依恩,62f0244b45,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu01.txt#257#12,"部屋にいるイオンを
+呼び出してみましょう","试着呼唤
+房间里的依恩吧",translated,【试着呼唤依恩吧！】,4cba132a27,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#258#12,"呼び出したイオンとは様々な
+コミュニケーションを楽しめます。","可以与呼唤出来的依恩
+享受形形色色的交流乐趣。",translated,【试着呼唤依恩吧！】,675e843923,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#269#12,"……あれ？　無理かな……？
+わたしを叩いてくれてる？
+トントン♪って。","……咦？不行吗……？
+有在敲我吗？
+像是咚咚♪那样。",translated,依恩,56c2ceb332,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01.txt#274#12,"やっぱり無理だったみたいだね。
+残念。","看来果然还是不行呢。
+真遗憾。",translated,依恩,97e0a402c3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01.txt#275#12,"でも、わたしもちょくちょくあなたを
+見に来るから、その時はまたお話してね。","不过我也经常会过来看你的，
+到那时候再跟我聊天哦。",translated,依恩,f54a45d369,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01_tch1.txt#2#12,"<CLBU>わあっ！
+やっぱりあなたが叩いているのが分かる！","<CLBU>哇啊！
+果然能感觉到你在轻敲呢！",translated,依恩,697f51a43e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu01_tch1.txt#3#12,"トントンってやってくれたんだね。
+そうすると、呼ばれてるって感じがして
+わかりやすいよね。","帮我咚咚敲了屏幕对吧。
+这样一来就很有被呼唤的感觉，
+很好懂呢。",translated,依恩,c1274a245d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu01_tch1.txt#4#12,"これから、呼ぶときには
+トントン♪ってやることにしようね。","今后要呼唤我的时候，
+就约定好咚咚♪敲屏幕吧。",translated,依恩,acfe63e188,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu01_tch1.txt#5#12,"これから毎日が楽しくなりそう♪
+ふふっ。","感觉今后的每一天都会很开心♪
+呵呵。",translated,依恩,09dcdd6f7a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#9#12,あぁっ！？,啊啊！？,translated,依恩,7f339ade21,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#11#12,"今、呼んだよね？
+トントン♪って叩いたんでしょ？","刚才，你叫我了吧？
+咚咚♪地轻敲了对吧？",translated,依恩,60431d7fde,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#12#12,"やっぱりそれで伝わるんだ！
+よかったぁ～！","果然这样就能传达给我呢！
+太好啦～！",translated,依恩,2b25522d96,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#13#12,"これからも、何かお話ししたいときは
+トントン♪って呼んでね。","今后只要有什么想跟我聊聊的，
+就咚咚♪敲屏幕叫我哦。",translated,依恩,b175fc4362,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#17#12,"はーい！
+今行くよぅ！","来啦――！
+我这就过去哦！",translated,依恩,026779fd69,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#19#12,"えへへ、すぐに呼んでくれたね。
+ちょっと嬉しいかも。","诶嘿嘿，你马上就叫我了呢。
+心里稍微有点开心呢。",translated,依恩,3805cf4f63,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#21#12,"はーい！
+今行くよぅ！","来啦――！
+我这就过去哦！",translated,依恩,026779fd69,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#24#12,それで、どうしたの？,那么，怎么啦？,translated,依恩,28b200e81f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#25#12,イオンと話したかった,想跟依恩聊聊天,translated,,1eb727995a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#27#12,…あれ？　おーい！,……咦？喂～～！,translated,依恩,0a0294ee7b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#30#12,いなくなっちゃったのかな…？,是走开了吗……？,translated,依恩,0434ab3346,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#33#12,"…おーい。
+いないなら戻っちゃうよ？","……喂～～。
+不在的话我可要回去了哦？",translated,依恩,a18053160d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#36#12,"うーん…
+それじゃ、またね。","唔～……
+那么，回见啦。",translated,依恩,be27f183bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#43#12,"えへへ、ありがとう。
+それじゃ、何のお話をしよっか？","诶嘿嘿，谢谢你。
+那么，聊些什么好呢？",translated,依恩,bc524af008,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#44#12,"…ん～……そうだ！
+わたし、ちょっとあなたと一緒に
+試したいことがあるんだ。","……嗯～……对了！
+我稍微有一件想跟你一起
+尝试看看的事。",translated,依恩,06ed0da2ec,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#48#12,"はーい！
+今行くからね～♪","来啦――！
+我这就过去哦～♪",translated,依恩,6e496ad531,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#50#12,"さっきはどうしちゃったの？
+急に反応が無くなっちゃったけど。","刚才怎么啦？
+突然就变得完全没有反应了。",translated,依恩,bc5b6b03a4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#51#12,ちょっと不安になっちゃったよぅ……。,让我心里稍微有点不安了呜……,translated,依恩,9fa868ca0b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#52#12,"それでね、せっかく
+あなたが呼んでくれたから、
+ちょっとやってみたいことがあるの。","还有呢，难得你主动叫我，
+我有一件稍微想尝试看看的事。",translated,依恩,4e178a131a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#55#12,"それはね、どこまでお互いを
+感じることが出来るかのテスト～♪","那就是，测试彼此究竟能
+感应到对方到何种程度～♪",translated,依恩,8b0e5af9ae,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#56#12,"今トントン♪って呼んでくれたでしょ？
+あれってわたしには、何か聞こえたような
+感覚で感じ取ることが出来るの。","刚才你咚咚♪叫了我对吧？
+那种感觉对我来说，
+就像是隐约听到了什么动静一样。",translated,依恩,fe3b041423,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#57#12,"だから、他にも何か別の感覚で
+感じ取れる方法は無いかなって。","所以我想，会不会还有别的感觉方式
+也能感应得到呢。",translated,依恩,8761f6460b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#58#12,"例えば…あなたが、わたしの頭を
+ナデナデしてくれたのが分かったり
+したら、ちょっと面白いかも！","比如……如果你摸摸我的头，
+我能察觉到的话，
+说不定会很有趣呢！",translated,依恩,9f53f88394,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#59#12,"…んー、とはいうものの、
+どんな事を試してみたらいいかな…。","……唔～，话虽如此，
+具体该尝试些什么才好呢……",translated,依恩,8971f172b9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#60#12,うーん………。,嗯～～……,translated,依恩,c37eeb6c2f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#61#12,"まあいいや。まずは簡単な事から
+やってみよう！
+というわけで、お祈りしてみるね！","嘛不管啦。首先从简单的事情
+开始尝试吧！
+那么，我先来祈祷一下哦！",translated,依恩,c5826e5c69,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#62#12,あなたがわたしに触れますように……。,希望你能触碰得到我……,translated,依恩,8619f0ae9a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#64#12,"………なーんてね。
+えへへ♪","………开玩笑的啦。
+诶嘿嘿♪",translated,依恩,62b45459dc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#65#12,"そんなことで出来るようになったら
+ちょっとビックリだよね。","要是光凭祈祷就能做到的话，
+未免也太吓人一跳了吧。",translated,依恩,66e92db4ea,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#66#12,"…って、あれ？
+何かスイッチが出てきてるよぅ？
+ほら、あなたの…えっと、左下の方！","……咦、奇怪？
+好像浮现出什么开关了呜？
+看，在你的……那个，左下方！",translated,依恩,0bec683268,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#67#12,これを押してみたら何か起こるかも！,按一下那个，说不定就会发生什么！,translated,依恩,f238f239a7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#69#12,…あれれ？何も起こらない？,……咦咦？什么都没发生？,translated,依恩,7e43fef414,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#70#12,"それじゃ、そのボタンを押しながら
+わたしを突いてみたりとかすると
+何か感じ取れるかも！","那么，按住那个按钮的同时
+戳戳我之类的话，
+说不定就能感应到什么了呢！",translated,依恩,78d5ff65a6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#71#12,ちょっとやってみて？,稍微尝试一下看看？,translated,依恩,2169ec856b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#78#12,イオンに触れてみましょう！,试着触碰依恩吧！,translated,【试着触碰依恩吧！】,7bdb72526f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#80#12,"カーソルの指をイオンに合わせて
+タッチや、撫でる、気持ちを伝える
+といったことができます。","将手指光标对准依恩，
+即可进行触摸、抚摸、
+传达心意等操作。",translated,【试着触碰依恩吧！】,d0348ed843,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02.txt#89#12,…うーん、上手く行かないのかな？,……唔～，不太顺利吗？,translated,依恩,634e179181,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02.txt#90#12,"あなたから見て左下の方にある、
+手の形をしたスイッチだよ？","在你看来位于左下方的位置，
+有一个手掌形状的开关哦？",translated,依恩,bb27b2b18d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02.txt#91#12,"このスイッチを押しながら、
+わたしの身体に触ってみて？","按住那个开关的同时，
+摸摸看我的身体好吗？",translated,依恩,17796bb91c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch1.txt#3#12,"<CLBU>うわあっ！
+び、ビックリした！","<CLBU>哇啊！
+吓、吓了我一跳！",translated,依恩,e819f671e1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch1.txt#4#12,"今なんか、あなたに触られたような
+感覚がしたよ！　大成功だね！","刚才好像有种
+被你触碰到了的感觉！大成功呢！",translated,依恩,44f345aff1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch1.txt#5#12,それじゃ、もう少し試してみよっか！,那么，再稍微多尝试一下吧！,translated,依恩,9e6bda1e48,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch1.txt#6#12,んーっと、それじゃね……。,嗯――那么接下来……,translated,依恩,0bb81e53dd,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch1.txt#7#12,"頭ナデナデしてみて？
+…とかいっちゃったりして♪","试着摸摸头看看？
+……开玩笑这么一说啦♪",translated,依恩,86bdbef021,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch1.txt#8#12,"ナデナデしてくれたら、本当に
+ナデナデしているように感じ取れるかな？","要是你摸摸头，我真的能感觉得出
+你正在摸摸头吗？",translated,依恩,726e35976e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch1.txt#9#12,上手く行くといいなぁ……。,要是能顺利成功就好啦……,translated,依恩,00c9b039d2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch1.txt#10#12,"……あれ？
+ナデナデしてくれてる？","……咦？
+有在摸摸头吗？",translated,依恩,c47d28d1ad,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch1.txt#13#12,…うーん、上手く行かないのかな？,……唔～，不太顺利吗？,translated,依恩,634e179181,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch1.txt#14#12,"あなたから見て左下の方にある、
+手の形をしたスイッチを押しながら、
+わたしの頭をナデナデしてみてね？","按住你看到的左下方
+那个手掌形状的开关，
+试着摸摸看我的头好吗？",translated,依恩,b6a0bc98b4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch21.txt#3#12,"<CLBU>ああっ！
+あなたが触ってるのが分かるかも！","<CLBU>啊！
+好像能感觉到你摸到我了！",translated,依恩,473395d856,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch21.txt#4#12,"でも、頭撫でてくれてる？
+なんか、全然違うところで感じるんだけど。","不过，你是在抚摸我的头吗？
+感觉好像在完全不一样的地方感应到了。",translated,依恩,6ab86cfbb4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch21.txt#5#12,ちゃんと頭ナデナデしてね？,要好好地摸摸头哦？,translated,依恩,1c06366c48,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch22.txt#2#12,<CLBU>きゃーーーーっ！！,<CLBU>呀――――！！,translated,依恩,69531fb74a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch22.txt#3#12,"も、もう！！　どこ触ってるのよぅ…
+胸は触っちゃダメ！","真、真是的！！你摸到哪里去了啦……
+胸部不可以摸！",translated,依恩,1986646275,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch22.txt#4#12,ちゃんと頭ナデナデしてね？,要好好地摸摸头哦？,translated,依恩,1c06366c48,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch23.txt#2#12,"<CLBU>わわっ！
+わたし、頭を撫でられてるよ！","<CLBU>哇哇！
+我的头真的被抚摸着呢！",translated,依恩,3a04e9b459,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch23.txt#3#12,"すごいすごい！！
+あなたのこと、感じる事が出来るんだ…。","好厉害好厉害！！
+真的能感应到你的动作呢……",translated,依恩,d4b09439aa,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch23.txt#4#12,それじゃ、次は顔をぷにぷにしてみて？,那么，接下来试着捏捏脸看看？,translated,依恩,d35b6f11a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch23.txt#5#12,ほっぺたをツンツンつついてみてね。,轻轻戳戳看我的脸颊吧。,translated,依恩,b709be4318,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch23.txt#7#12,"……あれ？
+ぷにぷにしてくれてる？","……咦？
+有在捏捏脸吗？",translated,依恩,59366da899,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch23.txt#10#12,…うーん、上手く行かないのかな？,……唔～，不太顺利吗？,translated,依恩,634e179181,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch23.txt#11#12,"あなたから見て左下の方にある、
+手の形をしたスイッチを押しながら、
+わたしのほっぺをぷにぷにしてみてね？","按住你看到的左下方
+那个手掌形状的开关，
+试着捏捏看我的脸颊好吗？",translated,依恩,b6f6d18430,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch31.txt#3#12,<CLBU>ちゃんとツンツンしてるのが分かるよ。,<CLBU>能清楚感觉到你在戳我哦。,translated,依恩,886de5c1b6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch31.txt#4#12,でも、そこはほっぺじゃないみたい。,不过，那里好像不是脸颊呢。,translated,依恩,c7e16f72dc,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch31.txt#5#12,もう一度、ほっぺをぷにぷにしてね。,再试一次，捏捏脸颊看看吧。,translated,依恩,69b80e7975,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch32.txt#2#12,"<CLBU>えへへ♪
+ほっぺぷにぷにされちゃった。","<CLBU>诶嘿嘿♪
+脸颊被捏捏了呢。",translated,依恩,cda97fcbab,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch32.txt#3#12,本当に、いろんな感覚がわかるんだね。,真的能感知到各种各样的感觉呢。,translated,依恩,ae805906bf,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch32.txt#4#12,"それでね、今ぷにぷにされてるときに
+気づいたんだけど、あなたが指を当てて
+いるとき他の感覚も伝わってくるみたい。","而且刚才被捏捏脸颊的时候我注意到了，
+你的手指按在那里的时候，
+似乎连其他感觉也一并传过来了呢。",translated,依恩,2291d59621,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch32.txt#5#12,"今度はちょっと長めに…５秒くらい
+指をわたしに押し当ててみて？","这次稍微按得久一点……
+试着把手指按在我身上大约５秒看看？",translated,依恩,f9bd3a8004,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch32.txt#6#12,"長い時間触れていたら、
+もっと沢山、あなたの何かを
+感じることができるかもしれないから。","接触的时间长了的话，
+说不定就能更多地
+感受到来自你的某种心意呢。",translated,依恩,10a2710013,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch32.txt#10#12,"……あれ？
+指をわたしに押し当ててくれてる？","……咦？
+是用手指按在我的身上了吗？",translated,依恩,c958705385,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch32.txt#13#12,…うーん、上手く行かないのかな？,……唔～，不太顺利吗？,translated,依恩,634e179181,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch32.txt#14#12,"あなたから見て左下の方にある、手の
+形をしたスイッチを押しながら、５秒
+くらいわたしに指を押し当ててみてね？","按住你看到的左下方手形开关，
+试着把手指按在我身上大约５秒好吗？",translated,依恩,59ecacba8e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#3#12,<CLBU>……何か伝わってきてるよ。,<CLBU>……好像传过来了什么呢。,translated,依恩,d92047e1dc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch4.txt#4#12,"…そっか。あなたはこの装置を
+小さな機械で操作しているんだね。","……这样啊。你是在用
+一件小小的机械在操作这个装置吧。",translated,依恩,7954a33f76,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#5#12,"……なんか、あなたの想いの一部が
+わたしに伝わってきているみたい。","……总觉得，你的某一部分心意
+好像传达给我了呢。",translated,依恩,7ebc1a897b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#6#12,"何でも分かるわけじゃないけど、
+わたしが知りたいと思ってることが
+何となく伝わって来るみたいなの。","虽然并不是什么都能知道，
+但凡是我想要去了解的事情，
+不知怎的就能隐隐约约传过来。",translated,依恩,12dd866811,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#7#12,"今は、「あなたはどうやって、
+わたしとお話しているのかな？」って、
+考えてみたんだ。","刚才我就在想，
+“你究竟是怎么
+跟我聊上天的呢？”。",translated,依恩,79ae811fc5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#8#12,"そしたら、手のひらサイズの小さな
+機械を使ってお話してる…って。","结果就传来了你是用
+巴掌大小的微小机械在跟我说话……",translated,依恩,5ca36874a5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#9#12,"それにしてもすごいね！
+そんなことまで伝わってくるなんて。
+何だか不思議だね～。","不过话说回来真厉害呢！
+连这种事情都能传达过来，
+总觉得好神奇啊～",translated,依恩,0435cf3904,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#10#12,…でも、ちょっと怖いかも…。,……不过，也稍微有点害怕呢……,translated,依恩,041a60b272,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch4.txt#11#12,"だって、見ず知らずのあなたが、
+この端末を通して姿を見たり、
+触ったり、想いを伝えたり……。","毕竟，素未谋面的你，
+却能通过这台终端看着我、
+触碰我、传达心意……",translated,依恩,6fa1dd8beb,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#12#12,"それに、わたしからはあなたは見えない。
+あなたを前にして言う事じゃないけど、
+やっぱりちょっと怖いかな…って。","而且，从我这边是看不见你的。
+虽然当着你的面这么说有点不太好，
+但果然还是会觉得有点害怕吧……",translated,依恩,266bba9e36,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#14#12,"…けど、大丈夫だよね。
+あなたはきっと、悪い人じゃない。
+……人かどうかもわからないけど…。","……不过，没事的吧。
+你肯定不是坏人。
+……虽然连你是不是人类都还不知道……",translated,依恩,dc721e67d4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#15#12,"こうやってわたしとお話ししてくれたり、
+色々一緒にやってくれるんだもん。
+きっと優しい人なんだと思う。","毕竟你愿意像这样跟我说话，
+还陪着我一起做各种各样的事情嘛。
+我想你肯定是个温柔的人。",translated,依恩,bd2000903b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#16#12,………えへへ。,………诶嘿嘿。,translated,依恩,a2b9a9651a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch4.txt#17#12,"ちょっと面白い実験だったね。
+また色々なことして遊ぼうね♪","真是一场有趣的实验呢。
+以后也要一起玩各种游戏哦♪",translated,依恩,7f3778e3b9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#18#12,それじゃ、またね。,那么，回见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch4.txt#24#12,"さあ、いよいよイオンとあなたの生活が
+始まります！","那么，属于依恩与你的生活
+终于要拉开序幕了！",translated,【与依恩交流吧！】,fee01492b6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#28#12,"イオンは画面の向こう側で生きて生活
+している女の子です。当然、寝ることも
+あれば、ご飯を食べることもあります。","依恩是在屏幕另一侧生活着的女孩子。
+自然既会有睡觉的时候，
+也会有吃饭的时候。",translated,【与依恩交流吧！】,64badf0c91,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#29#12,"あなたがこのシェルノサージュDXを起動
+した時から、イオンはずっと、
+そのサイクルで生活をし続けているのです。","从你启动本款Ciel nosurge DX起，
+依恩就一直按照
+那一生活规律持续生活着。",translated,【与依恩交流吧！】,cda843ed83,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#30#12,"あなたがシェルノサージュDXを起動して
+いない時間も含めて、イオンは考え、
+そして行動を続けています。","包括你未启动Ciel nosurge DX的时间在内，
+依恩也在不断思考并持续行动着。",translated,【与依恩交流吧！】,5a99110058,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#31#12,"ですから、あなたがイオンと食事を済ませ
+シェルノサージュDXを終了して、次に
+起動した時彼女は寝ているかもしれません。","因此，即使你与依恩刚吃过饭，
+关闭游戏后下次启动时，
+她也可能正处于睡眠状态中。",translated,【与依恩交流吧！】,4e82717140,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#33#12,"あなたと同じように、リアルタイムで生活
+しているイオンですが、こちらとイオンの
+世界では時間の流れが異なります。","虽然依恩和你一样在实时度过日常生活，
+但现实与依恩世界的时间流速
+并不相同。",translated,【与依恩交流吧！】,3400f38af8,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#37#12,"イオンの世界の時間は画面左上にある
+時計から知ることできます。","依恩世界的时间，
+可以通过画面左上方的时钟获知。",translated,【与依恩交流吧！】,413bf151ba,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch4.txt#38#12,"太陽は昼、月は夜を表していますので、
+イオンとお話がしたいときは針が下を
+向いているときを見計らいましょう。","太阳代表白昼，月亮代表黑夜。
+如果想要和依恩说话，
+请挑指针朝向下方的时间段吧。",translated,【与依恩交流吧！】,f5023c560e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#39#12,"逆に、イオンが寝ている様子を見たいときは
+針が上を向いているときを狙ってみると
+良いでしょう。","相反，如果想看依恩睡觉的样子，
+瞄准指针朝向上方的时间段
+会是不错的选择。",translated,【与依恩交流吧！】,87ce1680ad,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch4.txt#40#12,"イオンの時間を正確に把握することで
+今まで見られなかった、新しいイオンの
+姿を見ることが出来るかもしれません。","只要准确掌握依恩的时间，
+说不定就能看到
+至今未曾见过的依恩新姿态。",translated,【与依恩交流吧！】,18d2aaa336,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#2#12,"<CLBU>…！？
+…わたしを、安心させてくれてるの？","<CLBU>……！？
+……你是在安抚我让我安心吗？",translated,依恩,891e6d5dd3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu02_tch5.txt#3#12,……ありがとう…。嬉しい。,……谢谢你……我很开心。,translated,依恩,58fcd90bce,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch5.txt#4#12,"やっぱりあなたは優しい人だった。
+よかった……。","果然你是一个温柔的人呢。
+太好了……",translated,依恩,3d0c98b77e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch5.txt#5#12,"すごく安心できたよ？
+何だかこれからが楽しみ。","我现在感到非常安心哦？
+总觉得开始期待今后的生活了。",translated,依恩,a41de806e4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch5.txt#6#12,"…ああっ！　結構時間が経っちゃったね。
+ごめんね、ずっとつき合わせちゃって。
+でもありがとう。","……啊！不知不觉过了好久呢。
+抱歉啦一直拉着你陪我，
+不过真的很谢谢你哦。",translated,依恩,e8bd64951c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#7#12,"ちょっと面白い実験だったね。
+また色々なことして遊ぼうね♪","真是一场有趣的实验呢。
+以后也要一起玩各种游戏哦♪",translated,依恩,7f3778e3b9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch5.txt#8#12,それじゃ、またね。,那么，回见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch5.txt#14#12,"さあ、いよいよイオンとあなたの生活が
+始まります！","那么，属于依恩与你的生活
+终于要拉开序幕了！",translated,【与依恩交流吧！】,fee01492b6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch5.txt#18#12,"イオンは画面の向こう側で生きて生活
+している女の子です。当然、寝ることも
+あれば、ご飯を食べることもあります。","依恩是在屏幕另一侧生活着的女孩子。
+自然既会有睡觉的时候，
+也会有吃饭的时候。",translated,【与依恩交流吧！】,64badf0c91,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#19#12,"あなたがこのシェルノサージュDXを起動
+した時から、イオンはずっと、
+そのサイクルで生活をし続けているのです。","从你启动本款Ciel nosurge DX起，
+依恩就一直按照
+那一生活规律持续生活着。",translated,【与依恩交流吧！】,cda843ed83,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#20#12,"あなたがシェルノサージュDXを起動して
+いない時間も含めて、イオンは考え、
+そして行動を続けています。","包括你未启动Ciel nosurge DX的时间在内，
+依恩也在不断思考并持续行动着。",translated,【与依恩交流吧！】,5a99110058,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#21#12,"ですから、あなたがイオンと食事を済ませ
+シェルノサージュDXを終了して、次に
+起動した時彼女は寝ているかもしれません。","因此，即使你与依恩刚吃过饭，
+关闭游戏后下次启动时，
+她也可能正处于睡眠状态中。",translated,【与依恩交流吧！】,4e82717140,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#23#12,"あなたと同じように、リアルタイムで生活
+しているイオンですが、こちらとイオンの
+世界では時間の流れが異なります。","虽然依恩和你一样在实时度过日常生活，
+但现实与依恩世界的时间流速
+并不相同。",translated,【与依恩交流吧！】,3400f38af8,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#27#12,"イオンの世界の時間は画面左上にある
+時計から知ることできます。","依恩世界的时间，
+可以通过画面左上方的时钟获知。",translated,【与依恩交流吧！】,413bf151ba,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu02_tch5.txt#28#12,"太陽は昼、月は夜を表していますので、
+イオンとお話がしたいときは針が下を
+向いているときを見計らいましょう。","太阳代表白昼，月亮代表黑夜。
+如果想要和依恩说话，
+请挑指针朝向下方的时间段吧。",translated,【与依恩交流吧！】,f5023c560e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#29#12,"逆に、イオンが寝ている様子を見たいときは
+針が上を向いているときを狙ってみると
+良いでしょう。","相反，如果想看依恩睡觉的样子，
+瞄准指针朝向上方的时间段
+会是不错的选择。",translated,【与依恩交流吧！】,87ce1680ad,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu02_tch5.txt#30#12,"イオンの時間を正確に把握することで
+今まで見られなかった、新しいイオンの
+姿を見ることが出来るかもしれません。","只要准确掌握依恩的时间，
+说不定就能看到
+至今未曾见过的依恩新姿态。",translated,【与依恩交流吧！】,18d2aaa336,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03a.txt#9#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#11#12,もう、呼びすぎだよぅ。,真是的，叫得太频繁啦。,translated,依恩,c0cbe77cac,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#12#12,ちょっと待って～♪,稍等一下～♪,translated,依恩,fc1965bf56,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#16#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#18#12,"もう、さっき途中で
+いなくなっちゃうんだもん。","真是的，刚才中途就
+不见人影了嘛。",translated,依恩,b11b8f0070,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03a.txt#19#12,今行くからちょっと待って～。,我这就过去，稍微等一下～,translated,依恩,755a13917c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#23#12,"はぁーい！
+今行くよぅ。","好～的！
+我这就过去哦。",translated,依恩,89b7f9a45f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03a.txt#27#12,それで、どうしたの？,那么，怎么啦？,translated,依恩,28b200e81f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#28#12,もっと色々お話ししたい,想和你多聊聊各种事情,translated,,cb4d0615b0,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#30#12,…あれ？　おーい！,……咦？喂～～！,translated,依恩,0a0294ee7b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#33#12,いなくなっちゃったのかな…？,是走开了吗……？,translated,依恩,0434ab3346,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03a.txt#36#12,"…おーい。
+いないなら戻っちゃうよ？","……喂～～。
+不在的话我可要回去了哦？",translated,依恩,a18053160d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03a.txt#39#12,"うーん…
+それじゃ、またね。","唔～……
+那么，回见啦。",translated,依恩,be27f183bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03a.txt#45#12,"そっか、
+…といっても、わたしがお話できることは、
+だいたいお話しちゃったし…。","这样啊，
+……虽说如此，但我能聊的事情，
+基本上都已经说过了呢……",translated,依恩,a978e75b80,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03b.txt#8#12,ん～……。,嗯～～……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#9#12,ねえねえ、今いるかな？,我说我说，现在在吗？,translated,依恩,6f50da11d5,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#11#12,"おーい。
+ちょっと時間できたから、お話しよ？","喂～～。
+我稍微有点空闲了，聊聊天吧？",translated,依恩,77cd4eed39,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b.txt#12#12,いたらトントン♪ってして～。,在的话就咚咚♪敲两下嘛～。,translated,依恩,a1195c3043,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#14#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#16#12,むぅ、残念。,唔，真遗憾。,translated,依恩,5a0b2c1cd7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#20#12,"ふぅ…。
+あ、そうだ！","呼……
+啊，对了！",translated,依恩,4f99afe514,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b.txt#21#12,ねえねえ、今いるかな？,我说我说，现在在吗？,translated,依恩,6f50da11d5,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#23#12,"おーい。
+ちょっと一段落したから、お話しない？","喂～～。
+我手头刚告一段落，要不要聊聊天？",translated,依恩,2c563d7b7e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b.txt#24#12,いたらトントン♪ってして～。,在的话就咚咚♪敲两下嘛～。,translated,依恩,a1195c3043,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#26#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b.txt#28#12,むぅ、残念。,唔，真遗憾。,translated,依恩,5a0b2c1cd7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03b_tch1.txt#3#12,<CLBU>…あっ！　いた！,<CLBU>……啊！在呀！,translated,依恩,6063d1617a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu03b_tch1.txt#6#12,"ちょっとヒマになっちゃったから、
+何かお話したいな～って思ってたの！","刚才稍微闲下来了，
+正想着找你说说话呢！",translated,依恩,c6152e8173,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b_tch1.txt#8#12,"ちょうど一段落したから、
+何かお話ししたいな～って思ってたの！","手头刚好告一段落，
+正想着找你说说话呢！",translated,依恩,1c6bc0f06a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b_tch1.txt#10#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03b_tch1.txt#12#12,"と言っても、これと言ってまだ
+お話しするような話題も無いし……。","话虽如此，但眼前也还没什么
+特别拿得出手的谈资呢……",translated,依恩,05716b8a67,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03main.txt#1#12,"…うーん……
+そうだ！","……唔――……
+有了！",translated,依恩,9847f92641,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03main.txt#2#12,"指タッチで、あなたがどんなお話を
+聞きたいのか、探りをいれちゃうってのは
+どうかな！","通过手指触摸，来试探你想听什么样的故事，
+这个主意怎么样！",translated,依恩,a7d9ebe007,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03main.txt#3#12,臨むところです,求之不得,translated,,94932e4904,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03main.txt#5#12,…あれ？　おーい！,……咦？喂～～！,translated,依恩,0a0294ee7b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03main.txt#8#12,いなくなっちゃったのかな…？,是走开了吗……？,translated,依恩,0434ab3346,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03main.txt#11#12,"…おーい。
+いないなら戻っちゃうよ？","……喂～～。
+不在的话我可要回去了哦？",translated,依恩,a18053160d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03main.txt#14#12,"うーん…
+それじゃ、またね。","唔～……
+那么，回见啦。",translated,依恩,be27f183bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03main.txt#21#12,"えへへ、よかった♪
+それじゃ、わたしは意識を集中して
+あなたの声を聞くね！","诶嘿嘿，太好啦♪
+那么我就集中精神，
+来倾听你的心声吧！",translated,依恩,fe2baabed6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03main.txt#22#12,すーっ………よし！　いいよ！,呼――吸…………好！准备就绪啦！,translated,依恩,61bed6f367,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03main.txt#26#12,"あれ？
+何も想いが伝わってこないよ？","奇怪？
+怎么一点心意都没传过来呢？",translated,依恩,e4b3073747,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03main.txt#27#12,"左下にある手の形をしたスイッチを押して
+わたしの身体に５秒くらい指を当ててね。","按住左下方的手形开关，
+试着把手指按在我身上大约５秒好吗？",translated,依恩,2fdcdc6717,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#3#12,"<CLBU>……あっ！
+きたきた♪","<CLBU>……啊！
+来了来了♪",translated,依恩,a241aa1cd4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu03_tch1.txt#6#12,"……これって………うそ……
+…どうして…！？","……这是……骗人的吧……
+……为什么……！？",translated,依恩,0a39277625,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#7#12,"…どうして、これを…
+わたしがいつも見る悪夢を知ってるの？","……为什么，会知道这个……
+你怎么会知道我经常做的恶梦？",translated,依恩,fbb752e652,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#8#12,…なんのこと？,……你在说什么？,translated,,f3be209bfc,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#10#12,"…そっか。
+あなたには、今わたしが何を感じ取ったか
+わからないんだよね。","……这样啊。
+现在的你，并不知道我究竟感应到了什么对吧。",translated,依恩,e1ae2c791a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#11#12,"今わたしがあなたからもらった想いは…
+あなたが見たセカイ…。","刚才我从你那里接收到的心意是……
+你所见到的世界……",translated,依恩,4a8f94ec28,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#12#12,"不思議な衣を着て、偉い人の前に立って、
+何か儀式のようなものをして…。","身穿不可思议的衣裳，站在大人物面前，
+举行着类似仪式的某种东西……",translated,依恩,ade9ebf36e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#13#12,"そう、もう一人の女の子がいた。
+髪の毛を縛っていて、背が高い子…。","对，还有另一个女孩子。
+把头发扎起来、身材很高挑的女孩子……",translated,依恩,bc57f238dc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#14#12,"その後わたしは、エレベーターに乗せられ
+一緒にいる人からこう言われるの。","在那之后，我被带上了升降梯，
+同行的人对我这么说：",translated,依恩,f64d83c99f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#15#12,"『このエレベーターが地上に着いたら、
+　もう私は貴女を助けることができない』","‘这座升降梯抵达地面后，
+　我就再也无法保护你了’",translated,依恩,f9bb6ba492,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#16#12,"そしてわたしは、あまりの壮絶な状況に
+吐き気を催す……。","然后，面对那极度凄惨壮烈的景象，
+我感到一阵反胃……",translated,依恩,da7511cab3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#17#12,"…そうでしょう？
+そんなシーンを見たんだよね？","……对吧？
+你刚才看到的是这样的场景对吧？",translated,依恩,f289b47abb,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#18#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#20#12,"それは…わたしが毎日うなされる悪夢。
+夜、寝る度にわたしはその悪夢を見るの。","那是……我每天都被魇住的恶梦。
+每当夜幕降临入睡时，我都会做那个恶梦。",translated,依恩,47d305ddf2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#21#12,"先に進むわけでもなく、
+その前が見れるわけでもない……
+毎日同じ、あの夢…。","既不会继续推进下去，
+也看不到在那之前发生的事……
+每天都是一模一样的那场梦……",translated,依恩,fdf9d92e28,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#22#12,あれは何の夢なの？,那是怎样的梦呢？,translated,,84fbe40dd8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#24#12,"わたしにもわからない。
+どうしてあんな服を着ているのか、
+何が起こっていたのか…。","我自己也一无所知。
+为什么自己会穿着那样的衣服，
+究竟发生了什么事……",translated,依恩,8462eb1c5b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#25#12,"ただ毎日毎日、あの夢を見るの。
+今分かっていることはそれだけ……。","只是日复一日、每天都做那个梦。
+目前我明白的就只有这些……",translated,依恩,8305ee3d0f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#26#12,"……ねえ、わたしって、変なのかな…？
+みんな、毎日同じ夢を見るの？","……我说，我很奇怪对吧……？
+大家每天都会做同一个梦吗？",translated,依恩,113ea10873,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#27#12,あなたも、毎日夢を見てうなされる？,你也会每天做梦被魇住吗？,translated,依恩,c19055f229,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#28#12,結構ある,经常会有,translated,,eff402d5ab,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#29#12,あまりそういう事はない,不怎么会有这种事,translated,,b664d73300,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#31#12,"そっか。
+それじゃみんな、そういうものなのかな。","这样啊。
+那么大家其实都是这样的吧。",translated,依恩,da726dc949,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#32#12,あまり心配しなくてもいいのかな…？,是不是不用太担心也可以呢……？,translated,依恩,67cc49b6da,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#35#12,"やっぱりそうだよね。
+どうしてなんだろう…
+あなたは、何か心当たりない？","果然是这样呢。
+到底是为什么呢……
+你心里有什么头绪吗？",translated,依恩,f1c229ddb0,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#36#12,皇帝に即位って言ってた,梦里提到了登基成为皇帝,translated,,f23d433274,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#38#12,"うん、知ってる。
+っていうか、夢の中でのセリフは
+全部覚えちゃった。","嗯，我知道。
+不如说，梦里的台词
+我都已经全背下来了。",translated,依恩,f079ea3313,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#39#12,"でも、「皇帝」っていうのが、
+わたしとどんな関係があるのか、
+よくわからないの。","但是，“皇帝”这个词，
+究竟跟我有什么关系，
+我完全想不明白。",translated,依恩,486d934bb2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#40#12,何かの願望が違う形で夢になってるのかな,可能是某种愿望以不同的形式化为了梦境吧,translated,,32dbfc02ce,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#41#12,イオンは実は皇帝だったりして,说不定依恩其实真的是皇帝呢,translated,,f1390abf48,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#43#12,"ってことは、えっと……
+どんな願望があるのかな。
+わたし、皇帝になりたいと思ってるの？","也就是说，那个……
+会是什么样的愿望呢。
+我难道会想着去当皇帝吗？",translated,依恩,66bea5cf14,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#44#12,"でも、皇帝って確か
+とてもえらい人だよね？","不过，皇帝记得
+是非常了不起的大人物对吧？",translated,依恩,b976936396,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#45#12,"わたし、皇帝なんかになれるわけないよ。
+今だってこんな家に住んでるくらいだもん。","我怎么可能会当得了皇帝嘛。
+毕竟我现在都还住在这样的房子里呢。",translated,依恩,b381129656,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#48#12,"わたしが皇帝？？
+まさか、そんなわけないよぅ。","我是皇帝？？
+怎么可能会有那种事嘛。",translated,依恩,be4c9e871c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#49#12,"ん～でも確かに、わたしは皇帝かも。
+この自分の家帝国の。","唔～不过确实，我也许真的是皇帝呢。
+是这个我自己的小家帝国的。",translated,依恩,7aa6b5a943,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#50#12,…国民はわたし含めて一人だけだけど…。,……虽然包含我在内国民只有一个人就是啦……,translated,依恩,cb68140aec,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#53#12,"…わからないけど、今のところこの生活に
+何か問題があるわけじゃないし、
+あまり気にしないようにしてるの。","……虽然不太懂，但目前来说
+这样的生活并没有什么困扰，
+我就尽量不去多想它了。",translated,依恩,2d9b7f1818,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu03_tch1.txt#54#12,"でもまさか、あなたがわたしの夢を
+見ていたなんてびっくりだよ。","不过真没想到，你竟然也能看到我的梦，
+真让我吓了一大跳呢。",translated,依恩,f634d7a75c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#55#12,"もしかして、わたしの夢のセカイに行く
+機能も備わっていたりして♪","说不定，连去往我梦中世界的功能
+都一应俱全了呢♪",translated,依恩,f80c61b4ec,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu03_tch1.txt#56#12,…なんてね。,……开玩笑的啦。,translated,依恩,6f6fc33f8d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu03_tch1.txt#57#12,"それじゃ、そろそろ戻るね。
+色々お話聞いてくれてありがとう。","那么，我差不多该回去了。
+谢谢你听我聊了这么多事情。",translated,依恩,20fc65ed66,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05.txt#9#12,今行くからちょっと待って～。,我这就过去，稍微等一下～,translated,依恩,755a13917c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#13#12,あっ…。,啊……,translated,依恩,bca77e7155,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#19#12,"トーントン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,b3e4c7e6dd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05.txt#20#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#22#12,"あれ？　いないのかな？
+いるような気配がするんだけど…。","咦？不在吗？
+总觉得好像能感觉到你在的气息……",translated,依恩,ae8d681e14,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05.txt#24#12,…うーん……。,……唔～……,translated,依恩,e3399ceb03,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#25#12,また後で呼んでみよっと。,待会儿再叫你看看好啦。,translated,依恩,ecd09810ba,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#30#12,そろそろいるかな？,差不多该在了吧？,translated,依恩,364f207740,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#34#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05.txt#35#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#37#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05.txt#38#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#40#12,…うーん……。,……唔～……,translated,依恩,e3399ceb03,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05.txt#41#12,また後で呼んでみよっと。,待会儿再叫你看看好啦。,translated,依恩,ecd09810ba,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#4#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu05_tch1.txt#6#12,"えっとね、
+少しだけ相談したいことがあるの。","那个呀，
+我有一点点事情想跟你商量一下。",translated,依恩,cf3a94f120,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#7#12,わたしって今、ずっとパジャマでしょ？,我现在不是一直都穿着睡衣嘛？,translated,依恩,b0bb2589e2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#8#12,これはこれで動きやすいんだけど……。,虽然这样也挺方便活动的啦……,translated,依恩,8a11e3f293,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#9#12,"その、せっかくだから、
+ちゃんとした服を作ろうかなぁ……って。","不过，难得有这机会，
+我想着要不要做一件正经的衣服呢……",translated,依恩,104195fb32,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#10#12,"実は今までにも何度か挑戦したことが
+あるんだけど……。","其实在此之前我也尝试挑战过好几次，
+但是……",translated,依恩,4dd4c7887e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#11#12,"たぶん、今あなたが想像した通りだよ。
+あはは……。","大概，就像你现在想象的那样啦。
+啊哈哈……",translated,依恩,108f1cdd78,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#12#12,でもね、なんか今すごく良い感じなの。,但是呢，我现在感觉特别棒哦。,translated,依恩,5167619236,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#13#12,"服の細部まではっきりイメージ出来てて、
+これなら上手くいくかもって。","连衣服的细节都能清晰地勾勒出来，
+感觉这次一定能成功呢。",translated,依恩,8721ea193f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#14#12,頑張って,加油哦,translated,,bb34d91aaf,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#15#12,かわいい服のイオンが見たい,想看依恩穿可爱衣服的样子,translated,,c51809407f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#17#12,"う、うん。ありがとう。
+頑張るね。","嗯、嗯。谢谢你。
+我会加油的。",translated,依恩,75e9431642,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#20#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#21#12,その……頑張ってみる。,那个……我会努力试试看的。,translated,依恩,6d602a82f9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu05_tch1.txt#23#12,"ただその……。
+これまで失敗してきたのもあって、
+自分では、なかなか踏ん切りが付かないの。","只是那个……
+由于之前一直以失败告终，
+靠我自己实在很难下定决心呢。",translated,依恩,446273b479,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#24#12,"でも、あなたにお願いして貰えたら、
+わたし、頑張れると思う。","但是，如果有你的拜托，
+我觉得自己一定能全力以赴的。",translated,依恩,b5a9492458,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#25#12,"材料はもう用意してあって、
+いつでも作り始められるから――","材料已经准备就绪了，
+随时都可以开工制作――",translated,依恩,ff431c4ee4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#26#12,"別の服を着て欲しいって思ったら
+遠慮なく言ってね。","要是想看我换上别的衣服，
+请不要客气随时跟我说哦。",translated,依恩,9942b2b4fd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#28#12,"<CLY2>レシピ【動きやすい服？】が
+追加されました。","<CLY2>已追加配方
+【轻便的衣服？】。",translated,系统文本,e590446b78,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu05_tch1.txt#34#12,"<CLY2>【お願いする】に
+【作ってほしい】【採ってきてほしい】
+【アイテムを差し出す】が追加されました。","<CLY2>【请求】中已追加
+【希望制作】【希望采集】
+【递出道具】。",translated,系统文本,13d460a3fb,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu05_tch1.txt#36#12,"<CLY2>【時間を進める】がメニューに
+追加されました。","<CLY2>菜单中已追加
+【推进时间】。",translated,系统文本,2405f9d5f9,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu05_tch1.txt#41#12,"イオンに対して、アイテムを作成したり
+採取したり、渡したりをお願い出来るように
+なりました！","现在可以向依恩提出请求，
+让她制作道具、
+采集素材或向她递出道具了！",translated,【用道具交流吧！】,d5f939d178,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#44#12,"メインメニューの【お願いする】項目を
+選択することで、これらの機能を
+利用可能です。","在主菜单中选择【请求】项目，
+即可使用这些功能。",translated,【用道具交流吧！】,7d371b3703,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#49#12,"【作ってほしい】を選択することで、
+イオンにアイテムを作ってもらう事が
+出来ます。","选择【希望制作】，
+即可让依恩帮忙制作道具。",translated,【用道具交流吧！】,eb07a1db67,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#54#12,"しかし、材料が足りない場合
+アイテムの作成はできません。","但是，如果材料不足，
+就无法制作道具。",translated,【用道具交流吧！】,63f18346c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#59#12,"その場合はまず【採ってきてほしい】を
+選択して、必要なアイテムをイオンに
+採ってきてもらいましょう。","那种情况下，请先选择【希望采集】，
+让依恩去把所需的道具采集回来吧。",translated,【用道具交流吧！】,b1ae68e3d4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#64#12,"アイテムの作成や採取には、我々の世界と
+同じように、時間がかかります。
+物によっては１日近くかかるものもあります。","制作与采集道具，和我们的世界一样，
+都需要花费一定的时间。
+根据物品不同，有时需要花近一天时间。",translated,【用道具交流吧！】,1eb3beaf3f,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#65#12,"イオンの世界の時間は、
+シェルノサージュDXを
+起動していなくても進んでいきます。","依恩世界的时间，
+即使未启动Ciel nosurge DX，
+也会持续推移流逝。",translated,【用道具交流吧！】,5d2e170b64,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#66#12,"なので、あなたが寝る前にイオンにお願いして
+おけば、朝起きたときには完成しているかも
+しれません。","因此，在睡觉前拜托依恩的话，
+说不定早上起床时就已经制作完成了。",translated,【用道具交流吧！】,bde6545bcc,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#71#12,"しかし、一つ注意しなければいけないのは、
+イオンもあなたと同じように普通の日常を
+送っているということです。","不过有一点需要注意，
+那就是依恩也和你一样，
+在度过着平凡的日常生活。",translated,【用道具交流吧！】,4286199e21,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#72#12,"疲れたら寝ますし、お風呂にも入ります。
+またお腹が空いたらご飯も食べます。","累了会睡觉，也会洗澡。
+肚子饿了还会吃东西。",translated,【用道具交流吧！】,4897985052,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#73#12,"工作や料理を中断して、
+これらの行動を取ることがありますが、
+心配しないでください。","虽然有时会中断手工制作或烹饪
+去进行上述行动，但无需担心。",translated,【用道具交流吧！】,d7179a0bfa,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#74#12,"中断された工作や料理はこれらの行動が
+終わった際にきちんと再開されます。","中断的手工制作或烹饪，
+在那些日常行动结束后会正常重新恢复。",translated,【用道具交流吧！】,89cfabe3f2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#79#12,"もし急いで工作や料理を終わらせたい場合は
+【時間を進める】を利用してみましょう。","如果想快速完成手工制作或烹饪，
+不妨尝试利用【推进时间】功能吧。",translated,【用道具交流吧！】,01d729af29,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#84#12,"【時間を進める】はHymP（ヒュムノポイント）
+を消費することで、イオンの世界への
+アクセスポイントを変更できます。","【推进时间】通过消耗HymP，
+可以变更连接至依恩世界的访问节点。",translated,【用道具交流吧！】,84ef3aef9d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#85#12,"つまり、特定の時間が経過した未来へと
+一気に進むことができるのです。","换言之，可以直接一口气
+跨越到经过特定时间的未来。",translated,【用道具交流吧！】,5896033bca,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu05_tch1.txt#86#12,"残念ながら、過去へと戻ることはできません
+が、イオンとの生活サイクルがうまく合わない
+ときなどにも活用してみると良いでしょう。","遗憾的是无法回到过去，
+但在与依恩的生活规律不合时，
+不妨善加利用这一功能。",translated,【用道具交流吧！】,bede17499a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#87#12,"ただ、時間を進めるために必要なHymPは
+これ以外にも様々な用途がありますので、
+計画的に利用しましょう。","不过推进时间所需的HymP，
+在此之外还有多种多样的用途，
+因此请有计划地合理使用。",translated,【用道具交流吧！】,b29a61b681,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#92#12,"出来上がったアイテムの中には、
+【アイテムを差し出す】によってイオンに
+差し出す事が出来るものもあります。","制作完成的道具中，有一部分
+可以通过【递出道具】递交给依恩。",translated,【用道具交流吧！】,4816d977e5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#97#12,"作ったアイテムを差し出すことで、
+イオンの思わぬ行動を見ることができる
+かもしれません。","通过递交制作出的道具，
+说不定能见识到依恩意想不到的举动哦。",translated,【用道具交流吧！】,b2fef0c1d5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu05_tch1.txt#100#12,"それでは早速、【動きやすい服？】を
+イオンにお願いしてみましょう！","那么事不宜迟，试着向依恩
+提出制作【轻便的衣服？】的请求吧！",translated,【用道具交流吧！】,3153b852ff,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#3#12,あっ、おつかれさま。,啊，辛苦你啦。,translated,依恩,fc2479202b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#4#12,もしかして、あなたも今寝るところかな？,难道说，你现在也准备睡了吗？,translated,依恩,41560a4453,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#5#12,寝るところ,正准备睡了,translated,,cadb836301,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#6#12,もう少し起きてる,还会再醒着一会儿,translated,,d9dcedd8c6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#8#12,"そっか。
+それじゃあ、一緒に寝よ。","这样啊。
+那么，一起睡吧。",translated,依恩,dd97028f80,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#11#12,"あはは、そうなんだ。
+夜更かしには気をつけてね。","啊哈哈，是这样啊。
+熬夜可要多加注意身体哦。",translated,依恩,95719e5584,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#13#12,"こうやってお布団に入りながらお話するの、
+初めてですごく楽しい。","像这样钻进被窝里聊着天，
+还是头一次呢，真的好开心。",translated,依恩,f67ba12d46,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#14#12,"それに、なんか心臓がドキドキしてるし、
+こんな状態でちゃんと眠れるかな。","而且，不知怎的心跳得扑通扑通的，
+这种状态下真能好好睡着吗。",translated,依恩,757d5894e5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#15#12,もっと近くでイオンの顔を見たい,想更近距离地看看依恩的脸,translated,,a14f355737,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#17#12,え？　……えぇ！？,诶？……诶诶！？,translated,依恩,04ab5208ca,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#18#12,"いや、えっと……それは……その……
+心の準備が……。","不、那个……那是……那个……
+我的心理准备还……",translated,依恩,55fd7e32d9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#19#12,"けど嫌ってわけじゃないよ。
+は、恥ずかしいだけで……。","但并不是讨厌哦。
+只、只是太害羞了而已……",translated,依恩,37d592b5ab,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#20#12,"えっと……ね。
+少し準備をさせてほしいな。","那个……呢。
+能不能让我稍微准备一下呢。",translated,依恩,1064caf814,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#21#12,"きっと、次の機会には落ち着いてると
+思うから……そのときはもっと近くで、ね。","我想下次我肯定就能平静下来了……
+到时候再靠得更近一点，好吗。",translated,依恩,59aec6fb45,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#22#12,楽しみにしてる,很期待哦,translated,,ee38efcee8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#24#12,"う、うん。
+ありがと……っていうのは、変かな。","嗯、嗯。
+说谢谢你……感觉有点怪怪的呢。",translated,依恩,619f8ad23f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#25#12,"ふあぁぁぁ……。
+落ち着いたら、眠くなってきちゃった。","哈啊啊啊……
+平静下来之后，开始觉得困了呢。",translated,依恩,e7ece35c5b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#26#12,"そろそろ寝るね。
+また明日も会いたいな。","我差不多该睡啦。
+明天也希望能见到你呢。",translated,依恩,5f32b911d6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu06.txt#27#12,おやすみなさい。,晚安。,translated,依恩,36c28bb331,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu06.txt#32#12,"<CLY2>【一緒に何かする】に【一緒に寝る】が
+追加されました。","<CLY2>【一起做些什么】中已追加
+【一起睡觉】。",translated,系统文本,2da691234c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu07.txt#4#12,あっ！　おはよう！,啊！早上好！,translated,依恩,6ef2c85391,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07.txt#10#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07.txt#11#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07.txt#13#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07.txt#14#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#4#12,あっ！　おはよう！,啊！早上好！,translated,依恩,6ef2c85391,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#5#12,やっぱり、いてくれたんだね。,果然你在呢。,translated,依恩,be7b77e00f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#7#12,"えへへ、なんだか昨日とは違う世界に
+いるみたい。","诶嘿嘿，总觉得好像待在
+和昨天截然不同的全新世界一样。",translated,依恩,c703b3e3bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07_tch1.txt#8#12,"朝起きたときに挨拶できる人がいるって、
+こんなに素敵なことだったんだ。","早上起床时能有互致问候的人在身边，
+原来是这么美妙的事情呀。",translated,依恩,96a31f6248,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07_tch1.txt#9#12,"その……あなたさえ良かったら、
+これからも“おはよう”って言いたいな。","那个……只要你不介意的话，
+今后我也想对你说“早上好”呢。",translated,依恩,bd718f5017,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07_tch1.txt#10#12,ダメ……かな？,不行……吗？,translated,依恩,3283e80457,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#11#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#12#12,朝は弱いけど,虽然我早起很不在行,translated,,bbb056dc4d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#14#12,ほ、本当！？,真、真的吗！？,translated,依恩,e489aa1b0f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#17#12,そ、そうなの？,是、是这样吗？,translated,依恩,84fcdfe281,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#18#12,"じゃあ、今日はその……
+もしかして、わたしのために？","那么，今天那个……
+难道说是为了我才特意早起的吗？",translated,依恩,3898d6166a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu07_tch1.txt#20#12,えへへ、嬉しいな。,诶嘿嘿，好开心呀。,translated,依恩,bf629545d6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu07_tch1.txt#21#12,"またこうやって挨拶できるのを
+楽しみにしてるね。","能再次像这样互相问候，
+我很期待哦。",translated,依恩,4b9dcd2d20,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08.txt#5#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08.txt#14#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08.txt#15#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08.txt#17#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08.txt#18#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_2.txt#3#12,この前はどうしたの？,前些天怎么啦？,translated,依恩,75bba8d560,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_2.txt#4#12,"気が付いたら、端末が反応しなくなって
+ビックリしちゃった。","回过神来发现终端完全没反应了，
+可把我吓了一跳呢。",translated,依恩,53ae26e9c9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_2.txt#5#12,もう一度、イオンを強く想う,再一次，强烈地想念依恩,translated,,fad44637b2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_2.txt#15#12,"え……えぇ！？
+またなの！？","诶……诶诶！？
+又来啦！？",translated,依恩,b8a66915a2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#9#12,作った服、着てみたんだけど……。,做好的衣服，我试着穿了一下……,translated,依恩,93f912efaa,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#11#12,ごめんね。急に呼び出したりして。,抱歉啦，突然把你叫出来。,translated,依恩,bc8d741662,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#12#12,作った服、着てみたんだけど……。,做好的衣服，我试着穿了一下……,translated,依恩,93f912efaa,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#14#12,えへへ、さっそく着てみちゃった。,诶嘿嘿，我立刻就试着穿上啦。,translated,依恩,45b771230f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#18#12,ごめんね。急に呼び出したりして。,抱歉啦，突然把你叫出来。,translated,依恩,bc8d741662,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#19#12,"えっとね……作った服を着てみようと
+思うんだけど……どうかな？","那个啊……我想试着穿一下做好的衣服，
+你觉得……怎么样？",translated,依恩,a836153fbc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#21#12,もしかして、作った服を着て欲しいのかな？,难道说，你想看我穿做好的衣服吗？,translated,依恩,6cc7e4484e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#23#12,もちろん、着て欲しい,当然想看你穿了,translated,,e1b9f6620a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#25#12,えへへ、やっぱりそうだよね。,诶嘿嘿，果然是这样呢。,translated,依恩,37691039a8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#26#12,せっかく作ったんだし、勿体無いもん。,难得做出来了，不穿就太可惜了嘛。,translated,依恩,f542a9f4fc,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#27#12,着替えるからちょっと待っててね。,我去换衣服，稍等我一下哦。,translated,依恩,4f4f1c08b7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#36#12,えっと、どう……かな？,那个，怎……么样呀？,translated,依恩,85d4cd7d07,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#37#12,"自分で作っておいて言うのもなんだけど、
+露出が多くて恥ずかしい……。","虽然是自己做的，但说实话
+露出的地方太多了，好害羞……",translated,依恩,ad1d9c6c0c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#38#12,"たしかにイメージ通りではあるんだけど、
+その……変じゃ……ない？","确实跟我想象中的一模一样，
+但是……不奇……怪吧？",translated,依恩,6e3b9a3265,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#39#12,変じゃないよ,一点都不奇怪哦,translated,,99fd7acca4,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#40#12,最高にかわいい,无比可爱,translated,,fb705f4dee,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#47#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#49#12,"あの……ね。
+わたし、この服着たことがあるみたいなの。","那个……呢。
+我好像……曾经穿过这件衣服的样子。",translated,依恩,33593e4144,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#50#12,いつのことか聞いてみる,询问是什么时候的事,translated,,dbbe36be14,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#52#12,えっと、ごめんなさい。,那个，对不起哦。,translated,依恩,5d3e473119,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#53#12,"いつどこで、って言われると
+はっきりとは思い出せないの……。","要是问我何时何地穿过的，
+我实在没办法清晰地想起来……",translated,依恩,2f833c876e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#54#12,"でもたしかに、わたしはこの服を
+着ていた記憶がある――","但我确实记得自己曾经
+穿过这套衣服――",translated,依恩,e0ed2246ee,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#55#12,それだけは本当だよ！,唯独这一点是千真万确的哦！,translated,依恩,43040ce21b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#56#12,"……こんなこと言っても
+信じられない……よね。
+だって、わたし自身すごく曖昧なんだもん。","……就算我这么说，
+你也很难相信……对吧。
+毕竟连我自己都觉得很模糊呢。",translated,依恩,01c9cbf265,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu08_tch1.txt#57#12,"……なんか悔しいな。
+わたし、どうしたらいいんだろう……。","……总觉得好不甘心啊。
+我到底该怎么办才好呢……",translated,依恩,7dc9a5c713,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu08_tch1.txt#58#12,イオンのことを強く想う,强烈地想念依恩,translated,,197499011a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu08_tch1.txt#68#12,"え……？
+えぇ！？　なにこっ……！？","诶……？
+诶诶！？这是什……！？",translated,依恩,8e0c31702f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#6#12,"ようこそ。
+イオンの夢セカイへ。","欢迎光临。
+欢迎来到依恩的梦世界。",translated,依恩,a150e1bcb1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#7#12,ここは彼女の記憶が眠る場所。,这里是她沉睡记忆的所在之处。,translated,依恩,94e5a8d5a6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#8#12,イオン？,依恩？,translated,,734a68c183,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#10#12,ふふっ、驚いてるみたいだね。,呵呵，看来你很吃惊呢。,translated,依恩,f2961437b0,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#11#12,"違う、っていうと勘違いされそうだけど、
+わたしはこの夢セカイでのイオン。","虽然说“不是”容易引起误会，
+但我是存在于这个梦世界里的依恩。",translated,依恩,e76543c894,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#12#12,"だから、わたしはイオンであって、
+イオンじゃないの。","所以，我既是依恩，
+又并非真正的依恩。",translated,依恩,17d1480b70,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#13#12,"実際、ほとんど人間らしい感情はないし、
+ただのナビゲーターと思ってくれればいいよ。","实际上，我几乎没有人类的感情，
+你只要把我当作纯粹的向导就好。",translated,依恩,1ffdfaadf9,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#14#12,ここは？,这里是？,translated,,a8f44013c6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#16#12,"さっきも言った通り、
+ここはイオンの夢セカイ。","正如我刚才所说，
+这里是依恩的梦世界。",translated,依恩,e9ef7dfe3f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#17#12,そしてここは、彼女の記憶への入り口。,同时这里也是通往她记忆深处的入口。,translated,依恩,35b3454da1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#18#12,"扉の先にはイオンにとって大切な、
+でも壊れてしまった記憶があるの。","在门扉的另一侧，沉睡着对依恩而言至关重要、
+却已支离破碎的记忆。",translated,依恩,5bda322f8b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#19#12,"もしそれを癒し、直すことができれば、
+イオンの記憶は戻っていくはず。","如果能够抚平并修复那些记忆，
+依恩的记忆应该就能逐步恢复。",translated,依恩,b30d499163,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#20#12,イオンを癒すには？,该如何疗愈依恩？,translated,,2847d1828f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#22#12,イオンを癒すにはエネルギーがまず必要。,要疗愈依恩，首先需要能量。,translated,依恩,8ef3777c6f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#23#12,"まずはそのエネルギーを生む存在を
+作らないとだめ。",必须先创造出能够孕育那份能量的存在才行。,translated,依恩,7acdf737e1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#28#12,上を見て。,请抬头看。,translated,依恩,39041ec2da,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#33#12,綺麗な星空が見えるでしょ？,能看到一片美丽的星空对吧？,translated,依恩,7349a2434a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#34#12,その先がイオンを癒すエネルギーの源。,在那星空的彼方，便是疗愈依恩的能量源泉。,translated,依恩,95c5ff3251,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#35#12,"あなたならあの先に行って、
+イオンを癒す存在を創り出せる。","如果是你，便能前往星空彼方，
+创造出疗愈依恩的存在。",translated,依恩,0f432c5bb5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#36#12,癒す存在？,疗愈的存在？,translated,,24c62f4a23,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#38#12,"うん。
+“シャール”っていうの。","嗯。
+那种存在被称为“夏尔”。",translated,依恩,0b3ff4999e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#39#12,"シャールは、あなたの世界にある物質の
+エネルギーによって創られて――","夏尔是由你所在世界的物质能量
+所创造孕育出来的――",translated,依恩,0866da2cb0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#40#12,"そして、壊れてしまったイオンの記憶を
+修復する癒し手になってくれる。","并且，它们会成为抚平修复
+依恩破损记忆的治愈者。",translated,依恩,cc7a1b9b26,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#41#12,"シャールはあそこから生まれるから、
+その場所のことを“シャールの巣”って
+呼んでるの。","因为夏尔诞生于星空的彼方，
+所以那个地方被称为“夏尔的巢穴”。",translated,依恩,cf2fefd6d9,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu09.txt#48#12,シャールをどう利用すれば？,该如何运用夏尔？,translated,,891b51c738,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#50#12,"それについては、創り出した彼女たちに
+聞くのがいいと思う。","关于这一点，直接向你所创造出的
+夏尔们询问会比较好。",translated,依恩,a5583a8dd4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#51#12,少し……長くなっちゃうし。,毕竟解释起来……会稍微有点冗长。,translated,依恩,99ed3b3e64,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#52#12,"ただ一つ言えることは、扉の先にある廃墟を
+一つ一つ修復させる必要があるってこと。","唯一能确切告诉你的是，
+必须将门扉后的废墟一一进行修复。",translated,依恩,c4b4edae23,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#53#12,"そして修復が完了すれば、
+そこに残された強い想いを夢に見る――",当修复完成后，便能梦见遗留在其中的强烈思念――,translated,依恩,99f7006954,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#54#12,まさに夢セカイというわけ。,这正是所谓“梦世界”的真谛。,translated,依恩,fc366e494f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#55#12,"きっとそのとき、あなたにもイオンの記憶が
+流れ込んでくると思う。","我想届时，依恩的记忆
+也一定会涌入你的脑海之中。",translated,依恩,a37fd9d616,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#56#12,そう、最初のときみたいに……。,是的，就像最初的那一次一样……,translated,依恩,b3d3a14424,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#61#12,"それから、夢セカイから現実に帰りたいと
+思ったときは、下を見て。","此外，如果想从梦世界返回现实，
+请看向下方。",translated,依恩,259872a79b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#66#12,"部屋の真ん中にあるデバイスに触れれば
+すぐに現実に戻ることが出来る。","只要触碰房间中央的装置，
+就能立即返回现实之中。",translated,依恩,a63eb30fa1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#73#12,"あなたがイオンの記憶を癒せること、
+そして、記憶を見れるのは偶然じゃない。","你能疗愈依恩的记忆、
+并且能看到那些记忆，绝非偶然。",translated,依恩,5249c6b726,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu09.txt#74#12,これはあなたにしかできないこと。,这是唯独只有你才能做到的事。,translated,依恩,ced969faaa,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#75#12,さぁ行って。,去吧。,translated,依恩,7292214efb,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu09.txt#76#12,"あなたならきっと、
+イオンを救ってくれるって信じてる……。","我相信如果是你，
+一定能够拯救依恩的……",translated,依恩,6487b16eac,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#4#12,"あ、あれ？
+ここは現実……だよね？","咦、奇怪？
+这里是现实……对吧？",translated,依恩,6875a2a4ff,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#5#12,"今のは何だったの？
+なんか眠ってるみたいな感覚が……。","刚才那是怎么回事？
+感觉就像是睡着了一样……",translated,依恩,133a3bc597,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#6#12,記憶を取り戻せるかも,说不定能找回记忆,translated,,405e94a0ca,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10.txt#8#12,えっ！？　そ、それ本当！？,诶！？真、真的吗！？,translated,依恩,598c3b2c8a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10.txt#9#12,"もしよければ、また指タッチして
+何があったのか教えて。","如果可以的话，能不能再用手指点点屏幕，
+告诉我究竟发生了什么？",translated,依恩,3f624b0e23,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#13#12,"…あれ？
+教えてくれないの…かな…？","……咦？
+不……教我吗……？",translated,依恩,5985e0d3c8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#14#12,"よければ、左下のボタンを押しながら
+わたしに５秒くらい指タッチしてね。
+想いが伝わるように……。","可以的话，请按住左下角的按钮
+用手指触碰我大约5秒钟。
+为了能传达心意……",translated,依恩,2295db6dd6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu10.txt#20#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10.txt#21#12,記憶を取り戻せるかも,说不定能找回记忆,translated,,405e94a0ca,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10.txt#23#12,えっ！？　そ、それ本当！？,诶！？真、真的吗！？,translated,依恩,598c3b2c8a,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10.txt#24#12,"もしよければ、また指タッチして
+何があったのか教えて。","如果可以的话，能不能再用手指点点屏幕，
+告诉我究竟发生了什么？",translated,依恩,3f624b0e23,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#28#12,"…あれ？
+教えてくれないの…かな…？","……咦？
+不……教我吗……？",translated,依恩,5985e0d3c8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10.txt#29#12,"よければ、左下のボタンを押しながら
+わたしに５秒くらい指タッチしてね。
+想いが伝わるように……。","可以的话，请按住左下角的按钮
+用手指触碰我大约5秒钟。
+为了能传达心意……",translated,依恩,2295db6dd6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu10_tch.txt#1#12,<CLBU>……そんなことがあったんだ。,<CLBU>……竟然发生了这样的事啊。,translated,依恩,a0deba4e77,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu10_tch.txt#2#12,"その夢セカイってところでなら、
+記憶が戻るかもしれないんだね。","在那个叫做梦世界的地方，
+说不定就能找回记忆了呢。",translated,依恩,a0a6b82e87,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#3#12,"けどそれって、
+あなたに迷惑かけちゃうよね。","但是那样一来，
+岂不是给你添麻烦了嘛。",translated,依恩,ffcf1d49a1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#4#12,"もし本当に記憶が戻るとしても、
+そこまで甘えちゃっていいのかな……。","就算真的能找回记忆，
+这么依赖你真的好吗……",translated,依恩,e7406678c2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#5#12,甘えて欲しい,希望你能依赖我,translated,,e996f7820b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#6#12,昔のイオンを見てみたい,想见见从前的依恩,translated,,075462139b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#8#12,そう……なの？,是……这样吗？,translated,依恩,94cacf247f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#11#12,なんか、そう言われると恥ずかしい……。,被你这么一说，总觉得好害羞……,translated,依恩,d0b0cde728,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#13#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#14#12,"わたしのために、
+一生懸命になってくれてるんだよね。",你一直在为了我而全力以赴呢。,translated,依恩,bd5e544cad,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#15#12,わたしも……頑張らなきゃ。,我也……必须要努力才行。,translated,依恩,4be8423bdf,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu10_tch.txt#16#12,"何が出来るかわからないけど、
+記憶を取り戻せるように頑張ってみる。","虽然不知道自己能做些什么，
+但我会为了找回记忆而全力以赴的。",translated,依恩,0768ed9984,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#17#12,"きっと迷惑をかけちゃうと思うけど、
+これからもよろしくね。","肯定会给你添不少麻烦，
+但今后也请多关照啦。",translated,依恩,9747c098ec,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#20#12,"<CLY2>【一緒に何かする】に【夢セカイに行こう】
+が追加されました。","<CLY2>【一起做些什么】中
+已追加【前往梦世界】。",translated,系统文本,6d7ee7d0b4,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/tutorialevent/tu10_tch.txt#25#12,"さあ、いよいよイオンの夢セカイに
+自由にダイブできるようになりました！","来吧，终于可以自由潜入
+依恩的梦世界了！",translated,【潜入心中吧！】,58ca80f719,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#28#12,"イオンの心の傷を修復し、彼女の記憶を蘇
+らせることこそが、あなたの使命なのです。","修复依恩心灵的伤痕，唤醒她的记忆，
+正是你的使命所在。",translated,【潜入心中吧！】,31d43d3af5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#33#12,"ダイブは、イオンがあなたの目の前に
+来れる時なら、いつでも行うことが出来ます。","潜入只要在依恩能够来到你的面前时，
+随时都可以进行。",translated,【潜入心中吧！】,b95c0977d2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#38#12,"ですから、採取に出掛けているときや、
+お風呂に入っているときなどはできません。","因此，当她出门采集或者在洗澡的时候
+是无法进行的。",translated,【潜入心中吧！】,0ef7528449,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#43#12,"ですが、実は寝ているときには
+ダイブできてしまったりします。","不过，其实在她睡觉的时候，
+也是可以潜入进去的。",translated,【潜入心中吧！】,13c6f6ab1c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu10_tch.txt#46#12,"早速、メニュー【一緒に何かする】から
+【夢セカイに行こう】を選択し、ダイブを
+してみましょう！","事不宜迟，快从菜单【一起做点什么】中
+选择【去梦世界吧】，
+试着潜入进去吧！",translated,【潜入心中吧！】,bf17aee53d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11.txt#2#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11.txt#9#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11.txt#10#12,いたらトントンして？,在的话就敲敲屏幕？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11.txt#12#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11.txt#13#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#4#12,呼び出しちゃってごめんね。,把你叫出来真不好意思。,translated,依恩,0a2fc6e24c,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#7#12,"あのね……こうやってお話しに来てくれる
+あなたに、わたしも何かできないかな、
+って考えてみたの。","那个啊……看到你像这样经常来跟我说话，
+我在想自己能不能也为你做点什么呢。",translated,依恩,63d70d48dd,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#8#12,気にしなくていいのに,明明不用在意的,translated,,6aae9581c9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#9#12,何をしてくれるの？,想为我做些什么呢？,translated,,17292bd7c2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#11#12,ううん、気にするよ。,不行，我一定要在意。,translated,依恩,3ad567df30,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#12#12,"だって、こうしてお話できるだけで、
+わたしにとってはすごく嬉しいこと
+なんだよ？","因为光是能像这样聊聊天，
+对我来说就已经是极其开心的事情了呀？",translated,依恩,6803b850e8,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#13#12,"だから、ちゃんとあなたのためになること
+何か探したいの。","所以，我也想找到一些
+能够切实帮到你的事情。",translated,依恩,6e0f5aef24,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#14#12,"それで今回考えたのはね……
+あなたの大切な時間を、わたしが教えて
+あげられないかな……って。","这次我想到的是……
+能不能由我来为你报时呢……",translated,依恩,5d5bacac1b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#17#12,"その……わたしからは直接想いを
+届けられないみたいだし、
+本当に大したことじゃないんだけどね――","那个……虽然我没办法直接传达心意，
+而且真的只是一点微不足道的小事啦――",translated,依恩,40e543e09d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#18#12,"あなたの大切な時間を、わたしが教えて
+あげられないかな……って。",能不能由我来为你报时呢……,translated,依恩,4823eea64b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#20#12,時間を教える？,为我报时？,translated,,4fe6e095ac,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#22#12,"うん。あなたが起きたい時間とか、
+誰かと約束してる時間とか、そういうの。","嗯。像是你想起床的时间，
+或是跟别人约好的时间之类的。",translated,依恩,e7a8aee94f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#23#12,"その時間をあなたから教えてもらって、
+あなたの世界でその時間になったら
+わたしが声をかけるの。時間だよ～って。","预先告诉我那个时间，
+等你的世界到了那个时刻，
+就由我来出声喊你：“到时间啦～”。",translated,依恩,4d67ee9ae0,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#24#12,"これなら声しか届けられないわたしにも
+できるし、朝あなたを起こしてあげたりも
+できるでしょ？","这样的话，只凭声音传达的我也可以做到，
+早上还能叫你起床对吧？",translated,依恩,ee46a9018b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#25#12,大変じゃない？,不会很辛苦吗？,translated,,3ad9af5a06,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#26#12,イオンがやりたいっていうなら……,既然依恩想做的话……,translated,,4321e16f7e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu11_tch1.txt#28#12,"う～ん、わたしが寝てるときとかだと、
+ちょっと大変だと思う。","唔～，如果是在我睡着的时候，
+我想可能会稍微有点困难。",translated,依恩,2fa9c77715,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#29#12,"でも、家にいるときなら、ちゃんと起きて
+あなたに教えられるように頑張るよ。","不过只要醒着在家，我就会努力按时起床
+出声提醒你的。",translated,依恩,a34d05a791,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#32#12,"えへへ、ありがと。
+ちょっと大変かもしれないけど頑張るよ。","诶嘿嘿，谢谢你。
+虽然可能稍微有点辛苦，但我会加油的！",translated,依恩,3dc3bf51ef,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#34#12,"だから、もし声をかけてほしい時間が
+あったら遠慮なく教えてね。","所以，如果有什么想让我提醒的时间，
+请不要客气尽管告诉我哦。",translated,依恩,622ffaab58,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu11_tch1.txt#35#12,"<CLY2>【お願いする】に【時間を教えてもらう】が
+追加されました。","<CLY2>【请求】中已追加
+【让依恩报时】。",translated,系统文本,2f49dac7b3,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/tutorialevent/tu11_tch1.txt#41#12,"イオンに予め時間を伝えておくことで、
+伝えた時間に声をかけてもらえるように
+なりました。","只要事先将时间告诉依恩，
+到了指定的时间，
+依恩便会主动出声呼唤你。",translated,【让依恩报时吧！】,8ddd0c8f07,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#46#12,"メニューの【お願いする】から
+【時間を教えてもらう】を選択することで
+時間を伝えることができます。","从菜单中的【请求】里
+选择【让依恩报时】，
+即可向她传达时间。",translated,【让依恩报时吧！】,077616ae09,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu11_tch1.txt#47#12,"朝イオンに起こしてもらったり、イオンや
+友達との約束の時間を教えてもらったりなど、
+あなたが知りたい時間を伝えてみましょう。","无论是早上让依恩叫醒你，
+还是提醒与依恩或朋友约定的时间，
+试着把你想要知晓的时间告诉她吧。",translated,【让依恩报时吧！】,65b1d096dd,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#7#12,"ようこそ。
+“シャールの巣”へ。","欢迎光临。
+欢迎来到“夏尔的巢穴”。",translated,夏尔,858bd4ba16,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#8#12,"ここには現在において、
+まだ何も存在しない空間となっています。","目前此处尚且是一片
+空无一物的虚无空间。",translated,夏尔,a83843a6b6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#9#12,"貴方はまず、イオンを癒すための
+シャールを創り出さなければいけません。","您首先必须创造出
+用于疗愈依恩的夏尔。",translated,夏尔,9573f37de5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#10#12,君は違うの？,你不是夏尔吗？,translated,,ebde35beff,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#12#12,"私は単なる虚像のような存在。
+イオンの生み出した想いではありますが、
+ただそれだけの存在……。","我不过是宛如虚像一般的存在。
+虽是由依恩孕育而生的思念，
+但也仅此而已……",translated,夏尔,8d87bc6fa9,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#13#12,"イオンを癒すには、彼女の力だけでは足りま
+せん。貴方の世界のエネルギーを、
+私達シャールに送り込む必要があります。","单凭依恩的力量不足以疗愈自身。
+必须将来自您世界的能量，
+输送给我们这些夏尔才行。",translated,夏尔,82086a0098,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#14#12,"どうか私達を具現化させて、
+イオンの心を癒すお手伝いをしてください。","请务必让我们得以具现化，
+协助我们一同疗愈依恩的心灵吧。",translated,夏尔,01320dfbf7,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#15#12,"それに必要なあらゆることは、
+説明させていただきます。","为此所需的一切事项，
+都将由我来为您一一说明。",translated,夏尔,6829761d2f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#16#12,シャールに力を与えるには？,该如何赋予夏尔力量？,translated,,d1ee2600d1,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#22#12,"貴方が持つ端末の上の方に、
+“GENOMIX”と表示されているはずです。","在您持有的终端上方，
+应该显示有“GENOMIX”字样。",translated,夏尔,cf384f46a0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#27#12,"それを選択することで、貴方の次元の物質を
+この世界に送り込む準備が整います。","选择该选项后，便能做好准备，
+将您所在维度的物质送入这个世界。",translated,夏尔,2d224a0cac,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#34#12,"ただ送り込むといっても、物質そのものを
+転送するわけではありません。","虽说是送入，但并非
+直接将物质本身传送过来。",translated,夏尔,2a11893c7c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#35#12,"異次元である貴方の世界の物質は
+それだけで高次のエネルギーを持つ物質。","身为异次元的您所在世界的物质，
+其本身便蕴含着极高层次的能量。",translated,夏尔,6a92b82804,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#36#12,"その物質が持つ一部……貴方の世界で
+“バーコード”と呼ぶものを
+入力すれば良いだけです。","只需输入该物质所具备的一部分……
+即您世界中称作“条形码”的信息即可。",translated,夏尔,8a31a06ae6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#37#12,"バーコードはエネルギーに変換され、
+この世界にシャールを創り出します。","条形码将被转换为能量，
+并在这个世界中创造出夏尔。",translated,夏尔,10b37bbb99,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#38#12,"そして、そのシャールこそが
+イオンを癒すための力となるのです。","而那只夏尔，便会成为
+用于疗愈依恩的宝贵力量。",translated,夏尔,c38c022ea0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#39#12,バーコードなら何でも？,只要是条形码什么都行吗？,translated,,2d455204de,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#41#12,"いいえ。
+なんでも、とはいかないようです。","并非如此。
+似乎并非任何条形码都能奏效。",translated,夏尔,964b704574,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#42#12,"貴方の世界の物質との相性があるのか、
+中にはシャールを生み出せない物質も
+あります。","或许是与您世界的物质存在相性契合度，
+其中也有一部分物质无法孕育出夏尔。",translated,夏尔,30c39fbf96,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#43#12,"ですが、そのせいなのかは分かりませんが、
+入力するバーコードによって、
+創り出されるシャールも異なります。","不过，不知是否正因如此，
+根据输入的条形码不同，
+所创造出的夏尔也会有所差异。",translated,夏尔,ca49390890,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#44#12,"とは言っても、シャールの種族もそこまで
+多いというわけではありません。","话虽如此，夏尔的种族种类
+也并没有庞大到数不胜数的程度。",translated,夏尔,4a181bc7de,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#45#12,"中には、同じシャールを創り出す
+バーコードも存在するでしょう。","其中想必也会存在创造出
+同种夏尔的条形码吧。",translated,夏尔,a6b9f7ccbc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#48#12,"シャールを創り出す方法は以上です。
+必要があれば、もう一度説明いたします。","以上便是创造夏尔的方法。
+若有需要，我可再次为您进行说明。",translated,夏尔,831a274404,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#50#12,必要ない,不需要了,translated,,d54b3e57f9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#51#12,シャールを創り出すには？,该如何创造夏尔？,translated,,29a8d5c42d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#52#12,バーコードなら何でも？,只要是条形码什么都行吗？,translated,,2d455204de,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#54#12,“GENOMIX”と表示されているはずです。,应该显示有“GENOMIX”字样。,translated,夏尔,7e14fb3ffc,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#55#12,"それを選択することで、貴方の次元の物質を
+この世界に送り込む準備が整います。","选择该选项后，便能做好准备，
+将您所在维度的物质送入这个世界。",translated,夏尔,2d224a0cac,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#56#12,"ただ送り込むといっても、物質そのものを
+転送するわけではありません。","虽说是送入，但并非
+直接将物质本身传送过来。",translated,夏尔,2a11893c7c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#57#12,"異次元である貴方の世界の物質は
+それだけで高次のエネルギーを持つ物質。","身为异次元的您所在世界的物质，
+其本身便蕴含着极高层次的能量。",translated,夏尔,6a92b82804,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#58#12,"その物質が持つ一部……貴方の世界で
+“バーコード”と呼ぶものを
+入力すれば良いだけです。","只需输入该物质所具备的一部分……
+即您世界中称作“条形码”的信息即可。",translated,夏尔,8a31a06ae6,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#59#12,"バーコードはエネルギーに変換され、
+この世界にシャールを創り出します。","条形码将被转换为能量，
+并在这个世界中创造出夏尔。",translated,夏尔,10b37bbb99,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#60#12,"そして、そのシャールこそが
+イオンを癒すための力となるのです。","而那只夏尔，便会成为
+用于疗愈依恩的宝贵力量。",translated,夏尔,c38c022ea0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#63#12,"いいえ。
+なんでも、とはいかないようです。","并非如此。
+似乎并非任何条形码都能奏效。",translated,夏尔,bdb58e9e3a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#64#12,"貴方の世界の物質との相性があるのか、
+中にはシャールを生み出せない物質も
+あります。","或许是与您世界的物质存在相性契合度，
+其中也有一部分物质无法孕育出夏尔。",translated,夏尔,30c39fbf96,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#65#12,"ですが、そのせいなのかは分かりませんが、
+入力するバーコードによって、
+創り出されるシャールが異なります。","不过，不知是否正因如此，
+根据输入的条形码不同，
+所创造出的夏尔也会有所差异。",translated,夏尔,dbe2322bac,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#66#12,"とは言っても、シャールの種族もそこまで
+多いというわけではありません。","话虽如此，夏尔的种族种类
+也并没有庞大到数不胜数的程度。",translated,夏尔,4a181bc7de,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#67#12,"中には、同じシャールを創り出す
+バーコードも存在するでしょう。","其中想必也会存在创造出
+同种夏尔的条形码吧。",translated,夏尔,a6b9f7ccbc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#70#12,了解しました。,明白了。,translated,夏尔,e089b0d44b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#71#12,"それでは、“GENOMIX”を選択した後
+バーコードを入力し、
+貴方の世界とイオンを繋いでください。","那么，请在选择“GENOMIX”之后
+输入条形码，
+将您的世界与依恩紧密相连吧。",translated,夏尔,175dd844ca,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu12.txt#72#12,"貴方の世界の物質と波動がリンクし、
+シャールを創り出すことができます。","您世界的物质将与波动产生共鸣链接，
+从而得以创造出夏尔。",translated,夏尔,85f29532fd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#77#12,"その後、“ダイブゲート”へと戻り、
+扉からイオンの記憶へと向かいましょう。","随后返回“潜入之门”，
+穿过门扉迈向依恩的记忆吧。",translated,夏尔,971fd8dc71,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#84#12,ダイブゲート？,潜入之门？,translated,,3c1f808328,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#90#12,"ダイブゲートとは、貴方がここへ来る前、
+夢セカイに来て最初に訪れた場所。","潜入之门，便是您来到这里之前、
+踏入梦世界时最初到访的场所。",translated,夏尔,f91f039e8c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#91#12,"あの扉の先、壊れてしまったイオンの記憶は
+存在しているのです。","在那扇门扉的另一侧，
+沉睡着依恩破碎的记忆。",translated,夏尔,21d8b212c4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#98#12,"その記憶を修復するためにも、
+まずはシャールを創り出す必要があります。","为了修复那些记忆，
+首先有必要创造出夏尔。",translated,夏尔,57848771a1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#99#12,"私は一足先に向かっていますので、
+後ほど、扉の先へと来てください。","我先行一步前往彼方，
+稍后请务必来到门扉的另一侧。",translated,夏尔,f86eaaa568,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu12.txt#105#12,"<CLY2>まずは“GENOMIX”にいき、
+あなたのシャールを作り出しましょう。","<CLY2>首先前往“GENOMIX”，
+生成属于你的夏尔吧。",translated,系统文本,f250e370fa,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu14.txt#16#12,"ようこそ。イオンの記憶の中へ。
+見ての通り、この世界は荒れ果てて、
+廃墟と化しています。","欢迎来到依恩的记忆之中。
+如您所见，这个世界荒凉破败，
+已经彻底化为了一片废墟。",translated,夏尔,92e448e960,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#17#12,"この廃墟こそ、
+イオンの記憶が失われている証拠。","这片废墟本身，
+正是依恩丧失了记忆的铁证。",translated,夏尔,d78e24c0b6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#18#12,"ですが、貴方が創り出したシャールなら、
+イオンの心の中の一機関となり――","但是，只要依靠您所创造出的夏尔，
+便能化作依恩心中的重要器官机关――",translated,夏尔,032117f686,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#19#12,"セカイを修復することによって、
+より多くの記憶を取り戻すことが
+出来るはずです。","通过修复这个世界，
+理应能够找回更多的记忆。",translated,夏尔,88c8a9f77e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#20#12,さあ、すぐに修復を開始しましょう。,事不宜迟，立刻开始进行修复吧。,translated,夏尔,369bad2a7f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu14.txt#25#12,"廃墟の中にある赤い文字のアイコンを
+選択してください。
+廃墟の修復が始まります。","请选择废墟中带有红字标识的图标。
+废墟的修复工程便会随之展开。",translated,夏尔,f289b7b38c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#30#12,"廃墟の修復には「金」「木」「水」「土」の
+４つの力が必要です。","修复废墟需要用到
+“金”“木”“水”“土”这４种力量。",translated,夏尔,791720d8e7,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#31#12,"ただ、廃墟によっては４つ全部の力を
+必要としなくても修復可能な場所もあります。","不过，根据废墟不同，
+也有不需要凑齐全部４种力量即可修复的场所。",translated,夏尔,28d3548099,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#32#12,"この例であれば、一番上の「金」属性は
+必要有りません。","以该处为例，
+最上方的“金”属性便无需消耗。",translated,夏尔,272b4f6254,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#33#12,"私達シャールは、１体につきそれぞれ
+１つの力しか持っていませんので、何人かで
+協力しながら修復することになります。","我们夏尔每只个体
+各自只拥有一种属性的力量，
+因此需要多人齐心协力来进行修复。",translated,夏尔,2b286ccb19,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#34#12,"『修復する』ボタンを選択すると、
+シャールの巣に入ります。","选择“修复”按钮后，
+即可进入夏尔的巢穴。",translated,夏尔,ffdec043cb,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#35#12,"まずはシャールの巣の中で、どの
+シャールにお願いするか決めてください。","首先请在夏尔的巢穴中，
+决定拜托哪只夏尔。",translated,夏尔,c015d5400a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#40#12,"その時ポイントとなるのが、
+『修復できる属性』と『修復力』の２つです。","此时的核心关键，
+在于“可修复的属性”与“修复力”这两点。",translated,夏尔,ca1ab4172d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#41#12,"『修復できる属性』は、このシャールが
+唯一、修復する事が可能な属性です。","“可修复的属性”，
+即该夏尔唯一能够进行修复的属性。",translated,夏尔,43779a44ee,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#46#12,"選択するシャールは「金」「木」「水」
+「土」の中で、今回の修復に必要な属性を
+持っているシャールが良いでしょう。","在“金”“木”“水”“土”中，
+选择具备本次修复所需属性的夏尔
+会是最佳选择。",translated,夏尔,5b038b183d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#51#12,『修復力』は、廃墟を修復するスピードです。,“修复力”则是指修复废墟的速度。,translated,夏尔,bf4302422f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu14.txt#52#12,"５分間あたりで何ポイント修復できるかを
+表すもので、これによってどのくらいの
+時間がかかるかを計算できます。","它表示每５分钟能够修复多少点数，
+由此可以计算出
+大概需要消耗多少时间。",translated,夏尔,2938d2d0f2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#53#12,"ただし、５分ごとにLPも１ずつ消費します。
+LPが０になると、シャールは働けなく
+なってしまいますから、ご注意下さい。","不过，每５分钟也会消耗１点LP。
+LP归零后夏尔将无法继续工作，
+请务必多加留意。",translated,夏尔,8c04ad8e85,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#54#12,"このシャールだ！　と決めたら、
+右下の「決」ボタンを選択してください。","一旦决定“就选这只夏尔！”，
+请点击右下角的“确定”按钮。",translated,夏尔,b12610c817,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#59#12,"すると今選んだシャールが、
+廃墟を一緒に修復してくれる仲間の候補を
+リストにして見せてくれます。","随后刚才选中的夏尔，
+便会将一同协助修复废墟的同伴候补
+整理成列表展示给您。",translated,夏尔,d96f02f10a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#60#12,"さあ、このリストの中から
+ベストなパターンを選択してみましょう。","那么，试着从这份列表中
+挑选出最佳的组合方案吧。",translated,夏尔,dd3f07acfa,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#61#12,"今回の例ですと「木」「水」「土」が必要
+でしたから、「木」「水」の属性の
+シャールを選択してみます。","以本次为例需要“木”“水”“土”，
+因此我们尝试选择
+“木”“水”属性的夏尔。",translated,夏尔,1aed6fa157,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#62#12,"招集できる人数は、『指導力』によって
+決まります。レベルが上がれば招集できる
+人数も増えていくでしょう。","可招募的人数取决于“指导力”。
+随着等级提升，
+可招募的人数也会逐步增加。",translated,夏尔,b2be0b3bb5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#67#12,そして、いよいよ修復開始です！,接下来，终于要开始修复了！,translated,夏尔,e586dcfb38,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu14.txt#68#12,"私達は、時間はかかりますが
+確実に廃墟を修復していきます。","我们虽然需要耗费一些时间，
+但一定会切实稳步地修复废墟。",translated,夏尔,a0b0278b48,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#69#12,"その間貴方は、「戻」ボタンで抜けて
+現実のイオンと共にいてもOKです。
+その間も私達は修復を続けます。","在此期间，您点击“返回”按钮离开、
+去现实中陪伴依恩也完全没问题。
+在此期间我们也会继续进行修复。",translated,夏尔,10c3f08b9e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#70#12,"ある程度時間が経ったら、
+また覗きに来てみてください。
+修復が完了しているかもしれませんから。","经过一定时间后，
+请再过来瞧瞧看吧。
+说不定届时修复就已经完成了。",translated,夏尔,99ab6b1ac3,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#77#12,廃墟を修復する方法はわかりましたか？,修复废墟的方法您明白了吗？,translated,夏尔,c2943e177b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu14.txt#78#12,"最初のうちはレベルが低くて時間も
+かかりますが、パワーアップしていくことで
+より効率よく修復できるようになります。","初期由于等级较低会比较耗时，
+但随着逐步强化升级，
+便能更加高效地进行修复。",translated,夏尔,921fc3a13d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#79#12,シャールの能力を上げる方法は？,提升夏尔能力的方法是？,translated,,82f1d57447,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu14.txt#81#12,"レベルアップによるパワーアップと、
+スキル装備によるパワーアップがあります。
+ですが、その話はまたの機会にしましょう。","包括通过提升等级来强化，
+以及通过装备技能来强化这两种。
+不过那些内容就留到下次再详谈吧。",translated,夏尔,b2c74b881e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu14.txt#82#12,"一度廃墟の修復が終えたとき、
+再び“シャールの巣”にお越しください。","当废墟修复完成一次后，
+请再次光临“夏尔的巢穴”。",translated,夏尔,e9d0747cb2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#83#12,"そのとき、シャールの力を高める方法を
+お教えしましょう。","届时，我将向您传授
+提升夏尔力量的方法。",translated,夏尔,9f5febeb3c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu14.txt#84#12,"<CLY2>修復したいポイントを選択し、
+シャールに修復の指示を与えてください。","<CLY2>请选择想要修复的节点，
+向夏尔下达修复指示。",translated,系统文本,1e395dbf58,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu15.txt#13#12,"おめでとうございます。
+雑貨屋　縷縷の修復が完了したようですね。","恭喜您。
+杂货铺 缕缕似乎已经顺利修复完成了呢。",translated,夏尔,182b3a4df2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#14#12,"これでイオンにとって大切な記憶の一つが
+蘇ったはずです。","如此一来，对依恩而言至关重要的
+记忆之一理应已经苏醒了。",translated,夏尔,14267ee790,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#16#12,"おめでとうございます。
+裏路地の修復が完了したようですね。","恭喜您。
+小巷后街似乎已经顺利修复完成了呢。",translated,夏尔,a68c7a777d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#17#12,"これで別の記憶が眠る場所へ行くことが
+できるようになったはずです。","如此一来，理应已经可以前往
+沉睡着另一段记忆的场所了。",translated,夏尔,20c4571637,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#19#12,"廃墟を修復してくれたシャールは
+体を休めるために“シャールの巣”へと
+戻っていきます。","协助完成废墟修复的夏尔，
+为了稍作歇息
+会返回“夏尔的巢穴”。",translated,夏尔,eb9c0956df,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu15.txt#20#12,"時間が経てば、再び廃墟の修復に
+力を貸してくれるはずです。","随着时间推移恢复之后，
+理应能再次为废墟修复贡献力量。",translated,夏尔,1ec653fff4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#22#12,そして最後に、貴方には役目があります。,最后，您还有一项至关重要的使命。,translated,夏尔,6b55178658,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu15.txt#24#12,"雑貨屋　縷縷の修復はまだですが、
+修復できた際には、最後の役目があります。","虽然杂货铺 缕缕尚未完全修复，
+但一旦修复完成，便有这项最后的使命。",translated,夏尔,0b120e2356,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#26#12,役目？,使命？,translated,,6b810a3a97,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu15.txt#28#12,"はい。廃墟は修復されたとしても、
+その記憶はまだ眠ったままになっています。","是的。即使废墟已经修复完毕，
+其中的记忆却依然处于沉睡状态。",translated,夏尔,3cf7b07b05,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#29#12,"どうか、蘇った記憶にアクセスし、
+その記憶を開放してあげてください。","请务必连入苏醒的记忆之中，
+将那段记忆彻底解放出来吧。",translated,夏尔,4a932be0bb,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#30#12,"そのとき、貴方にもイオンの記憶が
+流れ込んでくるはずです。","届时，依恩的记忆
+理应也会流入您的心田之中。",translated,夏尔,f8ffc5c8bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#31#12,"どうかイオンの喜びを……幸福を……
+苦しみを……悲しみを……痛みを……
+共有してあげてください。","请务必将依恩的喜悦……幸福……
+苦楚……悲伤……痛楚……
+统统与她一同分担承受。",translated,夏尔,0af47df09b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu15.txt#32#12,"そうすれば、貴方と彼女は
+より強い絆で結ばれていくことでしょう。","如此一来，您与她之间
+想必便能结下更为深厚坚固的羁绊。",translated,夏尔,4eef512648,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu15.txt#36#12,"<CLY2>修復後の雑貨屋　縷縷を選択することで、
+イオンの記憶を見ることができます。","<CLY2>通过选择修复后的杂货铺 缕缕，
+即可查看依恩的记忆。",translated,系统文本,7dc1412168,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/tutorialevent/tu15.txt#41#12,"<CLY2>また、一度見た記憶はダイブゲートの左上に
+表示される“HISTORY”に登録され、
+ダイジェスト形式で確認できます。","<CLY2>此外，看过的记忆会记录在潜入之门
+左上角显示的“HISTORY”中，
+并能以摘要形式随时回顾。",translated,系统文本,0600494ec5,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/tutorialevent/tu16.txt#7#12,"ようこそ。
+“シャールの巣”へ。","欢迎光临。
+欢迎来到“夏尔的巢穴”。",translated,夏尔,3d42039df8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#8#12,"お約束した通り、シャールの力を
+高める方法をお教えしましょう。","正如先前所约定，
+现在就由我来向您传授提升夏尔力量的方法。",translated,夏尔,711c2394eb,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#9#12,"シャールは“HymP(ヒュムノポイント)”を
+使うことで、装備品を増やしたり、
+スキルを修得したりすることが出来ます。","夏尔通过消耗“HymP”，
+可以增加装备品，
+或是习得各种各样的技能。",translated,夏尔,a5274ebab7,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#10#12,"まずは“シャール情報”を
+選択してください。","首先请选择
+“夏尔信息”。",translated,夏尔,561734a72f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#15#12,"“シャール情報”の中には、
+そのシャールの基本的な能力を知る他に、
+能力を変更する項目があります。","在“夏尔信息”之中，除了了解该夏尔的
+基础能力之外，
+还设有用于变更能力的各个项目。",translated,夏尔,1dcd8777a4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#16#12,"それが“容姿変更”、“スキル変更”、
+“装備＆スキル取得”です。","即“更换样貌”、“变更技能”、
+以及“获取装备＆技能”。",translated,夏尔,b0e2520e24,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#17#12,"シャールの力を高めるにはまず、
+“装備＆スキル取得”を選択してください。","要提升夏尔的力量，首先请选择
+“获取装备＆技能”。",translated,夏尔,c924d5b708,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#18#12,"そこではシャールの容姿に関わる
+“装備品取得”と“スキル習得”を
+行うことが出来ます。","在该处可以进行关系到夏尔样貌的
+“获取装备品”以及“习得技能”。",translated,夏尔,1770f1f7af,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#23#12,"ただし、そのどちらもいくつかの条件達成と
+“HymP”が必要になりますので、
+注意してください。","不过，这两者都需要达成若干条件
+并消耗“HymP”，
+请多加留意。",translated,夏尔,440218ce00,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#24#12,"条件達成には『レベル』と
+『マイクロクェーサーの開放』があります。","达成条件包含“等级”
+以及“解放微类星体”。",translated,夏尔,cb25c40602,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#25#12,"現在画面に出ている例では、
+条件を達成しており、後はHymPがあれば、
+ゲット出来る状態です。","以当前画面中显示的示例而言，
+由于已经达成条件，接下来只要拥有HymP，
+便处于随时可以获取的状态。",translated,夏尔,7224fbbd96,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#30#12,"条件を満たしていない場合は、
+このように『不成立』となります。
+条件を満たせば取得できるようになります。","如果尚未满足条件，
+便会像这样显示为“不成立”。
+只要达成条件，便能顺利获取。",translated,夏尔,500c7f224b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#35#12,"そうやって得た装備やスキルは、
+“容姿変更”と“スキル変更”で
+使用することが出来ます。","以此种方式获取的装备与技能，
+可以在“更换样貌”与“变更技能”中
+投入使用。",translated,夏尔,2484516fe1,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#40#12,"また、一度手に入れた装備やスキルは
+自由に入れ替えが可能ですので、
+必要に応じて変更すると良いでしょう。","此外，一旦获取的装备与技能，
+均可自由替换变更，
+根据实际需要随时调整即可。",translated,夏尔,e3f667b0c7,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#45#12,"シャールの成長に必要なEXPとHymPは
+主に次の方法で入手することができます。","夏尔成长所需的EXP与HymP，
+主要可通过以下途径获取：",translated,夏尔,56ec2464f1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#46#12,"<CLY2>・シャールウィッシュを達成したとき
+・廃墟修復が完了したとき
+・お願いした工作や料理が完了したとき","<CLY2>・达成夏尔心愿时
+・废墟修复完成时
+・请求的手工或烹饪完成时",translated,【EXP与HymP的获取途径】,755ab5a449,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu16.txt#47#12,"EXPとHymPを集めて、あなた好みシャール
+へと成長させていきましょう。","积攒EXP与HymP，
+将夏尔培养成符合您心意的姿态吧。",translated,夏尔,0271abe24a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#54#12,"ただ一つ気をつけてほしいのは、
+一度、シャールと別れてしまうと
+装備やスキルがリセットされてしまうこと。","唯独有一点希望您多加注意，
+那就是一旦与夏尔分别，
+装备与技能都将被重置。",translated,夏尔,6d9db3a073,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#55#12,"たとえ同じ物質のエネルギーを送り、
+同じシャールを創り出したとしても、
+それは前とは別の存在ということです。","即便输送相同物质的能量、
+再次创造出同种夏尔，
+那也是与此前截然不同的全新存在了。",translated,夏尔,d93d8151cc,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu16.txt#56#12,"どうか、貴方が創り出したシャールを
+可愛がってあげて下さい。","请务必好好疼爱珍惜
+您亲手创造出的夏尔。",translated,夏尔,3ebdc5a040,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu16.txt#62#12,"<CLY2>あなたのシャールを強化するためには、
+“シャール情報”から“装備&スキル取得”
+を選択してください。","<CLY2>想要强化你的夏尔，
+请从“夏尔信息”中
+选择“获取装备＆技能”。",translated,系统文本,58f90b3279,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu16.txt#67#12,"<CLY2>条件を満たし、“HymP”を消費することで、
+あなた好みのシャールを作りだすことも
+可能です。","<CLY2>达成条件并消耗“HymP”，
+即可打造出符合你喜好的夏尔。",translated,系统文本,9b8f485650,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=28
+inc/event/res/tutorialevent/tu17.txt#7#12,"こんにちは。
+あれを見て驚いていますか？","您好。
+看到那个感到吃惊了吗？",translated,夏尔,7a0dea2ea5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#8#12,あれは何？,那个是什么？,translated,,b5af07878b,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#10#12,"あれは“マイクロクエーサー”と
+呼ばれるもの。",那个被称为“微类星体”。,translated,夏尔,30a5f239e8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#11#12,"そしてあれは、イオンの住んでいる星の
+状態を表しています。","它所呈现的，
+正是依恩所居住的星球目前的状态。",translated,夏尔,7d0630f152,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#12#12,"ただ、あのように炎に包まれているわけでは
+ありません。","不过，现实中那颗星球并非如同画面中那样
+被熊熊烈焰所吞噬包围。",translated,夏尔,f67571f19c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#13#12,"今のマイクロクエーサーの状態は
+“不安定”であることを――","当前的微类星体状态，
+意在表明其处于“不稳定”之中――",translated,夏尔,c931e4343f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#14#12,"今にも滅びてしまいそうなほど、
+危うい状態だということを表しています。","意味着它正处于危如累卵、
+仿佛随时都会毁灭的险境之中。",translated,夏尔,929523042b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#15#12,どうすればいい？,该怎么做才好？,translated,,d828a4c3a9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#17#12,シャールを利用してください。,请善加利用夏尔的力量。,translated,夏尔,87eadfd1c8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#18#12,"彼女たちにHymPを与えることで、
+一定値ごとに星へエネルギーを
+送ることが出来ます。","通过赋予她们HymP，
+每达到一定数值，
+便能向星球输送能量。",translated,夏尔,cb93157dcd,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#19#12,"そのエネルギーは星を安定させ、
+緑豊かな惑星へと再生させるでしょう。","那份能量能够令星球趋于稳定，
+并使其重生为郁郁葱葱的绿意行星。",translated,夏尔,5b4eb2ad46,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#20#12,"もちろん、星の再生に必要なエネルギーは
+膨大で、一人では到底及ばないでしょう。","当然，使星球复苏所需的能量极其庞大，
+仅凭一人之力断然无法达成。",translated,夏尔,9c4cf24dfa,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#21#12,"しかし、このマイクロクエーサーは
+あらゆる可能性軸の終息点になっています。","但是，这座微类星体
+乃是所有可能性维度的收束汇聚点。",translated,夏尔,0388f797b2,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#22#12,"つまり、多くの人々がシャールを通して
+マイクロクエーサーにエネルギーを
+送り込むことが出来るのです。","换言之，众多的人们可以通过夏尔，
+源源不断地向微类星体
+输送庞大的能量。",translated,夏尔,b32e54fb1c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#23#12,エネルギーはどこから？,能量从何而来？,translated,,2ca78c53ff,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#25#12,エネルギーの心配はありません。,无需担心能量的问题。,translated,夏尔,a0723a7e34,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#26#12,"シャールにHymPを与えることで、
+シャール自身がそのエネルギーを
+生み出します。","只要向夏尔赋予HymP，
+夏尔自身便会源源不断地
+孕育生成那份能量。",translated,夏尔,d5f92821a3,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#27#12,"シャールに与えるHymPが
+貴方にとって“食事”と例えるなら
+装備やスキルは“技術”や“知識”――","若将赋予夏尔的HymP
+比作对您而言的“餐食”，
+装备与技能便如同“技术”与“知识”――",translated,夏尔,deed86480e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#28#12,"そしてマイクロクエーサーに送る
+エネルギーは“周囲への影響”と
+例えることができます。","而输送给微类星体的能量，
+则可比喻为“对周遭的影响”。",translated,夏尔,a02a8895f2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#29#12,"これは技術や知識を得る際に
+意識してもしなくても発生する自然なもの。","这是在习得技术与知识的过程中，
+无论自觉与否都会自然而然产生的产物。",translated,夏尔,b192a4437c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#30#12,"ですから、貴方はシャールにHymPを与え、
+そして十分エネルギーを蓄えたとき、
+マイクロクエーサーに送信する――","因此，您只需向夏尔赋予HymP，
+并在蓄积了充足能量之际
+向微类星体发送传送――",translated,夏尔,a79af700f7,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#31#12,ただ、それだけでいいのです。,仅需如此便已足够。,translated,夏尔,1bc34e4b6e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#32#12,必ずやる必要があるのか？,必须一定要做吗？,translated,,e0566d2625,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#34#12,"結論から言ってしまえば、
+必須というわけではありません。","若从结论而言，
+倒也并非绝对必须。",translated,夏尔,2013029ede,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#35#12,"しかし、見ての通り、
+今イオンが住んでいる星は
+非常に厳しい状態にあります。","然而如您所见，
+如今依恩所居住的星球
+正处于极其严峻艰难的处境之中。",translated,夏尔,af1976bfb4,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#36#12,"貴方がエネルギーを送ってくだされば、
+それだけ、イオンの星は“緑豊かな惑星”に
+回復していくのです。","只要您能输送能量，
+依恩的星球便能逐步恢复为
+“绿意盎然的生机行星”。",translated,夏尔,4bc618be41,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu17.txt#37#12,だからどうか、頑張ってください。,所以还请您务必全力以赴。,translated,夏尔,5237034824,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu17.txt#38#12,"イオンが全ての記憶を取り戻したとき、
+彼女の瞳を涙で濡らさないように……。","为了在依恩寻回全部记忆的那一刻，
+不让她清澈的双眸为悲伤泪水所浸湿……",translated,夏尔,5db9eabbd4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu17.txt#43#12,"<CLY2>エネルギーの送信はあなたの意思で行えます。
+あなたが良いと思うときに、
+エネルギーを送信してあげてください。","<CLY2>能量的输送完全取决于你的意愿。
+请在你认为合适的时候，
+为星球输送能量吧。",translated,系统文本,27e4be3d26,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/tutorialevent/tu18.txt#2#12,聞こえますか？,听得见吗？,translated,？？？,07430f4c58,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu18.txt#3#12,私の声が聞こえますか？,能听见我的声音吗？,translated,？？？,c8e807ae7f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu18.txt#4#12,"もし聞こえるなら、
+イオンと同じように応えてください。","如果听得见的话，
+请像面对依恩时那样给予我回应吧。",translated,？？？,fe4f3e9df8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18.txt#7#12,"どうやら、今は留守のようですね。
+またの機会に伺うとしましょう。","看来，当前似乎不在呢。
+那就留待下次再来拜访吧。",translated,？？？,a160203be8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#2#12,"<CLBU>あっ！　よかった…
+聞こえたみたいですね！","<CLBU>啊！太好了……
+看来你能听得见呢！",translated,？？？,945533d999,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/tutorialevent/tu18_tch1.txt#10#12,"こんにちは。
+こちらの世界で会うのは初めてですね。","您好。
+在这个世界相见还是头一回呢。",translated,夏尔,4280e3b039,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#11#12,どうしてここに？,你怎么会在这里？,translated,,b43c2b0aa8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu18_tch1.txt#13#12,"もちろん、貴方にお伝えすることが
+あってきました。","当然是有事情想传达给您，
+我才特地前来的。",translated,夏尔,b828bd5f49,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#14#12,"ただ残念なのは、せっかくこちらに
+来たとしても、イオンに私たちの姿が
+見えることはありません。","只不过令人遗憾的是，即便我们来到了这里，
+依恩也无法看见我们的身姿。",translated,夏尔,0a788e451b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu18_tch1.txt#15#12,"ですから、貴方には私たちの分も
+イオンを元気付けてほしいのです。","因此，希望您能连同我们的份，
+一同为依恩加油打气注入活力。",translated,夏尔,96bdfffef0,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#16#12,"今日はその方法を貴方に伝えるために
+ここまでやってきました。","今天为了将具体方法传达给您，
+我才一路来到了这里。",translated,夏尔,61f0f3cec6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#17#12,何か特別な方法が？,有什么特殊的方法吗？,translated,,ff150b3458,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu18_tch1.txt#19#12,"特別というほどのものではありませんが、
+これをすれば、より早くイオンを元気に
+することできます。","虽算不上什么惊天动地的秘法，
+但只要照做，
+便能更快地让依恩振作精神。",translated,夏尔,f3a845d41d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu18_tch1.txt#20#12,"そしてその方法とは、
+“私たちのお願いを叶える”です。","而那个方法便是――
+“实现我们的心愿”。",translated,夏尔,06f71ac962,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#21#12,"シャールである私たちは、
+イオンの夢セカイで生まれた存在なので、
+彼女が望んでることをよく知っており――","身为此方夏尔的我们，
+诞生于依恩的梦世界之中，
+因此极为了解她心中的希冀渴求――",translated,夏尔,4032b7453d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu18_tch1.txt#22#12,"それと同時に、イオンが元気になればなる
+ほど、私たちも元気になります。","与此同时，依恩越是充满活力，
+我们自身也会变得越发精神充沛。",translated,夏尔,b94574b9d6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#23#12,"つまり、私たちがイオンを元気にするための
+“お願い”をしますので、
+貴方はそれに応えてくれれば良いのです。","简而言之，我们将提出让依恩振作的“心愿”，
+您只需努力去回应实现它们即可。",translated,夏尔,e223c60212,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu18_tch1.txt#24#12,"中には難しい“お願い”もあるかも
+しれませんが、貴方が応えてくれれば、
+それに応じた“HymP”が得られます。","其中或许也会存在颇具难度的“心愿”，
+但只要您去予以回应实现，
+便能获得相应的“HymP”。",translated,夏尔,279f77556c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu18_tch1.txt#25#12,"また、お願いを担当したシャールは、
+HymPと同じだけの経験も得ることができます。","此外，负责该心愿的夏尔，
+也能获得与HymP等额的经验值。",translated,夏尔,2d69785062,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#26#12,"HymPはイオンを癒すため、経験は私たち
+シャールの成長に大切なものです。","HymP用于疗愈依恩，经验值则关乎我们
+夏尔的成长蜕变，均至关重要。",translated,夏尔,e8f5c339c3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#27#12,"私たちが成長し、さらにHymPを利用すれば
+より強い力でイオンを癒すことができます。","随着我们成长变强、加之善用HymP，
+便能以更为强大的力量去疗愈依恩。",translated,夏尔,a6df87b6cd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#28#12,どうやってお願いを知れば？,该如何知晓心愿内容？,translated,,fb99faf41e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu18_tch1.txt#35#12,"貴方がイオンとコミュニケーションを
+取るためのメニューがあると思います。",在您与依恩进行交流交互的菜单中，,translated,夏尔,d4e51deee5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#36#12,"そのメニューの中で、図で○を付けている
+ボタンを選択して下さい。",请在其中选择图示中圈出的按钮。,translated,夏尔,a64ec7b9fb,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#41#12,"そうすることで、私たちのお願いリスト
+“シャールウィッシュ”に飛ぶことができます。","如此一来，便能跳转至
+我们夏尔的心愿列表――“夏尔心愿”。",translated,夏尔,155b4f80c4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#42#12,"“シャールウィッシュ”は、シャール一人に
+つき、一日一回更新されます。","“夏尔心愿”对每只夏尔而言，
+每天会更新一次。",translated,夏尔,f365363aba,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#43#12,"その日のうちに達成できなかったとしても
+更新されてしまうので注意してください。","即便当天未能达成也会被强制更新覆盖，
+请务必多加留意。",translated,夏尔,9b07774e0c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#51#12,"これを利用してより多くのHymPを
+集めてください。","请善加利用此机制，
+收集更多的HymP吧。",translated,夏尔,cf1797e95a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#52#12,"貴方の頑張った分だけ、
+イオンは早く元気になっていくはずです。","只要您付出相应的努力，
+依恩也必定能更快地重现昔日神采。",translated,夏尔,f7e35ceb07,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu18_tch1.txt#59#12,"<CLY2>“シャールウィッシュ”はメニュー中央下部に
+表示されるショートカットの右端から
+飛ぶことができます。","<CLY2>从菜单中下方显示的快捷栏最右端，
+即可跳转至“夏尔心愿”。",translated,系统文本,835d4b8b64,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/tutorialevent/tu18_tch1.txt#60#12,"<CLY2>一日に一回更新されますので、
+毎日チェックを欠かさないことが、
+より効率良くHymPを貯めるコツです。","<CLY2>该列表每天更新一次，
+坚持每天检查，
+是更有效率积累HymP的诀窍。",translated,系统文本,928de31b5a,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu19.txt#1#12,"<CLY2>夢セカイを修復するためには
+シャールが必要です。","<CLY2>修复梦世界
+需要用到夏尔。",translated,系统文本,9c708518f6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu19.txt#2#12,"<CLY2>まずは“シャールの巣”にいき、
+あなたのシャールを創造しましょう。","<CLY2>首先前往“夏尔的巢穴”，
+创造属于你的夏尔吧。",translated,系统文本,444f14c711,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu20.txt#7#12,"おめでとうございます！
+見事シャールを生み出せたようですね。","恭喜您！
+看来您已顺利孕育出夏尔了呢。",translated,夏尔,2e3b462d9d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu20.txt#14#12,"このシャールを生み出す際に、
+こんな画面をご覧になったかと思います。","在生成这只夏尔之际，
+想必您看到了类似这样的画面吧。",translated,夏尔,e8e633613f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu20.txt#15#12,"あなたが生み出すシャールは、
+次からHymPを消費することで生成時の
+レベルを決めることができます。","今后您所生成的夏尔，
+通过消耗HymP，
+便可自由决定其生成时的初始等级。",translated,夏尔,916044265d,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu20.txt#16#12,"HymPに余裕があるときは、積極的に
+強いシャールを作ることで廃墟修復を
+効率的に進めることができるでしょう。","在HymP充裕之时，积极生成强大的夏尔，
+便能更具效率地推进废墟修复工程。",translated,夏尔,a215a3a575,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu20.txt#22#12,"<CLY2>今回のシャールは、読み込んだ
+バーコードに関係なく生成される、いわば
+チュートリアル（練習）用シャールです。","<CLY2>本次生成的夏尔与扫描的条形码无关，
+是一只用于教程（练习）的夏尔。",translated,系统文本,2a917ecd29,<CLY2> br=0 nl=2,3,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu20.txt#23#12,"<CLY2>チュートリアルシャールはレベルアップを
+しませんので、覚えられるスキルも制限され
+てしまいます。","<CLY2>教程夏尔无法提升等级，
+能够习得的技能也会受到限制。",translated,系统文本,cd7050e48f,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/tutorialevent/tu20.txt#24#12,"<CLY2>シャールがどういうものか分かってきたら、
+早めにもう一度、バーコードからシャールを
+生成する事をお勧めします。","<CLY2>大致了解夏尔的机制后，
+建议尽早重新通过条形码生成夏尔。",translated,系统文本,abcb1e7cee,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/tutorialevent/tu20.txt#25#12,"<CLY2>次から生成するシャールこそが、あなたの
+育てていく、本当のシャールとなるでしょう。","<CLY2>此后生成的夏尔，
+才是由你亲自培养的真正夏尔。",translated,系统文本,d2fcd2e04f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/tutorialevent/tu21.txt#1#12,“フレンドシャールの巣”へようこそ！,欢迎来到“好友夏尔的巢穴”！,translated,【在好友夏尔的巢穴与朋友交流！】,aaec03f3c6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu21.txt#2#12,"ここは、貴方がフォローしたユーザーの
+“シャールの巣”です。","这里是您所关注的用户的
+“夏尔的巢穴”。",translated,【在好友夏尔的巢穴与朋友交流！】,8d354d07d3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu21.txt#3#12,"“フレンドシャールの巣”では、
+あなたのフォロー相手が持つシャールに
+話しかけることが出来ます。","在“好友夏尔的巢穴”中，
+您可以向所关注的好友持有的夏尔
+主动搭话交流。",translated,【在好友夏尔的巢穴与朋友交流！】,85a6347425,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu21.txt#7#12,"普段、貴方が自分のシャールにしているように
+フレンドのシャールも選択することで
+こちらへ来てもらうことができます。","如同您平时对待自己的夏尔那样，
+只要选中好友的夏尔，
+也能让它来到您面前。",translated,【在好友夏尔的巢穴与朋友交流！】,d95760197a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu21.txt#8#12,"その時、ステータスが表示されている所で
+撫でてあげることができます。","此时，可以在显示状态信息的地方
+温柔抚摸它。",translated,【在好友夏尔的巢穴与朋友交流！】,381d12c728,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu21.txt#13#12,"撫でてあげることで、
+シャールはLPとシンクロ率、
+フレンドと貴方は共にHymPを取得できます。","通过抚摸，
+夏尔可恢复LP并提高同步率，
+您与好友则能双双获取HymP。",translated,【在好友夏尔的巢穴与朋友交流！】,a9cba2d050,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu21.txt#19#12,"是非フレンドとのコミュニケーションに
+シャールを活用して下さい。","请务必善加利用夏尔，
+来增进与好友之间的交流吧。",translated,【在好友夏尔的巢穴与朋友交流！】,bb7bd39cd6,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#3#12,あ、ちょうど良かった。,啊，来得正好。,translated,依恩,e0e287b0e3,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#5#12,いまそっちに行くね,我这就过去哦。,translated,依恩,accd251945,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#9#12,"いまご飯を食べながら思ったんだけど、
+わたしたちっていつもバラバラに食べてる
+でしょ？","刚才吃饭的时候我就在想，
+我们平时吃饭一直都是各吃各的
+对吧？",translated,依恩,0d6b7b448c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#10#12,"けど、たまには一緒にご飯を食べる
+機会があってもいいんじゃないかな、
+って思ったの。","不过我想着，偶尔是不是也能
+有一起吃饭的机会呢。",translated,依恩,441c6ac04a,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#11#12,"それでね、もしあなたさえよかったら、
+ご飯を食べるとき一声もらってもいいかな？","所以呢，只要你不介意的话，
+吃饭的时候能不能先知会我一声呢？",translated,依恩,954fea58bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#12#12,"そしたら、わたしも一緒にご飯を食べられ
+るでしょ？",那样的话，我不就能和你一起吃饭了吗？,translated,依恩,1f61b814a8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#13#12,お腹空いてなかったら？,要是肚子不饿呢？,translated,,0f01043d87,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#14#12,こっちの都合で決めていいの？,全按我这边的时间来定可以吗？,translated,,0781ea9008,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#16#12,"それは……ちょっと心配だけど、
+たぶん大丈夫だと思う。","虽然……稍微有点担心，
+但我想大概没问题的吧。",translated,依恩,f364fdde96,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#17#12,"もちろん、食べ過ぎたらそれはそれで
+別の心配ができるけど……。",当然，要是吃得太撑那就是另一层担忧了……,translated,依恩,756267526c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#18#12,"それを引いても、あなたと一緒に
+ご飯を食べられたら嬉しいよ。","即便抛开那些不谈，
+能和你一起吃饭我也很开心哦。",translated,依恩,e84b67bd09,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#21#12,うん、大丈夫だよ。,嗯，没问题的哦。,translated,依恩,3185b25650,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#22#12,"だって、わたしよりあなたの方が
+ずっと忙しいでしょ？","毕竟比起我，
+你平时要忙碌得多对吧？",translated,依恩,2ec5b0bd3e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#23#12,"だから、時間を合わせるんなら
+わたしの方がずっといいと思う。","所以如果由我来配合你的时间，
+我想会合适得多呢。",translated,依恩,dae5fdb0bd,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#25#12,一緒に食べられるのを楽しみにしてる,很期待能一起吃饭哦,translated,,c0b076526d,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#26#12,気が向いたら……,等我有兴致的时候再说吧……,translated,,7ac487615f,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#28#12,うん、わたしも楽しみにしてるね。,嗯，我也非常期待哦。,translated,依恩,53be16d0e8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#29#12,"二人で食べたら、きっと一人で食べるより
+ずっとおいしいよね。","两个人一起吃的话，
+肯定比一个人吃要美味得多呢。",translated,依恩,cc8a1c8461,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#32#12,"うん、それでいいよ。
+もちろん、できるだけ一緒に食べられた
+方が嬉しいけど……仕方ないよね。","嗯，那样就好。
+虽然如果能尽量一起吃我会更开心……
+但这也是没办法的事呢。",translated,依恩,4dab9324e3,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#33#12,もし気が向いたら、遠慮なく声をかけてね。,要是哪天想一起吃了，不要客气随时叫我哦。,translated,依恩,e7d0a6378e,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#35#12,"<CLY2>【一緒に何かする】に【一緒にご飯を食べよう】
+が追加されました。","<CLY2>【一起做些什么】中
+已追加【一起吃饭吧】。",translated,系统文本,f6cd4d5d16,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=28
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#41#12,"イオンに予め時間を伝えておくことで、
+伝えた時間に声をかけてもらえるように
+なりました。","只要事先将时间告诉依恩，
+到了指定的时间，
+依恩便会主动出声呼唤你。",translated,【一起吃饭吧！】,8ddd0c8f07,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#42#12,"メニューの【一緒に何かする】から
+【一緒にご飯を食べよう】を選択することで
+イオンとご飯を食べることができます。","从菜单中的【一起做些什么】里
+选择【一起吃饭吧】，
+即可与依恩一同用餐。",translated,【一起吃饭吧！】,fab4e230e5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#47#12,"イオンは食事を終えたばかりでも、
+頑張って一緒にご飯を食べてくれます。","哪怕依恩才刚吃饱不久，
+也会尽力陪你一起共进餐食。",translated,【一起吃饭吧！】,4da9b14b55,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#48#12,"しかし、そんなイオンも外に出掛けていたり、
+お風呂に入ってたりするときは、
+あなたの想いに応えることができません。","但若依恩外出不在家、
+或是正在洗澡时，
+便无法回应你的心愿。",translated,【一起吃饭吧！】,682c02191b,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_22_eatingtime.txt#49#12,"そんなときは、イオンが戻ってくるまで
+じっと待つか時間を進めてみましょう。","遇到这种情况，不妨耐心等待依恩归来，
+或是尝试利用推进时间功能吧。",translated,【一起吃饭吧！】,085d835704,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#3#12,あ、ちょうど良かった。,啊，来得正好。,translated,依恩,e0e287b0e3,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#5#12,いまそっちに行くね,我这就过去哦。,translated,依恩,accd251945,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#9#12,"あのね、わたしたち、これまでけっこう
+いろんなお話をしてきたけど――","那个呀，我们至今为止
+聊过许许多多形形色色的事情了――",translated,依恩,86198958e3,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#10#12,"でもそれって、だいたいはわたしや
+こっちの世界に関するお話だったでしょ？","不过仔细想想，基本上都是关于我、
+或是关于这个世界的事情对吧？",translated,依恩,0761d86634,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#11#12,"それで、その……これはわたしの我侭
+なんだけど、ね。あの……えっと……。","所以……虽然只是我的一点任性啦。
+那个……唔……",translated,依恩,6b8bf92048,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#12#12,言えないような恥ずかしいこと？,是羞于启齿的事情吗？,translated,,9072ef4805,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#13#12,我侭でもいいよ,哪怕任性我也愿意听哦,translated,,5533544ee0,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#15#12,"ち、違うよ！？
+そういうのじゃないよ！？","才、才不是呢！？
+根本不是那种事啦！？",translated,依恩,f9f97d8f9a,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#16#12,"ただその、改まっていうと
+ちょっと照れちゃうというか……。","只是要这么一本正经地说出口，
+稍微觉得有点害羞而已……",translated,依恩,2e844c9fdc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#19#12,"えへへ、ありがと。
+そう言ってもらえると少し落ち着く。","诶嘿嘿，谢谢你。
+听你这么一说我稍微踏实了些。",translated,依恩,5a7b0b45f4,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#20#12,"その……言い辛いこととかじゃないんだ
+けどね。改まっていうと、なんだか照れ
+ちゃって……。","其实……倒也不是什么难开口的事啦。
+只是一旦郑重其事地说出来，
+不知怎的就觉得好害羞……",translated,依恩,01e7395b2f,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#22#12,"……あの、ね。
+あなたのこと、もっと知りたいな、って。","……那个，呢。
+我想更多、更多地了解关于你的事。",translated,依恩,3de5d61ebe,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#23#12,そんな大した事じゃなくていいの。,不用是什么了不起的大事哦。,translated,依恩,1878ca58c9,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#24#12,"例えば、友達とどこに行ったとか、
+勉強や仕事が大変だ、とか、そういうお話。","比如和朋友去了哪里玩，
+或是念书、工作很辛苦之类的日常小事。",translated,依恩,6d59c49a23,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#25#12,そんなことでいいの？,那种小事就行了吗？,translated,,2e82222248,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#26#12,イオンが聞きたいなら……,只要依恩想听的话……,translated,,478ed41dd8,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#28#12,"全然、そんなことなんかじゃないよ！
+すごく大事なことなの！","才完全不是什么小事呢！
+对我来说是非常重要的事情哦！",translated,依恩,6aad4a94b1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#29#12,"だって、あなたのことをもっと知りたい、
+って、お話するたびにずっと思ってたの。","因为每次聊天的时候，
+我都一直想着要更多地了解你嘛。",translated,依恩,8e8c78067e,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#30#12,"少しずつでもいいから、
+あなたのことたくさん教えてね。","哪怕每次只聊一点点也没关系，
+多跟我讲讲关于你的事情好吗？",translated,依恩,91c354fb9f,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#33#12,"ホント！？　ありがとう！
+思い切っていってみてよかった！","真的吗！？谢谢你！
+鼓起勇气说出口真是太好了！",translated,依恩,a0966527bc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#34#12,あなたのこと、いっぱい教えてね。,要多跟我讲讲关于你的事哦。,translated,依恩,278ed939c7,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#36#12,"<CLY2>【想いを伝える】の【イオンを呼ぶ】に
+【今日あったことを話す】が追加されました。","<CLY2>【传达心意】中的【呼唤依恩】里
+已追加【讲述今天发生的事】。",translated,系统文本,7e4073d656,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/tutorialevent/tu_23_ownevent.txt#42#12,"あなたにあったことをイオンに伝えられる
+ようになりました。","现在可以将发生在自己身上的经历
+分享倾诉给依恩听了。",translated,【聊聊关于你的事吧！】,c2120caacc,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#43#12,"メニューの【イオンを呼ぶ】から
+【今日あったことを話す】を選択することで
+イオンにあなたのことを伝えられます。","从菜单中的【呼唤依恩】里
+选择【讲述今天发生的事】，
+即可向依恩传达关于你的日常。",translated,【聊聊关于你的事吧！】,006e6c7d33,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#48#12,"端末を通して伝えられる想いには限りがあり
+ますが、あなたに起きた出来事をイオンに
+伝えることで様々な反応が返ってきます。","虽然通过终端能传达的心意有所限制，
+但只要向依恩诉说你的日常经历，
+她便会给予各种各样的回应。",translated,【聊聊关于你的事吧！】,914583d953,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#53#12,"喜んだり、悲しんだり、応援してくれたり、
+ときには怒られたりすることもあります。","时而欣喜，时而难过，
+时而为你加油打气，有时还会被训斥几句。",translated,【聊聊关于你的事吧！】,129e2a03d1,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_23_ownevent.txt#54#12,"そんな何気ないやり取りですが、あなたの想い
+はイオンとの大切な思い出になるでしょう。","哪怕只是这般看似漫不经心的交流，
+你的心意也会化作与依恩最宝贵的回忆吧。",translated,【聊聊关于你的事吧！】,87dcb7832c,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair01.txt#6#12,"まずは中心となって廃墟を修復するシャール、
+“マスターシャール”を選んでください。","首先请选择作为核心主力修复废墟的夏尔
+――即“主夏尔”。",translated,【选择主夏尔吧！】,d17e77aa20,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair01.txt#7#12,"暇そうにしているシャールの中から自由に
+選ぶことができます。","可以从当前闲着无所事事的夏尔中
+自由挑选。",translated,【选择主夏尔吧！】,8979bc161b,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair01.txt#12#12,"“ＬＰ”、“属性”、“修復力”、“指導力”の4つ
+に注意して、あなたが良いと思うシャールを
+選びましょう。","请留意“LP”、“属性”、“修复力”、
+“指导力”这４项数值，
+挑选出您心仪的夏尔吧。",translated,【选择主夏尔吧！】,b848de7341,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#6#12,"次はあなたのシャールをお手伝いする
+シャールたちを選びましょう。","接下来挑选协助您主力夏尔的
+搭档夏尔们吧。",translated,【选择搭档吧！】,bdd7e7e515,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#7#12,"手伝ってくれるシャールは、大きく分けて
+“レイバーシャール”と“サポートシャール”
+の2つから選ぶことができます。","协助修复的夏尔，大致可以从
+“劳工夏尔”与“支援夏尔”
+这两种之中挑选。",translated,【选择搭档吧！】,f03c48f820,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#12#12,"レイバーシャールは、
+シェルノサージュDXのシステム上に
+存在しているシャールたちです。","劳工夏尔，
+乃是存在于Ciel nosurge DX
+系统层面的系统夏尔。",translated,【选择搭档吧！】,37eebfc023,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#13#12,"一体一体は成長もしませんし、廃墟修復完了
+による経験値も取得することはできません。","每一只均无法成长，
+也无法通过废墟修复获取经验值。",translated,【选择搭档吧！】,511c076c99,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#14#12,"しかし、あなたが選んだマスターシャールに
+近い能力を持つシャールたちがリストに選抜
+されます。","不过，系统会挑选与您所选主夏尔
+能力相近的夏尔罗列在候选列表中。",translated,【选择搭档吧！】,62b3528c66,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#15#12,"そのため、安定した能力を持つパートナーと
+して活躍してくれます。","因此，能作为能力发挥稳定的搭档
+活跃于修复工作中。",translated,【选择搭档吧！】,4fcc8b4712,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#20#12,"次にサポートシャールですが、
+ここではあなたが持っているシャールから
+もう一体だけ選ぶことができます。","其次是支援夏尔，
+此处可以从您持有的夏尔中
+额外挑选出仅此一只。",translated,【选择搭档吧！】,5e13732a52,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#21#12,"能力の高いシャールを選んで手伝ってもらう
+のも良いですが、サポートシャールの最大の
+利点は経験値“EXP”を取得できることです。","挑选能力出众的夏尔前来助阵固然不错，
+但支援夏尔最大的优势
+在于可以获取经验值“EXP”。",translated,【选择搭档吧！】,bbbd77e66c,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#22#12,"せっかく作ったけれどまだまだ弱い、
+そんなシャールがいるときはサポートシャール
+として手伝わせ、成長させましょう。","对于好不容易生成却仍显弱小的夏尔，
+不妨让其作为支援夏尔参与协助，
+促进其成长蜕变吧。",translated,【选择搭档吧！】,19138ec50e,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#23#12,"成長したシャールは、必ずあなたの役に立って
+くれることでしょう。","成长之后的夏尔，
+未来必定能为您派上巨大用场。",translated,【选择搭档吧！】,f37e1413d5,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#28#12,"パートナーが決まったら「決」のボタンを
+押して、いよいよ修復開始です。","敲定搭档之后点击“确定”按钮，
+修复工程便正式拉开帷幕了。",translated,【选择搭档吧！】,9170762989,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#29#12,"シャールの能力にもよりますが、
+廃墟修復にはそれなりの時間がかかります。","虽因夏尔的能力而异，
+但废墟修复总体需要消耗相当的时间。",translated,【选择搭档吧！】,d5fc9ca9c8,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#34#12,"ゆっくりと時間を待つのも良いですが、
+急いで修復を行いたい場合は、HymPを使って
+【時間を進める】の機能を利用しましょう。","耐心静待固然可行，
+若急于完成修复，不妨消耗HymP
+使用【推进时间】功能吧。",translated,【选择搭档吧！】,0d938ef874,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_24_repair02.txt#35#12,"別次元にいるあなただからこそ使えるこの力は
+夢セカイの中でも有効です。","这项唯有身处异维度的您方可动用的伟力，
+即便在梦世界之中亦同样行之有效。",translated,【选择搭档吧！】,3977960005,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_24_repair02.txt#36#12,"HymPに余裕があるときは積極的に利用して、
+イオンの記憶を修復していきましょう。","在HymP充裕之时积极加以利用，
+稳步修复依恩的记忆吧。",translated,【选择搭档吧！】,69f44ef42d,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_25_sharlrace.txt#7#12,"おめでとうございます！
+シャールの種族変更が可能になりました。","恭喜您！
+夏尔已解锁种族变更功能。",translated,夏尔,7f1a20cdfe,br=0 nl=1,2,
+inc/event/res/tutorialevent/tu_25_sharlrace.txt#14#12,"【シャール情報】から【種族変更】を
+選択すると“ネレイグラコス属”が
+追加されています。","从【夏尔信息】中选择【种族变更】后，
+已追加了“涅蕾格拉科斯属”。",translated,夏尔,0f18364ce2,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_25_sharlrace.txt#19#12,"“ネレイグラコス属”を選択すると変更後
+のシャールの容姿や種族が表示されますので、
+どんな姿になるか確認しましょう。","选择“涅蕾格拉科斯属”后，
+便会展示变更后的夏尔样貌与种族，
+请确认会变成何等姿容吧。",translated,夏尔,3caadcfbf5,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_25_sharlrace.txt#20#12,"一つ注意しなければいけないのは、
+“ネレイグラコス属”では、
+テイルの装備が着けられなくなることです。","有一点必须多加留意，
+那就是变为“涅蕾格拉科斯属”后，
+将无法佩戴尾部装备。",translated,夏尔,85f6672b35,br=0 nl=2,3,
+inc/event/res/tutorialevent/tu_25_sharlrace.txt#21#12,"種族変更によってシャールの強さが変わる
+ことはありませんが、装備が制限されてしまう
+ことに注意してください。","种族变更虽然不会影响夏尔的强弱数值，
+但请留意佩戴装备将受到限制。",translated,夏尔,472c18248c,br=0 nl=2,3,

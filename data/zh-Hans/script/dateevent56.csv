@@ -1,0 +1,377 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent56/ring02.txt#1#12,"そういえば、指輪ができたらまた教会に
+行こう、って話してたよね？","说起来，之前说好了等做好戒指，
+就再去一次教会对吧？",translated,依恩,554db2b75a,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#2#12,……今から、行ってみる？,……现在要去看看吗？,translated,依恩,433e44702c,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#4#12,心の準備が……,心理准备还没……,translated,,1db3e5211b,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#6#12,ふふっ、緊張し過ぎだよ。,呵呵，你也太紧张啦。,translated,依恩,34db613376,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#11#12,うん……ちょっと、ドキドキするね。,嗯……总觉得有些心跳加速呢。,translated,依恩,afd274a24a,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#12#12,それじゃ、出発しよ。,那么，出发吧。,translated,依恩,3c8b8d02dc,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#14#12,"……やっぱり、今日はいつもよりも
+ドキドキするかも。","……果然，今天比平时
+更让人心跳加速呢。",translated,依恩,f864bd6f24,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#15#12,"指輪を持って来てるからかな？
+最初の頃みたいに、少し緊張した感じと
+ドキドキが、混ざってる気がするの。","是因为把戒指带来了吧？
+感觉像是最初交往时那样，
+微微的紧张与心动交织在一起呢。",translated,依恩,38cf6bb806,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#16#12,"……ふふっ、ちょっと前のことなのに、
+すごく懐かしい気がするよ。","……呵呵，明明是没多久以前的事，
+却觉得非常令人怀念呢。",translated,依恩,3711bc1ec3,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#17#12,"またこんな気持ちになれるなんて、
+思わぬサプライズだね。","还能再次体会到这种心情，
+真是一份意想不到的惊喜呢。",translated,依恩,c5d35407f5,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#19#12,指輪の付け心地はどう？,戒指戴着感觉怎么样？,translated,,5d82ab9379,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#21#12,あっ……それがね、えっと……。,啊……那个嘛，呃……,translated,依恩,f02312254e,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#22#12,"実は、持ってきてはいるけど、
+付けてはいないの。","其实，我虽然带过来了，
+但是并没有戴上。",translated,依恩,9f822e3ef3,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#23#12,"付けようとは思ってたんだけど、
+いざ教会に来たら、すごく恥ずかしく
+なっちゃって……。","本来是打算戴上的，
+可真到了教会之后，
+就变得非常难为情了……",translated,依恩,25bb29207f,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#25#12,本当は嫌なんでしょ？,其实你心里很不情愿吧？,translated,,647f1b6284,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#26#12,落ち着くまでは無理そうだね,在冷静下来之前看来是勉强不了了呢,translated,,cf76b3bed4,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#28#12,そ、そんなことないよ！,才、才没有那回事呢！,translated,依恩,92188f4b3d,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#29#12,"わたしだって、本当は指輪を付けてる姿を
+見てもらいたいって思ってる。","其实我也很想让你看看
+我戴着戒指的模样的。",translated,依恩,b56607b046,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#30#12,"ただ……やっぱり初めてだから、
+恥ずかしくて付けられないだけだもん。","只是……毕竟是第一次，
+太害羞了才没能戴上嘛。",translated,依恩,019828fd8c,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#33#12,……ありがとう、そう言ってくれて。,……谢谢你这么说。,translated,依恩,ac425ae720,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#34#12,"もしかしたら嫌われちゃうかも、って
+少し不安だったの。","我还稍微有点不安，
+担心说不定会被你讨厌呢。",translated,依恩,7a7cc94b2e,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#35#12,"本当にごめんね。
+せっかく持ってきたのに、わたしにこれを
+付ける勇気がなくて……。","真的很对不起。
+明明特地带来了，
+我却没有戴上它的勇气……",translated,依恩,08edfadaf1,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#38#12,"……でも、これを付けられない理由は、
+もう一つあるの。","……不过，我没办法戴上它，
+其实还有一个理由。",translated,依恩,3e6f57c346,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#39#12,"指輪って特別な物ってイメージが
+強いからなのかな？","或许是因为戒指总给人一种
+非常特别的印象吧？",translated,依恩,4b06e170a8,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#40#12,"やっぱり、指輪は結婚してからの方が
+いいかも、って思って……。","我总觉得，戒指果然还是
+等结婚之后再戴会比较好……",translated,依恩,aacdc1fb29,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#41#12,"勝手なこと言ってるのはわかるよ？
+ペアリングのつもりで作ったのに、
+今更こんなこと言うなんて、変だよね。","我也知道自己说了任性的话哦？
+明明是当作情侣对戒做出来的，
+事到如今却说这种话，很奇怪对吧。",translated,依恩,5ffb26d3d4,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#42#12,"でも、やっぱり指輪って特別な物に
+したいから……。","可是，我果然还是
+想让戒指成为特别的存在……",translated,依恩,6a69e14770,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#43#12,"だから、その時まで指輪を付けるのは
+待とうと思うの。","所以，我想等到那个时候
+再戴上这枚戒指。",translated,依恩,508b566191,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#45#12,じゃあ、プロポーズしていい？,那我向你求婚可以吗？,translated,,063b19cf43,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#46#12,そういう理由があるなら納得,如果有这种理由的话就能理解了,translated,,3a71a0f05b,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#48#12,え、えぇっ！？,诶、诶诶！？,translated,依恩,d25407a3cf,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#49#12,"あ、あの、えと……確かに、そういう
+期待をしてなかったといったらウソに
+なるけど……。","那、那个，呃……说实话，要说我完全没有
+那样期待过的话固然是骗人的，
+但是……",translated,依恩,e58d24d43c,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#52#12,ごめんね、勝手なことばかり言って……。,对不起，尽说些任性的话……,translated,依恩,084821d1ee,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#53#12,"……でも、わたしもできるだけ早く、
+これを付けてみたいとは思ってるよ。","……不过，我也想着
+能尽早戴上它哦。",translated,依恩,89274b2872,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#54#12,だからね、えっと……。,所以说呢，那个……,translated,依恩,c4f9956102,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#55#12,……期待してても……いいよね？,……我可以……稍微期待一下吧？,translated,依恩,7b7698c3e3,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#57#12,"えへへ……何だか、ちょっと顔が熱く
+なり過ぎちゃったかも。","诶嘿嘿……总觉得脸好像
+变得太烫了呢。",translated,依恩,c9690f34da,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#58#12,今日はもう、戻ろっか？,今天就先回去吧？,translated,依恩,95337f2a5c,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#60#12,ふぅ……まだ顔が熱いままだよ……。,呼……脸颊还是好烫啊……,translated,依恩,63dbd83941,br=0 nl=0,1,
+inc/event/res/dateevent56/ring02.txt#61#12,"いくら恋人同士とはいっても、
+こういう会話をすると、どうしても
+照れちゃうよね？","虽说彼此已经是恋人了，
+可聊起这种话题，
+无论如何还是会很害羞的对吧？",translated,依恩,fe7c207689,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#62#12,"ふふっ……でも、本当に指輪を付けられる
+日が来てくれたら、嬉しいな……。","呵呵……不过，要是真正能够
+戴上戒指的那一天到来的话，就太让人开心了……",translated,依恩,3706573e0c,br=0 nl=1,2,
+inc/event/res/dateevent56/ring02.txt#63#12,"今日は付き合ってくれてありがと。
+今度の時は……ちゃんと付けられるように
+なってから行けたらいいね。","今天谢谢你陪我。
+下次的话……要是能在做好了心理准备、
+能坦然戴上之后再去就好啦。",translated,依恩,e4514ff42d,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#66#14,"指輪ってすごく特別な
+感じがするよね。
+どうしてだろう？","戒指总让人觉得
+非常特别呢。
+到底是为什么呢？",translated,,3010626221,br=0 nl=2,3,
+inc/event/res/dateevent56/ring02.txt#67#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent56/ring03.txt#1#12,"ふふっ、それを出してきたってことは、
+教会に行こう、ってことだね？","呵呵，你既然拿出了那个，
+意思就是想要去教会对吧？",translated,依恩,fc0366ce74,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#2#12,正解、さすがだね,答对了，真不愧是你呢,translated,,4a65609c7f,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#3#12,残念、まだまだだね,很遗憾，你还差得远呢,translated,,50864b54cd,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#5#12,むぅ、イジワル……。,唔～坏心眼……,translated,依恩,ed862dd548,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#10#12,"旦那様のことだもん。
+これくらい、わかって当然だよ。","毕竟是自家老公的事嘛。
+这点程度的小心思，能猜中也是理所当然的啦。",translated,依恩,5cb7ed3b49,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#11#12,それじゃ、行ってみよっか。,那么，我们去看看吧。,translated,依恩,8ef3d95c91,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#13#12,"……ここに来ると、結婚式のことを
+思い出しちゃうよね？","……一来到这里，
+就会忍不住回想起婚礼的事情呢？",translated,依恩,93f1070a67,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#14#12,"とっても嬉しくて幸せだったの、
+今でもちゃんと覚えてるよ。","当时有多么开心、多么幸福，
+我现在依然记得清清楚楚哦。",translated,依恩,57d7351df9,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#15#12,"もちろん、素敵な旦那様と一緒の今も、
+その時に負けないくらい幸せだけどね。","当然，能与最棒的老公在一起的现在，
+也丝毫不会输给当时的幸福就是了。",translated,依恩,9f095a1df1,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#17#12,指輪はしてるの？,你戴着戒指吗？,translated,,a967a41efc,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#19#12,えへへ……もちろん、ちゃんとしてるよ。,诶嘿嘿……那是当然，我好好戴着哦。,translated,依恩,b8b10a7d0e,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#20#12,"最初は、やっぱり少し恥ずかしいかも、
+って思ったんだけど、実際に付けてみたら
+思ったほどでもなかったの。","一开始虽然觉得果然还是会有点害羞，
+但真正戴上之后，
+发现并没有想象中那么难为情呢。",translated,依恩,5f98d7d4c0,br=0 nl=2,3,
+inc/event/res/dateevent56/ring03.txt#21#12,"やっぱり、ちゃんと順序を追って、
+ここまで来れたからなのかな？","果然是因为我们有好好循序渐进地
+走到这一步的缘故吧？",translated,依恩,af7eaf7321,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#22#12,"……本当言うとね、もう少しドキドキする
+感じの方が良かったなぁ、とは思うの。","……不过说实在的，要是能再稍微
+心跳加速一点的感觉或许会更好呢。",translated,依恩,aa9bd6d7e5,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#23#12,"でも、ここから現実に帰っちゃうと、
+この指輪は消えてなくなっちゃうでしょ？","但是，一旦从这里回到现实中去，
+这枚戒指就会消失不见了对吧？",translated,依恩,2a86f3713e,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#24#12,"そう考えると、自然と付けていられる
+今くらい落ち着いていられた方が、
+いいのかもしれないね。","这么一想，或许能像现在这样平静从容、
+自然而然地戴着它，
+才是最好的状态呢。",translated,依恩,9f7c5fc32d,br=0 nl=2,3,
+inc/event/res/dateevent56/ring03.txt#26#12,消えちゃうこと考えると、ちょっと寂しい,一想到会消失，就觉得有点寂寞呢,translated,,9c64560227,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#27#12,消えちゃうなら持ってこない方がいいかも,要是会消失的话，或许不带过来比较好,translated,,73f1818fec,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#29#12,ふふっ、わたしと同じこと考えてる。,呵呵，你想的和我想的一样呢。,translated,依恩,b35fe2b01b,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#30#12,"わたしもね、ウエディングリングが
+消えちゃうのは、すごく寂しいから、
+持ってきたくないと思いはしたの。","我也因为结婚对戒会消失
+而觉得非常寂寞，
+所以曾想过不要带过来呢。",translated,依恩,3734a3accb,br=0 nl=2,3,
+inc/event/res/dateevent56/ring03.txt#34#12,わたしも、あなたと同じことを思ったよ。,我也曾和你有过同样的想法哦。,translated,依恩,830f627f0d,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#35#12,"持ってこなければ消えないんだから、
+部屋でだけ付けてればいいや、って。","只要不带过来就不会消失，
+那只在房间里戴着就好啦，像这样。",translated,依恩,8019eb973a,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#38#12,"でも、この指輪は教会で付けるからこそ、
+意味があるんじゃないかな？","但这枚戒指正因为是在教会里佩戴，
+才具有特别的意义不是吗？",translated,依恩,aaa041948e,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#39#12,"この教会に来た時に、作ってみよう、って
+思ったのがきっかけだったんだし……。","毕竟当初来到这所教会时萌生出
+“试着做做看吧”的念头，才是一切的契机嘛……",translated,依恩,7e02a90310,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#40#12,"それに……ああ、わたし本当に結婚したん
+だな、って強く実感できるから……。","而且……也能让我强烈地体会到
+“啊，我真的已经结婚了呢”……",translated,依恩,bd2e708706,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#41#12,"だから、どうしても教会で
+付けたかったんだ。","所以，我无论如何
+都想在教会里戴上它。",translated,依恩,5fad97993c,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#42#12,"……でも、結婚したんだな、っていうのを
+思うと、一つだけ残念なこともあるの。","……不过，每当我想到自己已经结婚了，
+就只有一件事觉得非常遗憾。",translated,依恩,bd57072a8c,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#43#12,"わたしの結婚式に、お父さんとお母さんも
+来てもらいたかったな。","我也好想让爸爸妈妈
+来参加我的婚礼啊。",translated,依恩,1056893bbc,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#44#12,"ま、まあ、どういう人なのかも、
+生きているのかも思い出せないけど……。","虽、虽然他们究竟是什么样的人、
+甚至是否还活着我都想不起来就是了……",translated,依恩,31ee39ff26,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#45#12,"それでも、やっぱり自分の親だもん。
+わたしの晴れ姿、見てもらいたかったな。","但即便如此，毕竟也是自己的父母嘛。
+真想让他们看看我穿婚纱的模样呢。",translated,依恩,7c1677f90d,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#47#12,写真くらい撮っておけばよかったね,至少拍张照片留念就好了呢,translated,,7658ce0a73,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#48#12,再会したら、もう一回式を挙げよう,等重逢之后，我们再办一次婚礼吧,translated,,4a4d83cda3,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#50#12,"そうだね……でも、あの時は嬉し過ぎて、
+そんなこと考えもしなかったよ。","是啊……不过那个时候我实在太高兴了，
+根本就没想那么多呢。",translated,依恩,351d26223a,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#51#12,"今更後悔しても遅いけど、本当、どうして
+あの時気づけなかったんだろう？","事到如今后悔也迟了，但我真的
+为什么当时就没注意到呢？",translated,依恩,a934d78275,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#52#12,"……って、ダメダメ。
+せっかくのデートなのに、暗い気持ちに
+なるのはもったいないよ。","……等等，不行不行。
+难得的约会，
+变得闷闷不乐可就太可惜啦。",translated,依恩,84a4160558,br=0 nl=2,3,
+inc/event/res/dateevent56/ring03.txt#53#12,"それに、素敵な旦那様を紹介することは
+できるんだから、それで十分だよね。","而且，能把这么优秀的老公介绍给他们，
+这就已经足够了吧。",translated,依恩,06d24015ec,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#56#12,"え、えぇっ！？
+もう一回結婚式をするの！？","诶、诶诶！？
+要再办一次婚礼吗！？",translated,依恩,d192bdb0b9,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#57#12,"その発想はなかった、っていうか、
+普通ならまずしないような……。","我完全没想到还能这样，或者说，
+一般人根本不会这么做吧……",translated,依恩,6e7f584794,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#58#12,"でも、それすごく素敵だよ！
+二回目の結婚式、大賛成だよ！","不过，这个提议真的太棒了！
+第二次婚礼，我举双手赞成哦！",translated,依恩,9e855b2be0,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#59#12,"ううん、あなたとなら三回でも四回でも、
+何回だってしたいくらいだもん。","不如说，只要是和你一起，不管是三次回四次，
+我都想办无数次呢。",translated,依恩,046f83e69d,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#60#12,"ふふっ、何だか両親と再会するのが
+楽しみになってきちゃった。","呵呵，总觉得变得
+越来越期待能与父母重逢了呢。",translated,依恩,5872fedcf6,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#61#12,頼りになる旦那様も紹介したいしね。,我也想把可靠的老公介绍给他们呢。,translated,依恩,2ddffc1f3e,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#64#12,さてと……そろそろ戻ろっか？,好啦……差不多该回去了吧？,translated,依恩,e9e2cff422,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#65#12,"あまり長い時間ここにいると、
+指輪が名残惜しくなっちゃうしね。","要是在这里呆太久的话，
+就会舍不得这枚戒指了嘛。",translated,依恩,335cb36d67,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#67#12,ふぅ……ただいま。,呼……我回来了。,translated,依恩,829f0671f7,br=0 nl=0,1,
+inc/event/res/dateevent56/ring03.txt#68#12,"……あ～あ、やっぱり指輪、
+消えちゃったよ。","……啊～啊，戒指果然
+还是消失不见了呢。",translated,依恩,a40abd7493,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#69#12,"わかってはいるけど、やっぱり少しだけ
+寂しい気持ちになっちゃうね。","虽然心里很清楚，
+但果然还是会感到有一点点寂寞呢。",translated,依恩,599dd43072,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#70#12,"でも、また作った時には、それを付けて
+デートしに行こうね。","不过，等下次再做出来的时候，
+我们还要戴着它一起去约会哦。",translated,依恩,2c9aed102b,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#71#12,"それじゃ、作業に戻るよ。
+今日は付き合ってくれてありがと。","那么，我回去继续工作啦。
+今天谢谢你能陪我。",translated,依恩,44726ac903,br=0 nl=1,2,
+inc/event/res/dateevent56/ring03.txt#74#14,"指輪を付けての
+初デート。
+大切な思い出だよ。","戴上戒指后的
+第一次约会。
+是一段珍贵的回忆哦。",translated,,e8f54e1d8e,br=0 nl=2,3,
+inc/event/res/dateevent56/ring03.txt#75#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent56/ring04.txt#1#12,ふふっ、結婚式の時のことを思い出すね。,呵呵，真让人回想起婚礼时的事呢。,translated,依恩,b5bc2e31a5,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#2#12,"せっかくだし、ちょっとだけ教会に行って
+みない？","难得有机会，
+要不要去教会稍微看看？",translated,依恩,066c2c4923,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#3#12,是非行こう,一定要去,translated,,0b615ef91c,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#4#12,いや、やめておこう,不，还是算了吧,translated,,4326a3dd58,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#6#12,えーっ……ちょっとガックリだよぉ。,诶～……有点大失所望呢。,translated,依恩,7576d92097,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#11#12,それじゃ指輪をつけて……。,那我就戴上戒指……,translated,依恩,9d458eade7,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#12#12,"うん、準備オッケー！
+いつでも行けるよ。","嗯，准备就绪！
+随时都可以出发哦。",translated,依恩,46ed4b3f29,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#14#12,"ふふっ、やっぱりここに来ると、
+結婚式の時のことを思い出すね？","呵呵，一来到这里，
+果然就会回想起婚礼时的事对吧？",translated,依恩,78f46fb8cf,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#15#12,"ねりこさんが聖職者役をしてくれて、
+たった三人だけの結婚式だったけど……。","虽然是由妮莉库小姐扮演神职人员、
+只有仅仅三个人参加的婚礼……",translated,依恩,69ca232dff,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#16#12,"それでも、言葉にできないくらい幸せで、
+嬉しかったよ。","但即便是那样，也是难以言喻的幸福，
+当时真的太开心了。",translated,依恩,987597fa25,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#17#12,"もちろん、今も幸せで嬉しいって気持ちは
+変わらないけど、あの瞬間と比べたら、
+どうしても落ち着いちゃうよね？","当然，现在感到幸福开心的心情
+也未曾改变，不过和那一瞬间相比，
+无论如何都会平静很多对吧？",translated,依恩,a55ae797e9,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#18#12,"まあ、言葉にできないほど幸せで嬉しい
+気持ちが続くのも、それはそれで問題が
+ある気もするし……。","不过，那种难以言表的幸福喜悦的心情
+要是真的一直持续下去，
+感觉也会是个问题就是了……",translated,依恩,125b7394b8,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#20#12,話をするのも苦労しそうだよね？,感觉连开口说话都会很费劲呢？,translated,,dd6fa21290,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#22#12,"ふふっ、そうだね。
+お話ができないんじゃ、結婚できても
+幸せとは言えないもん。","呵呵，确实呢。
+要是连话都说不了，就算结了婚
+也不能说是幸福了嘛。",translated,依恩,84c3cb4c45,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#23#12,"だから、今くらいの落ち着いた感じの
+夫婦生活が、とっても気に入ってるの。","所以，我很喜欢现在这种
+平稳踏实的夫妻生活哦。",translated,依恩,eb52ee3a5b,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#24#12,"昔みたいに、ちょっとしたことで
+ドキドキすることはなくなったけど……。","虽然不再像过去那样
+动不动就小鹿乱撞了……",translated,依恩,3a5e99cbd3,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#25#12,"代わりに、毎日温かい幸せを感じられる、
+ゆったりとした今の生活が、本当に幸せで
+堪らないの。","但取而代之的是，每天都能感受到温存的幸福，
+如今这种从容宁静的生活，
+真的让我感到无比幸福呢。",translated,依恩,f2aff73519,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#26#12,"……あなたは、どうかな？
+あなたは毎日、どんな風に感じてる？","……你又是怎么想的呢？
+你每天又是以怎样的心情度过的？",translated,依恩,9c76714509,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#28#12,毎日ドキドキ,每天都心跳加速,translated,,e10565c85f,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#29#12,毎日幸せ,每天都很幸福,translated,,0d0d482857,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#30#12,毎日ハラハラ,每天都提心吊胆,translated,,0bac560bd2,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#31#12,毎日しょんぼり……,每天都垂头丧气……,translated,,d9980a8a4a,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#33#12,えっ、そうだったの！？,诶，原来是那样吗！？,translated,依恩,3de8ceabd3,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#34#12,"そっか……あなたは、まだドキドキして
+くれてたんだ？","这样啊……原来你现在
+依然会为我心跳加速呀？",translated,依恩,cdb79ff79b,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#35#12,"ふふっ、嬉しい。
+結婚して時間が経つのに、まだわたしとの
+毎日にドキドキしてくれるなんて……。","呵呵，好开心。
+明明结婚已经过去一段时间了，
+却依然能在与我的每一天中心跳加速……",translated,依恩,c0f761f594,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#36#12,"そんなこと言われたから、わたしも今、
+苦しいくらいに胸がドキドキしてるよ。","听你这么一说，我现在心里
+也激动得快要喘不过气来了呢。",translated,依恩,3e15796e4c,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#40#12,"ふふっ……そう感じてくれてるって、
+わかってたよ。","呵呵……我就知道
+你也是这么觉得的哦。",translated,依恩,ab83021128,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#41#12,"でも、やっぱりこういうのって、
+ちゃんと言葉にして言ってもらうと、
+その……。","不过，像这种心意，
+果然还是听你亲口说出来的话，
+那个……",translated,依恩,3c5ce62cae,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#42#12,"……うん、幸せだね。
+えへへ……。","……嗯，好幸福呢。
+诶嘿嘿……",translated,依恩,c9359fe9a8,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#46#12,"新婚生活でハラハラって……
+もしかして、変な料理とか作りそうだから
+そう感じてるの？","新婚生活居然提心吊胆……
+难道说，是因为担心我会做出
+奇怪的料理，才会有这种感觉吗？",translated,依恩,98828ae685,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#47#12,"もぉ、料理は苦手だけど、もう長いこと
+やってるから変なものを作ったりはしない
+もん。","真是的，虽然我不擅长做饭，
+但毕竟也做了这么久，
+才不会做出奇怪的东西呢。",translated,依恩,113c7fd09a,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#48#12,"あなたにも食べさせてあげられたら、
+そんな心配吹き飛ばせるのに……。","要是也能让你尝尝看的话，
+就能吹跑这种无谓的担心了说……",translated,依恩,d67b7d5b25,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#51#12,しょ、しょんぼり！？,垂、垂头丧气！？,translated,依恩,b171c0fa8c,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#52#12,"って、またそうやってわたしのこと
+からかってるでしょ？","等等，你又在用这种话
+来捉弄我了吧？",translated,依恩,f9a8f00f47,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#53#12,"たまには、ちゃんとした気持ちを
+言葉にしてもらいたかったのに……。","难得我想听听你把真正的心情
+好好用语言表达出来说的……",translated,依恩,0af3bc2a45,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#54#12,"……でも、そういうところも、
+好きなところではあるけど。","……不过，你这种地方，
+也是我喜欢的优点就是了。",translated,依恩,61a55c40fd,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#57#12,"なんであれ、こんな毎日がこれからも
+ずっと続いてくれたら嬉しいなぁ……。","不论怎样，要是这样的每一天今后
+也能一直持续下去就好了呢……",translated,依恩,d83c519411,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#58#12,あなたも、そう思ってくれてる？,你也和我是一样的想法吗？,translated,依恩,da72eff745,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#60#12,思ってる,我也是这么想的,translated,,ce7115a1a7,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#62#12,ふふっ、よかった……。,呵呵，太好了……,translated,依恩,d5948c1871,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#63#12,"あなたがそう思ってくれてるなら、
+もうそんな心配する必要はないよね。","只要你也是这么想的，
+那我就再也不需要为此担心了呢。",translated,依恩,2f2b25bc00,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#64#12,……そろそろ、戻ろっか？,……差不多该回去了吧？,translated,依恩,73f4de1d12,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#65#12,"何だか、いつまでもここで話してたくて、
+帰りたくなくなっちゃいそうだし……。","总觉得很想一直在这里聊下去，
+都要舍不得回去了呢……",translated,依恩,158efa9346,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#66#12,そういうわけだから、今日はもう帰ろ。,所以说，今天我们就先回去吧。,translated,依恩,ff9d6bf172,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#68#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#69#12,"……ふふっ、前ほどじゃないけど、
+今も胸がドキドキ言ってるよ。","……呵呵，虽然没有之前那么剧烈，
+但我现在胸口依然扑通扑通直跳哦。",translated,依恩,7deb42a547,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#70#12,"このくらいのドキドキを感じながら、
+これからもあなたと、たくさんデートや
+色んなことをしたいな。","真希望能一边体会着这种心跳，
+一边在今后与你多多约会、
+一起做各种各样的事情呢。",translated,依恩,e89348e04c,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#71#12,これからも、ずっとずっと一緒だよ。,从今往后，我们也要一直一直在一起哦。,translated,依恩,837df20191,br=0 nl=0,1,
+inc/event/res/dateevent56/ring04.txt#72#12,"……それじゃ、今日はありがと。
+すごく幸せなデートだったよ！","……那么，今天谢谢你啦。
+真的是一场极其幸福的约会哦！",translated,依恩,4c0c1399ad,br=0 nl=1,2,
+inc/event/res/dateevent56/ring04.txt#75#14,"これからも、ずっと
+一緒にいられたら
+素敵だね。","从今往后，如果能
+一直在一起的话，
+那就太美好了呢。",translated,,3d843da7d7,br=0 nl=2,3,
+inc/event/res/dateevent56/ring04.txt#76#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent56/ring_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent56/ring_int.txt#6#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent56/ring_int.txt#8#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,

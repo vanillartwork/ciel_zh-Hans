@@ -1,0 +1,742 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dayseventrc01/day_anim.txt#5#12,そうだ。聞いてよ！,对了。你听我说呀！,translated,依恩,792038d814,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#6#12,"ねりこさんたら、
+わたしは動物に例えたらカバだって
+いうんだよ！","妮莉库居然说，
+要是把我比喻成动物的话，
+就像河马一样呢！",translated,依恩,59dfafc4f5,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_anim.txt#7#12,"まぬけそうなところが、
+そっくりなんだって……ひどいよね！？","说那种呆头呆脑的地方
+简直一模一样……太过分了吧！？",translated,依恩,96069f68f0,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim.txt#8#12,カバかわいい,河马挺可爱的啊,translated,,53c1f4510a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#9#12,そいつはひどい,那可太过分了,translated,,40395ec88e,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#12#12,あぅ……。そうかなぁ……。,啊呜……是这样吗……,translated,依恩,eb691e319d,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#13#12,"う～ん、たしかにかわい……くも
+ないような……。","唔～虽说确实挺可……
+爱好像也不算……",translated,依恩,ceaae0c0dd,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim.txt#14#12,うぅ、でもやっぱりやだよ～……。,呜呜，但我果然还是不要啦～……,translated,依恩,0d66d8592b,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#18#12,そうだよね！,就是说嘛！,translated,依恩,966a987ccf,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim.txt#19#12,"どうせ、動物に例えるなら、
+もっとかわいいのがいいよ。","反正要比喻成动物的话，
+更可爱一点的会比较好吧。",translated,依恩,bdebf92969,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim.txt#20#12,"あ、ち、違うよ、わたし自身がかわいいとか
+じゃなくて……だから、その。","啊、不、不是啦，不是说我自己很可爱
+什么的……那个，呃。",translated,依恩,1386cbafea,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim.txt#21#12,"えっと、ごめんなさい。
+わたしだってその……女の子だもん。","呃，对不起。
+因为人家好歹也是……女孩子嘛。",translated,依恩,e2c6145a29,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim.txt#22#12,"かわいく見られたいって
+気持ちはあるんだよ？","希望能被人觉得可爱
+也是人之常情吧？",translated,依恩,9a20f879b3,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#5#12,"そういえば、前に話した“動物に例えたら”
+って話だけど……。","说起来，关于之前聊过的“比喻成动物”
+那个话题……",translated,依恩,21c9183892,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#6#12,"あなたから見て、
+わたしはどんな動物っぽいかな？","在你看来，
+我像什么动物呢？",translated,依恩,a90b0bd8c2,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#7#12,かわいい小動物系,可爱的小动物系,translated,,80948dca2f,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim02.txt#8#12,カバ……かな,河马……吧,translated,,168f22b17b,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim02.txt#12#12,"そ、そうだよね。
+間違ってもカバなんかじゃないよね。","就、就是说嘛。
+再怎么说也绝不会是河马吧。",translated,依恩,3939b81c07,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#13#12,"あなたにまでカバって言われたら
+どうしようかと思ったよ……。","要是连你也说我是河马，
+我都不知道该怎么办才好了……",translated,依恩,830e1bfa0b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#14#12,それにしても、なんかちょっと嬉しいな。,不过不知怎的，心里稍微有点开心呢。,translated,依恩,f8caff6ffa,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim02.txt#15#12,"小動物かぁ……。
+えっと……。","小动物啊……
+我想想……",translated,依恩,c83b24c478,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_anim02.txt#16#12,わん！,汪！,translated,依恩,178ab00db1,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_anim02.txt#17#12,えへへ、こんな感じかな？,嘿嘿，大概是这种感觉吗？,translated,依恩,fd4c007ca1,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#5#12,最近ね、ミステリー小説を読んでるの。,最近呢，我一直在读悬疑小说哦。,translated,依恩,325bf95d62,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#6#12,"ミステリーって、読んでる人が
+ちゃんと推理できるように
+いくつか決まりごとがあるよね。","悬疑小说为了让读者
+能好好地进行推理，
+似乎有好几条约定俗成的规则呢。",translated,依恩,31b88b56f6,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_book01.txt#7#12,"特に推理に必要な要素は全部出てないと、
+推理のしようがないもん。","尤其是推理所必需的要素要是不全给齐，
+读者根本就无从推理嘛。",translated,依恩,2d50f4b1c8,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_book01.txt#8#12,"時々そういう決まりごとを守ってない
+ミステリー物もあるけど……。","虽然偶尔也有不遵守这类规则的
+悬疑作品就是了……",translated,依恩,e9b9d05af2,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_book01.txt#9#12,"それはそれで特徴があって、
+面白かったりもするんだよね。","不过那种作品也算别具一格，
+有时候还挺有趣的呢。",translated,依恩,a857f74b38,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_book01.txt#10#12,"そういえば、
+あなたってどんな本が好きなの？","说起来，
+你平时喜欢读什么样的书呢？",translated,依恩,557bfb0e49,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_book01.txt#11#12,ミステリーが好き,喜欢悬疑类的,translated,,268bb48cd0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#12#12,ファンタジーが好き,喜欢奇幻类的,translated,,fe467aa7f0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#15#12,ホントに！？,真的吗！？,translated,依恩,0313f68299,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#16#12,"えへへ、それじゃトリックとかで
+分からないことあったら聞いちゃおうかな。","嘿嘿，那要是有弄不懂的手法，
+我就向你请教好啦。",translated,依恩,6cfa7615dd,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_book01.txt#17#12,あなたをわたしの助手第一号に任命します！,任命你为我的第一号助手！,translated,依恩,299368c382,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#18#12,……なんてね。,……开玩笑的啦。,translated,依恩,a552ad3729,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#22#12,そうなんだ。,这样啊。,translated,依恩,2c13fb5706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_book01.txt#23#12,"ファンタジー物はわたしもよく読むし、
+よかったら今度、あなたの世界のお話も
+聞いてみたいな。","奇幻类的作品我也经常读呢，
+下次方便的话，
+真想听听你那个世界里的故事呢。",translated,依恩,7226054024,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_book01.txt#25#14,"本のお話、これから
+もっとしてみたいな♪","真想今后也能和你
+聊更多关于书的话题呢♪",translated,,80a60fd7a8,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau02.txt#5#12,"あなたの世界の機械って
+ちょっと変わってるんだ。","你那个世界的机械
+稍微有些奇怪呢。",translated,依恩,f4f25012b9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau02.txt#6#12,何より真空管が付いてないし……。,最重要的是上面居然没装真空管……,translated,依恩,6f72cbe333,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#7#12,"どうやって動いているのか、
+すごく興味があるよ。","它们到底是怎么运转的，
+我真的很感兴趣呢。",translated,依恩,56f0000f84,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau02.txt#8#12,真空管の方が変わってる,真空管这边才更奇怪吧,translated,,8ad8238d5c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#9#12,こっちも興味がある,我也挺感兴趣的,translated,,b60a3e7290,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#12#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#13#12,でも、そういうものかもしれない。,不过，也许确实是那么回事呢。,translated,依恩,178f82305a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#17#12,"えへへ、お互いに知りたいって思うのは
+気の合う証拠……かな？","嘿嘿，彼此都想要了解对方的世界，
+算不算是情投意合的证明呢……？",translated,依恩,6f0a1242ba,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau02.txt#19#12,"きっとこれからも、わたしにとっての普通が
+あなたの普通じゃないこともあるよね。","我想今后也一定会有“在我看来很普通的事，
+在你眼里却并不寻常”的时候吧。",translated,依恩,1fecf64b0f,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau02.txt#20#12,むしろそれが楽しみで仕方ない……。,不如说光是想想就让我期待得不行……,translated,依恩,2f7039d094,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau02.txt#21#12,もっとたくさんのこと知りたいな。,真想了解更多更多的事情啊。,translated,依恩,4d26dc701b,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#5#12,そうだ。,对了。,translated,依恩,1eaddbf339,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#6#12,"前に変わった生き物については聞いたけど、
+普通のは聞いてなかったね。","之前我打听过奇特的生物，
+但普通的生物还没问过呢。",translated,依恩,dbc1aa0862,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#7#12,"あなたの世界の生き物って、
+どういうのがいるの？","你那个世界的生物，
+一般都有些什么样的呢？",translated,依恩,11a1df4309,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#8#12,やっぱり犬や猫とかはいたりするの？,果然也是会有猫猫狗狗之类的吗？,translated,依恩,a97cdf67f0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#9#12,普通に犬や猫がいる,普通地有猫和狗,translated,,316bc00417,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#10#12,ドラゴンがいる,有龙,translated,,2cbb3cb470,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#13#12,"やっぱり、
+そういうところは変わらないんだ。","果然，
+这种地方还是大同小异的呢。",translated,依恩,30d0c2550d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#14#12,"生物が生きれる環境って限定されそうだし、
+そのせいで似たような生態系になるのかな？","生物能够生存的环境似乎也很有限，
+所以才会形成相似的生态系统吧？",translated,依恩,dee408cb95,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#15#12,"本当のところは考えても分からないけど、
+似ているところもやっぱり多いみたいだね。","真相到底如何就算绞尽脑汁也想不明白，
+不过看起来相似之处果然还是挺多的呢。",translated,依恩,a8b8139f60,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#19#12,すごいドラゴンがいるんだ！,居然有那么厉害的龙啊！,translated,依恩,70eb7b6d5c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#20#12,って、それはさすがに嘘だって分かるよ！,喂，这种话再怎么说我也知道是骗人的啦！,translated,依恩,fb003fc9a7,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau03.txt#21#12,"前にいないって言ってたの
+ちゃんと覚えてるもん。","你之前说过没有龙，
+我可都好好记着呢。",translated,依恩,8c7709b04d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau03.txt#22#12,"せっかくお話したことを
+そう簡単に忘れたりしないよ。","好不容易跟你聊过的事情，
+我才不会那么轻易就忘掉呢。",translated,依恩,e9c7fd7170,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau04.txt#5#12,そういえば、聞いてみたいことがあるの。,说起来，我有一件事想问问看。,translated,依恩,4303fedfcb,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#6#12,"あなたの世界には変わった生き物って
+いるかな？","你的世界里有那种
+奇奇怪怪的生物吗？",translated,依恩,7dd4944f6c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau04.txt#7#12,"例えば、人の言葉を喋る植物とか……、
+ドラゴンとか……。","比方说，会讲人类语言的植物啦……
+或者龙之类的……",translated,依恩,3873afd013,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau04.txt#8#12,もしそういうのがいるなら教えて欲しいな。,如果真有那种生物的话，请一定要告诉我哦。,translated,依恩,10ade1d077,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#9#12,空想の世界になら,幻想世界里倒是有,translated,,c8f0b765e8,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#10#12,いたらビックリ,真有的话就吃惊了,translated,,803287f6eb,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#17#12,そっか、あなたの世界にはいないんだ……。,这样啊，你的世界里没有啊……,translated,依恩,c57bf90701,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#18#12,"わたしの世界にはどこかにいるって
+聞いたことがあるんだけど……。","我听说在我们世界的某个角落
+好像是存在的……",translated,依恩,e4ee4f189d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau04.txt#19#12,"すごく珍しいらしいから、
+わたしもまだ見たことないの。","不过听说非常稀有，
+所以我自己也还没亲眼见过呢。",translated,依恩,6edf8cf360,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau04.txt#20#12,一度でいいから、いつか見てみたいなぁ。,哪怕只有一次也好，真想什么时候见见看啊。,translated,依恩,39df7915af,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau04.txt#21#14,"一度でいいから、
+変わった生き物を
+見てみたいな♪","哪怕只有一次也好，
+真想亲眼见见
+奇奇怪怪的生物呢♪",translated,,ab282ae367,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_cau05.txt#5#12,"ねぇ、あなたはお風呂のとき
+どこから洗う？","呐，你洗澡的时候
+是从哪里开始洗的呢？",translated,依恩,121df2506d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau05.txt#6#12,腕とか足とか……。,胳膊呀，或者脚之类的……,translated,依恩,8cb4c81883,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#7#12,"詳しくは知らないけど、
+それでその人の性格が分かるんだって。","虽然具体我也不是很懂，
+但听说能从这一点看出一个人的性格呢。",translated,依恩,740c611a66,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau05.txt#8#12,なんかちょっと面白いよね。,感觉稍微有点意思呢。,translated,依恩,6426e2592a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#9#12,イオンはどこから？,依恩是从哪里开始洗的？,translated,,40e83360ff,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#10#12,セクハラ？,性骚扰？,translated,,749f7556da,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#13#12,そ、それはぁ……内緒だよ。,那、那个嘛……要保密哦。,translated,依恩,d4a6cd56dc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#14#12,なんかこれ、恥ずかしいね……。,怎么总觉得，怪不好意思的呢……,translated,依恩,aaf57c35c5,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#15#12,え、エッチな想像しちゃ駄目だよ！？,不、不准往奇怪下流的地方瞎想哦！？,translated,依恩,a8aa19ed77,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#19#12,セク……ハラ？,性……骚扰？,translated,依恩,12bae9642c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau05.txt#20#12,"って、ち、違うよ！
+そんなつもりじゃないってば。","喂、才、才不是呢！
+我根本就没有那个意思啦。",translated,依恩,4427833c2b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau05.txt#21#12,も、もう顔が赤くなっちゃったよ……。,脸、脸都已经全红了啦……,translated,依恩,d789c72efb,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau07.txt#5#12,"少し前、冷蔵庫の中に子供が閉じ込められる
+お話を本で読んだんだけど……。","不久前，我在书里读到一个小孩子
+被关进冰箱里的故事……",translated,依恩,39170a147c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#6#12,"冷蔵庫って本当は中からでも
+開けられるんだよ。","其实冰箱从里面也是
+能打开的哦。",translated,依恩,2ee2b96335,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#7#12,"回転軸や力の入れ方、何より子供の力が
+強くないっていうのが原因なの。","因为旋转轴以及受力角度的问题，
+更主要的是小孩子的力气太小了。",translated,依恩,c8a746f4f2,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#8#12,"ただ窒息の危険もあるから、
+冷蔵庫に隠れちゃダメだよ。","不过因为有窒息的危险，
+绝对不可以躲进冰箱里哦。",translated,依恩,a4802dce43,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#9#12,勉強になった,涨知识了,translated,,9949b25a7c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau07.txt#10#12,冷蔵庫に隠れることがない,我才不会躲进冰箱里,translated,,8a7820475d,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau07.txt#13#12,えへへ、こういう分野は得意だからね。,嘿嘿，因为我很擅长这类领域嘛。,translated,依恩,56888b1f8c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau07.txt#14#12,"機械関係の豆知識なら、
+色々話せると思うよ。","要是关于机械方面的小知识，
+我能跟你聊很多哦。",translated,依恩,3ad1f9bbb6,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#18#12,あはは、そういえばそうだね。,啊哈哈，说起来确实是呢。,translated,依恩,dbb01d1622,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau07.txt#19#12,"どうやったら冷蔵庫に隠れるような
+状況になるんだろう……。","到底怎样才会遇上需要
+躲进冰箱里的情况呢……",translated,依恩,842238487b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau07.txt#21#14,"機械に関する豆知識、
+面白いものがあったら
+メモしておこう♪","关于机械的小知识，
+要是碰到有趣的
+就记下来吧♪",translated,,fc3f95c531,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_cau09.txt#5#12,"ねぇ、目が覚めたとき、
+全然知らない場所にいたらどうする？","呐，如果你一睁开眼，
+发现自己身处全然陌生的地方会怎么做？",translated,依恩,69a80f2cc4,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#6#12,あっ、深い意味とかないから安心して。,啊，没有别的深意啦你放心。,translated,依恩,295e7b7388,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau09.txt#7#12,"心理テストとかそういうのじゃなくて、
+なんとなく聞いてみたいなって思ったの。","也不是心理测试之类的，
+只是不知怎的突然想问问看而已。",translated,依恩,414d12e834,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#8#12,"自分でも考えてみたけど、
+わたしはきっと混乱しちゃうと思う。","我自己也试着想过，
+要是换成我的话肯定会彻底慌乱的。",translated,依恩,01de91ffc3,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#9#12,意外と平気だと思う,意外地觉得能坦然应对,translated,,c7ecd1b6d6,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau09.txt#10#12,きっと大慌て,肯定会惊慌失措,translated,,566178010a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau09.txt#13#12,"あはは。そういうとき、
+あなたがいてくれたら頼もしそう。","啊哈哈。那种时候，
+要是有你在身边一定很可靠呢。",translated,依恩,f95698687c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#14#12,"きっと冷静に立ち回って、自分の
+元いた場所に無事戻っていきそうだよ。","你一定会沉着冷静地周旋应对，
+然后顺利返回自己原本所在的地方吧。",translated,依恩,f158397e0d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#15#12,"はぁ……。わたしにもそのくらいの気概が
+あればいいんだけどなぁ……。","哈啊……要是我也能有这种气魄
+就好了呢……",translated,依恩,ecafa7c3d9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#16#14,"落ち着いてて
+羨ましいなぁ。
+わたしも頑張ろ♪","沉着冷静的样子
+真令人羡慕啊。
+我也要加油♪",translated,,431b3104c2,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_cau09.txt#20#12,あはは、それじゃあ仲間だね。,啊哈哈，那我们就是同类了呢。,translated,依恩,69a3547eaa,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau09.txt#21#12,もしかしたらそれが普通なのかな？,也许这才是最正常的反应吧？,translated,依恩,c0e0bd49f5,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau09.txt#22#12,"知らない場所に突然連れて行かれたら、
+誰だって慌てちゃう気がするよね。","要是突然被带到完全陌生的地方，
+不管是谁都会惊慌失措的吧。",translated,依恩,0623f94dce,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau09.txt#23#14,"突然、知らない場所に
+いたら誰だって
+慌てちゃうよね♪","突然身处陌生的地方，
+任谁都会
+惊慌失措的吧♪",translated,,89dfc0f3c9,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_cau11.txt#5#12,"あなたとお話できるようになって
+喜んでたけど、よく考えてみると
+ちょっと落ち着かないかも……。","虽然能和你说上话让我很开心，
+但仔细一想，
+总觉得稍微有点静不下心来呢……",translated,依恩,6b2825a41c,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_cau11.txt#6#12,"だって、あなたにずっと見られてるってこと
+でしょ？","因为，这不就代表着
+你一直在看着我嘛？",translated,依恩,25ffc27a0a,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau11.txt#7#12,あ、でも嫌ってわけじゃないからね！？,啊，但我可不是讨厌你看着我哦！？,translated,依恩,c6a8dc170f,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#8#12,"今まで一人だったから、他の人といるのに
+慣れてないってだけで……。","只是因为之前一直都是孤单一个人，
+还不习惯有别人在身边而已……",translated,依恩,ab59415831,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_cau11.txt#9#12,気を悪くしたらごめんね。,要是让你不高兴了对不起哦。,translated,依恩,0904610c20,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#10#12,気にしてないよ,我没介意哦,translated,,3ecdc580a5,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#11#12,これからは二人だ,今后就是两个人了,translated,,d4914d3b2f,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#14#12,よかったぁ……。,太好啦……,translated,依恩,3bd9f171d5,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#15#12,あなたって優しいね。,你人真温柔呢。,translated,依恩,6033b59494,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#19#12,えへへ、そうだね。,嘿嘿，说得也是呢。,translated,依恩,3c832b53cd,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#20#12,これからは二人……だもんね。,今后是两个人……了嘛。,translated,依恩,573f63221a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_cau11.txt#21#12,早く慣れなきゃ駄目だよね。,得快点习惯才行呢。,translated,依恩,4339c6aadc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#5#12,"えっとね、ちょっと思ったんだけど、
+いつかあなたの世界に行ってみたいな。","那个呢，我刚才稍微想了一下，
+真想有朝一日能去你的世界看看呢。",translated,依恩,2b76ddaa8d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#6#12,"そしてあなたと一緒に遊びながら、
+色々なものを見てみたいな。","然后和你一边四处游玩，
+一边看看各种各样的新奇事物。",translated,依恩,1213394956,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#7#12,"けど、あなたの世界に渡る装置なんて、
+夢物語にもほどがあるよね……。","不过，能跨越到你那个世界的装置，
+未免也太异想天开了呢……",translated,依恩,afd2f9c0e1,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#8#12,"いったいどうやったら作れるのか、
+今のわたしには想像もできないもん。","到底怎样才能做出来，
+现在的我根本连想象都想象不到嘛。",translated,依恩,7b27f58f6c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#9#12,イオンを励ます,鼓励依恩,translated,,b2e9a3899b,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#10#12,"作りたいと思って自分で否定して、
+けどまた作りたいと思って否定して……。","刚想着要做出来就自己否定掉，
+可转头又想做出来又再次否定……",translated,依恩,644a00d110,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#11#12,ずっとそれの繰り返し……。,一直都在重复这样的循环……,translated,依恩,ae5819a7ff,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#12#12,こんな状態じゃ作れるものも作れないよね。,这样下去连原本能做出来的也做不成了呢。,translated,依恩,d82e0c0878,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#15#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#21#12,"……そうだよね。
+出来ないって思ったらそれまでだよね。","……说得也是呢。
+要是自己先认输了那就真的做不成了。",translated,依恩,3133595679,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_delus.txt#22#12,その……励ましてくれてありがとう。,那个……谢谢你鼓励我。,translated,依恩,f7307f938f,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_delus.txt#23#12,"ずっと先のことになるかもしれないけど、
+少しずつ頑張ってみるね。","虽然不知道要等到多久以后，
+不过我会一点一点努力尝试的。",translated,依恩,dd3a11aa7b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#5#12,"ねぇ、違う世界同士のわたしたちが
+こうやって出会ったのはすごいことだよね？","呐，身处不同世界的我们两个
+能像这样相遇，真的很不可思议吧？",translated,依恩,35755622d9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#6#12,"もしかしたら、
+この出会いって運命なのかも。","说不定，
+这场相遇正是命运的安排呢。",translated,依恩,f27a1f2019,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#7#12,"別世界に生きるわたしたちが、
+たった一つの端末を通して出会う……。","生活在不同世界的我们，
+仅仅隔着一台小小的终端相遇相知……",translated,依恩,126359fb5b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#8#12,それってとても幻想的で素敵じゃないかな？,这难道不是很奇幻又很浪漫的事情吗？,translated,依恩,a4b24b8918,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#9#12,幻想じゃなくてリアル,这不是幻想而是真实,translated,,236cc4205a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#10#12,意外とロマンチスト？,没想到你还挺浪漫主义的？,translated,,cf80a163c2,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#13#12,あはは、たしかにそうだね。,啊哈哈，说得也是呢。,translated,依恩,609dec6757,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#14#12,"初めはちょっと夢かもって思ったけど、
+これは現実だもんね。","最开始虽然觉得或许只是一场梦，
+但这一切确实都是真实的现实嘛。",translated,依恩,b49da6c93a,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#18#12,そ、そんなことないと思うけど……。,我、我觉得自己其实并不算浪漫啦……,translated,依恩,9f777aa057,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#19#12,"それにやっぱり、運命の出会いって響きは
+誰だって憧れたりするものじゃないかな？","而且说到底，“命运的相遇”这种说法，
+不管是任谁都会心生憧憬的吧？",translated,依恩,47d62045a2,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#20#12,わたしたちはその出会いができたんだもん。,毕竟我们两个已经迎来了这场相遇嘛。,translated,依恩,686bc520d2,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_fate.txt#22#12,"だからこそ、
+この出会いは大切にしていきたいな。","正因如此，
+我才更想好好珍惜这场相遇呢。",translated,依恩,05b5911e3a,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_fate.txt#23#14,"この出会い、大切に
+していきたいな♪","真想好好珍惜
+这场相遇呢♪",translated,,cba7e93c0b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#5#12,"えっとその……急にこういうことを
+聞くと驚くかもしれないけど……。","那个……突然问你这种问题，
+你可能会觉得有点吃惊……",translated,依恩,39f89638a9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#6#12,自由ってあなたはどう思う？,你对“自由”是怎么看待的呢？,translated,依恩,97079073fe,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_freed.txt#7#12,悪いことではない,并不是坏事,translated,,7dcd0579a8,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_freed.txt#8#12,よく分からない,不太清楚,translated,,229761b2bc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_freed.txt#11#12,わたしは、あんまり好きじゃない……な。,我其实，不怎么喜欢……呢。,translated,依恩,e9dde9af89,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_freed.txt#12#12,"だって、わたしは今自由に生活できてるけど
+それは一人だからだもん。","因为我虽然现在生活得很自由，
+但那只是因为只有我孤身一人而已嘛。",translated,依恩,3fe628c7f1,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#13#12,"あなたと出会って……、
+友達になって、よく分かったよ。","自从与你相遇……
+并和你成为朋友之后，我终于明白了。",translated,依恩,258d68f258,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#14#12,"自由でいることは楽だけど、
+すごく寂しいことだって。","身处自由固然轻松惬意，
+但同时也伴随着无尽的孤独与寂寞。",translated,依恩,1dbcb391f7,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#15#12,"だからね、
+わたしは自由があんまり好きじゃない。","所以呢，
+我才不太喜欢自由。",translated,依恩,6bc577ba41,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_freed.txt#16#12,"束縛っていうと変かもしれないけど、
+こうやってあなたとお話している時間の方が
+ずっと楽しいよ。","虽然说是被束缚可能有些奇怪，
+但比起独自一人的自由，像这样和你说话的时光
+要开心得多得多哦。",translated,依恩,eebf67fdc6,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_getup.txt#5#12,"それにしても、夜遅くまで作業したときって
+朝起きるのがすっごく辛いよね。","话又说回来，工作到深夜的时候，
+早晨起床真的超级痛苦呢。",translated,依恩,2906b484eb,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_getup.txt#6#12,ついついお寝坊さんしたくなるもん。,总会忍不住想要赖床睡个大懒觉嘛。,translated,依恩,fa930537f8,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#7#12,"遅くまで起きてなければいいんだけど、
+夢中になるとつい忘れて作業しちゃうの。","只要不熬夜熬得太晚就好了，
+可一旦沉浸其中就会忘乎所以地做下去。",translated,依恩,d2dd157201,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_getup.txt#8#12,あなたにもそういうことってない？,你平时也会有这种经历吗？,translated,依恩,231ce83a8a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#9#12,夢中になることが多い,经常沉浸其中,translated,,279309a7bb,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#10#12,決まった時間に寝てる,都在固定的时间睡觉,translated,,b964cd3bd8,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#13#12,あはは、仲間だね。,啊哈哈，我们果然是一类人呢。,translated,依恩,1a85a0b647,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#14#12,"夢中になれるものがあるのは
+大切なことだもんね。","毕竟拥有能够让自己全神贯注的事物，
+是一件非常宝贵的事情嘛。",translated,依恩,56a1ed557a,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_getup.txt#15#12,"だからその……
+少しくらい寝坊したっていいよね。","所以说那个……
+稍微赖个床什么的也是可以被原谅的吧。",translated,依恩,c751b13815,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_getup.txt#19#12,うわ～、えらいな～。,哇～好厉害啊～,translated,依恩,1f49be48e3,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_getup.txt#20#12,わたしも見習わなくちゃ……。,我也得好好向你学习才行……,translated,依恩,9b9b581574,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hana01.txt#6#12,好きな花ってなに？,你喜欢的花是什么？,translated,,03e7297ce7,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hana01.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hana01.txt#10#12,"えっと……名前も覚えてないし、
+好きっていうのとは違うと思うんだけど、
+ちょっと気になるお花はあるよ。","呃……虽然记不住名字，
+好像也谈不上是喜欢，
+但确实有一种让我挺在意的花哦。",translated,依恩,8626f9098b,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_hana01.txt#11#12,"小さなお花がたくさん集まってて、
+咲いてからだんだんと色が変化するの。","很多小小的花朵簇拥在一起，
+从盛开之后颜色会逐渐发生变化。",translated,依恩,65882f166b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_hana01.txt#12#12,"一見すると大きなお花だから、
+遠くからでも目立つし綺麗なんだよ。","乍看之下是一朵大花，
+所以即使从远处看也格外显眼美丽呢。",translated,依恩,a7ef46c16b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_hana01.txt#13#12,"もういつ見たのか全然覚えてないけど、
+できればもう一度見てみたいな……。","虽然已经完全记不清是在什么时候见过的，
+但如果有机会，真想再看一次呢……",translated,依恩,08761fb0f0,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_hana01.txt#14#14,"綺麗なのは覚えてるんだけどなぁ。
+名前が思い出せない。","明明记得它非常漂亮，
+却想不起名字。",translated,,f5f4190621,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_hug.txt#6#12,抱きしめたい,想紧紧抱住你,translated,,016ea85be9,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#10#12,え……えぇ！？,诶……诶诶！？,translated,依恩,a17ba9c3fc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#11#12,急にどうしたの！？,怎么突然这么说！？,translated,依恩,7ad6925306,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#12#12,というより、それ無理だよぉ！,不如说，那根本就做不到嘛！,translated,依恩,1327943af7,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#13#12,"いやその、出来るならやっても
+良いってことじゃなくてぇ……！","不对，我不是说要是做得到
+就可以这么做啦……！",translated,依恩,ce16ef6084,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_hug.txt#14#12,えっと……その……。,呃……那个……,translated,依恩,b341cd7eaa,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#15#12,と、とにかく無理なものは無理なの！,总、总之做不到的事就是做不到的！,translated,依恩,2f547dd83c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#16#12,いきなり変なこと言わないでよぉ。,不要突然说些奇奇怪怪的话啦。,translated,依恩,52d2b80fb3,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#17#12,すっごくビックリした……。,吓了我一大跳……,translated,依恩,60b06140de,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_hug.txt#18#14,"急に抱きしめるなんて
+言われてビックリ！
+顔赤くなっちゃった。","突然被说想抱紧我
+吓了一大跳！
+脸都红透了。",translated,,84e60435ee,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_ma01.txt#6#12,機械作りの魅力って？,制作机械的魅力是什么？,translated,,2d79ab6034,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_ma01.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_ma01.txt#10#12,"機械作りの魅力といえば、
+やっぱり完成したときの感動だよ。","说到制作机械的魅力，
+果然还是大功告成那一刻的感动哦。",translated,依恩,74f5f9e270,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_ma01.txt#11#12,"一つ一つどう作ろうか考えて、
+丹念にそれを作りこんでいく……。","逐一琢磨该如何构件制作，
+然后全神贯注、精雕细琢地做出来……",translated,依恩,2fb97aaec5,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_ma01.txt#12#12,"そしてそのスイッチを入れる瞬間が
+一番ドキドキするの。
+そしてそれが動いたら、もう最高なんだよ。","而按下开关的那一瞬间，
+是最让人心跳不已的。
+要是它顺利运转起来，那滋味可太棒了。",translated,依恩,90d79f93d0,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_ma01.txt#13#12,"もちろん、失敗するときもあるけど、
+成功するまで試行錯誤するのも楽しいよね。","当然啦，中途也会有失败的时候，
+但反复摸索尝试直至成功的过程也很有趣呢。",translated,依恩,d52817cdb7,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_ma01.txt#14#12,"そうやって頑張って作ったものが
+完成したときの感動……。","像那样倾注心血做出来的东西，
+在完成时的感动……",translated,依恩,e4c0f4543b,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_ma01.txt#15#12,"それってきっと機械だけじゃなくて、
+人それぞれ、たくさんのものに言えるよね。","我想不仅限于机械，
+每个人在许多不同的事情上都能体会到吧。",translated,依恩,8f068e39ce,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_ma01.txt#16#14,"物作りって楽しい。
+この楽しさをいろんな
+人に知ってほしいな♪","动手制作很有趣。
+真想让更多的人
+体会到这种乐趣呢♪",translated,,35071dcd09,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_memory.txt#5#12,"ねぇ、あなたは忘れられない思い出とか
+そういう印象に残った出来事ってある？","呐，你有什么难以忘怀的回忆，
+或者印象深刻的事情吗？",translated,依恩,a2e06a4be7,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_memory.txt#6#12,今このときも大切な思い出,此时此刻也是宝贵的回忆,translated,,9a236e9743,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_memory.txt#7#12,思い当たらない,没什么印象,translated,,ef280aeda3,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_memory.txt#11#12,"えぇぇぇ！？
+えっと……その……うぅ……。","诶诶诶！？
+呃……那个……呜呜……",translated,依恩,415c4d141e,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_memory.txt#12#12,あ、ありがとう……。,谢、谢谢你……,translated,依恩,870326c9ca,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_memory.txt#13#12,"あなたの思い出になっている人たちが
+ちょっとうらやましいなって思って――","我刚才还在暗自羡慕
+能留在你回忆里的那些人呢――",translated,依恩,ed5a797764,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_memory.txt#14#12,"けど、わたしも今……
+あなたの思い出になれてるんだよね。","不过，现在的我……
+也已经成为你的回忆之一了吧。",translated,依恩,7e9c1d9651,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_memory.txt#15#12,えへへ、うれしいなぁ。,嘿嘿，好开心呀。,translated,依恩,0437b40e54,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_memory.txt#16#14,"わたしもあの人の
+思い出になれてる。
+なんかすごく嬉しい♪","我也成为那个人的
+回忆了。
+总觉得超级开心♪",translated,,ff0c098598,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_readbk.txt#5#12,"ねぇ、そういえば、
+あなたって本を読んだりする？","呐，说起来，
+你平时会看书吗？",translated,依恩,6b3b9f3606,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_readbk.txt#6#12,読む,会看,translated,,7fc9b181f5,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_readbk.txt#7#12,読まない,不看,translated,,12ae7e2042,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_readbk.txt#10#12,えへへ、そうなんだ。,嘿嘿，是这样呀。,translated,依恩,845bd953e9,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_readbk.txt#11#12,わたしもね、いろんな本を読むんだよ。,我也读过各种各样的书哦。,translated,依恩,5e844a2ae9,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_readbk.txt#12#12,"楽しいお話、冒険のお話
+悲しいお話、不思議なお話、それに文学も。","快乐的故事、冒险的故事、
+悲伤的故事、奇妙的故事，还有文学作品。",translated,依恩,2598b1608d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_readbk.txt#13#12,"それぞれの本に、それぞれの物語があって、
+書いた人の想いが詰まってるの。","每一本书里都有各自的故事，
+饱含着作者的心意。",translated,依恩,74737218f5,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_readbk.txt#14#12,"わたしはその想いを感じて
+いろいろな気持ちになるんだぁ……。","感受着那份心意，
+我的内心也会涌起各种各样复杂的情感呢……",translated,依恩,3e00d75fee,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_readbk.txt#15#12,物語って、詩みたいだと思わない？,你不觉得故事就像诗一样吗？,translated,依恩,ca792dd535,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_readbk.txt#16#12,"奏でられる詩は同じだったとしても、
+そこに込められた想いは
+人によって全然違うでしょ？","即使吟唱出来的诗歌一模一样，
+寄宿在其中的心意
+也会因人而异截然不同吧？",translated,依恩,d313f9fb26,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_readbk.txt#17#12,"それはきっと、物語の一つ一つに
+色とりどりの想いが書いてあるからだって、
+わたしは思うの。","我想，这一定是因为每一个故事里
+都用文字记录着
+形形色色、丰富多彩的心意吧。",translated,依恩,54007deab6,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_readbk.txt#18#14,"専門書も読むけど、
+物語が書かれた本も
+すごく楽しいよね♪","专业书固然会读，
+但记录着生动故事的书
+也超级有趣呢♪",translated,,2fdf438ecf,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_reco.txt#5#12,そういえば、今更なんだけどね……。,说起来，虽然事到如今才提起……,translated,依恩,c330b0484c,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#6#12,"実は最初の頃、
+あなたにわたしの夢セカイを見られるの、
+ちょっとだけ抵抗あったの……。","其实最开始的时候，
+对于让你看到我的梦世界这件事，
+我稍微有那么一点点抗拒呢……",translated,依恩,708919ce67,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_reco.txt#7#12,"自分も知らない記憶を覗かれるのって、
+やっぱり怖いもん……。","毕竟连我自己都不知道的记忆被人窥视，
+果然还是会害怕嘛……",translated,依恩,253767b40f,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_reco.txt#8#12,"あなたのおかげで、少しずつだけど
+思い出しているのに失礼だよね。","明明多亏了你才能一点点回想起来，
+我却有那种想法，真是不讲理呢。",translated,依恩,991eacbd7e,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_reco.txt#9#12,だれだって怖い,换成谁都会害怕的,translated,,47b3667cd6,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#10#12,今はどうか聞く,询问她现在觉得如何,translated,,6a233efa84,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#13#12,"うん。
+きっとそうだと思う。","嗯。
+我也觉得肯定是那样的。",translated,依恩,def8d333a5,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_reco.txt#14#12,けどね、その……勘違いしないでほしいの。,不过呢，那个……希望你别误会哦。,translated,依恩,74d71b86bf,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#15#12,今は平気だから……。,我现在已经完全不怕了……,translated,依恩,a07ead76ab,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#16#12,だから次もまたよろしくね。,所以下次也请继续多多关照哦。,translated,依恩,7895a0c3de,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_reco.txt#20#12,"全く気にならないって言ったら
+嘘かもしれないけど、今は平気だよ。","要是说一点都不介意可能那是骗人的，
+不过我现在已经没事了哦。",translated,依恩,d64190818f,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_reco.txt#21#12,"今はむしろ、
+わたしの知らないわたしを知られることで、
+嫌われたりしないかが心配……かな。","现在的我反而更加担心……
+要是让你知道了连我自己都不了解的一面，
+会不会被你讨厌呢。",translated,依恩,0b4498d8db,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_reco.txt#22#12,"もし嫌われたりしたら、
+こうやってお話できなくなっちゃうもん。","万一被你讨厌了，
+以后就不能像这样和你聊天了嘛。",translated,依恩,bac0f14ed7,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_reco.txt#24#14,"記憶の中のわたしが、
+嫌われないといいな。","希望记忆中的我，
+不会被讨厌就好了。",translated,,12e0c037a7,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scary.txt#5#12,ハァ……。,哈啊……,translated,依恩,0e28003fb3,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#6#12,"海に行くようになって、
+ときどき思うんだけど……。","随着经常去海边，
+我有时候会忍不住在想……",translated,依恩,4dd67878ee,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scary.txt#7#12,泳げる人ってうらやましい。,会游泳的人真让人羡慕呢。,translated,依恩,5155b15517,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#8#12,"泳ぐことだけが海の楽しみ方じゃないし、
+行きたくないってわけじゃないの。","虽然游泳并不是体验大海的唯一方式，
+我也不是说不想去海边。",translated,依恩,e7fb99af45,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scary.txt#9#12,"ただ、泳げる人は水とか
+全然怖くないんだろうなって思って……。","我只是觉得，会游泳的人
+肯定完全不会害怕水吧……",translated,依恩,da3a1a295f,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scary.txt#10#12,練習してみる？,要试着练习一下吗？,translated,,3d04866eaf,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#11#12,"わたしは泳げないし、
+やっぱりたくさんの水は怖いよ……。","我不会游泳，
+果然面对大量的水还是会害怕呀……",translated,依恩,c9eded7ccc,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scary.txt#12#12,さすがにお風呂とかは平気だけどね。,不过洗澡什么的当然完全不害怕就是了。,translated,依恩,f52801d9da,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#15#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#21#12,そ、それは……その……。,那、那个……呃……,translated,依恩,cfc8a61e0e,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#22#12,もうちょっと心の準備ができてからで……。,等我再做好一点心理准备之后再说吧……,translated,依恩,f11384b3b0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#23#12,あとその……できれば波がないところ……。,还有……如果可以的话选没有波浪的地方……,translated,依恩,89918c31b9,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#24#12,うぅ、ごめんね。我侭ばっかり……。,呜呜，对不起哦。净提些任性的要求……,translated,依恩,6f1a7fcc47,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scary.txt#25#14,"いつか海で一緒に
+海で泳ぎたいな♪","希望有朝一日能在海里
+和你一起游泳呢♪",translated,,55751c24a9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scen01.txt#6#12,好きな風景を聞く,询问喜欢的风景,translated,,245bfddcf4,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#10#12,う～ん、すぐには思いつかないかな。,唔～一下子还真想不出来呢。,translated,依恩,89c46adbc2,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#11#12,"採取で外にはでるけど、
+あんまり意識して見たことないかも……。","虽然为了采集经常出门，
+但好像从来没有特意去留意过呢……",translated,依恩,79e0730489,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_scen01.txt#12#12,"景色が悪いとかじゃなくて……、
+綺麗なんだけどよく分からないって
+感じかな？","倒不是说风景不好看……
+应该说是虽然很漂亮，
+却并没有特别深刻的概念那种感觉吧？",translated,依恩,530863bc58,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_scen01.txt#13#12,あ、けど、一つだけあるかも。,啊，不过，好像确实有一处哦。,translated,依恩,2d7c428ede,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#14#12,それは……あなたがいるこの部屋だよ。,那就是……有你在的这个房间哦。,translated,依恩,5b299b8957,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#15#12,……ちょっと恥かしいかも……。,……总觉得有点难为情呢……,translated,依恩,990384efea,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#16#12,自分で言っておいておかしいよね、えへへ。,自己说出口反倒害羞起来了呢，嘿嘿。,translated,依恩,188de04a44,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_scen01.txt#17#14,"わたしにとっての
+今一番の風景は
+この部屋だよ♪","对我而言，
+如今最棒的风景
+就是这个房间哦♪",translated,,6c7b4c1347,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_shy.txt#5#12,あの……ね。,那个……呢。,translated,依恩,3498a50327,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_shy.txt#6#12,"今更かもしれないけど、
+わたしって人見知りするの。","事到如今说这个可能有点晚了，
+其实我是个认生的人。",translated,依恩,33ca3a0a0d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_shy.txt#7#12,"人とお話するのって、
+あんまり得意じゃないから……。","因为我并不是很擅长
+和别人说话交流……",translated,依恩,2744713831,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_shy.txt#8#12,"あなたとは画面越しだったから
+あまり緊張しないで話せたんだよ。","因为和你隔着屏幕，
+所以我才没有感到那么紧张地聊起来的哦。",translated,依恩,768716328e,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_shy.txt#9#12,"もしそうじゃなかったら……って思うと、
+ちょっと怖いね。","要是换作别的形式……光是想想，
+都觉得有点后怕呢。",translated,依恩,eb3541e18f,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_shy.txt#10#12,知ってた,我早就知道了,translated,,29c9c94107,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_shy.txt#11#12,運が良かった,那真是运气好呢,translated,,ed5f5fde59,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_shy.txt#14#12,"そっか、知られちゃってたんだ……。
+なんだろう……あんまり悪い気はしない、
+かな？","这样啊，原来早就被你看穿了啊……
+怎么说呢……
+感觉倒也不算坏呢。",translated,依恩,1db1ad8de4,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_shy.txt#15#12,"むしろちょっと嬉しいかも。
+自分を理解してくれてる人がいるのって
+何か安心できるね。","倒不如说稍微有点开心呢。
+能有一个理解自己的人在身边，
+真的很有安全感呢。",translated,依恩,462eec0980,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_shy.txt#19#12,そうかもしれないね。,也许确实是那样呢。,translated,依恩,29cd0692f3,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_shy.txt#20#12,"直接会ってたら、
+ここまで仲良くなれなかったと思うの。","如果是面对面相遇的话，
+我想我们肯定没办法关系这么好呢。",translated,依恩,4ad519d5ce,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_shy.txt#21#12,えへへ、すっごい偶然だよね。,嘿嘿，这可真是奇妙的巧合呢。,translated,依恩,c0ddeb656a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#5#12,"突然だけど、
+お腹が空いたときに食べるご飯が
+一番おいしいと思わない？","虽然有点突兀，
+你不觉得在肚子饿扁时吃下的饭
+是全天下最美味的吗？",translated,依恩,9cab994dfe,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_spice.txt#6#12,"わたしはいつもグルメイトだったけど、
+お腹が空いたときだけは
+別物っていうか――","我平时虽然一直吃美食伴侣，
+但只要在肚子极饿的时候，
+感觉完全就像变了样一样――",translated,依恩,22be27e1a7,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_spice.txt#7#12,すっごくおいしく感じるのっ！,会觉得超级超级美味哦！,translated,依恩,221e8f8adb,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#8#12,"食事って必要な栄養価が取れれば良いし、
+味にこだわったことないけど、
+あまりの変わりようにビックリしたよっ！","吃饭只要能摄取必需的营养就好，
+我以前从来不在乎味道，
+但两者的巨大反差实在把我惊呆了！",translated,依恩,af9d54d447,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_spice.txt#9#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#10#12,"ということは、限界までお腹を減らしたら、
+ある意味究極のグルメイトが
+味わえるんじゃないかな？","这么说来，要是把肚子饿到极限，
+某种意义上岂不是能品尝到
+终极的美食伴侣了吗？",translated,依恩,548893caf1,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_spice.txt#11#12,イオンを止める,制止依恩,translated,,085a12ea56,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#12#12,極限の空腹状態と味の関係……。,极限饥饿状态与美味程度的关系……,translated,依恩,b0593d0e7a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#13#12,これは試してみたいかも。,这个真想亲自尝试一下呢。,translated,依恩,a1b9793b83,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#16#12,それじゃあ、またお話しようね。,那么，之后再聊吧。,translated,依恩,3515986b63,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_spice.txt#23#12,"あはは、それもそうだね。
+空腹で動けなくなったら大変だもん。","啊哈哈，说得也是呢。
+要是饿得动弹不得可就糟糕了嘛。",translated,依恩,981bafeef9,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_spice.txt#24#12,"それこそ命に関わりそうだし、
+やっぱりやめておくね。","那样搞不好会危及生命，
+我还是算了吧。",translated,依恩,90bccc34ec,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_stare.txt#6#12,じっと見つめる,目不转睛地凝视她,translated,,990e7426df,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_stare.txt#8#12,えっと、どうしたの？,呃，怎么了吗？,translated,依恩,dc01270d49,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_stare.txt#9#12,あぅ……えっと……。,啊呜……那个……,translated,依恩,df77b6b31a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_stare.txt#13#12,ただ……なんとなく……その……。,只是……不知怎的……那个……,translated,依恩,55e25ae67a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_stare.txt#14#12,"見られるのが嫌ってわけじゃなくて、
+その……なんか顔が熱くなるの……。","倒不是讨厌被你看着啦，
+只是……总觉得脸颊热热的……",translated,依恩,e65b87c6bc,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_stare.txt#15#12,うぅ、風邪でもひいたのかな……。,呜呜，难道是感冒了吗……,translated,依恩,2cb099dd7e,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_stare.txt#16#14,"じっと見られて顔が
+赤くなっちゃった。
+どうしてだろう？","被目不转睛地注视着，
+脸红透了。
+到底为什么呢？",translated,,9d7d365917,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_took01.txt#5#12,"あなたとお話できるようになって、
+生活にメリハリができた気がする。","自从能够和你聊上天之后，
+感觉生活也变得充实有规律了呢。",translated,依恩,864b0bef49,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_took01.txt#6#12,"何気ない会話の一つ一つが
+大事なんだなって実感できたよ。","我真真切切地体会到了，
+原来每一句漫不经心的对话都如此珍贵。",translated,依恩,1002b6e9e2,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_took01.txt#7#12,だからね……。,所以呢……,translated,依恩,eca83d43bc,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#8#12,わたしはあなたとお話できるのが嬉しいよ。,能和你聊天，我真的超级开心的哦。,translated,依恩,ce3e984630,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#9#12,"あなたはどうかな？
+迷惑してたりしない？","你觉得怎么样呢？
+不会觉得很麻烦、很困扰吧？",translated,依恩,c26117bd07,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_took01.txt#10#12,話をするの好き,喜欢和你聊天,translated,,5448a01088,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#11#12,イオンだから楽しい,正因为是依恩所以很开心,translated,,39ba664cee,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#15#12,良かった～。,太好啦～,translated,依恩,2cebba7898,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#16#12,"自分で聞いといて、迷惑だって言われたら
+どうしようかと思ってたの。","虽然是我自己主动问的，但要是被你说很困扰，
+我都不知道该怎么办才好了。",translated,依恩,23b51cf022,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_took01.txt#17#12,だから、なんか安心しちゃった。,所以，总算是放下心来啦。,translated,依恩,fd83bf369e,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#22#12,えへへ。ありがとう。,嘿嘿。谢谢你。,translated,依恩,470c89e642,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_took01.txt#23#12,でも、ちょっと恥ずかしいかも。,不过，稍微有点不好意思呢。,translated,依恩,bec89b3d9f,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#5#12,"ねぇ、その……前にメガネを作ったけど、
+わたしって別に視力低くないよ？","呐，那个……虽然之前做了眼镜，
+但我视力其实并不差哦？",translated,依恩,7d5f3bf28c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vision.txt#6#12,"メガネって普通は視力の低い人が
+着けるものだと思ったんだけど……。","我本来以为眼镜通常都是
+视力不好的人戴的呢……",translated,依恩,1a64d82aad,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vision.txt#7#12,メガネ萌えはある,眼镜娘属性很萌的,translated,,09c480b36a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#8#12,ファッションの一つ,是一种时尚饰品,translated,,918002bce0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#11#12,えっとその……そんなに力説されても……。,呃那个……就算你这么极力强调……,translated,依恩,6499d0a28d,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#12#12,"と、とにかく、あなたはメガネを
+着けてる方が嬉しいってことだよね？","总、总之，意思是说你更喜欢
+我戴着眼镜的样子对吧？",translated,依恩,841b54976e,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vision.txt#14#12,それならいいかも……。,那样的话倒也不错……,translated,依恩,a305642ca0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#18#12,そういうものなんだ……。,原来是这样啊……,translated,依恩,9991c0a29a,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vision.txt#19#12,"けどそうだよね。
+あのメガネ、度が入ってないもん。","不过也确实呢。
+那副眼镜本来就没有度数嘛。",translated,依恩,0e916eb1e3,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vision.txt#20#12,"メガネとしての機能がないなら、
+なんのためにあるんだろうって思ってたの。","要是没有眼镜本来的功能，
+我之前还纳闷到底是用来干什么的呢。",translated,依恩,6eecc75974,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vision.txt#21#12,"あんまりそういうのには詳しくないけど、
+ファッションなら納得だね。","虽然我对时尚不是很懂，
+但如果作为饰品的话就能理解了呢。",translated,依恩,adc80cba44,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vw.txt#5#12,"ねぇねぇ、今度はいつ仮想世界に
+行こっか？","呐呐，下次什么时候去虚拟世界
+玩呢？",translated,依恩,dd1580d387,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vw.txt#6#12,"せっかくあなたが来てくれてるのに、
+部屋でお話してるだけじゃ勿体ないもん。","难得你过来陪我，
+光是待在房间里聊天未免也太可惜了嘛。",translated,依恩,0c6812f66e,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vw.txt#7#12,また一緒に、どこかにいけると嬉しいな。,要是能再和你一起去哪里走走就好了。,translated,依恩,f934fac363,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#8#12,近いうちに……,近期吧……,translated,,b6a7c51a76,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#9#12,ここ数日は無理,这几天恐怕不行,translated,,3268191ac9,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#12#12,えへへ、嬉しいな。,嘿嘿，好开心啊。,translated,依恩,bf629545d6,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#13#12,それじゃあ、今度行こうね。,那么，下次我们一起去吧。,translated,依恩,1691d43e79,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#14#12,"あ、何か必要だったら言ってね。
+わたし頑張って作るから。","啊，要是需要什么道具尽管跟我说哦。
+我会努力做出来的。",translated,依恩,cff7b616ea,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vw.txt#15#14,"また近いうちに
+仮想世界に行こうって
+お話した。楽しみ♪","约好近期再去
+虚拟世界游玩了。
+好期待呀♪",translated,,a32eac594c,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_vw.txt#19#12,そっかぁ……残念。,这样啊……真遗憾。,translated,依恩,11ef231867,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#20#12,じゃあ、その分たくさんお話したいな。,那么，作为补偿我想跟你多聊聊天。,translated,依恩,82cfb66eed,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#21#12,そしたら許してあげる……。,这样的话我就原谅你……,translated,依恩,f19c5e702b,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_vw.txt#22#12,"って、ごめんね。
+なんかわたし偉そうだね。","哎呀，对不起哦。
+总觉得自己好像有点盛气凌人了呢。",translated,依恩,ed0a56d5ef,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_vw.txt#23#12,けど、お話できたら嬉しいのは本当だよ。,不过，能和你说说话我很开心是真的哦。,translated,依恩,b65c980b76,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_weak.txt#6#12,苦手なことってある？,你有什么不擅长的事情吗？,translated,,8d92e5f356,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_weak.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_weak.txt#10#12,苦手なこと……苦手…………。,不擅长的事……不擅长…………,translated,依恩,e88e8fd664,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_weak.txt#11#12,"やっぱり、体を動かしたりするのは
+苦手かな……。","果然，做各种体育运动什么的
+还是很不擅长呢……",translated,依恩,e1e00fe769,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_weak.txt#12#12,"お散歩とかは好きだけど、
+運動とか全然しないし、
+泳ぎに関してはカナヅチだもん。","虽然我挺喜欢散步的，
+但平时完全不做剧烈运动，
+说到游泳更是个旱鸭子呢。",translated,依恩,2e29c45fe6,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_weak.txt#13#12,"運動できる人って
+ちょっとうらやましいかも……。","运动神经发达的人
+真让人有点羡慕呢……",translated,依恩,e536366b7d,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_worrie.txt#5#12,"えっと、ね……。
+もし悩み事とかできたら教えて欲しいな。","那个，呢……
+如果你有什么烦恼的话，希望你能告诉我。",translated,依恩,f522a5e5d8,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_worrie.txt#6#12,わたしも、あなたの力になりたいから……。,因为我也想为你出一份力……,translated,依恩,be379a76aa,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_worrie.txt#7#12,そのときは頼む,到时候就拜托你了,translated,,19c3c53b0d,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_worrie.txt#8#12,悩み事なんてない,我才没有什么烦恼呢,translated,,f0447488a0,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_worrie.txt#11#12,えへへ、ありがとう。,嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_worrie.txt#12#12,"いつもわたしのことばかりだから、
+あなたの力になりたいなって思ったの。","因为一直以来都光是你在照顾我，
+我也想试着成为你的依靠呢。",translated,依恩,8a604ab73c,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_worrie.txt#13#12,"どこまで力になれるかわからないけど、
+少しでも力になれるように頑張るね。","虽然不知道自己能帮上多少忙，
+但我会竭尽全力去帮你的。",translated,依恩,f3fdd923fa,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_worrie.txt#14#14,"わたしもあの人の力に
+なるために頑張ろう♪","我也要为了成为那个人的
+依靠而努力加油♪",translated,,1365876e9a,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_years.txt#6#12,イオンって何歳？,依恩今年几岁了？,translated,,122987d4ab,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_years.txt#7#12,何も話さない,沉默不语,translated,,9b1bf68706,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_years.txt#10#12,えっと……わたしは今……。,呃……我现在……,translated,依恩,4ba7731e07,br=0 nl=0,1,
+inc/event/res/dayseventrc01/day_years.txt#11#12,"うーん、何歳だろう？
+わたし、自分の年齢も覚えてないよ……。","唔――到底几岁了呢？
+我连自己的年龄都记不得了呀……",translated,依恩,93ef39d781,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_years.txt#12#12,"最低限のことは覚えてたつもりだけど、
+年齢はちゃんと思い出せないや……。","最基本的事情我自认还记得，
+可唯独年龄怎么都想不起来呢……",translated,依恩,4054b6d528,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_years.txt#13#12,"でも……たぶんだけど、
+１５歳とか、１６歳とか、
+そのぐらい……だと思うよ？","不过……大概大概，
+也就是１５岁、或者１６岁，
+差不多那样的年纪吧？",translated,依恩,4e2654e6e5,br=0 nl=2,3,
+inc/event/res/dayseventrc01/day_years.txt#14#12,"別に確証はないけど、
+んんー、なんとなく、かな？","虽然并没有什么确凿的证据，
+唔――总觉得凭直觉就是那样吧？",translated,依恩,d6e8ef1ca5,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_years.txt#15#12,"……年齢の割りに子供っぽいとか
+思ってないよね？","……你该不会在心里偷偷觉得
+就我这个年龄来说太孩子气了吧？",translated,依恩,30f7a4db59,br=0 nl=1,2,
+inc/event/res/dayseventrc01/day_years.txt#16#12,"いいもん、わたしは
+これからいっぱい成長するんだもんねー。","哼没关系，反正我
+今后还会飞速成长起来的嘛――",translated,依恩,fd9ab08ce5,br=0 nl=1,2,

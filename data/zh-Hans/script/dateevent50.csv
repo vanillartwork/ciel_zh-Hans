@@ -1,0 +1,418 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent50/dic02.txt#1#12,"海洋生物図鑑端末を使うなら、
+やっぱり水族館に行くべきだよ。","既然要用海洋生物图鉴终端，
+果然还是应该去水族馆呢。",translated,依恩,7d6de4c331,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#2#12,というわけで……今から、どうかな？,所以说……现在去怎么样？,translated,依恩,3a3626480c,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#3#12,出発しよう,出发吧,translated,,f3530b7c57,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#4#12,今はちょっと……,现在有点不太巧……,translated,,3f7ea60b6b,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#6#12,う～っ、やっと使えると思ったのに……。,呜～好不容易能用上了说……,translated,依恩,cbf67d6694,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#11#12,"やった！
+ようやく海洋生物図鑑端末の性能を
+見せられる日が来たよ！","太棒了！
+终于到了能够展现
+海洋生物图鉴终端性能的日子啦！",translated,依恩,a32d181b99,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#12#12,"えへへ、楽しみだな……。
+それじゃ早速、しゅっぱーつ！","诶嘿嘿，好期待啊……
+那么事不宜迟，出～发！",translated,依恩,023c93ca26,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#14#12,"ほい、とうちゃーく。
+それじゃ、ちょっと見て回ろっか？","好嘞，到～达。
+那我们就四处逛逛吧？",translated,依恩,c1d7d19692,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#16#12,"やっぱり、性能を試すなら変わったお魚を
+探した方がいいよね？","果然要测试性能的话，
+还是去找些奇特的鱼比较好吧？",translated,依恩,37f0e611a5,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#17#12,"普通のお魚の情報を端末で調べても、
+出てきて当然、って感じになっちゃうし。","用终端查普通鱼类的信息，
+感觉查得出来也是理所当然的嘛。",translated,依恩,653eaa8c40,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#18#12,"こんなに変わったお魚の情報もちゃんと
+網羅してるんだぞ、って所を見せないと、
+機械としては失敗作だもん。","如果不展现出“连这么奇特的鱼
+都详细收录了哦”这点的话，
+作为机器就算是不合格的作品啦。",translated,依恩,8452adca9f,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#20#12,自信ありそうだね,看来很有信心呢,translated,,a7a3cf67b6,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#22#12,もちろん！,那是当然！,translated,依恩,0df1110bd9,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#23#12,"これを作るのに、一体どれだけのお魚図鑑を
+読んだことか……。","为了做出这个，
+我到底读了多少本鱼类图鉴啊……",translated,依恩,44d9558d4a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#24#12,"しかも、その情報を一つ一つデータ化
+する作業も、地味な上に長くて……。","而且把那些信息逐一数据化的工作，
+既枯燥又漫长……",translated,依恩,05db05f649,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#25#12,"あ、あはは……楽しくはあったけど、
+あまり思い出したくはないかも。","啊、啊哈哈……虽然挺开心的，
+但可能不太想去回想呢。",translated,依恩,7b41387cf0,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#26#12,……あっ、あのお魚なんかいいかも！,……啊，那条鱼好像挺不错的！,translated,依恩,984673f54c,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#28#12,"すごく大きいのに、何となく平べったい
+感じのお魚がいるの。","那里有条虽然体型非常大，
+但感觉扁扁平平的鱼哦。",translated,依恩,8cd474308a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#29#12,"よーし、さっそくあのお魚の情報を
+調べるよ！","好～嘞，立刻来查查
+那条鱼的信息吧！",translated,依恩,edd1b99288,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#30#12,"えっと、大体の大きさと色、
+それに特徴を打ち込めば……あ、あれ？","呃，只要输入大致的大小、颜色，
+还有特征的话……咦、咦？",translated,依恩,536a57eac2,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#31#12,"なんか、似たようなお魚の写真が、
+何枚も出てきたんだけど……。
+ど、どれが正解なんだろう？","怎么跳出了好几张
+长得很像的鱼的照片啊……
+到、到底哪张才是正确的呢？",translated,依恩,3779a7a639,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#32#12,"何かどれも同じように見えるし……
+でも、微妙にところどころ違うような……。","感觉哪个看起来都差不多……
+但某些细节好像又有些微妙的不同……",translated,依恩,1b3fa0da03,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#34#12,見た目だけで判断するのは難しいと思う,光凭外表判断感觉很难呢,translated,,93c38c753b,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#35#12,あまり役に立ってなさそうだね,感觉好像派不上什么用场呢,translated,,e5c5f2d13e,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#37#12,"うん……っていうか、見た目がそっくりの
+魚って、意外と多いんだね……。","嗯……或者说，外表极其相似的鱼，
+意外地还挺多的呢……",translated,依恩,8651012e05,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#38#12,"それに写真と比べようとしても、
+泳いでるから中々上手くいかないし……。","而且就算想拿去跟照片对比，
+因为在游来游去所以很难对上嘛……",translated,依恩,dd7cce08b9,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#41#12,"そ、そんなことないもん！
+この海洋生物図鑑端末は、図鑑としては
+とっても有能なんだから！","才、才没有那回事呢！
+这个海洋生物图鉴终端，
+作为图鉴可是非常能干的！",translated,依恩,573acf6e47,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#42#12,"ただ……検索機能と、写真と対象のお魚を
+見比べるわたしに、ちょっと問題がある
+だけで……。","只是……检索功能，还有拿照片跟目标鱼
+进行对比的我，稍微有点问题
+罢了……",translated,依恩,7c5abd38e3,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#44#12,"……あっ、わかった！
+このお魚だよ！","……啊，我知道了！
+就是这条鱼哦！",translated,依恩,b4ad2ff24a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#45#12,"顔が写真とそっくりだから、
+多分間違いないと思うの。","长相跟照片上一模一样，
+我想大概肯定没错了。",translated,依恩,95669bdb61,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#46#12,"えっと、特徴は……ふ～ん、そうなんだ？
+大きくて獰猛に見えるけど、温厚なお魚で
+プランクトンしか食べないって書いて……。","呃，特征是……哼～嗯，是这样啊？
+虽然体型庞大看似凶猛，却性格温和，
+上面写着它只吃浮游生物……",translated,依恩,a5327a70fe,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#47#12,って、えぇーっ！？,咦，诶诶～！？,translated,依恩,9e06a0bf6c,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#48#12,"た、食べてる！
+あのお魚、小さいお魚をすごい勢いで
+食べちゃってる！","吃、吃下去了！
+那条鱼，正以极其惊人的气势
+把小鱼给吃掉啦！",translated,依恩,2906e8a822,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#49#12,"ってことは、つまり……
+わたしが選んだのとは別のお魚だったんだ。","也就是说，换言之……
+它跟我选的并不是同一种鱼啊。",translated,依恩,2bb9d56bf6,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#50#12,"うぅ、あんなに苦労して作ったのに、
+こんな結果になっちゃうなんて……。","呜呜，明明花了那么大力气做出来的，
+结果居然变成这样……",translated,依恩,6e791d214d,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#52#12,これは失敗作だね,这算是失败之作呢,translated,,f1ece7f181,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#53#12,リベンジを期待してるよ,期待你的雪耻表现哦,translated,,26c40f476a,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#55#12,もぉ、失敗作じゃないよ！,真是的，才不是失败之作呢！,translated,依恩,bb0ebc89cc,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#56#12,"ちゃんと図鑑としてのデータと機能は
+備わってるんだから、そんな言い方したら
+機械がかわいそうでしょ？","作为图鉴的数据和功能都好好齐备着呢，
+你说得这么过分，
+机器不是太可怜了吗？",translated,依恩,69afeeebdd,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#57#12,"悪いのは、これを上手く使いこなせない
+わたしの方だよ。","真正不好的，是没法熟练用好它的
+我才对啦。",translated,依恩,3d8823215e,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#58#12,"う～ん……せめて写真と実物を比べられる
+くらいにはならないと……。","嗯～……至少也得能把照片和实物
+对应起来才行呀……",translated,依恩,7d0d8223d4,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#61#12,"……うん、そうだよね。
+一回失敗したからって、ガッカリすること
+ないよね？","……嗯，你说得对呢。
+不能因为失败了一次
+就灰心丧气对吧？",translated,依恩,4b85ab0960,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#62#12,"この失敗を糧にして、今度使う時に
+成功させればいいんだから！","只要把这次失败当作经验，
+下次使用时成功不就好了嘛！",translated,依恩,2484d1e301,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#63#12,"それに、あなたの期待もあるんだし、
+きっと次は成功させてみせるよ。","而且还有你的期待在，
+下次我一定会成功的哦。",translated,依恩,dc4730eb47,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#66#12,"さてと、とりあえずこの端末の性能も
+わかったことだし、今日はもう帰ろうか？","好啦，总之这个终端的性能也了解了，
+今天就先回去吧？",translated,依恩,a6d3e1f42b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#67#12,"早く帰って、今日のことをレポートに
+まとめたりしたいしね。","我也想早点回去，
+把今天的事整理成报告呢。",translated,依恩,1d0d12c7f5,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#68#12,"今度来る時までには、もっとちゃんと
+使えるようになってみせるんだから！","在下次来之前，我一定会
+让自己能更熟练地使用它的！",translated,依恩,95321bf94f,br=0 nl=1,2,
+inc/event/res/dateevent50/dic02.txt#70#12,"ふぅ……まさか、図鑑の写真と本物を
+見比べるのが、あんなに難しいとは
+思いもしなかったよ。","呼……真没想到拿图鉴上的照片
+和实物进行对照，
+居然会那么困难呢。",translated,依恩,99fd058cd9,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#71#12,"っていうか、せめて写真だけは頭の中に
+入ってるようにしないと、泳いでる魚と
+比べるのは難しそうだよね？","或者说，要是不先把照片记在脑子里，
+感觉很难和游动着的鱼
+进行对比呢。",translated,依恩,14a62e4955,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#72#12,……お魚の勉強、本気でしてみようかな？,……要不我认真去学学鱼类知识吧？,translated,依恩,50f864dcca,br=0 nl=0,1,
+inc/event/res/dateevent50/dic02.txt#73#12,"今度デートに行った時には、
+今日とは違うかっこいいところを
+見せるから、期待しててね。","下次再去约会的时候，
+我一定会展现出不同于今天的帅气一面，
+你就好好期待吧。",translated,依恩,51fdeb1118,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#76#14,"泳いでる魚と写真を
+見比べるのは、すごく
+難しいんだね……。","将游动的鱼和照片进行对照，
+是一件非常
+困难的事呢……",translated,,071be6629a,br=0 nl=2,3,
+inc/event/res/dateevent50/dic02.txt#77#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent50/dic03.txt#1#12,"海洋生物図鑑端末、今度はちゃんと
+使いこなせる自信があるの。","对于海洋生物图鉴终端，
+这次我有能熟练掌握的自信哦。",translated,依恩,d9d079cccb,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#2#12,だから、今からもう一度行ってみない？,所以，现在要不要再去一次试试？,translated,依恩,0d220df8a4,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#3#12,よし、行ってみよう,好，去看看吧,translated,,cb39ab9655,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#4#12,う～ん、今はちょっと……。,嗯～现在有点不太方便……,translated,,d6fa10d6b8,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#6#12,あらら……せっかくやる気満々だったのに。,哎呀呀……明明我都干劲满满的说。,translated,依恩,064bb39f8a,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#11#12,うん、今度こそ名誉挽回してみせるよ！,嗯，这次我一定会挽回名誉的！,translated,依恩,3884e0959a,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#12#12,それじゃ、出発しよ。,那么，出发吧。,translated,依恩,3c8b8d02dc,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#14#12,さてと、珍しいお魚はいるかなぁ？,好啦，有没有珍奇的鱼呢～？,translated,依恩,5bd80bc91b,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#16#12,"前にかっこ悪いところを見せちゃったから、
+色んなお魚の写真を見て、
+細かい違いを見分ける特訓をしたんだよ。","因为上次展现出了丢脸的一面，
+所以我看了好多鱼类的照片，
+特训了如何分辨细微差异哦。",translated,依恩,76f4ff8fbd,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#17#12,"まあ、本を読んでただけだから、
+特訓なんて大げさに言うのは間違いかも
+しれないけど……。","虽说只是看书而已，
+夸大其词地说是特训可能
+不太恰当就是了……",translated,依恩,5f5ee02760,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#18#12,"でも、自信が付いたのは本当だよ。
+あれだけ沢山見たんだもん、
+ちょっとくらい成長してるはずだよね。","但有了自信是真的哦。
+毕竟看了那么多，
+多多少少应该都有所长进吧。",translated,依恩,8bfa267426,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#20#12,あっ、この前見た大きなお魚だ！,啊，是之前看到的那条大鱼！,translated,依恩,38da462c51,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#21#12,"よーし、それじゃあ前みたいに検索して、
+引っかかった似たお魚の写真から、
+あれと同じのを探して……。","好～嘞，那就跟之前一样先检索，
+然后再从搜出来的相似鱼类照片中，
+找出跟它相同的那种……",translated,依恩,b5f18536cc,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#22#12,あった、この写真のお魚で間違いないよ！,有了，肯定就是这张照片里的鱼没错了！,translated,依恩,125dd8c012,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#23#12,"えっと、特徴は……小さな魚を主食とする、
+大人しい大きな魚……。","呃，特征是……以小鱼为主食、
+性格温顺的大型鱼类……",translated,依恩,92847606e1,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#24#12,"あっ、それに光の当たり加減によって
+尾びれが透明になったり白く濁ったりする、
+とも書いてあるよ？","啊，上面还写着，
+根据光线照射的角度不同，
+尾鳍会呈现透明或是浑浊的白色哦？",translated,依恩,61d165d075,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#25#12,"言われてみればあのお魚、
+動くたびに尾びれの色が変わってる……。","这么一说，那条鱼每次游动时，
+尾鳍的颜色确实都在改变……",translated,依恩,13a11edaa0,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#26#12,"ってことは、今回は大正解だね！
+やったぁ！","也就是说，这次完全答对啦！
+太棒啦！",translated,依恩,a94cc6467e,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#28#12,随分勉強したみたいだね,看来下了不少功夫学习呢,translated,,e0dd6d421a,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#29#12,ちょっと大げさじゃない？,是不是有点夸张了呀？,translated,,32ed069c79,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#31#12,"えへへ……自分で言うのもおかしいけど、
+今回は本当に頑張ったの。","诶嘿嘿……虽然自己说有点怪怪的，
+但我这次真的很努力哦。",translated,依恩,9fca791970,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#32#12,"本当に微妙な違いとか、説明を読んでも
+中々違う箇所がわからないのとか、
+沢山いるんだもん。","因为实在是有太多那种差异极其细微、
+或者就算看了说明也很难看出
+到底哪里不一样的鱼了嘛。",translated,依恩,6439b22a6b,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#33#12,"大変だったけど、こうしてちゃんと結果に
+繋がると、頑張ってよかったなぁ、って
+気持ちになるよ。","虽然挺不容易的，
+但能像这样收获成果，
+就会觉得之前的努力没有白费呢。",translated,依恩,2dd88a31d4,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#37#12,"そ、そうかな？
+でも、お魚の区別って難しいんだよ？","是、是这样吗？
+可是要区分鱼类真的很困难哦？",translated,依恩,c5832495e5,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#38#12,"同じお魚に見えるけど、本当にちょっとした
+違いがあるだけのとかもいっぱいいるし。","明明看起来一模一样，
+却只有细微差别的鱼可是有一大堆呢。",translated,依恩,b593f9ce77,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#39#12,"それに、水の中を泳いでるお魚を見て
+その違いを見つけるのが難しいのは、
+前に来た時に見たでしょ？","而且要在水中游动的鱼身上
+发现那些差别有多难，
+上次来的时候你也见识过了吧？",translated,依恩,85a0f47af5,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#40#12,"それができるようになっただけでも、
+成長したね、って褒めてもらいたかったん
+だけどなぁ……。","光是能够做到这一点，
+我还想让你夸夸我“成长了呢”
+的说……",translated,依恩,f8d4980c18,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#42#12,"でも、勉強したおかげで、お魚のことを
+もっと色々知りたい、って思えるように
+なったよ。","不过多亏了学习，
+让我变得想要
+去了解更多鱼类的事情了呢。",translated,依恩,1b4d8fb9d0,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#43#12,新しいことを知るのって、面白いよね？,了解新事物本身就很有趣，对吧？,translated,依恩,9e9d4a2b3d,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#44#12,"そうだ、せっかくだから、あなたの世界の
+お魚のことも教えてもらおうかな？","对了，难得有这个机会，
+你也跟我讲讲你那个世界的鱼吧？",translated,依恩,333f07dc6a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#45#12,"見ることはできなくても、話を聞くだけでも
+楽しいと思うし。","虽然亲眼看不到，
+但光是听听应该也很有意思呢。",translated,依恩,c5a8e3a368,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#47#12,マンボウ、面白い顔をしてるよ,翻车鱼，长着一张很有趣的脸哦,translated,,756cc99440,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#48#12,マグロ、お刺身にすると凄く美味い！,金枪鱼，做成生鱼片非常美味！,translated,,14b79f0062,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#50#12,へぇ、そんなお魚がいるんだ？,诶～还有那种鱼啊？,translated,依恩,c3054ffdf1,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#51#12,"どんな顔なのか、ちょっと気になるかも。
+こっちの世界にはいないから、
+端末で検索かけても出ないし……。","到底长着怎样的脸呢，有点好奇呢。
+毕竟在这个世界不存在，
+就算用终端去检索也搜不出来……",translated,依恩,c24542a9f8,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#52#12,"……でも、マンボウって名前……
+どこかで聞いたことがあるような……。","……不过，“翻车鱼”这个名字……
+总觉得好像在哪里听说过……",translated,依恩,ac495ca3f7,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#55#12,"そんなに美味しいお魚がいるの！？
+わぁ、わたしも食べてみたい……。","居然有那么美味的鱼！？
+哇，我也好想尝尝看……",translated,依恩,87b9326330,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#56#12,って、水族館でそういう話はダメ！,等等，在水族馆聊这个可不行！,translated,依恩,cf2b8ac2f0,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#57#12,"もぉ、お魚イコール食べ物、って考え方は、
+あまりいいとは言えないよ？","真是的，把鱼等同于食物的观念，
+可不能算好哦？",translated,依恩,af1e0f439b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#58#12,"……でも、マグロって名前……
+どこかで聞いたことがあるような……。","……不过，“金枪鱼”这个名字……
+总觉得好像在哪里听说过……",translated,依恩,34fdd5f318,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#60#12,"こっちの世界にはいないはずなのに、
+どうしてそんな風に思うのかな？","明明这个世界应该没有才对，
+为什么我会有这种感觉呢？",translated,依恩,cac0f8557c,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#61#12,"もしかして、記憶をなくす前は知ってた、
+ってこと？","难道说，在失去记忆之前
+我是知道它的吗？",translated,依恩,5b231acfd1,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#62#12,"……あっ、でも端末の中に似た名前の
+お魚がいたはずだから、そのせいかも。","……啊，不过终端里好像有名字很像的鱼，
+说不定是因为那个吧。",translated,依恩,564106643c,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#63#12,"お魚って、どこの世界でも似たような
+名前になるのかもしれないね。","鱼的名字，可能不论在哪个世界
+都很相似吧。",translated,依恩,ee6d8dc44b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#64#12,さてと……今日はそろそろ戻ろっか？,好啦……今天差不多该回去了吧？,translated,依恩,db0032bc26,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#66#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent50/dic03.txt#67#12,"えへへ、この前とは違って、
+ちゃんと端末を使いこなせてよかったよ。","诶嘿嘿，跟上次不同，
+这次能好好用熟终端真是太好了。",translated,依恩,be8eaa04b9,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#68#12,"でも、そのためには自分自身もある程度
+お魚の知識をつけないとダメみたいだね。","不过要想用好它，看来我自己也必须
+掌握一定程度的鱼类知识才行呢。",translated,依恩,427310fddb,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#69#12,"この辺りはちょっと改良の余地有りかも
+しれないけど……。","这一点说不定还有
+改良的空间就是了……",translated,依恩,521ef622a3,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#70#12,"まあ、わたしが使う分には問題ないし、
+このままでいっか！","不过只要是我自己用就没什么问题，
+保持现状也挺好吧！",translated,依恩,b0274ab95c,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#71#12,"さてと、そろそろ作業に戻らないと。
+また一緒にお出かけしようね。","好啦，差不多该回去干活了。
+下次再一起出去玩吧。",translated,依恩,0dc9fb73c2,br=0 nl=1,2,
+inc/event/res/dateevent50/dic03.txt#74#14,"あなたの世界にいる
+お魚も、いつか見て
+みたいな。","真希望有一天，
+也能亲眼见见
+你那个世界的鱼呢。",translated,,5fd3e09326,br=0 nl=2,3,
+inc/event/res/dateevent50/dic03.txt#75#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent50/dic04.txt#1#12,海洋生物図鑑端末、何度見ても楽しいよね。,海洋生物图鉴终端，看多少次都很有趣呢。,translated,依恩,973aec6ba3,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#2#12,"でも、泳いでるお魚も見てみたいし、
+ちょっと水族館に行ってみない？","不过我也想看看游动的鱼，
+要不要去水族馆走走？",translated,依恩,f1bca31f5b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#3#12,いいよ、行こう,好啊，走吧,translated,,b84597cb4d,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#4#12,いや、また今度にしよう,不，还是下次吧,translated,,e233ffe052,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#6#12,あらら……ちょっとガッカリかも……。,哎呀呀……感觉有点小失望呢……,translated,依恩,3b5a813a64,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#11#12,"ふふっ、楽しみだなぁ。
+図鑑もいいけど、動いてるところを
+見た方が楽しいもんね？","呵呵，好期待啊。
+图鉴虽然不错，
+但还是看活生生游动的样子更有趣对吧？",translated,依恩,7ca5a42514,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#12#12,それじゃ早速、しゅっぱーつ！,那么事不宜迟，出～发！,translated,依恩,4dc5138def,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#14#12,"さてと、可愛いお魚が見つかると
+いいんだけど……。","好啦，要是能找到
+可爱的鱼就好了呢……",translated,依恩,057bd96c9b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#16#12,あっ、早速面白いお魚発見！,啊，立刻发现了一条有趣的鱼！,translated,依恩,e9e7185999,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#17#12,"あれは確か……そう、夜になると
+体が発光するお魚だよ！","那个我记得是……对，是一到晚上
+身体就会发光的鱼哦！",translated,依恩,f3a6c1383b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#18#12,"あっ、またまた発見！
+向こうのは細長い体を利用して、
+他の魚を締め上げて食べるの。","啊，又发现了一条！
+那边那条会利用细长的身体，
+把其他鱼紧紧缠住吃掉哦。",translated,依恩,e0ab5be6d6,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#19#12,"見た目は綺麗な帯みたいだけど、
+結構獰猛で鋭い歯を持ってるから、
+見つけても手を出しちゃダメだよ。","外表看起来像一条漂亮的带子，
+但其实相当凶猛，还长着锋利的牙齿，
+就算看见了也绝对不能伸手去摸哦。",translated,依恩,58e00a41ba,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#20#12,"ふふっ……ちょっと不安だったけど、
+やっぱりちゃんと覚えられてたみたい。","呵呵……虽然之前有点不安，
+但看来我确实都有好好记住呢。",translated,依恩,e51874b47b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#21#12,"海洋生物図鑑端末、面白くて結構じっくり
+読んだから、だいたい覚えちゃったの。","海洋生物图鉴终端太有趣了，
+我读得相当投入，差不多都记住了呢。",translated,依恩,0eb86bfc1b,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#23#12,それ、凄過ぎるよ,那也太厉害了吧,translated,,c424c5aa76,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#24#12,海洋生物図鑑端末、お役ごめんだね,海洋生物图鉴终端可以光荣下岗了呢,translated,,88774813d5,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#26#12,えへへ、そうかな？,诶嘿嘿，是吗？,translated,依恩,efbbef8d7f,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#27#12,"でも、わたしって元々図鑑が好きだから、
+そのせいもあると思うの。","不过我本来就很喜欢图鉴，
+我想这也是原因之一吧。",translated,依恩,055d8e97a4,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#31#12,"た、確かに覚えちゃったのは本当だけど、
+お役ごめんではないよ。","虽、虽然记住了是事实，
+但才没有光荣下岗呢。",translated,依恩,2c1312aa91,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#32#12,覚えてても、読み直すのって楽しいんだよ？,就算记住了，重温一遍也很有意思嘛？,translated,依恩,ac3ebfba99,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#34#12,"でも、お魚のことばかりだったから、
+次はまた違う図鑑を読みたいな。","不过光是鱼类相关的知识，
+下次我还想读读其他图鉴呢。",translated,依恩,acb4f0849d,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#35#12,動物とか植物、鉱物とかいいかも。,动物、植物或者矿物之类的感觉挺不错的。,translated,依恩,8565c8a9bf,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#36#12,"しばらく、読書の時間には小説じゃなくて
+図鑑を読んでみるのもいいかもしれないね。","在接下来的阅读时间里，不读小说
+改去读读图鉴或许也不错呢。",translated,依恩,10f426bee4,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#37#12,"図鑑は読んで無駄になることはないし、
+使うことがなくても、将来、子供に教えたり
+する時に使えるでしょ？","读图鉴绝不会白费力气，
+就算平时用不上，将来教孩子的时候
+也能派上用场对吧？",translated,依恩,acf8e50a0d,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#38#12,"教育ママになるつもりはないけど、
+子供の疑問には何でも答えられるような
+母親になれたら、かっこいいと思うし。","虽然我没打算成为严苛的虎妈，
+但要是能成为无论孩子问什么
+都能答得上来的母亲，感觉很帅气嘛。",translated,依恩,36fabb0abd,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#39#12,"もちろん、わたし一人だと限界があるから、
+あなたもその時のために、今からしっかり
+勉強しておいてね。","当然，光靠我一个人是有极限的，
+所以为了那个时候，
+你现在也得好好用功哦。",translated,依恩,0842ac044e,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#41#12,子供のことはイオンに任せるよ,孩子的事就全托付给伊奥恩了,translated,,f68c8dc52a,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#42#12,雑学レベルのことしか教える自信がない,我只教得来冷知识程度的东西,translated,,ce534d483d,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#44#12,"もぉ、子育ては夫婦共同作業なんだから、
+片方に押し付けるのはダメだよ。","真是的，养育孩子可是夫妻共同的工作，
+推给其中一方可不行哦。",translated,依恩,81c4d0ef3a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#45#12,"それに、そんなことしてると子供からも
+嫌われちゃうよ？","而且如果那样做的话，
+是会被孩子讨厌的哦？",translated,依恩,01a3bc71da,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#46#12,"お母さんと違って頼りなくてかっこ悪い、
+って思われたら、あなただって嫌でしょ？","要是被觉得“不像妈妈那样可靠太差劲了”，
+你心里肯定也会很难受吧？",translated,依恩,b962342620,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#47#12,"だから、今のうちにちゃ～んと
+勉強しておいてね、ふふっ……。","所以趁现在要好～好
+用功学习哦，呵呵……",translated,依恩,2a7541b6e7,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#50#12,ううん、雑学って結構大切だと思うよ。,才没有呢，我觉得冷知识也是相当重要的哦。,translated,依恩,8612caefd8,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#51#12,"日常のちょっとした疑問とか、
+豆知識みたいなのって、子供は大好きだし。","日常生活中的小小疑问，
+或是小常识之类的，小孩子可是非常喜欢的。",translated,依恩,5976c800a5,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#52#12,"それを知ったことがきっかけで、
+自分で色々調べるような子供に育つかも
+しれないよ。","说不定会以知道这些为契机，
+成长为凡事都会主动去探究
+的孩子呢。",translated,依恩,f59e89e886,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#53#12,"わたしもそういうのって好きだから、
+一緒に聞かせてもらいたいしね。","我也很喜欢那种知识，
+所以也希望能一起听你讲呢。",translated,依恩,06f4ff873e,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#57#12,"ちょっとのつもりだったのに、
+お話に夢中になっちゃったね。","本打算只聊一会儿的，
+结果不知不觉就聊得太入迷了呢。",translated,依恩,8596055a2a,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#58#12,遅くなるといけないし、そろそろ帰ろ。,太晚了可不好，差不多该回去了。,translated,依恩,0f21bee5a5,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#60#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent50/dic04.txt#61#12,"ふふっ、やっぱり勉強して知識がちゃんと
+身についてるのがわかると、嬉しくなるね。","呵呵，果然能切实体会到知识
+真正化为己用，就会很开心呢。",translated,依恩,33ad9b8371,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#62#12,"この調子で、もっともっとたくさんのことを
+勉強していこっと。","按照这个势头，
+我还要继续学习更多更多的东西才行。",translated,依恩,4e708d153e,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#63#12,"付き合ってくれてありがと。
+それじゃ、そろそろ戻るね。","谢谢你陪我。
+那我差不多该回去啦。",translated,依恩,fad2da8357,br=0 nl=1,2,
+inc/event/res/dateevent50/dic04.txt#66#14,"将来のために、一緒に
+色んな知識をつけて
+おこうね。","为了将来，我们一起
+去掌握各种各样的
+知识吧。",translated,,6ac1dd4e03,br=0 nl=2,3,
+inc/event/res/dateevent50/dic04.txt#67#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent50/dic_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent50/dic_int.txt#6#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent50/dic_int.txt#8#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,

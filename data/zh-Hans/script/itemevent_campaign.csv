@@ -1,0 +1,90 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#3#12,カフェ・デ・コモ、完成だよ！,科莫咖啡馆，完成啦！,translated,依恩,d5214f7d55,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#4#12,"それはそうとこの服、レシピにきのこが
+入ってたけど、着る物の材料に食材が
+入ってるなんて初めてだよ。","话说回来这件衣服，配方里居然有蘑菇，
+制作衣物的材料里居然有食材，
+这还是头一次呢。",translated,依恩,b72fac37a6,br=0 nl=2,3,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#5#12,"この服にしか使ってないから、このきのこの
+名前は『デ・コモダケ』とかにしちゃいたい
+くらいだね。えへへ♪","因为只用在这件衣服上，我都想把
+这种蘑菇起名叫“科莫茸”了呢。
+诶嘿嘿♪",translated,依恩,92206b0480,br=0 nl=2,3,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#6#12,"…あ、えっと、一応説明すると、キノコって
+○○ダケって名前が多いから、それと
+『この服だけ！』ってのをかけたんだよ？","……啊，那个，姑且解释一下，蘑菇的名字
+不是经常叫“某某茸”嘛，那个发音其实和
+“只用于这件衣服”是谐音哦？",translated,依恩,5fd91041d6,br=0 nl=2,3,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#7#12,"うう…な、なんか、自分で言ってて
+恥ずかしくなってきたよ……","呜呜……总、总觉得，自己解释出来之后
+变得好难为情啊……",translated,依恩,9558884496,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#9#12,イオンにすごく似合いそう,感觉依恩穿上会很合适,translated,,c510a4ab04,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#10#12,"それにこの服って、ウェイトレスさんの
+制服みたいな感じだよね？","而且这件衣服，感觉就像
+服务员小姐的制服一样对吧？",translated,依恩,f476e8949a,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#11#12,"こういうのって、着なれてないから
+似合うかどうか心配だよ……。","这种衣服我平时不常穿，
+很担心到底合不合适呢……",translated,依恩,3756897919,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#14#12,"でも、可愛い服だから、いつかはちゃんと
+着こなせるような人になりたいな。","不过既然这么可爱，我希望能成为
+能够完美驾驭它的女孩子呢。",translated,依恩,978baf181c,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#18#12,"も、もぉ、あまりプレッシャー
+かけないでよ。","真、真是的，你别给我
+太大的压力啦。",translated,依恩,7838017a4c,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#19#12,"……でも、期待してくれてるって
+思っていいんだよね？","……不过，我可以当作
+你是在期待着我吧？",translated,依恩,11231c511c,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#20#12,"えへへ……それじゃあ、なるべく早く
+これを着た姿をお披露目するよ。","诶嘿嘿……那么，我会尽快
+穿给你看看的。",translated,依恩,1c2dd08fb8,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#21#12,楽しみに待っててね。,敬请期待吧。,translated,依恩,63e384cd59,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#24#14,"カフェ・デ・コモを
+作ったよ♪","制作了
+科莫咖啡馆♪",translated,,6ac3575fef,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#26#14,"カフェ・デ・コモが
+完成したよ♪","科莫咖啡馆
+制作完成了♪",translated,,c5d5dca328,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#28#14,"カフェ・デ・コモの
+作成完了。
+次は何を作ろうかな♪","科莫咖啡馆
+制作完毕。
+接下来要做什么好呢♪",translated,,01d0a94d3b,br=0 nl=2,3,
+inc/event/res/itemevent_campaign/rt_item_wear151a.txt#30#14,"カフェ・デ・コモが
+できたよ♪","做好
+科莫咖啡馆了♪",translated,,7c47d3ade8,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#3#12,カフェ・デ・コモ、またまた作っちゃった！,又做了一件科莫咖啡馆呢！,translated,依恩,3ca37b6d4d,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#4#12,"えへへ、やっぱり可愛い服は
+何度作ってもワクワクするね。","诶嘿嘿，果然可爱的衣服
+无论做多少次都让人满怀期待呢。",translated,依恩,7ee3f23f46,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#5#12,"……まあけど、普段から着るのは
+ちょっと微妙かもしれないね。","……不过，要是平时也穿着的话
+可能稍微有点微妙呢。",translated,依恩,8634de0ed3,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#7#12,普段から着てくれると嬉しい,要是平时也能穿的话我会很高兴的,translated,,838516eee1,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#8#12,でもこの服、結構危ないよね？,不过这件衣服，其实挺危险的对吧？,translated,依恩,6896ab41b2,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#9#12,"肩紐がちゃんと肩に引っかかるデザインじゃ
+ないから、どこかに引っ掛けでもしたら……。","因为设计上肩带并不是稳稳搭在肩上，
+万一在哪儿挂到了的话……",translated,依恩,b94b094420,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#12#12,……へ、変な想像したりしたらだめだよ？,……不、不许想奇怪的事哦？,translated,依恩,1b02c03461,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#16#12,……こういう服が好みなんだ？,……原来你喜欢这种风格的衣服呀？,translated,依恩,8023afb1ae,br=0 nl=0,1,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#17#12,"えへへ、あなたのこと、
+また一つ詳しくなっちゃった。","诶嘿嘿，关于你的喜好，
+我又多了解了一点呢。",translated,依恩,c154da861f,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#18#12,"あなたが喜んでくれるなら、
+なるべく着るようにしてみようかな。","既然你能高兴的话，
+那我就尽量多穿穿看吧。",translated,依恩,5fb9a36cbb,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#21#14,"カフェ・デ・コモを
+また作ったよ♪","又制作了
+科莫咖啡馆♪",translated,,7165b0bde1,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#23#14,"カフェ・デ・コモが
+完成したよ♪","科莫咖啡馆
+制作完成了♪",translated,,c5d5dca328,br=0 nl=1,2,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#25#14,"カフェ・デ・コモの
+作成完了。
+次は何を作ろうかな♪","科莫咖啡馆
+制作完毕。
+接下来要做什么好呢♪",translated,,01d0a94d3b,br=0 nl=2,3,
+inc/event/res/itemevent_campaign/rt_item_wear151b.txt#27#14,"カフェ・デ・コモが
+またできたよ♪
+いい調子♪","又做好了
+科莫咖啡馆♪
+状态不错♪",translated,,d6885e0d14,br=0 nl=2,3,

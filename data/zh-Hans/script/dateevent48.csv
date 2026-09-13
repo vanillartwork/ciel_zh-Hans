@@ -1,0 +1,323 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent48/akua_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent48/akua_int.txt#6#12,"水族館に行きたいの？
+んー………どうしようかな…。","想去水族馆吗？
+嗯～………该怎么办呢……",translated,依恩,1026cbe707,br=0 nl=1,2,
+inc/event/res/dateevent48/akua_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent48/akua_int.txt#9#12,"う～ん……今日は水族館に
+行きたい気分じゃないの。","唔～嗯……今天我不是
+很想去水族馆呢。",translated,依恩,07e723c0da,br=0 nl=1,2,
+inc/event/res/dateevent48/akua_int.txt#10#12,せっかく誘ってくれたのに、ごめんね。,难得你特意邀请我，对不起哦。,translated,依恩,3402694a29,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#3#12,"アクアドームは水族館の水槽を
+そっくりに作った物なんだよ。","水穹顶是照着水族馆的水槽
+分毫不差地做出来的东西哦。",translated,依恩,d6efcde18b,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#4#12,早速確かめに行こうか？,这就去确认看看吧？,translated,,d157d81b91,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#5#12,今度確認しに行こうね,下次再去确认吧,translated,,1c1179dd5a,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#7#12,うん、楽しみにしてるね。,嗯，我很期待哦。,translated,依恩,0c9c113d87,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#12#12,"うん、わたしもちゃんとそっくりに
+なってるか、確認したいと思ってたの。","嗯，我也很想去确认一下，
+看是不是真的做得分毫不差呢。",translated,依恩,72b7993aa8,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#13#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#15#12,……到着した？,……到达了吗？,translated,依恩,1caf4926eb,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#16#12,"わぁ……今日もお魚さん、
+元気いっぱいだね。","哇啊……今天的小鱼们，
+也是活力十足呢。",translated,依恩,5b830f5fe7,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#17#12,えへへ、早速見て回ろうよ。,嘿嘿，我们赶紧到处看看吧。,translated,依恩,61479cfd0c,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#19#12,ねえねえ、この水槽の中の様子、わかる？,呐呐，你能看出这个水槽里的模样吗？,translated,依恩,3a8ba92bba,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#20#12,"アクアドームで参考にした水槽って、
+これのことなんだよ。","做水穹顶时参考的水槽，
+指的就是这个哦。",translated,依恩,28838e03e5,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#21#12,"う～ん……写真を見ながら作ったわけじゃ
+無いから、変なところもあると思ったん
+だけどなぁ。","唔～嗯……毕竟不是看着照片做的，
+我还以为肯定会有
+奇怪不协调的地方呢。",translated,依恩,41ff1a7d18,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#22#12,"なんか、意外とそっくりに作れてて、
+自分でもびっくりかも。","没想到意外地还原得一模一样，
+连我自己都有点吓了一跳呢。",translated,依恩,8c1f9b6697,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#24#12,さすがイオンだね,真不愧是依欧呢,translated,,e74eaae62d,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#25#12,そうかな？,是这样吗？,translated,,14df58a342,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#27#12,えへへ、褒められちゃった。,诶嘿嘿，被夸奖了。,translated,依恩,77605021c4,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#31#12,"そっくりだよ。
+もぉ、少しは褒めてくれてもいいのに……。","明明就一模一样嘛。
+真是的，稍微夸我两句又不会怎样……",translated,依恩,5d2d4b46df,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#33#12,"でも、これを作り始めた時は正直、
+大変な物を作っちゃったなぁ、
+って少しだけ後悔してたの。","不过刚开始做这个的时候，说实话，
+我还稍微有点后悔
+自己怎么挑了个这么费劲的东西呢。",translated,依恩,2d6da19578,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#34#12,"基本的な構造は簡単なんだけど、
+アクアドームって中を作るのが
+すごく大変で……。","虽然基础结构很简单，
+但水穹顶内部的构造
+制作起来真的超级费劲……",translated,依恩,8aa205e6e0,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#35#12,"しかも、ほとんど記憶を頼りに
+作ったから、大変だったんだよ？","而且几乎完全是凭着记忆做出来的，
+可辛苦啦？",translated,依恩,38b31e8a68,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#36#12,"けど、こうやって完成したのがわかると、
+その苦労も報われた気がするよ。","不过像这样亲眼看到还原完成，
+就觉得那份辛苦也算是有所回报了呢。",translated,依恩,716574eea0,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#37#12,"えへへ、何だか今までよりも
+もっと水族館を好きになれそうかも。","诶嘿嘿，总觉得比以往
+还要更加喜欢水族馆了呢。",translated,依恩,14bec93bb7,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#39#12,また誘ってもいい？,下次还能再约你吗？,translated,,8c01683b74,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#40#12,何度も来るような場所じゃないよ,这里又不是什么值得一来再来的地方,translated,,49b262d4d8,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#42#12,もちろん、大歓迎だよ。,当然，非常欢迎哦。,translated,依恩,03180cf8bc,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#46#12,"そんなことないと思うよ？
+まだ全部のお魚を見たわけでもないんだし。","我觉得才没那回事呢？
+而且我们也还没把所有的鱼都看完嘛。",translated,依恩,a68d05f177,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#48#12,できれば、またすぐにでも来たい気分だよ。,可以的话，我现在甚至想马上就再来呢。,translated,依恩,e122074c07,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#49#12,"って、まだ見てる最中でこんなこと言うの、
+ちょっとおかしいかな？","等等，明明现在还在逛却说这种话，
+是不是有点奇怪呀？",translated,依恩,a135d5e1a3,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#51#12,"けど、もしまた来るときは、
+もうちょっとデートっぽい感じで
+見て回りたいの。","不过，如果下次还能再来的话，
+我想稍微带有一点约会的气氛
+四处逛逛呢。",translated,依恩,25e4c9f9e0,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#52#12,"だって、その……水族館って、
+王道デートスポットだもんね。","因为，那个……水族馆可是
+王道的约会圣地嘛。",translated,依恩,e8f33658f4,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#54#12,"今度来る時は、ただ見るだけじゃなくて、
+どっちが珍しい魚を見つけられるか、
+なんてゲームをしてもいいかも。","下次再来的时候，除了单纯观赏之外，
+比比看谁能找到更罕见的鱼，
+玩玩这种游戏或许也不错呢。",translated,依恩,8d2e201081,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#55#12,"えへへ、ただ見てるよりも楽しそうだと
+思わない？","诶嘿嘿，你不觉得会比
+光看着更有意思吗？",translated,依恩,1f038d3b11,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#58#12,"……さてと、今日のところはアクアドームが
+そっくりにできているのも確認できたし、
+そろそろ帰ろっか？","……好啦，今天既然已经确认了水穹顶
+制作得分毫不差，
+我们也差不多该回去了吧？",translated,依恩,a25fd8e401,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#60#12,そうしよっか,那就这样吧,translated,,393bb39f27,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#62#12,"それじゃ、お魚さん達。
+またねー。","那么，小鱼们。
+下次见啦～",translated,依恩,58ba85fd7c,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#64#12,ふ～、ただいまー。,呼～我回来了～,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom02.txt#65#12,"えへへ、水族館を見るだけじゃなくて、
+アクアドームもそっくりにできてたから、
+二重に楽しかったよ。","诶嘿嘿，不仅逛了水族馆，
+还确认了水穹顶做得分毫不差，
+收获了双倍的快乐哦。",translated,依恩,2fc130b898,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#66#12,"今度作る時は、もっと綺麗でリアルに
+作れたら嬉しいな。","下次再做的时候，要是能做得
+更加漂亮、逼真就好了呢。",translated,依恩,e8f8fdaff2,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#67#12,"それじゃ、今日はありがと。
+また誘ってね。","那么，今天谢谢你啦。
+下次也要再约我哦。",translated,依恩,963450ce1a,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom02.txt#70#14,"アクアドームの完成度
+については、これで
+お墨付きだね。","关于水穹顶的完成度，
+这下可就算是
+得到权威认证了呢。",translated,,5319028154,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom02.txt#71#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent48/aqua_doom03.txt#1#12,"あっ、水族館に行きたい、
+って思ってるでしょ？","啊，你心里在想
+“好想去水族馆”对吧？",translated,依恩,a0ddf1a4f2,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#2#12,"あなたが思ってること、ちょっとなら
+わかっちゃうの。","你心里在想些什么，
+我稍微能猜出来一点哦。",translated,依恩,8a62acfbd3,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#3#12,参りました,我甘拜下风,translated,,1d36134899,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#4#12,そんなこと思ってない,我才没那么想,translated,,b0f9942b58,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#6#12,……うぅ。,……呜。,translated,依恩,c5a6d8d158,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#11#12,えへへ、びっくりした？,诶嘿嘿，吓了一跳吧？,translated,依恩,2173402fa1,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#12#12,それじゃ、水族館に行ってみようか？,那么，这就去水族馆看看吧？,translated,依恩,444c21b1e3,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#14#12,さてと、今日はどこを見よっか？,好啦，今天去逛哪里呢？,translated,依恩,f6f401547f,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#16#12,"ここにも何回も来てるから、水族館のことを
+色々思い出せるようになったの。","因为来过这里好多次，
+关于水族馆的事我也能逐渐想起来不少了哦。",translated,依恩,356f65bce7,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#17#12,"お土産物屋があるとか、
+色んなイベントがあるとか……。","比如有土特产商店啦、
+有各种各样的活动啦……",translated,依恩,68966e3ca4,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#18#12,"えへへ、大雑把なことしか
+思い出せないんだけどね。","诶嘿嘿，虽然只能想起
+一些大概的轮廓就是了。",translated,依恩,b9ca3846ad,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#19#12,"それで思い出したんだけど、ここって
+イルカショーみたいなのは無いよね？","所以我就想起来了，这里好像
+并没有海豚表演之类的对吧？",translated,依恩,114bf27164,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#21#12,"あなたと一緒に、イルカショーを
+見てみたかったなぁ……。","真想和你一起
+看一场海豚表演啊……",translated,依恩,12e9374ffb,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#22#12,"近くで見過ぎて、水をかけられちゃったり
+するのも、二人なら楽しめそうだし。","要是靠得太近被溅了一身水，
+只要两个人在一起感觉也会很开心嘛。",translated,依恩,087c436e23,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#24#12,"そういうのがあれば、もっと楽しめると
+思うのに……。","要是有那种项目的话，
+我觉得肯定能玩得更尽兴的说……",translated,依恩,68b1631360,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#26#12,"そういえば、イルカショー以外にも、
+水族館では色んなショーをやるんだよね？","说起来，除了海豚表演以外，
+水族馆还会举办各种各样的表演对吧？",translated,依恩,47763fe147,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#27#12,他って、どんなのがあるのかな？,除此之外还会有哪些表演呢？,translated,依恩,84c92867f2,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#29#12,アシカショーとか,比如海狮表演,translated,,bcd414de15,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#30#12,ペンギンショーとか,比如企鹅表演,translated,,d91b8d2099,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#31#12,マスコットキャラの着ぐるみショーとか,比如吉祥物布偶人偶秀,translated,,87875050cf,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#33#12,"アシカ？
+ふ～ん、そういうショーもあるんだね。","海狮？
+哼～嗯，原来还有这种表演呢。",translated,依恩,746b962b15,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#34#12,"ごめんね、せっかく教えてもらったのに、
+アシカってわからないの。","对不起哦，难得你特意告诉我，
+我却完全不知道海狮长什么样呢。",translated,依恩,3c8c444790,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#37#12,"ペンギンって、あの小さい二本の足で
+ヨチヨチあるく動物だよね？","企鹅是指用两只短短的小脚
+摇摇晃晃走路的那种动物对吧？",translated,依恩,ba6942950c,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#38#12,"わたし、本でしか見たことがないの。
+いいなー、見てみたいなー……。","我只在书本上见过呢。
+真好啊～我也好想看看哦……",translated,依恩,5eebc89f0b,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#42#12,えっ、そんなショーもあるの！？,诶，居然还有那种表演吗！？,translated,依恩,a1593ced31,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#43#12,"着ぐるみって可愛いから、結構好きなの。
+いいないいなー、見てみたいよ！","布偶装很可爱，所以我其实挺喜欢的。
+真好啊真好啊～好想亲眼看看哦！",translated,依恩,4ccc99b5ba,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#46#12,"今度ねりこさんに会ったら、
+ショーのやってる水族館に行きたい、って
+お願いしてみようかな？","下次见到妮莉库小姐的时候，
+要不要拜托她
+带我去有表演秀的水族馆呢？",translated,依恩,96c1fbbf3c,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom03.txt#47#12,"もしかしたら、こことは違う水族館の
+カードを持ってるかもしれないし。","说不定她手里会有
+和这里不同的水族馆卡片呢。",translated,依恩,23868d32bc,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#48#12,"あっ……でもそんなこと言ったら、
+ねりこさんに冷やかされちゃうかな？","啊……不过要是这么说的话，
+说不定会被妮莉库小姐调侃呢？",translated,依恩,7e47202b75,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#49#12,……でも、良いよね？,……不过，也没关系对吧？,translated,依恩,7d6891d136,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#50#12,"だってわたし達……
+お付き合いしてるんだし……。","毕竟我们两个人……
+已经在交往了嘛……",translated,依恩,c575614a1c,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#51#12,"えへへ……改めて言うと、
+ちょっと恥ずかしいね……。","诶嘿嘿……正儿八经说出来，
+还是有点害羞呢……",translated,依恩,8d7876ffa4,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#53#12,さてと、今日はそろそろ帰ろうか？,好啦，今天我们差不多该回去了吧？,translated,依恩,17c42207eb,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#55#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom03.txt#56#12,"えへへ、今日はあなたに水族館のことを
+教えてもらっちゃったね。","诶嘿嘿，今天多亏你
+教了我好多关于水族馆的事呢。",translated,依恩,b07ce6945a,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#57#12,"また、わたしの知らないことや、
+忘れてることを教えてくれたら
+嬉しいな……。","以后要是能继续告诉我
+那些我不知道的、或是遗忘了的事，
+我就会很开心哦……",translated,依恩,1e77d7c33a,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom03.txt#58#12,"えへへ、付き合ってくれてありがと。
+また一緒に行こうね！","诶嘿嘿，谢谢你陪我。
+下次还要一起去哦！",translated,依恩,71642a08ee,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom03.txt#61#14,"水族館ではどんな
+ショーがやってるのか
+教えてもらったよ。","听你给我讲了
+水族馆里都有些
+什么样的表演秀哦。",translated,,889f7806a7,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom03.txt#62#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent48/aqua_doom04.txt#1#12,"アクアドームを見てると、
+水族館に行きたくなってくるの。","看着水穹顶，
+就会忍不住想去水族馆呢。",translated,依恩,35e315a347,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#2#12,"どうかな？
+時間があるなら、今からちょっとだけ
+デートしに行かない？","怎么样呢？
+有时间的话，现在要不要稍微
+去约个会？",translated,依恩,4bfd1759cc,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#3#12,そのお誘い、受けよう,我接受你的邀请,translated,,35c8b7ab68,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#4#12,ごめん、今はちょっと……,['抱歉，现在稍微有点……'],translated,,1f139e114b,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#6#12,あらら……タイミングが悪かったみたい。,哎呀呀……看来时机不太巧呢。,translated,依恩,3b5c6639fc,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#11#12,えへへ、急にお願いしちゃってごめんね。,诶嘿嘿，突然向你提这种请求对不起哦。,translated,依恩,5b664ac59c,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#12#12,それじゃあ、早速出発しよ！,那么，这就立刻出发吧！,translated,依恩,5b86bfbeb0,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#14#12,さ、今日も一緒に見て歩こ。,来，今天也一起到处走走逛逛吧。,translated,依恩,a083918d24,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#16#12,ふふっ、今日もお魚さんは元気一杯だね。,呵呵，今天的小鱼们也是精神饱满呢。,translated,依恩,7a219d472a,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#17#12,"楽しそうに泳いでるお魚さんを見てると、
+ちょっとだけ羨ましく思えてくる時が
+あるの。","看着欢快游动着的小鱼们，
+有时候我也会觉得
+稍微有那么一点点羡慕呢。",translated,依恩,50bbd8447a,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#18#12,"わたしも一緒に泳げたらいいのになぁ、
+って……。","想着“要是自己也能一起游就好了呀”
+什么的……",translated,依恩,732114f45f,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#19#12,"危険なお魚がいる水槽は怖いけど、
+大人しいお魚さんしかいない水槽になら、
+頼めば入れてもらえるかな？","虽然有危险鱼类的水槽很可怕，
+但如果只是有温顺小鱼的水槽，
+拜托一下能让我进去吗？",translated,依恩,3716987e46,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#20#12,"ファンタジー小説みたいに、泳いでいる
+自分の周りに、沢山の可愛いお魚さんが
+集まってくるのを再現できるかも！","就像奇幻小说里那样，
+说不定能重现自己一边游泳、
+身边一边簇拥着好多可爱小鱼的场景呢！",translated,依恩,0cbac9fc9f,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#22#12,イオン、泳げたっけ？,依欧，你原来会游泳吗？,translated,,e365ae4a37,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#23#12,怖がられるかもしれないよ？,可能会把鱼儿吓跑哦？,translated,,ee9d2a13c1,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#25#12,あっ。,啊。,translated,依恩,c5166f8853,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#26#12,"そ、そういえばわたし、泳ぐのって
+あまり得意じゃなかったんだよね？","说、说起来，我游泳
+好像并不怎么擅长对吧？",translated,依恩,cd39ae5ce1,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#27#12,"最近全然その話してなかったから、
+自分でもすっかり忘れてたよ……。","最近完全没聊起过那个话题，
+我自己都彻底忘光啦……",translated,依恩,08f6ab61e0,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#28#12,"でも、わたしが忘れちゃってたことを、
+覚えててくれたんだね？","不过，连我自己都忘了的事，
+你居然还一直替我记着呢？",translated,依恩,aef060600d,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#29#12,"えへへ……こういうの、
+ちょっと嬉しいな。","诶嘿嘿……像这种细节，
+让人觉得好开心呢。",translated,依恩,14f6024c50,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#33#12,むぅっ、わたしそんなに怖くないもん。,唔～我才没有那么吓人呢。,translated,依恩,7526ed13b8,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#34#12,"それに、お魚さんを驚かせないように、
+静かに泳ぐつもりだし……。","而且为了不惊吓到小鱼们，
+我本来也打算安安静静地游嘛……",translated,依恩,2cd09f4d82,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#35#12,"……って、すっかり忘れてたよ。
+わたし、泳ぐのってそんなに得意じゃ
+なかったんだよね？","……等等，我彻底忘光了。
+我游泳其实
+根本就不怎么擅长对吧？",translated,依恩,2c71b5cfd1,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#36#12,"最近この話してなかったから、すっかり
+忘れちゃってたみたい。","最近一直没聊起过这个，
+似乎不知不觉就忘了个一干二净呢。",translated,依恩,7635bda5ff,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#37#12,"うぅ、そのうち泳ぎの練習もした方が
+いいのかなぁ？","呜呜，以后我是不是也该
+找个机会练习一下游泳呢～？",translated,依恩,1048a81135,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#39#12,"……でも、ここにいるお魚さん達って、
+幸せなのかな？","……不过，生活在这里的小鱼们，
+真的会感到幸福吗？",translated,依恩,0e0eaecd70,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#40#12,"お魚さんって、本来は海とか川に
+生息してる生き物でしょ？","鱼儿本来应该是在大海或河流中
+栖息的生物对吧？",translated,依恩,213ca145ee,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#41#12,"それを人工的な水槽に
+閉じ込めてるんだもん。","可如今却被关在
+这样人工建造的水槽里嘛。",translated,依恩,4459ccc1c7,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#42#12,"……確かに大きくて広いけど、
+ちょっと、かわいそうかも。","……虽然这里确实很大很宽敞，
+但总觉得稍微有点可怜呢。",translated,依恩,1ccb1e6c9f,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#43#12,"こんな風に感じちゃうのは、
+どうしてだろう……。","为什么我会有
+这种感觉呢……",translated,依恩,0dd6378ffe,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#45#12,仲間がいるから楽しく暮らせてると思う,因为有伙伴在，我想它们生活得很开心哦,translated,,f25476fb27,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#47#12,"……そっか。
+そうだよね。","……这样啊。
+你说得对呢。",translated,依恩,68ec452ef7,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#48#12,"一匹だけならともかく、この水槽の中には
+沢山のお魚さんがいるんだもん。","如果只有一条那另当别论，
+但这水槽里可是有着许许多多的鱼儿呢。",translated,依恩,f3b7e46262,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#49#12,"寂しいなんて、きっと思わずに
+暮らしてるのかもしれないね。","它们生活在这里，
+肯定也未曾感受到过寂寞吧。",translated,依恩,f5749699a8,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#51#12,"わたしも、あなたがいるから
+寂しさを感じずに暮らせてるんだし……。","我也是因为有你在身边，
+才得以摆脱寂寞度过每一天嘛……",translated,依恩,23d1dcd028,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#52#12,"えへへ、これからもずっとわたしと
+一緒にいてほしいな。","诶嘿嘿，希望从今往后
+你也能一直陪伴在我的身边。",translated,依恩,560f307d1f,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#54#12,"いいこと言ってくれてありがと。
+ちょっと、心が軽くなった気がするよ。","谢谢你说了这么体贴的话。
+总觉得心里稍微轻松释怀了一些呢。",translated,依恩,970fefbf5d,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#57#12,ふぅ……ちょっと歩き疲れちゃったかも。,呼……稍微有点走累了呢。,translated,依恩,cd013698d7,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#58#12,無理しないで、今日はもう帰ろっか？,别太勉强，今天就先回去吧？,translated,依恩,9ca5a63402,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#60#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent48/aqua_doom04.txt#61#12,"急なお願いだったのに、今日はデートに
+行ってくれてありがと。","明明是我突发奇想提出的请求，
+今天谢谢你能陪我约会。",translated,依恩,ae2e8b5569,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#62#12,"ちょっとの時間だったけど、
+すごく楽しかったよ。","虽然时间很短暂，
+但我玩得非常开心哦。",translated,依恩,67337495c5,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#63#12,"また一緒にデートしようね。
+約束だよ！","下次还要再一起约会哦。
+拉钩说定啦！",translated,依恩,6798d00c4e,br=0 nl=1,2,
+inc/event/res/dateevent48/aqua_doom04.txt#66#14,"大切な人と一緒なら、
+どんな世界でも楽しく
+幸せに暮らせるよね？","只要和重要的人在一起，
+不论在怎样的世界里，都能
+快乐幸福地生活下去对吧？",translated,,22f89ed283,br=0 nl=2,3,
+inc/event/res/dateevent48/aqua_doom04.txt#67#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

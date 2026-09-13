@@ -1,0 +1,127 @@
+name: 校验翻译数据
+
+# Everything here runs without the game. That is the point of the data format:
+# the checks that catch "the translation is fine but the game breaks" -- lost
+# control codes, extra line breaks, overlong packed fields -- all work off the
+# metadata stored beside each translation, so CI needs no game files and none
+# are ever uploaded.
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "tools/**"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "tools/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  no-game-data:
+    name: 仓库中不得含有游戏文件
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 检查是否混入了游戏原始文件
+        run: |
+          set -euo pipefail
+          bad=$(git ls-files \
+            | grep -Ei '\.(pak|g1t|psarc|gtx|gmd|gsk|g1s|gan|kcm)$|CielnosurgeDX.*\.exe$' \
+            || true)
+          if [ -n "$bad" ]; then
+            echo "::error::这些文件属于游戏原始资源，不应提交到仓库："
+            echo "$bad"
+            exit 1
+          fi
+          echo "没有发现游戏原始文件。"
+
+      - name: 检查是否有异常大的文件
+        run: |
+          set -euo pipefail
+          big=$(git ls-files -z | xargs -0 -I{} sh -c \
+            'size=$(wc -c < "{}"); [ "$size" -gt 5242880 ] && echo "{} ($size bytes)"' \
+            || true)
+          if [ -n "$big" ]; then
+            echo "::warning::以下文件超过 5 MB，请确认它确实该进仓库："
+            echo "$big"
+          fi
+
+  validate:
+    name: 校验
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 校验全部翻译数据
+        run: python tools/validate.py --data data --format github
+
+      - name: 统计进度
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import csv, glob, io, os
+          tot = done = skip = 0
+          rows = []
+          for p in sorted(glob.glob("data/zh-Hans/**/*.csv", recursive=True)):
+              if os.path.basename(p).startswith("_"):
+                  continue
+              t = d = s = 0
+              for r in csv.DictReader(io.open(p, encoding="utf-8", newline="")):
+                  t += 1
+                  if r.get("zh", "").strip():
+                      d += 1
+                  elif r.get("status") == "skip":
+                      s += 1
+              tot += t; done += d; skip += s
+              rows.append((p, t, d))
+          print("## 翻译进度\n")
+          print("**%s / %s 行已翻译（%.2f%%）**，另有 %d 行按技术原因保留原文。\n"
+                % (format(done, ","), format(tot, ","), 100.0 * done / max(tot, 1), skip))
+          print("| 文件 | 行数 | 已译 | 进度 |")
+          print("|---|---:|---:|---:|")
+          for p, t, d in rows:
+              if d < t:
+                  print("| `%s` | %d | %d | %.1f%% |" % (p, t, d, 100.0 * d / t))
+          PY
+
+  tools:
+    name: 工具自检
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 编译检查
+        run: python -m compileall -q tools
+
+      - name: 不需要游戏也应能导入的模块
+        # These are the ones CI and contributors without the game rely on.
+        run: |
+          python -c "
+          import sys; sys.path.insert(0, 'tools')
+          for m in ['validate', 'repo_export', 'dehydrate', 'gamepath',
+                    'gustpak', 'csvspan', 'font_atlas', 'merge_repo']:
+              __import__(m)
+              print('ok', m)
+          "
+
+      - name: 自检 validate.py 确实会拦住坏数据
+        # A checker that passes everything is worse than none, so prove that
+        # each rule actually fires.
+        run: python tools/selftest_validate.py

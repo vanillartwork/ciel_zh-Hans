@@ -1,0 +1,93 @@
+name: 安装与运行问题
+description: 装不上、游戏崩溃、卡住、或者装完没变成中文
+title: "[问题] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **先确认一件事：游戏本身还能玩吗？**
+
+        如果现在连日文原版都启动不了，请先在 Steam 里右键游戏 →
+        属性 → 已安装文件 → **验证游戏文件完整性**。这会还原成干净的原版。
+        补丁的安装程序会把原始文件备份到游戏目录下的 `Backup`，
+        在「应用和功能」里卸载也能还原。
+
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 问题出在哪一步
+      options:
+        - 安装程序找不到游戏
+        - 安装程序说版本不对
+        - 生成补丁时失败
+        - 安装完成了，但游戏还是日文
+        - 游戏启动就崩溃
+        - 游戏中途崩溃
+        - 卸载/还原失败
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: 安装程序的输出
+      description: |
+        安装界面里点「显示详细信息」，把内容复制到这里。
+        这是最有用的信息。
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: preflight
+    attributes:
+      label: 版本自检结果
+      description: |
+        如果方便，请在命令行跑一下这个，把输出贴上来：
+
+        ```
+        py -3 tools\preflight.py --game "你的游戏文件夹"
+        ```
+
+        它会打印各文件的校验和，能立刻看出是不是版本问题。
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 运行安装程序
+        2. 选择 D:\SteamLibrary\steamapps\common\CielnosurgeDX
+        3. 点下一步后……
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: 补丁版本
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: 系统版本
+      placeholder: 例：Windows 11 23H2
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我拥有正版游戏
+          required: true
+        - label: 我没有同时安装其他修改游戏文件的补丁
+          required: false

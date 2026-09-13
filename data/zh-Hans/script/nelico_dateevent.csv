@@ -1,0 +1,2745 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/nelico_dateevent/date_nel01.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#10#12,おーーーい。反応せい。,喂――。快点吱个声。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#2#12,"<CLBU>おお、ちゃんとおったようじゃな。
+安心したぞ。","<CLBU>哦哦，看来你小子确实在呐。
+老身这就放心喽。",translated,妮莉库,888e1b9671,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel01a.txt#3#12,"それはそうと……少々お前さんに
+愚痴りたいことがあっての。","闲话暂且不提……老身其实有点牢骚
+想跟你小子吐一吐呐。",translated,妮莉库,13aa5415e9,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#4#12,"おっと、聞きたくない、というのは
+却下じゃぞ。","哎呀，你可别想说“不想听”，
+抗议无效驳回哦。",translated,妮莉库,0eed087a18,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#5#12,"我としても、本来であればみっともなく
+愚痴るようなことはしたくないのじゃ。","站在老身的角度，本来也是不想
+如此难看地四处发牢骚的。",translated,妮莉库,5b71424e61,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#6#12,"だが、そうとわかっていてもしないで
+いられる状況ではなくての。","但老身明知如此，眼下的情况
+却容不得老身不吐不快呐。",translated,妮莉库,19fc55415e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#7#12,大人なんだから我慢してください,既然是大人了就请忍耐一下嘛,translated,,e8a236ed0e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#8#12,何があったんですか？,发生什么事了吗？,translated,,6cdcd4d5db,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#10#12,大人である前にレディじゃ！,老身在成为大人之前首先是个淑女！,translated,妮莉库,2f0249fdca,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#11#12,レディの我慢は美容の大敵！,淑女的隐忍可是美容的大敌！,translated,妮莉库,1c9f3c3735,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#12#12,……と、我が今決めた。,……这是老身刚才刚定下的规矩。,translated,妮莉库,4bdc1990fc,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#13#12,"というわけで、我の愚痴に
+付き合ってもらうぞぃ。","总而言之，你小子今天就得
+老老实实听老身发牢骚哦。",translated,妮莉库,f0c4e9a909,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#16#12,"うぅ、そうやって文句も言わずに
+我を気遣ってくれるお前さんの
+優しさに、我も涙を流さずにはおれん……。","呜呜，面对你小子毫无怨言、
+处处体贴关怀老身的这份温柔，
+老身感动得简直要潸然泪下了……。",translated,妮莉库,eed6d0de5d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#17#12,"とはいえ泣いてたら話も出来ぬのでな、
+それはとりあえず置いておくとしよう。","虽说如此，要是哭个不停就没法说话了，
+感动的事情就先放一边吧。",translated,妮莉库,a101805920,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#19#12,実はな、とうだいもりのことなんじゃが……。,其实啊，是关于灯塔守那丫头的事……。,translated,妮莉库,2954273617,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#20#12,"あやつ、相変わらず我の店に来ては
+お前さんとの惚気話をしていきよるのじゃ。","那丫头，还是跟以往一样每次跑来老身的店里，
+就大肆炫耀秀恩爱讲你俩的事呐。",translated,妮莉库,eed566fe01,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#21#12,"正直に言うと、もう聞き飽きて
+何も感じぬと思ってはいたのじゃが……。","说句老实话，老身本以为自己早就听腻了，
+内心早已波澜不惊了……。",translated,妮莉库,409e34aa03,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#22#12,"……まあ、とうだいもりの
+若さに当てられたのかの？","……嘛，大概是被灯塔守那丫头的
+青春活力给感染了吧？",translated,妮莉库,ba11001ccd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#23#12,"たまには我もデートをしてみたいのぉ、
+なんて思ってしまったわけじゃ。","老身居然也忍不住琢磨起，
+偶尔自己也想去约个会看看呐。",translated,妮莉库,bc17a66458,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#24#12,"はぁ……子供じゃあるまいし、
+こんなことを思うようになるとは……。","哈啊……又不是毛头小鬼，
+居然还会产生这种念头……。",translated,妮莉库,6582cfa111,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#25#12,"自分で思っているよりも、大人になりきって
+おらんのかもしれんのぉ……。","说不定老身远没有自己以为的那样
+彻底成熟独立呐……。",translated,妮莉库,8d2b743ed7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#26#12,じゃあ、海でデートしようよ,那就去海边约会吧,translated,,d0c2ec47bd,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#28#12,たわけ！！,蠢材！！,translated,妮莉库,5772a74143,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#29#12,"あの場所はお前さんととうだいもりの
+ために用意した場所だと、
+前に言ったのを忘れたのか！？","老身之前不是跟你说过，
+那个地方是特意为你和灯塔守准备的吗，
+你难道忘得一干二净了吗！？",translated,妮莉库,a88b06a891,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#30#12,"デートに誘うなら我ではなく、
+とうだいもりを誘え。","要是想约会，别找老身，
+去约灯塔守那丫头去。",translated,妮莉库,1ce2479bcf,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#31#12,"第一、お前さんととうだいもりは
+付き合っておるのじゃろ？","首先，你小子不是正在
+和灯塔守那丫头交往着嘛？",translated,妮莉库,4e93e2ec41,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#32#12,"我とデートをしたのをとうだいもりが
+知ったら、浮気だ何だと一波乱あるかも
+しれぬぞ？","要是让灯塔守知道
+你居然跑来跟老身约会，
+搞不好会闹出什么出轨风波哦？",translated,妮莉库,3aa7545f8e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#33#12,愛を語るわけじゃないから大丈夫！,又不是去谈情说爱，没事的！,translated,,5a98f00218,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#34#12,時にはケンカも必要だと思う,我觉得偶尔吵吵架也是很有必要的,translated,,1c30857944,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#36#12,"んっふっふ……。
+出来ることならば、端末越しにお前さんに
+高圧電流を流してやりたい気分じゃ。","唔呵呵呵……。
+如果可以的话，老身真想隔着终端
+给你小子狠狠通上一记高压电呐。",translated,妮莉库,26be4d46ce,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#37#12,まったく、困った奴め……。,真是的，尽让人头疼的家伙……。,translated,妮莉库,661f1aa50a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#40#12,ふむ……一理ある。,唔……倒也有几分道理。,translated,妮莉库,d79cb668d6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#41#12,"じゃが、狙ってケンカの原因を作るのは
+色々間違っておるのではないか？","但故意找借口去制造吵架的导火索，
+怎么想都很不对劲吧？",translated,妮莉库,77f0c7a6fc,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#43#12,"……やはりどう考えても、
+我をデートに誘うのは良くないと思うぞ。","……不管怎么想，老身都觉得
+你邀请老身去约会不是什么好主意哦。",translated,妮莉库,8e4b4d09f3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#44#12,"とうだいもりのためにも、あやつ以外の
+娘をデートに誘うのはよした方がいい。","哪怕是为了灯塔守着想，
+你也最好别去邀请她以外的女孩子约会。",translated,妮莉库,a95de2c95d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#45#12,やだやだ、ねりこさんとデートしたい！,我不要我不要，我就想和妮莉库小姐约会！,translated,,417213b7e1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#47#12,"ええい、落ち着け！
+言うことを聞かぬ子供じゃあるまいし。","喂喂，冷静点！
+又不是什么任性不听话的小屁孩。",translated,妮莉库,303ed73f53,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#48#12,"第一、我とデートをしたところで
+何も得をすることは無いぞ？","首先，就算你跟老身约会，
+对你小子来说也捞不到半点好处哦？",translated,妮莉库,a0b437210d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#49#12,大人のレディとデートして経験を積みたい,我想和成熟淑女约会积累经验,translated,,d4b6a489f0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#51#12,むっ！？,唔！？,translated,妮莉库,3f1c45c2ab,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#52#12,ぬぅ……そう言われると、悪い気はせんな。,唔……被你这么一夸，老身倒也不觉得反感呐。,translated,妮莉库,41176ea4c9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#53#12,"それにデートの経験を積めば、それだけ
+とうだいもりとのデートも良い方向に
+進まないとも言い切れん……。","而且如果能积累约会经验的话，
+也不能保证对你和灯塔守的约会
+不会起到积极的推动作用……。",translated,妮莉库,6214cabad6,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#54#12,"しかし、どうも上手く言いくるめられておる
+ような気がしなくもないのじゃが……。","可是，老身总觉得好像隐隐约约
+被你小子给花言巧语忽悠进去了呐……。",translated,妮莉库,1e69daa2c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#55#12,……くすん,……呜呜,translated,,21d3c70a71,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#57#12,え、ええい、泣くでない、うっとおしい！！,喂、喂，别哭别哭，烦死人啦！！,translated,妮莉库,47344c0307,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#58#12,"わかった、我の負けじゃ！
+デートしてやるから涙を止めんか！！","知道啦，算老身输给你了！
+老身陪你约会就是了，快把眼泪止住！！",translated,妮莉库,4964e3eaf4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#59#12,まったく……我もまだまだ甘いようじゃ。,真是的……老身看来也还是太心软了呐。,translated,妮莉库,4d5557e2bf,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#60#12,"まあ、そうと決まれば早速行くとしよう。
+場所は海で構わんな？","嘛，既然决定了那就立刻出发吧。
+地点定在海边没问题吧？",translated,妮莉库,e8a36b5fe0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#62#12,おおっ、海じゃ海じゃ！！,喔喔，是大海是大海呀！！,translated,妮莉库,a9e7e4b408,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#63#12,"白い砂浜、青い空、どこまでも広がる
+透き通った海……。","白色的沙滩、蔚蓝的天空、
+无边无际一碧万顷的大海……。",translated,妮莉库,47e96dd4d2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#64#12,"んっふっふ、デートの定番ではあるが、
+季節限定でしか来られぬ場所じゃ。","唔呵呵，虽说是约会的定番经典，
+却也是只能季节限定前往的地方呐。",translated,妮莉库,18e7bf9d11,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#65#12,"……何だか、テンションが上がって
+しまいそうじゃ。","……不知怎么的，
+老身的情绪都要被带动得兴奋起来了呐。",translated,妮莉库,426a9dce8d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#66#12,"ほれ、せっかく来たんじゃ！
+突っ立っておるだけでは勿体無いぞ！","喂，难得特地过来了！
+光傻站着可就太暴殄天物了哦！",translated,妮莉库,e2727a1079,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#68#12,"しかし、デートとは言っても我と
+お前さんでは、ラブラブなムードを
+出すこともできんからの。","不过，虽说名义上是约会，
+但凭老身和你小子，
+可营造不出那种甜甜蜜蜜的气氛呐。",translated,妮莉库,fa1c434afc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#69#12,"まあ、部屋で雑談する延長線上だと
+考えれば、こういうのも悪くはないな。","嘛，要是当成在房间里闲聊的延伸，
+偶尔这样走走倒也不坏呢。",translated,妮莉库,c0bbae1c99,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#70#12,"とはいえ、お前さんの頑張り次第では、
+我がお前さんにメロメロキュンキュン
+することになるかもしれんぞ？","虽说如此，要是你小子足够努力的话，
+搞不好老身真会为你神魂颠倒、
+小鹿乱撞也说不定哦？",translated,妮莉库,282f22f32c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#71#12,よし、頑張る！！,好，我会努力的！！,translated,,d00f0ddd6c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#72#12,浮気はできないよ,我可不能出轨哦,translated,,05142c80f0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#74#12,"……どうもお前さんの日頃の発言は、
+我に気があるようにしか思えんのじゃが？","……老身总觉得你小子平日里的言行举止，
+根本就是对老身图谋不轨嘛？",translated,妮莉库,d6f3b66666,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#75#12,"まあ、今はデート中だ。
+そういう発言も今だけは良しとしよう。","嘛，反正现在正在约会。
+这种发言也就唯独现在放你一马吧。",translated,妮莉库,85fa6b29bd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#76#12,"……間違っても、とうだいもりの
+前では言ってはならぬぞ？","……可千万别糊涂到
+跑到灯塔守那丫头面前去说哦？",translated,妮莉库,14928c006c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#79#12,"泣いてまで我とデートに来たがった
+人間が今更何を言うか？","哭着闹着非要跟老身约会的人，
+事到如今居然还说得出这种话？",translated,妮莉库,b03a76fae6,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#80#12,"まあ、これが浮気に入るのかどうかは、
+とうだいもりの判断しだいじゃな。","嘛，这算不算出轨，
+全看灯塔守那丫头怎么评判就是啦。",translated,妮莉库,77e248bd0d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#81#12,とはいえ、優しいとうだいもりのことじゃ。,不过以灯塔守那丫头的温柔性子嘛。,translated,妮莉库,2c86e09c4f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#82#12,"場所を変えて雑談しているくらいにしか
+思わん可能性もあるがの。","说不定也只会觉得我们
+不过是换了个地方闲聊而已呐。",translated,妮莉库,2c764377ff,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#85#12,"……さて、とりあえず今日はもう
+帰るとしよう。","……好啦，今天差不多
+也该打道回府喽。",translated,妮莉库,6015e65fe4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#86#12,"初日からあまり長い時間いては、
+今後の楽しみが減ってしまうからの。","要是第一天就呆得太久，
+日后的期待和乐趣可就要打折扣了呐。",translated,妮莉库,042d1ad1cb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#87#12,"それに、来る前にも色々話をしたから、
+結構時間が経ってしまったようじゃ。","而且在来这里之前也聊了许久，
+不知不觉已经过去相当长的时间了呐。",translated,妮莉库,73dd7a8c10,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#88#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#89#12,もう少しここでねりこさんを見ていたい,我还想在这里多看一会儿妮莉库小姐,translated,,d1172a507d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#91#12,"よしよし、聞き分けの良い子は
+嫌いじゃないぞ。","乖啦乖啦，听话懂事的孩子
+老身倒是不讨厌哦。",translated,妮莉库,d6e7c0d3dd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#94#12,"我侭言うでない。
+終わりと言ったら終わりじゃ。","别任性胡闹啦。
+老身说了结束就是结束。",translated,妮莉库,f0bd689338,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#97#12,ほい、戻ったぞぃ。,喏，回到房间喽。,translated,妮莉库,cec8f002de,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#98#12,"いや～、やはりデートはいくつになっても
+楽しいものじゃの。","哎呀～，约会这种事情果然不论年纪多大，
+都是一件令人愉悦的美事呐。",translated,妮莉库,89bfc972ad,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#99#12,"とうだいもり以外とは行ってはいかん、
+と言ったものの……これは病みつきに
+なりそうじゃ。","虽说老身口口声声说了
+不能和灯塔守以外的人约会……
+但这种滋味搞不好真会上瘾呐。",translated,妮莉库,60de4da714,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#100#12,よし、決めた。,好，老身决定了。,translated,妮莉库,6d3a8b74bb,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel01a.txt#101#12,"頻繁にとはいかぬが、たまにはお前さんと
+デートをするようにしよう。","虽然不能太频繁，但偶尔老身
+就大发慈悲陪你小子约个会吧。",translated,妮莉库,ac1b931832,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#102#12,"なぁに、デートと言ってもお前さんと
+とうだいもりのしているような、
+ラブラブなものではない。","哎呀，虽说是约会，但绝不会像
+你小子和灯塔守平时那样
+黏黏糊糊甜甜蜜蜜的啦。",translated,妮莉库,78ef1de794,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#103#12,"あくまでも、ここでの雑談の延長戦の
+ようなものじゃ。","充其量不过是把在这里的闲聊，
+给延伸到外面去罢了。",translated,妮莉库,323ed27ced,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#104#12,"それならばとうだいもりにバレた時でも、
+気分を変えるために場所を変えただけ、
+と説明できるじゃろ？","这样一来就算被灯塔守撞破，
+也能解释说仅仅是为了转换心情
+换个地方说话而已对吧？",translated,妮莉库,1f9e560095,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel01a.txt#105#12,"んっふっふ、何だか楽しくなってきたの。
+今度のデートが楽しみじゃ。","唔呵呵，不知怎么的老身都跃跃欲试了呐。
+真是让人期待下一次的约会呢。",translated,妮莉库,5f51b8f370,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#106#12,"っと、さすがに長居し過ぎたか。
+そろそろ店に戻らねばいかんな。","哎呀，一不留神逗留太久了。
+老身差不多也该回店里去了呐。",translated,妮莉库,f4732edcdf,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel01a.txt#107#12,では、またのデートを楽しみにしておるぞ。,那么，老身就好好期待下一次约会喽。,translated,妮莉库,73225ed707,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#10#12,おーーーい。反応せい。,喂――。快点吱个声。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#2#12,<CLBU>おおっ、生きておったか！,<CLBU>喔喔，原来还活着呐！,translated,妮莉库,11e9dadd7b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel02a.txt#3#12,"いや～、もしこれでいなかったら
+テンション駄々下がりになっている
+ところじゃったぞぃ。","哎呀～，要是你小子真不在的话，
+老身的兴致怕是一下子
+就要跌落谷底了呢。",translated,妮莉库,6fbd25fe52,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#4#12,"お前さん、今日は暇か？
+もしそうなら、我と……。","你小子，今天闲着吗？
+要是闲着的话，要不要和老身……。",translated,妮莉库,fba0ab18b6,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#5#12,"おっと、せっかくのデートの誘いじゃ。
+もっとプリティガールのような感じで
+言わないとキュンとさせられぬな。","哎呀，难得特意来邀请你约会。
+不说得更有纯情美少女范儿一点，
+可没法让你心动神驰呐。",translated,妮莉库,7b0f733c12,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#6#12,"あ、あの……あたしと……ねりこと一緒に
+海に行ってほしいの！","那、那个……人家……想让你和妮莉库
+一起去海边约会嘛！",translated,妮莉库,71c8d9c629,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#7#12,きゃっ、言っちゃった！,呀啊，人家说出口啦！,translated,妮莉库,3588b5a1b3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#8#12,行くから話し方を戻してください,我去就是了，请先把说话语气变回去,translated,,8a7092d706,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#9#12,今日は無理,今天不行,translated,,e5843554eb,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#11#12,"ぶっ！？
+な、なんじゃそれは！？","噗！？
+这、这算什么反应嘛！？",translated,妮莉库,2ca5b80ffd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#12#12,"せっかく我がとうだいもりのような
+誘い方をしてやったというのに……。","亏老身还难得模仿灯塔守那丫头的语气
+特意来邀请你小子……。",translated,妮莉库,a6aeb074f2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#13#12,不愉快じゃ、我は帰る！！,真叫人不痛快，老身回去了！！,translated,妮莉库,5eb54d40e0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#14#12,"……そして近いうちにまた出直すからの。
+んっふっふ～。","……然后过两天老身还会再来的。
+唔呵呵呵～。",translated,妮莉库,1b926b04fb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#18#12,安心せい、元よりそのつもりじゃ。,放宽心吧，老身本来就打算换回去啦。,translated,妮莉库,121b39e017,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#19#12,"では準備は良いか？
+いざ、出発！！","那么准备妥当了吗？
+出发喽！！",translated,妮莉库,ae18e89801,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#21#12,"う～む、やはり海に来るとテンションが
+上がるのぉ。","唔～，果然一到海边
+整个人就情绪高涨起来了呐。",translated,妮莉库,820849e0ac,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#23#12,"しかし、我にとっては珍しい場所だが、
+お前さんととうだいもりにとっては
+飽きるほど来た場所なんじゃろう？","不过，对老身来说固然新鲜，
+但对你小子和灯塔守来说，
+早已是来得快看吐了的地方了吧？",translated,妮莉库,d47eb7d914,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#24#12,"まったく、許せん話じゃ。
+こんな楽しそうなところを独り占め……。","真是的，实在让人咽不下这口气。
+居然把这么好玩的地方给独占……。",translated,妮莉库,19e15d133a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#25#12,"いや、二人占めしおって！
+我も呼んでくれれば良いのに……。","不对，是给两个人独吞了！
+好歹也叫上老身一起嘛……。",translated,妮莉库,71cb476851,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#26#12,デートにねりこさんを呼べと？,你意思是约会还要叫上妮莉库小姐？,translated,,3b9714dfb3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#27#12,これからは両手に花？　嬉しい！,从今往后就是左拥右抱？太棒了！,translated,,f6adf935fc,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#29#12,むっ……そ、そういえばそうじゃったな。,唔……说、说起来确实也是呐。,translated,妮莉库,0ad182dd02,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#30#12,"お前さんととうだいもりのデートに、
+我が同行したとしたらそれは変じゃ。","你小子和灯塔守那丫头约会，
+要是老身大摇大摆跟着确实很怪异。",translated,妮莉库,8dec4da6b7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#31#12,"よし、これからもデートの時は
+思う存分二人占めするがいい。
+我が許す！！","好，今后你们俩去约会的时候，
+就尽管尽情享受两人的世界吧。
+老身批准了！！",translated,妮莉库,ba54581549,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#32#12,……まあ、提供したのは我なのじゃがな。,……嘛，虽然提供场所的人是老身就是啦。,translated,妮莉库,1f540a8c55,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#35#12,むっ、そうか……それは問題じゃな。,唔，是吗……那确实是个大问题呐。,translated,妮莉库,6b2b0c97bc,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#36#12,"我はもちろん、とうだいもりもそんな
+デートは望まぬであろうし……。","别说是老身了，灯塔守那丫头
+肯定也绝不希望有这种约会吧……。",translated,妮莉库,d6e3c0e969,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#37#12,"というより、まさか両手に花などという
+考えが即浮かぶとは……お前さんという
+やつは、まったく……。","不如说，真没想到你居然瞬间
+就能冒出坐拥双姝这种念头来……
+你小子这家伙，真是的……。",translated,妮莉库,9a69c7a77e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#38#12,"とうだいもりめ、こやつのどこに
+惚れたのか不思議でならんわ。","灯塔守那丫头，到底看上这家伙
+哪一点了，老身可真是百思不得其解呐。",translated,妮莉库,c96746891d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#40#12,"それはそうと、お前さん達は普段、
+とうだいもりが作った物がきっかけで
+デートをすることもあるんじゃったな？","闲话少叙，老身记得你们平时，
+有时也会以灯塔守做出的道具为契机
+出门去约会来着对吧？",translated,妮莉库,40633e5750,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#41#12,"ふむ……我もシエスタサンダルか、
+フレアガードくらい持ってくるべき
+じゃったかの？","唔……老身是不是也该把午睡凉鞋，
+或是防晒霜之类的东西
+一起带过来才对呐？",translated,妮莉库,23c6fd0f93,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#42#12,"前にとうだいもりが、こんなの作ったよ、
+って持ってきてくれたことがあるのじゃ。","之前灯塔守曾经一边说着“我做了这个哦”，
+一边把那些东西拿到老身的店里来过呐。",translated,妮莉库,2f8ceeea7c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#43#12,"その時のがうちの店に残っていてな。
+どちらか持って来るべきだったか……。","当时的存货现在还留存在老身的店里呢。
+真该顺手带上一件过来的……。",translated,妮莉库,aa01b8721f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#44#12,シエスタサンダルが似合いそう,感觉很适合午睡凉鞋呢,translated,,fcd8658d42,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#45#12,フレアガードで肌を守ろう,用防晒霜保护肌肤吧,translated,,5542b47f58,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#47#12,ほぅ……これは驚いた。,吼……这倒真叫老身吃惊。,translated,妮莉库,bebf00d361,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#48#12,"お前さんのことじゃ。
+てっきりフレアガードの方を薦めて
+来るかと思っとったのじゃが……。","以你小子的德行，
+老身本以为你肯定会极力推荐防晒霜
+好趁机大饱眼福呢……。",translated,妮莉库,c16c3eab69,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#49#12,"じゃが、確かにシエスタサンダルは
+涼しそうで良いかもしれぬな。","不过，午睡凉鞋看起来确实挺凉爽，
+倒也不失为一个好选择呐。",translated,妮莉库,48542a6182,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#50#12,"正直言って、我の靴は炎天下の砂浜には
+不向きじゃからの……。","老实交代，老身脚上的鞋子在烈日暴晒的
+沙滩上穿，确实不太合适……。",translated,妮莉库,b2910c4dff,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#51#12,ぶっちゃけ、蒸れるのじゃ。,说句掏心窝子的话，捂得慌呐。,translated,妮莉库,436b732068,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#52#12,"で、でも、足元だけでもおしゃれした
+感じになるのは、ちょっと恥ずかしい
+かも……。","可、可是，光是把双脚
+打扮得这么时髦别致，
+稍微有点让人难为情呢……。",translated,妮莉库,1fb28fe968,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#53#12,"何ていうか、その……デートしてるんだな、
+って気になっちゃいそうで……。","怎么说呢，那个……感觉就好像
+真的在约会一样，难免会胡思乱想……。",translated,妮莉库,8b889995eb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#54#12,……んっふっふ、なんてな。,……唔呵呵，开玩笑的啦。,translated,妮莉库,df73d99f4a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#55#12,"どうじゃ？
+今のはかなりとうだいもりっぽく
+なっていたと思わんか？","怎么样啊？
+刚才那番话，你不觉得
+模仿灯塔守模仿得惟妙惟肖吗？",translated,妮莉库,8930076de2,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#58#12,"……お前さんのことだ。
+そっちを選ぶとは思っておったよ。","……老身就知道，以你小子的秉性，
+绝对会毫不犹豫选那个的。",translated,妮莉库,60c9f117bb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#59#12,"しかし我もレディであることに違いはない。
+この日差しから肌を守りたいとは
+確かに思う。","不过老身再怎么说也是个名副其实的淑女。
+想要抵御这烈日阳光守护肌肤的心情，
+倒也确实千真万确。",translated,妮莉库,6ba5e50ee8,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#60#12,"で、でも……そういうのって、
+色々準備が必要だと思うの。","可、可是……那种事情，
+我想肯定需要做好各种各样的准备嘛。",translated,妮莉库,5c8b0cb4b3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#61#12,"服も脱いで、肌を見せないといけないし。
+べ、別にあなたに塗ってもらうのが
+嫌ってわけじゃないの！","还得脱下衣服，露出大片大片的肌肤。
+人、人家又不是讨厌
+让你来帮我涂抹啦！",translated,妮莉库,1f448e286a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#62#12,"むしろ期待してるっていうか、
+ドキドキするっていうか……。","不如说反倒有些隐隐期待，
+或者说心里扑通扑通乱跳……。",translated,妮莉库,ebd95e921b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#63#12,"……なんて感じの会話を、お前さんと
+とうだいもりはしておったな？","……类似这样的对话，
+你小子跟灯塔守那丫头以前聊过对吧？",translated,妮莉库,71e3a857a2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#64#12,"よくもまあこの暑い中で、余計に暑くなる
+ような話ができるものだ……。
+その点は尊敬に値するぞ。","亏你们大热天里，还能聊得出这种
+让人浑身燥热的话题来……。
+在这一点上老身还真得敬佩你三分。",translated,妮莉库,32418bba69,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#65#12,"とはいえ、我は元より小麦色の美肌じゃ。
+そう長い時間いるわけでもないのだから、
+わざわざ塗る必要はない。","话虽如此，老身天生就是健康的小麦色美肌。
+反正在这里呆的时间也不长，
+根本用不着大费周章涂抹防晒。",translated,妮莉库,d571a86642,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#66#12,"とうだいもりのような白い美肌なら、
+話は別じゃがの。","要是换成灯塔守那样吹弹可破的雪白肌肤，
+那倒另当别论就是了。",translated,妮莉库,5750f722ee,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#68#12,"まあどちらにせよ、我とお前さんの
+デートで使う気はないぞ。","嘛不管怎样，老身可没打算
+在跟你的约会里用上那玩意儿哦。",translated,妮莉库,bbf2753e8f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#69#12,"我が個人的に使うならまだしも、
+お前さんとのデートで使ったとあっては、
+とうだいもりに申し訳がないのでな。","老身私底下个人用倒也罢了，
+要是跟你小子约会时用上，
+未免也太对不起灯塔守那丫头了呐。",translated,妮莉库,f4a321d931,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#70#12,"超えてはならぬ境界線、というやつじゃ。
+お前さんも、それだけは忘れてはいかんぞ。","这就是所谓的“不可逾越的底线”。
+你小子唯独这点可千万不能抛到脑后哦。",translated,妮莉库,54a51cbe7a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#71#12,バレなきゃいいと思うけど？,只要不被发现不就好了？,translated,,359bfe0e84,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#72#12,忠告ありがと,谢谢你的忠告,translated,,0f7603c2d1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#74#12,大たわけ者が！,蠢到家的大笨蛋！,translated,妮莉库,112ffee4ab,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#75#12,"冗談でもそのようなこと、
+二度と言ってはならぬぞ。","就算开玩笑，那种胡话
+也绝不许再说第二遍哦。",translated,妮莉库,8bc37c7564,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#76#12,"我が本気で怒れば、とうだいもりの
+ラブラブ度を一気に最底辺までズドンと
+落とすこともできるのじゃからな。","老身要是动起真格发怒，
+可是能把灯塔守对你的恩爱度
+一口气直接砸落谷底的哦。",translated,妮莉库,14b88d56cc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#77#12,"そのことを忘れず、今後は発言に気をつけ、
+ついでに心も入れ替えるのじゃぞ。","给老身把这点牢牢记在心里，今后管好嘴巴，
+顺便给老身洗心革面痛改前非哦。",translated,妮莉库,0cb169b5c6,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#80#12,"んっふっふ……。
+よしよし、良い子じゃ。","唔呵呵……。
+乖啦乖啦，真是个好孩子。",translated,妮莉库,ef0e090c45,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#81#12,"お前さんのそういう素直な一面は、
+我も結構気に入っておるぞ。","你小子身上这种坦率听劝的一面，
+老身其实相当中意哦。",translated,妮莉库,fc4b3caa6b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#82#12,"いや、せっかくのデートじゃ。
+ここは、好き、と言っておくべき
+だったかの？","哎呀，难得特意在约会。
+这种时候老身是不是该说句
+“喜欢你”才对呐？",translated,妮莉库,1dc3cb2852,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#83#12,"……じゃが、もう少しお前さんのイケてる
+姿を見せてもらった時のために、
+大切に取っておくとしよう。","……不过，还是留到以后
+多见识见识你小子帅气英俊的英姿时，
+再当成压箱底的好话珍藏着吧。",translated,妮莉库,7da5cd0875,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#84#12,"焦らすのもレディの技じゃからの。
+んっふっふっふ……。","欲擒故纵吊人胃口也是淑女的看家本领嘛。
+唔呵呵呵呵……。",translated,妮莉库,b2b8036cf2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#87#12,さてと、大分長居してしまったようじゃ。,好啦，不知不觉逗留了相当长的时间呐。,translated,妮莉库,9f2e16b42b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#88#12,そろそろ現実に戻るとしようかの。,差不多也该回到现实中去喽。,translated,妮莉库,99075201e4,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#90#12,ふぅ……いや～、中々楽しかったぞぃ。,呼……哎呀～，玩得相当开心呐。,translated,妮莉库,3923d8dfa8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#91#12,"やはりデートは良いのぉ。
+いくつになってもはしゃいでしまうわ。","约会果然是好事情呐。
+不论长到多大岁数都会忍不住兴奋雀跃。",translated,妮莉库,760857554b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel02a.txt#92#12,"しかし……海ばかりというのも、
+何となく代わり映えがしなくて
+飽きそうじゃな。","可是……老是去海边的话，
+总觉得千篇一律缺乏变化，
+很快就会腻味呐。",translated,妮莉库,df7f6a0660,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel02a.txt#93#12,よし、今度の時は別の場所に行こう。,好，下次去约会的时候换个别的地方吧。,translated,妮莉库,be973730f8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel02a.txt#94#12,"我との約束じゃぞ。
+では、またな。","这可是跟老身的约定哦。
+那么，回见啦。",translated,妮莉库,49a452eaed,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#10#12,おーーーい。反応せい。,喂――。快点吱个声。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#2#12,<CLBU>おお、ちゃんとおったな。,<CLBU>哦哦，原来你小子在啊。,translated,妮莉库,752c24949b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel03a.txt#3#12,"今日はデートにでも出かけてみようと
+思うのじゃが、どう思う？","老身今天想着要不要出去约个会，
+你小子意下如何？",translated,妮莉库,f09aa17b78,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#4#12,早速行こう,我们赶紧去吧,translated,,e2bc0f36dc,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#5#12,ちょっと都合が,有点不太方便呢,translated,,197cc7b431,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#8#12,"お、お前さん……
+レディからの誘いを断るとは……。","你、你小子……
+居然敢拒绝一位淑女的邀约……。",translated,妮莉库,9b39f6ae74,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#9#12,"しかし、とうだいもりがいない間に
+留守番する暇はあるというのに、
+デートに行くには都合が悪いとは……。","可是明明在灯塔守不在的期间
+闲得有空在家看门，
+跟老身去约会却说不方便什么的……。",translated,妮莉库,25d7d28506,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#10#12,不思議なこともあるのぅ？,世界上还真有这等奇事呐？,translated,妮莉库,d4591ded74,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#11#12,"まあ、また誘いに来るからの。
+その時にはいい返事を期待しておるぞ。","算了，老身下次再来约你便是。
+到时可得给老身一个满意的答复哦。",translated,妮莉库,637a750840,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#16#12,うむうむ、ノリが良くて何よりじゃ。,嗯嗯，反应够爽快，这很好。,translated,妮莉库,fe498274d0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#17#12,では、出発するぞぃ。,那么，出发喽。,translated,妮莉库,748db1a8a9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#19#12,ほほぅ、今日はパーツ屋か。,嗬嗬，今天去的是零件店啊。,translated,妮莉库,8197e711b0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#21#12,"思い返せば、パーツ屋のカードを
+お前さんに渡したのは、
+かなり昔のことじゃったような……。","回想起来，老身把零件店的卡片
+交给你的时候，
+好像已经是蛮久之前的事了……",translated,妮莉库,a9b899d8e4,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#22#12,正直、もうよく覚えておらん。,说实话，老身已经记不大清了。,translated,妮莉库,a25bef571c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#23#12,"だが、あの頃はまだ、お前さんと
+とうだいもりの関係も、ここまでは
+発展しておらんかったと思ったが……。","不过，老身记得那时候
+你小子和灯塔守的关系，
+应该还没有发展到这一步吧……",translated,妮莉库,4cfd922b3a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#24#12,お互いまだよくわからない同士だった,那时双方对彼此都还不太了解呢,translated,,3df3dbed4d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#25#12,出会った時からラブラブだったよ,从相遇的那一刻起就爱得火热了哦,translated,,3e0cb518a6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#27#12,そうじゃったな。,确实是呢。,translated,妮莉库,99a3120631,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#28#12,"今でこそお前さんととうだいもりは
+恋人同士だが、あの頃はとうだいもりも
+少々戸惑い気味だったからのぅ。","如今你小子虽已和灯塔守成了恋人，
+但那时候灯塔守
+看起来也还有些手足无措呢。",translated,妮莉库,5ec60771dd,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#29#12,"それもあって、お前さん達の関係が
+少しでも深まるようにと、色々なカードを
+渡したのじゃ。","正因如此，老身为了让你们的关系
+能更进一步，
+才把各种各样的卡片交给了你。",translated,妮莉库,2c4f831c29,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#30#12,"まあ、その時はまさか恋人関係にまで
+なるとは、思いもしなかったがな。","不过老身当时怎么也没想到，
+你们居然真能发展成恋人关系呢。",translated,妮莉库,2175f28d42,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#33#12,ウソを言うでない。,休要胡扯。,translated,妮莉库,8821f3e73b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#34#12,"そもそもデートに行けるようにしたのは、
+お前さんととうだいもりの関係が
+深まるようにと考えたからじゃぞ？","老身之所以让你们能去约会，
+不就是为了能加深
+你小子和灯塔守的关系吗？",translated,妮莉库,ccdd51ece4,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#35#12,"最初からラブラブだったとしたら、
+カードなぞ渡すはずがなかろう？","要是打从一开始就爱得火热，
+老身哪还会特意把卡片送给你？",translated,妮莉库,5cdeaecb15,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#36#12,"……妄想と現実をごっちゃにした
+哀れな人間にはなるでないぞ？","……你可千万别变成
+那种把妄想和现实混为一谈的可怜人哦？",translated,妮莉库,fd26ecf183,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#38#12,"それはそうと、とうだいもりは
+パーツ屋に通えるようになってから
+どんな様子じゃ？","先不说这个，自从灯塔守
+能经常去零件店之后，
+情况怎么样了？",translated,妮莉库,42235c7428,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#39#12,"あやつの趣味にピッタリの場所じゃからの。
+気に入られんとは思わんが……。","那地方正合她的兴趣喜好，
+老身可不觉得她会不喜欢……",translated,妮莉库,ed1a5bd68d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#40#12,最初の頃はよく泣いてた,刚开始那阵子经常哭呢,translated,,eedc077085,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#42#12,何と、泣くほど感激していたというのか！,什么，竟然感动到了哭出来的地步吗！,translated,妮莉库,8be40175a9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#43#12,"そうかそうか、それほどまで喜んだので
+あれば、ロハでプレゼントした甲斐が
+あったというものじゃ。","这样啊这样啊，既然她如此欣喜，
+那老身免费送给你们卡片
+也算物有所值了。",translated,妮莉库,1f0762de01,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#44#12,"我も小さいとはいえ、自分の店を持つ
+経営者じゃからの。","老身虽说门面不大，
+但好歹也是有自己店铺的经营者。",translated,妮莉库,bfe8470841,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#45#12,"出来ることならば、ただで渡すのは
+避けたかったところなのじゃが……。","要是可以的话，
+其实老身原本并不想白白送人呢……",translated,妮莉库,8b8374b229,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#46#12,物を持って帰れないから泣いてた,是因为带不回现实才哭的,translated,,235d1dd2c2,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#47#12,……もう、それでいいです,……算了，您就当是那样吧,translated,,713a97c771,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#49#12,ああ、それで泣いておったのか。,啊，原来是因为这个才哭的啊。,translated,妮莉库,527ce4eac8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#50#12,"そういえば、前にここで我と
+会ったこともあったのぅ？","说起来，之前老身和你们
+也在这儿碰见过呢？",translated,妮莉库,cb4de5d7c2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#51#12,"あの後どうなったのかと思っとったが、
+そうか、それで泣いたのか……。","老身还在想后来怎么样了，
+原来如此，是因为这个哭了吗……",translated,妮莉库,e8044c6725,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#52#12,"まあ、何であれ泣いたことに変わりはない。
+その涙で今までのカード代はチャラ、
+ということにしておくぞ。","算了，不管怎样反正她都哭了。
+看在那串眼泪的份上，之前的卡片钱
+就一笔勾销，两不相欠啦。",translated,妮莉库,88ea76d761,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#55#12,ふむ……何やら不満げのようじゃが……。,唔……你看起来好像挺不满的样子啊……,translated,妮莉库,eb051ab5c3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#56#12,"まあ、お前さんがそれでいいと言うのなら、
+それでいいと思うことにしよう。","嘛，既然你小子都说算了，
+那老身也就不深究了。",translated,妮莉库,e988beec28,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#57#12,"それに、何であれとうだいもりが
+泣いたことに変わりはないのだろう？","而且，不管原因为何，
+灯塔守掉了眼泪总是事实吧？",translated,妮莉库,6e8941f0db,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#58#12,"その涙で今までのカード代はチャラじゃ。
+んっふっふ、ありがたく思ってよいぞ。","看在那眼泪的份上，卡片钱一笔勾销。
+唔呼呼，你小子尽管感恩戴德吧。",translated,妮莉库,d235fc1951,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#60#12,"……しかし、今日はあまり掘り出し物が
+見つからないのぅ？","……话说回来，今天似乎
+没淘到什么值钱的好东西呢？",translated,妮莉库,2b428cbc0c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#61#12,"我もそろそろ商品の補充をしようと
+思っておったところなのじゃが……。","老身原本还想着
+差不多也该补充一下商品货源了……",translated,妮莉库,630f8aa9ed,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#62#12,ここで買った物を現実に持って帰れるの？,在这里买的东西能带回现实吗？,translated,,64c285f62d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#64#12,"当然じゃ。
+前にここで買い物をしている時に
+会ったことをもう忘れたのか？","这是自然。
+之前老身在这里买东西时
+遇见过你，难道你小子已经忘了？",translated,妮莉库,edfccb54f8,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#65#12,"我はとうだいもりとは違って、
+ちょっと特別な方法を使っておるのでな。","老身和灯塔守不同，
+可是用了一些特殊的手段呢。",translated,妮莉库,b38fdd0362,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#66#12,"まあ、これに関しては企業秘密じゃ。
+いくら頼まれても教えることはできぬぞ。","嘛，关于这点可是商业机密。
+不管你怎么求老身，老身都不会说的哦。",translated,妮莉库,ce47c8f841,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#67#12,"それにお前さん達はあくまでもデートで
+ここに来ていることを忘れてはいかん。","再说了，你小子可别忘了，
+你们来这里归根结底只是为了约会。",translated,妮莉库,925c19390f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#68#12,"買い物はその目的には含まれて
+おらんのだから、
+出来なくても文句を言うでない。","买东西又不在你们的
+约会目的之内，
+买不了可别在那里发牢骚。",translated,妮莉库,4e29c7ce3b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#69#12,"デートの思い出を持って帰れるだけで
+満足、くらいのことは言えるように
+なるのじゃぞ。","你们应该学会知足，只要能把约会的
+美好回忆带回去就该心满意足了，
+懂了吗？",translated,妮莉库,3709fb0959,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#71#12,さて、我は少々歩き疲れたでな。,好啦，老身稍微有些走累了。,translated,妮莉库,cfa965ed12,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#72#12,そろそろ帰るとしよう。,差不多也该回去啦。,translated,妮莉库,ad27601f43,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#74#12,いや～、随分と楽しませてもらったぞ。,哎呀～，今天真是让老身好生尽兴呢。,translated,妮莉库,47dc3c8d1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel03a.txt#75#12,"やはり部屋でダラダラ話しているより、
+デートをしながらの会話の方が盛り上がって
+楽しめたぞぃ。","果然比起在房间里懒懒散散地闲聊，
+一边约会一边谈天更有兴致，
+玩得也更开心呐。",translated,妮莉库,23e7a544f0,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel03a.txt#76#12,"次はまた別の場所に行こう。
+ショッピングセンターとかどうじゃ？","下次再去别的地方吧。
+比如商业中心感觉如何？",translated,妮莉库,0fbd84c81d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#77#12,"また近いうちに誘いに来るからの。
+その時は、ちゃんと付き合うのじゃぞ。","老身过几天还会再来约你的。
+到那时候，可要好好陪老身哦。",translated,妮莉库,cf438300c4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel03a.txt#78#12,では、またな。,那么，下次再见啦。,translated,妮莉库,7f2b96df24,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#2#12,<CLBU>んっふっふ、ちゃんとおったようじゃな。,<CLBU>唔呵呵，看来你小子果然在嘛。,translated,妮莉库,1439df4a21,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/nelico_dateevent/date_nel04a.txt#3#12,"時間を無駄にするのも惜しいので、
+早速用件を言うとしよう。","老身也不想浪费时间，
+就开门见山地说正事吧。",translated,妮莉库,b426d18c48,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#4#12,"どうじゃ、今から我とデートに
+行ってはもらえんかの？","怎么样，现在能赏个脸
+陪老身去约会么？",translated,妮莉库,a20e0e0472,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#5#12,行きましょう,我们去吧,translated,,47887e0332,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#6#12,今日は予定があるので……,今天我还有别的事……,translated,,51ac19cc50,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#9#12,むぅ、残念じゃな。,唔……真是遗憾呐。,translated,妮莉库,c3e9bc7d93,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#10#12,"しかし、予定のある人間がとうだいもりの
+留守番をしているとは……不思議なことも
+あるものじゃのぅ？","不过，有安排在身的人居然还会替灯塔守
+留下来看家……
+这世上奇怪的事可真多呢？",translated,妮莉库,64c48c8e4d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#11#12,"まあ、今日は出直すとしよう。
+では、またの。","算了，老身今天就先回去吧。
+那么，下次再见啦。",translated,妮莉库,7f7025f48a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#16#12,うむ、いい返事じゃ。,嗯，答得好。,translated,妮莉库,1d8b01fddf,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#17#12,"では早速行くとしよう。
+んっふっふ、楽しみじゃ！","那咱们这就出发吧。
+唔呼呼，真是期待呢！",translated,妮莉库,ff7ec59fe2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#19#12,"おおっ、やはりショッピングセンターは
+華やかで良いのぉ！","哦哦，商业中心果然
+热闹繁华，真不错呢！",translated,妮莉库,2e9cca648e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#21#12,"ふむ……どこの店も賑わっているようで
+何よりじゃな。","唔……哪家店看起来都挺红火的，
+真是再好不过了。",translated,妮莉库,db92d4b03e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#22#12,"とうだいもりしか来ない我の店とは
+大違いじゃのぅ。","跟老身那只有灯塔守一个客人光顾的店
+简直是天壤之别啊。",translated,妮莉库,3fde2a5e0a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#24#12,"い、いかん、自分で言ってて
+悲しくなってきた……。","不、不行，老身自己说出来
+都觉得有些心酸了……",translated,妮莉库,49aa8840bb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#25#12,"ほれ、レディが悲しんでおるのじゃ。
+慰めてくれても良いのじゃぞ？","瞧啊，淑女都这么伤心了，
+你小子安慰一下老身也是应该的吧？",translated,妮莉库,b8c805c4ed,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#26#12,ここに出店しちゃえば？,干脆在这里开家分店呗？,translated,,a6cc1b8639,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#27#12,イオンだってお客様でしょ？,伊欧不也是客人嘛？,translated,,280fb6f73b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#29#12,……そ、その発想はなかった！,……老、老身倒从没往这方面想过！,translated,妮莉库,989c6d61bd,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#30#12,"そうか、ここに支店を作ればお客に
+困ることはなくなり……。","对啊，要是能在这儿开家分店，
+就不用发愁没有客人了……",translated,妮莉库,18bfa49040,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#31#12,"あ、無理じゃ。
+我が本店から動けない以上、
+支店を運営する人間がおらぬではないか。","啊，不行。
+既然老身脱不开总店的身，
+根本就没有人能去经营分店嘛。",translated,妮莉库,3de63cbb5a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#32#12,"まさかこの仮想空間の人間を雇うわけには
+いかぬし……この話は無しじゃな。","总不能去雇佣这个虚拟空间里的人吧……
+看来这事还是免谈啦。",translated,妮莉库,67d0152332,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#35#12,"間違ってはおらぬが、お客様一人で
+店を切り盛りできると思うか？","你说的虽然没错，但你觉得
+单靠一个客人能撑得起一家店吗？",translated,妮莉库,fd7702150c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#36#12,"このショッピングセンターほどではないが、
+我の店も一般的な個人商店の大きさがあり、
+それなりの商品と在庫を抱えておる。","虽说比不上这个商业中心，
+但老身的店好歹也有普通个体店的规模，
+有着不少商品和库存呢。",translated,妮莉库,2bf10c3aeb,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#37#12,"しかもとうだいもりは毎日買い物に
+来るわけではない。","而且灯塔守又不是
+天天都会来光顾。",translated,妮莉库,25f39e0b30,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#38#12,"そのような状況で、店主としての満足感を
+得られるはずがなかろう？","在那种情况下，
+老身身为店主哪可能得到满足嘛？",translated,妮莉库,67a1483edd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#40#12,"そういえば、とうだいもりと最初にここに
+来た時のこと、覚えとるか？","说起来，你还记得当初第一次
+和灯塔守来这里时的事吗？",translated,妮莉库,72ebedc797,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#41#12,"おしゃれ過ぎて場違いな感じがする、と
+ビクついておったのぅ。","她还战战兢兢地说过，
+这里太时髦了，感觉自己格格不入呢。",translated,妮莉库,6f497c8d87,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#42#12,"しかし、まさかブティックを見ながら、
+スウェットやジャージやパーカーを
+探すとは思わんかったぞ。","不过，老身可真没想到她逛着精品服装店，
+眼睛找的却是套头卫衣、
+运动服或者连帽衫。",translated,妮莉库,a7114c3182,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#43#12,"……まあ、そんな姿のとうだいもりも
+見てみたい気もするがの。","……嘛，那种模样的灯塔守，
+老身倒也有点想瞧一瞧呢。",translated,妮莉库,2305f80c2e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#44#12,意外と似合いそう,感觉意外地会很合适呢,translated,,9c4903bb5e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#45#12,おしゃれなイオンの方が好き,我更喜欢时髦的伊欧,translated,,12fa9ea775,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#47#12,そうじゃろそうじゃろ？,就是吧就是吧？,translated,妮莉库,6b2b233ab2,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#48#12,"元々おしゃれが苦手と言ってはいたが、
+お前さんの前ではおしゃれな服しか
+着ておらんからの。","虽然她嘴上总说不擅长打扮，
+但在你小子面前，
+她可是一直都穿着时髦漂亮的衣服呢。",translated,妮莉库,b05247ac47,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#49#12,"我も一度地味な……俗に言う、もっさい服を
+着たとうだいもりの姿も見てみたくてのぅ。","老身也挺想瞧瞧她穿上朴素……
+俗称土气的衣服时是个什么样子呢。",translated,妮莉库,a062fe5e33,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#50#12,"まあ、そんな物を着せたら喜々として
+部屋に引きこもり、一日中機械作りに
+熱中しそうではあるが……。","不过，要是真让她穿上那些衣服，
+她大概会欢天喜地窝在房间里，
+一整天都沉迷于做机械吧……",translated,妮莉库,f882b44477,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#53#12,"なんとっ！？
+平然と好きなどと言ってしまうとは、
+恥ずかしい奴め！","什么嘛！？
+居然能脸不红心不跳地说喜欢，
+你这不知害臊的家伙！",translated,妮莉库,d999f9a69c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#54#12,"まあ、お前さんが今のおしゃれな
+とうだいもりを好いているというのは
+よくわかったぞぃ。","嘛，你小子喜欢现在这个
+会打扮的灯塔守的心情，
+老身倒是完全体会到了。",translated,妮莉库,4ff14daaca,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#55#12,"……ただ、我とのデート中に
+とうだいもりを好きというのは、
+少々デリカシーに欠けるのぅ？","……只是，在陪老身约会的时候
+说喜欢灯塔守，
+是不是有点太不知趣了呢？",translated,妮莉库,f3799ad9c9,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#56#12,"んっふっふ、まあ許してやろう。
+大人のレディである我は、余裕を
+たっぷりと持っておるからな。","唔呼呼，算了，老身就原谅你吧。
+毕竟作为成熟淑女的老身，
+心胸可是相当宽广的。",translated,妮莉库,f491a0ec1a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#59#12,しかし、服か……。,不过，衣服啊……,translated,妮莉库,5741935246,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#60#12,我もたまにはおしゃれをしてみたいのぅ？,老身偶尔也想好好打扮一番呢？,translated,妮莉库,db9427683e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#61#12,"ほれ、そこのブティックに並んでおる
+小奇麗なワンピースなどどうじゃろう？","瞧瞧，摆在那个精品店里的
+漂亮连衣裙，你觉得怎么样？",translated,妮莉库,deb65a1835,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#62#12,着てるところを見てみたい,很想看看您穿上的样子呢,translated,,d568d0b4c7,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#63#12,もっとマニアックな服を着てほしい,希望能穿些更小众狂热的服装,translated,,e3693c9dd9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#66#12,"んっふっふ、ようやくデートらしい
+雰囲気になって来たのぅ？","唔呼呼，总算有那么点
+约会的气氛了嘛？",translated,妮莉库,7cfdd27b89,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#67#12,"我もできれば見せてやりたいところ
+なのじゃが……今日はお預けじゃ。","老身其实也挺想穿给你看的，
+不过……今天就先保留吧。",translated,妮莉库,68c6019e5f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#68#12,"いや、我の方から言っておいてなんだが、
+その、あれじゃよ……。","不，虽然是老身自己提起的，
+但那个、怎么说呢……",translated,妮莉库,182f8fa237,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#69#12,"ワンピースのような可愛い系の服は、
+着たことがなくての……。
+ぶっちゃけ、恥ずかしくて……。","像连衣裙这种偏可爱的衣服，
+老身从来没穿过……
+说老实话，怪不好意思的……",translated,妮莉库,5f8c987d75,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#70#12,"え、ええい、これ以上言わせるでない！
+レディをからかうのはマナー違反じゃぞ！","哎、哎呀，别让老身再往下说了！
+拿淑女寻开心可是一点礼貌都没有哦！",translated,妮莉库,39ed031d43,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#74#12,"ほほぅ……つまりそういうのがお前さんの
+好みというわけじゃな？","嗬嗬……也就是说你小子
+好的是这一口啊？",translated,妮莉库,ba9dd4b90d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#75#12,"絶対に体操服とブルマは作らぬよう、
+とうだいもりに釘を刺しておくとしよう。","老身可得好好给灯塔守打个预防针，
+让她绝对不要做体操服和运动短裤。",translated,妮莉库,df549057dd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#76#12,"いや、メイド服やスク水かのぅ？
+何にせよ、忘れずに警告させてもらうぞ。","还是说女仆装和学校泳衣呢？
+不论是哪种，老身都会记得警告她的。",translated,妮莉库,c5b2c2bcac,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#79#12,"ふぅ……しかしこう店が多いと、
+見て歩くだけでかなり疲れるのぅ？","呼……不过商店这么多，
+光是边走边看就挺累人的呢？",translated,妮莉库,d4626416f3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#80#12,"今日はもう帰るとしよう。
+正直、ヘトヘトじゃ……。","今天就先回去吧。
+说实话，老身已经筋疲力尽了……",translated,妮莉库,ebcbaa1a4e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#82#12,ほい、ただいまじゃ。,好啦，老身回来喽。,translated,妮莉库,b9aa28b753,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel04a.txt#83#12,"いや～、しかしおしゃれな店というのは
+見ていてわくわくするものじゃな。","哎呀～，不过那些时髦别致的店铺，
+光是看着就让人心情雀跃呢。",translated,妮莉库,f8dad1648e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#84#12,"我の店も、少し模様替えしてみるのも
+良いかもしれんの。","老身的店，稍微重新布置一番
+说不定也挺不错的。",translated,妮莉库,daa5c05f69,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel04a.txt#85#12,"まあ、やるやらないは別にして、
+そういう計画を立てるだけでも
+面白そうじゃ。","嘛，不管做不做，
+光是做做这方面的计划
+似乎就挺有意思的。",translated,妮莉库,9b171b0d95,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#86#12,"付き合ってくれたこと、感謝するぞ。
+また次も楽しいデートになるのを
+期待しておるぞぃ。","今天多谢你陪老身走这一趟啦。
+下一次老身可也期待着
+能是一场愉快的约会哦。",translated,妮莉库,2864faf852,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel04a.txt#87#12,では、またな。,那么，下次再见啦。,translated,妮莉库,7f2b96df24,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#2#12,<CLBU>んっふっふ……ちゃんとおったようじゃな。,<CLBU>唔呼呼……看来你小子确实在呢。,translated,妮莉库,abbbc2a7ec,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/nelico_dateevent/date_nel05a.txt#3#12,"今日はデートに行こうと思うのじゃが、
+お前さん、都合の方はどうじゃ？","老身今天想去约个会，
+你小子方便奉陪吗？",translated,妮莉库,9a8fc6c788,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#4#12,大丈夫です,没问题,translated,,87a4d24d04,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#5#12,ちょっと忙しくて,稍微有点忙,translated,,596fcdf31e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#7#12,"ふむ、忙しいのか……。
+それなら無理には誘わんよ","唔，很忙吗……
+既然这样老身也就不勉强你了。",translated,妮莉库,6a77c5f243,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#8#12,"まあ、何も今日慌てて行かなくてはならない
+場所でもないからの。","反正也不是什么非得今天
+急着去的地方。",translated,妮莉库,b91f6e4442,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#9#12,"お前さんが暇な時に、ゆっくり行くと
+しようではないか。","等你有空闲的时候，
+咱们再去慢慢逛吧。",translated,妮莉库,1d8b0bb131,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#10#12,"と、いうわけで我は帰らせてもらうぞ。
+ではの、さらばじゃ！","那么，老身这就打道回府啦。
+回见，告辞！",translated,妮莉库,7f143bec0f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#15#12,ふぅ……賛成してもらえて安心したぞ。,呼……你能答应老身就放心啦。,translated,妮莉库,0c26c621a3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#16#12,"何といっても、今日行こうとしている
+場所だが……。","毕竟今天打算去的地方，
+怎么说呢……",translated,妮莉库,ff260de80c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#17#12,"いや、ここで言う必要はないな。
+早速出発して、その目で確かめるのじゃ！","不，用不着在这儿说。
+咱们这就出发，用你自己的双眼去确认吧！",translated,妮莉库,d388504b29,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#19#12,んっふっふ……ビックリしたかの？,唔呼呼……吓了一跳吧？,translated,妮莉库,edd47db935,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#20#12,"本日のデートは、教会じゃ。
+ドキドキしても構わんぞ。","今天的约会地点，是教堂哦。
+你就算心跳加速也无所谓啦。",translated,妮莉库,5748fd5314,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#21#12,しかし、教会か……。,不过，教堂啊……,translated,妮莉库,45ffc3f97b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#22#12,"今更かもしれんが、デートで教会に来て
+何が楽しいのじゃ？","事到如今说这个可能有点晚，
+不过来教堂约会有什么好玩的啊？",translated,妮莉库,af6fd639ba,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#23#12,"娯楽も何もなければ、博物館のように
+展示物があるわけでもないというのに。","既没有任何娱乐活动，
+又不像博物馆那样有展品可看。",translated,妮莉库,8863b45875,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#24#12,ねりこさんがくれたカードですよ？,这可是奈莉子小姐给的卡片哦？,translated,,f0964cd45e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#25#12,何度来てもドキドキするのがいい,无论来多少次都能小鹿乱撞，这点很好,translated,,0c40701386,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#27#12,"それはそうなんじゃが……
+まさか、頻繁に通うとは思わなくてな。","话虽如此……
+但老身可没想到你们会这么频繁地来啊。",translated,妮莉库,2b112b5124,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#28#12,"何か特別な時にだけ行くのかと思いきや、
+意外と頻繁に足を運ぶであろう？","老身本以为你们只在特别的时候才去，
+没想到意外地经常往这儿跑吧？",translated,妮莉库,fc0cab7def,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#29#12,"まさか、普通のデートコースの一つとして
+使うとは思いもしなかった……。","老身真是万万没想到，
+你们居然会把它当成普通约会路线之一……",translated,妮莉库,8958268c5f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#30#12,"まあ、とうだいもりはお前さん以外とは
+デート経験などないであろうからな。","嘛，毕竟灯塔守除了你小子以外，
+肯定也没有过别的约会经验嘛。",translated,妮莉库,8f242dba9c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#31#12,"これについては、最初に注意をしなかった
+我の責任かもしれんな。","关于这点，或许打一开始没有提醒你们的
+老身也有责任吧。",translated,妮莉库,363e23c50b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#34#12,"……お前さん、とうだいもりと同様に
+意外とロマンチストじゃの？","……你小子跟灯塔守一样，
+意外地是个浪漫主义者呢？",translated,妮莉库,91457bc2a3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#35#12,何度来てもドキドキ……我にはわからん。,无论来多少次都心跳加速……老身真搞不懂。,translated,妮莉库,aeea0bd4b8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#36#12,"まあ、ウエディングドレスを着ながら、
+となれば話は別じゃがな。","嘛，要是穿上婚纱的话，
+那倒另当别论了。",translated,妮莉库,c9b864c830,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#37#12,"とはいえ、まさかウエディングドレスで
+教会デートをしようなどと考えるものは
+いないと思うが……。","话是这么说，但老身觉得
+应该没人会想要穿着婚纱
+来教堂约会吧……",translated,妮莉库,caf7df66c9,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#38#12,"……いや、とうだいもりならいつか
+やらないとも限らんな。
+なんせ、とうだいもりじゃし……。","……不，要是灯塔守的话，
+保不准哪天真就干得出来呢。
+毕竟是那个灯塔守嘛……",translated,妮莉库,2b662adba9,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#40#12,"……とうだいもりの話をしてて
+思い出したのじゃが……。","……提起灯塔守，
+老身倒是想起来了……",translated,妮莉库,4a36f9575c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#41#12,"やはり、デートで教会に来るのは
+やめた方がよかったかのぅ？","果然，来教堂约会这种事，
+当初还是别来比较好吗？",translated,妮莉库,5ddfb3ae64,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#42#12,"いや、別に式を挙げるわけでもなければ
+愛を語りに来てるわけでもないのだが、
+やはり教会は特別な場所であろう？","不，虽然咱们既不是来办结婚仪式，
+又不是来倾诉爱意，
+但教堂毕竟是个特别的地方吧？",translated,妮莉库,7d7331571a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#43#12,"そんな場所に我とお前さんで来るのは、
+とうだいもりに少々申し訳ない気が
+してくるのじゃが……。","你小子和老身跑到这种地方来，
+总觉得稍微有点
+对不住灯塔守呢……",translated,妮莉库,a818bc0a07,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#44#12,愛を語るわけじゃないから大丈夫,又不是来谈情说爱的，没关系啦,translated,,d46e18262c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#45#12,ねりこさんが相手なら疑われないはず,如果对象是奈莉子小姐，肯定不会被怀疑的,translated,,f5487a1a8c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#47#12,ふむ……まあ、確かにそうじゃな。,唔……嘛，确实如此呢。,translated,妮莉库,4df032d6c4,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#48#12,"それに、お前さんととうだいもりほど、
+初々しくもラブラブな会話をするでも
+ないのだし……。","再说咱们又不会像你和灯塔守那样，
+去聊那些青涩又
+甜甜蜜蜜的悄悄话……",translated,妮莉库,007ddee830,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#49#12,"ここに来た最初の頃のお前さん達は、
+本当に見てて楽しかったぞぃ。","刚来这儿那阵子的你们俩，
+看在老身眼里可真是有趣得紧呐。",translated,妮莉库,c805f57dd0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#50#12,"まさかまともに喋れなくなるほど、
+緊張してしまうとは……初々しいのぅ、
+んっふっふ……。","居然能紧张到连话都说不利索……
+真是青涩稚嫩呐，
+唔呼呼……",translated,妮莉库,c27e06757e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#53#12,"な、何だか微妙に失礼なことを
+言われている気がするのじゃが……。","总、总觉得老身好像
+被微妙地冒犯到了呢……",translated,妮莉库,40611f45a7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#54#12,"まあ、お前さんの言うことも
+一理あるのは確かじゃ。","嘛，不过你小子说的
+也确实有一番道理。",translated,妮莉库,b5d26c017d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#55#12,"我ほどの完璧なレディが、お前さんに
+本気になるなどと、誰も思うまい。","谁也不会认为像老身这么完美的淑女，
+会对你小子动真格的嘛。",translated,妮莉库,f3c9fdd962,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#56#12,事実、恋愛感情は抱いておらんからの。,事实也是如此，老身可没抱什么恋爱感情。,translated,妮莉库,bbbde0d95c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#57#12,"んっふっふ……ちょっとガッカリさせて
+しまったかのぅ？","唔呼呼……是不是让你小子
+稍微有点失望啦？",translated,妮莉库,0f2b67f148,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#59#12,"まあ何であれ、我たちのデートに
+この場所を使うのは、程々にしておこう。","嘛，不管怎样，咱们约会选这个地方，
+还是适可而止比较好。",translated,妮莉库,181ad70ed4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#60#12,"とうだいもりがどう思うかは関係なく、
+我のとうだいもりへの義理というのかの？","不管灯塔守会怎么想，
+这也算是老身对她的一种义气吧？",translated,妮莉库,65c1c5f165,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#61#12,"一箇所ぐらい、お前さん達だけの
+特別な場所にしてやりたいからな。","至少老身也想给你们留一个
+专属于你们两人的特别之地嘛。",translated,妮莉库,89cad0f55a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#62#12,じゃあ代わりに温泉行きましょう,那作为替代咱们去温泉吧,translated,,ef40de3146,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#64#12,"温泉とカフェは色々あって無理じゃ。
+前に話さなかったかの？","温泉和咖啡厅由于种种原因去不了啦。
+老身之前没跟你提过吗？",translated,妮莉库,30d37b3929,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#65#12,"というよりも、恋人以外と温泉に行くのは、
+さすがに浮気確定になると思うからの。","更何况，跟恋人以外的人去泡温泉，
+怎么看都绝对算是出轨了吧。",translated,妮莉库,e71e0b95ef,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#66#12,"そこも教会同様、お前さんととうだいもりの
+特別な場所ということにしておけ。","那里也跟教堂一样，
+老身就当成属于你和灯塔守的特别之地吧。",translated,妮莉库,30ac12ee6f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#67#12,カフェに関しては、まあ、あれじゃな。,至于咖啡厅嘛，怎么说呢。,translated,妮莉库,dd7aeb79e0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#68#12,"ハイカラ過ぎるメニューは我の好みには
+合わぬ、と思えば諦めもつくじゃろ？","你就当成是那些菜单太过洋气不合老身口味，
+趁早死了这条心吧？",translated,妮莉库,b8bc28e425,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#69#12,"そういうわけじゃから、我との教会デートは
+これでしばらくはお預けじゃ。","正因如此，跟老身的教堂约会
+暂时就先告一段落啦。",translated,妮莉库,bac320f242,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#70#12,"さてと、いい加減見るところもなくて
+飽きてしまったわ。","好啦，这里实在没啥看头，
+老身都有些看腻了。",translated,妮莉库,c046c57f15,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#71#12,さっさと帰るとしよう。,咱们赶紧打道回府吧。,translated,妮莉库,ecb3a03fc5,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#73#12,いや～、まったくドキドキせんかったな！,哎呀～，真是一点都没心跳加速呢！,translated,妮莉库,49e1b31c18,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel05a.txt#74#12,"やはり教会はそれなりに恋愛感情を
+抱いている者同士でなければ、
+盛り上がりに欠けるみたいじゃ。","看来教堂这种地方，要是没有恋慕之心的
+两个人一起去，
+气氛果然还是炒热不起来呢。",translated,妮莉库,f63e2e74c8,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel05a.txt#75#12,"とはいえ、とうだいもりとの教会デートでは
+ありえない雰囲気を楽しめたであろう？","不过，你也体验到了平时跟灯塔守
+来教堂约会绝不可能有的气氛吧？",translated,妮莉库,5ab9396e33,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#76#12,"今度行く時も、今日のようなドキドキしない
+教会デートを目指してみようかの。","下次要是再去，老身也试着以
+今天这种毫不心跳的教堂约会为目标吧。",translated,妮莉库,cac3a3b751,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#77#12,"まあ、お前さんにとっては少々ガックリ来る
+目標かもしれんがな。","嘛，对你小子来说，
+这个目标或许会让人有点泄气就是了。",translated,妮莉库,4cd25b6197,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#78#12,"とはいえ、ドキドキデートは
+とうだいもりの十八番じゃ。","不过，令人心跳加速的约会
+可是灯塔守的拿手好戏。",translated,妮莉库,091d41231a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#79#12,"ドキドキしたいのであれば、
+とうだいもりを誘うんじゃな。","要是想小鹿乱撞的话，
+就去约灯塔守吧。",translated,妮莉库,36650dffae,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel05a.txt#80#12,"では、我は帰るとしよう。
+お前さんも、次の時まで生きておれよ。","那么，老身就先告辞啦。
+你小子在下次见面之前可要好好活着哦。",translated,妮莉库,05d698338f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#2#12,<CLBU>おおっ、ちゃんとおったな。,<CLBU>哦哦，你小子确实在呢。,translated,妮莉库,bea986ea93,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel06a.txt#3#12,"今日はデートに出かけたい気分なんじゃが、
+お前さん、時間はあるかの？","老身今天挺想出去约个会的，
+你小子有时间吗？",translated,妮莉库,c324a58816,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#4#12,もちろんです,当然有,translated,,35cead0c04,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#5#12,すいません、今日はちょっと……,不好意思，今天稍微有点……,translated,,e26ef47ad3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#7#12,むむっ、タイミングが悪かったかのぅ？,唔唔，看来赶的时间不凑巧呢？,translated,妮莉库,c2ef5156e8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#8#12,"まあ、そういう日もあるか。
+また別の日に出直すとしよう。","嘛，也有这种日子嘛。
+老身改天再来找你便是。",translated,妮莉库,b9dbe81a22,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#9#12,では、またな。,那么，下次再见啦。,translated,妮莉库,7f2b96df24,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#14#12,おぉっ、いい返事じゃ。,哦哦，答得痛快。,translated,妮莉库,f628c08aec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#15#12,"そうと決まれば、早速出発しよう。
+目的地は着くまでのお楽しみじゃ。","既然决定了，那就赶紧出发吧。
+目的地在到达之前就先保密喽。",translated,妮莉库,a9c5e7d90c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#17#12,"んっふっふ、今日はこの縁日での
+デートを楽しむとしよう。","唔呼呼，今天就来好好享受
+在这场庙会上的约会吧。",translated,妮莉库,4197a47ad9,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#18#12,"まあ、我もとうだいもり同様、
+浴衣は着ていないのじゃがな。","嘛，虽说老身和灯塔守一样，
+都没有穿浴衣就是了。",translated,妮莉库,f0d6be7c65,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#20#12,"しかし、縁日というのはレディにとっては
+危険な場所かもしれんのぅ？","不过，庙会对于淑女来说
+搞不好是个危险的地方呢？",translated,妮莉库,9292d0e422,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#21#12,"この屋台から漂う食欲を誘う香り……
+我もつい引き寄せられてしまいそうじゃ。","从小吃摊飘来的诱人香气……
+连老身都忍不住要被吸引过去了呢。",translated,妮莉库,a61905e648,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#22#12,まあ、値段を見ると大抵冷めるのじゃがな。,不过，一看到标价往往就瞬间下头了。,translated,妮莉库,978e51400d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#23#12,こういう時くらいいいじゃないですか,这种时候破个例又有何妨呢,translated,,9d7f6d4238,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#25#12,そうは思うのじゃが、我は経営者じゃ。,老身也是这么想的，但老身毕竟是掌柜嘛。,translated,妮莉库,7ba5766bd5,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#26#12,"経営者である以上、どんなものであれ
+商品には原価というものがあるのを
+まず考えてしまってな。","既然是掌柜，无论看到什么商品，
+脑子里首先浮现出的
+都是成本和进价呢。",translated,妮莉库,96bb5ed736,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#27#12,"そのせいか、一般の者達よりも財布の紐が
+硬くなってしまったのじゃよ。","或许是这个缘故吧，老身的荷包
+比一般人捂得还要紧呢。",translated,妮莉库,21e1e59ea4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#28#12,"原価を知れば得することもあるが、
+こういう時は凄く損をした気持ちになる。","虽然清楚成本也有占便宜的时候，
+但这种时候只觉得亏得厉害呢。",translated,妮莉库,d814ee13f2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#29#12,"……っと、いかんいかん。
+こんな話、デートの時にしてはいかんな。","……哎呀，不行不行。
+在约会的时候可不能聊这种话题呢。",translated,妮莉库,a85a7f1a53,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#30#12,"とうだいもりとのデートほどではなくとも、
+それなりにラブな香りのする会話をしようと
+思っておったのじゃが……。","虽说比不上你和灯塔守的约会，
+但老身原本也是打算聊点
+带有恋爱酸臭味的情话的……",translated,妮莉库,f7c7abdf12,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#31#12,勉強にはなってます,也算涨知识了呢,translated,,c85d4ad0b9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#32#12,ラブな会話はイオン専用だと思ってます,我觉得情话是伊欧专享的,translated,,b19100aa6e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#34#12,……お前さん、優しいやつじゃのぅ。,……你小子，还挺体贴的嘛。,translated,妮莉库,92abb9dec7,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#35#12,"まあ、ラブな会話は出来ないが、
+我との会話で何か学べるのであれば、
+我としても嬉しい限りじゃ。","嘛，虽然聊不成甜蜜情话，
+但只要能从老身的谈话里学到点东西，
+老身也是打心底里高兴的。",translated,妮莉库,0f8f9d788c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#36#12,"ここで身につけた知識を使い、
+今後のとうだいもりとのデートでも
+役立ててほしい。","希望你小子能活用在这里学到的知识，
+在以后和灯塔守的约会中
+派上用场。",translated,妮莉库,718462bf61,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#37#12,"……じゃが、原価の話はいかんぞぃ。
+デートの時にそのような会話はご法度じゃ。","……不过，可千万别提成本的话题哦。
+在约会的时候聊这个可是大忌呢。",translated,妮莉库,9b9b15ce8c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#40#12,"おぉっ！？
+突然のろけ発言をしおったな！？","哦哦！？
+突然就开始秀恩爱放闪了啊！？",translated,妮莉库,6c04150001,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#41#12,"まあ確かに、ラブな会話をしようにも
+我とお前さんの間には恋愛感情が
+あるわけではないからのぅ。","嘛确实也是，就算想聊些情话，
+老身跟你小子之间
+又不存在什么男女之情嘛。",translated,妮莉库,a7c57511cc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#42#12,"そういう会話はとうだいもりに任せて、
+我は普段通りにお前さんとの雑談を
+楽しませてもらうとしようかの。","那种对话还是留给灯塔守吧，
+老身就照平时的步调，
+好好享受跟你小子的闲聊好啦。",translated,妮莉库,cd3c940508,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#44#12,"とはいえ、我がラブな会話をしようと
+思ってしまうとは……。","话虽如此，老身居然会产生
+想要聊些甜蜜情话的念头……",translated,妮莉库,b7866f6133,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#45#12,"もしや、何度もデートをしているうちに、
+我も気づかぬうちにお前さんに対して
+愛を感じ始めているとか……。","难道说，在一次次约会之中，
+连老身自己都未曾察觉地
+对你小子萌生出了爱意……",translated,妮莉库,fb1cb01344,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#47#12,"いや、ないな。
+ありえんの一言じゃ。","不，绝不可能。
+一句话，绝对是天方夜谭。",translated,妮莉库,89f63e3d83,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#48#12,"お前さんと接吻しているところを
+想像してみたのじゃが、
+まったく胸がときめかん。","老身试着想象了一下
+和你小子接吻的画面，
+结果内心毫无波澜呢。",translated,妮莉库,ef106c4a82,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#49#12,"ドキッとはするのではないかと
+期待したのじゃが……。","老身还稍微期待过
+会不会心跳加速呢……",translated,妮莉库,e5c5b44b9c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#50#12,端末とのキスを想像したんじゃ？,您是想象着和终端亲吻吧？,translated,,1eb5889a27,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#51#12,想像したらドキドキしてきた,光是想象一下我就小鹿乱撞了,translated,,b8fac7e4c8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#53#12,"当然じゃろ？
+我の方からお前さんの顔は
+見えんのだからな。","这是自然吧？
+毕竟老身这边
+又看不见你小子的长相嘛。",translated,妮莉库,a76714ce85,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#54#12,"そもそもこのデートも、端末に語りかけ
+ながら歩いているだけなんじゃぞ？","更何况这场约会，也不过是
+老身一边对着终端说话一边散步而已啊？",translated,妮莉库,ff2be0ebbf,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#55#12,"……そう考えると、お前さんはズルイのぅ。
+そっちからは、我の顔も声もそのまま
+見て聞くことができるのじゃからな。","……这么一想，你小子可真狡猾呢。
+因为你那边不仅能看到老身的样貌，
+还能亲耳听到老身的声音嘛。",translated,妮莉库,f9ac1a55e0,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#58#12,"んっふっふ、想像であればいくらでも
+してくれて構わんぞぃ。","唔呼呼，如果只是脑内遐想的话，
+随便你怎么想都无所谓哦。",translated,妮莉库,f695be5a91,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#59#12,"ただ、我との接吻を想像した回数の三倍は、
+とうだいもりとの接吻を想像しなくては
+ならんぞ。","不过，只要你想象了一次和老身接吻，
+就必须去想象三次和灯塔守接吻
+才可以哦。",translated,妮莉库,f993a4a75c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#60#12,"あくまでもお前さんは、とうだいもりの
+恋人なのじゃからな。","毕竟你小子归根结底
+是灯塔守的恋人嘛。",translated,妮莉库,8315b6f066,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#63#12,"ふぅ……さて、少し早いが今日は
+そろそろ帰ろうと思うのじゃが……。","呼……好啦，虽然时间还有点早，
+但老身觉得今天差不多也该回去了……",translated,妮莉库,c0fb84406f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#64#12,えっ、もうですか！？,诶，这就回去了吗！？,translated,,9d27326651,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#66#12,"うむ、人も大分増えてきたのでな。
+正直、暑苦しいわ歩きづらいわで
+疲れてきてしまった。","嗯，人也渐渐多起来了。
+说实话，又闷热又难走，
+老身已经开始觉得累了。",translated,妮莉库,864738c41d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#67#12,"我は人混みが嫌いなのじゃよ。
+今度ここに来る機会があったら、
+人の数が少ない時がいい。","老身最讨厌人挤人了。
+下次要是还有机会来这里，
+还是挑人少的时候比较好。",translated,妮莉库,45fdad6ead,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#68#12,"と、いうわけじゃから、
+今日はもう帰るぞぃ。","所以说，
+今天咱们这就回去吧。",translated,妮莉库,d4c03025ae,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#69#12,では帰りましょう,那我们就回去吧,translated,,a6d66c9e93,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#70#12,もっとねりこさんを見ていたい,我还想多看一会儿奈莉子小姐呢,translated,,874b8e50a8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#72#12,うむ、聞き分けの良い子は大好きじゃぞ。,嗯，懂事的乖孩子老身最喜欢了。,translated,妮莉库,d8c8434b5f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#75#12,"お前さん、とうだいもりにも同じことを
+言っておったな？","你小子，也对灯塔守
+说过一模一样的话吧？",translated,妮莉库,b26350e19e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#76#12,"しかも見るだけでは飽き足らず、トントンや
+なでなでをしまくっておるではないか。","而且不仅光看着还不满足，
+还一个劲地戳戳摸摸个不停呢。",translated,妮莉库,b3d0bc549d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#77#12,"お前さんのことは嫌いではないが、
+そこまでサービスする気にはなれん。","老身虽然不讨厌你，
+但可没打算提供那么周到的杀必死哦。",translated,妮莉库,72dcfc753f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#78#12,というわけじゃから、ほれ、帰るぞ。,所以说，好啦，回去啦。,translated,妮莉库,8814168f8c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#81#12,ほい、ただいま。,好，老身回来啦。,translated,妮莉库,efc909cad3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel06a.txt#82#12,"しかし、縁日は本当に人が多くて
+疲れるのぅ……。","不过，庙会的人可真是多，
+真是累死人了呐……",translated,妮莉库,bac52cd9f0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#83#12,"次はもっと人の少ない場所か、
+多くても余裕を持って歩ける
+広い場所に行きたいもんじゃな。","下次还是去人少一点的地方，
+或者就算人多也能宽宽松松散步的
+开阔地方吧。",translated,妮莉库,1afd107cab,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel06a.txt#84#12,"とはいえ、お前さんとの会話は
+相変わらず楽しかった。","话虽如此，跟你小子的聊天
+还是一如既往地开心呢。",translated,妮莉库,752757612e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#85#12,"また次の時も、しっかりと我の相手を
+頼むぞぃ。","下次也拜托你小子
+好好陪老身解闷喽。",translated,妮莉库,aa191ace8a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel06a.txt#86#12,では、さらばじゃ！,那么，告辞啦！,translated,妮莉库,111bbd1f26,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#2#12,<CLBU>おお、ちゃんとおったな。,<CLBU>哦哦，原来你小子在啊。,translated,妮莉库,752c24949b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel07a.txt#3#12,"早速だが、どうじゃ？
+今日はデートにでも行ってみんかの？","开门见山地问一句，怎么样？
+今天有兴趣跟老身去约个会吗？",translated,妮莉库,79acb9ec20,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#4#12,準備は出来てます,准备万全了,translated,,45217f1a2e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#5#12,今日はちょっと……,今天稍微有点……,translated,,0a4a2e1b34,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#8#12,"むぅ……都合が悪いらしいな。
+それでは仕方がない。","唔……看来你小子脱不开身啊。
+那也没办法了。",translated,妮莉库,c93716065b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#9#12,"時間を気にして慌しいデートになっては、
+ちゃんと楽しめるとも思えんからの。","要是老惦记着时间，搞得约会匆匆忙忙的，
+老身觉得也玩不尽兴嘛。",translated,妮莉库,1405f17665,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#10#12,"日を改めて誘いに来る。
+今度の時にはちゃんと時間を
+空けておくのじゃぞ。","老身改天再来约你。
+到时候你小子可得好好把时间
+腾出来哦。",translated,妮莉库,b4a03dc246,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#15#12,おおっ、さすがはお前さんじゃ！,哦哦，真不愧是你小子！,translated,妮莉库,1672a8ac9c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#16#12,"ではこうしていても時間が勿体ない。
+早速出発するとしよう。","那干待在这儿也是浪费时间。
+咱们这就出发吧。",translated,妮莉库,ad3b226e9a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#18#12,んっふっふ、今日の場所は学校じゃ！,唔呼呼，今天的地点是学校哦！,translated,妮莉库,785eb2e240,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#20#12,せんぱ～い、端末せんぱ～い！,学～长，终端学～长！,translated,妮莉库,9c024218be,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#21#12,"ねりこ、これからお昼ご飯なんですけど、
+一緒に食堂に行きませんか？","奈莉子现在要去吃午饭，
+要不要一起去食堂呀？",translated,妮莉库,f009f0a4d6,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#22#12,"あっ、それともせんぱいは購買派ですか？
+それなら急がないと、焼きそばパン
+売り切れちゃいますよ？","啊，还是说学长是小卖部派？
+那样的话不快点去，
+炒面面包就要卖光了哦？",translated,妮莉库,37a2e1f90c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#23#12,ねりこさん、突然どうしたの！？,奈莉子小姐，突然这是怎么了！？,translated,,9b9e5cd7f1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#24#12,そこは手作り弁当だろ！？,那种时候一般都该是亲手做的便当吧！？,translated,,1e54e3c7fd,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#26#12,"いや、せっかく学校などという
+特殊な場所に来ておるのじゃ。","哎呀，毕竟难得来到了学校这种
+特别的场所嘛。",translated,妮莉库,9c178ca4e5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#27#12,"それなりに場所にあったことを
+言った方が、お前さんも喜ぶと
+思ったのじゃが……。","老身想着挑些
+应景的话来说，
+你小子应该也会高兴才对的……",translated,妮莉库,252290e0d4,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#28#12,"……やはり、一途で純情天真爛漫系後輩娘を
+演じるのは、我には少々無理だったか。","……果然，要老身扮演专一纯情
+天真烂漫系的学妹，还是有点太勉强了吗。",translated,妮莉库,ee0b8fb511,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#29#12,"ここはナイスバディで後輩をからかう、
+明るい先輩キャラで行くべきだったかのぅ？","难道老身应该走身材火辣、爱捉弄后辈的
+开朗学姐路线才对吗？",translated,妮莉库,1eccb3a511,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#32#12,なっ！？,什、什么！？,translated,妮莉库,112fce482a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#33#12,く～っ、言われてみれば確かにそうじゃ。,咕～，经你这么一说确实如此啊。,translated,妮莉库,b1cce513a6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#34#12,昼を誘いにくる後輩娘を演じるならば……。,如果要扮演来约吃午饭的学妹……,translated,妮莉库,cb4d99463d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#35#12,"せんぱ～い、お弁当持ってきましたよ～。
+今日は先輩の好きなから揚げを三つも
+入れてきました、きゃっ♪","学～长，我带了便当过来哦～。
+今天特意装了三个学长最喜欢的炸鸡块呢，
+呀～♪",translated,妮莉库,9f44161a57,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#36#12,"とかやっておくべきじゃった！
+く～っ……我、一生の不覚！","老身刚才就该这么演才对！
+咕～……老身一生的失策啊！",translated,妮莉库,5402bcb38b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#38#12,……いや、待てよ？,……不对，等等？,translated,妮莉库,0f169b2d53,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#39#12,"そもそも、我はどうして後輩キャラを
+選択したのじゃろうか？","话说回来，老身打一开始
+为什么会选择学妹角色啊？",translated,妮莉库,e40558f277,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#40#12,"普通に考えれば我ならば先輩……
+いや、教師ではないか？","照常理来想，老身怎么也该是学姐……
+不对，应该是老师才对吧？",translated,妮莉库,7c1f84ce81,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#41#12,"うむ、そうじゃ。
+そっちの方が我にピッタリじゃ。","嗯，没错。
+那个设定才更适合老身嘛。",translated,妮莉库,a5c71cdf2d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#42#12,お前さんもそうは思わぬか？,你小子难道不这么觉得吗？,translated,妮莉库,f28cda5ed8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#43#12,保険医でお願いしますよ,请务必扮演校医啊,translated,,5fe4d113aa,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#44#12,学食のおばちゃんとかは？,食堂大妈之类的怎么样？,translated,,42d3170211,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#46#12,んっふっふ、言うと思ったわ。,唔呼呼，老身就猜到你会这么说。,translated,妮莉库,3624bdb037,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#47#12,"やはりあれか、あれじゃろ？
+昼下がりの静かな保健室、具合が悪くて
+ベッドに横たわるお前さん。","果然是那个吧，肯定是那个吧？
+午后静谧的医务室里，身体不适
+正躺在病床上的你小子。",translated,妮莉库,990c0497fb,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#48#12,"その様子を見にベッドに近寄り、
+白衣を着た保険医の我。","走近床边查看你情况的、
+身穿白大褂的校医老身。",translated,妮莉库,0964d3236f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#49#12,そっと額に触れる、ひんやりとした我の手。,轻轻贴上你额头的，老身那冰凉的手。,translated,妮莉库,3e75d4c8eb,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#50#12,"ふと目を開けると、目の前には顔色を
+見るために屈みこんでいた我の顔が！","蓦然睁开双眼，眼前正是为了观察气色
+而俯下身来的老身的脸庞！",translated,妮莉库,50e159fe6c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#51#12,"く～っ、王道じゃな！
+さすがはお前さん、よくわかっておる！","咕～，这可真是王道啊！
+真不愧是你小子，很懂嘛！",translated,妮莉库,e0785b7020,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#54#12,……お前さん、マイナーにも程があるぞ？,……你小子选的也未免太小众了吧？,translated,妮莉库,e1f1cbb423,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#55#12,"しかし、店を経営しておる我には、
+教師よりもそっちの方が似合ってはいるな。","不过，对于开店做生意的老身来说，
+比起当老师，反而是那个更相称呢。",translated,妮莉库,8df14f820a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#56#12,"じゃが、我はおばちゃんと呼ばれるような
+年齢でも外見でもない！","但老身无论年龄还是长相，
+可都还没到会被叫作大妈的程度！",translated,妮莉库,6dbd8e093e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#57#12,それだけは忘れるでないぞ。,只有这点你可千万别忘了。,translated,妮莉库,d41129c5c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#59#12,"……と、いかんいかん。
+つい夢中になって盛り上がってしまった。","……哎呀，不行不行。
+不知不觉就兴奋过头了。",translated,妮莉库,dca53e6d2f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#60#12,"ほれ、周囲の学生もこちらを見ておるぞ。
+悪目立ちをしてしまったようじゃ。","瞧啊，周围的学生都在看这边呢。
+好像有点引人注目了呢。",translated,妮莉库,264fb5e628,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#61#12,"……そういえば、お前さんの方からも
+周囲の人間の姿が見えておるのか？","……说起来，你小子那边
+也能看见周围那些人的模样吗？",translated,妮莉库,cad469c6be,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#62#12,ねりこさんしか見えない,我只能看见奈莉子小姐,translated,,31c99bd32e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#63#12,君しか見えない,我的眼里只有你,translated,,435ec522f3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#65#12,ふむ、そうじゃったか……。,唔，是这样啊……,translated,妮莉库,fcfd0e68f0,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#66#12,"周囲の視線を感じるのもデートの
+楽しみの一つなんじゃが、それを
+味わえないというのは勿体ないのぅ。","感受周围人的视线也是约会的
+乐趣之一呢，无法体会到这一点
+未免有些太可惜了。",translated,妮莉库,090fe02d11,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#67#12,"まあ、デート中に他の娘に目が行くような
+事態にならないことを考えると、
+見えなくて良かったのかもしれんがな。","嘛，考虑到这样就不会发生约会途中
+你的视线飘到别的女孩子身上的情况，
+看不见说不定反而是件好事呢。",translated,妮莉库,9e274a9392,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#68#12,"お前さんは、デート中でも可愛い子が
+目に入ると、ついそっちに視線が泳ぐ
+タイプに思えるしのぅ？","毕竟在老身看来，你小子就算在约会，
+只要视野里出现可爱的女孩子，
+眼神就会忍不住游移过去呢？",translated,妮莉库,68ed430642,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#71#12,"おぉっ、また随分と上手い返し方を
+してくるではないか。","哦哦，回答得还真是一如既往的
+巧妙漂亮呢。",translated,妮莉库,b9d5023372,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#72#12,"普通に見えないと言われるより、
+何となく口説かれておる気分がして
+嬉しくなってくるのぅ。","比起被直白地说看不见，
+这听上去倒更像是在撩拨老身，
+让人不由得心情大好呢。",translated,妮莉库,0d99a8579f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#73#12,"まあ、とうだいもりの恋人を取るような
+真似は、間違ってもせんがな。","嘛，不过横刀夺爱抢走灯塔守的恋人
+这种事，老身无论如何也是干不出来的。",translated,妮莉库,19d0700ddd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#76#12,"おっと、いかんいかん。
+そろそろ時間じゃな。","哎呀，不行不行。
+差不多到时间了呢。",translated,妮莉库,88d8d4226c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#77#12,"あまり長居してはとうだいもりが
+帰ってきてしまう。
+今日はもう帰るとしようかの。","逗留太久的话灯塔守就要回来了。
+今天差不多就回去了吧。
+咱们走吧。",translated,妮莉库,b3704fe66c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel07a.txt#79#12,ほい、ただいまじゃ。,好啦，老身回来啦。,translated,妮莉库,b9aa28b753,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#80#12,しかし、学校か……。,不过，学校啊……,translated,妮莉库,652fba769e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel07a.txt#81#12,"我とお前さんでは学校でデートをしても、
+楽しめないと思っておったのじゃが……。","老身本以为就凭老身和你小子在学校约会，
+是不会觉得有什么意思的……",translated,妮莉库,a6d0c9ce3c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#82#12,"しかし行ってみると、意外と会話も
+盛り上がって楽しめたの。","可实际去了一趟，气氛意外地很热烈，
+老身玩得挺尽兴的呢。",translated,妮莉库,89636c41a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#83#12,"次も今日くらい楽しめたら嬉しいのぅ？
+お前さんのトークにも期待しておるぞ。","下次要是也能像今天这么开心就好了呢？
+老身也期待着你小子能更会聊天哦。",translated,妮莉库,e4d0c36d3b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel07a.txt#84#12,では、またな。,那么，下次再见啦。,translated,妮莉库,7f2b96df24,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#2#12,<CLBU>ボンジュ～ル、ちゃんと生きておるな？,<CLBU>崩啾～，还好好活着呢吧？,translated,妮莉库,a8c9fd838f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel08a.txt#3#12,"ちゃんと生きておった記念に、
+今日はデートに行こうと思うのじゃが……。","为了纪念你小子还好好活着，
+老身今天想去约个会，如何啊……",translated,妮莉库,afb3592151,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#4#12,生きてて良かった、さあ行こう！,还活着真是太好了，走起！,translated,,6e0d7de558,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#5#12,今日は忙しくて……,今天有点忙……,translated,,670fa63299,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#8#12,むぅ、バッドタイミングじゃな。,唔，时机真是不巧呐。,translated,妮莉库,ded5426513,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#9#12,"まあ、こういう日もあるか。
+ではまた出直すとしよう。","嘛，也有这种日子嘛。
+那老身改天再来找你吧。",translated,妮莉库,35164f15cd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#10#12,"忙しいのはわかるが、倒れぬ程度に
+頑張るのじゃぞ～。","忙归忙，你可要在别累垮身体的限度下
+好好加油哦～。",translated,妮莉库,f418dcb1d0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#15#12,"んっふっふ、そうじゃろそうじゃろ？
+生きておれば、これからも良いことが
+わんさかさっさじゃぞぃ。","唔呼呼，是吧是吧？
+只要活着，今后好事情
+可是一抓一大把呢。",translated,妮莉库,1d2ccfba24,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#16#12,というわけで、早速出発じゃ！,所以说，咱们这就出发吧！,translated,妮莉库,9fc477a068,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#18#12,"んっふっふ、今日はデートスポットの王道、
+水族館じゃぞぃ。","唔呼呼，今天去的是约会地点的王道，
+水族馆哦。",translated,妮莉库,b6e4735157,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#20#12,"実はこの場所、我も個人的に
+よく来る場所なんじゃ。","其实这个地方，老身私底下
+也是经常会来的呢。",translated,妮莉库,86d7fb7517,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#21#12,ほれ、水槽の上の方が見えるかの？,瞧，你能看到大水槽的上方吗？,translated,妮莉库,d5d69bbd39,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#22#12,"我はいつもそこに座り、のんびりと
+釣竿を垂らすのが好きなんじゃよ。","老身总是喜欢坐在那上面，
+悠闲自在地垂下钓竿钓鱼呢。",translated,妮莉库,68a51e9f6e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#23#12,"釣りは良いぞ。
+静かに考え事をするには最適じゃ。","钓鱼可真是个好活动。
+最适合安安静静地思考事情了。",translated,妮莉库,ec41851812,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#24#12,"それに、腹が空けば新鮮な魚介類が
+食い放題じゃからのぅ。","而且，肚子饿了的话还有新鲜的海鲜
+可以敞开肚皮随便吃呢。",translated,妮莉库,b4bd5b190d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#25#12,水族館の魚を食べたの！？,你吃了水族馆里的鱼！？,translated,,cb2643f5b7,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#26#12,釣り、やってみようかな？,钓鱼啊，我也试着玩玩看吧？,translated,,80430488af,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#28#12,"うむ、珍しい魚が釣れた時は、
+即串焼きじゃ！","嗯，钓到稀罕的鱼时，
+当场就穿成串烤了吃！",translated,妮莉库,fba80b0ab0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#29#12,"まあ、中には骨ばかりじゃったり、
+大して美味しくもないのもおるが、
+基本的に食えない味ではないからの。","嘛，虽说里面也有满是细刺的、
+或者味道平平无奇的，
+但基本上都不是咽不下去的难吃货色。",translated,妮莉库,d627410b04,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#30#12,"それにここは仮想空間の水族館じゃ。
+食べたとしても、後でリセットされて
+勝手に生き返るから安心じゃ。","而且这里可是虚拟空间的水族馆。
+就算吃了，事后一重置就会自己复活，
+所以大可放心啦。",translated,妮莉库,246d5cc12c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#31#12,"機会があれば、とうだいもりとのデートで
+試してみるんじゃな。","要是有机会，在跟灯塔守约会的时候
+你也可以尝试一下哦。",translated,妮莉库,e841523132,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#34#12,おおっ、興味を持ったか！？,哦哦，产生兴趣了吗！？,translated,妮莉库,bd8a7e3069,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#35#12,"それならば是非やってみることを
+お勧めするぞ。","既然如此，老身非常推荐你
+一定要去试一试哦。",translated,妮莉库,22a0285393,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#36#12,"釣れようが釣れなかろうが、
+そんなのは関係ない。","钓不钓得到鱼，
+那都无所谓。",translated,妮莉库,fd26b7f3f4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#37#12,"静かにのんびりとした気持ちになる瞬間も、
+現代社会には必要じゃからな。","在现代社会里，偶尔享受一段
+静谧安逸的心灵时光也是很有必要的嘛。",translated,妮莉库,337933266a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#39#12,"……しかし、こんな話をしたせいか、
+少々小腹が空いてきたような。","……不过，或许是聊到这个话题的缘故，
+老身觉得肚子稍微有点饿了呢。",translated,妮莉库,a31be30295,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#40#12,"それに水槽の中には美味しそうな魚が
+活き活きとしておるし……。","而且水槽里那些看起来很美味的鱼
+还生龙活虎地游来游去……",translated,妮莉库,38a746117a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#41#12,……刺身が食いたいのぅ。,……真想吃刺身呐。,translated,妮莉库,25e5ce3af8,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#42#12,"あっ、ほれほれ！
+あそこの岩陰に隠れておるブサイクな
+顔の魚、凄く美味しそうじゃぞ！","啊，快看快看！
+藏在那个岩石后面、长相丑丑的鱼，
+看起来超级好吃的样子哦！",translated,妮莉库,a318c12738,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#43#12,"それにほれ、そこを泳いでおるイカ。
+あれも活きが良くて美味しそうじゃ。","还有那边游着的那只鱿鱼。
+看着也很新鲜可口呢。",translated,妮莉库,cf2a76cd26,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#44#12,"……カードを渡す際に、生簀完備の水族館に
+設定しておくべきじゃったかもしれんな。","……在把卡片交给你的时候，或许老身应该
+设定成配有活鱼水池的水族馆才对呢。",translated,妮莉库,be681fd15f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#45#12,こっちは食べられないのに……,我明明都吃不到……,translated,,70e584449a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#47#12,おっと、言われてみればそうじゃったか。,哎呀，听你这么一说确实是呢。,translated,妮莉库,f162803c30,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#48#12,"お前さんが見ておる前で、我だけ新鮮な
+魚を食べるのは、さすがに気が引けるな。","当着你小子的面，只有老身一个人
+吃新鲜的鱼，未免也有点过意不去呢。",translated,妮莉库,2034bb4110,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#49#12,"……そう考えると、カフェに行けるように
+したのは間違いだったかもしれんな。","……这么一想，老身让你们能去咖啡馆，
+或许是个错误决定呢。",translated,妮莉库,0b3dd6286e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#50#12,"恋人同士で、あーん、と食べさせあったり、
+一つのグラスからジュースを飲んだりは
+出来んのじゃからのぅ？","毕竟像恋人之间“啊――”地互喂对方，
+或者两个人共用一个杯子喝果汁，
+根本就做不到嘛？",translated,妮莉库,a45ceb7b1d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#51#12,"我の配慮不足じゃった。
+申し訳ないことをしてしまったな。","是老身考虑不周了。
+真是对不住你们了呐。",translated,妮莉库,a1813028c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#52#12,雰囲気は楽しめてますよ,气氛还是挺享受的哦,translated,,425314cf8c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#53#12,イオンが楽しそうだから問題なし,伊欧看起来很开心，所以没问题,translated,,b75f610b35,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#55#12,んっ、そう言ってもらえると我も助かる。,嗯，听你这么说老身就安心了。,translated,妮莉库,531bde8b4b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#56#12,"我もどこにデートへ行けるようにするか、
+結構悩んだ末に作ったものじゃからな。","毕竟老身为了让你们能去哪儿约会，
+也是费了不少心思琢磨之后才做出来的嘛。",translated,妮莉库,920e3bc39d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#57#12,"本当はお化け屋敷や、動いている
+ジェットコースターなどというものも
+考えてはおったのじゃ。","其实老身原本还考虑过
+鬼屋或者运转中的过山车
+之类的项目呢。",translated,妮莉库,ede040edfb,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#58#12,"まあ、両方ともとうだいもりの苦手そうな
+ものじゃから、除外したわけだが……。","嘛，不过考虑到那两样都是灯塔守
+不擅长应付的，老身就给排除了……",translated,妮莉库,18179cc011,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#61#12,"そうかそうか、とうだいもりは
+楽しんでくれておるか。","这样啊这样啊，
+灯塔守玩得很开心是吧。",translated,妮莉库,b3b78f68a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#62#12,"それを聞けて安心したぞぃ。
+実際、デート場所の候補を選び出すのに、
+かなり頭を悩ませたからの。","听到这个老身就放心啦。
+实际上在挑选约会备选地点时，
+老身可是伤透了脑筋呢。",translated,妮莉库,b3f6e635a7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#64#12,"お前さん達が良い雰囲気になれる以外に、
+とうだいもりが何度も行きたがるような
+場所を選ばなくてはならんかったからな。","因为除了能让你们营造良好氛围之外，
+还得选出灯塔守去过之后
+还想再去很多次的地方嘛。",translated,妮莉库,759bba50f5,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#65#12,"デートの場所を考える時も、我はここで
+釣りをしながら考えておったのじゃ。","思考约会地点的时候，
+老身也是一边在这儿钓鱼一边想的呢。",translated,妮莉库,02defec540,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#66#12,ここはデートスポットじゃなかったの？,这里难道不是约会地点吗？,translated,,653019a97b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#68#12,"元々は我が静かに考え事をするために
+用意した場所じゃよ。","这里原本只是老身为了能静下心来
+好好思考问题而准备的地方哦。",translated,妮莉库,b99767cce0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#69#12,"じゃが、せっかく水族館として作って
+あるのだし、それならばとうだいもりも
+来れるようにしてやろうと思ってな。","不过既然都做成水族馆的样子了，
+老身就想着干脆也让灯塔守
+能来玩一玩吧。",translated,妮莉库,e90918caa4,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#70#12,それでプレゼントしたというわけじゃ。,于是就把卡片当成礼物送给你们了。,translated,妮莉库,06b9ebb50a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#71#12,"じゃから、もしかしたらデート中に
+水槽の上を見上げたら、我が釣りを
+してる姿が見られるかもしれんぞ。","所以说，在约会的时候
+要是抬头看向大水槽的上方，
+搞不好就能看到老身在钓鱼的身影哦。",translated,妮莉库,be76ed9612,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#72#12,"その証拠に、釣りの最中に何度か
+お前さん達の姿を見たことがあるからな。","作为证据，老身在钓鱼的时候，
+确实好几次都看到过你们俩的身影呢。",translated,妮莉库,a29d139fd2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#74#12,おっと、そろそろ時間じゃな。,哎呀，差不多到时间了呢。,translated,妮莉库,d7b0daaf94,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#75#12,"遅くなってはとうだいもりが
+帰ってきてしまう。
+そろそろ戻るとしよう。","太晚回去的话灯塔守就要回来了。
+差不多也该回去了。
+咱们走吧。",translated,妮莉库,4a87e61fbb,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel08a.txt#77#12,ほい、ただいま。,好啦，老身回来啦。,translated,妮莉库,efc909cad3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#78#12,"我としては行き慣れた水族館じゃったが、
+今日は新鮮な気持ちで楽しめたぞぃ。","虽说是老身早已去惯了的水族馆，
+但今天以新鲜的心情玩得挺尽兴的呢。",translated,妮莉库,00a5b0f3e5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#79#12,"たまには釣りではなく、水槽を眺めながら
+歩くのも悪くはないのぅ。","偶尔不去钓鱼，而是边散步
+边眺望水槽倒也挺不错的呢。",translated,妮莉库,71e6d2abe9,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#80#12,"じゃが、それはお前さんとの
+デート限定にするとしよう。","不过，这个就当作是跟你小子
+约会时的专属特权好啦。",translated,妮莉库,6a89efeaa7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#81#12,その方がありがたみもあるからの。,那样才显得更加难能可贵嘛。,translated,妮莉库,0d7e7f205a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel08a.txt#82#12,"次はどこに行こうか……
+今から楽しみじゃ。","下次去哪里好呢……
+老身现在就开始期待了呢。",translated,妮莉库,47a7dc7571,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel08a.txt#83#12,"今日は楽しかったぞ。
+次回まで、しっかり生きておれよ。","今天玩得很开心哦。
+在下次见面之前，可要好好活着哦。",translated,妮莉库,24b3fab163,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#2#12,"<CLBU>おっ、今日もちゃんとおったようじゃな。
+相変わらず暇そうじゃのぅ？","<CLBU>哦，今天看来也好好待着呢嘛。
+还是一如既往闲得很嘛？",translated,妮莉库,f72dff61ff,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/nelico_dateevent/date_nel09a.txt#3#12,"そんなに暇なら、我とデートにでも
+出かけてみるか？","既然这么闲，要不要
+陪老身出去约个会啊？",translated,妮莉库,cb5b62b867,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#4#12,是非とも,求之不得,translated,,cb150cb889,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#5#12,日を改めてお願いします,请改天再约吧,translated,,eeaf3d1c8e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#8#12,"おや、どうやら暇というわけでは
+なかったようじゃな。","哎呀，看来你小子
+也不是真的闲着嘛。",translated,妮莉库,8a9c368ea3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#9#12,"まあ、それならば無理にとは言わぬよ。
+いいレディというのは、引き際をわきまえて
+おるものじゃからな。","嘛，既然这样老身也就不勉强了。
+优秀的淑女可是懂得
+审时度势适时抽身的嘛。",translated,妮莉库,574b505aef,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#10#12,"というわけで、今日は退散するとしよう。
+次を楽しみにしておるぞ。","所以说，今天老身就先告辞啦。
+期待着下一次哦。",translated,妮莉库,958c54463e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#15#12,"うむうむ、お前さんはノリが良いから、
+絶対にそう言ってくれると思っておったぞ。","嗯嗯，你小子反应够痛快，
+老身早就料到你绝对会这么说了。",translated,妮莉库,356dc963bd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#16#12,"さて、こうしていても時間がもったいない。
+さっさと出発するとしよう。","好啦，干耗着也是浪费时间。
+咱们赶快出发吧。",translated,妮莉库,c3acb18f82,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#18#12,"んっふっふ、とうだいもりだったら
+大喜びしておったろうな。","唔呼呼，要是灯塔守的话，
+想必这会儿已经高兴坏了吧。",translated,妮莉库,9d6e88d46c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#20#12,"しかしこのパーツ屋、こうして眺めている
+だけでもかなりレアなパーツが揃っておる
+ようじゃな。","不过这家零件店，
+光是这么瞧着，就摆着不少
+相当稀有的零件呢。",translated,妮莉库,fe01f4e72c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#21#12,"まあ、露店故にお世辞にも綺麗な状態とは
+言えぬ物も多々ありはするが……。","嘛，毕竟是路边露天摊，很多东西
+恭维一句也谈不上保存完好就是了……",translated,妮莉库,71cd63e242,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#22#12,"まあ、とうだいもりであればその程度、
+いくらでも自分で直して使える状態に
+してしまうとは思うがの。","不过，要是灯塔守的话，这点小瑕疵
+老身觉得她随便修一修
+就能恢复成可以正常使用的状态啦。",translated,妮莉库,9bfd8da129,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#23#12,何か似たようなこと言ってた気がする,我记得她好像确实说过类似的话,translated,,4cc2fb589c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#25#12,なんと、既に言っておったか……。,什么，她居然早就说过啦……,translated,妮莉库,dcbf851897,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#26#12,"やはり、とうだいもりにパーツ屋を
+見て歩くだけというのは、酷なこと
+なのかもしれんのぅ。","果然对于灯塔守来说，
+光是看着零件店在边上逛却买不了，
+未免有点太残忍了呢。",translated,妮莉库,897f312781,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#27#12,"我も、とうだいもりが機械好きなことは
+重々承知しておるのでな。","老身对灯塔守喜欢机械这点
+也是心知肚明的嘛。",translated,妮莉库,fe23ff4c57,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#28#12,"う～む……特別に、パーツ屋に関しては
+買ったものを現実へ持って帰れるように
+設定するのも……。","唔～姆……特别开个后门，唯独零件店
+干脆设定成能把买到的东西
+带回现实去……",translated,妮莉库,098814be03,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#29#12,"って、いかんいかん。
+この話はここまでじゃ。","哎呀，不行不行。
+这话题就到此为止吧。",translated,妮莉库,dface0ce86,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#30#12,"今は我とお前さんのデートで来ておるの
+じゃからな。","毕竟现在可是老身和你小子
+在约会中呢。",translated,妮莉库,7903dedb87,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#31#12,"例えとうだいもりのことであっても、
+他の女の話題を出されては気分のいい
+ものではないからの。","就算那个人是灯塔守，
+在你面前提别的女人的话题
+也让人心里怪不爽的嘛。",translated,妮莉库,4151002dd8,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#32#12,我とて、女の子じゃもん。,老身也是个女孩子呀。,translated,妮莉库,c67d671785,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#33#12,女の子じゃなくてレディでしょ？,不是女孩子，是淑女才对吧？,translated,,dc6a3c8347,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#34#12,じゃもん、って……,还“呀”呢……,translated,,0332ddac65,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#36#12,おおっと、そうじゃったそうじゃった。,哎呀呀，对哦对哦，没错。,translated,妮莉库,663277f549,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#37#12,"さすがに、我の年齢で自分を女の子と
+呼ぶのは、少し変な気がするからの。","毕竟到了老身这个年纪还自称女孩子，
+感觉也确实有点怪怪的嘛。",translated,妮莉库,0aacdf1867,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#38#12,"そう思ってたはずなのじゃが、
+ついそれを忘れてしまったようじゃ。","老身心里明明很清楚的，
+刚才不知不觉就抛在脑后了呢。",translated,妮莉库,0b39aa41e2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#39#12,"お前さんは、我を大人のレディではなく、
+一人の女の子にしてしまう不思議な魅力が
+あるようじゃな。","看来你小子的身上有种不可思议的魔力，
+能让老身不再是成熟的淑女，
+而是变回一个单纯的女孩子呢。",translated,妮莉库,3b3bb050d2,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#40#12,"んっふっふ、光栄に思うのじゃぞ。
+世界中を探しても、お前さんのような
+人間、二人とおらぬであろうからな。","唔呼呼，你小子尽管感到光荣吧。
+就算把全世界翻个遍，像你这样的人
+大概也找不出第二个来呢。",translated,妮莉库,1774cb2aed,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#43#12,"そこを突っ込むでない！
+我も言った後で、これはさすがにないな、
+と思ったんじゃ。","别吐槽这种细节啦！
+老身自己说出口之后，也觉得
+这也未免太离谱了吧。",translated,妮莉库,bc888afe59,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#44#12,"いや、そもそも女の子というのもおかしい。
+我は大人のレディなのじゃからな。","不对，归根结底女孩子这个词就不对。
+老身可是成熟的淑女啊。",translated,妮莉库,6e08b8ccc4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#45#12,"うぅむ、少し可愛い子ぶってみようと、
+語尾にもんなんて軽くつけるべきでは
+なかった……。","唔唔，老身真不该
+为了稍微装一下可爱，
+就轻浮地在句尾带上“呀”字……",translated,妮莉库,db23b9549f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#47#12,……しかし、不思議な気分じゃな。,……不过，感觉真是不可思议呐。,translated,妮莉库,9f075b5858,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#48#12,"新婚であるお前さんと、嫁の大好きな場所で
+コソコソと隠れてデートするとは……。","居然和身为新婚之人的你小子，
+在媳妇最喜欢的地方偷偷摸摸约会……",translated,妮莉库,cc260e045c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#49#12,"不倫とまでは言わぬが、背徳的な気分に
+なるとは思わぬか？","虽然还不至于说到出轨的地步，
+但难道你不觉得有种背德感吗？",translated,妮莉库,55121c7865,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#50#12,背徳感、大好きです,背德感，我最喜欢了,translated,,2430797d6e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#51#12,それを言われると罪悪感が……,被您这么一说罪恶感就上来了……,translated,,378459a8bd,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#53#12,お、お前さん、そういう人間だったのか！？,你、你小子，原来是这种人吗！？,translated,妮莉库,8acc28296d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#54#12,"うぅむ……今更ながら新たな一面を
+知ってしまった……。","唔唔……事到如今老身居然
+见识到了你全新的一面……",translated,妮莉库,572c04ad04,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#55#12,"いや、別に否定はせんから安心せい。
+そもそも我が言い出したことじゃからな。","哎呀，老身并不会否定你，尽管放心。
+归根结底这也是老身自己先提出来的嘛。",translated,妮莉库,aae2ad7c43,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#56#12,とはいえ……若干引くのも事実じゃが……。,话虽如此……老身稍微有点被吓退也是事实……,translated,妮莉库,77b5af3f08,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#59#12,"んっふっふ、苦しめ苦しめ。
+嫁がいるにも関わらず、他の女とデートを
+楽しんでおるのじゃからな。","唔呼呼，受尽煎熬吧受尽煎熬吧。
+谁叫你明明有媳妇在，
+还跟别的女人开开心心约会嘛。",translated,妮莉库,b2c57f9ad7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#60#12,"まあ、罪悪感も感じず開き直る輩より、
+お前さんのような人間の方が好感を持ては
+するがの。","嘛，比起毫无罪恶感还厚颜无耻的家伙，
+像你这样的人
+老身反而更有好感就是了。",translated,妮莉库,327f5afe12,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#61#12,"……お前さんのそういうところに、
+我は惹かれておるのかもしれんな。","……或许老身正是被你小子的这种地方
+给深深吸引了也说不定呢。",translated,妮莉库,d8f33fe37d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#62#12,"今更ながら、お前さんととうだいもりを
+引き合わせたことを、少々後悔して……。","事到如今，老身对于当初把你和灯塔守
+撮合到一起这件事，甚至隐隐有点后悔……",translated,妮莉库,13d3dab197,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#63#12,"……いや、今のは失言じゃった。
+すまんが忘れてくれ。","……不对，刚才那是失言了。
+抱歉，你就当没听过吧。",translated,妮莉库,2c0a298315,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#66#12,"さてと、新婚さんをあまり連れまわすのは
+悪いし、今日はそろそろ帰るとするか。","好啦，一直拉着新婚人士到处转悠也不好，
+今天差不多就回去吧。",translated,妮莉库,1f7a3c8709,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#67#12,"とうだいもりと鉢合わせなんてことは、
+できれば我も避けたいからのぅ。","跟灯塔守撞个正着这种场面，
+老身也是能避则避嘛。",translated,妮莉库,93434d5eb2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#69#12,ほい、ただいまじゃ。,好啦，老身回来啦。,translated,妮莉库,b9aa28b753,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel09a.txt#70#12,"う～む……しかしパーツ屋でのデートは、
+あまり良い雰囲気にはならんかったのぅ。","唔～姆……不过在零件店约会，
+气氛果然还是好不到哪里去呢。",translated,妮莉库,3c5c840d57,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel09a.txt#71#12,"まあ、常識的に考えてパーツ屋でデートを
+して楽しめるはずもないのじゃがな。
+とうだいもりが特殊なだけじゃ。","嘛，按常理来想在零件店约会
+也不可能玩得多开心嘛。
+单纯只是灯塔守太特殊了而已。",translated,妮莉库,ed3705f99d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#72#12,"そういうわけじゃから、お前さんも
+そっちの世界のレディとデートする時は、
+パーツ屋だけは避けた方がよいぞ。","所以说，你小子在跟你们那边的
+淑女约会的时候，
+唯独零件店还是避开为妙哦。",translated,妮莉库,e39675951c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#73#12,"ふふん、結婚しておるのに我とデートを
+するくらいじゃからな。
+していてもおかしくはないからのぅ。","哼哼，既然结了婚还跟老身约会，
+你小子就算在那边也跟人约会
+也没什么好奇怪的嘛。",translated,妮莉库,49a993fd8b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel09a.txt#74#12,"まあ、あまりとうだいもり以外のレディに
+深入りしないようには気をつけるのじゃぞ。
+では、またな。","嘛，你可要多加注意，别跟灯塔守以外的
+淑女走得太近哦。
+那么，下次再见啦。",translated,妮莉库,8d0d429ead,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#2#12,"<CLBU>お前さんとのデートが忘れられなくてな、
+今日も来てしまったんじゃよ。","<CLBU>老身忘不了跟你小子的约会，
+今天又忍不住跑过来啦。",translated,妮莉库,cb0a6ba82d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/nelico_dateevent/date_nel10a.txt#3#12,"そういうわけじゃから、今からどうじゃ？
+どうせ暇であろう？","所以说，现在如何呀？
+反正你小子闲得很对吧？",translated,妮莉库,8fa20333b1,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#4#12,来るのを待ってたんですよ,我一直盼着您来呢,translated,,5a5cac8b98,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#5#12,いや、暇じゃないから今日はパス,不，我今天不闲所以算了吧,translated,,034f0c0297,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#8#12,"くーっ、レディからの誘いを断るとは！
+女心がわからぬ奴はモテぬぞ！？","咕――居然拒绝淑女的邀请！
+不懂女人心的家伙可不受欢迎哦！？",translated,妮莉库,f5743f34f0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#9#12,"まあ、とうだいもりにモテモテである以上、
+お前さんにはどうでもいいことなのかも
+しれぬがな。","嘛，既然在灯塔守那儿受宠若惊，
+这种事对你小子来说
+可能根本无所谓就是了。",translated,妮莉库,fb026d2d4f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#10#12,"とりあえず今日は大人しく帰るとしよう。
+じゃが、次に来た時には、絶対に我の
+相手をするのじゃぞ？","今天老身就先安分地回去吧。
+不过，等老身下次再来的时候，
+你可绝对要陪老身哦？",translated,妮莉库,455526aa30,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#15#12,"嬉しいことを言ってくれるのぅ？
+お前さんのそういうところが好きなんじゃ。","你说的话还真中听呢？
+老身就是中意你小子的这一点哦。",translated,妮莉库,cf342ab9be,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#16#12,では、早く出発するとしよう。,那么，赶紧出发吧。,translated,妮莉库,187626ae81,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#18#12,"うむうむ、この賑やかな空気、
+いるだけでワクワクしてくるぞ。","嗯嗯，这种热闹非凡的气氛，
+光是身处其中就让人满怀期待呢。",translated,妮莉库,1d6c757939,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#20#12,"やはり縁日は良い。
+人が多くて、明るくて賑やかで……。","庙会果然很棒啊。
+人多、明朗又热闹非凡……",translated,妮莉库,4e406d0e25,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#21#12,"我ととうだいもりのいる世界では、
+どれも体験できぬからな。","在老身和灯塔守所在的世界里，
+这些可都是体验不到的嘛。",translated,妮莉库,5d00a2b182,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#22#12,"まあ、そうは言ってもこれは所詮、
+仮想空間内のデータに過ぎないの
+じゃが……。","嘛，话虽这么说，
+这归根结底也只不过是
+虚拟空间里的数据而已就是了……",translated,妮莉库,e9ba71d33b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#23#12,"それでも、時々はこうして人間の放つ
+騒々しさというものを感じるのは大切なこと
+だと我は思っておる。","即便如此，老身觉得偶尔像这样感受一下
+人类散发出的喧闹嘈杂，
+也是十分重要的事情。",translated,妮莉库,43b11d044f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#24#12,"お前さんと我以外の人間との交流がない
+とうだいもりには、いい刺激になると
+思うんじゃよ。","对于除了老身和你小子之外
+再无与他人交流的灯塔守来说，
+老身觉得这也是个很好的刺激呢。",translated,妮莉库,fbf0b11855,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#25#12,"お前さんはどうじゃ？
+我ととうだいもり以外の人間とも、
+ちゃんと交流をしておるか？","你小子又是如何呢？
+平时除了老身和灯塔守以外，
+也有在好好跟其他人交流吗？",translated,妮莉库,3e7ac7180d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#26#12,それなりにね,马马虎虎吧,translated,,769488001c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#27#12,全然です,完全没有,translated,,2bda972b8c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#29#12,うむ、それは良いことじゃ。,嗯，这是好事。,translated,妮莉库,a9211a9f66,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#30#12,"まあ、普通に考えてお前さんは
+面白い人間じゃからな。","嘛，照常理来看，
+你小子也是个很有意思的人嘛。",translated,妮莉库,580d8d9b0f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#31#12,"きっと周りが放っておかぬのであろう。
+この人気者め。","周围的人肯定不会放着你不管吧。
+你这个人气王。",translated,妮莉库,82149f744c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#34#12,"まったく、お前さんは……。
+我達のいるような世界に住んでおるわけでは
+あるまいに……。","真是的，你小子啊……
+明明又不是生活在
+像老身她们这样的世界里……",translated,妮莉库,69d0fc5ac7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#35#12,"まあ、人付き合いが苦手な人間もおるから、
+それを悪いとは思わんがの。","嘛，毕竟也有不擅长人际交往的人，
+老身倒不觉得这是什么坏事就是了。",translated,妮莉库,d47129ad55,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#36#12,"とはいえ、とうだいもりからしたら、
+勿体無いと思われるであろうな。","话虽如此，但在灯塔守看来，
+大概会觉得有些可惜吧。",translated,妮莉库,1f4c8d55c2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#38#12,"まあ、お前さんが他人と交流していようが
+いなかろうが、どうでもよいことか。","算了，不管你小子有没有跟别人交流，
+其实也都无所谓啦。",translated,妮莉库,939323919c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#39#12,"我にとって重要なのは、お前さんが我と
+こうして仲良くしてくれていることなの
+じゃからな。","因为对老身而言，最重要的就是
+你小子能像现在这样
+跟老身相处得这么融洽嘛。",translated,妮莉库,2241134e22,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#40#12,"……普段の態度からはわからぬと思うが、
+これでもお前さんのことはかなり気に入って
+おるのじゃぞ？","……虽然平时看不太出来，
+但老身其实可是相当
+中意你小子的哦？",translated,妮莉库,fe10697730,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#41#12,"暇潰しとか、生きてるかどうかの確認のため
+だけに会いに来るほど、我は暇人ではない。","老身可没闲到光是为了打发时间、
+或者为了确认你死没死就特意跑来相见。",translated,妮莉库,a8cf151b25,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#42#12,つまり……だから、その……。,也就是说……所以说，那个……,translated,妮莉库,aea2404290,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#43#12,"……い、いかん。
+年甲斐もなく恥ずかしくなってきた。","……不、不行。
+老身都老大不小了居然害羞起来了。",translated,妮莉库,09808cba98,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#44#12,ねりこさん、可愛い,奈莉子小姐好可爱,translated,,ff2695debf,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#45#12,そもそも何歳なのか聞いてないんですが？,话说回来我根本没问过您的年龄啊？,translated,,f7f8a1d973,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#47#12,なっ！？,什、什么！？,translated,妮莉库,112fce482a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#48#12,"ば、バカモノ！
+可愛いと言われるほど子供ではないわ！","大、大笨蛋！
+老身哪还小到会被人夸可爱的地步啊！",translated,妮莉库,f6b05bcba7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#49#12,"まったく、とうだいもりの喜びそうな
+セリフを言っておけば、我も喜ぶと思ったら
+大間違いじゃぞ？","真是的，以为只要说出灯塔守会开心的台词，
+老身也会跟着开心的话，
+那可就大错特错了哦？",translated,妮莉库,a29c676ad3,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#50#12,"相手に合っているかも大切じゃが、同時に
+相手が喜ぶ言葉になっているかを考えてから
+発言しなくてはならん。","合不合对方身份固然重要，但同时
+也得先考虑好这句话能不能讨得对方欢心，
+然后再开口说出来才行。",translated,妮莉库,52c206d37f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#51#12,"わかったら、今度からは気をつけて
+発言するようにするのじゃぞ。","明白了的话，今后说话的时候
+可要多加注意哦。",translated,妮莉库,4aa6e07c04,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#52#12,"……しかし、我が可愛いとか……まさか
+そんなことを言われる日が来ようとは……。","……不过，夸老身可爱什么的……
+真没想到有朝一日还会被人这么夸奖……",translated,妮莉库,ae8bb85e78,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#53#12,……ふふっ。,……呵呵。,translated,妮莉库,6e2baa06b1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#54#12,"あ、い、いや、何でもない！
+まったく、けしからん話だ。","啊、不、不是，没什么！
+真是的，成何体统。",translated,妮莉库,943693a4e1,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#57#12,レディに年齢を聞くのはマナー違反じゃぞ。,打听淑女的年龄可是非常失礼的行为哦。,translated,妮莉库,d384e39231,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#58#12,"まったく、どうもお前さんはそういう
+うっかりしたところがあるようじゃのぅ？","真是的，你小子在有些方面
+好像格外粗神经呢？",translated,妮莉库,b8d20f254b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#59#12,"まあ、そういうところがあった方が、
+女にモテる心配もなくてよいとは思うがな。","嘛，不过有点这种毛病，
+倒也不用担心你会在女人堆里太吃香就是了。",translated,妮莉库,743e3d65ac,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#60#12,"とうだいもりも安心するだろうしのぅ。
+お前さん、今後もデリカシーのない発言を
+それなりに連発するよう努力するのじゃぞ。","这样灯塔守也能更安心嘛。
+你小子今后也好好努力，
+争取继续多说点不解风情的话哦。",translated,妮莉库,6ead18e8cf,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#62#12,"……しかし、ここは随分と歩きにくい
+場所じゃな。","……不过，这地方可真是
+相当难走呢。",translated,妮莉库,bc5fa10c93,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#63#12,"人が多くて早く歩けないし、何より窮屈で
+息苦しくて堪らん。","人多得走不快，更要命的是又挤
+又憋闷得让人受不了。",translated,妮莉库,1379d0fd8a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#64#12,"賑やかなのは好きじゃが、人混みの中を
+歩くのは勘弁じゃな。","热闹老身固然喜欢，
+但要在人堆里挤着走老身可吃不消。",translated,妮莉库,1d23d00471,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#65#12,"いっそ商人であるのだから、縁日では
+お前さんと屋台経営デートとかをしてみる
+のも楽しかったかもしれん。","既然老身是商人，干脆在庙会上
+和你小子来一场摆摊经营约会，
+说不定也挺好玩的呢。",translated,妮莉库,948d12e3b7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#66#12,"だがそうなると、縁日カードの設定に
+色々手を加えなければならぬから……。","但是那样一来，就得对庙会卡片的设定
+做各种各样的调整了……",translated,妮莉库,d373702046,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#67#12,"うむ、面倒じゃ。
+やはりデートはこうして並んで歩くのが
+一番じゃな。","唔，太麻烦了。
+约会果然还是像这样并肩散步最棒了呢。
+最舒服了。",translated,妮莉库,53453bcb2e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#68#12,今後も、このスタイルを貫くとしよう。,今后也贯彻这个方针吧。,translated,妮莉库,df22be1352,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#70#12,さてと、ではそろそろ帰るとしようかの。,好啦，那差不多也该回去啦。,translated,妮莉库,42ef4c2711,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#71#12,"……とうだいもりではないから、
+お触り無しで申しわけないがな。
+んっふっふ……。","……抱歉老身不是灯塔守，
+可没有动手动脚的福利哦。
+唔呼呼……",translated,妮莉库,dcb4dc5a75,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel10a.txt#73#12,ふぅ、ただいまじゃ。,呼，老身回来啦。,translated,妮莉库,826272b13f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel10a.txt#74#12,"今日のデートは、今までのデートの中では
+断トツで楽しい内容だったぞぃ。","今天的约会，可是以往所有约会里
+遥遥领先最开心的一次呢。",translated,妮莉库,3c025c848a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#75#12,"次回のデートがどうなるのかを考えると、
+今から楽しみで仕方がない。","一想到下一次约会会怎样，
+老身现在就期待得不得了了。",translated,妮莉库,a3f6858166,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#76#12,"なるべく早く時間を作ろうと思うのでな、
+その時には、また我の相手をしてもらうぞ。","老身会尽量早点抽空出来的，
+到那时候，你可要再陪陪老身哦。",translated,妮莉库,caa478246a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel10a.txt#77#12,では、その時まで……さらばじゃ！,那么，后会有期……告辞啦！,translated,妮莉库,5aa7d5501b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#2#12,<CLBU>うむ、ちゃんとおったか。,<CLBU>嗯，你小子确实在呢。,translated,妮莉库,91dfa9c7f7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel11a.txt#3#12,"今日はデートの誘いに来たのじゃが……
+良ければ我と、少々大人が楽しめる場所に
+行ってみぬか？","老身今天是来邀你约会的……
+方便的话，要不要跟老身去个
+能让大人尽情享受的好地方啊？",translated,妮莉库,b77cdb1750,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#4#12,い、行きます,去、我去,translated,,aa121b5e1a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#5#12,今日はちょっと……,今天稍微有点……,translated,,0a4a2e1b34,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#8#12,"なんじゃ、せっかく我が誘いに来たと
+いうのに……。","搞什么嘛，亏得老身还
+特意跑来邀请你……",translated,妮莉库,4bb5d8d69f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#9#12,"まあ、お前さんにも生活があるからの。
+無理にとは言わんよ。","嘛，毕竟你小子也有自己的生活嘛。
+老身也就不勉强你啦。",translated,妮莉库,b010dd3c8f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#10#12,"また日を改めて誘いに来るからの。
+その時には時間を作っておくのじゃぞ。","老身改天还会再来找你的。
+到那时候可要把时间腾出来哦。",translated,妮莉库,aae5c93422,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#15#12,"むっふっふ、ドキドキしておるのか？
+そう緊張せずとも、大丈夫じゃよ。","唔呼呼，心跳加速了吗？
+用不着那么紧张，没事的啦。",translated,妮莉库,020f972dfd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#16#12,"では、話している時間も勿体無い。
+早速出発するとしよう。","好啦，光在这里聊天也是浪费时间。
+咱们这就出发吧。",translated,妮莉库,0d862cd4a7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#18#12,"ほい、到着じゃ。
+では見て回るとしようかの。","好啦，到了哦。
+咱们这就到处转转吧。",translated,妮莉库,72fae7d59f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#20#12,うむうむ、やはり学校は良いのぅ。,嗯嗯，学校果然很不错呢。,translated,妮莉库,688bef434f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#21#12,"若々しいエネルギーに満ち溢れていて、
+こうして歩いているだけでも元気になって
+くるように感じるぞぃ。","洋溢着朝气蓬勃的青春活力，
+光是像这样走在里面，
+都感觉整个人精神焕发了呢。",translated,妮莉库,81d5640b1e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#22#12,お前さんも、そうは思わんか？,你小子难道不这么觉得吗？,translated,妮莉库,5825cab919,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#23#12,大人が楽しめる場所、って言ったのに,您刚才明明说是大人能享受的地方,translated,,8f4dd2789b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#25#12,"おや？
+お前さん、何を言っておるのじゃ？","哎呀？
+你小子在胡说八道些什么呢？",translated,妮莉库,e6dd512057,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#26#12,"学校は間違いなく、大人が楽しめる場所に
+違いないではないか。","学校毫无疑问
+就是能让大人尽情享受的地方嘛。",translated,妮莉库,8927c3a9eb,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#27#12,"若い頃のことを思い出し、話しながら
+見て回るのは、大人にしかできぬこと
+じゃからな。","一边追忆年轻时代一边四处游览闲聊，
+这可是只有大人
+才做得到的事情嘛。",translated,妮莉库,c0d6c98d6d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#28#12,"第一、子供は勉強ばかりの学校を
+楽しめるはずもなかろう？","首先，成天只顾着念书的小孩
+哪可能享受得了学校嘛？",translated,妮莉库,2b8a4c18fe,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#29#12,"それとも……お前さん、もしやスケベな
+場所を想像しておったのではあるまいな？","还是说……你小子该不会脑子里
+在遐想什么带颜色的地方吧？",translated,妮莉库,34bf8c9007,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#30#12,普通そうなるよ！,正常人都会往那方面想的好吧！,translated,,2915e70e6b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#31#12,遊園地を想像してたのに！,我明明想象的是游乐园！,translated,,6f5ea7081f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#33#12,むっふっふ、お前さんは正直じゃな。,唔呼呼，你小子可真老实呐。,translated,妮莉库,7277ea4352,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#34#12,"お前さんのその素直なところを、
+我は気に入っておるのじゃ。","老身中意的，
+正是你小子的这份坦率直爽哦。",translated,妮莉库,bcce787a70,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#35#12,"とはいえ、お前さんが想像しておったような
+場所は、我も作っておらぬぞ。","话虽如此，你小子脑子里想的那种地方，
+老身可也没有做出来过哦。",translated,妮莉库,29b5645f7b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#36#12,"仮想世界は健全がモットーじゃからな。
+第一、そんなもの作ったところで、
+とうだいもりは楽しめぬであろう？","毕竟虚拟世界的宗旨可是身心健康。
+更何况就算做了那种东西，
+灯塔守也享受不来吧？",translated,妮莉库,1ead818775,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#39#12,"……ま、まあ、大人も楽しめる場所では
+あるかもしれぬが、遊園地は基本的に、
+子供が楽しむための場所じゃぞ？","……嘛、嘛，虽然大人或许也能玩，
+但游乐园归根结底，
+基本上是给小孩子玩乐的地方吧？",translated,妮莉库,0b6a49ec5d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#40#12,"まったく、時々お前さんはそういう
+素っ頓狂なことを言って驚かせてくれるな。","真是的，你小子偶尔就会冒出这种
+荒唐脱线的话来吓老身一跳呢。",translated,妮莉库,2327401c0d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#41#12,"まあ、そういうところを気も入っているから
+こうしてデートをしておるのじゃが。","嘛，老身也是看中你这点
+才像这样跟你约会的嘛。",translated,妮莉库,c699083d9f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#43#12,"それよりも、せっかく学校に来て
+おるのじゃ。","先不说这个，
+毕竟难得来了一趟学校。",translated,妮莉库,eb595cb59e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#44#12,"何かこう、学校の思い出でも聞ければ
+良いのじゃが……。","要是能听你聊聊
+关于学校的回忆就好了……",translated,妮莉库,85f04a71bc,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#45#12,"しかし、お前さんの方から長々と言葉を
+語るのは不可能なんじゃよな？","不过，要你小子在那边长篇大论地说，
+好像也是不可能的事情呢？",translated,妮莉库,d060295172,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#46#12,"ふむ……普通デートといえば、男の方が
+レディを楽しませるために努力をするのが
+普通なのじゃが……。","唔……按理说所谓的约会，
+本该是由男方为了逗淑女开心
+而付出努力才对的……",translated,妮莉库,4d2b8ae3d4,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#47#12,"しかし、そんなデートをとうだいもりは
+数え切れぬほどしておるのじゃな。","不过，那种约会灯塔守
+想必已经体验过无数次了吧。",translated,妮莉库,3feb7338ed,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#48#12,"あやつ……もしかしたらデートスキルは、
+我以上かもしれんの。","那丫头……说不定在约会技能上，
+其实比老身还要高明呢。",translated,妮莉库,d8261d10dd,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#49#12,ねりこさんは元々デートスキル低いと思う,我觉得奈莉子小姐的约会技能本来就很低,translated,,c01adf0a0e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#50#12,ねりこさんの方が上だと思うよ,我觉得还是奈莉子小姐更胜一筹哦,translated,,7c504fc8c4,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#52#12,し、失礼なことを言うでない！,休、休得无礼！,translated,妮莉库,751ed719c6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#53#12,"これでも、我とて若い頃は多くの男に
+モテてモテてモテまくりで……。","别看老身这样，年轻的时候也是被
+无数男人众星捧月、受欢迎得不得了……",translated,妮莉库,10adc844dc,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#54#12,"……不毛な話じゃ、やめよう。
+どれだけ強がろうと、あんな世界に住んで
+おればウソだとすぐにバレるしの。","……这话题真无聊，不提也罢。
+不管老身怎么嘴硬逞强，住在那种世界里
+谎话也一下子就被拆穿了嘛。",translated,妮莉库,0462a0b9d2,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#55#12,"まあ、それがわかったのなら、今度からは
+デートの時に、お前さんはうんと優しく
+してもらわなくてはならんのぅ？","嘛，既然你明白这点，那今后约会的时候，
+你小子可得加倍温柔体贴地
+对待老身才行哦？",translated,妮莉库,9decd9d595,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#56#12,"とうだいもりよりもデートスキルが低い
+我は、それくらいしてもらう権利がある
+はずじゃからな、むっふっふ……。","毕竟比灯塔守约会技能还要低的老身，
+理应享有被这般优待的特权嘛，
+唔呼呼……",translated,妮莉库,c5dbdf9b40,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#59#12,ふむ……お前さんにはそう見えるか。,唔……在你小子眼里是这样看的吗。,translated,妮莉库,f6d8d0255a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#60#12,"い、いや、別になんでもないぞ！
+うむ、お前さんの言っておることは正しい！","没、没什么，什么都没有！
+嗯，你小子说的完全没错！",translated,妮莉库,c6fb9122b0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#61#12,"なんと言っても、我はとうだいもりと違い、
+大人のレディじゃからな。","不管怎么说，老身跟灯塔守不同，
+可是成熟的淑女嘛。",translated,妮莉库,568dbb90ca,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#62#12,"デート経験とて、桁が違うぞぃ。
+はっはっは……。","论起约会经验，那更是相差好几个数量级哦。
+哈哈哈哈……",translated,妮莉库,122a0d93aa,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#63#12,"はぁ……大人のレディを演じるのは、
+色々大変で疲れる……。","哈啊……扮演成熟淑女，
+真是方方面面都很累人呐……",translated,妮莉库,6a4be02542,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#65#12,"しかし、結局こうして学校に来ても、
+制服の一つも着ていなければ、やはり
+雰囲気が出ないものじゃの。","不过，说到底就算像这样来到学校，
+连套学生制服都没穿的话，
+气氛果然还是出不来呢。",translated,妮莉库,4a655d38c1,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#66#12,"そのうち、とうだいもりに頼んで
+我のサイズに合った制服を作って
+もらうかのぅ？","要不哪天老身拜托灯塔守，
+照着老身的身材尺码
+做一套学生制服穿穿看？",translated,妮莉库,0086e2e974,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#67#12,"我とてまだまだ若い娘に負けるほど
+老けてはおらぬからな。","老身可还没衰老到
+会输给年轻小姑娘的地步呢。",translated,妮莉库,b64c5e3472,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#68#12,"もしやすると、とうだいもりよりも
+可愛く見えてしまうかもしれぬぞ。","搞不好看起来
+甚至会比灯塔守还要可爱哦。",translated,妮莉库,298bafae27,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#69#12,"仮にそうなったとしても、お前さん、
+本気で惚れてはならぬからな。","退一步讲就算真是那样，
+你小子可千万别动真情迷上老身哦。",translated,妮莉库,68051c4d3c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#71#12,"おや？
+どうやら下校のチャイムが
+鳴ったようじゃな。","哎呀？
+看来放学的铃声
+已经敲响了呢。",translated,妮莉库,96ffb2b999,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#72#12,"生徒達も帰宅を始めたことじゃし、
+我達も戻るとしよう。","学生们也陆陆续续开始回家了，
+咱们也该回去了吧。",translated,妮莉库,3e02b44e54,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#74#12,ふぅ……いい気分転換になったのぅ。,呼……真是个不错的散心调节呢。,translated,妮莉库,c43ed571cf,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel11a.txt#75#12,"前回のような後輩ごっこをしたりせんでも、
+意外と学校も楽しめるものじゃな。","就算不玩上次那种扮学妹的游戏，
+学校原来也意外地能让人尽兴嘛。",translated,妮莉库,15a1f0ad35,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel11a.txt#76#12,"新たな発見じゃ。
+また行く機会があれば、そのときにはまた
+違ったデートをしてみたいのぅ。","这可是个新发现。
+以后要是还有机会去的话，
+到时候真想尝试一下不一样的约会呢。",translated,妮莉库,d491c2a574,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#77#12,"っと、いかんいかん。
+そろそろ本当に帰らんと、とうだいもりと
+鉢合わせしかねんな。","哎呀，不行不行。
+再不赶紧回去的话，
+搞不好真要跟灯塔守撞个正着了。",translated,妮莉库,37e8de1ca3,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel11a.txt#78#12,"というわけで、我はそろそろお暇するぞぃ。
+今度会う時まで、しっかり生きておるの
+じゃぞ。","所以说，老身差不多该告辞啦。
+在下次见面之前，
+你可要好好活着哦。",translated,妮莉库,1535bce0c1,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#2#12,"<CLBU>おっ、ちゃんとおったようじゃな。
+とりあえず一安心じゃ……。","<CLBU>哦，看来你小子确实在呢。
+姑且算是松了一口气……",translated,妮莉库,8b359afb0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel12a.txt#3#12,"さて、早速ではあるのじゃが……
+今からデートに行こうと言ったら、
+ＯＫしてもらえるかの？","好啦，虽说有点突兀……
+要是老身说现在就去约会，
+能得到你的首肯吗？",translated,妮莉库,12cf53397b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#4#12,いいですよ。てか、しおらしいですね？,好呀。话说，您今天挺温顺腼腆的嘛？,translated,,8f94e04f15,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#5#12,今日は忙しくて……,今天有点忙……,translated,,670fa63299,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#8#12,むぅ……やはり突然過ぎたか……。,唔……果然还是太突然了吗……,translated,妮莉库,354216a487,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#9#12,"まあ、別に何が何でも今日でなくては
+ならないというわけでもない。","嘛，老身倒也不是非得
+今天去不可就是了。",translated,妮莉库,25bf190845,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#10#12,また日を改めて誘いに来るとしよう。,那老身改天再来约你吧。,translated,妮莉库,c4868bf259,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#15#12,"ま、まあ、色々あるのじゃよ。
+変なところに突っ込みをいれるでない。","嘛、嘛，各种各样的原因啦。
+别在奇怪的地方吐槽老身啦。",translated,妮莉库,7df60095f4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#16#12,では、早速出発しよう。,那么，咱们这就出发吧。,translated,妮莉库,33efc1b2ea,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#18#12,"……うむ、ここは気持ちが落ち着いて
+いいところじゃのぅ。","……嗯，这里真是个让人心情宁静的
+好地方呐。",translated,妮莉库,975085a50b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#20#12,"こうして水槽に囲まれておると、
+何となく水の中におるような気持ちに
+なるとは思わぬか？","像这样被水槽环绕着，
+难道你不觉得有种仿佛置身于
+水底世界一般的心境吗？",translated,妮莉库,110097010e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#21#12,"静かで、神秘的で……
+なんともロマンチックな気分じゃ。","幽静而又神秘……
+真是一股浪漫的情调呢。",translated,妮莉库,dba504ed63,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#22#12,デートコースにはピッタリじゃな。,作为约会路线再合适不过了。,translated,妮莉库,e0d55c2976,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#23#12,ねりこさん、今日はどうしちゃったの！？,奈莉子小姐，今天这是怎么了！？,translated,,bebb42123e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#24#12,何だかイオンとデートしてるみたい,总觉得像是在跟伊欧约会一样,translated,,43945ebf84,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#26#12,そ、そんなに驚くことはなかろう！？,用、用不着这么吃惊吧！？,translated,妮莉库,931196a4ce,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#27#12,我も、結構頑張っておるのじゃぞ？,老身也是付出了相当大的努力哦？,translated,妮莉库,af184b46b6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#30#12,"ええい、デート中に他の女と比べるような
+真似はよさぬか、失礼じゃぞ！！","哎呀，在约会的时候把老身跟别的女人比，
+这种事快住口，太失礼啦！！",translated,妮莉库,050fe76b05,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#31#12,"……とはいえ、そう思われるのも
+当然かもしれんのぅ。","……话虽如此，被你这么想
+或许也是理所当然的呢。",translated,妮莉库,c6682f67ab,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#32#12,"今回のデートに備えて、とうだいもりの
+言動や仕草を研究したのじゃからな。","毕竟为了这次约会，老身可是好好研究了
+灯塔守的一言一行和细微动作呢。",translated,妮莉库,4a93fcb0e8,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#34#12,"ほれ、前に水族館に来た時のことを
+覚えておるか？","你瞧，还记得上次
+咱们来水族馆时的事情吗？",translated,妮莉库,35f89f7866,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#35#12,"あれは、水族館デートというよりは、
+いけすデートみたいになってしまった
+であろう？","那次与其说是水族馆约会，
+简直就像是跑去养鱼池约会一样
+对吧？",translated,妮莉库,960190f5dd,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#36#12,"釣りだの、新鮮な魚がたくさんだの、
+デートっぽさがまったくと言っていいほど
+なかったからの。","聊什么钓鱼啦、有很多新鲜鱼啦，
+根本可以说完全没有半点
+约会该有的样子嘛。",translated,妮莉库,a33137bf70,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#37#12,つまり、まあ……反省したというわけじゃ。,也就是说，嘛……老身回去反省了啦。,translated,妮莉库,4b6a5e0227,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#38#12,"それで、その分今回はデートっぽくしようと
+頑張ってみたのじゃが……。","于是这次才努力想弥补回来，
+营造出更有约会感觉的气氛……",translated,妮莉库,eb1fdcd3ed,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#39#12,普段通りにしないと楽しめないと思うよ？,我觉得如果不照平时的样子是没法尽兴的哦？,translated,,8f910820eb,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#41#12,"ふむ……確かに、お前さんの
+言うことにも一理ある。","唔……确实，你小子
+说得也有一番道理。",translated,妮莉库,ec82f68a16,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#42#12,"いくらデートっぽくしようとはいえ、
+ずっと演技をしていては面白いとは
+思えんじゃろうし……。","虽说想更有约会的样子，
+但要是一直演戏的话，
+大概也不会觉得有趣吧……",translated,妮莉库,074eb12ee2,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#43#12,"とはいえ、我としては少し無理をしてでも、
+デートっぽさを出してみたい、という気は
+するのじゃがな。","话虽如此，老身心里总想着哪怕稍微勉强点，
+也想试着展现出
+有那么点约会的样子嘛。",translated,妮莉库,422577e7f7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#44#12,"そうでなければ、普通に部屋で話すのと
+何も変わらなくなってしまうからの。","要不然的话，就跟平时
+在房间里闲聊没有任何区别了嘛。",translated,妮莉库,e529fab8f2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#45#12,それでは、お前さんも楽しくなかろう？,那样的话，你小子大概也不会开心吧？,translated,妮莉库,3ef416e1da,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#46#12,じゃあ、もうしばらく続けてもらいます,那您就再稍微维持一会儿这种状态吧,translated,,e5b6ae3741,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#47#12,ねりこさんと一緒にいられるだけで十分,只要能和奈莉子小姐在一起就足够了,translated,,1428bc90d1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#49#12,"う、うむ……そうしようとは思って
+おるのじゃが……。","唔、嗯……老身原本也是
+这么打算的……",translated,妮莉库,464ab31e11,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#50#12,はぁ……やはりダメじゃな。,哈啊……果然还是不行呐。,translated,妮莉库,47834e9772,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#51#12,"どうもそういうキャラ作りには
+慣れてないせいか、背中がむず痒く
+なってしまって堪らん。","大概是因为很不习惯扮演那种角色吧，
+搞得老身浑身不对劲，
+后背发痒得受不了。",translated,妮莉库,b6cf53a46d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#52#12,"やはり無理にキャラ作りをするよりも、
+ありのままの自分自身でいた方が
+デートは楽しめそうじゃな。","与其勉强去立什么人设，
+不如以真实的自己去约会，
+似乎玩得还更开心些呢。",translated,妮莉库,1a13d7270e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#55#12,なんとっ！？,什、什么嘛！？,translated,妮莉库,1372cfdbfd,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#56#12,"ぬぅ……まるで当たり前のようにさらりと、
+人を喜ばせるようなことを言いおって……。","唔……居然能如此云淡风轻地、
+把讨人欢心的话当成理所当然说出口……",translated,妮莉库,75cbeacf54,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#57#12,"これではまるで、我がチョロイ女に
+思われてしまうではないか？","这样搞得老身好像是个
+很容易被拿捏的女人一样不是吗？",translated,妮莉库,0bc91be253,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#58#12,"じゃが、なるほどな……。
+とうだいもりは普段から、こういうことを
+言われ続けておるのか……。","不过，原来如此啊……
+灯塔守平时就是天天听着
+你对她说这种话啊……",translated,妮莉库,6378a13a22,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#59#12,"何となく、とうだいもりがお前さんに
+ベタ惚れな理由がわかった気がするぞぃ。","老身总觉得有点明白为什么
+灯塔守会对你神魂颠倒了呢。",translated,妮莉库,db87c5f3ee,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#61#12,"というわけで……水槽の端っこに
+赤い魚がおるのじゃが……。","所以说……在水槽的角落里
+有一条红色的鱼呢……",translated,妮莉库,c466b8faa3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#62#12,"あの魚はの、串焼きにして食べると
+最高に美味いんじゃぞ。","那条鱼啊，穿成串烤着吃的话
+味道可是堪称一绝哦。",translated,妮莉库,be63c8e905,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#63#12,"お前さんにも食わせてやれたら
+良いのじゃがのぅ。
+絶対に気に入ること確実じゃぞ！","要是也能让你小子尝尝就好了呐。
+老身敢打包票，
+你绝对会喜欢的！",translated,妮莉库,6f28f17e72,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#64#12,結局また食欲全開なんですね？,结果到头来又是食欲全开了呢？,translated,,614bfa2fb6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#66#12,まあ、元々我に魚を愛でる趣味はないからの。,嘛，毕竟老身本来就没有赏鱼的闲情雅致嘛。,translated,妮莉库,ac08e093f4,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#67#12,"それにお前さんも知っての通り、
+これが我じゃよ。","更何况正如你所知，
+这才是真正的老身嘛。",translated,妮莉库,ad1790aa1b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#68#12,"今回のデートで、改めて我のことを
+知ることができたことをありがたく
+思うがいい、むっふっふ……。","通过这次约会，又能对老身
+多了一层深入的了解，
+你就感恩戴德吧，唔呼呼……",translated,妮莉库,ae7200e7ab,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#70#12,"とはいえ、さすがに我だけ魚を食べるのは
+気が引けるからの。","话虽如此，光让老身一个人吃鱼
+未免也太说不过去了嘛。",translated,妮莉库,5f67c3a1e5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#71#12,腹が鳴る前に、さっさと帰るとしよう。,在肚子咕噜叫之前，咱们赶快回去吧。,translated,妮莉库,afb08b727f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#73#12,お～い、帰ったぞ～い。,喂～，老身回来啦～,translated,妮莉库,e2d18b33ab,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel12a.txt#74#12,"と、言っても迎えてくれるものはないか。
+寂しいもんじゃのぅ。","虽说这么喊，也没人会迎出门来就是了。
+还真是冷清呐。",translated,妮莉库,7e8804a2e0,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#75#12,"たまには帰ってきた時に、とうだいもりに
+笑顔で迎えてもらいたいものじゃが……。","偶尔也想在回来的时候，能让灯塔守
+笑脸盈盈地迎接老身呢……",translated,妮莉库,57efe0225e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#76#12,"まあ、自分の旦那とデートに出かけた女を、
+笑顔で迎える嫁などいるはずがないか。","嘛，世上哪会有笑着迎接
+跟自家相公出去约会的女人的媳妇啊。",translated,妮莉库,8dc4fc9d82,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#77#12,"いくらとうだいもりが優しいとはいえ、
+それをしたらドン引きじゃからの。","就算灯塔守再怎么温顺体贴，
+要是真那么做也未免太吓人了嘛。",translated,妮莉库,df44c04ea8,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel12a.txt#78#12,"とはいえ、あまり独り占めされても
+我が遊べなくて困ってしまうのでな。
+今くらいが丁度いいのであろうな。","不过，要是被她完全独占的话，
+老身就没得玩了也会很伤脑筋的。
+大概现在这样刚刚好吧。",translated,妮莉库,4db3c8ae0c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#79#12,"では、我はそろそろ帰るとしよう。
+あまり長居しては、別れが惜しくなって
+しまうからの。","那么，老身差不多也该告辞啦。
+逗留太久的话，
+心里可就要舍不得分别了呢。",translated,妮莉库,babd25ca8e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel12a.txt#80#12,"また近いうちに、デートをしよう。
+約束じゃぞ。","过几天咱们再一起约会吧。
+说好了哦。",translated,妮莉库,5a34aacb3b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#2#12,"<CLBU>いてほしい時にいてくれる。
+お前さんは本当に頼りになるのぅ。","<CLBU>每当需要你的时候总是在呢。
+你小子可真是可靠呐。",translated,妮莉库,31274a5a5e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel13a.txt#3#12,"いや、久しぶりにデートに行ってみないかと
+誘いに来たわけなのじゃが……どうじゃ？
+レディからの誘い、受けてくれるかの？","哎呀，老身是来问你隔了这么久
+要不要去约个会的……怎么样啊？
+淑女的邀请，你肯赏光接受吗？",translated,妮莉库,4fd137ae6b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#4#12,もちろんですよマドモワゼル,当然可以啦，玛德摩瓦泽尔,translated,,660c73f2b7,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#5#12,ちょっと無理かな,今天稍微有点不行呢,translated,,b7d8c19903,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#8#12,"ぐはっ！？
+一気に頼りにならなくなったぞ！","噗哈！？
+一下子就变得不可靠了啊！",translated,妮莉库,114ed99e91,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#9#12,"まったく、せっかく我が誘いに来たと
+いうのに……つまらん奴じゃ。","真是的，亏得老身还特意跑来邀请你……
+你这无趣的家伙。",translated,妮莉库,186970609d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#10#12,"……次の時は、受けてくれることを
+期待しておるぞ。","……希望下一次，
+你能痛快答应老身哦。",translated,妮莉库,82b5db4e5b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#15#12,"マドモワ……？
+お前さんの世界の言葉なのかもしれんが、
+我の知らない単語じゃな。","玛德摩……？
+大概是你小子那边的语言吧，
+反正是老身没听说过的词汇呢。",translated,妮莉库,9d1d4acdc7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#16#12,"まあ、もちろんと言ったのだから
+とりあえずＯＫということじゃろうし、
+早速出発じゃ！","嘛，既然你说了当然可以，
+那姑且就算你同意啦，
+咱们这就出发吧！",translated,妮莉库,7d7f343ebc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#18#12,"さて、ウインドウショッピングを
+楽しみながらのデートと洒落込むとしよう。","好啦，那咱们就一边逛街看橱窗，
+一边潇洒地享受约会吧。",translated,妮莉库,2a5217f09f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#20#12,んっふっふ……。,唔呼呼……,translated,妮莉库,aebe32fb4d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#21#12,"こうして並んで歩いておると、
+傍から見たらどう思われておるかの？","像这样并肩走在一起，
+不知在旁人眼里看来会怎么想呢？",translated,妮莉库,c24fd9693f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#22#12,"やはり恋人と思われておるじゃろうか？
+それとも、やはり夫婦かの？","果然会被看作是恋人吗？
+还是说，会被看成夫妻呢？",translated,妮莉库,fac336039c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#23#12,お前さんはどう思う？,你小子觉得呢？,translated,妮莉库,f49b52906d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#24#12,イオンともそんな会話したっけ……,我记得好像跟伊欧也聊过类似的话题……,translated,,ff8011e6a3,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#25#12,恋人と思われてたら嬉しい,要是被当成恋人我会很高兴,translated,,dd4b8118e6,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#27#12,このたわけ！！,你这个混账蠢货！！,translated,妮莉库,bb385b389a,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#28#12,"貴様、レディとのデート中に他の女を
+思い出すとはどういうつもりじゃ！？","你这家伙，跟淑女约会的时候
+居然敢想起别的女人，到底是什么居心啊！？",translated,妮莉库,da63340c15,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#29#12,"我だからこの程度で許しておるが、
+普通のレディじゃったら即ビンタが
+飛んでおるところじゃぞ？","得亏是老身才这么饶过你，
+换作寻常淑女，早就一个大嘴巴子
+抽过来了好吗？",translated,妮莉库,0b4d655721,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#30#12,"まったく……デリカシーの欠片もない
+愚か者め……。","真是的……
+半点都不解风情的蠢货……",translated,妮莉库,34d76189d5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#31#12,"……まあ、愚かな奴ほど可愛い、と
+いうのも事実じゃがな。","……嘛，越是犯蠢的家伙越可爱，
+这倒也是事实就是了。",translated,妮莉库,42007b5f25,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#34#12,くふふ、正直者め。,呼呼呼，老实巴交的家伙。,translated,妮莉库,52f8da690d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#35#12,"まあ、実際のところは恋人とか夫婦という
+よりかは、愛人ポジションじゃがな。","嘛，实际来看比起恋人或者夫妻，
+倒不如说更像是地下情人的定位呢。",translated,妮莉库,f8f4e26f0e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#36#12,"本妻に隠れてコソコソとデートを楽しむ、
+悪い楽しみに興じる愚か者同士じゃ。","背着正室夫人偷偷摸摸享受约会，
+咱们可都是沉醉于不良快感的愚蠢之辈呢。",translated,妮莉库,7580383224,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#38#12,"しかし……こういうデートではやはり、
+何かイベントが欲しいと思わんか？","不过……这种约会难道你不觉得，
+果然还是该来点突发事件才带劲吗？",translated,妮莉库,457cdfe7df,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#39#12,"ショッピングセンターで堂々と妻ではない
+女とデートに興じるお前さん。","在商业中心里堂而皇之地
+与并非正妻的女人享受约会的你小子。",translated,妮莉库,d3edcf52fe,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#40#12,"その時、向こうから歩いてくるのは何と！
+おお、本妻のとうだいもりではないか！？","就在这时，迎面走来的居然是！
+哎呀，这不是正室夫人灯塔守吗！？",translated,妮莉库,57c50b9487,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#41#12,"あなた、ねりこさんとこんなところで
+何をやってるの！？","相公，你跟奈莉子小姐
+在这种地方做什么呢！？",translated,妮莉库,31ab6ce33e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#42#12,"そして始まるドロドロの修羅場……。
+そういうイベント、一度くらいあっても
+良いとは思わぬか？","紧接着拉开序幕的狗血修罗场……
+这种刺激的事件，难道你不觉得
+经历一次也挺不错的吗？",translated,妮莉库,e85ce83e39,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#43#12,二度、三度とあってもいいかもしれない,搞不好来个两三次也挺不错的呢,translated,,2a5104a813,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#44#12,一度で終わりじゃないですか！,一次就彻底玩完了好不好！,translated,,59aea4acc4,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#46#12,"お、お前さん……度胸があるのか
+ただのバカなのかはわからぬが、
+肝が据わっておるのぅ？","你、你小子……老身真搞不清你是胆子大
+还是单纯的傻，
+胆色倒真是够肥的呐？",translated,妮莉库,33ff3c2249,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#47#12,"まあ、とうだいもりのことじゃから、
+一度までは許すとは思うのじゃが……。","嘛，以灯塔守的性子，
+老身觉得仅限一次或许还会原谅……",translated,妮莉库,204c6d3d72,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#48#12,"……二度目、三度目と続いたとしたら、
+さすがに少々怖い気がするぞ？","……要是再有第二次、第三次的话，
+怎么想都觉得稍微有点吓人哦？",translated,妮莉库,16ca80af04,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#49#12,"とうだいもりは優しいから何でも許して
+くれると思いがちではあるが、
+あやつとて聖女様ではないからの。","虽然人们往往觉得灯塔守温柔体贴
+什么都能原谅，
+但那丫头毕竟也不是什么圣女大人嘛。",translated,妮莉库,a199ac475e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#52#12,"あっはっは、確かにそうじゃな！
+すっかりそのことが抜けておったわ！","啊哈哈哈，确实是这样呢！
+老身完全把那茬给忘得一干二净啦！",translated,妮莉库,ff2846a96e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#53#12,"じゃが、とうだいもりは優しいからの。
+一度までならきっと許してくれると思うぞ。","不过灯塔守性格温顺，
+老身觉得仅限一次的话她肯定会原谅的哦。",translated,妮莉库,0b6bb62685,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#54#12,"……試してみるか？
+いっそとうだいもりの前で、隠れて何度も
+デートしてたとバラしてみるとか……。","……要试一试看吗？
+干脆在灯塔守面前，坦白老身和你
+瞒着她偷偷约会了好多次的事……",translated,妮莉库,80e97b9e30,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#55#12,"くふふ、なんてな。
+そんな誰も得をしないようなことを、
+率先してやるほどバカではないからの。","哼哼哼，开玩笑的啦。
+老身可还没蠢到会主动带头
+去做这种对谁都没好处的事嘛。",translated,妮莉库,85b7ebfa55,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#57#12,"まあ、我達は今後も今のように、
+こっそり楽しんだ方が良いであろう。","嘛，咱们今后也像现在这样，
+偷偷摸摸地享受就挺好的了吧。",translated,妮莉库,95db180f9e,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#58#12,"第一、まだ結婚してからそんなに時間も
+経っておらぬのじゃからな。","首先，你们结婚毕竟
+也还没过去多少时日嘛。",translated,妮莉库,72fe526f17,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#59#12,"いきなり離婚の危機というのは、
+お前さんとて避けたいところであろう？","突然面临离婚危机这种事，
+就算是你小子也想极力避免的吧？",translated,妮莉库,868b88b87a,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#60#12,その時は再婚してくれる？,到那时候您愿意跟我再婚吗？,translated,,2a1ae58599,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#61#12,離婚は嫌だ、イオンが好きなんだ！,我不要离婚，我喜欢伊欧！,translated,,d9027f593b,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#63#12,"どうしてお前さんはそうネガティブな方に
+思考が進むのかのぅ？","你小子怎么满脑子
+净往消极悲观的方向琢磨呢？",translated,妮莉库,88a9284664,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#64#12,"いや、離婚を通り越して再婚のことを
+考えておるのだから、ポジティブに
+なるのか？","不对，既然跳过离婚直接考虑再婚了，
+这难道应该算作
+积极乐观吗？",translated,妮莉库,a2af6f0301,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#65#12,"まあ、どっちにせよ却下じゃ、却下。
+少なくとも、我はお前さんと結婚する気は
+微塵もないからの。","嘛，不管怎样都一律驳回，驳回！
+至少老身跟你小子结婚的念头
+可是一丝一毫都没有的。",translated,妮莉库,ad604458b6,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#66#12,"こうして他人の夫であるお前さんを、
+ちょいと拝借するくらいが丁度いいのじゃ、
+んっふっふ……。","像这样把身为别人家相公的你小子
+稍微借来使使，程度刚刚好嘛，
+唔呼呼……",translated,妮莉库,1f205f4f3c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#69#12,"き、貴様……一応今は我とのデート中だと
+いうのに……。","你、你这家伙……好歹现在可是
+在跟老身约会中啊……",translated,妮莉库,63b091a155,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#70#12,"…………はぁ、まあいい。
+我の心は大海原の如く広いからの。","…………哈啊，算啦。
+毕竟老身的心胸宽广如汪洋大海嘛。",translated,妮莉库,9a2a6d0081,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#71#12,"それに、とうだいもりのことをそれだけ
+大切にしているという証拠じゃからな。","而且，这也是你小子如此珍视
+灯塔守的最好证明嘛。",translated,妮莉库,89940518d4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#72#12,"今後とも、とうだいもりのことを頼むぞ。
+浮気性の亭主殿、んっふっふ……。","今后灯塔守也拜托你照顾啦。
+花心花肠子的相公大人，唔呼呼……",translated,妮莉库,353adfcae3,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#75#12,ふぅ……さて、そろそろ帰るとしよう。,呼……好啦，差不多该回去了。,translated,妮莉库,5cafa5c09d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#76#12,"あまり長居すると、冗談抜きでお前さんに
+本気になってしまいかねないからの。","逗留太久的话，老身搞不好可就真的
+要对你小子动真感情了呢。",translated,妮莉库,b462f7057b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#78#12,ほい、お疲れさん。,好啦，辛苦你啦。,translated,妮莉库,078f56c144,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel13a.txt#79#12,"いや～、やはりデートはいいのぅ。
+十代のレディの気持ちになれるところが
+最高に素晴らしい！","哎呀～，约会果然很棒呐。
+能让人重新找回十多岁妙龄少女的心境，
+简直不能更美妙了！",translated,妮莉库,9fa1e34eef,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#80#12,"若さを保つためには、適度に愛や恋からくる
+ドキドキを感じる必要があるということかも
+しれんな。","为了保持青春活力，看来适度体验一下
+由恋爱带来的小鹿乱撞
+也是很有必要的呢。",translated,妮莉库,099adf550f,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel13a.txt#81#12,"今度のデートも期待しておるからの。
+また我をドキドキさせるのじゃぞ？","老身对下一次约会也很期待哦。
+下次也要让老身心跳不已哦？",translated,妮莉库,a429552d6d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel13a.txt#82#12,"では、愛しき浮気者よ。
+今度会う時まで、ちゃ～んと生きておれよ。","那么，我亲爱的花心大萝卜啊。
+在下次见面之前，可要好好活着哦。",translated,妮莉库,dc7533c0c6,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14.txt#5#12,"ほれほれ、また我が話し相手になりに
+来てやったぞ。","喂喂，老身又特地跑过来
+当你的聊天对象啦。",translated,妮莉库,38713226a4,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14.txt#9#12,……なんじゃ、おらんのかい。,……搞什么嘛，原来不在啊。,translated,妮莉库,c1f0f6542d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#10#12,おーーーい。反応せい。,喂――喂。给点反应啊。,translated,妮莉库,d8656af994,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#12#12,"……やれやれ、仕様がないのぅ。
+少し軸をズラしてみるか……。","……哎呀呀，真拿你没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,b9830bf0c7,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14.txt#14#12,お～い、ねりこさんじゃぞ～？,喂～，是妮莉库小姐哦～？,translated,妮莉库,892ed3c37e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#18#12,……なんじゃ、死んどるんかのう？,……搞什么嘛，真死掉了不成？,translated,妮莉库,50cc5711f9,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#19#12,おーーーい。生きとるなら返事をせい。,喂――！还活着的话就吱个声。,translated,妮莉库,83f117a3c1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#21#12,"……やれやれ、仕方ない。
+また別の機会に来るとするかの……。","……哎呀呀，真没办法。
+还是等下次有机会再来吧……",translated,妮莉库,b7539ba4c5,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14.txt#23#12,お～い、またきてやったぞ～。,喂～，老身又来找你啦～,translated,妮莉库,0a7bd3bd1e,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#27#12,"……ふむ。
+もしかして死んどるのかの？","……唔。
+莫非是死掉了不成？",translated,妮莉库,5e9185b651,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14.txt#28#12,おーーーい。返事をせぃ！,喂――！快回个话啊！,translated,妮莉库,5112c266ec,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14.txt#30#12,"……仕方ないのぅ。
+軸をズラしてみるか……。","……真没办法呐。
+试着稍微错开一下坐标轴看看吧……",translated,妮莉库,4d0528325d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#2#12,"<CLBU>おお、愛しき君よ！
+また会える日をどれだけ楽しみにしていた
+ことか！！","<CLBU>哦哦，我亲爱的人儿啊！
+老身是多么热切地期盼着
+能够与你再次相会的这一天啊！！",translated,妮莉库,b00a729828,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/nelico_dateevent/date_nel14a.txt#3#12,"この再会はまさに運命！
+さあ、今こそ手に手を取って本妻に秘密の
+デートに出かけようではないか！","这场重逢简直就是命运的安排！
+来吧，趁现在执子之手，瞒着正室夫人
+一同踏上秘密约会的旅程吧！",translated,妮莉库,21f983bb2c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#4#12,行きますから落ち着いてください,我会去的您先冷静一下,translated,,9c88421440,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#5#12,ごめんなさい、今日はちょっと……,对不起，今天稍微有点……,translated,,a756738ef1,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#8#12,なっ！？　この流れで断るというのか！？,什么！？都这阵势了你居然还拒绝！？,translated,妮莉库,b1620a3f76,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#9#12,"これでは趣向を変えようと、わざとらしい
+演技をした我がバカみたいではないか！","这样搞得想换换花样、故意演得做作的
+老身像个大傻瓜一样不是吗！",translated,妮莉库,bb224c9549,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#10#12,"く～っ、このたわけが！
+もういい、出直させてもらうぞ！","咕～，你这混账呆子！
+算了，老身改天再来！",translated,妮莉库,bcc9a8e287,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#15#12,"んっふっふ、すまんすまん。
+ちょいと趣向を変えようと思ったが、
+やり過ぎてしまったようじゃ。","唔呼呼，抱歉抱歉。
+老身本想稍微换个风格，
+看来似乎有点戏演过头了呢。",translated,妮莉库,4952ae43cc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#16#12,"もう落ち着いたから大丈夫じゃ。
+では、出発するとしようかの。","老身已经平静下来了，别担心。
+那么，咱们这就出发吧。",translated,妮莉库,5abbfaf70c,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#18#12,んっふっふ、今日は教会デートじゃぞぃ。,唔呼呼，今天可是教堂约会哦。,translated,妮莉库,6057cac089,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#19#12,"まあ、本来デートには向いておらぬ
+場所ではあるが、お前さんとであれば
+問題はないであろう。","嘛，虽然本来不是个适合约会的地方，
+但若是和你小子一起去的话，
+应该没什么问题吧。",translated,妮莉库,e738d1c46a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#20#12,"なんといっても、お前さんは数え切れぬほど
+教会デートを繰り返しておる、教会デートの
+達人じゃからな。","不管怎么说，你小子可是反反复复去了
+无数次教堂约会的、
+教堂约会达人嘛。",translated,妮莉库,683d5a932b,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#21#12,"とうだいもりとはどのようにして
+教会デートを楽しんでおるのじゃ？","你平时跟灯塔守
+都是怎么享受教堂约会的啊？",translated,妮莉库,ebed3ee098,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#22#12,"ほれ、隠さず全て吐いてしまえ。
+さあ、さあ！","快，休要隐瞒，全都给老身招出来。
+来嘛，快说！",translated,妮莉库,c35a0b8b4f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#23#12,結婚式の思い出話をよくする,经常会聊起结婚典礼的回忆,translated,,01fd79ce93,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#24#12,ぶっちゃけ印象ない,老实说没什么印象,translated,,aff437ce06,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#26#12,"おお、なるほど！
+たしかにムードを作る会話としては
+十二分に効果が……。","哦哦，原来如此！
+确实作为营造氛围的对话，
+有着十二分显著的效果……",translated,妮莉库,34f0c259c3,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#27#12,"って、それはお前さんととうだいもりの
+二人だけにしかできぬ楽しみ方ではないか！","不对，那不是只有你和灯塔守两个人
+才能享受的游玩方式嘛！",translated,妮莉库,80bec4fcb8,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#28#12,"我もいたにはいたが、お前さん達の結婚式
+の話で盛り上がるわけにもいくまいし……。","虽说老身当时也确实在场，但总不能
+兴高采烈聊你们婚礼的话题吧……",translated,妮莉库,08fe2c3c9d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#29#12,"むしろそんな会話をされたら、
+さすがの我も泣くぞ？","要是真聊那种话题，
+就算是老身也是会哭鼻子的哦？",translated,妮莉库,38ad10c380,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#32#12,……さ、冷めておるのぅ？,……你、你这也太冷淡了吧？,translated,妮莉库,8d8c63ff3c,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#33#12,"いや、まぁたしかに、教会は本来デートに
+行くような場所ではないからの。
+ただの会話で終わってしまうかもしれん。","不，嘛确实也是，教堂本来就不是
+约会该去的地方嘛。
+搞不好真的只能平淡闲聊两句就结束了。",translated,妮莉库,da702c1438,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#34#12,"とはいえ、一応デートである以上は
+何かこう、とうだいもりが赤面するような
+会話とかもするのであろう？","话虽如此，好歹也算是一场约会，
+平时总该会聊些能让灯塔守脸红心跳的
+悄悄话吧？",translated,妮莉库,a93ff02053,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#35#12,"なのにお前さんは印象がないと言う……
+お前さん達の今後が心配になってくるのぅ。","可你小子却说什么没印象……
+老身都不由得担心起你们的将来啦。",translated,妮莉库,e4d6a74799,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#37#12,"はぁ……やはり、教会でのデートは、
+互いを想いあってる者同士でなくては
+つまらんのかもしれんな。","哈啊……看来在教堂约会，
+要不是两情相悦的恋人一起去，
+搞不好确实很无聊呢。",translated,妮莉库,6f55d5d78e,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#39#12,"我も、いつかウエディングドレスを
+着てみたいものじゃ……。","老身也挺想哪天
+穿一次婚纱试试看呐……",translated,妮莉库,420909a25f,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#40#12,マジで誰かいい人いないんですか？,当真就没有任何中意的好对象吗？,translated,,22217ef17f,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#42#12,"いたらこんな不倫の如きデートを
+するはずがなかろう？","要是有的话，老身哪还会
+跟你小子玩这种偷情般的约会啊？",translated,妮莉库,82d7dbd99b,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#43#12,"いや、まあ正直なところ、お前さんが
+もう一人おってくれたらよかったのに、
+と思わぬこともないが……。","不，嘛说老实话，老身也并非没有想过，
+要是能再有一个你小子
+该有多好啊……",translated,妮莉库,ce9dcd8e87,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#44#12,"……いっそ、とうだいもりに恨まれるの
+覚悟で、お前さんを奪おうと思ったことも、
+その、な……。","……甚至有时候还想过，哪怕做好被灯塔守
+记恨一辈子的觉悟，也要把你抢过来……
+那个，怎么说呢……",translated,妮莉库,df0f4b4439,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#45#12,"……いや、なんでもない。
+今のは聞かなかったことにしてもらおう。","……不，没什么。
+刚才的话你就当没听见吧。",translated,妮莉库,9a91e93071,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#46#12,"そもそも、お前さんととうだいもりを
+引き合わせたのは、他ならぬ我じゃからな。","归根结底，把你和灯塔守
+撮合到一起的，不是别人正是老身嘛。",translated,妮莉库,0388ac42f9,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#47#12,"だというのに、どんな理由があれど
+引き合わせておきながら奪うような
+真似、我には無理じゃ。","既然如此，不论出于何种理由，
+把你们撮合在一块却又横刀夺爱这种事，
+老身是万万做不出来的。",translated,妮莉库,c0463aaf7a,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#48#12,"そんなみっともない真似をしたら、
+大人のレディ失格じゃからの。","要是干出那种难看的勾当，
+那可就彻底丧失作为成熟淑女的资格了嘛。",translated,妮莉库,7c215ccff2,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#49#12,そういうかっこいいねりこさんが好き,我喜欢这样帅气的奈莉子小姐,translated,,03b6d2ce0d,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#50#12,それでも自分の想いに正直にならなきゃ！,即便如此也应该忠于自己的内心才对！,translated,,6f2405c535,br=0 nl=0,1,
+inc/event/res/nelico_dateevent/date_nel14a.txt#52#12,"ふふん、そうじゃろそうじゃろ？
+もっと我を褒め称えても構わぬぞ。","哼哼，就是吧就是吧？
+你小子尽管更加大肆赞美老身也无妨哦。",translated,妮莉库,1955fb2985,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#53#12,"まあ、我は誰かのものになるよりかは、
+こうして男達の憧れのマドンナとして
+存在しておる方が合っておるな。","嘛，比起委身于某个人，
+老身大概还是更适合像这样作为
+男人们憧憬的高岭之花而存在呢。",translated,妮莉库,4f4e2fe50d,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#56#12,"ええい、けしかけるでない！
+ようやく自分の中で諦めが付いたと
+いうのに……。","哎呀，少在那里煽风点火！
+亏得老身好不容易才在心里
+彻底想通死心了的说……",translated,妮莉库,89deb13600,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#57#12,"まあ、そう言われたからといって、
+我の心は簡単にコロコロと変化したりは
+せんがな。","嘛，即便听你这么说，
+老身的心意也不会那么容易
+就摇摆不定的就是了。",translated,妮莉库,5e87738bb2,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#58#12,"一度決めたことは変えない。
+それがかっこいい大人のレディじゃからの。","一旦决定的事情就绝不动摇。
+这才是帅气成熟的淑女做派嘛。",translated,妮莉库,637da10e3d,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#60#12,"ふぅ……しかし、まったく……
+お前さんはおかしな奴じゃな。","呼……不过话说回来，真是的……
+你小子可真是个古怪的家伙呐。",translated,妮莉库,6762678a55,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#61#12,"とうだいもりと二人だけだった頃は、
+こんなにも人に影響されて心を乱される
+ようなことはなかったというのに……。","明明只有灯塔守和老身两个人的时候，
+老身从不曾像这样
+受他人影响而心烦意乱过……",translated,妮莉库,96b45e75c3,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#62#12,"……いや、というよりも人に影響される
+などということ、我にあるはずがないと
+思っておったのじゃがな。","……不，不如说老身原本一直以为，
+自己是绝对不可能
+受到别人左右的呢。",translated,妮莉库,ba90d793de,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#63#12,"だというのに、お前さんと出会ってからと
+いうもの、自分の心境の変化に驚かされっ
+ぱなしじゃよ。","可自从遇见你小子之后，
+老身总是不断被自己心境的变化
+给吓一跳呢。",translated,妮莉库,9a2af6afe7,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#64#12,"お前さんのような相手と結ばれた
+とうだいもりを、心からうらやましく
+思うぞ……心からな……。","能与你这样的对象结为连理，
+老身是打心底里羡慕灯塔守哦……
+真的是发自内心的啊……",translated,妮莉库,4e99a5c1ca,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#65#12,"くふふ、いかんいかん、今日はダメじゃな。
+どうにも暗い気持ちになってしまっておる。","呵呵呵，不行不行，今天不在状态呐。
+不知不觉整个人都变得阴郁起来了。",translated,妮莉库,e5571c2dee,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#66#12,"また出直すとしよう……。
+お前さんがとうだいもりと一緒にいる限り、
+機会はまた来るはずだしの。","老身改天再来吧……
+只要你小子还跟灯塔守在一起，
+想必机会今后还多的是呢。",translated,妮莉库,678c9ba75c,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#68#12,"いや～、何というか、青春を存分に
+楽しんだ、って気分じゃなぁ。","哎呀～，该怎么说呢，
+真是有种尽情享受了青春的感觉呐。",translated,妮莉库,66566d3920,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#69#12,"思い出すだけでこっ恥ずかしい気持ちになる
+デートができるなど、思ってもおらんかった
+からの。","光是回想起来就让人
+感到面红耳赤的约会，
+老身以前可是连想都没想过能体验到呢。",translated,妮莉库,a5f230c0dc,br=0 nl=2,3,
+inc/event/res/nelico_dateevent/date_nel14a.txt#70#12,"お前さんは本当に、我を楽しませてくれる
+貴重な存在じゃ。","你小子对老身来说，
+真的是个能让人尽情取乐的宝贵存在呐。",translated,妮莉库,4db537c184,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#71#12,"これからも、その調子で我を楽しませる
+ために長生きし続けるのじゃぞ。","今后也要保持这个势头，
+为了让老身尽兴而继续长命百岁哦。",translated,妮莉库,7af1fed6be,br=0 nl=1,2,
+inc/event/res/nelico_dateevent/date_nel14a.txt#72#12,"では、そろそろお暇させてもらうぞぃ。
+また会える日を楽しみにしておるからな。","那么，老身差不多该告退啦。
+老身会满心期待着下次重逢的那一天的。",translated,妮莉库,69852d393b,br=0 nl=1,2,

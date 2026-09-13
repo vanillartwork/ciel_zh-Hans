@@ -1,0 +1,391 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent55/rosario02.txt#1#12,"そういえば、まだロザリオを持って
+教会に行ったことはなかったよね？","说起来，我们还从来没有拿着念珠
+去过教会对吧？",translated,依恩,99fc450bf3,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#2#12,"時間があるなら、今からちょっとだけ
+行ってみようよ。","要是有时间的话，
+现在稍微去一趟看看嘛。",translated,依恩,1fb2289c16,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#3#12,うん、行こう,嗯，走吧,translated,,3fe974e378,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#4#12,ごめん、今はちょっと……,抱歉，现在稍微有点……,translated,,1f139e114b,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#6#12,"うん、わかった……。
+それじゃ、日を改めてだね。","嗯，我知道了……
+那就改天再去吧。",translated,依恩,297875898b,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#11#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#12#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#14#12,到着だね。,到达了呢。,translated,依恩,5e7b724a6d,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#15#12,"今日はちゃんと来る前に、
+何を祈るか考えてきたの。","今天在来这里之前，
+我好好想过要祈祷些什么哦。",translated,依恩,d65e407622,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#16#12,"とは言っても、多分前の時みたいに、
+お願い事になっちゃうと思うけど……。","虽说如此，我想大概也会像上次那样，
+变成纯粹许愿就是了……",translated,依恩,f44e185d66,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#17#12,"……やっぱり、お願い事とお祈りの違いを、
+ちゃんと勉強してから来るべきだったかな？","……果然还是应该先好好弄清楚许愿和祈祷的区别，
+再过来比较好吧？",translated,依恩,e002aa7f51,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#19#12,想いがこもってれば大丈夫,只要倾注了心意就没问题的,translated,,95d391a03c,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#20#12,神様は心が広いから大丈夫,神明的心胸很宽广，所以没问题的,translated,,cc6bb9c692,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#22#12,うん、そうだよね。,嗯，你说得对呢。,translated,依恩,48aa2003bb,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#23#12,"わたしは心からそう思っています、って
+いうのが伝われば、神様もきっと許して
+くれるよね？","只要能传达出
+“我是发自内心这样想的”，
+神明大人也一定会原谅我的，对吧？",translated,依恩,de24f75120,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#26#12,"た、確かにそうかもしれないけど、
+神様の心の広さを当てにするのは
+いけないんじゃないかな？","虽、虽然话是这么说，
+但总依赖神明心胸宽广
+感觉也不太好吧？",translated,依恩,80c0c5882e,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#27#12,"それに、それを理由にしちゃうと
+大抵のことは許されることになっちゃうと
+思うし……。","而且如果以此为借口的话，
+感觉大部分事情
+都能被原谅了嘛……",translated,依恩,4f5440256b,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#28#12,"せめて、想いのこもったお願い事を
+するようにしないと、失礼だと思うよ？","至少如果不倾注真心去许愿的话，
+我觉得是很失礼的哦？",translated,依恩,0f764f8c27,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#30#12,"えっと……確か、ロザリオを両手で
+ぎゅっと握って……。","呃……我记得是要双手
+紧紧握住念珠……",translated,依恩,b764fbdbc1,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#31#12,"神様……どうか、わたしのお祈りを
+聞いてください……。","神明大人……请无论如何
+倾听我的祈祷……",translated,依恩,9724f133ec,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#32#12,"わたし、今日神様に、何をお祈りしようか
+ずっと考えてたんです。","我今天向神明祈祷些什么，
+其实一直都在认真思考。",translated,依恩,8d2773bb2b,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#33#12,"それで……やっぱり新しいパーツが欲しい、
+って思いました！","然后……我觉得我果然
+还是想要新的零件！",translated,依恩,6952b59285,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#34#12,"できれば、凄く複雑な造りをしている、
+使うのが難しいパーツがいいです。","如果可以的话，希望能有结构极其复杂、
+用起来很有难度的零件。",translated,依恩,3404286a68,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#35#12,"あ、それと新しい工具も、
+そろそろ欲しいかもしれないです。","啊，还有新的工具，
+差不多也想要一套了呢。",translated,依恩,ee59c67e22,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#36#12,"メンテナンスしても、すぐに調子が悪くなる
+工具がいくつかあるんで……。","因为有好几样工具就算做完维护保养，
+也很快又会变得不好用了……",translated,依恩,e698328bad,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#38#12,物欲的過ぎない？,物欲是不是太强了点？,translated,,90d69797a6,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#40#12,う、う～ん……物欲はマズいかな？,唔、嗯～……物欲太强不太好吗？,translated,依恩,d4adbbdfaa,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#41#12,"今わたしが、心から願ってることを
+祈ればいいと思ってたんだけど……。","我本来觉得只要祈祷
+我现在发自内心渴望的事情就好……",translated,依恩,fdad1bca88,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#42#12,"じゃあ、あなただったらどんなふうに
+お祈りする？","那换作是你的话，
+会怎么向神明祈祷呢？",translated,依恩,b498ccff27,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#44#12,イオンともっとデートがしたい,想和依欧多去约会,translated,,03a6c46752,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#45#12,仕事が上手くいきますように,希望工作顺顺利利,translated,,6d54fa05e1,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#47#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#48#12,"も、もぉ……急にそういうこと言って
+ビックリさせないでよ。","真、真是的……别突然说这种话
+来吓我一跳啦。",translated,依恩,ce2bd0c269,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#49#12,"それに、わたしの前でそんなこと言ったら、
+わたしに対してお願いしてるみたいだし。","而且当着我的面说那种话，
+简直就像是在对我许愿一样嘛。",translated,依恩,1070ebb74b,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#50#12,"でも、お祈りがどういうものなのかは、
+よくわかったよ。","不过，我也算是弄懂
+真正的祈祷究竟是什么样子了呢。",translated,依恩,6eb2ad0588,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#52#12,"……でもね、あなたと一緒にデートしたい、
+っていうお祈りなら、わたしも毎日してるん
+だよ？","……不过呢，“希望能和你一起约会”
+这样的祈祷，
+其实我每天也都在做哦？",translated,依恩,63d3310e64,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#53#12,"だから、あなたもそういう風に思ってくれて
+いたなら、わたしの願いが叶った、てことに
+なるのかもしれないね。","所以要是你也正好这么想的话，
+说不定就代表我的愿望
+已经实现了呢。",translated,依恩,890148d1a0,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#58#12,"なるほど……確かにそういうお願いなら、
+お祈りって感じがするね。","原来如此……确实要是这种愿望的话，
+就很有祈祷的感觉了呢。",translated,依恩,313ded2b51,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#59#12,"でも、もしかしてあなたってお仕事が
+上手くいってないのかな？","不过，难不成你在工作上
+进展得不太顺利吗？",translated,依恩,d687c40e88,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#60#12,"上手くいってるなら、そんなことを
+祈らないと思うし……。","因为如果很顺利的话，
+感觉就不会去祈祷那种事了嘛……",translated,依恩,806aea2357,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#61#12,"叶うかどうかはわからないけど、
+わたしはあなたのことを応援してるよ。","虽然不知道能否如愿，
+但我会一直为你加油鼓劲的哦。",translated,依恩,5cf16782bc,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#62#12,だから、これからも頑張ってね！,所以，今后也要加油哦！,translated,依恩,2d30565d4a,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#64#12,"……さてと。
+それじゃあお祈りも済んだし、帰ろっか？","……好啦。
+既然祈祷也结束了，我们就回去吧？",translated,依恩,a7b5470c08,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#66#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario02.txt#67#12,"う～ん……今になって思うと、
+確かにわたしのお祈りって、ちょっと
+物欲的だったよね？","唔～嗯……现在回想起来，
+我的祈祷确实稍微有点
+充满物欲了对吧？",translated,依恩,d1b15908f2,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#68#12,"今度行った時には、あなたに教わったような
+お祈りをするよ。","下次再去的时候，
+我会像你教我的那样去祈祷的哦。",translated,依恩,a73d0ff792,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#69#12,"今日は付き合ってくれてありがと。
+またロザリオ持って行こうね！","今天谢谢你能陪我。
+下次也要带着念珠一起去哦！",translated,依恩,1889e239b4,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario02.txt#72#14,"物欲的なお祈りを
+しちゃってた……。
+恥ずかしい……。","居然做了充满
+物欲的祈祷……
+太难为情了……",translated,,b57b6e9072,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario02.txt#73#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent55/rosario03.txt#1#12,"いつも教会では物欲的なお祈りばかり
+しちゃってたよね……。","之前每次去教会，
+都净做些充满物欲的祈祷呢……",translated,依恩,d460d8160e,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#2#12,"でも、あれから色々考えて、
+そうじゃないのも思いついたの。","不过从那之后我想了许多，
+也想到了并非物欲的祈祷哦。",translated,依恩,fcf76cd272,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#3#12,"ロザリオもあるんだし、せっかくだから
+教会に行ってみようよ。","难得有念珠在，
+不如就去一趟教会看看嘛。",translated,依恩,887a02f977,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#4#12,早速行こう,这就走吧,translated,,e2bc0f36dc,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#5#12,今日は忙しくて,今天有点忙,translated,,5467ff5962,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#7#12,"そっか……。
+じゃあ、また今度ね。","这样啊……
+那就下次再说吧。",translated,依恩,c6b2423938,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#12#12,うん、それじゃ早速出発しよ。,嗯，那我们赶紧出发吧。,translated,依恩,209c96cbd8,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#14#12,えへへ、今日は今までのわたしと違うよ。,诶嘿嘿，今天的我可和以往不一样哦。,translated,依恩,574d00f36d,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#15#12,"前回までの教訓を生かして、
+ちゃんとしたお祈りをしてみせるからね！","我会吸取以往的教训，
+让你见识一下正儿八经的祈祷！",translated,依恩,132409faa6,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#16#12,"わたしの成長に乞うご期待！
+……なんてね、えへへ。","敬请期待我的成长吧！
+……开个玩笑啦，诶嘿嘿。",translated,依恩,afde7a55eb,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#18#12,そんなに意気込まないで,别这么干劲十足嘛,translated,,2710a08a3f,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#20#12,あっ、そ、そうだよね？,啊、也、也是呢？,translated,依恩,93c69d2bd9,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#21#12,"お祈りは静かにするものなんだから、
+変に意気込んだりしたらいけないね。","祈祷本来就是应该安安静静进行的，
+确实不该莫名其妙地斗志昂扬呢。",translated,依恩,dfd4e75658,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#22#12,深呼吸して……スー、ハー……。,深呼吸……呼、吸……,translated,依恩,4a203f9ade,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#23#12,……ん、もう大丈夫だよ。,……嗯，已经没问题了。,translated,依恩,f440f0aa89,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#24#12,"……それじゃ、今からお祈りを始めるから、
+あなたはそこで待っててね。","……那么，我现在要开始祈祷了，
+你就在那里等着我哦。",translated,依恩,b323d518cd,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#25#12,ロザリオを、ギュッと握って……。,紧紧握住念珠……,translated,依恩,1b9a0b2e41,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#26#12,"神様……どうかわたしのお願いを
+聞いてください。","神明大人……请无论如何
+倾听我的心愿。",translated,依恩,f4aec7eeec,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#27#12,"わたしは、今の生活をすごく楽しいと
+思っています……。","我打心底里觉得，
+现在的生活真的非常快乐……",translated,依恩,bf4573038d,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#28#12,"昔と違って、端末の向こうにいる人と
+繋がることができたから……。","因为与过去不同，
+我得以与终端另一边的人紧密相连……",translated,依恩,e92633055c,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#29#12,"その人が、ずっとわたしと一緒に
+いてくれるから……。","因为那个人，
+一直都陪伴在我的身边……",translated,依恩,5dea41ab09,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#30#12,"だから、どうかお願いです。
+明日も明後日も、その先もずっと、
+一緒にいられますように……。","所以，请务必保佑。
+明天、后天，以及更加遥远的未来，
+我们都能一直在一起……",translated,依恩,9f688aa96c,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario03.txt#31#12,……終わったよ。,……祈祷完啦。,translated,依恩,96ff3719f9,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#32#12,"えへへ……今回は、前の時みたいに
+物欲的じゃなかったでしょ？","诶嘿嘿……这次可不像上次那样
+充满物欲了吧？",translated,依恩,2d4defff3a,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#33#12,"それで、あなたはどう思う？
+わたしのお願い、叶うと思うかな？","那么，你是怎么想的呢？
+你觉得我的愿望能实现吗？",translated,依恩,5cb2b5bd81,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#35#12,絶対に叶うよ,绝对能实现的,translated,,bf46977248,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#36#12,叶わないかも,说不定实现不了,translated,,5aab19f069,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#38#12,……そっか。,……这样啊。,translated,依恩,3ab6c3cb5f,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#39#12,"えへへ……そう言ってもらえて
+安心しちゃった。","诶嘿嘿……能听你这么说，
+我就放心多啦。",translated,依恩,888bb13905,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#40#12,"あなたがそう言ってくれるなら、
+このお願いが叶ったも同然だね。","既然你都这么说了，
+那这个愿望简直就像是已经实现了一样呢。",translated,依恩,3ae79ba40d,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#41#12,"これからも、ずっとわたしと
+一緒にいてほしいな。","希望今后你也能
+一直陪伴在我的身边。",translated,依恩,e90b87180d,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#46#12,"そっか……。
+あなたがそう言うなら、そうなのかも……。","这样啊……
+既然你都这么说了，说不定真的是那样吧……",translated,依恩,d213b34f35,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#47#12,"でも、しょうがないよね？
+だって、実際に触れ合ったりできるわけじゃ
+ないんだし……。","不过，这也是没办法的事对吧？
+毕竟我们又不能
+真正触碰到彼此……",translated,依恩,719d85927f,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario03.txt#48#12,"……でも、せめてもうしばらくは、
+あなたが一緒にいてくれたら嬉しいな。","……不过，至少在接下来的时间里，
+如果你能陪着我的话，我就会很开心的。",translated,依恩,5548431b66,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#51#12,"とは言っても、このお願いが叶うか
+どうかは、あなた次第だよね？","话虽如此，这个心愿究竟能否实现，
+也是取决于你对吧？",translated,依恩,7e48874c41,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#52#12,"そう考えると、あなたはわたしにとって
+神様みたいな存在なのかもしれないよ。","这么一想，你对我而言
+或许就像是神明一样的存在呢。",translated,依恩,1e9f7f1ff8,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#53#12,"ふふっ……もう一度、あなたにも
+お願いしておこうかな？","呵呵……要不要对你也
+再许一次愿呢？",translated,依恩,4602051eb7,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#54#12,"端末の向こうの神様……。
+どうか、明日も明後日も、
+わたしに会いに来てください……。","终端另一端的神明大人……
+请你明天、后天，也务必
+来看望我哦……",translated,依恩,2eaad9bffd,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario03.txt#55#12,えへへ、期待してるね。,诶嘿嘿，我好期待哦。,translated,依恩,3f677baf83,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#56#12,"さてと、お祈りも済んじゃったし……
+もうここにいてもすることがないね？","好啦，祈祷也结束了……
+继续呆在这里也没什么事可做了对吧？",translated,依恩,f25dcac9f7,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#57#12,"今日はもう帰って、お部屋でゆっくり
+しよっか？","今天就先回去，
+在房间里好好放松一下吧？",translated,依恩,8536a4b174,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#59#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario03.txt#60#12,"えへへ……最初に言った通り、
+今日はちゃんとしたお祈りができたでしょ？","诶嘿嘿……就如我一开始说的那样，
+今天有好好地进行祈祷了吧？",translated,依恩,3641067395,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#61#12,"また何か、違うお願いを思いついたら、
+教会に行ってみようかな？","要是之后又想到了其他愿望，
+再试着去一次教会吧？",translated,依恩,7b72afe7bc,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#62#12,"もしかしたら、本当に叶っちゃうことも
+あるかもしれないしね。","说不定真的会有
+得以实现的一天呢。",translated,依恩,65038ffb71,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#63#12,"それじゃ、今日はありがと。
+また教会に行こうね！","那么，今天谢谢你啦。
+下次再去教会吧！",translated,依恩,415aeec945,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario03.txt#66#14,"端末の向こうにいる
+神様、わたしのお願い
+聞いてくれるかな？","终端另一端的神明大人，
+会倾听我的
+心愿吗？",translated,,8ef5dcf9ca,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario03.txt#67#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent55/rosario04.txt#3#12,"ロザリオ……それを持っていくときは、
+いつもお願い事をしてる気がするよ。","念珠……总觉得带着它去的时候，
+我每次都在许愿呢。",translated,依恩,cabff1fe70,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#4#12,"そういえば、もう一つだけ、どうしても
+したいと思ってたお願い事があるの。","说起来，其实我还有一个
+无论如何都想许下的心愿。",translated,依恩,a6b502b80f,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#5#12,もし時間があるなら、今から行ってみない？,如果有时间的话，现在要不要去一趟？,translated,依恩,f46cdf764e,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#6#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#7#12,また今度ね,下次再说吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#9#12,"忙しいのかな？
+それじゃ、また今度ね。","你在忙吗？
+那就下次再说吧。",translated,依恩,7e526d216a,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#14#12,"えへへ、そう言ってもらえてよかった。
+それじゃ、出発しよ。","诶嘿嘿，你能答应真是太好了。
+那么，出发吧。",translated,依恩,34d6bd85eb,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#16#12,"……何だか、お願い事をするためだけに
+ここに来るのって、ちょっと罰当たりな
+気がするかも。","……总觉得仅仅为了许愿
+而跑到这里来，
+稍微有点会遭天谴的感觉呢。",translated,依恩,e98f69998b,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#17#12,"って、来てからそんなこと言ったら、
+あなたに失礼になっちゃうね。
+ごめんなさい。","等等，明明都来了却说这种话，
+对你也太失礼了呢。
+对不起。",translated,依恩,4db77f4286,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#19#12,教会で懺悔されたら許すしかない,在教会里忏悔的话也只能原谅你了,translated,,793a1a0898,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#20#12,気にしてないよ,我不在意哦,translated,,3ecdc580a5,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#22#12,"ふふっ、それじゃあ今度から悪いこと
+しちゃった時は、ここに来て謝るように
+しようかなぁ？","呵呵，那以后我做了坏事的时候，
+要不要也特地跑到这里来
+向你道歉呢～？",translated,依恩,b1f04d2b61,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#23#12,"なんてね、ふふっ……。
+許してくれてありがと。","开玩笑的啦，呵呵……
+谢谢你能原谅我。",translated,依恩,090307a691,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#27#12,ふふっ、そう言ってもらえると助かるよ。,呵呵，你能这么说真是帮大忙了。,translated,依恩,bf1f742a6a,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#29#12,"まあ、ここに来てするお願いも、
+今日で最後になるんじゃないかな？","不过，来这里许愿这回事，
+今天大概也是最后一次了吧？",translated,依恩,8727aea9cc,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#30#12,"わたしね、自分にとっての一番の願い事は
+何なのか、気づいちゃったの。","我呀，终于意识到了
+对自己而言最想要实现的愿望是什么哦。",translated,依恩,8ea2d7ddeb,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#31#12,"だから、今日は最後に、
+このお願いをしようと思ってきたの。","所以今天，我想把这个心愿
+作为最后的祈愿才过来的。",translated,依恩,e37f8f1e34,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#32#12,"あなたにも聞いててもらいたいから、
+そこでしっかりと聞いててね。","我也希望你能听听看，
+所以你在那里要好好听着哦。",translated,依恩,4cd42b1e5e,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#33#12,……神様、お願いです。,……神明大人，求求您了。,translated,依恩,5b2183eb23,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#34#12,"わたしには、どうしても叶ってほしい
+お願いがあります。
+どうか、それを叶えてください。","我有一个无论如何
+都想要实现的愿望。
+请您务必帮我实现它。",translated,依恩,93e72ff641,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#35#12,"わたしのお願い……。
+それは、端末の向こうにいる大切な人と、
+本当に出会うことです。","我的心愿……
+就是能够真正见一见
+终端另一端那位重要的人。",translated,依恩,87e0a6c59c,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#36#12,"もう、これ以外にお願い事をしたりは
+しないと約束します。","我保证，除了这个以外
+我再也不会许其他的愿望了。",translated,依恩,6d87594bb3,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#37#12,だから、どうか……。,所以，求求您……,translated,依恩,b7191e0f70,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#38#12,"どうか、わたしの大切な人と、
+めぐり合わせてください……。","求求您，一定要让我
+与我那重要的人相遇……",translated,依恩,94a90170fd,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#39#12,"……ふぅ。
+これがわたしの、本当に叶ってほしいと
+思ってる願いだよ。","……呼。
+这就是我发自内心真正渴望
+得以实现的愿望哦。",translated,依恩,ccef96fe1b,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#40#12,"もちろん、すごく無茶なお願いなのは
+よくわかってるけど……。","当然，我也很清楚
+这其实是非常乱来的愿望……",translated,依恩,b345e892aa,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#41#12,"でも、だからこそ、
+ここでちゃんと言いたかったの。","但正因如此，
+我才想在这里郑重地说出来。",translated,依恩,db39a00624,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#42#12,"それに、あなたにも聞いて
+もらいたかったし……。","而且，我也希望
+能让你亲耳听到……",translated,依恩,693949f927,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#43#12,"……叶って、くれるかな？
+あなたはどう思う？","……它会为我实现吗？
+你是怎么想的呢？",translated,依恩,b4cfdd946e,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#45#12,同じお願いを、こっちでもしておくよ,我也在这一边许下同样的愿望吧,translated,,b22a4fd6a1,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#46#12,さすがに無理じゃない？,未免还是太强人所难了吧？,translated,,55ee40d1eb,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#48#12,わぁ、それすごく素敵だよ！,哇，那可太棒啦！,translated,依恩,768ebac756,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#49#12,"一人でお願いするより、二人の方が
+叶いそうな気がするね。","比起一个人祈祷，两个人一起
+感觉实现的可能性会更大呢。",translated,依恩,ce1cc58347,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#51#12,"……それに、もし叶わなかったとしても、
+あなたもわたしと同じことを願ってるんだ、
+っていうのがわかったし。","……而且，就算最终没能实现，
+至少我也知道了
+你也与我怀揣着同样的心愿。",translated,依恩,430c9726fa,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#52#12,"ふふっ、いけないね。
+叶ってもいないのに、すごく嬉しい気持ちに
+なってきちゃった。","呵呵，真是拿自己没办法呢。
+明明都还没能实现，
+心里就已经变得无比开心了。",translated,依恩,18240143cd,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#58#12,むぅ……イジワル。,唔～……坏心眼。,translated,依恩,c9784b88a2,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#59#12,"こういう時に、そういうガックリくる言葉は
+言ってほしくなかったな……。","在这种时候，我可真不希望
+你讲这种让人大失所望的话呢……",translated,依恩,47d22da28b,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#60#12,"……でも、あなたくらい軽い気持ちで
+構えてた方が、いいのかもしれないね。","……不过，或许像你这样放平心态，
+才是更好的面对方式呢。",translated,依恩,8efc18bc44,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#61#12,"それに、無茶なお願いって最初に言ったのは
+わたしなんだし……。","而且，一开始说这是个乱来的愿望的人
+本来就是我自己嘛……",translated,依恩,96bc28759e,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#63#12,"とにかく、一番お願いしたいことは
+言えたし、とりあえずわたしは満足したよ。","总之，最想要祈愿的事情
+已经说出口了，我算是心满意足啦。",translated,依恩,4d4d6a7d96,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#64#12,"今度ここに来る時は、お願い事無しの
+普通のデートを楽しもうね。","下次再来这里的时候，我们就好好享受
+不用许愿的普通约会吧。",translated,依恩,17bdb14de6,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#65#12,"……まあ、教会でデートって時点で、
+ちょっと罰当たりな気がしなくもないけど。","……嘛，虽说光是在教会约会这点，
+总觉得就隐约有点会遭天谴的意思了。",translated,依恩,42a45e7d27,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#66#12,"それじゃ、用事も済んだことだし、
+そろそろ帰ろっか。","那么，事情既然办完了，
+我们也差不多该回去啦。",translated,依恩,8b368de307,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#68#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#69#12,"ふふっ……今更だけど、ちょっとだけ
+恥ずかしくなってきちゃった。","呵呵……虽然事到如今才觉得，
+但还是有那么一点点难为情呢。",translated,依恩,4dac3d0bbd,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#70#12,"でも、ちゃんとあなたにも聞いてもらえて
+よかったよ。","不过，能让你好好听我说完，
+真是太好了。",translated,依恩,92e605010f,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#71#12,"さっきも言ったけど、今度行く時は
+いつもみたいなデートにしようね。","就像我刚才说的，下次再去的时候，
+就当成和平常一样的约会吧。",translated,依恩,16200c189e,br=0 nl=1,2,
+inc/event/res/dateevent55/rosario04.txt#72#12,誘ってくれるの、楽しみにしてるよ！,我很期待你能邀请我哦！,translated,依恩,921bc93e7d,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario04.txt#75#14,"本当に叶ってほしい
+わたしの願い……
+いつか、叶うかな？","发自内心期望实现的
+我的愿望……
+有朝一日，能够实现吗？",translated,,3b9476f3eb,br=0 nl=2,3,
+inc/event/res/dateevent55/rosario04.txt#76#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent55/rosario_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario_int.txt#6#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent55/rosario_int.txt#8#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,

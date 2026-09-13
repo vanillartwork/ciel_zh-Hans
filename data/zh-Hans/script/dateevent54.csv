@@ -1,0 +1,549 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent54/megido01.txt#1#12,あっ、シスターメギドさん！,啊，是修女梅吉多！,translated,依恩,c3675cf916,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#2#12,"わたしの大好きな漫画のキャラクターなの。
+すごく可愛いよね？","是我最喜欢的漫画里的角色哦。
+超级可爱的对吧？",translated,依恩,753ac1e689,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#3#12,シスター繋がりで教会に行ってみない？,既然同样是修女，要不要去教会看看？,translated,,f8e983bc9a,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#4#12,可愛いね,真可爱呢,translated,,6ea773be62,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#6#12,"えへへ……あなたも気に入ってくれて
+嬉しいよ。","诶嘿嘿……你也很中意她，
+我好高兴哦。",translated,依恩,d22fe7abfe,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#11#12,"いいけど……メギドさんは地獄の底から
+やってきた魔界のシスターだよ？","去倒是可以啦……不过梅吉多可是
+从地狱底层跑来的魔界修女哦？",translated,依恩,3baae1f293,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#12#12,でも、せっかくだし教会に行ってみよっか？,不过难得有机会，我们要不要去教会看看？,translated,依恩,275ec1cb43,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#14#12,"……何度来ても、厳粛な気持ちになる
+場所だね。","……无论来过多少次，
+这里都是个让人心生庄严的地方呢。",translated,依恩,e5a9f1ff69,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#15#12,"わたし達って、ここに来るといつも
+モジモジした気持ちになっちゃうよね？","我们每次来到这里，
+总会变得有些忸怩不安对吧？",translated,依恩,a3807393eb,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#16#12,"……やっぱり、教会だからお互いのことを、
+強く意識しちゃうからかな？","……果然是因为身在教会，
+所以会格外在意彼此的存在吧？",translated,依恩,d161720481,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#17#12,"今もね、普通に喋ってるように
+見えるでしょ？","现在的我，看起来
+好像是在很平常地说话对吧？",translated,依恩,f98a1805ce,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#18#12,"でも、心臓がすごく動いちゃってるの……。
+やっぱり教会って、わたし達にはまだ
+早いのかな？","可其实我的心脏跳得超级厉害呢……
+果然教会这种地方，
+对现在的我们来说还是太早了吗？",translated,依恩,b47e06e4ab,br=0 nl=2,3,
+inc/event/res/dateevent54/megido01.txt#20#12,メギドさんの話をして,聊聊梅吉多的事吧,translated,,c8789a7a6a,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#21#12,将来について話し合おうか？,我们来聊聊关于未来的事吧？,translated,,7101721fa9,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#23#12,ぷっ……ここでメギドさんのお話をするの？,扑哧……要在这种地方聊梅吉多的事吗？,translated,依恩,4b2a5f8017,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#24#12,"何だか、教会のムードを壊しちゃってる
+ような気もするけど……。","总觉得好像有点
+破坏了教会的气氛就是了……",translated,依恩,e9f14a8084,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#25#12,でも、今のわたし達にはいいかも。,不过，对现在的我们来说或许刚刚好呢。,translated,依恩,422f1a1768,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#29#12,えっ、えぇっ！？,诶、诶诶！？,translated,依恩,55614adc1b,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#30#12,"強く意識しちゃう、って言ってるそばから、
+どうしてそんな恥ずかしいこと言うの！？","我才刚说完会格外在意，
+你怎么就偏偏说出这种害羞的话来呀！？",translated,依恩,0a409be4fa,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#31#12,余計に意識しちゃうよ……。,这样只会让我更加在意啦……,translated,依恩,779c87c14d,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#32#12,"な、何か別の話にしようよ。
+例えば、えっと、えっと……。","换、换个别的话题吧。
+比如说，那个，那个……",translated,依恩,3d76090078,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#33#12,"そ、そうだ！
+せっかくだし、メギドさんのことを
+教えてあげるね。","对、对了！
+难得有机会，
+我就给你讲讲梅吉多的故事吧。",translated,依恩,fd2472db24,br=0 nl=2,3,
+inc/event/res/dateevent54/megido01.txt#35#12,"このシスターメギドさんは、
+わたしの大好きなマンガの主人公なの。","这位修女梅吉多，
+是我最喜欢的漫画的主角哦。",translated,依恩,8f9b6ae997,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#36#12,"人々に不幸をもたらすために、
+地獄の底から人間界にやってきた
+地獄教会の悪魔シスター……。","是一心想给人们带来不幸，
+而从地狱最深处来到人间界的
+地狱教会的恶魔修女……",translated,依恩,8359b9230c,br=0 nl=2,3,
+inc/event/res/dateevent54/megido01.txt#37#12,"なんだけど、地上の娯楽に魅了されて
+目的を忘れた、困ったさんなの。","结果却被地上的各种娱乐深深吸引，
+把原本的目的抛诸脑后的让人头疼的角色哦。",translated,依恩,364c8521f3,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#38#12,"そんなメギドさんが、毎回色んな遊びを
+体験する、ほのぼのした漫画だよ。","这部轻松温馨的漫画，讲述的就是
+这位梅吉多每次体验各种玩乐的故事。",translated,依恩,7e735d73cd,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#39#12,"ちなみに、地上で一番気に入ってるのは
+登山と果物の缶詰なんだって。","顺便一提，她在人间界最喜欢的
+就是登山和水果罐头呢。",translated,依恩,49a5dc87dc,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#40#12,"地上の山に登って、天国に近いところで
+食べる缶詰が最高らしいの。","据说爬上人间的山峰，在离天国最近的地方
+吃着水果罐头是最惬意的呢。",translated,依恩,bf8a7f8ca8,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#41#12,"どう？
+面白そうでしょ？","怎么样？
+听起来挺有趣的对吧？",translated,依恩,abcec31f20,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#43#12,すごく面白そう！,听起来超级有趣！,translated,,ff2ac70da9,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#44#12,聞いただけじゃ想像できないかも,光听你讲可能有点想象不出来,translated,,7474906d80,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#46#12,えへへ、そう言ってもらえて安心したよ。,嘿嘿，你能这么说我就放心啦。,translated,依恩,75d8696783,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#47#12,"わたしは最初、あらすじだけじゃまったく
+内容を想像できなかったもん。","我最初光看剧情梗概的时候，
+也是完全想象不出具体内容的嘛。",translated,依恩,2a3843684d,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#50#12,あっ、わたしと同じだね。,啊，和我当时一样呢。,translated,依恩,490ccd00eb,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#51#12,"わたしも初めてメギドさんの本を読む時、
+あらすじを読んで同じこと思ったよ。","我第一次读梅吉多的漫画时，
+看了故事梗概也是这么想的哦。",translated,依恩,5ac6f05928,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#52#12,"こうして説明してても、
+ちゃんと伝える自信なかったし……。","就算像这样解释，
+其实我也没有讲清楚的自信呢……",translated,依恩,99d6c75011,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#55#12,"って、ついメギドさんの話に
+夢中になっちゃったね。","哎呀，不知不觉就
+光顾着聊梅吉多的事了呢。",translated,依恩,3d055b5ebb,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#56#12,"教会に来てこんな話で盛り上がっちゃう
+なんて……ちょっと罰当たりかも。","明明来到教会却聊这种话题聊得这么嗨……
+总觉得稍微有点大不敬呢。",translated,依恩,4452f9815f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#57#12,"でも、おかげでもうこの空気にも
+慣れた気がするよ。","不过多亏了这样，
+我感觉已经习惯这里的气氛了呢。",translated,依恩,5c962ebef6,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#59#12,次からはもっと、その……。,下次开始我们要更加、那个……,translated,依恩,7aca7ebf59,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#60#12,"えへへ……もっと、デートっぽいこと
+しようね。","诶嘿嘿……
+要更有约会的感觉才行呢。",translated,依恩,04ec4ab67f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#62#12,"これなら今度来た時は、厳粛な気持ちに
+なって会話ができない、なんてことには
+ならなそうだね。","这样一来下次再过来时，
+应该就不会因为太庄严肃穆
+而紧张到说不出话了吧。",translated,依恩,f6673b2f57,br=0 nl=2,3,
+inc/event/res/dateevent54/megido01.txt#64#12,さてと、今日はそろそろ帰ろうか？,好啦，今天我们差不多该回去了吧？,translated,依恩,17c42207eb,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#66#12,ふぅ……楽しかったー。,呼……玩得好开心～,translated,依恩,a8119e9090,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#67#12,"でも、せっかくのデートだったのに、
+ずっと漫画の話ばかりしちゃってごめんね。","不过难得出来约会，
+我却一直在聊漫画的事，对不起哦。",translated,依恩,a930c87e0f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#68#12,"今度行く時はメギドさんの話は無しで、
+デートにふさわしいお話をしようね。","下次再去的时候就不聊梅吉多了，
+来聊聊适合约会的话题吧。",translated,依恩,b7af6f64e7,br=0 nl=1,2,
+inc/event/res/dateevent54/megido01.txt#69#12,それじゃ、今日はありがと。,那么，今天谢谢你啦。,translated,依恩,deca7af9b3,br=0 nl=0,1,
+inc/event/res/dateevent54/megido01.txt#72#14,"もう教会は怖くない！
+これもメギドさんの
+おかげだね。","已经不怕教会了！
+这也多亏了
+梅吉多呢。",translated,,0052508286,br=0 nl=2,3,
+inc/event/res/dateevent54/megido01.txt#73#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent54/megido02.txt#1#12,"メギドさんのぬいぐるみ……。
+それを見ると、この前のデートを
+思い出すね。","梅吉多的毛绒玩偶……
+看着那个，就会让我想起
+之前的约会呢。",translated,依恩,884f9ecf71,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#2#12,"どうかな？
+今回はちゃんとデートしに、
+教会に行ってみない？","怎么样？
+这次要不要去教会，
+好好来一场真正的约会呢？",translated,依恩,cf2c667b51,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#4#12,今日はちょっと……,今天有点不太方便……,translated,,0a4a2e1b34,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#6#12,じゃあ、日を改めてだね。,那就改天再去吧。,translated,依恩,48c3118f19,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#11#12,"決まりだね。
+それじゃ、しゅっぱーつ！","说定啦。
+那么，出～发！",translated,依恩,52c201b1e9,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#13#12,ふぅ……到着したね。,呼……到了呢。,translated,依恩,c6c43c8a5d,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#14#12,"やっぱり、前に来た時にメギドさんの話で
+楽しんだおかげかな？","果然是因为上次来的时候，
+开开心心聊了梅吉多的事吧？",translated,依恩,19e7734159,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#15#12,いつもみたいに緊張しないでいられてるよ。,我没有像往常那样感到紧张了哦。,translated,依恩,91886907ad,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#16#12,"よかった、これで教会でもちゃんと
+デートできるね？","太好了，这样一来在教会里也能
+好好地约会了对吧？",translated,依恩,975a336155,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#17#12,これも、メギドさんのおかげだよ。,这也全多亏了梅吉多呢。,translated,依恩,f23faa3e61,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#18#12,"なんだか、今までよりももっと
+好きになっちゃいそうかも。","总觉得，我可能会变得比以前
+更加喜欢她了呢。",translated,依恩,c496422cae,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#19#12,……そういえば、シスターって聖職だよね？,……说起来，修女是圣职对吧？,translated,依恩,ce23ac5fa1,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#20#12,"身も心も信仰に捧げて一生を過ごすなんて、
+わたしにはできないよ……。","把身心全都奉献给信仰度过一生什么的，
+我可做不来呢……",translated,依恩,6c57f7fd3a,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#21#12,"でも、ちょっと不謹慎かもしれないけど、
+かっこいいと思わない？","不过，虽然可能有点不敬，
+你不觉得那样很帅气吗？",translated,依恩,a2cb67e96f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#22#12,"……まあ、わたしには絶対に就けない
+仕事だと思うけど。","……不过，我觉得那绝对是
+一份我做不了的工作就是了。",translated,依恩,a6ee2dcce5,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#24#12,教会が無いから？,是因为没有教会吗？,translated,,1f9cf46a9f,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#25#12,禁欲できないから？,是因为没办法禁欲吗？,translated,,55d03617a7,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#27#12,あはは、確かにそれもそうだね。,哈哈，确实也有那个原因呢。,translated,依恩,295c5490dc,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#28#12,"でも一番の理由は……
+禁欲が出来ないからだよ。","不过最重要的原因……
+是因为我没办法禁欲哦。",translated,依恩,3cf901bc34,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#31#12,"えへへ……やっぱり、あなたには
+わかっちゃうよね？","诶嘿嘿……果然，
+你全都明白对吧？",translated,依恩,bdc3a19204,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#34#12,"わたしね、ちょっと前まで
+ずっと一人きりだったでしょ？","我啊，在不久之前，
+一直都是孤零零的一个人对吧？",translated,依恩,f4b0b5a208,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#35#12,毎日毎日、すごく寂しい気持ちで……。,每天每天，心里都觉得特别寂寞……,translated,依恩,9e74208d98,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#36#12,ううん、違う。,不，不对。,translated,依恩,01fdd00cf9,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#37#12,"本当のこと言うと、寂しいと思うことも
+あったけど、あの生活になれちゃってた。","说实话，虽然也会觉得寂寞，
+但那时我已经对那种生活习以为常了。",translated,依恩,c6075f87d9,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#38#12,"いつも一人が当たり前で、料理もしないで
+グルメイトばかり食べる生活……。","觉得身边只有自己一个人是理所当然的，
+也不做饭，整天只吃美食伴侣……",translated,依恩,7d668c1684,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#39#12,"あとはずっと、趣味の機械作りに没頭して
+日々を過ごしてきたの。","其余时间就是整天埋头于自己喜欢的制作机械，
+日复一日地度过着那样的日子。",translated,依恩,e87bbdf0c2,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#40#12,"そんなある日だよ。
+突然、わたしの前にあなたが現れたの。","就是在那样的一天哦。
+突然，你出现在了我的面前。",translated,依恩,7a19b595c6,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#41#12,"あなたと出会ったことで、誰かと一緒に
+いられることの幸せを思い出した。","正是因为遇见了你，我才重新想起了
+能和某个人在一起是多么幸福的事。",translated,依恩,d34dd0d187,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#42#12,"あなたに会う前のわたしなら、
+シスターになるのも苦じゃなかったかも
+しれない。","如果是遇见你之前的我，
+去当修女说不定
+也不会觉得有多痛苦。",translated,依恩,e546234346,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#43#12,でも……。,但是……,translated,依恩,2cfbc18c09,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#44#12,でも、今はもう、絶対に無理。,但是，现在的我已经绝对做不到了。,translated,依恩,7f8fd253ca,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#46#12,"あなたと出会ってから、わたしの毎日が
+幸せになったの。","自从遇见你之后，
+我的每一天都变得无比幸福。",translated,依恩,ecb1955ecb,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#47#12,"あなたと交際することになってからは、
+幸せはもっと大きくなっていった。","自从开始和你交往之后，
+这份幸福变得更加庞大了。",translated,依恩,fa294d8590,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#49#12,"あなたと出会ってからの毎日は、
+すごく楽しくて、幸せなものに
+なったんだもん。","自从与你相遇之后的日子，
+变得非常开心，
+充满着幸福嘛。",translated,依恩,b6209d3ce7,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#51#12,今更あなたと離れるなんて……。,事到如今要我和你分开什么的……,translated,依恩,01015aa9ba,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#52#12,"この幸せを手放さなくちゃいけない
+禁欲生活なんて、わたしには絶対に無理……。","必须舍弃这份幸福的禁欲生活，
+对我而言是绝对不可能做到的……",translated,依恩,012b4a4ec4,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#53#12,"わたし、普段は絶対なんて言葉は
+あまり使わないけど、
+これに関しては何度でも言えるよ。","我平时其实不太会
+使用“绝对”这样的词汇，
+但在这一点上我可以反反复复说多少次哦。",translated,依恩,ca19ac3b9e,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#54#12,……あなたは、どう思ってる？,……你是怎么想的呢？,translated,依恩,cd44021d63,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#55#12,"端末越しにしか話せないわたしと
+一緒にいること、どう思ってる？","和只能隔着终端说话的我
+在一起，你是怎么想的呢？",translated,依恩,635aaae45d,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#57#12,イオンは可愛いから悪い気はしない,依恩很可爱，所以我并不讨厌哦,translated,,edd8b5eced,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#58#12,今更言わなくちゃわからない？,事到如今还要我说出来才明白吗？,translated,,55b0b2f6d9,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#60#12,"ふふっ……もお、真面目な話をしてるのに
+冗談言わないでよ。","呵呵……真是的，明明在聊正经事，
+你不要开玩笑啦。",translated,依恩,dab6963691,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#61#12,"……でも、せっかく教会でもドキドキしなく
+なったばかりなのに、こんな話してたらまた
+元に戻っちゃうよね。","……不过，好不容易才在教会里
+不再那么心跳不已，聊这种话题的话
+岂不是又要变回原样了嘛。",translated,依恩,9b0526f5f9,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#62#12,"まあ、ドキドキしっぱなしのデートも、
+悪い気はしないけど……なんてね。","不过，一直心跳不已的约会，
+感觉也挺不错的呢……开玩笑的啦。",translated,依恩,6c2e868fe0,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#66#12,"わかってるよ……。
+ううん、正確には、わかってると思う、かな？","我明白的哦……
+不，准确地说，应该是我觉得我明白吧？",translated,依恩,b78a59267b,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#67#12,"多分間違ってはいないと思う。
+あなたがわたしとのことを、
+どう思ってるか……。","我想大概没有想错。
+关于你对我和你之间的事情
+是怎么看的……",translated,依恩,3a0af62834,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#68#12,"でも……どんな答えでもいいから、
+できれば答えてほしかったかも……。","但是……哪怕不管怎样的回答都好，
+只要是你的心声，我都想听你亲口回答呢……",translated,依恩,bc33f21603,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#70#12,"って、せっかくのデートなのに、
+ちょっとお話が重くなっちゃったね。","哎呀，难得出来约会一次，
+话题变得有点沉重了呢。",translated,依恩,51bdd4ff0f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#71#12,"もっと楽しいデートにするつもり
+だったのにな……。","我明明是打算
+来一场更开心的约会的呢……",translated,依恩,ba108b838f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#72#12,"気持ちを切り替えるのは難しそうだし、
+今日はもう帰ろっか。","感觉也很难一下子转换心情了，
+今天我们差不多就先回去吧。",translated,依恩,80143e8788,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#74#12,ただいまー……。,我回来啦……,translated,依恩,773e74c95e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#75#12,"今日はごめんね。
+急に重い話なんかしちゃって……。","今天对不起哦。
+突然聊起那么沉重的话题……",translated,依恩,1f95d3368a,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#76#12,"でも、本音をあなたに打ち明けることが
+出来て、よかったとは思ってるの。","不过能把真心话向你倾诉出来，
+我觉得也挺好的呢。",translated,依恩,81e0c92b03,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#77#12,"もしかしたら、またわたしの気持ちを
+聞いてもらいたくなることもあるかも
+しれない……。","说不定以后，我也还会想要
+再让你倾听
+我的心声呢……",translated,依恩,c220c7b1ce,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#78#12,その時には、また聞いてくれると嬉しいな。,到那个时候，你要是还能听我说，我会很高兴的。,translated,依恩,a3c3429027,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#79#12,"もちろん、その時はあなたの気持ちも
+聞かせてね。","当然，到那时也一定要
+把你的心意告诉我哦。",translated,依恩,57cf5f544c,br=0 nl=1,2,
+inc/event/res/dateevent54/megido02.txt#80#12,そ、それじゃ、またね！,那、那么，下次见咯！,translated,依恩,7bd7b20d2e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido02.txt#83#14,"思い返してみると、
+結構恥ずかしいこと
+沢山言っちゃってた。","回想起来，
+自己好像说了很多
+相当难为情的话。",translated,,9e69a93d9e,br=0 nl=2,3,
+inc/event/res/dateevent54/megido02.txt#84#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent54/megido03.txt#1#12,"……今更だけど、メギドさんを見て教会に
+行きたくなるのって、ちょっと罰当たりな
+気がすると思わない？","……虽然事到如今才说，但看着梅吉多
+就会想去教会，你不觉得
+稍微有点大不敬吗？",translated,依恩,a95af182a2,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#2#12,そんなことないさ,没那回事啦,translated,,c46f7ea8e7,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#3#12,確かに。行くのはやめよう,确实。那我们就不去了吧,translated,,000439543b,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#5#12,"……今、ちょっとくらいなら罰当たりでも
+良いかな、って気になっちゃったかも。","……现在的我，好像觉得就算稍微
+有点大不敬也没关系了呢。",translated,依恩,afdfd71ab0,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#10#12,そ、そうかな……？,是、是这样吗……？,translated,依恩,50051ef582,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#11#12,"ううん、あなたがそう言うんだもん。
+きっとそうなんだよね！","嗯，既然你都这么说了，
+那一定就是这样呢！",translated,依恩,82614e1f8e,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#12#12,"それじゃあせっかくだし、ちょっとだけ
+教会に行ってみよっか？","那么难得有机会，我们要不要
+稍微去教会看一看？",translated,依恩,2d689cc427,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#15#12,"え、えへへ……やっぱり何度来ても、
+ここに来るとちょっとドキッとしちゃうね。","诶、嘿嘿……果然无论来多少次，
+来到这里都会心中一惊呢。",translated,依恩,937ee7506a,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#16#12,でも、ちょっとおかしいよね。,不过，总觉得有点好笑呢。,translated,依恩,dacdc1ed1e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#17#12,"教会に来てドキドキしてるけど、
+来ることになったきっかけがメギドさんの
+ぬいぐるみだなんて。","虽然来到教会心跳不已，
+但促成我们过来的契机居然是
+梅吉多的毛绒玩偶什么的。",translated,依恩,7898e30533,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#18#12,"教会のムードにぴったりの物がきっかけに
+ならない辺りが、わたし達っぽいかな、
+って気はするけど……。","完全不是以正合适教会气氛的东西
+作为契机，总觉得这也挺符合
+我们的风格呢……",translated,依恩,f1b560fec8,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#20#12,じゃあ、指輪でも作る？,那我们要不要做个戒指？,translated,,8c3d29bf02,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#21#12,きっかけがなんでもデートできて嬉しい,不管契机是什么，能约会我就很高兴了,translated,,97e3be34bc,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#23#12,えぇっ！？,诶诶！？,translated,依恩,7ebec1c9d2,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#24#12,"確かに教会にピッタリだとは思うけど、
+それはちょっと……。","虽然我觉得确实正合适教会，
+但那个未免有点……",translated,依恩,20ceb42c1e,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#25#12,"もちろん、嫌とはこれっぽっちも
+思ってないよ？","当然，我可连一点点
+讨厌的想法都没有哦？",translated,依恩,c8717a00fc,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#26#12,"でも……やっぱり、順序っていうのは
+あると思うし、指輪は早過ぎだよ。","可是……毕竟凡事都有先后顺序嘛，
+现在送戒指还是太早啦。",translated,依恩,4957ac165c,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#29#12,うん……わたしも同感だよ。,嗯……我也深有同感哦。,translated,依恩,e9e34c8196,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#30#12,"ちょっとしたきっかけでデートが出来る
+っていうのは、幸せな証拠かもしれないね。","能因为微不足道的契机就出来约会，
+说不定正是我们很幸福的证明呢。",translated,依恩,7e832bf7ae,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#34#12,"……あれ？
+あそこにいる人って……シスターさん？","……咦？
+在那里的那个人是……修女吗？",translated,依恩,6ea9b198f6,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#35#12,わぁ、この教会にもちゃんといたんだ！,哇，原来这个教会里也是有修女的呀！,translated,依恩,3f7d32f096,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#36#12,"わたし、本物のシスターさんって
+初めて見たけど……普通の人とは違って、
+すごく清純な雰囲気が伝わってくるよ。","我还是第一次见到
+真正的修女呢……和普通人不同，
+能真切感受到一股非常清纯的气质哦。",translated,依恩,0a4be81282,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#38#12,"わたしも少しは見習いたいけど……
+多分、無理かな？","虽然我也想稍微向她学习一下……
+不过大概是不可能的吧？",translated,依恩,6d2fe85722,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#39#12,"あの清純さって、禁欲的な生活を送ってる
+からこそ身につけられるものだと思うの。","那份清纯的气质，正是因为过着
+清心寡欲的生活才能培养出来的嘛。",translated,依恩,56251f7952,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#40#12,"それに比べて、わたしは娯楽小説を
+読んだり、機械に囲まれて作業するのが
+大好きな人間だもん。","与之相比，我可是一个最喜欢读娱乐小说、
+整天被机械包围着
+敲敲打打的人呢。",translated,依恩,6f8512d02e,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#41#12,"禁欲とはかけ離れてるから、
+シスターさんみたいな人になる自信はないよ。","既然和禁欲相差十万八千里，
+我可没有成为修女那样的人的自信哦。",translated,依恩,6568fc7f7f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#42#12,……あなたは清純な女の人って、どう思う？,……你对清纯的女子是怎么看的呢？,translated,依恩,40e3b69c1c,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#44#12,憧れる,很向往,translated,,84ba9e62da,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#45#12,イオンみたいな子の方が良い,还是像依恩这样的女孩子更好,translated,,de445fb7aa,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#47#12,"そっか……。
+やっぱり、普通はそうだよね？","这样啊……
+果然，一般人都会这么想对吧？",translated,依恩,68bff78645,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#48#12,"わたしも最初から諦めないで、
+ちょっとは頑張ってみようかな？","我是不是也不该从一开始就放弃，
+稍微加把劲尝试一下呢？",translated,依恩,6d7b233269,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#49#12,"あなたの好みに近づくため、って思えば、
+ちょっとは辛くなくなると思うし。","只要想到是为了更贴近你的喜好，
+我觉得应该就不会觉得那么辛苦了吧。",translated,依恩,121cd236e4,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#53#12,"え、えへへ……そう言ってもらえると
+嬉しいな。","诶、嘿嘿……你能这么说
+我好高兴啊。",translated,依恩,ed9adb636d,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#54#12,"……でも、だからって最初から努力しないで
+諦めるのは、良くないよね？","……不过就算这样，直接放弃不努力
+也是不太好的对吧？",translated,依恩,7cd7547a18,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#55#12,"自分なりに、ちょっとだけでも清純な
+雰囲気を持った人になれるように、
+努力してみるよ。","我也会以自己的方式，努力让自己
+多少能拥有一些
+清纯的气质哦。",translated,依恩,017d7ee683,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#58#12,"ちょっとだけのつもりだったのに、
+結構時間が経っちゃったね。","明明本来只打算呆一会儿的，
+结果不知不觉过了好长时间呢。",translated,依恩,a7b7865ad2,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#59#12,"やっぱり、あなたとデートしてるんだな、
+って思うと、つい夢中になっちゃうみたい。","果然一想到是在和你约会，
+我就会不由自主地沉浸其中呢。",translated,依恩,4a241b90bc,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#60#12,あなたも同じだったら嬉しいな。,要是你也有同样的感觉，我会很高兴的。,translated,依恩,5be4803eba,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#62#12,ちょっと、長居し過ぎちゃったね。,好像稍微停留太久了呢。,translated,依恩,aa9952675f,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#64#12,それじゃ、帰ろっか！,那么，我们回去吧！,translated,依恩,e438f266b4,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#66#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#67#12,"メギドさんのぬいぐるみは……
+やっぱり、消えちゃってるね。","梅吉多的毛绒玩偶……
+果然已经消失了呢。",translated,依恩,aaadffd37f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#68#12,"わかってはいたけど、好きなキャラクターの
+ぬいぐるみが消えちゃうのは、ちょっとだけ
+悲しい感じがするよ。","虽然心里早就明白，但喜欢的角色的
+毛绒玩偶消失不见，
+总觉得有那么一点点伤感呢。",translated,依恩,333665f542,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#69#12,また必ず作ろうね。,下次一定要再做出来哦。,translated,依恩,3545cdc3e1,br=0 nl=0,1,
+inc/event/res/dateevent54/megido03.txt#70#12,"……それで、また近いうちに教会で
+デートしよう。","……然后，近期再去教会
+约会吧。",translated,依恩,9eb50807b0,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#71#12,"えへへ……今日はありがと。
+また何かあったら呼んでね！","诶嘿嘿……今天谢谢你啦。
+如果有什么事随时再叫我哦！",translated,依恩,e6a26baa63,br=0 nl=1,2,
+inc/event/res/dateevent54/megido03.txt#74#14,"シスターを見たよ。
+ああいう清純な人に
+なれたら良いな。","见到修女了哦。
+要是能成为那样清纯的人
+就好了呢。",translated,,0152379139,br=0 nl=2,3,
+inc/event/res/dateevent54/megido03.txt#75#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent54/megido04.txt#1#12,"メギドさん、ってことは……わかった！
+教会に行きたいんでしょ？","拿出梅吉多，也就是说……我懂了！
+你是想去教会对吧？",translated,依恩,48873c2537,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#2#12,よくわかったね,你真懂我呢,translated,,3557eb2a23,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#3#12,メギドさん可愛いね、って言いたかっただけ,我只是想说梅吉多很可爱而已啦,translated,,76eafaa067,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#5#12,あらら、そうなんだ……。,哎呀，原来是这样啊……,translated,依恩,ec1bf8943a,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#6#12,"でも、確かに可愛いよね。
+わたしも、メギドさんみたいな
+可愛い女の子になりたいなぁ……。","不过，她确实很可爱呢。
+我也好想像梅吉多那样，
+成为一个可爱的女孩子啊……",translated,依恩,84152c187a,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#11#12,"えへへ、もう三回目だもん。
+鈍いわたしでもわかるよ。","诶嘿嘿，这都已经是第三次了嘛。
+就算是我这么迟钝也猜得出来哦。",translated,依恩,a3f73910aa,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#12#12,それじゃ、早速出発しよ！,那么，我们赶快出发吧！,translated,依恩,085cea30d4,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#14#12,とうちゃー……。,顺～利抵……,translated,依恩,047448c5b9,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#15#12,"って、いけないいけない。
+教会で大声を出すのは、マナー違反だよね？","哎呀，不行不行。
+在教会里大声喧哗是违反礼仪的对吧？",translated,依恩,23b231d2eb,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#16#12,"他の人に迷惑にならないように、
+静かにお話しよ。","为了不给其他人添麻烦，
+我们小声一点说话吧。",translated,依恩,5d119e33c9,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#17#12,"そういえば、メギドさんがマンガの
+キャラだ、って話は、前にしたよね？","说起来，梅吉多是漫画角色这件事，
+我之前有跟你讲过对吧？",translated,依恩,f5929be43d,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#18#12,"わたしも大好きなマンガだったんだけど……
+この前、とうとう最終回を読んじゃったの。","虽然那也是我非常喜欢的漫画……
+但就在前阵子，我终于把大结局给看完了。",translated,依恩,74ccfd97d4,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#19#12,"マンガに限る話じゃないけど、
+自分の好きな物語の結末って、
+読むと寂しくなるよね？","不仅限于漫画，
+只要读到自己喜欢的故事迎来结局，
+心里总会感到有些寂寞对吧？",translated,依恩,788aa459ce,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#20#12,"もっと続きを読みたいと思っても、
+もう読むことができないんだもん。","就算还想再看后续，
+也再也没办法读到了嘛。",translated,依恩,86be0fcf9d,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#22#12,気持ちはわからなくない,这种心情我也不是不能理解,translated,,64e7a1fbe7,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#23#12,ダラダラ続くよりかはマシ,总比没完没了地水下去强,translated,,f2058275f4,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#25#12,"ってことは、あなたにも同じような経験が
+あるってことなのかな？","这么说来，你以前也有过
+类似的经历吗？",translated,依恩,ce513f0650,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#26#12,"大好きな物語の続きが読めないのは、
+本当に寂しい気持ちになるよ……。","没法继续读到喜欢的故事的后续，
+真的会让人心里觉得好寂寞呢……",translated,依恩,42400d75b3,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#27#12,"未完になったり、いつまでもただ続くだけ
+よりかはマシだと思うけど……。","虽然我也觉得比起烂尾或者一直水下去，
+能好好完结确实要好得多就是了……",translated,依恩,b54ae0d52f,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#28#12,"それでもいいから、続きを読みたいな、って
+気になっちゃうのが、最終回だよね。","但哪怕那样也想继续看下去，
+这就是最终回让人放不下的地方对吧。",translated,依恩,ead4a86d51,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#32#12,た、確かにそれも一理あるけど……。,确实、你这么说也挺有道理的……,translated,依恩,c09d043127,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#33#12,"でも、やっぱり好きな作品が終わるのは
+寂しいものなんだよ？","但是，自己喜欢的作品完结，
+果然还是会让人觉得很寂寞的哦？",translated,依恩,123141b1b6,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#34#12,"正直、最終回を見ている時には、
+ダラダラでもいいからもう少しだけ
+続いてほしい、って思っちゃうくらいだし。","老实说，在看最终回的时候，
+我甚至会忍不住觉得就算水一点也好，
+希望它能再多连载一会儿呢。",translated,依恩,92bc7a7a46,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#36#12,"……でも、メギドさんの最終回……
+ちょっと衝撃的な終わり方だったなぁ。","……不过，梅吉多的大结局……
+收尾方式还真是挺让人震惊的呢。",translated,依恩,f08029f1f6,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#37#12,"まさか、結婚エンドになるなんて、
+夢にも思わなかったよ。","我做梦都没想到，
+最后居然会是结婚结局。",translated,依恩,7fd464c661,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#38#12,しかも、最終話で突然だよ？,而且，在最后一话来得特别突然哦？,translated,依恩,332935e06e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#39#12,"いきなりウエディングドレスを着た
+メギドさんが出てて、一瞬頭の中が
+真っ白になっちゃったよ。","画面上突然出现身穿婚纱的梅吉多，
+那一瞬间我的大脑
+都一片空白了啦。",translated,依恩,6c6075217c,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#40#12,でも、すごく感動する結末だったなぁ……。,不过，那真是一个超级感人的结局呢……,translated,依恩,281b1c093a,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#41#12,"まあ、シスターなのに結婚するのは
+大丈夫なのか、みたいな突っ込みどころは
+結構あったけど。","虽说身为修女居然结婚真的没问题吗，
+诸如此类的槽点
+其实也挺多的就是了。",translated,依恩,a8734ec60c,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#42#12,"それでも、わたしもいつかは結婚したいな、
+って思いながら最後まで読んじゃった。","但即使如此，我还是满心想着
+“自己将来也想结婚呢”，一口气读到了最后。",translated,依恩,dbebadb0f7,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#44#12,プロポーズとかされたい？,你想被人求婚吗？,translated,,391edfed50,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#45#12,結婚は人生の墓場とも……,也有人说婚姻是爱情的坟墓……,translated,,b09fa684e3,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#47#12,えへへ……それはまあ、うん……。,诶嘿嘿……那个嘛，嗯……,translated,依恩,119486d52e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#48#12,"どんなふうにとか、どんな場所でとか、
+そういう具体的なイメージはないよ？","虽然对于具体的求婚方式或地点，
+我并没有什么清晰的意象啦？",translated,依恩,afff396c2b,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#49#12,"それでも、やっぱりプロポーズは
+されたいな、って思うよ。","但即使如此，我果然还是
+希望能被求婚呢。",translated,依恩,7eac321727,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#53#12,"うっ……た、確かによく聞く話だけど……
+でも、全部が全部そうじゃないと思うよ？","呜……确、确实经常能听到这种说法……
+但是，我觉得肯定不是所有人都那样哦？",translated,依恩,fb18b1be1e,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#54#12,"ちゃんと幸せな結婚生活を送って、
+ずっと仲良く暮らしていく人だって
+沢山いるはずだもん。","肯定也有很多人过着幸福的婚姻生活，
+夫妻之间一直和和美美地
+生活在一起嘛。",translated,依恩,f4eca71cce,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#55#12,わたしは、そういう結婚生活を送りたいな。,我就很想过上那种婚姻生活呢。,translated,依恩,5c04178715,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#57#12,"……まあ、わたしをもらってくれる人が
+いるかどうか、っていうのが問題だよね？","……不过，有没有人愿意娶我，
+才是个大问题对吧？",translated,依恩,ccfdc8cc30,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#58#12,"ドジなところもあるし、女の子らしくない
+機械作りが趣味だし、寝言も結構言っちゃう
+タイプだし……。","我既有笨手笨脚的地方，兴趣又是
+一点都不像女孩子的摆弄机械，
+而且还是挺会说梦话的类型……",translated,依恩,bf28c9676a,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#59#12,"……あ、何か冷静に自分のことを考えたら、
+ちょっと悲しくなってきたかも。","……啊，稍微冷静地审视一下自己，
+好像突然变得有点伤感了。",translated,依恩,0e042c0883,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#61#12,"でも、そんなわたしみたいな子と、
+あなたは付き合ってくれてるんだよね？","但是，愿意和像我这样的女孩子交往的，
+就是你对吧？",translated,依恩,cae32dfbff,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#62#12,"このまま交際を続けていけば、
+いずれはやっぱり……。","要是我们就这样一直交往下去，
+有朝一日果然还是会……",translated,依恩,305fd2d463,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#63#12,"え、えへへ……ううん、なんでもない。
+さすがにそれはわからないしね……。","诶、嘿嘿……没，没什么。
+毕竟未来的事谁也说不准嘛……",translated,依恩,d3a5dfc991,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#65#12,花嫁修業の本でも、読んでみようかな？,我要不要读读新娘修行的书呢？,translated,依恩,d0c867f3d2,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#67#12,あっ、今からミサが始まるみたいだよ。,啊，弥撒好像马上就要开始了哦。,translated,依恩,b22355b097,br=0 nl=0,1,
+inc/event/res/dateevent54/megido04.txt#68#12,"神父様のお話の邪魔になっちゃうし、
+今日はもう帰ろっか。","要是打扰到神父布道就不好了，
+今天我们差不多就先回去吧。",translated,依恩,4915c23081,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#70#12,"……今日は、結婚についてのお話を
+沢山しちゃった気がするよ。","……总觉得今天，
+聊了好多关于结婚的话题呢。",translated,依恩,56ad6bedd7,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#71#12,"まさかメギドさんの話からああいう流れに
+なるとは思ってなかったから、
+ちょっとだけビックリしちゃった。","真没想到聊梅吉多的事
+居然会顺理成章演变成这种展开，
+连我自己都有点吃惊了呢。",translated,依恩,c532b0e781,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#72#12,"でも、わたしだって女の子だもん。
+いつかはウエディングドレス、
+着てみせるもん。","毕竟我也是个女孩子嘛。
+总有一天我一定会穿上
+婚纱给你看的哦。",translated,依恩,b5257b9f50,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#73#12,"それはともかく、今日は付き合ってくれて
+ありがと。またデートしようね！","不管怎么说，今天谢谢你陪我出来。
+下次我们还要再一起约会哦！",translated,依恩,2974cacc2c,br=0 nl=1,2,
+inc/event/res/dateevent54/megido04.txt#76#14,"メギドさんの最終回を
+見て、今まで以上に
+結婚に憧れちゃった。","看了梅吉多的最终回之后，
+比以往更加
+向往结婚了呢。",translated,,2a2c0bebc5,br=0 nl=2,3,
+inc/event/res/dateevent54/megido04.txt#77#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent54/megido_int.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent54/megido_int.txt#6#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent54/megido_int.txt#8#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,
+inc/event/res/dateevent54/megido_int.txt#10#12,"えへへ……あなたも気に入ってくれて
+嬉しいよ。","诶嘿嘿……你也很中意她，
+我好高兴哦。",translated,依恩,d22fe7abfe,br=0 nl=1,2,

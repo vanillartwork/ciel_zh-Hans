@@ -1,0 +1,425 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent20/catalog02.txt#1#12,"オサレカタログを出してきたってことは、
+ショッピングセンターに行きたいのかな？","你拿出时髦目录来，
+是想去购物中心吗？",translated,依恩,bc609438ed,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#2#12,大正解です,完全正确,translated,,17b616b44e,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#3#12,行きたいわけじゃない,倒不是想去,translated,,8d45784747,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#5#12,"あ、そうなんだ？
+えへへ、勘違いしちゃったよ。","啊，是这样吗？
+嘿嘿，是我误会了呢。",translated,依恩,16ea341247,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#10#12,"よかった。
+わたしも、本当にこのカタログに載ってる
+商品があるのか、確かめてみたかったの。","太好了。
+我也正想去确认一下，
+这本目录上刊登的商品是不是真的有呢。",translated,依恩,9c53d635a3,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#11#12,それじゃ、早速出発しよっか？,那么，赶快出发吧！,translated,依恩,4e6952a3cc,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#13#12,さてと、どのお店に行ってみようかな？,好啦，先去哪家店看看呢？,translated,依恩,05f9917d3d,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#15#12,"……あの、さっきわたしが言ったこと、
+覚えてる？","……那个，我刚才说的话，
+你还记得吗？",translated,依恩,5093eb0a49,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#16#12,"本当にこのカタログに載ってる商品が
+あるのか確かめたい、って言ったでしょ？","就是说想确认一下这本目录上
+刊登的商品到底存不存在那句？",translated,依恩,60627f618b,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#17#12,"あれはね……あったらいいなぁ、って
+意味で言ったわけじゃないの。","那个啊……可不是说如果真的有
+该多好的意思哦。",translated,依恩,23a5897e12,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#18#12,"どちらかというと、なければいいなぁ、
+って思ってて……。","倒不如说，我其实更希望
+根本没有才好呢……",translated,依恩,d25ddc3546,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#20#12,おしゃれ嫌いになったの？,变得讨厌时尚了吗？,translated,,5e32661541,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#22#12,ううん、そうじゃないの。,不，不是那样的。,translated,依恩,277b4ff179,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#23#12,"ただ、このカタログって……
+オサレカタログだから。","只是，这本目录……
+可是时髦目录啊。",translated,依恩,0946bcf4f2,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#24#12,"おしゃれがオサレになってる時点で、
+何となくどんよりしたオーラを纏ってる
+感じがするし……。","把“时尚”写成“时髦”的这一刻起，
+总觉得就散发着一种
+令人阴郁的气场了嘛……",translated,依恩,d415df6617,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#25#12,"それにね、このカタログの特集記事にも
+すごく疑問が湧くの。","而且啊，对这本目录里的特辑专栏，
+我也冒出了极大的疑问呢。",translated,依恩,79af6e9445,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#26#12,"『視線を集めろ！　ケロケロカエル柄
+チュニック』","‘吸睛焦点！呱呱青蛙图案
+束腰长衫’",translated,依恩,b2c2603679,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#27#12,"カエル柄……薦める方もすごいけど、
+デザインする人も中々だと思うよ。","青蛙图案……推荐的人固然很厉害，
+但设计出这个来的人也绝非等闲之辈呢。",translated,依恩,c268fa9ce8,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#29#12,……それ、おしゃれなのかな？,……那个，真的算时尚吗？,translated,,f49de58e50,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#30#12,イオンっぽくて良いデザインだと思う,很有依昂的风格，我觉得是个好设计,translated,,2004948060,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#32#12,う、う～ん……どちらかというと、オサレ？,唔、唔～……硬要说的话，算时髦？,translated,依恩,5b92be011d,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#33#12,"なんて説明したらいいんだろう？
+オサレっていうのは多分……。","该怎么解释才好呢？
+所谓时髦大概就是……",translated,依恩,48d185b7a3,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#34#12,"おしゃれしようとしてる努力は見えるけど、
+明らかに失敗してる奇抜なだけのデザイン、
+って感じかな？","能看得出想要追求时尚的努力，
+但明显大翻车、纯粹只是猎奇怪异的设计，
+大概是这种感觉吧？",translated,依恩,8bc5f7eb57,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#35#12,"とりあえず、おしゃれなものでないことは
+事実だよ。","总之，那绝不是什么时尚之物，
+这是不争的事实哦。",translated,依恩,5c1052643c,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#38#12,"わたしっぽいって……それって、わたしが
+カエルみたいな女の子、って意味？","很有我的风格……意思是说，
+我是个长得像青蛙的女孩子吗？",translated,依恩,e912efacfd,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#39#12,"そうじゃなかったとしても、カエル柄の
+チュニックが似合うとか言われても、
+嬉しくないもん。","就算不是那个意思，被你说适合穿
+印着青蛙图案的束腰长衫，
+我也一点都高兴不起来嘛。",translated,依恩,642b6de2ac,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#40#12,何でも褒めれば喜ぶ女の子じゃないんだよ？,我可不是不管夸什么都会开心的女孩子哦？,translated,依恩,d66a5f39f3,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#42#12,……あっ、このお店だね。,……啊，就是这家店呢。,translated,依恩,1f1716c3c7,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#44#12,えっと、カエル柄チュニックは……。,那个，青蛙图案束腰长衫在……,translated,依恩,29b35f7859,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#45#12,う～ん…………。,唔～…………,translated,依恩,00b1b5262f,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#46#12,"……無いみたい、だね。
+ふぅ……ちょっと安心しちゃった。","……看来好像没有呢。
+呼……稍微松了一口气。",translated,依恩,fabcd4e7d1,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#47#12,"もしも本当にあったとしたら、実際に
+着てみよう、なんて流れになってたと
+思うし……。","要是真的有卖的话，感觉就会顺势
+变成“试穿看看吧”的展开了嘛……
+真庆幸没有呢。",translated,依恩,bac3da4020,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#48#12,"それに、こんなおしゃれなお店に
+カエル柄チュニックがあったりしたら、
+ちょっとガッカリもするはずだし。","而且，在这么时尚的店里
+要是真摆着青蛙图案束腰长衫，
+心里多少也会觉得大失所望吧。",translated,依恩,5bb0642b6d,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#50#12,でも、あったら面白かったよね？,不过，真有的话不是挺有趣的吗？,translated,,6b5e0f360e,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#51#12,本当、無くてホッとしたよ,真的，没有反倒让人松了一口气呢,translated,,a7dc55d4ce,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#53#12,"えへへ……わたしも、実はちょっとだけ
+そう思ってたの。","嘿嘿……其实我心里，
+多多少少也是这么想的哦。",translated,依恩,7f19caefc0,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#54#12,"こんなにおしゃれなお店の
+ショーウィンドウに、カエル柄の
+チュニックが飾ってあるんだよ？","在这么时尚的店铺橱窗里，
+居然堂而皇之地展示着
+青蛙图案的束腰长衫哦？",translated,依恩,a193384886,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#55#12,見たらつい笑っちゃいそうだよね。,看到的话肯定会忍不住笑出声来吧。,translated,依恩,afe3fe9e17,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#59#12,そ、そうだね……。,也、也是呢……,translated,依恩,e8ff9a3d92,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#60#12,"……ちょっと、見てみたいなぁ、って
+気持ちも無くはなかったけど……。","……虽然我心里倒也不是
+完全没有想看一眼的想法就是了……",translated,依恩,83ce0ba84a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#61#12,"あ、ううん、なんでもない！
+何も言ってないですよ～。","啊，没、没什么！
+我什么都没说哦～",translated,依恩,e06cd26703,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#63#12,"さてと、それじゃ目的の物も見つから
+なかったわけだし、そろそろ帰ろっか。","好啦，既然想找的目标也没找到，
+我们差不多该回去了吧。",translated,依恩,b8f36279c0,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#65#12,ただいまー。,我回来啦――。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog02.txt#66#12,"はぁ……やっぱりあのオサレカタログは、
+おしゃれなカタログじゃなかったね。","唉……果然那本时髦目录，
+并不是什么时尚的目录呢。",translated,依恩,13ba03443c,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#67#12,"でも、今回は服だったから、次に行く時は
+他の小物とかも探してみようかな？","不过，这次找的是服装，下次再去的时候
+要不找找看其他小饰品之类的？",translated,依恩,d6f59d620a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#68#12,"一つくらい、普通におしゃれな物が
+混ざってることも考えられるしね。","毕竟也有可能混着那么一件
+普普通通很时尚的东西嘛。",translated,依恩,03a6a817ca,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#69#12,"また作ったら、一緒に探しに行こうね。
+それじゃ、今日はありがと。","下次要是再做出来，再一起去寻找吧。
+那么，今天谢谢你啦。",translated,依恩,21c58c0e2a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog02.txt#72#14,"カエル柄は明らかに
+おしゃれじゃないと
+思うのはわたしだけ？","觉得青蛙图案明显
+一点都不时尚的，
+难道只有我一个人吗？",translated,,8eab863433,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog02.txt#73#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent20/catalog03.txt#1#12,"あ～……オサレカタログってことは、
+ショッピングセンターだよね？","啊～……既然是时髦目录，
+那就是要去购物中心对吧？",translated,依恩,2d7399583f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#2#12,"もう一度、このカタログに載ってるものを
+探しに行ってみる？","要不要再去寻找一次
+这本目录上刊登的东西？",translated,依恩,93880b9772,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#4#12,今はちょっと……,现在有点不便……,translated,,3f7ea60b6b,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#6#12,じゃあ、また都合のいい日にね。,那就改天找个方便的日子吧。,translated,依恩,9c23ad6125,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#11#12,うん、それじゃあ出発しよ。,嗯，那我们出发吧。,translated,依恩,6223c5a7a6,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#13#12,さてと……今日はどこに行こうかな？,好啦……今天先去哪里呢？,translated,依恩,bc28a0aa53,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#15#12,"前回は服だったから、今日は別のものを
+探そうと思ってるけど……。","上次找的是衣服，今天我打算
+找找别的东西，不过……",translated,依恩,4ead0c6a05,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#16#12,"本当に、このカタログに載ってる物が
+ここに売ってるのかな？","这本目录上刊登的东西，
+这里真的会有卖吗？",translated,依恩,c2181b4a47,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#17#12,"こうやってパラパラッと捲ってても、
+これはちょっと……ってデザインの
+物ばかり目に付くの。","像这样哗啦哗啦翻着看，
+映入眼帘的尽是些让人觉得
+“这未免有点……”的设计呢。",translated,依恩,d80cb9a040,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#18#12,"おしゃれなお店しかないここには、
+置いてないんじゃないのかな？","这里明明全都是高档时尚的店铺，
+感觉根本不会进这种货吧？",translated,依恩,ca8286571d,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#20#12,せっかく作ったんだから、信じようよ,难得做出来了，还是相信它吧,translated,,4436b8aff9,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#21#12,多分無いだろうね,大概率是没有吧,translated,,5e1838f0d9,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#23#12,"……そうだね。
+あなたの言うとおりだよ。","……你说得对。
+正如你所说呢。",translated,依恩,47be5faa9a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#24#12,"せっかく頑張って作ったんだから、最初から
+無いと思って探すのは良くないよね？","好不容易辛辛苦苦做出来的，从一开始
+就抱着“肯定没有”的心态去找可不好对吧？",translated,依恩,9f2526b51f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#25#12,"それに、これだけページ数が多いんだから、
+一つくらいあってもおかしくないもん。","而且页数有这么厚，
+有一两样真有卖的也不奇怪嘛。",translated,依恩,1f2f7d6963,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#26#12,"よーし、今日こそは絶対に見つけるぞ。
+おーっ！","好――，今天我一定要找到。
+喔――！",translated,依恩,770212bc8d,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#30#12,やっぱり、あなたもそう思うよね？,果然你也这么觉得对吧？,translated,依恩,068639bef1,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#31#12,"はぁ……そう考えると、ここに来たのは
+間違いだったかな？","唉……这么一想，今天来这里
+是不是来错了呢？",translated,依恩,78447d13b0,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#32#12,"……でも、せっかく来たんだから、
+今くらいは信じておくことにするよ。","……不过既然来都来了，
+现在我还是先相信它一次吧。",translated,依恩,4b16fdb76b,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#33#12,"そうじゃないと、どんどん気持ちが
+暗くなっちゃいそうだし……。","要不然的话，感觉心情
+都会变得越来越沉重了……",translated,依恩,0d930e9fa2,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#35#12,"それじゃ、服以外の特集記事を
+見てみようかな？","那我们来看看服装以外的
+特辑专栏吧？",translated,依恩,d7b4e00bdf,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#36#12,"例えば……あっ、目次に小物系の特集も
+載ってるって書いてある！","比如……啊，目录上写着
+也有小饰品类的特辑专栏！",translated,依恩,1fad089bae,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#37#12,"小物なら、多分服よりハズレは無いと
+思うから、期待できそうだね？","要是小饰品的话，应该比衣服更不容易踩雷，
+感觉挺值得期待的对吧？",translated,依恩,86c80e95bf,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#38#12,えっと、小物特集ページは……。,那个，小饰品特辑页面在……,translated,依恩,09226e604c,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#39#12,…………うっ！,…………唔！,translated,依恩,8ccf30b5ce,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#40#12,"こ、これは……何だか、服の時と
+同じような感じがするかも……。","这、这个是……总觉得，
+跟看衣服那时候好像有着同样的感觉……",translated,依恩,6db2925133,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#42#12,またカエル？,又是青蛙？,translated,,6f4f597b74,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#44#12,"ううん、カエルじゃないけど……。
+書いてあることを読むね。","不，不是青蛙，不过……
+我把上面写的内容读给你听哦。",translated,依恩,300ab84e30,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#45#12,"『あたいに手を出しゃ火傷する！
+チョイワルギャルに大人気！
+ドクロアクセサリー三点セット』","‘敢惹姑奶奶我可会引火烧身！
+微坏系辣妹中大有人气！
+骷髅饰品三件套’",translated,依恩,7eb3e67d83,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#46#12,"……何だか、チョイワルっていうより、
+すごく悪いって感じるのはわたしだけかな？","……总觉得比起“微坏”，
+让人觉得是极恶之徒，难道只有我这么想吗？",translated,依恩,8f5f0cee02,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#47#12,"それは置いておくとしても、
+ドクロのアクセサリーはちょっと……。","就算把那个先搁置一旁，
+骷髅饰品什么的也太那个了……",translated,依恩,e98171e86f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#48#12,"ここにあるか無いかはともかく、
+骸骨のアクセサリーなんて怖くてヤダよ。","姑且不论这里到底有没有卖，
+骷髅骨头饰品太可怕了我才不要戴呢。",translated,依恩,ade2e35d3a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#50#12,確かにイオンには似合わないかも,确实感觉不太适合依昂呢,translated,,7ac5625842,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#51#12,意外と似合うかもしれないよ？,说不定意外地很合适哦？,translated,,82fa2f1a83,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#53#12,"そうだよね。
+それに、ドクロアクセサリーと合うような
+服も持ってないし……。","对吧。
+而且我也没有适合
+搭配骷髅饰品的衣服呀……",translated,依恩,922092fe05,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#54#12,"こういうのが合う服っていうと、
+パンクな感じの服になるのかな？","要说适合这种饰品的衣服，
+应该得是朋克风格的服装了吧？",translated,依恩,88d0474f5f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#55#12,"……うん、想像してみたけど、
+やっぱりわたしには似合わないよ。","……嗯，我稍微想象了一下，
+果然一点都不适合我呢。",translated,依恩,27e0d9911f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#59#12,"う、う～ん……そう言われても、
+こればかりは素直に喜べないかも……。","唔、唔～……就算你这么说，
+唯独这个我实在高兴不起来呢……",translated,依恩,6bf1e8e558,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#60#12,"やっぱり、わたしがドクロのデザインを
+好きになれないからかな？","果然还是因为我自己
+完全喜欢不上骷髅的设计吧？",translated,依恩,d355d79cdd,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#61#12,"まあ、似合うかも、って言ってくれた
+ことにはお礼を言うけど……。","嘛，虽然你夸我说不定挺合适，
+这点我还是要向你道谢啦……",translated,依恩,03a7b53980,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#62#12,でも、実際につけるのは嫌かも。,不过真要戴上的话，我还是拒绝呢。,translated,依恩,cb81408186,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#64#12,"さすがにこれは趣味が違い過ぎるし、
+わざわざ探さなくてもいいや。","这个风格实在相差太远了，
+就不用特意去找了啦。",translated,依恩,9b2ff20c98,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#65#12,"あ～あ、やっぱりこのオサレカタログ、
+わたしの趣味には合わないかも。","唉～，果然这本时髦目录，
+完全不合我的个人品味呢。",translated,依恩,f30e78a67a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#66#12,"……まあ、オサレ、って部類の物を扱う
+カタログとしては、最高の一冊なのかも
+しれないけど……。","……嘛，作为一本收录了“时髦”类物品
+的目录来说，
+说不定是最顶尖的一册就是了……",translated,依恩,2c23c2e8f3,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#68#12,さてと、今日はそろそろ帰ろっか。,好啦，今天我们差不多该回去喽。,translated,依恩,eb675079db,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#70#12,ただいまー……。,我回来啦……,translated,依恩,773e74c95e,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog03.txt#71#12,"はぁ……服に続いて小物までもが
+こんな結果になるなんて……。","哈啊……继衣服之后就连小饰品
+也落得这种结果……",translated,依恩,5b78dae99a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#72#12,"こうなると、次は家具とかに望みを託すしか
+なさそうだね。","这样一来，下次就只能
+把希望寄托在家具之类的上面了呢。",translated,依恩,5550705081,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#73#12,"せめておしゃれじゃなくてもいいから、
+わたしの趣味に合ったものが見つかり
+ますように……。","哪怕不时尚也无所谓了，
+但愿至少能找到
+符合我品味的东西吧……",translated,依恩,789e51a0f2,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#74#12,"それじゃあ、今日は付き合ってくれて
+ありがと。","那么，今天谢谢你
+陪我出来哦。",translated,依恩,3fe5786d92,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#75#12,"……ラブラブな感じのデートをしに
+行きたいね、えへへ。","……真想去来一场
+甜甜蜜蜜的约会呢，嘿嘿。",translated,依恩,3249267f0a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog03.txt#78#14,"ドクロアクセサリーを
+身につけたわたし……
+想像できないかも。","身上佩戴着骷髅饰品
+的我……
+实在难以想象呢。",translated,,67892d3869,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog03.txt#79#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent20/catalog04.txt#3#12,"……もう、これがおしゃれの教科書に
+ならないのはわかってるけど……。","……虽然我心里已经明白
+这根本不能当成时尚教材了……",translated,依恩,abdc85e6a2,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#4#12,"でも、せっかく作ったんだし、
+ショッピングセンターに行ってみる？","不过既然好不容易做出来了，
+要去购物中心看看吗？",translated,依恩,dda21ffc20,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#5#12,一応行ってみよう,姑且去看看吧,translated,,b7fa23bc5a,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#6#12,行かなくてもいい気がする,感觉不去也可以,translated,,2a98d514c8,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#8#12,"あはは……そうだね。
+行ってもガッカリしちゃいそうな
+気がするし。","啊哈哈……也是呢。
+就算去了感觉也只会
+让人失望而已嘛。",translated,依恩,34d061f068,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#13#12,"うん……まあ、ウインドウショッピング
+気分で、おでかけしてみよっか。","嗯……嘛，我们就当成去逛街散心，
+顺便出趟门看看吧。",translated,依恩,26d8eca461,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#15#12,"さてと……とりあえずカタログを見ながら、
+服の売り場に行ってみよっか。","好啦……总之我们边看着目录，
+边去服装卖场看看吧。",translated,依恩,d7cd457595,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#17#12,…………うわぁ。,…………哇啊。,translated,依恩,bfd75270ef,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#18#12,"何だか、今回のオサレカタログは、
+今まで以上に信頼できない内容の
+記事ばかりだよ。","总觉得这次的时髦目录，
+尽是些比以往更加
+不可信的文章内容呢。",translated,依恩,c8eb3a0e38,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#19#12,"『気になるあの子を驚かせ！　
+　ビックリ飛び出すメガネ』","‘吓意中人一跳！
+弹出式整蛊眼镜’",translated,依恩,138257b1de,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#20#12,"『一色に染まらない男になろう！
+　レインボーネクタイ』","‘做不被单一色彩定义的男人！
+彩虹色领带’",translated,依恩,048bc76c6f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#21#12,"……誰がどう見ても、おしゃれの欠片も
+感じないと思うのは気のせいかな？","……不管谁看都感受不到半点时尚的气息，
+难道只是我的错觉吗？",translated,依恩,d88a00a4b5,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#23#12,パーティーグッズだね,纯粹是派对整蛊道具呢,translated,,93bc55a743,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#24#12,レインボーネクタイはおしゃれかも,彩虹色领带说不定很时尚哦,translated,,5864fcaad8,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#26#12,うん、まさにそれがピッタリだと思うよ。,嗯，我觉得用那个词来形容正合适呢。,translated,依恩,c382f5cc68,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#27#12,"そもそも、飛び出すメガネなんて、
+日常生活でつけるような物じゃないと
+思うし……。","照理说，弹出式整蛊眼镜这种东西，
+根本就不是在日常生活里
+会戴的东西嘛……",translated,依恩,321a24381d,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#28#12,"カタログのモデルさんも、かっこ悪く
+見えちゃってるもん。","就连目录里的模特戴着，
+看起来都显得好土好难看呢。",translated,依恩,a4e964795b,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#29#12,"プロでもそう見えちゃうんだから、
+普通の人にはとてもじゃないけど
+使いこなせないと思うよ。","既然连专业的模特都显得那么逊，
+普通人更是无论如何
+都驾驭不了的吧。",translated,依恩,8d5c747b1d,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#33#12,"……も、もしかして、そういう柄の
+ネクタイ持ってるの？","……难、难道说，你平时真有
+那种花色的领带吗？",translated,依恩,aeeafec53f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#34#12,"わたしもおしゃれには詳しくないけど、
+虹色のネクタイはどうかと思うよ？","虽然我对时尚也不算精通，
+但彩虹色的领带真的合适吗？",translated,依恩,33b2463dba,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#35#12,"スーツの色と比べて、ネクタイだけすごく
+目立つことになっちゃいそうだし……。","比起西装的颜色，只有领带会显得
+格外刺眼招摇吧……",translated,依恩,80114b3d48,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#36#12,"もう少し、大人しい色にした方が
+いいんじゃないかな？","稍微选点沉稳低调的颜色
+会不会比较好呢？",translated,依恩,84d1f63644,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#38#12,"それにしても、まさかこんなに使えない
+カタログだったなんて……。","话又说回来，真没想到居然是
+这么派不上用场的目录……",translated,依恩,be9ec66ba6,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#39#12,"これで勉強すれば、少しはおしゃれになって、
+あなたに褒めてもらえると思ったのに。","本来还以为照着这个好好学学，就能稍微变得时尚点、
+得到你的夸奖呢。",translated,依恩,2d6aad4945,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#40#12,"あ～あ、こんな思いするんだったら、
+作らなきゃよかったよ。","唉～，要是早知道会这样，
+当初真不该做出来的呀。",translated,依恩,1d39328827,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#42#12,一生懸命作ったのにね,明明那么努力做出来的呢,translated,,5f03a0e6a0,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#44#12,"本当だよ……。オサレカタログは、
+もう作るのやめようかな？","就是说呀……这时髦目录，
+我看以后还是别做了吧？",translated,依恩,2c479974ef,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#45#12,"……あれ？
+あのお店に置いてあるのって……。","……咦？
+摆在那家店里的那个难道是……",translated,依恩,3b76d7210f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#47#12,"う、うそっ！？
+何でこれがあるの！？","骗、骗人的吧！？
+为什么会有那个啊！？",translated,依恩,5c7f0e2fe3,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#48#12,"ほ、ほら、前にオサレカタログに載ってた、
+カエル柄チュニックのことを覚えてる？","你看、你看，之前登在时髦目录上的
+那件青蛙图案束腰长衫，你还记得吗？",translated,依恩,dbdeb01ec6,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#49#12,"あれが、ブティックのショーウインドウに
+飾られてるの。","那件衣服，居然堂而皇之地
+展示在精品时装店的橱窗里啊！",translated,依恩,7653d3041a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#50#12,"しかも、これ……大流行につき売り切れ
+とか書いてあるし……。","而且，这上面……居然还写着
+“因大受追捧现已售罄”……",translated,依恩,478f8b7c15,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#51#12,……わ、わたしが間違ってたのかな？,……难道，是我错了吗？,translated,依恩,8ee67d0f59,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#52#12,"あなたはどう思う？
+カエル柄チュニックって、おしゃれなの？","你怎么看？
+青蛙图案束腰长衫，真的很时尚吗？",translated,依恩,b3f4e2d1d7,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#54#12,おしゃれと流行は違うと思う,我觉得时尚和流行是两码事,translated,,f799403ddf,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#55#12,……お互い、勉強不足みたいだね,……看来我们彼此都缺乏学习呢,translated,,dbf377c122,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog04.txt#57#12,"そ、そっか……。
+言われてみれば確かに……あれ？","这、这样啊……
+经你这么一说确实……咦？",translated,依恩,02e987db64,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#58#12,"おしゃれじゃなかったら流行にはならないと
+思うから、やっぱりおしゃれってことに
+なるんじゃないかな？","不过如果不时尚的话应该也不会流行吧，
+所以归根到底
+不还是等于很时尚吗？",translated,依恩,27c6b796a0,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#59#12,"でも、周りを見てもこれを着てる人は
+一人も見かけないし、う～ん……。","可是看看周围，穿这件衣服的人
+连一个都见不到，唔～……",translated,依恩,f1e9f4c35b,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#62#12,"……そうだね。
+わたしも、もっとおしゃれについて
+真剣に勉強しないと。","……你说得对。
+我也必须要更加认真地
+学习关于时尚的知识了。",translated,依恩,25c933c94a,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#63#12,"ただ、どう勉強しても、このチュニックを
+おしゃれと思えるようにはならない気が
+するけど……。","不过，感觉无论我怎么去学，
+好像都没法觉得这件长衫很时尚
+就是了……",translated,依恩,c78144c477,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#65#12,"とりあえず、オサレカタログに載ってる物は
+これからも信用しないようにするよ。","总之，刊登在时髦目录上的东西，
+我今后还是坚决不相信好了。",translated,依恩,5da31ec97f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#66#12,"やっぱり自分で作ったものじゃなくて、
+普通に売ってるカタログの方が信頼性は
+高いと思うし。","毕竟比起自己做出来的东西，
+市面上正规售卖的商品目录
+可信度肯定高得多嘛。",translated,依恩,9bc92df0a0,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#67#12,"これ以上、またこっちが混乱するような
+ものが見つかっちゃう前に、帰ろっか？","在发现更多让人头脑混乱的奇怪东西前，
+我们还是赶快回去吧？",translated,依恩,5ef30c8138,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#69#12,"ふぅ……まさか、本当にあのチュニックが
+売ってるとは思いもしなかったよ。","呼……真没想到，那件长衫
+居然真的有在卖呢。",translated,依恩,2f4875978a,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#70#12,"やっぱり、何度考えてもあれはおしゃれとは
+かけ離れてる気がするんだけど……。","不过，不管怎么想我都觉得那件衣服
+跟时尚相差十万八千里呀……",translated,依恩,b72adfed1e,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#71#12,"わたしも、もしあれが手に入ったとしても
+着たいとは思えないし。","哪怕我真得到了那件衣服，
+我也完全不想穿上身呢。",translated,依恩,c9d3249bcd,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#72#12,"今度行った時は、本当におしゃれと思える
+服を見て回りたいね。","下次再去的话，真想去逛逛那些
+让人真心觉得时尚好看的衣服呢。",translated,依恩,42d2ef17e8,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog04.txt#75#14,"おしゃれの難しさは
+異常だと思うよ。
+あなたはどう思う？","时尚的难度
+简直非同一般呢。
+你是怎么想的？",translated,,80b3914fb7,br=0 nl=2,3,
+inc/event/res/dateevent20/catalog04.txt#76#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent20/catalog_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog_int.txt#6#12,"ショッピングセンターに行きたいの？
+んー………どうしようかな…","想去购物中心吗？
+唔――……该怎么办好呢……",translated,依恩,c82149489f,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent20/catalog_int.txt#9#12,"ごめんね、今日はショッピングセンターに
+行きたい気分じゃないの。","不用啦，今天我没有
+去购物中心的心情呢。",translated,依恩,c6c0c98952,br=0 nl=1,2,
+inc/event/res/dateevent20/catalog_int.txt#10#12,"あそこに行くと凄く疲れちゃって……。
+今日はちょっと疲れ気味だから、
+日を改めようよ。","等我想去的时候，
+我会主动叫你的，
+下次再邀请我吧。",translated,依恩,4b207db17c,br=0 nl=2,3,

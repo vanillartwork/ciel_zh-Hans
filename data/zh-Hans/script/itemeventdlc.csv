@@ -1,0 +1,1232 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/itemeventdlc/rt_item_head101a.txt#3#12,動物みみセット？の完成だよ。,兽耳套装？制作完成啦。,translated,依恩,294730294e,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#4#12,"これは、動物の耳がついてる
+カチューシャなの。",这是带有动物耳朵的发箍哦。,translated,依恩,743211dbfb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#5#12,"って、さすがに説明しなくても
+わかるよね？","不过，就算我不解释
+你也明白的吧？",translated,依恩,c8c9f59e0c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#7#12,本物の動物の耳！？,真的动物耳朵！？,translated,,a3d34f15ea,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#8#12,"えへへ、こういう可愛いカチューシャって、
+何か良いよね？","诶嘿嘿，这种可爱的发箍，
+感觉很不错吧？",translated,依恩,2b05e2a159,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#9#12,"つけると楽しい気持ちになっちゃうの。
+動物になった気分になるからかな？","戴上之后心情就会变得很雀跃呢。
+是因为感觉自己变成了动物吗？",translated,依恩,a53e360847,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#13#12,えへへ、早く試着してみたいなぁ……。,诶嘿嘿，真想快点试戴看看呀……,translated,依恩,692065eb1c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#17#12,"ち、違う、違うよ！
+本物に似せた作り物だよ！","不、不对，才不是呢！
+只是仿照真的动物做的仿制品啦！",translated,依恩,722ff62b44,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#18#12,"もぉ、どうしてそういう怖い発想を
+しちゃうかな？","真是的，你怎么会
+产生这种可怕的联想呀？",translated,依恩,5eed57fb76,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#19#12,"本物の動物の耳はこんなに大きくないから、
+間違えようがないと思うのに……。","真正的动物耳朵才没有这么大呢，
+我觉得根本不可能搞错才对呀……",translated,依恩,6f254c86e6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#22#14,"動物みみセット？を
+作ったよ♪","制作了
+兽耳套装？哦♪",translated,,08b6353bf3,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#24#14,"動物みみセット？が
+完成したよ♪","兽耳套装？
+制作完成了♪",translated,,17111e85cf,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#26#14,"動物みみセット？の
+作成完了。
+次は何を作ろうかな♪","兽耳套装？
+制作完毕。
+下次要做什么呢♪",translated,,36c2f8dee0,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_head101a.txt#28#14,"動物みみセット？が
+できたよ♪","兽耳套装？
+做出来啦♪",translated,,bb5f17d9c8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#3#12,動物みみセット？の完成だよー。,兽耳套装？制作完成啦～。,translated,依恩,5abfea8089,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#4#12,"……何で名前に？が入るのかは
+気にしないでね。","……至于名字里为什么会有问号，
+就请不要深究啦。",translated,依恩,3e64b7aada,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#5#12,えへへ、どれも可愛い耳ばかりでしょ？,诶嘿嘿，每一种耳朵都超级可爱吧？,translated,依恩,c4d5785fbc,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#6#12,わたしの一番のお気に入りは、えっと……。,我最喜欢的一个嘛，唔……,translated,依恩,3eae45da11,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#7#12,"……やっぱり選べないや。
+どれも可愛過ぎるもん。","……果然选不出来呢。
+因为每一个都太可爱了嘛。",translated,依恩,5272916d95,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#8#12,"だから、もしあなたの好きな動物の耳が
+あったら、遠慮なく言ってね。","所以，如果你有喜欢的动物耳朵，
+请不用客气尽管告诉我哦。",translated,依恩,592809bbfc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#9#12,"リクエストしてくれれば、
+どれでもつけるよ。","只要你提出要求，
+无论哪一个我都会戴上的哦。",translated,依恩,a6d64c27bd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#10#12,"……っていうか、わたしじゃ迷っちゃって
+選べないもん。","……话说回来，我自己选的话
+只会纠结得拿不定主意呢。",translated,依恩,52a5e6153c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#12#14,"動物みみセット？を
+また作ったよ♪","又制作了
+兽耳套装？哦♪",translated,,9c66c74a05,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#14#14,"動物みみセット？が
+完成したよ♪","兽耳套装？
+制作完成了♪",translated,,17111e85cf,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#16#14,"動物みみセット？の
+作成完了。
+次は何を作ろうかな♪","兽耳套装？
+制作完毕。
+下次要做什么呢♪",translated,,36c2f8dee0,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_head101b.txt#18#14,"動物みみセット？が
+またできたよ♪
+いい調子♪","兽耳套装？
+又做出来啦♪
+状态很棒♪",translated,,b770ea5663,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_head154.txt#3#12,"これでよしっと。
+妖精変身セットの完成だよ♪","搞定收工。
+妖精变身套装制作完成啦♪",translated,依恩,6bd5418d25,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#4#12,"あ、今どこが変身セットなのか？
+って思ったでしょ。","啊，你刚才肯定在想
+“这到底哪里像变身套装了？”吧。",translated,依恩,284f25de7f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#5#12,"たしかに、ちょっと見ただけだと
+普通の花冠にしか見えないけど、
+耳のところを見てみて。","确实，粗看一眼的话
+看起来只是普通的花冠，
+不过请看耳朵这里。",translated,依恩,e133c7f3e1,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_head154.txt#6#12,ちょっと変わってるでしょ？,稍微有点与众不同吧？,translated,依恩,05d489cef5,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head154.txt#7#12,"これはね、物語とかにでてくる妖精さんの
+とがった耳をイメージしてるみたいなの。","这个呢，好像是以童话故事里出现的
+妖精尖尖的耳朵为意象设计的哦。",translated,依恩,a4e27b4c97,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#8#12,"これを着ければ、あなたもかわいい
+妖精さんに！","只要戴上这个，
+你也能变成可爱的妖精啦！",translated,依恩,57accbbdc5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#9#12,……なんてね♪,……开玩笑的啦♪,translated,依恩,835db2d992,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_head154.txt#11#14,"妖精変身セットを
+作ったよ♪","制作了
+妖精变身套装哦♪",translated,,734f8fd8a4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#13#14,"妖精変身セットが
+完成したよ♪","妖精变身套装
+制作完成了♪",translated,,e6abe519d6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_head154.txt#15#14,"妖精変身セットの
+作成完了。
+次は何を作ろうかな♪","妖精变身套装
+制作完毕。
+下次要做什么呢♪",translated,,4b2098ad8c,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_head154.txt#17#14,"妖精変身セットが
+できたよ♪","妖精变身套装
+做出来啦♪",translated,,14a136da8a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#3#12,"これで、よしっと！
+シーズホワイトの完成～。","搞定收工！
+种子白制作完成啦～。",translated,依恩,37fa7c7d79,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#4#12,"ねりこさんから貰ったレシピが
+まさか水着だったなんて、びっくり。","从妮莉库那里拿到的配方
+没想到居然是泳装，吓了一跳呢。",translated,依恩,943ee3e5fb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#5#12,それにこれ、ビキニ……だよね。,而且这个，算是比基尼……对吧。,translated,依恩,db3e98f01b,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#6#12,"露出が多いし、水着って分かってはいても、
+さすがに恥ずかしいかも……。","虽然明白这就是泳装，
+但暴露程度这么高，果然还是会害羞……",translated,依恩,d61c60e3f6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#7#12,"で、でも、上にＹシャツを着るみたいだし、
+これならだいぶマシ……かな。","不、不过，上面似乎还要套一件衬衫，
+这样的话感觉稍微好一些……吧。",translated,依恩,44408ede9f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#8#12,"そうだ！
+ちゃんとチェックしなきゃ！","对了！
+必须好好检查一下才行！",translated,依恩,6317658d5b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#9#12,水着って体を動かすときに着るものでしょ？,泳装是活动身体时穿的衣物对吧？,translated,依恩,253c8c7760,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#10#12,"だから、動いたときに簡単に脱げないように
+気をつけないとね。","所以，必须注意确保在活动时
+不会轻易走光脱落呢。",translated,依恩,2bfe2836dd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#12#12,ポロリは？,会走光吗？,translated,,ad18041dac,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#13#12,えぇっと……ここは、大丈夫……。,唔……这里，没问题……,translated,依恩,69e7b4780d,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#14#12,"こっちの紐も……
+ちゃんと丈夫にできてる。","这边的带子也……
+做得非常结实牢固。",translated,依恩,cc4e50f0ee,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#18#12,"うん、よかった。
+これなら着ても問題なさそうだよ。","嗯，太好了。
+这样的话穿起来应该完全没问题了哦。",translated,依恩,b9f5d34452,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#22#12,えぇ！？,哎哎！？,translated,依恩,2526aa737c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#23#12,"ポ、ポロリって、そんな……
+もぅ！　エッチ！","走、走光什么的，怎么会……
+真是的！下流！",translated,依恩,6de7affbc9,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#24#12,"そんなこと言われると、
+余計に着るのがはずかしく
+なっちゃうよ……。","被你这么一说，
+让我变得更加不好意思穿了啦……",translated,依恩,1d986fddf9,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#25#12,"と、とにかく、作りは問題ないみたい。
+これなら着ても問題なさそう。","总、总之，做工似乎很完美。
+这样的话穿上应该没有问题。",translated,依恩,cfced5b928,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#27#12,"といっても、さすがに室内で水着を着るのは
+変……だよね。","话虽如此，在室内穿泳装
+未免也太奇怪了……对吧。",translated,依恩,b8ef1d13f1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#28#12,"けど、せっかく作ったのに
+着ないのはもったいないし――","可是，难得做好了
+不穿一下也未免太可惜了――",translated,依恩,716d0ca987,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#29#12,"変かもしれないけど、
+たまにはそういうのもいい……のかな。","虽然可能有点奇怪，
+但偶尔这样一下……也挺好的吧。",translated,依恩,62aaa69e26,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#31#14,"シーズホワイトを
+作ったよ♪","制作了
+种子白哦♪",translated,,1c682030a5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#33#14,"シーズホワイトが
+完成したよ♪","种子白
+制作完成了♪",translated,,c38ae56df4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#35#14,"シーズホワイトの
+作成完了。
+次は何を作ろうかな♪","种子白
+制作完毕。
+下次要做什么呢♪",translated,,ce85d904c6,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear101a.txt#37#14,"シーズホワイトが
+できたよ♪","种子白
+做出来啦♪",translated,,001ddaf681,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#3#12,"これで終わりっと！
+シーズホワイト、完成したよ。","这下就全部做完啦！
+种子白，制作完成了哦。",translated,依恩,455975453a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#4#12,その……相変わらず露出がすごいね。,那个……暴露程度还是一如既往的夸张呢。,translated,依恩,c942b4d60c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#5#12,"もしこれでＹシャツがなかったら、
+恥ずかしくって着れないかも……。","要是没有这件衬衫罩在外面，
+我肯定害羞得根本不敢穿啦……",translated,依恩,aee7920a69,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#6#12,"っとそうだ。
+一応チェックしておかないとね。","啊对了。
+姑且还是得好好检查一下呢。",translated,依恩,745117e7fd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#7#12,"初めて作ったわけじゃないけど、
+どこでミスしてるか分からないもん。","虽然不是第一次制作，
+但也不知道会不会在什么地方做错了嘛。",translated,依恩,ee633cc796,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#8#12,"……うん。
+大丈夫そうかな。","……嗯。
+看起来好像没问题呢。",translated,依恩,ab39a52eb4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#9#12,これなら着ても簡単には脱げないと思う。,这样的话就算穿上也绝不会轻易脱落的。,translated,依恩,f6d7666c79,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#10#12,"それにしても、前のがダメになったわけじゃ
+ないのに、また作ってほしいって……。","话说回来，明明之前的又没有坏掉，
+却还要我再做一套……",translated,依恩,02591529d6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#11#12,そんなに水着が好きなの？,你就那么喜欢泳装吗？,translated,依恩,3555049164,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#13#12,水着が好き,喜欢泳装,translated,,940fe62567,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#14#12,水着の上にＹシャツなのがいい,泳装外面套衬衫很赞,translated,,50ac3dd219,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#19#12,ねぇ、どうかな？,呐，究竟如何呀？,translated,依恩,6b622601b8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#21#12,あなたの考えを教えてほしいな。,想听听你的想法呢。,translated,依恩,e522df62f9,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#25#12,……ねえ、どうしたの？,……呐，你怎么了？,translated,依恩,8e942afc3a,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#27#12,おーい、どうしたのー？,喂――你怎么啦――？,translated,依恩,85db446977,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#29#12,……おーい、まだー？,……喂――还没好吗――？,translated,依恩,ca785249f7,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#31#12,……考え中かな？,……还在考虑中吗？,translated,依恩,363c8198bf,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#33#12,まだ決まらないのー？,还没决定好吗――？,translated,依恩,9fb5892fae,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#35#12,……もしかして、選べなかったりして？,……难道说，选不出来吗？,translated,依恩,3c556e668d,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#37#12,……ねえ、まだ選んでくれてないの？,……呐，还没帮我选好吗？,translated,依恩,15bf6d4999,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#39#12,おーーーーい！,喂――――――！,translated,依恩,e08b6569e8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#41#12,ねえ、決まったー？,呐，决定好了吗――？,translated,依恩,25fc3e9c23,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#45#12,"あ、あの……どうしたの？
+何か言ってよぉ……。","那、那个……怎么了吗？
+说句话嘛……",translated,依恩,69512c0baf,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#47#12,"あ、あれれ？
+ねえ、いないの？","咦、奇怪？
+呐，你不在吗？",translated,依恩,83f170339b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#49#12,"……まだ考え中なの？
+そろそろ選んでよぉ。","……还在考虑中吗？
+差不多该选一个了啦。",translated,依恩,7c794f9d48,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#51#12,"も、もしかして、迷ってるの？
+そんなに難しいかな？","难、难道说你在犹豫吗？
+有那么难抉择吗？",translated,依恩,b7d4cc8878,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#53#12,"悩み過ぎだよ。
+早く選んでってば。","想得太久啦。
+快点帮我选啦。",translated,依恩,bc6fdd0b00,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#57#12,……もしかして、帰っちゃったの？,……难道说，你回去了吗？,translated,依恩,03b14f76fe,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#59#12,"……そろそろ決めてくれないと、
+時間が押してるんだけど？","……要是再不决定的话，
+时间可就来不及了哦？",translated,依恩,d06cd49f27,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#61#12,"もう、そんなに考えることでもないと
+思うけど？","真是的，我觉得
+根本不需要考虑那么久吧？",translated,依恩,79091f817f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#66#12,もういいよ……。,算啦不管你了……,translated,依恩,c9a0e6400a,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#67#12,せっかく作ったのに……バカ。,人家好不容易做好的……笨蛋。,translated,依恩,084f4fc5cd,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#72#12,やっぱり、そうなんだ。,果然是这样啊。,translated,依恩,72f63aae48,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#73#12,"で、でも恥ずかしいから、
+その……もうちょっと我慢しててほしいな。","但、但是因为太害羞了，
+那个……希望你能再稍微忍耐一下下。",translated,依恩,0c80bd1c21,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#74#12,"もっと仲良くなれたら、もしかしたら勇気、
+だせるかもしれないから……。","等我们的关系更加亲密之后，说不定
+我就能鼓起勇气穿了……",translated,依恩,a6e53b9a14,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#75#12,だから、ね。お願い。,所以……求你了啦。,translated,依恩,148ebf2dcf,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#79#12,えっと……そう、なんだ。,唔……原、原来是这样啊。,translated,依恩,5bb1eb39e9,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#80#12,"水着の上にＹシャツは、おかしいかなって
+思ってたけど、これはこれでいいって人も
+いるんだね。","在泳装外面套衬衫，我还以为会很怪呢，
+原来也有人会觉得这样很棒啊。",translated,依恩,6591acbb05,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#81#12,"わたしもＹシャツがあった方が
+恥ずかしくないし、ちょっと助かったかも。","我也觉得有衬衫套在外面
+就没那么害羞了，算是帮了大忙吧。",translated,依恩,56acb412d8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#82#12,"あっ、けど、エッチな目で見たりしたら
+嫌だよ？","啊，但是，你要是用下流的眼神看我，
+我可是会讨厌你的哦？",translated,依恩,ca0d45635f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#85#14,"シーズホワイトを
+また作ったよ♪","又制作了
+种子白哦♪",translated,,dabead062a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#87#14,"シーズホワイトが
+完成したよ♪","种子白
+制作完成了♪",translated,,c38ae56df4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#89#14,"シーズホワイトの
+作成完了。
+次は何を作ろうかな♪","种子白
+制作完毕。
+下次要做什么呢♪",translated,,ce85d904c6,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear101c.txt#91#14,"シーズホワイトが
+またできたよ♪
+いい調子♪","种子白
+又做出来啦♪
+状态很棒♪",translated,,064a06be34,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#3#12,"これでよしっと。
+リーベルドレスの完成だよ。","搞定收工。
+利维尔礼服制作完成啦。",translated,依恩,52b9433bd8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#4#12,"スカート短いのがちょっと気になるけど、
+大きなリボンが付いててかわいいよね。","虽然裙子有点短让人稍微有点在意，
+但系着大大的缎带，超级可爱的对吧。",translated,依恩,bac51b5807,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#5#12,"ただこの服、ドレスっていうだけあって、
+普段着にはちょっと向かないかも。","不过这件衣服毕竟算是礼服，
+可能不太适合平时当作便服来穿呢。",translated,依恩,e8c3849ad7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#6#12,"リボンはかわいいけど、水仕事のときには
+邪魔になっちゃいそうだし……。","缎带虽然可爱，但在干家务碰水的时候
+感觉会碍手碍脚的……",translated,依恩,a3fa20e526,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#7#12,"あと、ねりこさんがこんな服のレシピを
+売ってたなんて、ちょっと意外かも……。","还有，妮莉库居然会卖这种衣服的配方，
+感觉稍微有点意外呢……",translated,依恩,3df198b9e1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#8#12,"なんとなくその、ねりこさんって
+もうちょっと露出が多い服を売ってるような
+イメージが……。","总觉得怎么说呢，在我的印象里
+妮莉库卖的衣服
+应该会更加清凉大胆一些才对……",translated,依恩,5815a2b4e9,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#9#12,"って、こんなこと言ってると、
+ねりこさんに失礼かな？","话说回来，说这种话
+是不是对妮莉库太失礼了呀？",translated,依恩,806f3d66a5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#10#12,"だけど、半分以上は事実だったりするし。
+う～ん……難しい。","但一大半也是事实嘛。
+唔～嗯……好难把握。",translated,依恩,59f7dde395,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#11#12,"と、とにかく、今回のはかわいい感じの服で
+ちょっと安心しちゃった。","总、总之，这次是非常可爱风格的衣服，
+让我稍微松了一口气呢。",translated,依恩,ce20e526f9,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#12#12,"あんまり露出が多いのは、
+やっぱり恥ずかしいし……ね。","毕竟要是暴露太夸张的话，
+果然还是会非常害羞的……对吧。",translated,依恩,24185a4cff,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#14#14,"リーベルドレスを
+作ったよ♪","制作了
+利维尔礼服哦♪",translated,,e58d5841f9,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#16#14,"リーベルドレスが
+完成したよ♪","利维尔礼服
+制作完成了♪",translated,,0b003c9032,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#18#14,"リーベルドレスの
+作成完了。
+次は何を作ろうかな♪","利维尔礼服
+制作完毕。
+下次要做什么呢♪",translated,,5b8407007e,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear102a.txt#20#14,"リーベルドレスが
+できたよ♪","利维尔礼服
+做出来啦♪",translated,,baf1815ad8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#3#12,"これでよしっと……！
+リーベルドレスの完成だよ。","搞定收工……！
+利维尔礼服制作完成啦。",translated,依恩,294a0c1770,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#4#12,"えっと、頼まれたから作ったけど、
+この服って前にも作ったよね？","唔，虽然是你拜托我才做的，
+但这件衣服之前不是已经做过一次了吗？",translated,依恩,2632ae033d,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#5#12,"同じ服が何着もあっても、あんまり意味が
+ないような気がするんだけど……。","就算有好几件一模一样的衣服，
+感觉好像也没有太大意义呀……",translated,依恩,68a83c1b52,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#7#12,御奉仕してほしい,希望能侍奉我,translated,,89776eee62,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#8#12,洗ってたら着れない,洗了的话就没得穿了,translated,,43b46f0c38,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#10#12,"たしかにかわいいんだけど、
+何回も作るようなものじゃ……。","虽然确实很可爱，
+但也不至于做上好几次吧……",translated,依恩,bc9ce5a581,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#11#12,あっ、けどメンドウってわけじゃないよ？,啊，不过我可不是嫌麻烦哦？,translated,依恩,1728adae7f,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#12#12,"裁縫は得意じゃないけど、
+何かを作るのは好きだし……。","虽然我不擅长针线缝纫，
+但我很喜欢动手做东西嘛……",translated,依恩,7469ab61fc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#15#12,"ま、まぁ、きっと何か意味があって
+頼んだんだよね？","嘛、嘛，你拜托我做
+肯定是有什么用意对吧？",translated,依恩,807511a55b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#16#12,"わたしもかわいいと思うし、
+これはこれでいいのかな。","我也觉得很可爱，
+这样其实也挺好的吧。",translated,依恩,bf88006a2b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#19#12,ご、御奉仕って……！？,侍、侍奉是……！？,translated,依恩,d08db1a20f,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#20#12,"そういえば、ねりこさんもそんなことを
+言ってたっけ……。",说起来，妮莉库好像也说过类似的话来着……,translated,依恩,4105478765,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#21#12,"う～ん、でも御奉仕ってどんなことを
+すればいいんだろ……。","唔～嗯，可是说到侍奉，
+究竟该做些什么才好呢……",translated,依恩,d680488d4b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#22#12,おかえりなさいませ。ご主人様。,“欢迎回来，主人。”,translated,依恩,34bfdf9afc,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#23#12,な、なんて、こんな感じ……かな？,开、开玩笑的，是这种感觉……吗？,translated,依恩,e0645609dc,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#26#12,言われてみれば、たしかにそうかも……。,经你这么一说，好像确实是这样呢……,translated,依恩,432a0418e3,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#27#12,"いざ着たいと思ったときに、
+洗濯中だったらショックだもん。","等真正想穿的时候，如果正在洗涤晾晒的话
+那可就太令人受打击了嘛。",translated,依恩,8ceec2c0cb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#28#12,"同じ服でも何着か持っているのは
+ありなのかもしれないね。","哪怕是同一套衣服，多备上几套
+或许也是很有必要的呢。",translated,依恩,05164f3b04,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#31#14,"リーベルドレスを
+また作ったよ♪","又制作了
+利维尔礼服哦♪",translated,,de7f69b818,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#33#14,"リーベルドレスが
+完成したよ♪","利维尔礼服
+制作完成了♪",translated,,0b003c9032,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#35#14,"リーベルドレスの
+作成完了。
+次は何を作ろうかな♪","利维尔礼服
+制作完毕。
+下次要做什么呢♪",translated,,5b8407007e,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear102b.txt#37#14,"リーベルドレスが
+またできたよ♪
+いい調子♪","利维尔礼服
+又做出来啦♪
+状态很棒♪",translated,,19e6ba5129,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#3#12,月待灯、完成だよ！,月待灯制作完成啦！,translated,依恩,4964aabe93,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#4#12,"って、作った後で言うのも変だけど、
+ちょっと大胆過ぎるかも……。","虽然做完之后才这么说有点怪，
+但这件衣服会不会稍微太大胆了一点……",translated,依恩,f58c95c901,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#5#12,"胸も少しはみ出しちゃいそうだし、
+それにスリットも深く入り過ぎだよ。","胸口总觉得快要遮不住了，
+而且裙叉也开得太深了啦。",translated,依恩,5a4db03fa0,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#7#12,じゃあバスタオルを着よう,那就裹浴巾吧,translated,,1b17e03fe8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#8#12,"丈も短過ぎるから、ちょっと屈むだけで
+下着が見えちゃいそうだし……。","裙摆也太短了，稍微弯一下腰
+感觉就会露出内衣来……",translated,依恩,0fc35aaa57,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#9#12,"……あなたから、変な視線を感じそうで
+ちょっと怖いかも。","总感觉会接收到来自你奇怪的视线，
+稍微有点让人害怕呢……",translated,依恩,b1b8221082,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#13#12,"う～、これを着るの、
+結構勇気がいりそうだよ……。","唔～穿上这个，
+感觉需要相当大的勇气呀……",translated,依恩,c9e5c28e81,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#17#12,"……変な話かもしれないけど、
+露出している部分はバスタオルの方が
+少ないかもしれないよ。","听起来可能很奇怪，不过单纯就暴露的面积来说，
+搞不好裹浴巾还要更少一些呢。",translated,依恩,c25b87cf58,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#18#12,"少なくとも、バスタオルはスリットが
+入ってはいないし……。",至少浴巾可不会开那么深的叉呀……,translated,依恩,40bacd161c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#19#12,"それに体のラインもくっきりと浮かび
+あがっちゃうと思うし……。",而且身体的线条也会被勾勒得清清楚楚的……,translated,依恩,4db16b25d7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#20#12,着る前からドキドキしてきちゃうよ。,还没穿上我就已经心跳不已了啦。,translated,依恩,95fc8cb2b8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#23#14,月待灯を作ったよ♪,制作了月待灯哦♪,translated,,b9b8fd1270,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#25#14,月待灯が完成したよ♪,月待灯制作完成了♪,translated,,84bfddb247,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#27#14,"月待灯の作成完了。
+次は何を作ろうかな♪","月待灯制作完毕。
+下次要做什么呢♪",translated,,f2f2262352,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103a.txt#29#14,月待灯ができたよ♪,月待灯做出来啦♪,translated,,f7dcfae350,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#3#12,月待灯、また作ってみたよ。,月待灯，我又试着做了一套哦。,translated,依恩,fa7c0c5efe,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#4#12,"……やっぱり、何度見ても
+この服は露出が激しいね。","……不管看多少遍，
+这套衣服的暴露度都太夸张了呢。",translated,依恩,896a81d680,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#5#12,"過去のわたしも、まさかこういう服を
+着るとは思わなかったんじゃないかな？","过去的我自己，
+恐怕也做梦都想不到竟然会穿这种衣服吧？",translated,依恩,cd654db571,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#7#12,そんなに恥ずかしい？,有那么害羞吗？,translated,,04add114f5,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#8#12,"せめてスリットだけでも、
+もう少し浅く出来たらいいのに……。",至少这开叉要是能稍微改浅一点该多好啊……,translated,依恩,d07cc5f571,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#9#12,"下着が見えちゃいそうで、
+落ち着いて着てられないよ。","总感觉内衣随时会露出来，
+根本没办法安心穿在身上啦。",translated,依恩,f23915a23c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#13#12,"それに、こういう服を着てると、
+えっちな子に見られちゃいそうで不安かも……。","而且穿着这种衣服，
+总担心会被当作不知检点的女孩子，很是不安呢……",translated,依恩,01a42d0066,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#17#12,"むしろこれを着て恥ずかしがらない人の方が
+少ないんじゃないかな、って思うよ。","不如说穿成这样还能不觉得害羞的人，
+根本就没有几个吧。",translated,依恩,24891785d9,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#18#12,"デザインはかっこいいと思うから、
+露出だけどうにかしたいな。","外观设计我倒是觉得很帅气，
+要是暴露程度能稍微收敛点就好了。",translated,依恩,e5d26b2176,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#19#12,"……でも、こういう服って、
+露出を抑えたらかっこ悪くなりそう……。","……可是这类衣服要是减少了暴露度，
+感觉又会变得不够帅气了……",translated,依恩,9c2a357945,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#20#12,"う～、やっぱり恥ずかしいのを我慢して
+着るしかないか……。",唔～看来果然只能硬忍着害羞穿上了吗……,translated,依恩,bce2b8b942,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#23#14,月待灯を作ったよ♪,制作了月待灯哦♪,translated,,b9b8fd1270,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#25#14,月待灯が完成したよ♪,月待灯制作完成了♪,translated,,84bfddb247,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#27#14,"月待灯の作成完了。
+次は何を作ろうかな♪","月待灯制作完毕。
+下次要做什么呢♪",translated,,f2f2262352,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear103b.txt#29#14,月待灯ができたよ♪,月待灯做出来啦♪,translated,,f7dcfae350,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#3#12,ブルーハミング、できあがりだよ！,蓝色蜂鸟制作完成啦！,translated,依恩,36e1d15361,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#4#12,"どんな服ができるのか心配だったけど、
+結構好きな感じのデザインかも。","虽然一开始有点担心会做成什么样，
+但我还挺喜欢这种设计风格的呢。",translated,依恩,9f2d29ce18,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#5#12,"ただ、ちょっと男の子っぽい服に
+思えなくもないけど……。",只是总觉得这件衣服稍微有点偏男孩子气……,translated,依恩,989de73f9e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#7#12,イオンなら可愛く着こなせるよ,依恩肯定能穿得很可爱的,translated,,6a186e687b,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#8#12,"なんて例えればいいのかな？
+えっと……。","该怎么打比方好呢？
+唔……",translated,依恩,73f6be1f74,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#9#12,"ほら、街でペンキ塗りをしてる男の子が
+着てそうな感じがするでしょ？","你看，感觉很像镇上刷油漆的小男孩
+会穿的那种衣服对吧？",translated,依恩,22c87fdb0e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#10#12,"だから、女の子のわたしが着ても、
+似合うかどうか心配かも……。","所以我很担心身为女孩子的我
+穿上它到底合不合适呢……",translated,依恩,c191e9700c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#13#12,"でも、せっかく作ったんだから、
+一度は着てみないともったいないよね。","不过好不容易做好了，
+不穿一次也未免太可惜啦。",translated,依恩,7c44c2515e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#17#12,"えへへ……そう言ってもらえると、
+ちょっとだけ安心するよ。","诶嘿嘿……听你这么说，
+我稍微安心了一点呢。",translated,依恩,1a5415aa91,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#18#12,"でも、実際に着た時にあなたのイメージと
+違ってたとしても、笑わないでね？","不过要是我真穿上之后跟你想象的不太一样，
+可不能笑话我哦？",translated,依恩,83171ccc26,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#21#14,"ブルーハミングを
+作ったよ♪","制作了
+蓝色蜂鸟哦♪",translated,,157b67353e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#23#14,"ブルーハミングが
+完成したよ♪","蓝色蜂鸟
+制作完成了♪",translated,,a633641e25,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#25#14,"ブルーハミングの
+作成完了。
+次は何を作ろうかな♪","蓝色蜂鸟
+制作完毕。
+下次要做什么呢♪",translated,,503912aa2f,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear106a.txt#27#14,"ブルーハミングが
+できたよ♪","蓝色蜂鸟
+做出来啦♪",translated,,b2c8f6e9fd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#3#12,ブルーミングヤード、完成したよ！,绽放之庭制作完成啦！,translated,依恩,b39a5b58b2,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#4#12,"おしゃれな制服になるとは聞いてたけど、
+想像以上の物になったよ。","虽然听说过是很时髦的制服，
+但成品比我想象的还要漂亮呢。",translated,依恩,2876469e96,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#5#12,"っていうか、制服、って言われなかったら
+普段着にしか見えないよね？","话说回来，要是不特意说明是制服，
+看起来完全就像日常便服对吧？",translated,依恩,5b0a143136,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#6#12,"これなら普段からお部屋で着てても、
+問題なさそうだよ。","感觉平时就算穿着它在房间里活动
+也完全没问题呢。",translated,依恩,266f81465c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#8#12,こんな制服の学校に通いたかった！,我也想去有这种制服的学校上学！,translated,,1ccbd36bfe,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#9#12,"可愛い服だから、わたしも毎日着たいな、
+って思えるし……。","因为衣服很可爱，
+我也很想每天都穿在身上呢……",translated,依恩,cf5e42a02a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#10#12,"あなたにも、これを着れば可愛いって
+言ってもらえるかなぁ、なんて……。","而且要是我穿上这个，
+不知你会不会夸我可爱呢……",translated,依恩,f49007c100,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#13#12,えへへ、その辺りも期待してるね。,诶嘿嘿，我可是很期待的哦。,translated,依恩,c9681c1b9f,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#17#12,"う～ん……多分意味が違うとは思うけど、
+わたしもこういう制服の学校に通いたかった
+と思うよ。","唔～嗯……虽然意思可能不太一样，
+但我也好想去有这种制服的学校上学呢。",translated,依恩,1243188c09,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#18#12,"学生時代の記憶は無いけど、多分こんなに
+可愛い制服じゃなかったのは間違いないと
+思うし……。","虽然我没有学生时代的记忆，
+但肯定绝对不是这么可爱的制服就是了……",translated,依恩,c8187a41af,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#19#12,"この制服を着た女の子を見たくなったら、
+いつでもわたしに言ってね。","如果你想看穿这种制服的女孩子，
+随时都可以跟我说哦。",translated,依恩,2d8f950bb2,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#20#12,"可愛すぎる服だから、わたしに着こなせるか
+どうかはわからないけど……。
+あなたのためなら頑張ってみるよ！","因为这件衣服太可爱了，
+虽然不知道我能不能穿出它的魅力……
+不过为了你，我会努力试试看的！",translated,依恩,d5df14eb45,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#23#14,"ブルーミングヤードを
+作ったよ♪","制作了
+绽放之庭哦♪",translated,,d2f6185b20,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#25#14,"ブルーミングヤードが
+完成したよ♪","绽放之庭
+制作完成了♪",translated,,213fb70d8a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#27#14,"ブルーミングヤードの
+作成完了。
+次は何を作ろうかな♪","绽放之庭
+制作完毕。
+下次要做什么呢♪",translated,,d29c9d3b48,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear107a.txt#29#14,"ブルーミングヤードが
+できたよ♪","绽放之庭
+做出来啦♪",translated,,926ad4ab08,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#3#12,"できたー！
+こんいろの水着だよ！","做出来啦――！
+是深蓝色的泳装哦！",translated,依恩,4f792ccc14,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#4#12,"う～ん……これに関しては、
+特に説明しなくてもわかるよね？","唔～嗯……关于这件，
+就算不特意说明你也明白的吧？",translated,依恩,cd6a5583c8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#5#12,"泳ぐ時に着る、一番オーソドックスな
+形の水着だね。",是游泳时穿的最正统款式的泳装呢。,translated,依恩,31aa9f5b8c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#6#12,"水泳キャップと水中眼鏡は無いけど、
+まあ、本当に泳ぐわけじゃないから
+無くても問題ないかな？","虽然没有泳帽和泳镜，
+不过反正又不是真的要去游泳，
+没有也无所谓啦。",translated,依恩,576fcd9f7f,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#8#12,旧型とは、わかってらっしゃる！,旧款式啊，你很懂嘛！,translated,,d6d5db8a01,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#9#12,"知っての通り、ここにはプールが無いし、
+仮想空間の海は、ちょっと……。","如你所知，这里既没有泳池，
+虚拟空间的大海又稍微有点……",translated,依恩,81c848d585,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#10#12,"ほら、わたしって泳げないから、
+波のある海に入るのは怖いの。","你看，因为我不会游泳嘛，
+一想到要进有波浪的大海就觉得很害怕。",translated,依恩,322b3c1cbb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#13#12,"でも、気分だけでも楽しみたいから、
+これを着て砂浜を歩いてみたいな。","不过哪怕只是感受一下气氛也好，
+我很想穿着它在沙滩上漫步看看呢。",translated,依恩,17c7f382cc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#17#12,"旧型？
+水着に旧型とか新型みたいなのがあるの？","旧款？
+泳装也有旧款和新款的区别吗？",translated,依恩,7d0e276b21,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#18#12,"わたしはそういうのってよくわからないん
+だけど……。
+そっか、これって古い形なんだ……。","我不太懂这方面的事情呢……
+这样啊，原来这是老款式的剪裁啊……",translated,依恩,277c2fc6de,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#19#12,つまり、ビンテージタイプだね。,也就是说，是复古款型对吧。,translated,依恩,953cbd26f6,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#20#12,"えへへ、そう考えるとかっこいいかも。
+早速着てみたいなぁ。","诶嘿嘿，这么一想感觉挺帅气的呢。
+真想快点穿上试试呀。",translated,依恩,9862b8dcef,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#23#14,"こんいろの水着を
+作ったよ♪","制作了
+深蓝色的泳装哦♪",translated,,baa2f97dcb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#25#14,"こんいろの水着が
+完成したよ♪","深蓝色的泳装
+制作完成了♪",translated,,51305d4a47,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#27#14,"こんいろの水着の
+作成完了。
+次は何を作ろうかな♪","深蓝色的泳装
+制作完毕。
+下次要做什么呢♪",translated,,5a8b366142,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear108a.txt#29#14,"こんいろの水着が
+できたよ♪","深蓝色的泳装
+做出来啦♪",translated,,7281299e85,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#3#12,"ジャジャーン！
+またまた水着を作ってみましたー。","登登――！
+我又试着做了一套泳装哦～。",translated,依恩,e0672e64f5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#4#12,"前に作ったこんいろの水着の、
+色違いバージョンだよ。","是之前做过的深蓝色的泳装的
+换色版本哦。",translated,依恩,8e7067a887,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#5#12,"紺とは違って、明るい感じにしたかったから
+白にしてみたの。","和深蓝色不同，因为想要更明亮清爽的感觉，
+所以做成了白色。",translated,依恩,bfc6d28e7e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#6#12,"変更点はそこだけで、あとは前に作った
+紺色のと同じだよ。","改变的只有颜色，
+其他部分和之前做的那套深蓝色完全一样哦。",translated,依恩,9196a0d841,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#8#12,白は濡れると透けるよ,白色湿水后会变透哦,translated,,701daaf69e,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#9#12,"でも、どうしてこの水着って、
+紺色が主流なのかな？","不过，为什么这种泳装
+向来都是深蓝色占主流呢？",translated,依恩,e9d1d2cbd3,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#10#12,"体操服とかは白なんだから、水着だって
+白の方がいいと思うのに……。","体操服明明大多是白色的，
+我觉得泳装也做成白色的更好嘛……",translated,依恩,e3bfa02976,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#13#12,"そうじゃなかったとしても、やっぱり水着は
+少しくらい明るい色の方がいいよね？","就算不是这样，
+泳装也还是明亮一点的颜色更好看对吧？",translated,依恩,9970f2bd2a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#17#12,"えぇっ！？
+そ、それ、本当！？","诶诶！？
+那、那是真的吗！？",translated,依恩,8a5a4a1453,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#18#12,"あっ、でも考えてみると、白いシャツも
+水に濡れるとスケスケになっちゃうよね？","啊，但仔细一想，
+白衬衫被水浸湿后确实会变得完全透明呢？",translated,依恩,4a0ec6edc5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#19#12,"だとすると、ピッチリ肌に張り付いてる
+水着が透けたりしたら……。","既然这样，
+要是紧贴在身上的泳装也透光变透明的话……",translated,依恩,289af544bc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#20#12,"……これを着る時は、水の近くには
+行かない方がよさそうだね。","……穿这个的时候，
+感觉最好还是不要靠近有水的地方比较好呢。",translated,依恩,ea28711e73,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#23#14,"じゅんぱくの水着を
+作ったよ♪","制作了
+纯白的泳装哦♪",translated,,4e431c3cf6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#25#14,"じゅんぱくの水着が
+完成したよ♪","纯白的泳装
+制作完成了♪",translated,,c030560542,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#27#14,"じゅんぱくの水着の
+作成完了。
+次は何を作ろうかな♪","纯白的泳装
+制作完毕。
+下次要做什么呢♪",translated,,f52be41354,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear109a.txt#29#14,"じゅんぱくの水着が
+できたよ♪","纯白的泳装
+做出来啦♪",translated,,ca5dfee3f4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#3#12,紫陽咲花、完成したよ！,紫阳咲花制作完成啦！,translated,依恩,3df53c5eef,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#4#12,"ふふっ、ねりこさんの言ったとおり、
+すごく可愛い浴衣になったよ。","呵呵，正如妮莉库所说，
+做成了非常可爱的浴衣呢。",translated,依恩,dc686872d4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#5#12,"最初は浴衣って聞いた時、もっとシンプルな
+デザインになると思ってたんだけど……。","最初听说要做浴衣时，
+我还以为会是更朴素简约的设计呢……",translated,依恩,32de7f18fa,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#7#12,着付け、できるの？,你会自己穿浴衣吗？,translated,,c215bb956e,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#8#12,"もしかしてねりこさん、
+気を利かせてくれたのかな？",难道是妮莉库特意替我费心考虑了吗？,translated,依恩,49251f73dc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#9#12,"ふふっ、今度会った時に、ちゃんとお礼を
+言わないといけないね。","呵呵，下次见到她时，
+一定要好好向她道谢才行呢。",translated,依恩,498a0022e7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#12#12,早くこれを着て、デートにでかけたいなぁ。,真想快点穿上这个，和你一起去约会呀。,translated,依恩,6385923f57,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#16#12,"うん、このレシピをもらう時に、
+ねりこさんから教わったよ。","嗯，在拿到这张配方卡的时候，
+妮莉库教过我哦。",translated,依恩,b93724f9b2,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#18#12,"マジックテープの帯もラクでいいが、
+自分でできた方がかっこいいからの。","“魔术贴的腰带虽然省事方便，
+但自己亲手系上才更帅气嘛。”",translated,依恩,8f9a230e10,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#19#12,"って言われたから、わたしも頑張って
+マスターしてきちゃったの。","听她这么说，
+我也努力练习把它彻底掌握啦。",translated,依恩,1d33f73c08,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#20#12,"ふふっ、早くこれを着た姿を
+あなたに見せたいな……。","呵呵，真想早点让你看看
+我穿上它的样子呀……",translated,依恩,ba06f9c690,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#23#14,紫陽咲花を作ったよ♪,制作了紫阳咲花哦♪,translated,,cb70f587c9,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#25#14,"紫陽咲花が
+完成したよ♪","紫阳咲花
+制作完成了♪",translated,,efc4741a77,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#27#14,"紫陽咲花の作成完了。
+次は何を作ろうかな♪","紫阳咲花制作完毕。
+下次要做什么呢♪",translated,,f9e7f0a490,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear110a.txt#29#14,紫陽咲花ができたよ♪,紫阳咲花做出来啦♪,translated,,6b106bfa28,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#3#12,スポーツウェア、完成だよ！,运动服制作完成啦！,translated,依恩,78e3c699bd,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#4#12,"ねりこさんも言ってたけど、
+これがあなたのセカイでの
+一般的な運動着なんだよね？","妮莉库也跟我提过，
+这就是在你的世界里
+非常普遍的运动服对吧？",translated,依恩,be4798ff80,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#5#12,"デザインはシンプルだけど、その分動き
+やすいし、これなら運動するのも楽だね。","虽然款式很简约，但相应地活动起来很方便，
+穿着它运动肯定格外轻松呢。",translated,依恩,6e7f09a254,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#7#12,上は普通の服、下はブルマでお願いします,请务必上面穿常服、下面穿灯笼裤,translated,,8ecc737ca8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#8#12,"っていうか、運動不足だからちょっと
+この服は怖いかも。","话说回来，因为我平时严重缺乏运动，
+穿这件衣服稍微有点让人提心吊胆呢。",translated,依恩,972f0da96b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#9#12,"太ももとか見えちゃうと、
+その……は、恥ずかしいし……。","大腿什么的都会露在外面，
+那个……怪、怪害羞的……",translated,依恩,1f9a1b51dc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#12#12,"これを機に、本気で運動することを
+考えようかな？","不妨以此为契机，
+我认真考虑一下开始运动吧？",translated,依恩,383627bc53,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#16#12,……それ、どうなのかな？,……那样真的好吗？,translated,依恩,42d9d5bbf7,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#17#12,"服の上下で意外な組み合わせ、っていうのは
+面白いけど、これと合う服なんて持ってないよ。","上下半身搭配出意外的反差感虽然很有趣，
+但我可没有能和这件搭配的衣服呀。",translated,依恩,6a1ae09374,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#18#12,"それに体操服を他の服と組み合わせる、
+っていうならわかるけど、
+ブルマとは難しそうだし……。","而且如果说是用体操服去搭配别的常服，
+我还能理解，搭配灯笼裤感觉难度太高啦……",translated,依恩,1dff01e0f5,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#19#12,"やっぱり、この服は一緒に着るのが
+一番だよ。",果然这套衣服还是成套一起穿最好啦。,translated,依恩,4be3a645e7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#22#14,"スポーツウェアを
+作ったよ♪","制作了
+运动服哦♪",translated,,3a02aca344,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#24#14,"スポーツウェアが
+完成したよ♪","运动服
+制作完成了♪",translated,,6a6eab65bc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#26#14,"スポーツウェアの
+作成完了。
+次は何を作ろうかな♪","运动服
+制作完毕。
+下次要做什么呢♪",translated,,f435fc952b,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear111a.txt#28#14,"スポーツウェアが
+できたよ♪","运动服
+做出来啦♪",translated,,08523a5b46,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#3#12,ハピネスウェット、完成したよ！,幸福卫衣制作完成啦！,translated,依恩,21430714b8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#4#12,"えへへ、パーカーっていいよね？
+だぼっと着れるから、結構気に入ってるの。","诶嘿嘿，连帽衫真棒呢对吧？
+穿起来宽松舒服，我还挺中意的哦。",translated,依恩,4485986b3e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#5#12,ハーフパンツも動きやすくていいよね？,短裤活动起来也很轻便自如对吧？,translated,依恩,dd87d10f4d,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#7#12,そういう服は珍しいね,这种衣服还真少见呢,translated,,8e82b52bdc,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#8#12,"ただ、もうちょっと丈が長くても
+良かったかも……。",只是裤腿要是能稍微再长一点就好了……,translated,依恩,80ec0281b8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#9#12,短すぎるのはやっぱり恥ずかしいし……。,太短了果然还是有点让人害羞嘛……,translated,依恩,d7dd6e4612,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#12#12,まあ、何回か着てればきっと慣れるよね？,嘛，多穿几次肯定就能习惯了吧？,translated,依恩,a65a4fb926,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#16#12,"そういえば、そうだね。
+こういう服は今までなかったかも。","说起来还真是呢。
+以往确实好像从来没有过这种风格的衣服。",translated,依恩,b12373175b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#17#12,"ポーラーズメモリーも着心地は楽だけど、
+それとは全然違う感じだし……。","虽然北极星记忆穿起来也很宽松舒服，
+但感觉却完全不一样……",translated,依恩,fd4ec83d11,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#18#12,"今度他にもこういう服のレシピがないか、
+ねりこさんに聞いてみようかな。","下次我去问问妮莉库，
+看看还有没有其他这种风格的衣服配方吧。",translated,依恩,4015c9ea70,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#21#14,"ハピネスウェットを
+作ったよ♪","制作了
+幸福卫衣哦♪",translated,,bd8bf6cde8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#23#14,"ハピネスウェットが
+完成したよ♪","幸福卫衣
+制作完成了♪",translated,,ee6f849a7b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#25#14,"ハピネスウェットの
+作成完了。
+次は何を作ろうかな♪","幸福卫衣
+制作完毕。
+下次要做什么呢♪",translated,,f37bd2a61e,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear112a.txt#27#14,"ハピネスウェットが
+できたよ♪","幸福卫衣
+做出来啦♪",translated,,c0322aab35,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#3#12,わぁ……可愛いなぁ……。,哇啊……好可爱呀……,translated,依恩,0d29ead0e4,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#4#12,"あっ、いけないいけない！
+えっとね、新しい服が完成したよ。","啊，糟了糟了！
+那个呀，新衣服已经做好啦。",translated,依恩,74ab3ac350,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#5#12,"読書日和っていって、図書館の司書さんを
+イメージしたデザインの服なの。","名字叫适宜读书，
+是以图书馆管理员为意象设计的衣服哦。",translated,依恩,4366c0853a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#6#12,"こんな可愛い服を着れるなら、
+わたしも司書さんになってみたいな。","要是能穿这么可爱的衣服，
+我都想去当图书馆管理员了呢。",translated,依恩,2958e70ae1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#8#12,本より司書さんに夢中になっちゃいそう,比起书，感觉反而会迷上管理员呢,translated,,27c8ff8aa1,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#9#12,"でも、わたしって本好きだから、
+沢山の本に囲まれてたらつい読みたく
+なっちゃって、仕事にならないかも……。","不过我很喜欢看书嘛，
+要是被那么多书包围着，
+肯定会忍不住看入迷而荒废工作的……",translated,依恩,a98ff47387,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#10#12,"ＳＦとか工学系の本が置いてある棚の前に
+長時間いたら、仕事を忘れて読書を
+始めちゃいそうだよ。","要是在摆放科幻或工程类书籍的书架前待久了，
+我肯定会把工作抛到脑后直接开始看书啦。",translated,依恩,133279c085,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#13#12,"心惹かれるけど、そういう点では
+わたしには最も向いてないお仕事なのかも
+しれないね……。","虽然令人心驰神往，但从这一点来看，
+搞不好也是最不适合我的工作呢……",translated,依恩,d7167f40d5,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#17#12,"むぅ……図書館は司書さんを眺めるところ
+じゃなくて、本を読むところですよー。","唔……图书馆可是用来读书的地方，
+而不是用来盯着图书管理员看的地方哦――",translated,依恩,070ded2b47,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#18#12,"でもそう言うってことは、あなたは
+こういう服を着た子が好き、ってこと
+なのかな？","不过你这么说，
+是不是意味着你很喜欢穿着这种衣服的女孩子呢？",translated,依恩,b0f4405bd3,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#19#12,"ふふっ……いいこと聞いちゃったかも。
+これからはなるべく読書日和を着るように
+しようかなぁ？","呵呵……好像打听到了很棒的喜好呢。
+今后我是不是该多穿穿适宜读书比较好呀？",translated,依恩,d672939380,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#22#14,読書日和を作ったよ♪,制作了适宜读书哦♪,translated,,b02fa778f1,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#24#14,"読書日和が
+完成したよ♪","适宜读书
+制作完成了♪",translated,,2db5c79bc8,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#26#14,"読書日和の作成完了。
+次は何を作ろうかな♪","适宜读书制作完毕。
+下次要做什么呢♪",translated,,a92b5a768e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear113a.txt#28#14,読書日和ができたよ♪,适宜读书做出来啦♪,translated,,02573d6cf7,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#3#12,ねりこさんの服、完成したよ。,妮莉库的衣服制作完成啦。,translated,依恩,c86480ebcf,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#4#12,"正式にはねりこさんの服じゃなくて、
+蓬莱連歌、っていう名前なんだって。","正式名称并不叫妮莉库的衣服，
+据说名字叫做蓬莱连歌哦。",translated,依恩,152446178e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#5#12,"ねりこさんが着てるのを見てるときには
+あまり感じなかったけど、
+こうして服だけじっくり見てみると……。","看着妮莉库穿在身上时还没太大感觉，
+但像这样仔细端详衣服本身的话……",translated,依恩,57c5113576,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#6#12,"ちょっと……ううん。
+かなり際どいデザインなの。","感觉有点……不对。
+是相当清凉大胆的设计呢。",translated,依恩,d1004dd21e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#7#12,"それに、この服を着る時は下着も
+Ｔバックじゃないとダメ、って
+書いてあったし……。","而且上面还写着，
+穿这套衣服时内裤必须穿丁字裤才行……",translated,依恩,9c963ac6a3,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#8#12,"下着くらいはいつも履いてるのでも
+良いと思うんだけどなぁ……。",我觉得内衣穿平时的款式不也挺好的嘛……,translated,依恩,96e7e9f24c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#10#12,いや、是非Ｔバックを履こう！！,不，请务必穿丁字裤！！,translated,,d8f2682f07,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#11#12,"第一、そんな際どい下着なんて履いたこと
+ないから、着てて落ち着かないもん。","首先，我从来没穿过那么大胆的内衣，
+穿在身上根本就静不下心来嘛。",translated,依恩,993eb92e3a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#12#12,"見えないところまでオシャレするのが大事、
+ってことなのかもしれないけど……
+でも、やっぱりＴバックはちょっと……。","虽然可能在看不到的地方也讲究时尚非常重要……
+但果然丁字裤还是有点……",translated,依恩,193a42edf6,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#15#12,"うん、やっぱりそれはやり過ぎだよね。
+下着は普通のを履くようにしよっと。","嗯，果然还是太夸张了吧。
+内衣我还是穿普通的款式好啦。",translated,依恩,0b1ac87957,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#19#12,な、何でそんなに力いっぱい言うのかな？,你、你怎么会这么激动地大声强调呀？,translated,依恩,f697b5e2b4,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#20#12,"言っておくけど、仮に履いたとしても
+あなたからは見ることができないんだよ？","丑话说在前面，就算我真穿了，
+从你那边也是绝对看不到的哦？",translated,依恩,c7b3b127c2,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#21#12,"それに、やっぱり履いてて落ち着かないと
+色んな作業に集中もできなくなっちゃうと
+思うし……。","而且，穿在身上要是坐立难安的话，
+感觉连各种日常作业都无法集中精力了嘛……",translated,依恩,26d7b6a48f,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#22#12,"うん、やっぱりそれはやり過ぎだよね。
+下着は普通のを履くようにしよっと。","嗯，果然还是太夸张了吧。
+内衣我还是穿普通的款式好啦。",translated,依恩,0b1ac87957,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#25#14,蓬莱連歌を作ったよ♪,制作了蓬莱连歌哦♪,translated,,97eb8b51bb,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#27#14,"蓬莱連歌が完成した
+よ♪","蓬莱连歌
+制作完成了♪",translated,,1b5b3bb28f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#29#14,"蓬莱連歌の作成完了。
+次は何を作ろうかな♪","蓬莱连歌
+制作完毕。
+下次要做什么呢♪",translated,,03e2fb0117,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear114a.txt#31#14,蓬莱連歌ができたよ♪,蓬莱连歌做出来啦♪,translated,,0e461ec06e,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#3#12,カノンさんの服、千篇神楽の完成だよ！,卡诺的衣服，千篇神乐制作完成啦！,translated,依恩,d677e5e392,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#4#12,"名前からして、カノンさんっぽいなぁ、
+って気になると思わない？","单从名字听起来，
+就让人觉得非常有卡诺的风格对吧？",translated,依恩,c65875ceb5,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#5#12,"千篇神楽っていうのはね、
+変わらず神を奉る、って意味なんだって。","所谓的千篇神乐呀，
+据说寓意着“始终如一供奉神明”的意思哦。",translated,依恩,060f219e8e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#6#12,"何だか、服の名前もカノンさんのイメージに
+ピッタリで、ビックリしちゃった。","衣服的名字和卡诺给人的感觉格外契合，
+让我都吓了一跳呢。",translated,依恩,c4cac9ad8e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#7#12,"でも、作ったのはいいけど……
+わたしにこれを着こなせるかな？","可是，做出来是做出来了……
+我真的能驾驭得了吗？",translated,依恩,c33f5ae628,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#9#12,胸のサイズがカノンに比べると……,胸部尺寸比起卡诺来……,translated,,3970a43ed4,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#10#12,"カノンさんみたいに、いつもビシッとして
+いないと、服に着られてる感じになっちゃう
+気がするの。","要是不像卡诺那样时刻昂首挺胸端庄凛然，
+总觉得反倒会被衣服的气场压过去呢。",translated,依恩,8a8b3d5e41,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#11#12,"わたしの性格的に、それはちょっと
+無理っぽい気もするし……。","按照我的性格来看，
+感觉稍微有点勉为其难了呢……",translated,依恩,2295cb9064,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#14#12,"でも素敵な服だから、着てれば自然と
+ビシッとするかもしれないよね！","不过毕竟是这么漂亮的衣服，
+只要穿在身上，说不定自然而然就会端正起来呢！",translated,依恩,716cb8ab38,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#18#12,さ、サイズのことじゃないよ！,才、才不是尺寸的问题呢！,translated,依恩,7e06796ea2,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#19#12,"しかも、そんなピンポイントに
+胸のことを言うなんて……。",真是的，居然这么直接针对胸部来说……,translated,依恩,994409db33,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#20#12,"でも、胸のところに穴が開いてるから、
+やっぱり目立っちゃいそうだなぁ……。","不过胸口处开了一个洞，
+感觉果然会非常惹眼呢……",translated,依恩,9d46d25c58,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#21#12,"うぅ、なんだか着るのが不安になって
+きちゃったよ……。",呜呜，总觉得穿上它心里好不安呀……,translated,依恩,6487c04a82,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#24#14,千篇神楽を作ったよ♪,制作了千篇神乐哦♪,translated,,4c129ea131,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#26#14,"千篇神楽が完成した
+よ♪","千篇神乐
+制作完成了♪",translated,,01160d9880,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#28#14,"千篇神楽の作成完了。
+次は何を作ろうかな♪","千篇神乐
+制作完毕。
+下次要做什么呢♪",translated,,8dc5e19f66,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear115a.txt#30#14,千篇神楽ができたよ♪,千篇神乐做出来啦♪,translated,,d9ce19c553,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#3#12,ぷ、プリティベリー、完成したよ。,靓、靓丽浆果制作完成啦。,translated,依恩,ce011e478c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#4#12,"名前ですぐにわかると思うけど、
+これはネイちゃんがいつも着てる
+あのお洋服だよ。","听到名字应该马上就能明白吧，
+这就是妮伊平时一直穿着的那套衣服哦。",translated,依恩,bc683d6a61,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#5#12,"それをわたしが着れるサイズに
+作り直したのがこれなんだけど……。","虽说这是按照我能穿的尺码
+重新改制出来的……",translated,依恩,0b600cf889,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#6#12,"……デザイン的に、わたしが着るには
+ちょっと危険だよね？","……不过从款式设计上来说，
+由我来穿稍微有点危险对吧？",translated,依恩,56ab1c5f9e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#8#12,意外と着こなせそうな気もする,感觉意外地能驾驭得了呢,translated,,ede302b1e7,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#9#12,"微妙にスクール水着みたいな感じなのは
+置いておくとしても、胸のところなんか、
+細長い布一枚だもん。","姑且不论隐隐有种学校泳装的感觉，
+光是胸口那里，就只有一根细长细长的布条嘛。",translated,依恩,50f2aea6f9,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#10#12,もっと胸が、えっと……その……。,要是胸部再、唔……那个……,translated,依恩,14f0583ca5,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#11#12,"す、スレンダーな感じだったらいいけど、
+わたしくらいの大きさだとちょっとした
+揺れではみ出しちゃいそうな気がして……。","要、要是身材更苗条纤细一些还好，
+像我这种尺码，稍微晃动一下
+感觉都会从边缘滑脱出来……",translated,依恩,ac6f2e0ea3,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#14#12,"落ち着いて見ると、ネイちゃんって
+かなり際どい服を着てたんだね。
+今更ながら、ちょっとビックリだよ。","冷静下来仔细一瞧，原来妮伊一直都穿着
+这么大胆清凉的衣服啊。事到如今真让我有些吃惊呢。",translated,依恩,e2533532e2,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#18#12,"ど、どうかなぁ？
+ちょっと無理があると思うよ？","怎、怎么会呢？
+我觉得还是太勉强了吧？",translated,依恩,8a31cc0573,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#19#12,"ネイちゃんみたいな小柄で元気な子が
+着るなら良いと思うけど、わたしが着たら
+かなり浮いちゃう気がするし……。","像妮伊那样娇小活泼的女孩子穿还挺合适，
+要是由我来穿，感觉会格外格格不入呢……",translated,依恩,33424dce9c,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#20#12,"ま、まあ、ここはねりこさん以外は
+いないから着ても平気だと思うけど、
+それでもちょっと恥かしいかも。","嘛、嘛，虽然这里除了妮莉库之外也没别人，
+穿穿看倒是无所谓，但哪怕这样也还是会有些害羞啦。",translated,依恩,3e17635f2e,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#23#14,"プリティベリーを
+作ったよ♪","制作了
+靓丽浆果哦♪",translated,,3ad231dd3b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#25#14,"プリティベリーが
+完成したよ♪","靓丽浆果
+制作完成了♪",translated,,3bf1648536,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#27#14,"プリティベリーの
+作成完了。
+次は何を作ろうかな♪","靓丽浆果
+制作完毕。
+下次要做什么呢♪",translated,,e7b5bee602,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear116a.txt#29#14,"プリティベリーが
+できたよ♪","靓丽浆果
+做出来啦♪",translated,,18c84f89de,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#3#12,"じゃじゃーん！
+プリムローズ、完成したよ！","登登――！
+樱草花制作完成啦！",translated,依恩,acab0e5d99,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#4#12,"これ、わかるかな？
+キャスちゃんの着てる服のサイズを
+わたしに合わせたものなんだよ。","能看出来这是什么吗？
+是将凯斯穿的那件衣服
+改成了适合我的尺寸哦。",translated,依恩,5a9552b457,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#5#12,"ここだけの話、実はキャスちゃんの服って
+ずっと着てみたいなぁ、って思ってたの。","悄悄告诉你哦，其实我一直
+都很想穿穿看凯斯的衣服呢。",translated,依恩,76ed78a7f1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#6#12,"派手じゃないけどおしゃれな感じで、
+素敵だな、って思ってたんだ。","不算张扬却非常时髦别致，
+我一直觉得很漂亮呢。",translated,依恩,266af4e7c0,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#8#12,キャスと並んだら姉妹に見えそう,和凯斯站在一起就像姐妹一样呢,translated,,e5a9a11f27,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#9#12,"それに、生地もすごく良い物を
+使ってるの。",而且，用的面料也特别高档哦。,translated,依恩,c8123f3fda,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#10#12,"着てみると結構ピッチリ体にフィットする
+ように見えるけど、生地が柔らかいから
+締め付けられる感じはまったくないんだ。","虽然穿起来看着相当紧致贴身，
+但因为布料十分柔软，
+完全没有紧绷勒肉的感觉呢。",translated,依恩,13c02751f3,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#11#12,"やっぱりキャスちゃんってお嬢様だから、
+着てる物もすごく良い、ってことだね。","凯斯毕竟是名门大小姐嘛，
+穿的衣服品质果然都非常顶尖呢。",translated,依恩,4dc80938e3,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#14#12,えへへ、早く着てみたいなぁ。,诶嘿嘿，真想快点穿穿看呀。,translated,依恩,b50141ad4c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#18#12,えへへ……そう言ってもらえると嬉しいな。,诶嘿嘿……你能这么说我真高兴。,translated,依恩,7720dbbc5d,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#19#12,"でも、キャスちゃんはあまり喜ばないような
+気もするなぁ。",不过，总觉得凯斯大概不会太高兴呢。,translated,依恩,8c5b8b3746,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#20#12,"こんなに頼りないお姉ちゃんはいらない、
+とか言って怒られちゃいそうだし……。","感觉她八成会冲我发火，
+说“我才不要这么不可靠的姐姐”呢……",translated,依恩,dc8431f37d,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#21#12,"でも、いつかいきなりこの服を着て
+キャスちゃんの前に出て、ビックリ
+させたいな。","不过，真想找个机会冷不丁
+穿着这件衣服出现在凯斯面前，
+吓她一大跳呀。",translated,依恩,3afb487598,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#24#14,"プリムローズを
+作ったよ♪","制作了
+樱草花哦♪",translated,,9bd5c9c3d9,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#26#14,"プリムローズが
+完成したよ♪","樱草花
+制作完成了♪",translated,,377755dd0c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#28#14,"プリムローズの
+作成完了。
+次は何を作ろうかな♪","樱草花
+制作完毕。
+下次要做什么呢♪",translated,,5cf327b1f8,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear117a.txt#30#14,"プリムローズが
+できたよ♪","樱草花
+做出来啦♪",translated,,ca067b3e0b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#3#12,よし、これで完成～♪,好嘞，这样就完成啦～♪,translated,依恩,f205644b07,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#4#12,"えへへ、見て見て。
+新しいポーラーズメモリーだよ。","诶嘿嘿，快看快看。
+是崭新的北极星记忆哦。",translated,依恩,40cac78c84,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#5#12,"おへそが見えちゃってるのは
+ちょっと恥ずかしいけど……。","虽然肚脐露在外面
+让人稍微有点害羞……",translated,依恩,a6c640d329,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#6#12,"でも、スカートがお花の花弁みたいで
+かわいいでしょ？",但裙摆像花瓣一样，超级可爱的对吧？,translated,依恩,f27fe11089,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#7#12,"それに、見た目が違う同じ系統の服が
+二着あるっていうのは面白いかも。","而且，同一系列却外观不同的衣服能有两套，
+感觉挺有意思的呢。",translated,依恩,b44a012277,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#8#12,"前のと着比べて、
+違いを楽しんだり出来そうだもん。","可以和之前的那套换着穿，
+好好体会两者的不同之处嘛。",translated,依恩,7a9fa9a8b4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#9#12,"ちょっとしたファッションショー気分
+だよね♪",颇有点走时装秀的感觉呢♪,translated,依恩,1471bc96a1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#10#12,"もし着て欲しい、って思ったときは
+いつでも声をかけてね。","如果你想看我穿，
+随时都可以叫我换上哦。",translated,依恩,e5192dc4fd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#12#14,"ポーラーズメモリーⅡを
+作ったよ♪","制作了
+北极星记忆Ⅱ哦♪",translated,,94bec69ec2,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#14#14,"ポーラーズメモリーⅡが
+完成したよ♪","北极星记忆Ⅱ
+制作完成了♪",translated,,be5afc0262,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#16#14,"ポーラーズメモリーⅡの
+作成完了。
+次は何を作ろうかな♪","北极星记忆Ⅱ
+制作完毕。
+下次要做什么呢♪",translated,,72f1a69fd6,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear152.txt#18#14,"ポーラーズメモリーⅡが
+できたよ♪","北极星记忆Ⅱ
+做出来啦♪",translated,,156da8d28f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#3#12,だぼだぼフクーの完成～。,宽松垮垮服制作完成啦～。,translated,依恩,5f64154c8a,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#4#12,えへへ、すっごくあったかそうでしょ？,诶嘿嘿，看起来超级暖和对吧？,translated,依恩,0841ed6934,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#5#12,"もちろん暖かいだけじゃなくて、
+すごくゆったりしてて着てるのも楽なの。","当然不仅仅是保暖，
+版型也非常宽松，穿着格外轻松自在哦。",translated,依恩,ed28b79abe,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#6#12,足が寒そう,腿看起来好冷,translated,,a1e1690c4c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#7#12,"ただ、ちょっとゆったりしすぎてて、
+お料理とか工作には向かないかも……。","只是版型稍微有点太松垮了，
+可能不太适合做饭或做手工呢……",translated,依恩,2fa1344b8e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#8#12,"これだと、袖とかが引っかかっちゃいそう
+だし、気をつけないと大変なことに濡れたり
+焦げたり、ましてや燃えたり……。","这样的话袖子很容易被挂住，
+要是不小心弄湿、烤焦，
+甚至着火的话可就不得了了……",translated,依恩,a24a1075c2,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#10#12,うぅ、想像したら怖くなってきちゃった。,呜呜，光是想象一下我就害怕起来了。,translated,依恩,fc9731b9ca,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#11#12,"工作とかするときは
+十分に気をつけるようにするね。","做手工之类的活动时，
+我一定会加倍小心的。",translated,依恩,b449fb309f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#14#12,言われてみれば、たしかにそうかも……。,经你这么一说，好像确实是这样呢……,translated,依恩,432a0418e3,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#15#12,"あ、でもストッキングをはいてるから、
+意外と大丈夫かも。","啊，不过因为有穿长筒袜，
+意外地完全没问题哦。",translated,依恩,ae2c8eeace,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#16#12,"それにここはあなたが考えてるより
+もずっと暖かいの。","而且这里其实
+比你想象的要暖和得多哦。",translated,依恩,4606c90ab7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#17#12,"だからきっと、これを着たら
+暑いくらいなんじゃないかな。","所以真穿上这个的话，
+搞不好甚至会觉得热呢。",translated,依恩,08706ea880,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#20#14,"だぼだぼフクーを
+作ったよ♪","制作了
+宽松垮垮服哦♪",translated,,8e2e7be630,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#22#14,"だぼだぼフクーが
+完成したよ♪","宽松垮垮服
+制作完成了♪",translated,,9a384ff034,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#24#14,"だぼだぼフクーの
+作成完了。
+次は何を作ろうかな♪","宽松垮垮服
+制作完毕。
+下次要做什么呢♪",translated,,993ad6ea14,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear153.txt#26#14,"だぼだぼフクーが
+できたよ♪","宽松垮垮服
+做出来啦♪",translated,,4707a478e2,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#3#12,水鏡完成したよー！,水镜制作完成啦――！,translated,依恩,92bc2e2bc6,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#4#12,"えへへ、自分で作っておいてなんだけど、
+結構上手に作れたみたい。","诶嘿嘿，虽然是自己做的，
+但感觉完成得相当不错呢。",translated,依恩,f21eeaee3c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#5#12,"でも、やっぱりこれ、普段着るような
+服ではないよね？","不过，这件衣服果然平时
+怎么看都不像是能常穿的款式对吧？",translated,依恩,7719e586da,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#6#12,"神聖な儀式以外でも着ろ、ってねりこさんは
+言ってたけど、普段着としてはちょっと
+仰々し過ぎるし……。","妮莉库虽然说“在神圣仪式以外也可以穿”，
+但当作常服未免也太庄重夸张了……",translated,依恩,ff2fa2c70d,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#8#12,似合いそうだから着てほしいな,感觉很适合你，希望能穿穿看,translated,,31ee0944a7,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#9#12,"そもそも、この世界で神聖な儀式って
+まずしない気もするし……。","说到底，在这个世界里
+感觉根本就碰不上什么神圣仪式嘛……",translated,依恩,756d80b91b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#10#12,"ってことは、もしかしてねりこさんが
+レシピをくれる基準って、わたしに
+似合いそうかどうか……ってこと？","也就是说，难道妮莉库挑选配方送我的标准，
+其实是看适不适合我……吗？",translated,依恩,63a2e4078f,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#11#12,う～ん……。,唔～嗯……,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#14#12,"ま、まあ、せっかく作ったんだから、
+そのうち着てみようかな？","嘛、嘛，既然难得做好了，
+找个时间我也穿穿看好啦？",translated,依恩,19e74ab10f,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#15#12,"実際に着てみて、本当に似合ってたら
+嬉しいもん。","实际穿上之后如果真的很合适的话，
+我也很高兴嘛。",translated,依恩,16189ea834,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#19#12,えっ……そ、そう思う？,诶……你、你真这么觉得吗？,translated,依恩,e70d6d35ff,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#20#12,"えへへ、あなたがそう言ってくれるなら、
+普段着として着るのもいいかな。","诶嘿嘿，既然你都这么说了，
+当作日常便服穿穿倒也未尝不可呢。",translated,依恩,3e180973fc,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#21#12,"あなたに可愛いって思ってもらえるなら、
+あまり露出の激しい服でなければいつでも
+着ていたいし。","只要能让你觉得我很可爱，
+只要不是太暴露的衣服，
+我随时都愿意穿在身上的。",translated,依恩,fae8377d64,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#22#12,ふふっ、今から着てみるのが楽しみ。,呵呵，我现在就很期待试穿了呢。,translated,依恩,56d66591d1,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#25#14,"水鏡を
+作ったよ♪","制作了
+水镜哦♪",translated,,1f7316c2bb,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#27#14,"水鏡が
+完成したよ♪","水镜
+制作完成了♪",translated,,cf3d9d459c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#29#14,"水鏡の
+作成完了。
+次は何を作ろうかな♪","水镜
+制作完毕。
+下次要做什么呢♪",translated,,799f4a44f5,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear201.txt#31#14,"水鏡が
+できたよ♪","水镜
+做出来啦♪",translated,,d27e333f00,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#3#12,"じゃじゃーん、カフェットエプロン、
+完成だよ！","登登――！
+咖啡围裙制作完成啦！",translated,依恩,727135b867,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#4#12,"ふふっ、こうして改めて見ても、
+やっぱり可愛い服だなぁ……。","呵呵，像这样重新打量一番，
+果然是一套很可爱的衣服呢……",translated,依恩,45a3b865f6,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#6#12,着た時に可愛さの本領が発揮される,穿在身上才能真正发挥出它的可爱之处,translated,,4978ceffa8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#7#12,"このエプロンっぽいデザインのところが
+すごく気に入ってるの。","这种宛如围裙般的设计，
+我非常喜欢哦。",translated,依恩,1ac4626df7,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#8#12,"ちょこっと、メイドさんっぽい感じが
+するところが、この服のポイントだね。","略带一点女仆装的气质，
+正是这件衣服的最大亮点呢。",translated,依恩,b9e04ca548,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#9#12,"ただ、ちょっとスカートが短かったり、
+背中が開いてたりするところが恥ずかしい
+ポイントではあるけど……。","只是裙摆稍微短了点、后背也大片敞开，
+这一点确实挺让人害羞的……",translated,依恩,c2a1a1a1c9,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#12#12,"でも、あなたも気に入ってくれてた
+みたいだから、早く着てみたいの。","不过你似乎也很中意，
+我也想早点穿上试试呢。",translated,依恩,50ba1596cd,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#13#12,"ふふっ、この服を着てデートに行けたら、
+いつものデートよりもドキドキ度が
+数倍アップしそうだよ。","呵呵，要是能穿着这套衣服去约会，
+心跳指数绝对会比平时暴增好几倍呢。",translated,依恩,589aff256d,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#14#12,"……これ、デートの催促だよ。
+えへへ、期待してまーす。","……这可是在催你带我去约会哦。
+诶嘿嘿，我好期待呀。",translated,依恩,e5985a5b21,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#18#12,えへへ、そう言ってもらえると嬉しいな。,诶嘿嘿，你能这么说我真高兴。,translated,依恩,498008f58c,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#19#12,"やっぱり、服を褒められるのも嬉しいけど、
+服を着たときの自分を褒めてもらえる方が、
+その何倍も嬉しいもん。","毕竟衣服受到夸奖固然高兴，
+但要是穿上衣服的自己能被你夸奖，
+那可要开心上好几倍呢。",translated,依恩,db1cb89613,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#20#12,"それに、早くまた着てみよう、って
+気持ちにもなるし。",而且也会更想快点再穿给你看呢。,translated,依恩,bd49333f82,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#21#12,"ふふっ、これを着てデートに行けたら、
+すごく楽しいんだろうなぁ……。","呵呵，如果能穿这个去约会，
+一定会超级开心的吧……",translated,依恩,1feacfd44b,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#24#14,"カフェットエプロンを
+作ったよ♪","制作了
+咖啡围裙哦♪",translated,,73a141be90,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#26#14,"カフェットエプロンが
+完成したよ♪","咖啡围裙
+制作完成了♪",translated,,61d434b4f0,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#28#14,"カフェットエプロンの
+作成完了。
+次は何を作ろうかな♪","咖啡围裙
+制作完毕。
+下次要做什么呢♪",translated,,48637e1786,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear202.txt#30#14,"カフェットエプロンが
+できたよ♪","咖啡围裙
+做出来啦♪",translated,,f9fda059e0,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#3#12,えへへ、水松法被が完成したよ！,诶嘿嘿，水松法被制作完成啦！,translated,依恩,ddc70c65d8,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#4#12,"この服は初めて仮想空間で着た時から
+可愛いと思ってた、わたしのお気に入りの
+一枚なの。","自从第一次在虚拟空间穿上它起我就觉得好可爱，
+是我非常喜欢的一件衣服哦。",translated,依恩,f886227d76,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#5#12,"だから無事に完成できて、
+すごく嬉しいよ。",所以能顺利做出来，我真的超级开心呢。,translated,依恩,58bd2f52ed,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#7#12,可愛さとかっこよさとセクシーを感じる,感受到了可爱、帅气与性感,translated,,89158ab624,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#8#12,"ただ、お祭りの時以外で着るのは、
+ちょっとだけ浮いちゃいそうで怖いけど。","只是在庙会节日以外的场合穿，
+总觉得会有些格格不入令人不安呢。",translated,依恩,f188f58c71,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#9#12,"でも、これを着てると楽しい気持ちに
+なりそうだから、普段着として使うのも
+悪くはないかな？","不过只要穿上它心情就会变好，
+当作常服穿穿似乎也不赖呢？",translated,依恩,c978318035,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#12#12,"それに、誰かに見られてるわけでも
+ないしね、えへへ……。",而且反正也不会被别人看到嘛，诶嘿嘿……,translated,依恩,de0b3a5ea0,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#13#12,"早く着てみたいなぁ……。
+それで、これを着てお祭りにお出かけして
+みたいなぁ……。","真想早点穿上呀……
+然后穿着它一起去逛庙会呀……",translated,依恩,4a63d66c2e,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#17#12,"うん、わたしも可愛さとかっこよさの
+両方を感じるから……。",嗯，我也觉得它兼具了可爱与帅气……,translated,依恩,2c53025cef,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#18#12,"って、最後のセクシーって何！？
+わたし、それは感じてないよ！","等等，最后的性感是怎么回事！？
+我可完全没觉得哪里性感哦！",translated,依恩,72d96bb759,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#19#12,"どちらかと言うと、セクシーっていうより
+活発で元気な感じがすると思うけど……。","硬要说的话，比起性感，
+更给人一种活泼爽朗的精神气才对吧……",translated,依恩,6aaa488932,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#20#12,"おみこし担いだり、ワッショイワッショイ、
+って大声で叫びそうな感じのね。","就像是扛着神轿、
+扯开嗓子齐声呐喊助威的那种感觉呢。",translated,依恩,63d878a57e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#21#12,"えへへ、これを着てのんびりとお祭り会場を
+回るのが、今から楽しみだよ。","诶嘿嘿，穿着它悠闲地逛庙会集市，
+我现在就很期待了呢。",translated,依恩,52a41d8c80,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#24#14,"水松法被を
+作ったよ♪","制作了
+水松法被哦♪",translated,,bd4b8734b1,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#26#14,"水松法被が
+完成したよ♪","水松法被
+制作完成了♪",translated,,be60e55bdf,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#28#14,"水松法被の
+作成完了。
+次は何を作ろうかな♪","水松法被
+制作完毕。
+下次要做什么呢♪",translated,,5ca1af9a8d,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear203.txt#30#14,"水松法被が
+できたよ♪","水松法被
+做出来啦♪",translated,,557e6ee8b4,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#3#12,えへへ……メモリア、できあがり。,诶嘿嘿……“回忆”制作完成啦。,translated,依恩,818bbbd0ef,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#4#12,"懐かしいなぁ……。
+この世界に来る前のわたしは、
+これを毎日着てたの。","真怀念呀……在来到这个世界之前，
+我每天都穿着它呢。",translated,依恩,d439d76a27,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#5#12,"デザインを見ればわかると思うけど、
+わたしの通ってた学校の制服だよ。","看了款式应该就明白了吧，
+这是我以前念书时的学校制服哦。",translated,依恩,2bafe96813,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#7#12,早く自分の世界に戻れるといいね,希望能早日回到你自己的世界呢,translated,,6fe4f00be0,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#8#12,"本当は作るつもりなんてなかったけど、
+どうしても懐かしい気持ちになるのを
+我慢できなくて……。","本来没打算制作它的，
+但实在按捺不住心中的那份怀念……",translated,依恩,92d4b16e36,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#9#12,……戻りたいな、あの頃に。,……真想回到那个时候呀。,translated,依恩,3aceced0a9,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#10#12,"大切なお友達や、大切な家族……
+会いたい人が沢山いるの。","珍贵的朋友、深爱的家人……
+有好多好多我想见的人呢。",translated,依恩,b5ce6d1a00,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#14#12,よし、ウジウジタイム終了！,好，消沉时间结束！,translated,依恩,631f1de3fe,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#15#12,"わたしはまだ、ここでやらなくちゃいけない
+ことが残ってるんだから、今は思い出に
+浸ってる場合じゃないよね。","我在这里还有必须完成的事情，
+现在可不是沉浸在回忆里的时候呢。",translated,依恩,75663559ed,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#16#12,気持ちを切り替えて、頑張らないと！,必须转换心情，继续加油啦！,translated,依恩,f057ebf632,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#20#12,"……うん。だって、わたしの世界にも
+大切な人達は沢山いるもん。","……嗯。毕竟在我的世界里，
+也有好多重要的亲友在嘛。",translated,依恩,71a8656a6c,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#21#12,その人達に会いたいし、それに……。,我很想见他们，而且……,translated,依恩,de77ba8d78,br=0 nl=0,1,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#22#12,"そういうの抜きにしても、やっぱり自分が
+生まれ育った世界に帰りたい、って気持ちは
+捨てられないよ。","抛开那些不谈，
+想回到自己生长的那个世界的心情，
+无论如何都无法割舍呢。",translated,依恩,e9df94b985,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#23#12,"……けど、今はまだ、ここでやらなくちゃ
+いけないことが残ってる。","……不过目前在这里，
+我还有尚未完成的使命。",translated,依恩,bfa1f44765,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#24#12,"だから、ウジウジタイムは終了！
+気持ちを切り替えないとね。","所以，消沉时间结束！
+必须转换好心情才行呢。",translated,依恩,bf98e4377a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#27#14,"メモリアを
+作ったよ♪","制作了
+回忆哦♪",translated,,e2115a2f1e,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#29#14,"メモリアが
+完成したよ♪","回忆
+制作完成了♪",translated,,746ddf467a,br=0 nl=1,2,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#31#14,"メモリアの
+作成完了。
+次は何を作ろうかな♪","回忆
+制作完毕。
+下次要做什么呢♪",translated,,5216e25029,br=0 nl=2,3,
+inc/event/res/itemeventdlc/rt_item_wear204.txt#33#14,"メモリアが
+できたよ♪","回忆
+做出来啦♪",translated,,0bd0503a3f,br=0 nl=1,2,

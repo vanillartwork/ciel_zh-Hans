@@ -1,0 +1,259 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/lockevent/ion_lock_01_01.txt#6#12,"ごめんなさい……。
+今は一人にして……。","对不起……
+现在请让我一个人静一静……",translated,依恩,1fbc4218b8,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_01.txt#8#12,"……あっ。
+……また、ね。","……啊。
+……下次、再聊吧。",translated,依恩,ec9614a6f3,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_01.txt#10#12,"ごめんね……。
+まだ気持ちの整理がつかないの……。","对不起呢……
+我的心情还没办法彻底平复下来……",translated,依恩,b053794829,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_01.txt#14#12,わたし……どうしたら……。,我……究竟该怎么办才好……,translated,依恩,4a240a8d51,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#16#12,あんなの……。,那种事情……,translated,依恩,8b1840d931,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#17#12,ううん、なんでもない……。,不、没什么的……,translated,依恩,cbc2a13bff,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#19#12,ここって……。,这个地方是……,translated,依恩,1ffbbe943a,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#23#12,お願い……一人にして……。,求你了……让我一个人静静吧……,translated,依恩,c0b6c7e3f5,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#25#12,もう少し……時間を頂戴……。,请再给我……一点时间……,translated,依恩,b9ae499b58,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_01.txt#27#12,ごめん、また今度……。,对不起，下次再聊吧……,translated,依恩,2019f0258d,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_02.txt#5#12,"ん……。
+……カノン……さん……。","唔……
+……卡诺……小姐……",translated,依恩,9dfa0bef34,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_02.txt#7#12,……怖いよ……ネイちゃん……。,……我好害怕啊……奈依酱……,translated,依恩,b707fa252d,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_02.txt#9#12,"わた……し……。
+……どう……して……。","我……究竟……
+……为……什么……",translated,依恩,99d84aad31,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_02.txt#13#12,……やだよ。,……不要啊。,translated,依恩,c2db575947,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_02.txt#15#12,ダメ……レナルルさん……。,不要……蕾娜露露小姐……,translated,依恩,e8964e8a6c,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_02.txt#17#12,みん……な……。,大……家……,translated,依恩,bbafe04056,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_02.txt#21#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_03.txt#4#12,えっと……また今度でもいい？,那个……改天再聊可以吗？,translated,依恩,7187946c91,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_03.txt#6#12,"ごめんね、今そういう気持ちに
+なれないから……。","对不起，我现在真的
+提不起那个心情来……",translated,依恩,364411c7a1,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_03.txt#8#12,……え？　今呼んだ？,……诶？你刚才叫我了吗？,translated,依恩,85b6aab4cb,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_04.txt#4#12,あっ……おはよう……。,啊……早上好……,translated,依恩,05a1679a23,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_04.txt#6#12,うん……おはよう……。,嗯……早上好……,translated,依恩,0606e021e8,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_05.txt#4#12,うん……おやすみ……。,嗯……晚安……,translated,依恩,0909ae811f,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_05.txt#6#12,また、明日ね……。,那，明天见呢……,translated,依恩,fa66fb3b45,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_06.txt#4#12,"いってらっしゃい。
+気を付けて……ね。","路上小心哦。
+要注意安全……呢。",translated,依恩,e89198c60d,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_06.txt#6#12,"いってらっしゃい……。
+またね。","路上小心……
+下次再见。",translated,依恩,6a6eca04e2,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_07.txt#4#12,"あ……帰ってたんだね。
+おかえりなさい。","啊……你回来了呀。
+欢迎回家。",translated,依恩,c383fbdc34,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_07.txt#6#12,おかえり……。,欢迎回来……,translated,依恩,72f1749cc8,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_08.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_08.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_01_08.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/lockevent/ion_lock_01_08.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_01_08.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/lockevent/ion_lock_01_08.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_01_08.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/lockevent/ion_lock_01_08.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_01_08.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_01_08.txt#26#12,あ……。,啊……。,translated,依恩,674a8541f0,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_08.txt#28#12,あの……デートの約束なんだけど……。,那个……关于约会的约定……,translated,依恩,45a2cca597,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_08.txt#29#12,"わたし、今どうしてもそういう気持ちに
+なれなくて……。","我、我现在无论如何
+都提不起出去玩的心情……",translated,依恩,75a4992ff9,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_08.txt#30#12,"ごめんなさい……。
+また今度行こ。","对不起……
+我们改天再一起去吧。",translated,依恩,c163a08933,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main01t.txt#4#12,"あ……。
+ありが……とう。","啊……
+谢……谢你。",translated,依恩,4afb707de5,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main01t.txt#5#12,"でもごめん。
+せっかく慰めてくれてるのに……。","可是对不起，
+明明你这么用心安慰我……",translated,依恩,468061f30e,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main01t.txt#6#12,今はどうしてもお話する元気がないの……。,我现在无论如何都没有力气好好聊天……,translated,依恩,3edfcebc6b,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main01t.txt#7#12,だからその……またあとでね。,所以那个……我们待会儿再说吧。,translated,依恩,9f6dfa20ae,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02.txt#4#12,……ん？,……嗯？,translated,依恩,632ec345ec,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02.txt#10#12,"ごめんね。
+もう少しだけ一人で考えさせて。","对不起呢。
+请让我一个人再思考一会儿。",translated,依恩,fcec3786f8,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#3#12,"あの……ね。
+一つ……相談に乗ってもらってもいいかな？","那个……我说呀。
+能稍微……听我倾诉商量一件事吗？",translated,依恩,c6ea597640,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#4#12,相談……？,商量……？,translated,,16fd789af3,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#5#12,どんとこい！,尽管放马过来！,translated,,22dad33124,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#7#12,"うん、相談。
+カノンさんのことで……。","嗯，想跟你商量。
+是关于卡诺小姐的事情……",translated,依恩,38fde0af22,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#10#12,"ありがと。
+やっぱりあなたって頼もしいな。","谢谢你。
+你果然好可靠呀。",translated,依恩,48c659c412,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#11#12,相談っていうのは、カノンさんのこと……。,我想商量的事，是关于卡诺小姐的……,translated,依恩,9fb3f5fa76,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#13#12,"あなたは前に信じようって言ってくれた
+けど――","你之前虽然对我说过要相信她，
+可是――",translated,依恩,d638fee558,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#14#12,"わたしもう、どうしたら良いのか
+分からないよ……っ。","我已经完全不知道
+自己该怎么做才好了啦……！",translated,依恩,56902a8fde,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#15#12,"カノンさんだけじゃない、
+わたしはレナルルさんと一緒に……。","不单单是卡诺小姐，
+我和蕾娜露露小姐也一起……",translated,依恩,7cb96a551a,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#16#12,夢セカイの扉続いてる,梦世界的门扉不是还在延续吗,translated,,ec4edfaf19,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#18#12,"そうだけど……
+そうかもしれないけど……。","虽然确实是那样……
+虽然可能确实如此……",translated,依恩,90b317e625,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#19#12,あれって、本当にわたしの記憶なの？,可那个，真的是属于我的记忆吗？,translated,依恩,6f6a7048ba,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#20#12,"フォーシーズンでサーリちゃんが
+言ってたよね？","在四季的时候，
+萨莉酱不是对我说过吗？",translated,依恩,1f23d72e6d,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#21#12,わたしの能力……俯瞰視点……。,我的能力……俯瞰视点……,translated,依恩,04f21d061c,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#22#12,"わたしが見たわけじゃないター坊たちの
+記憶が見れるのはきっとそのせい……。","明明不是我亲眼所见的塔坊他们的记忆，
+我之所以能看得到肯定就是因为那个能力……",translated,依恩,53020f00ed,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#23#12,"だとしたら、この先にある記憶だって
+わたしのものとは限らないってことに
+なるでしょ？","既然是这样的话，
+那么前方的记忆也并不一定
+就是属于我自己的对吧？",translated,依恩,87b1c6a7eb,br=0 nl=2,3,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#24#12,じゃあ、全部なかったことにするのか？,那难道你要把这一切当作全都没发生过吗？,translated,,b08b93060c,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#26#12,それは……。,那个……,translated,依恩,5ccc52b912,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#27#12,イオンもカノンも生きてるかもしれない,依欧和卡诺说不定都还好好地活着,translated,,5ee3fc642e,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#29#12,それなのに全部諦めて立ち止まるのか？,即使如此你也要放弃一切驻足不前吗？,translated,,a89c916904,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#31#12,本当に必要なのは前に進むことじゃないか？,真正需要的，难道不正是勇往直前吗？,translated,,9096403df5,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#33#12,分かってる……分かってるよ……っ！,我知道……我全都知道啊……！,translated,依恩,67f9a760d7,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#34#12,"そうしなきゃいけない、
+もっと頑張らなきゃいけない……って。","必须要那样做才行、
+必须要更加努力才行……我知道的。",translated,依恩,ef3e0e8169,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#35#12,でも……動けないの……。,可是……我动弹不得啊……,translated,依恩,2826c4779c,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#36#12,"やることも、やらないといけないことも
+分かってるのに……
+何もできなくなっちゃった……。","该做的事情、不得不去做的事情，
+我明明全都一清二楚……
+却变得什么都做不到了……",translated,依恩,03306bf930,br=0 nl=2,3,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#38#12,"ごめんなさい……。
+わたしから相談したのに……。","对不起……
+明明是我主动找你商量的……",translated,依恩,1d6c4a4ada,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#39#12,"けど、こうして話して、
+あなたからも言われて――","不过，能像这样跟你倾诉，
+听了你对我说的这番话――",translated,依恩,f568b0c8a2,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#40#12,少しだけ前が見えた気がする。,我感觉眼前隐约能看到前方的路了。,translated,依恩,0f88c4b6e7,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main02t.txt#41#12,"だから、もう少しだけ時間を頂戴。
+もう一度、自分の気持ちと向き合ってみる。","所以，请再给我一点点时间吧。
+我想再次正视自己内心的真实想法。",translated,依恩,b27dc26008,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#3#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#5#12,あの……わたし……。,那个……我……,translated,依恩,f85177bc25,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#7#12,あれから、色々考えたの……。,从那之后，我思考了很多事情……,translated,依恩,9116216250,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#9#12,これからのことずっと考えてたの……。,一直在思考关于今后的事情……,translated,依恩,bca0ae859e,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#11#12,"それで、カノンさんや夢セカイのことは
+頑張ろうって思えるようになった……。","关于卡诺小姐和梦世界的事情，
+我觉得自己已经能够重新振作去努力了……",translated,依恩,6c719ce384,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#12#12,"でもね……考えれば考えるほど、
+自分が何なのか分からなくなっちゃった……。","但是呢……越是深入去想，
+我就越是搞不明白自己究竟是什么了……",translated,依恩,81467d4921,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#13#12,記憶を失って、ずっと一人で……。,失去了记忆，一直孤零零地一个人……,translated,依恩,9da7213c2d,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#14#12,"もしかしたら、わたしが自分をイオンだって
+思いこんでるだけで全然別の存在で……。","说不定，只是我自己一厢情愿地以为
+自己是依欧，其实完全是截然不同的存在……",translated,依恩,3cade05c95,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#15#12,"あなたとこうして話してるのも、
+全部偽者のイオンなのかもって……っ！","现在像这样和你聊着天的我，
+搞不好其实全都是个冒牌的依欧啊……！",translated,依恩,a16809a148,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#16#12,そんなことない！,才没有那回事！,translated,,cb455623c1,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#18#12,そんなことなくなんかないよっ！,怎么可能没有啊！,translated,依恩,53bc05bc47,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#19#12,"あなただって、ねりこさんだって、
+ここで初めてあったんだよっ！？","不论是你还是妮莉库小姐，
+明明全都是在这里初次相识的啊！？",translated,依恩,f2301ac34b,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#20#12,"ター坊も、ネイちゃんも……
+みんないないのに……。","塔坊也好，奈依酱也罢……
+大家全都不在……",translated,依恩,58fb8ffc82,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#21#12,"どうやってわたしを信じたら
+良いのか分からないよっ……。","我究竟要怎样去相信自己
+才好啊，我根本不知道啊……",translated,依恩,b9bdbdf909,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#22#12,関係ない……,那并不重要……,translated,,e3488816f8,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#24#12,え……？,诶……？,translated,依恩,7c87e3e5ee,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#25#12,イオンがイオンかどうかなんて関係ない,依欧到底是不是依欧根本无关紧要,translated,,691adbf15e,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#27#12,"関係なくなんかないよ……。
+だって――","怎么可能会无关紧要呢……
+因为――",translated,依恩,eeb860f8df,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#28#12,さっき自分で言ってただろ？,你刚才自己不是也说过了吗？,translated,,ff562548f4,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#30#12,さっき？,刚才？,translated,依恩,3bbc774a43,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#31#12,ここで初めて会った……って,说我们是在这里初次相遇的……,translated,,178ac15a51,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#33#12,"言ったよ……。
+だからわたしは……。","我是这么说过……
+所以说我才……",translated,依恩,d52b3bd05d,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#34#12,だからこそイオンを肯定できる,正因如此我才能肯定眼前的依欧,translated,,7a56dbb988,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#36#12,なんで……そんなこと……。,为什么……会这么说……,translated,依恩,012c6f40d2,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#37#12,たしかに本当のイオンじゃないかもしれない,眼前的也许确实不是真正的依欧,translated,,c14259b082,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#39#12,もしかしたら人ですらないかもしれない,甚至可能连人类都不是,translated,,dcb2e9fa68,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#41#12,でも自分にとってのイオンはイオンだけ,但对我来说所谓的依欧就唯有你一个,translated,,dca01ca959,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#43#12,イオンがどんな存在でもずっと一緒にいる！,无论依欧是怎样的存在，我都会永远陪着你！,translated,,d69a85a81d,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#46#12,イオン？,依恩？,translated,,734a68c183,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#48#12,"あっ！
+ご、ごめんなさい！","啊！
+对、对不起！",translated,依恩,c5f31f3323,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#49#12,その……驚いちゃって……。,那个……我太惊讶了……,translated,依恩,2697e63c8a,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#50#12,"ずっと、胸にトゲが刺さってるみたいに
+痛かったのに、わたし今、すごく安心してる。","之前心里明明一直像扎了根刺一样隐隐作痛，
+可现在的我，却感到前所未有的安心。",translated,依恩,5a2e7fb561,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#51#12,"あなたってすごいね。
+あんなに苦しかったわたしの心、
+こんなにも癒してくれるんだ……。","你真的好厉害啊。
+明明先前我的内心还那么痛苦，
+却被你如此温柔地抚平治愈了……",translated,依恩,bf5ebd894f,br=0 nl=2,3,
+inc/event/res/lockevent/ion_lock_01_main03.txt#52#12,まるで、詩魔法みたい……。,简直就宛如诗魔法一般……,translated,依恩,81017db2b2,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#53#12,想いを伝えるという意味では……,如果从传达心意这个意义上来说……,translated,,9edb78af8a,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#55#12,あはは、そうだね。,啊哈哈，也是呢。,translated,依恩,2fc3e1f016,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#56#12,"詩魔法で何ができる、とかじゃなくて、
+ただ想いを伝える……。","重要的并不是诗魔法能够做到什么，
+而仅仅是毫无保留地传达心意……",translated,依恩,8dca6317d0,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#57#12,"本当に大切なことって、
+こういうことなのかもしれないね。","真正弥足珍贵的事情，
+或许正是在于此吧。",translated,依恩,4d6a2a98ee,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#58#12,"それから、ごめんなさい……。
+心配、かけちゃってたよね。","还有……真的对不起……
+害得你一直替我操心了吧。",translated,依恩,629b7bd663,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#59#12,"これからどうなるか分からないけど……
+でも、きっともう大丈夫……。","虽然不知道今后究竟会怎样……
+但是，我已经一定没问题了……",translated,依恩,90975b64cc,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#60#12,"あなたのおかげで
+気持ちの整理ついたから……。","多亏了你的陪伴，
+我的心情已经彻底整理好了……",translated,依恩,20d8a2fedf,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#61#12,"だから、これからは前と同じように
+ちゃんとできると思う。","所以从今往后，我想自己一定能
+像从前那样好好振作起来的。",translated,依恩,46fc7f57fa,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#62#12,無理してない？,没有在勉强自己吧？,translated,,ed812fe096,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#64#12,えへへ、実はその……ちょっとだけ……。,嘿嘿，其实呢……稍微有那么一点点……,translated,依恩,406cc60c9b,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#65#12,"けどね、あなたの一言でまた頑張ろう、って
+思えたのは本当。","不过因为你的一句话，让我重新有了
+想要继续加油的念头，这绝对是真的哦。",translated,依恩,273247b365,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#66#12,"ここから先のことを知るのは怖いし、
+もしかしたらこのままの方が幸せなのかも
+しれないけど――","虽然探知接下来发生的一切让我心生畏惧，
+甚至也许保持现状会更加幸福也说不定，
+但是――",translated,依恩,c2bf635aa9,br=0 nl=2,3,
+inc/event/res/lockevent/ion_lock_01_main03.txt#67#12,それでも知りたい、って……そう思えたの。,我依然下定决心……想要去弄清一切。,translated,依恩,39ad5ef0e1,br=0 nl=0,1,
+inc/event/res/lockevent/ion_lock_01_main03.txt#68#12,"だから、また頑張ってみる。
+これからもよろしくね。","所以，我会再次试着去努力的。
+今后也请多多关照哦。",translated,依恩,843ef08d79,br=0 nl=1,2,
+inc/event/res/lockevent/ion_lock_01_main03.txt#71#14,"ずっと心配かけちゃって
+たよね……。元気出して
+また頑張ろう。","一直都让你替我操心呢……
+打起精神来，
+重新加油努力吧。",translated,,d170185d07,br=0 nl=2,3,
+inc/event/res/lockevent/ion_lock_01_main03.txt#80#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/lockevent/ion_lock_cloth.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_cloth.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_cloth.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_head_acc.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_head_acc.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_head_acc.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_hello.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_hello.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_hello.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_item_date.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_item_date.txt#8#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/lockevent/ion_lock_item_date.txt#11#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>

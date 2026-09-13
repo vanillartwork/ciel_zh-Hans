@@ -1,0 +1,54 @@
+name: 显示问题
+description: 文字超框、重叠、缺字、显示成方块或乱码
+title: "[显示] "
+labels: ["显示"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        这类问题基本都能从截图看出原因，**请一定附图**。
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截图
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 现象
+      options:
+        - 文字超出了框
+        - 文字和其他内容重叠
+        - 某个字显示成方块或空白
+        - 整段乱码
+        - 字体粗细不一致
+        - 该换行的地方没换行
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: 哪个画面
+      placeholder: 例：夏尔信息 → 变更技能
+    validations:
+      required: true
+
+  - type: input
+    id: resolution
+    attributes:
+      label: 分辨率与窗口模式
+      placeholder: 例：1920x1080 全屏
+    validations:
+      required: false
+
+  - type: input
+    id: version
+    attributes:
+      label: 补丁版本
+    validations:
+      required: false

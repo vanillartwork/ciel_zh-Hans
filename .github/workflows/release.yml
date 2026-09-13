@@ -1,0 +1,74 @@
+name: 发布
+
+# CI has no copy of the game, so it cannot build the installer -- that is done
+# on a maintainer's machine (installer/build-installer.ps1) and attached to the
+# draft this workflow opens. What CI can do is refuse to let a release happen
+# from data that does not pass validation, and write the notes.
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "补丁版本号，例如 0.9.0"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 数据必须先通过校验
+        run: python tools/validate.py --data data --format github
+
+      - name: 自检校验工具
+        run: python tools/selftest_validate.py
+
+      - name: 生成发布说明
+        id: notes
+        run: |
+          set -euo pipefail
+          VERSION="${GITHUB_REF_NAME#v}"
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            VERSION="${{ github.event.inputs.version }}"
+          fi
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          python tools/release_notes.py --version "$VERSION" \
+            --changelog CHANGELOG.md --data data --out RELEASE_NOTES.md
+          cat RELEASE_NOTES.md
+
+      - name: 打开草稿版本
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          name: "简体中文补丁 v${{ steps.notes.outputs.version }}"
+          body_path: RELEASE_NOTES.md
+          files: |
+            RELEASE_NOTES.md
+
+      - name: 提醒维护者
+        run: |
+          cat >> "$GITHUB_STEP_SUMMARY" <<'EOF'
+          ## 草稿已创建
+
+          安装程序需要在本地构建后手动上传（CI 上没有游戏文件）：
+
+          ```powershell
+          cd installer
+          .\build-installer.ps1 -Version ${{ steps.notes.outputs.version }}
+          ```
+
+          然后把 `dist/` 下的 `-setup.exe` 和对应的 `.sha256`
+          附到草稿版本上，核对发布说明里的校验和，再点发布。
+          EOF

@@ -1,0 +1,658 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent06/album01.txt#3#12,あっ、ター坊のアルバムだ！,啊，是阿达的相册！,translated,依恩,1e24ac4c92,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#4#12,"レプリカだけど、凄く上手にできてると
+思わない？","虽然只是复制品，但你不觉得
+制作得非常精巧吗？",translated,依恩,66d3fabceb,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#5#12,"これをター坊に見せれたら、絶対に驚くと
+思うよ。","要是能把这个拿给阿达看，
+他肯定会吓一大跳的呢。",translated,依恩,1affbcfffa,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#6#12,"でも、アルバムかぁ……。
+えへへ、アルバムっていうと、
+卒業アルバムを思い出すよ。","不过，相册啊……
+诶嘿嘿，一说到相册，
+就会让我想起毕业相册呢。",translated,依恩,d74055a018,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#7#12,"よーく探すと、自分の写ってる写真が
+結構あってビックリしたりして……ん？","仔细找找的话，会发现有好多
+拍到自己的照片而大吃一惊……嗯？",translated,依恩,a76c8cab72,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#8#12,"卒業、アルバム……？
+卒業した記念に、もらえるもの……？","毕业、相册……？
+是为了纪念毕业而领到的东西……？",translated,依恩,1241c88197,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#9#12,"……あれ、卒業アルバムって言葉は自然と
+出たのに、詳しく思い出そうとすると
+全然思い出せない。","……奇怪，毕业相册这个词明明脱口而出，
+但如果想仔细回忆起细节，
+却完全想不起来。",translated,依恩,f52f8e832b,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#10#12,"卒業アルバム……卒業……うーん……。
+学校を卒業したらもらえるもの……？","毕业相册……毕业……唔～……
+是从学校毕业之后能拿到的东西……？",translated,依恩,f6176d3427,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#11#12,"あ、そう！学校！
+……ねぇ、学校に行ってみたいんだけど…
+お願いしても…いい？","啊，对！学校！
+……那个，我很想去学校看看……
+可以……拜托你吗？",translated,依恩,7a1095c5ca,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#12#12,もちろん！,当然可以！,translated,,0df1110bd9,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#13#12,今はちょっと…,现在有点……,translated,,58078df52d,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#15#12,"そっか。
+それじゃ、また今度お願いするね。","这样啊。
+那么，下次再拜托你哦。",translated,依恩,cd72afdee9,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#20#12,"ほんと！？　良かった！
+もしかしたらだけど、今ならわたし、
+自分のことを何か思い出せるかもしれない。","真的吗！？太好了！
+虽然只是可能，但如果是现在的我，
+说不定能想起一些关于自己的事情呢。",translated,依恩,d8fab834e7,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#22#12,……到着だね。,……到了呢。,translated,依恩,055b4bf3e4,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#23#12,"うん……やっぱり、この場所って
+凄く懐かしい感じがする。","嗯……果然，这个地方
+给人一种非常怀念的感觉呢。",translated,依恩,98c234b4d1,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#24#12,"歩いてれば何か思い出すかもしれないし、
+とりあえず、行ってみよう！","边走边逛说不定能想起些什么，
+总之，先去看看吧！",translated,依恩,480ec08c1c,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#26#12,……学校、かぁ。,……学校啊。,translated,依恩,443be66a2a,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#27#12,"まだ思い出せないから確証はないけど、
+通ってなかったってことはないと思う……。","虽然还没想起来所以无法确证，
+但我觉得我以前应该是有上过学的……",translated,依恩,b077a52366,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#28#12,"だって今のわたしって、記憶はないけど
+一般的な知識はあるもん。","毕竟现在的我虽然没有记忆，
+但也掌握着常识性的知识嘛。",translated,依恩,dc5f3ab44c,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#29#12,"算数くらいの知識だったらまだしも、
+数学の知識なんて学校に通わなくちゃ
+わからないと思うし。","要是小学算术水平的知识也就罢了，
+但像数学那种知识，要是不去学校念书的话
+我觉得是不可能懂的嘛。",translated,依恩,c692708f53,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#30#12,"……まあ、得意な科目ではなかったけど、
+それでも公式は頭の中に入ってるんだから
+習ったことがあるのは確かだよ。","……虽然那并不是我擅长的科目，
+但既然脑海里还记着公式，
+那肯定是有学过相关的知识呢。",translated,依恩,72ab7cf3b4,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#31#12,"あ、でももしかしたら、自分で勉強して
+身につけた知識もあるのかな？","啊，不过说不定也有
+通过自学掌握的知识？",translated,依恩,c8b2ad60d9,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#32#12,"記憶を無くす前からずっと一人ぼっちで、
+本当は一人で勉強して知識を身につけて
+いた、とか……。","要是在失忆前就一直孤身一人，
+实际上全都是自己一个人自学
+掌握知识的话……",translated,依恩,3cdfed8a3c,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#34#12,努力家だったんだね,你以前是个努力家呢,translated,,16dd421ac0,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#35#12,寂しいこと言ったらダメだよ,不要说这种让人寂寞的话哦,translated,,7477aaae5f,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#37#12,わ、わからないけどね！,虽、虽然我也不知道是不是这样就是了！,translated,依恩,adce501394,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#38#12,……でも、ありがとう。,……不过，谢谢你。,translated,依恩,e826d964a5,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#39#12,"努力家だったかどうかはわからないけど、
+苦手意識があるのは変わらないし、ひょっと
+したら泣きながら勉強してた可能性も……","虽然不知道以前是不是努力家，
+但不擅长的感觉依然存在，说不定
+以前甚至是边哭边勉强自己学习的呢……",translated,依恩,67e0072966,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#40#12,"……や、やめよう！
+どうせわからないのに、昔のわたしが
+どうだったのかを考えてもしょうがないよね！","……算、算了吧！
+反正也想不明白，去胡思乱想
+以前的自己到底怎样也是徒劳无功呢！",translated,依恩,c0b551663f,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#41#12,"想像だけだと、凄く悲しい方向に考えが
+行っちゃうこともあるし……。","光靠想象的话，有时候想法
+很容易往非常悲伤的方向发展嘛……",translated,依恩,77cd9f8b2b,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#42#12,"今は、何か思い出さないかだけに
+集中するね。","现在，我就专心看看
+能不能想起什么来吧。",translated,依恩,c2d3ce749e,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#45#12,"えへへ、ありがと……。
+でも、それだってありえる話なんだよね。","诶嘿嘿，谢谢你……
+不过，那种可能也是完全说得通的呢。",translated,依恩,53a53eb1e8,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#46#12,"今だって一人で暮らしてるんだもん。
+記憶を無くす前は誰かと一緒にいました、
+なんて素直に考えられないよ。","毕竟我现在也是一个人生活嘛。
+“失忆前是和别人生活在一起的”，
+这种事情我怎么也难以坦率地去想象呢。",translated,依恩,38016232a8,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#47#12,"……その証拠に、あの部屋では誰かと
+一緒に住んでいたような懐かしい感じって、
+少しも感じられないもん。","……作为证据，在那个房间里，
+我可完全感受不到
+曾和谁一起生活过的怀念气息嘛。",translated,依恩,496163dee4,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#48#12,やっぱり、わたしずっと一人で……。,果然，我一直都是孤身一人……,translated,依恩,ab3d267b17,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#49#12,"あ、ご、ごめんね。
+こんな寂しい話、つまらないよね。","啊，对、对不起哦。
+说了这么寂寞沉重的话题，很无聊吧。",translated,依恩,1711c5d00a,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#50#12,"今は思い出すことに集中しないとね。
+う～ん……。","现在得专心回想才行呢。
+嗯～……",translated,依恩,9444f0338f,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#52#12,……っ！？,……！？,translated,依恩,5ee73ae18d,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#54#12,"……な、何だろう？
+何か、ここから先に進むのは、
+少しだけ勇気がいるような……。","……这、这是什么感觉？
+总觉得从这里再往前走，
+好像稍微需要一点勇气似的……",translated,依恩,7b32c60f4c,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#55#12,"あ、怖いとかそういうのじゃなくて、
+何かこう、近寄りがたいっていうか、
+なんていうか……。","啊，并不是害怕什么的，
+怎么说呢，就是有点难以靠近，
+或者说该怎么形容呢……",translated,依恩,e0c4c8355e,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#56#12,"ほら、向こうにある教室のプレートに、
+職員室、って書いてあるでしょ？","你看，对面教室的铭牌上，
+不是写着“教职员室”吗？",translated,依恩,f1a7bddd11,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#57#12,"アレを見た瞬間、あまり近寄りたくない、
+って気持ちになっちゃったの。","看到那个的瞬间，我心里立刻冒出了
+不想靠近的感觉呢。",translated,依恩,808b356363,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#58#12,"また職員室の前を走って、廊下を走るな、
+って怒られるんじゃないかって……。","总觉得要是从教职员室前跑过去，
+又会被怒吼“别在走廊上乱跑”似的……",translated,依恩,0197f59e99,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#59#12,……でも、誰に怒られたんだっけ？,……不过，我到底是被谁骂过的来着？,translated,依恩,40c082c930,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#60#12,"あれ？　っていうかわたし、怒られた
+記憶なんてまったくないのに、どうして
+こんなこと言っちゃったんだろ！？","咦？话说回来，我明明完全没有
+被骂过的记忆，怎么会
+突然说出这种话来呀！？",translated,依恩,aa5b82f4fe,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#61#12,"でも、確かに怒られたことがあるような？
+職員室の前の廊下で……。","不过，我好像确实曾被骂过？
+在教职员室前方的走廊上……",translated,依恩,d6c6272100,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#62#12,"……職員室の前まで行けば、
+何か思い出せるかな？","……如果走到教职员室门前，
+说不定能想起什么来吗？",translated,依恩,9bb3771dca,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#66#12,"一瞬だけ身体がビクッとなったけど、
+特に何かを思い出すことは無かったよ。","虽然身体瞬间哆嗦了一下，
+不过并没有特别想起什么来哦。",translated,依恩,5cb5144a33,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#67#12,"でも、やっぱり懐かしい感じはするから、
+学校に通ってたことは間違いなさそう。","但是，既然总觉得很令人怀念，
+上过学这一点肯定不会有错的。",translated,依恩,1e8ca85036,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#68#12,"どこのなんていう学校なのか、友達や先生
+の顔も全然思い出せないから、実感がある
+わけではないんだけど……。","虽然完全想不起具体是哪所学校，
+也想不起朋友和老师的模样，
+并没有什么真切的实感就是了……",translated,依恩,1c817a62ac,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#69#12,"……そういえば、あなたは学校に
+通ったことあるんだよね？","……说起来，你以前也是
+去学校上过学的对吧？",translated,依恩,c94b035b39,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#71#12,現役学生だからね,我现在就是现役学生哦,translated,,dfecd350b0,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#72#12,学生時代は通ってたよ,学生时代有去上过学哦,translated,,2b9ff6f91e,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#74#12,"そうなの！？
+じゃあちょうどよかった！","真的吗！？
+那可太巧了！",translated,依恩,2d017d1c18,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#75#12,学校であった出来事を聞かせてほしいの！,我想听听你在学校发生过的事！,translated,依恩,3fb35141fc,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#76#12,"実際に学校に通っている人の話を聞けば、
+わたしの記憶も戻るかもしれないでしょ？","听真正正在上学的人讲讲经历，
+说不定我的记忆也能恢复对吧？",translated,依恩,18ce72b3df,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#79#12,"そうなんだ？
+それなら、学校での思い出が沢山あるよね？","这样啊？
+那你在学校一定有很多回忆吧？",translated,依恩,d97d4a2e16,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#80#12,"もし良かったら、わたしに学校での
+思い出を聞かせてほしいの。","如果可以的话，我想听你讲讲
+你在学校里的那些回忆呢。",translated,依恩,22df76ee56,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#81#12,"学校がどんなことをする場所なのかは
+わかってるつもりだけど、まだ少しだけ
+不安に思うところもあるんだ。","学校具体是做什么的地方，
+虽然我自以为明白，但心里多多少少
+还是有些不安呢。",translated,依恩,19d5d1da85,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#82#12,"だから、実際に何年も学校生活を
+送ったことのあるあなたの話を聞いて、
+思い出すきっかけにしようと思うの。","所以，我想听听真正度过了
+好几年校园生活的你说一说，
+以此作为找回记忆的契机呢。",translated,依恩,9de20087f5,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#84#12,"なるべく自力で思い出そうとはしてるんだ
+けど、どうしても協力が必要な時は助けて
+くれると嬉しいな！","虽然我也会尽量靠自己去回忆，
+但如果实在需要帮助的话，
+你能帮我一把我会很高兴的！",translated,依恩,78ad3b16a5,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#86#12,さてと、それじゃ今日はそろそろ帰ろうか。,好啦，那么今天我们差不多该回去了吧。,translated,依恩,39bda8a112,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#88#12,たっだいま。,我回来啦～,translated,依恩,b61dd52bed,br=0 nl=0,1,
+inc/event/res/dateevent06/album01.txt#89#12,"ん～……何か、思い出しそうで思い出せない
+もどかしい感じがずっと続いたからかな？
+ちょっと精神的に疲れちゃった……。","嗯～……大概是因为一直处于
+那种似想非想、令人心焦的状态吧？
+总觉得精神上有点累了……",translated,依恩,25ebf04214,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#90#12,"今日はもう無理だけど、近いうちに
+また一緒に学校に行ってね。","今天虽然已经不行了，不过近期
+一定要再陪我一起去学校哦。",translated,依恩,15db8b6946,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#91#12,"今度こそ、少しでもいいから記憶を
+取り戻したいなぁ。","下次哪怕只是一点点也好，
+真希望能找回记忆啊。",translated,依恩,6affbbf1b0,br=0 nl=1,2,
+inc/event/res/dateevent06/album01.txt#94#14,"一緒に学校に行った♪
+もっと学校のこと
+知りたいな～♪","一起去了学校♪
+想了解更多
+关于学校的事呢～♪",translated,,ae83ef4226,br=0 nl=2,3,
+inc/event/res/dateevent06/album01.txt#95#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent06/album02.txt#3#12,あっ、ター坊のアルバムだね！,啊，是阿达的相册呢！,translated,依恩,d81f4aec16,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#4#12,"そういえば、前にこれを渡してくれた時、
+卒業アルバムの話になったよね？","说起来，之前你把这个交给我时，
+聊起了毕业相册的话题对吧？",translated,依恩,2054b96e49,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#5#12,"それで、学校に行って色々思い出そうと
+頑張ったの、忘れてないでしょ？","然后我努力去学校想回忆起各种事，
+你肯定没有忘记吧？",translated,依恩,9596a30475,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#6#12,"あの、もしよかったら、もう一度
+連れて行ってもらえたりしないかな？
+出来れば、今から…","那个，要是可以的话，
+能不能再带我去一次呢？
+如果可以的话，就现在……",translated,依恩,d6fbd40436,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#7#12,もちろん！,当然可以！,translated,,0df1110bd9,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#8#12,今はちょっと…,现在有点……,translated,,58078df52d,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#10#12,"そっか。
+それじゃ、また今度お願いするね。","这样啊。
+那么，下次再拜托你哦。",translated,依恩,cd72afdee9,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#15#12,"ほんと！？　ありがとう！
+それじゃ、よろしくお願いします♪","真的吗！？太谢谢你了！
+那么，就拜托你带路啦♪",translated,依恩,b2b68d1de3,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#17#12,"さてと、今日も頑張って
+色々思い出しちゃうぞーっ！","好啦，今天我也要加把劲，
+把各种事情都想起来～！",translated,依恩,15e6269245,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#19#12,"……なんて意気込んではみたけど、
+頑張って思い出せるものでもないよね……。","……虽然这么干劲满满地说了，
+但记忆也不是加把劲就能想起来的呢……",translated,依恩,a2d31bf952,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#20#12,う～ん……思い出す、って難しいね。,唔～……回忆起来可真难呢。,translated,依恩,8d82199db7,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#21#12,"まあ、こうして学校の中を歩いてるだけでも
+楽しいからいいんだけど。","不过，光是像这样在学校里漫步
+就已经很开心了，倒也没什么啦。",translated,依恩,19256c1ded,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#22#12,"あ、そうだ、早速学校のお話を
+聞かせてもらえない？","啊对啦，可以现在就
+讲讲关于学校的故事给我听吗？",translated,依恩,b42b1284d7,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#23#12,例えば……えーと……。,比如说……呃……,translated,依恩,4a173478e8,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#24#12,"あなたは授業中、ちゃんとマジメに先生の
+お話を聞いてた？","你在上课的时候，有在老老实实地
+认真听老师讲课吗？",translated,依恩,4a84bb4d3e,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#25#12,まさか、お昼寝常習犯だったりしない？,该不会，其实是个午睡惯犯吧？,translated,依恩,98fdeef3ed,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#27#12,ちゃんと聞いてたよ,我有认真在听哦,translated,,961e6ba45a,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#28#12,な……何故それを……ッ！？,怎……你怎么会知道……！？,translated,,b1455351c8,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#30#12,"わぁ、寝ないでちゃんと聞いてたなんて、
+優等生だったんだね。","哇，居然没有睡觉认真听课，
+你以前是个优等生呢。",translated,依恩,6cec8f338a,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#31#12,"わたしは好きな授業の時だけはちゃんと
+起きてたけど、それ以外はダメだったよ。","我也就只有喜欢的课上才会好好清醒着，
+其余的课完全不行哦。",translated,依恩,24b933d3cb,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#32#12,"古文とか歴史なんてちんぷんかんぷんで、
+先生の話が子守唄に聞こえて……。","古文和历史之类的我完全听不懂，
+老师讲课的声音听起来就像摇篮曲……",translated,依恩,5dabacfbd1,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#35#12,もー、授業中に寝たらダメでしょー！,真是的，上课的时候怎么可以睡觉啦～！,translated,依恩,b71e73cce7,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#36#12,なんて、わたしも人のこと言えないけどね。,话虽如此，其实我也没资格说别人就是了。,translated,依恩,01d7717613,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#37#12,"前日の夜に機械弄りに夢中になって、
+徹夜で学校に行って朝から寝ちゃったり
+したことも……。","前一天晚上因为沉迷摆弄机械，
+直接通宵去学校，结果从一大早就睡过去
+的情况也是有的……",translated,依恩,c74f50db20,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#40#12,"え、えへへ、何言ってるんだろ？
+そんな記憶全然ないのに、無意識に
+喋っちゃってたよ。","诶、嘿嘿，我在胡说什么呀？
+明明完全没有那种记忆，
+却在无意识中脱口而出了呢。",translated,依恩,ae69085a90,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#41#12,"これって、そういうことが実際にあった
+っていう証拠なのかな？","这难道证明了，
+现实中其实真的发生过那种事吗？",translated,依恩,9108697179,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#42#12,"う～ん……。
+記憶が無いっていうのは
+ホントにもどかしいな～……！","嗯～……
+没有记忆这种事，
+真的是好让人心焦啊～……！",translated,依恩,f9f3f87f7b,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#43#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#45#12,"あの教室は……図書室？
+本が沢山あるところで……あ、あれ？","那间教室是……图书室？
+摆满了书的地方……咦、奇怪？",translated,依恩,b075903e55,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#46#12,"何だろう、何か思い出しそうだよ！
+えっと……。","怎么回事，我好像快要想起来了！
+那个……",translated,依恩,9ac8c32416,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#47#12,"……じゅ、授業中？
+うん、授業中に何かがあったの。","……上、上课时？
+对，是上课时发生过什么事。",translated,依恩,edac276184,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#48#12,"そう、確かあれは……何かが学校の中に
+入ってきて、ちょっとした騒ぎになったの！","对了，我记得当时……好像是有什么东西
+闯进了学校里，引起了一阵小小的骚动！",translated,依恩,35bb760b0d,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#49#12,"あれは何だったっけ……。
+う～、思い出せないよぉ！","那个到底是什么来着……
+呜～想不起来了啦！",translated,依恩,9e8d880139,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#51#12,し、知らないおじさんとか？,陌、陌生的大叔之类的？,translated,,81cfc2573d,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#52#12,犬かな？,是小狗吗？,translated,,eb9a4e8e7b,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#54#12,"……た、確かに騒ぎになるとは思うけど、
+それだとちょっとした騒ぎどころの話じゃ
+なくならない？","……确、确实会引起骚动没错啦，
+但那样的话，可就完全不是
+“小小的骚动”能概括的了吧？",translated,依恩,ff470b560c,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#55#12,"でも、言われてみれば時々知らない
+おじさんが校内を歩いてることも
+あったような気がするかも。","不过经你这么一说，
+我好像隐约记得有时确实会有
+陌生大叔在校园里走动呢。",translated,依恩,498fcdef14,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#56#12,"何処かの業者さんとか、偉い人とか、
+そんな関係の人だとは思うけどね。","虽然我想应该只是哪里的业务人员，
+或者什么大人物之类的人就是了。",translated,依恩,a8a51e10c7,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#57#12,"って、違うよ！
+思い出しそうだったのはおじさんのことじゃ
+なくて、もっと別のこと！","哎呀不对啦！
+我快要想起来的可不是大叔的事，
+而是别的什么！",translated,依恩,bec0f507ce,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#58#12,"う～ん、ちょっとした騒ぎになるような
+ことって、なんだったかなぁ……。","嗯～能引起小小骚动的，
+到底是什么事来着呢……",translated,依恩,cf5aad2ca5,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#59#12,"……はぁ。
+ダメ、まったく思い出せそうにないや。","……哈啊。
+不行，完全想不起来了。",translated,依恩,128afcd6bf,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#60#12,"まあ、一応おじさんの話も忘れてた思い出の
+一つに違いないから、思い出すのに成功した
+ことに変わりはないか……。","不过大叔的事肯定也是遗忘的回忆之一，
+所以算做回忆成功，
+应该也是没错的吧……",translated,依恩,7f617af0f4,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#61#12,"う～ん、でも思ってたのと違うからかな？
+微妙に引っかかるところが残ってるような
+……。","嗯～不过大概是因为和预想的不一样吧？
+总觉得隐隐有些难以释怀……
+……。",translated,依恩,b4c89cddc5,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#62#12,"まぁ、思い出せはしたんだから、
+文句を言ったらダメだよね。","嘛，既然好歹想起来了，
+就不应该再抱怨了呢。",translated,依恩,15ab5d4ac1,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#63#12,ふぅ……何だかちょっと疲れちゃった。,呼……总觉得有点累了呢。,translated,依恩,f366ed4636,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#64#12,今日はそろそろ帰ろうか？,今天差不多该回去了吧？,translated,依恩,6172a3a5c9,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#68#12,"そう、犬だよ！
+野良犬が学校の中に入ってきちゃったことが
+あったの！","对，是狗！
+以前曾经有流浪狗
+跑进学校里来过！",translated,依恩,a556e852ce,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#69#12,"授業中にね、突然廊下から鳴き声がして、
+先生が犬を追い出すために授業がストップ
+しちゃったの。","上课的时候呀，走廊上突然传来叫声，
+老师为了把狗赶出去，
+整堂课都停下来了呢。",translated,依恩,8eca168419,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#70#12,"けど、あの時犬を学校の外に
+誘い出したのは、なんと…わたしなんだよ！","不过，当时把那只狗引诱到校舍外面的，
+其实……是我哦！",translated,依恩,f60056165d,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#71#12,"お腹が減ってるんじゃないかな、
+って思ったからお弁当で校舎の外に
+誘い出したの。","我当时觉得它可能是肚子饿了，
+就用自己的便当
+把它引到了校舍外面。",translated,依恩,fafe9111cd,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#72#12,"えへへ、凄いでしょ？
+それを見てた色んなクラスの人達から拍手
+してもらったんだよ！","诶嘿嘿，很厉害吧？
+当时看着这一幕的各个班级的同学们，
+还都为我鼓掌了呢！",translated,依恩,0fcb5ca07f,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#73#12,"あの犬、可愛かったなぁ……。
+お弁当食べてる時、尻尾をパタパタ
+振ってて。","那只狗真的好可爱啊……
+吃便当的时候，
+尾巴还在不停地摇来摇去。",translated,依恩,169f5775b5,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#74#12,"……えへへ、ちょっとした思い出だけど、
+こういう楽しいものだと嬉しいね。","……诶嘿嘿，虽然只是一段小小的回忆，
+但能想起这么开心的事真让人高兴呢。",translated,依恩,52bc7f6af3,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#75#12,"わたし、他にはどんな思い出が
+あるんだろう？
+今から凄く楽しみだよ。","我过去到底还会有
+怎样美好的回忆呢？
+现在光是想想就超级期待了。",translated,依恩,b40836125b,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#76#12,"それじゃ今日はそろそろ帰るとしましょ！
+下校のお時間です！","那么今天差不多就该回去啦！
+放学时间到啦！",translated,依恩,057799f450,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#79#12,ふー、やっぱり帰ってくるとホッとするね。,呼～果然回到家就会松一口气呢。,translated,依恩,ae4e6c4836,br=0 nl=0,1,
+inc/event/res/dateevent06/album02.txt#80#12,"でも、今日は忘れてた思い出を思い出す
+ことができて、凄く嬉しい。","不过，今天能把遗忘的回忆想起来，
+我真的超级高兴。",translated,依恩,174c2687d7,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#81#12,"もうわたしが学校に通っていた、って
+いうのは間違いないよね！","这样一来，我以前有上过学这一点，
+就已经确定无疑了呢！",translated,依恩,6cde63f3e0,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#82#12,"えへへ、この調子で、もっと色んなことを
+思い出せたら嬉しいな。","诶嘿嘿，照这个势头，要是能想起
+更多形形色色的事情就好了呢。",translated,依恩,02f9bb17b7,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#83#12,"それじゃ、今日はありがと。
+またねー。","那么，今天谢谢你啦。
+下次见咯～",translated,依恩,fd757d7b0d,br=0 nl=1,2,
+inc/event/res/dateevent06/album02.txt#86#14,"学校楽しかった～♪
+わたしってどんな
+学生だったのかな♪","在学校玩得好开心～♪
+我以前到底是个
+怎样的学生呢♪",translated,,22b30abe69,br=0 nl=2,3,
+inc/event/res/dateevent06/album02.txt#87#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent06/album03.txt#3#12,"アルバムかぁ……。
+前の時みたいに、学校のことを
+思い出せるかな……。","相册啊……
+还能像上次那样，
+想起关于学校的事吗……",translated,依恩,f5fbb0d893,br=0 nl=2,3,
+inc/event/res/dateevent06/album03.txt#4#12,学校に行ってみようか？,要去学校看看吗？,translated,,aa11e54258,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#5#12,焦りは禁物だよ,欲速则不达哦,translated,,c77e88583a,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#7#12,"……そうだね。
+今日慌てて行くことはないよね。","……也是呢。
+今天没必要急匆匆地赶过去呢。",translated,依恩,8c9f2cfd42,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#12#12,"うん、少しでもいいから、自分のことを
+思い出したいしね。","嗯，哪怕只有一点点也好，
+我也想找回关于自己的记忆呢。",translated,依恩,4eedbc9456,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#13#12,それじゃあ、早速行こっか？,那么，我们现在就出发吧？,translated,依恩,38cb62ae47,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#15#12,ふぅ……到着したね。,呼……到了呢。,translated,依恩,c6c43c8a5d,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#17#12,"こうやって廊下を歩いてると、
+色んな教室が並んでるのがわかるね。","像这样走在走廊上，
+就能看到排列着各种各样的教室呢。",translated,依恩,a17010ba54,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#18#12,音楽室、美術室……化学室……。,音乐教室、美术教室……化学实验室……,translated,依恩,411276bf5c,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#19#12,"化学室って、何だか凄くわくわくするね。
+実験器具とか沢山ありそうだし。","化学实验室总让人觉得满怀期待呢。
+感觉会有好多实验仪器之类的。",translated,依恩,76c98a7fe1,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#20#12,"そうだ、あなたの学校での思い出を
+聞かせてもらってもいいかな？","对了，可以让我听听你在学校
+发生过的那些回忆吗？",translated,依恩,989ac94372,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#21#12,"もしかしたら、何か思い出すきっかけに
+なるかもしれないし。","说不定能成为我
+回忆起什么的契机呢。",translated,依恩,d50581e932,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#23#12,屋上からの景色が好きだった,我以前很喜欢从屋顶俯瞰的风景,translated,,178c4852ee,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#24#12,音楽室での歌のテストが苦手だった,我以前很不擅长音乐教室的唱歌测试,translated,,0aa1add1f6,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#26#12,屋上……あっ！！,屋顶……啊！！,translated,依恩,bde01e4d1e,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#27#12,"かすかにだけど、思い出したよ。
+わたしの通ってた学校だと、
+屋上が立ち入り禁止になってたの。","虽然很模糊，但我隐隐想起来了。
+在我以前念书的学校里，
+屋顶是禁止入内的。",translated,依恩,f6d41aec06,br=0 nl=2,3,
+inc/event/res/dateevent06/album03.txt#28#12,"でも、校旗を上げる係になった時に、
+一度だけ屋上に出たことがあったっけ。","不过当我轮到担任升校旗的管理员时，
+好像曾经去过一次屋顶来着。",translated,依恩,a60c1ee62b,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#29#12,"……うん、間違いないよ。
+確かにあの時のこと、覚えてる。","……嗯，肯定没错。
+当时的情景我确实还记得。",translated,依恩,46966ca9f0,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#30#12,"でも、屋上からの景色がどんなだったのかは
+思い出せないみたい……。","但是，从屋顶看出去是怎样的风景，
+好像还是想不起来……",translated,依恩,5c81e8d4b6,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#34#12,"なんか、わたしにもそんなことがあった
+気がする。","总觉得，我以前好像也
+经历过类似的事呢。",translated,依恩,9d808e67e0,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#35#12,"人前で緊張しちゃって、
+全然上手に歌えなかったの。","在大家面前紧张得不得了，
+完全没办法好好唱出来。",translated,依恩,e37b245ba9,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#36#12,"今も昔も、そういうところは
+あんまり変わってないみたい。","无论是过去还是现在，
+我这副样子好像都没怎么改变呢。",translated,依恩,6d825af019,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#38#12,"……でも、ほんの少しだけど
+また一つ思い出せて、すごく嬉しいよ。","……不过，虽然只有微不足道的一点点，
+但能又想起来一件事，我真的超级高兴哦。",translated,依恩,34145c14e9,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#40#12,"それに、あなたの学校での思い出も、
+知ることができたしね。","而且，我也了解到了
+你在学校里的回忆嘛。",translated,依恩,9a54662008,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#42#12,"学校での思い出は、学校のことを知ってる
+あなたに聞くのが一番だね。","关于学校的回忆，
+果然还是请教深谙校园的你最管用了呢。",translated,依恩,abea63db7f,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#44#12,"ねぇ、もし良かったら、
+また学校でのお話を聞かせてくれる？","呐，如果可以的话，
+下次还能讲你在学校的故事给我听吗？",translated,依恩,10f2622cd7,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#46#12,いつでも聞かせてあげるよ,随时都可以讲给你听哦,translated,,00b7c01ec3,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#47#12,イオンの話も聞かせてくれるなら,如果依恩也愿意讲给我听的话,translated,,c781cc5a22,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#49#12,ありがと、期待してるね。,谢谢你，我很期待哦。,translated,依恩,9d54100a5f,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#52#12,"うん、学校でのことを思い出したら、
+ちゃんとそれを教えるよ。","嗯，只要想起在学校的事，
+我一定会好好告诉你的。",translated,依恩,f6d123e95d,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#55#12,あっ、廊下もそろそろ終わりだね。,啊，走廊差不多走到尽头了呢。,translated,依恩,321db84d38,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#56#12,それじゃ、今日はもう帰ろっか？,那么，今天我们差不多该回去了吧？,translated,依恩,0827714962,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#58#12,ふ～……ただいまー。,呼～……我回来啦～,translated,依恩,05510fc6f5,br=0 nl=0,1,
+inc/event/res/dateevent06/album03.txt#59#12,"あなたのおかげで、
+また一つ思い出すことができたよ。","多亏了你，
+我又想起来了一件事哦。",translated,依恩,77f9e71a68,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#60#12,"これからも頑張って思い出すから、
+協力してほしいな。","以后我也会加把劲努力回忆的，
+希望你能继续协助我呢。",translated,依恩,6bf917a9ea,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#61#12,"それじゃ、今日は本当にありがと。
+また学校行こうね。","那么，今天真的很谢谢你。
+下次再一起去学校吧。",translated,依恩,1fa86e7614,br=0 nl=1,2,
+inc/event/res/dateevent06/album03.txt#64#14,"学校のことを少しだけ
+思い出せたよ。もっと
+色々思い出したいな♪","想起了一点点
+关于学校的事呢。
+好想回忆起更多事情呀♪",translated,,b45092e4df,br=0 nl=2,3,
+inc/event/res/dateevent06/album03.txt#65#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent06/album04.txt#1#12,"ター坊のアルバム……。
+わたしも、アルバムに載せられるような
+思い出、ちゃんと思い出したいな。","阿达的相册……
+我也想好好回忆起
+那些足以刊登在相册里的美好回忆呢。",translated,依恩,8f644ff532,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#2#12,ねえ、また学校に行ってみない？,呐，要不要再去一次学校？,translated,依恩,ea99df3771,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#4#12,今日は忙しいから、ごめん,今天有点忙，抱歉,translated,,a8f069e9fd,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#6#12,"いいよいいよ。
+急にお願いしたこっちが悪いんだもん。","没事没事的。
+都怪我这么突然拜托你嘛。",translated,依恩,18d71c4690,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#11#12,"ありがと。
+それじゃ、早速出発しよ！","谢谢你。
+那么，我们赶紧出发吧！",translated,依恩,02a545a848,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#13#12,"……今日は、いつもよりも校内を
+よく見てみようかな？","……今天，我是不是该比往常
+更仔细地看看校园内部呢？",translated,依恩,e1e7f2594f,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#15#12,教室……今は授業をしてるみたいだね。,教室……现在好像正在上课呢。,translated,依恩,db180743c8,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#16#12,"……あれ？
+あの教室の後ろに貼ってあるのって……。","……咦？
+贴在那个教室后面的东西是……",translated,依恩,7a77d53621,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#17#12,"新聞……あれ？
+確かあれって、新聞部が発行する
+学校新聞で……っ！？","报纸……咦？
+我记得那个是新闻部发行的
+校报来着……！？",translated,依恩,2104d069f5,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#18#12,そうだ、思い出したよ！,对了，我想起来了！,translated,依恩,75d0bc471b,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#19#12,"わたし、前に新聞部からのお願いで、
+学校新聞でコーナーを任されてた
+ことがあったの。","我以前受新闻部的委托，
+曾经在校报上负责过
+一个专属专栏呢。",translated,依恩,6e07d53b78,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#20#12,"真空管を使った工作、ってタイトルで、
+図解入りで色んな設計図や、
+解説を載せてた……。","专栏标题叫做“利用真空管制作的手工”，
+配着插图刊登了各种设计图
+和制作解说……",translated,依恩,828b780add,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#21#12,"……気がするの。
+う～ん、思い出せたようないないような、
+もやもやする感じで気持ち悪いよ……。","……好像有这么回事。
+唔～总觉得似想非想的，
+这种含糊不清的感觉好让人难受啊……",translated,依恩,4274d6acf0,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#23#12,……マニアックなコーナーだね,……真是个硬核极客的专栏呢,translated,,934f87ac69,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#24#12,読んでみたい,真想读读看,translated,,44240dbaff,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#26#12,え、えへへ……やっぱり、そう思う？,诶、嘿嘿……果然你也是这么想的吗？,translated,依恩,bf9f640d43,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#27#12,"わたしも、何回も何回も書いたような
+気がまったくしないの。","我也完全不觉得，自己曾经
+反反复复写过很多期的样子呢。",translated,依恩,b53bae8b58,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#28#12,多分、数回で切られちゃったのかな？,大概，只写了几期就被腰斩了吧？,translated,依恩,1dadbd0a7c,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#29#12,"あっ、でも誰かに呼び出されて、
+すごく褒めてもらったことがあるよ！","啊，但我记得曾经被谁叫过去，
+还狠狠地夸奖了一番哦！",translated,依恩,ac4cb9930e,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#30#12,"誰にかは思い出せないけど、
+多分間違っていないと思うの。","虽然想不起是被谁夸的，
+但我想应该八九不离十呢。",translated,依恩,6699b5cf13,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#31#12,"だとすると、科学とか技術の先生に
+褒められたのかな？","这么说来，难道是被
+科学或者技术课的老师给夸奖了吗？",translated,依恩,bfdaca84fc,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#32#12,"う～ん……こういう良い思い出を
+思い出せないのって、
+何だかすごく悔しい気になるよ……。","唔～……像这种美好的回忆
+却偏偏想不起来，
+总觉得好让人不甘心啊……",translated,依恩,454af00e62,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#36#12,"うん、わたしも自分でどんな設計図を
+書いたのか、読んでみたいな。","嗯，我也很想读读看，
+当时的自己到底画了怎样的设计图呢。",translated,依恩,32ae9260b1,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#37#12,"わたしが覚えてるのは、学校新聞で
+そんな記事を書いたような気がするなぁ、
+ってところまでなの。","我脑海里能记住的，
+也仅仅只是“好像在校报上
+写过那样的文章”这种程度而已啦。",translated,依恩,90ba461d3d,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#38#12,"だから、その時の自分がどの程度の物を、
+どんな風に解説してたのか、
+すごく気になるよ。","所以当时的自己到底做了什么水平的东西、
+又是以怎样的口吻解说的，
+真的超级让我好奇呢。",translated,依恩,2d804a9ac4,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#39#12,"う～ん、本当にその時のわたしって、
+何を書いてたんだろう？","唔～当时的自己，
+到底都在报纸上写了些什么呀？",translated,依恩,126387ecad,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#40#12,"すごく気になっちゃうよ……。
+しばらくは、夢にも出てきそうかも。","让人好在意啊……
+感觉这阵子，做梦都可能会梦到了呢。",translated,依恩,81c2a6ad46,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#42#12,"……あっ、向こうに見えるのは
+図書室だね。","……啊，对面能看到的那间
+是图书室呢。",translated,依恩,10541e3cca,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#45#12,"どうしてなのかな？
+図書室を見ると、つい入ってみたいな、
+って気持ちになっちゃうの。","到底为什么呢？
+一看到图书室，我就忍不住会冒出
+好想走进去看看的冲动呢。",translated,依恩,de3e08f6e5,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#46#12,"……でも、本を借りたことがある、って
+気がまったくしないんだ。","……可是，我又完全不觉得
+自己曾经在那里借过书呢。",translated,依恩,636eaeab96,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#47#12,"それなのにこんなに気になるなんて……
+何か、別の思い出でもあるのかな？","明明如此却又这么让人在意……
+难道说，是有什么别的回忆吗？",translated,依恩,d2af07c089,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#49#12,借りはしなくても、読みに来てたのかも,就算不借，说不定也是经常跑去看书的,translated,,c77b94cc17,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#50#12,本好きだから、図書委員だったのかも,既然喜欢书，说不定以前当过图书委员,translated,,52e47bd8b0,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#52#12,"あ～……言われてみれば確かに、
+図書室で本を沢山読んだ気がするかも。","啊～……听你这么一说，
+我好像隐约记得在图书室读过很多书呢。",translated,依恩,4f6d7b62f1,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#53#12,"でも、それだけの理由で
+こんなに気になるとは思えないけど……。","但是，我觉得应该不仅是因为这样
+就让我如此在意的才对……",translated,依恩,1b59f728c5,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#56#12,"確かに本は好きだけど、
+図書委員ではなかったと思うよ？","虽然我确实很喜欢读书，
+但我应该没有当过图书委员哦？",translated,依恩,34f17477fb,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#57#12,"わたしは本を読むのが好きな人間だけど、
+本に関わるお仕事をしたい、
+とは思ってないもん。","我虽然是个喜欢读书的人，
+但我可没想过去做
+和书本相关的工作嘛。",translated,依恩,37521d552b,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#58#12,"趣味趣向が変わってなければ、
+そう思ってたはずだよ。","如果兴趣偏好没有改变的话，
+我当时肯定也是这么想的哦。",translated,依恩,ec82bd5519,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#60#12,"とにかくこの場所はわたしにとって
+大切な場所で……。","总之这个地方对我而言，
+是一个非常重要的地方……",translated,依恩,f53e2061fa,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#61#12,"放課後……奥から二番目の
+丸いテーブル……。","放学后……倒数第二张
+圆桌……",translated,依恩,6bca4c96ee,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#62#12,あっ！？,啊！？,translated,依恩,536774c220,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#63#12,"あ～……ハッキリとはわからないけど、
+ちょっと思い出したかも……。","啊～……虽然无法明确想起来，
+但好像稍微记起了一点……",translated,依恩,ac88edb898,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#64#12,"どうしよう……今こんな気持ちになるの、
+すごく困るのに……。","怎么办……现在的我突然冒出这种心情，
+真的好让人为难啊……",translated,依恩,6dfecc9764,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#66#12,何を思い出したの？,你想起了什么吗？,translated,,97204524a2,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#68#12,"思い出してはないよ。
+ただ、こんなことがあったような、って
+気になっただけだから。","并没有完全想起来啦。
+只是隐隐觉得好像发生过类似的事，
+稍微有些在意而已。",translated,依恩,b51797131b,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#69#12,だから、その……。,所以说，那个……,translated,依恩,cb8e18570d,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#71#12,"……ごめんなさい。
+今は、まだ言いたくないの……。","……对不起哦。
+我现在，还不太想说出来……",translated,依恩,4b560830ae,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#72#12,でも、いつかちゃんと話すから……。,但是，总有一天我会好好告诉你的……,translated,依恩,47a1029523,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#74#12,"……え、えへへ、なんでもないよ！
+多分思い過ごしだから、気にしないで。","……诶、嘿嘿，什么事都没有啦！
+大概只是我想多了，你别介意哦。",translated,依恩,6191740f9c,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#76#12,"きょ、今日はもう帰ろ。
+十分色々思い出せたし、ね？","今、今天我们就先回去吧。
+反正已经想起来挺多事情了，对吧？",translated,依恩,5281c150c9,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#78#12,ふぅ……。,呼……,translated,依恩,a8365b834f,br=0 nl=0,1,
+inc/event/res/dateevent06/album04.txt#79#12,"え、えへへ……なんか、ごめんね？
+最後の最後に変な感じになっちゃって。","诶、嘿嘿……总觉得，对不起哦？
+在最后关头变得怪怪的。",translated,依恩,6eaffb240a,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#80#12,"でも、色々思い出すためのきっかけは、
+たぶん掴めた感じはするよ。","不过，为了回忆起各种事情的契机，
+我感觉大概已经抓住了呢。",translated,依恩,cd738bdfe6,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#81#12,"こういうこと、これからもあるかも
+しれないけど……またデートしようね？","类似的事情以后说不定也还会发生，
+不过……下次我们还要一起约会哦？",translated,依恩,2a97fd0a9f,br=0 nl=1,2,
+inc/event/res/dateevent06/album04.txt#84#14,"何だかすごいことを
+思い出した気がする
+けど……今は秘密。","总觉得好像想起了
+什么非常不得了的事，
+不过……现在还是秘密。",translated,,01a79c5c04,br=0 nl=2,3,
+inc/event/res/dateevent06/album04.txt#85#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent06/album_int.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent06/album_int.txt#6#12,"学校に行きたいの？
+んー………どうしようかな。","想去学校吗？
+嗯～……要怎么办好呢。",translated,依恩,b356420b15,br=0 nl=1,2,
+inc/event/res/dateevent06/album_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent06/album_int.txt#9#12,"それを出してきたってことは、
+学校に行きたい、ってことだよね？","拿出那个东西，
+意思就是想去学校对吧？",translated,依恩,3e1a5a4dc9,br=0 nl=1,2,
+inc/event/res/dateevent06/album_int.txt#10#12,"う～ん……でもなんだか
+今日はあまり思いだせそうな
+気がしないの。","嗯～……不过总觉得
+今天好像没什么
+能回忆起事情的感觉呢。",translated,依恩,9891668928,br=0 nl=2,3,
+inc/event/res/dateevent06/album_int.txt#11#12,また別の日にしようよ、ね？,还是改天再去吧，好吗？,translated,依恩,8824c917a0,br=0 nl=0,1,

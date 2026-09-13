@@ -1,0 +1,1522 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents02/back_kigae_parts.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents02/back_kigae_parts.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#10#12,もっとよく見せて欲しい,希望能让我看得更清楚些,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#12#12,"…も、もっとって…
+えっと、どんな感じかな？","……再、再仔细看是……
+呃，是要摆成什么姿势呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#13#12,こうしてみた方がいい？,这样看会好一点吗？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#16#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#17#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#22#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#24#12,まだ！！,还要！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#25#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#27#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#33#12,それじゃ、元に戻すね。,那么，我转回来了哦。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevents02/date_bonus_parts.txt#38#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents02/date_bonus_parts.txt#40#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents02/date_initm_parts.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents02/date_initm_parts.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents02/date_initm_parts.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents02/date_initm_parts.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#14#12,お待たせ。パーツ屋に行こう。,久等了。去零件屋吧。,translated,,267ae6e4ac,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#16#12,いますぐ行こう,现在就去吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents02/date_initm_parts.txt#21#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents02/date_initm_parts.txt#85#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents02/date_initm_parts.txt#87#12,<CLY2>イオンとパーツ屋に行く約束をしました。,<CLY2>与伊欧约定了去零件屋。,translated,系统文本,ec737f16fa,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents02/date_initt_parts.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/date_init_parts.txt#2#12,…むにゃ……。,……呼啊……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents02/date_init_parts.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents02/date_init_parts.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents02/date_init_parts.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents02/date_init_parts.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents02/date_init_parts.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents02/date_init_parts.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents02/date_init_parts.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents02/date_init_parts.txt#34#12,イオンとパーツ屋に行く,和伊欧去零件屋,translated,,c9550e30d1,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#35#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#39#12,"ああっ！
+来た～っ♪","啊啊！
+来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents02/date_init_parts.txt#45#12,ねえねえ、いる？,呐呐，在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#48#12,あ・な・た～♪,亲・爱・的～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents02/date_init_parts.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#2#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#4#12,さてと、今日はどの辺りのお店を……。,好啦，今天该逛哪一带的店铺呢……,translated,依恩,95f15feab5,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#5#12,"……あれ？
+この感覚って……。","……咦？
+这种感觉是……",translated,依恩,d101d07992,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#8#12,"あっ！
+ごめんね、ボーッとしちゃって。","啊！
+对不起哦，我走神发呆了。",translated,依恩,06ed7b65be,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#9#12,"って、違う違う。
+ボーッとしてたんじゃなくて、
+周りのお店に注意を向けてたの。","不对，不是不是。
+我不是在发呆，
+而是在全神贯注留意周围的店铺啦。",translated,依恩,87c04e7ece,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#10#12,"ここに来てすぐに感じたんだけど、
+今日はすごく素敵な物との出会いが
+ありそうな気がしたの。","刚到这里我就感觉到了，
+总觉得今天似乎能与什么非常美妙的物品
+来一场美好的邂逅呢。",translated,依恩,6b136dc898,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#11#12,"わたしのこういう直感って、
+結構当たるんだよ？","我的这种直觉，
+其实还挺准的哦？",translated,依恩,b0732a2091,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#13#12,超能力、ってこと？,意思是超能力吗？,translated,,c0d824e01d,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#14#12,非科学的で信じられない,太不科学了难以置信,translated,,ad9ce3369e,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#16#12,"ち、違う違う！
+わたし、超能力者じゃないよ？","不、不对不对！
+我才不是超能力者呢？",translated,依恩,d98fa52736,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#17#12,"ただ、パーツ屋に来た時に、時々だけど
+感じることがあるの。","只是，来到零件屋的时候，偶尔
+会有这样的感觉。",translated,依恩,62ed4e16b0,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#18#12,"今日はすごく良い出会いがある、とか、
+今日は嫌な感じがするから帰るべき、
+みたいな感じで……。","比如今天会有很棒的相遇啦，
+或者今天感觉不太对劲该早点回去啦，
+之类的感觉……",translated,依恩,687f5871c5,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#19#12,"ただ、結構当たるのは本当だよ。
+今日は特にそんな気がするの。","不过，经常挺准这一点可是真的哦。
+今天尤其是这种感觉呢。",translated,依恩,6c3ab7a895,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#23#12,"う、う～ん……確かに非科学的だし、
+何の確証もないただの直感だけど……。","唔、唔～嗯……确实很不科学，
+也只是没有任何确凿证据的直觉就是了……",translated,依恩,c406dfd656,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#24#12,"でも、当たり外れはともかくとしても、
+こういう直感があるのは事実でしょ？","不过，先不管准不准，
+会有这种直觉也是事实对吧？",translated,依恩,5123a864d1,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#25#12,"機械好きのわたしが言うのは変だけど、
+こういう直感、わたしは大切にしてるの。","虽然由热爱机械的我来说有点奇怪，
+但这种直觉，我其实挺珍惜的哦。",translated,依恩,b2c4c78f37,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#27#12,"う～ん……そろそろ見つかっても
+良い頃だと思うんだけど……。","唔～嗯……我觉得差不多也该
+找到好东西了吧……",translated,依恩,d506f8a906,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#28#12,"あっ、多分あそこの店先に
+置いてある機械かも！","啊，说不定就是摆在
+那家店门口的那台机器呢！",translated,依恩,0597d75a05,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#30#12,えっと、これは……ウソ発見器？,那个，这是……测谎仪？,translated,依恩,100dfefee2,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#31#12,"あっ、でもそんなにすごいのじゃなくて、
+玩具のウソ発見器みたい。","啊，不过并不是那么厉害的东西，
+好像只是玩具测谎仪。",translated,依恩,7f4c42c2de,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#32#12,"う～ん、ウソ発見器かぁ……。
+これって本当に効果あるのかな？","唔～嗯，测谎仪啊……
+这东西真的有效果吗？",translated,依恩,0d11855948,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#34#12,イオンの好きな人って誰？,伊欧喜欢的人是谁？,translated,,dafb4945b0,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#36#12,わ、わたしの好きな人？,我、我喜欢的人？,translated,依恩,1f836b9151,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#37#12,もぉ……そんなの、あなたに決まってるよ。,真是的……那还用问，当然是你啦。,translated,依恩,f55d1cc9f5,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#38#12,"……って、あぁっ！
+そうじゃないよ！","……不对，啊啊！
+不是这样的啦！",translated,依恩,00f2fa7f43,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#39#12,"これはウソを言って、機械が正確に動くか
+確かめなくちゃいけなかったのに……。","明明应该说谎，来确认机器
+能不能准确运转才对的……",translated,依恩,9823ac1dce,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#40#12,"う～、本当のこと言ったら反応しなくて
+当然だよね。","呜～，说了实话没有反应
+也是理所当然的呢。",translated,依恩,8f8da184b1,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#41#12,"う～ん……でもある程度正確でも、
+玩具である時点で限界は見えてるよね？","唔～嗯……不过就算有一定准确度，
+既然只是个玩具，极限也就摆在那里了吧？",translated,依恩,063b6bceaa,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#42#12,"ウソを付いても反応しないようにする方法も、
+何回か使ってればわかっちゃう気もするし……。","就算说谎也不让它起反应的窍门，
+感觉多用几次也就能摸索出来了……",translated,依恩,8bad44871a,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#43#12,……これって、強化させることできないかな？,……这个，能不能给它强化一下呢？,translated,依恩,ef50f4ee4a,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#44#12,"ウソか本当かをもっと正確に判断して、
+誤魔化すこともできないくらいに改良するの。","更准确地判断是谎言还是真话，
+改良到连敷衍蒙混都做不到的程度。",translated,依恩,979aa322ad,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#45#12,多分そのために必要なのは、えっと……。,为此大概需要准备的东西，那个……,translated,依恩,f289243f20,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#46#12,"……あれ？
+思ったより簡単かも。","……咦？
+说不定比想象的要简单呢。",translated,依恩,b282ee198d,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#47#12,"脳波を正確に取れて、本当かウソかを
+的確に判断できるようにすれば、
+たぶんそれで解決のはずだし……。","只要能准确读取脑波，并且能正确判断
+究竟是说谎还是实话，
+大概就能解决问题了嘛……",translated,依恩,863b2fbc0d,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#48#12,"うん、問題なさそう！
+早速レシピを渡したいから、
+今日はもう帰ろっか？","嗯，好像没什么问题！
+我想尽快把配方交给你，
+今天就先回去吧？",translated,依恩,2d996d55ec,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#50#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#51#12,そうだね、帰ろう,好啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#56#12,たっだいまー！,我回来了～！,translated,依恩,cfdb88f086,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#57#12,"さっき言ったレシピだけど、
+早速作ってみたよ。","刚才说好的那个配方，
+我马上就做出来了哦。",translated,依恩,d30c58f557,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#59#12,"<CLY2>レシピ【嘘発見器？】が
+追加されました。","<CLY2>已追加
+配方【测谎仪？】。",translated,系统文本,6bd934c507,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents02/jkyoku01.txt#60#12,"玩具のウソ発見器とは、比べ物にならない
+強力な物になるはずだよ。","比起玩具测谎仪，
+绝对会变成强力得多的机器哦。",translated,依恩,e145da11dd,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#61#12,もし興味があったら、声をかけてね。,要是感兴趣的话，随时叫我哦。,translated,依恩,d6cfed6fe2,br=0 nl=0,1,
+inc/event/res/dateevents02/jkyoku01.txt#62#12,"それじゃ、今日はありがと。
+今度はゆっくりデートしようね。","那么，今天谢谢你啦。
+下次我们要好好慢慢约会哦。",translated,依恩,fc7581a7fc,br=0 nl=1,2,
+inc/event/res/dateevents02/jkyoku01.txt#67#14,"ウソ発見器なんかに
+負けないすごいの
+作っちゃうよ♪","我要做出完全不输给
+测谎仪的厉害发明，
+一定要做出来♪",translated,,6799c0106a,br=0 nl=2,3,
+inc/event/res/dateevents02/jkyoku01.txt#68#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_bonus_tch1.txt#5#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#6#12,"え、えへへ……あなたの後ろにあるお店の
+パーツに、目がいっちゃってたみたい。","哎、嘿嘿……我的视线好像
+不由自主飘向你身后那家店里的零件了。",translated,依恩,964d6f31c8,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#9#12,<CLBU>ふふっ、大丈夫。,<CLBU>呵呵，没事的。,translated,依恩,5ae614860a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#10#12,"今はパーツじゃなくて、
+ちゃんとあなたを見てるよ。","现在我没有看零件，
+有在好好看着你哦。",translated,依恩,3c095701e0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#25#12,"<CLBU>パーツって、物によっては
+すごく重いのもあるの。","<CLBU>有些零件，根据种类不同
+其实非常沉的哦。",translated,依恩,d1d929e389,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#26#12,"……筋肉が付いてないか、
+ちょっと心配だよ。","……我有点担心自己，
+会不会长肌肉了呢。",translated,依恩,6013245584,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#29#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#30#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#33#12,"<CLBU>わからないものや、珍しいパーツがあったら
+いつでもわたしに言ってね。","<CLBU>要是有不懂的或者少见的零件，
+随时都可以问我哦。",translated,依恩,51222fd4fb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents02/parts_bonus_tch1.txt#34#12,わかりやすく、何でも説明するよ！,不论什么我都给你讲得清清楚楚！,translated,依恩,d06a53770a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#44#12,"<CLBU>ここでは逆に、わたしがあなたを
+エスコートしちゃうよ。","<CLBU>在这里反倒该由我
+来为你带路护送啦。",translated,依恩,4163980b20,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#45#12,"パーツ屋はわたしの庭みたいなものだもん、
+えっへん！","因为零件屋就像是我家后院一样嘛，
+哼哼！",translated,依恩,4b38d72fae,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#48#12,<CLBU>手を繋がないと不安？,<CLBU>不牵着手会觉得不安吗？,translated,依恩,2f50116ed2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#49#12,"大丈夫だよ。
+あなたを置いて、パーツを見に行ったりは
+しないよ。","没关系的啦。
+我不会扔下你一个人，
+自己跑去看零件的哦。",translated,依恩,abca9a1592,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#52#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch1.txt#53#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#63#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#64#12,もぉ……外でも関係なく触るんだから……。,真是的……在外面也毫无顾忌地乱摸……,translated,依恩,8402b14a19,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#67#12,"<CLBU>さ、触るなら、もっと優しくじゃないと
+ダメだよ。","<CLBU>要、要是摸的话，不更加温柔一点
+可不行哦。",translated,依恩,508521cfa7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#68#12,"小さくて壊れやすいパーツと同じくらい、
+大切に扱ってくれないとヤダよ。","如果不像对待精密易碎的微小零件一样
+珍惜爱护我的话，我可不依哦。",translated,依恩,3344d2704d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#71#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#72#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#82#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#85#12,<CLBU>あ、あんまりつつかないでほしいな。,<CLBU>希、希望你别太戳我这里啦。,translated,依恩,1ff87b8efc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#86#12,"はしゃぎ過ぎちゃったせいで、その……
+お腹、減っちゃってて……。","因为玩得太嗨了，那个……
+肚子、有点饿了……",translated,依恩,369bf51c1c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#89#12,"<CLBU>わたしのお腹より、珍しいパーツを
+触る方が面白いと思うんだけど……。","<CLBU>我觉得比起摸我的小肚子，
+去摸摸那些稀罕的零件更有意思吧……",translated,依恩,8fb5ad5a49,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#103#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#104#12,"え、えへへ……あなたの後ろにあるお店の
+パーツに、目がいっちゃってたみたい。","哎、嘿嘿……我的视线好像
+不由自主飘向你身后那家店里的零件了。",translated,依恩,964d6f31c8,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#107#12,<CLBU>もしかして、子ども扱いしてる？,<CLBU>难道说，你把我当小孩看了？,translated,依恩,dbe358bdcc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#108#12,"もぉ……これでも、あなたの恋人さん
+なんだよ？","真是的……人家好歹也是
+你的恋人呀？",translated,依恩,fa54e5bdf8,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#111#12,<CLBU>ふふっ、大丈夫。,<CLBU>呵呵，没事的。,translated,依恩,5ae614860a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#112#12,"今はパーツじゃなくて、
+ちゃんとあなたを見てるよ。","现在我没有看零件，
+有在好好看着你哦。",translated,依恩,3c095701e0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#125#12,"<CLBU>パーツって、物によっては
+すごく重いのもあるの。","<CLBU>有些零件，根据种类不同
+其实非常沉的哦。",translated,依恩,d1d929e389,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#126#12,"……筋肉が付いてないか、
+ちょっと心配だよ。","……我有点担心自己，
+会不会长肌肉了呢。",translated,依恩,6013245584,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#129#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#130#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#133#12,"<CLBU>わからないものや、珍しいパーツがあったら
+いつでもわたしに言ってね。","<CLBU>要是有不懂的或者少见的零件，
+随时都可以问我哦。",translated,依恩,51222fd4fb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents02/parts_bonus_tch1.txt#134#12,わかりやすく、何でも説明するよ！,不论什么我都给你讲得清清楚楚！,translated,依恩,d06a53770a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#142#12,"<CLBU>ここでは逆に、わたしがあなたを
+エスコートしちゃうよ。","<CLBU>在这里反倒该由我
+来为你带路护送啦。",translated,依恩,4163980b20,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#143#12,"パーツ屋はわたしの庭みたいなものだもん、
+えっへん！","因为零件屋就像是我家后院一样嘛，
+哼哼！",translated,依恩,4b38d72fae,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#146#12,<CLBU>手を繋がないと不安？,<CLBU>不牵着手会觉得不安吗？,translated,依恩,2f50116ed2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#147#12,"大丈夫だよ。
+あなたを置いて、パーツを見に行ったりは
+しないよ。","没关系的啦。
+我不会扔下你一个人，
+自己跑去看零件的哦。",translated,依恩,abca9a1592,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#150#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch1.txt#151#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#159#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#160#12,もぉ……外でも関係なく触るんだから……。,真是的……在外面也毫无顾忌地乱摸……,translated,依恩,8402b14a19,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#163#12,"<CLBU>さ、触るなら、もっと優しくじゃないと
+ダメだよ。","<CLBU>要、要是摸的话，不更加温柔一点
+可不行哦。",translated,依恩,508521cfa7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#164#12,"小さくて壊れやすいパーツと同じくらい、
+大切に扱ってくれないとヤダよ。","如果不像对待精密易碎的微小零件一样
+珍惜爱护我的话，我可不依哦。",translated,依恩,3344d2704d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#167#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#168#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#176#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#179#12,<CLBU>あ、あんまりつつかないでほしいな。,<CLBU>希、希望你别太戳我这里啦。,translated,依恩,1ff87b8efc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#180#12,"はしゃぎ過ぎちゃったせいで、その……
+お腹、減っちゃってて……。","因为玩得太嗨了，那个……
+肚子、有点饿了……",translated,依恩,369bf51c1c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch1.txt#183#12,"<CLBU>わたしのお腹より、珍しいパーツを
+触る方が面白いと思うんだけど……。","<CLBU>我觉得比起摸我的小肚子，
+去摸摸那些稀罕的零件更有意思吧……",translated,依恩,8fb5ad5a49,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#194#12,"<CLBU>…こんなところで頭さわさわされたの
+初めてだよぅ。","<CLBU>……在这么个地方被人摸摸头，
+还是头一次呀。",translated,依恩,23a012841d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#196#12,<CLBU>いたたっ、あたまこづかないでよぅ。,<CLBU>好痛痛，别戳人家的脑袋啦。,translated,依恩,9310e564b3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#198#12,"<CLBU>そういうのは、あまり人が
+いない所でやってね。","<CLBU>那种事情，还是在没什么人的地方
+再做啦。",translated,依恩,2d8c1db2c5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#207#12,"<CLBU>肩を抱かれてパーツ屋って…
+なんだか凄く違和感があるかも…。","<CLBU>被搂着肩膀逛零件屋……
+总觉得违和感爆棚啊……",translated,依恩,0db9143abe,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#209#12,"<CLBU>腕を組んでるカップルって
+良くいるよね。","<CLBU>经常能看到
+挽着手臂的情侣呢。",translated,依恩,c1fefb4dc0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#211#12,<CLBU>あはっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒呀。,translated,依恩,95f35ded94,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#215#12,"<CLBU>手を繋いじゃったら、
+パーツを見定めることが出来ないよぅ。","<CLBU>要是手牵在一起的话，
+就没法仔细挑选零件了啦。",translated,依恩,bfa89edcbf,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#217#12,"<CLBU>この手のひらに収まるチップが、
+無限大の可能性を持ってるんだよ？","<CLBU>这枚小到能放在手心里的芯片，
+蕴含着无限的可能性哦？",translated,依恩,32abecec00,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#219#12,"<CLBU>わたし、手先が不器用だから
+細かい作業がちょっと苦手なの。","<CLBU>我手脚比较笨拙，
+有点不擅长精细活呢。",translated,依恩,d67e3e3434,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#223#12,"<CLBU>きゃっ！
+こらーっ！　神聖なパーツ屋さんの前で
+そういうことしないの！","<CLBU>呀啊！
+喂――！在神圣的零件屋面前
+不可以做那种事啦！",translated,依恩,be3d8fc308,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#225#12,"<CLBU>はわわ！！
+もう、ダメったらダメーっ！！","<CLBU>哇哇哇！！
+真是的，不行就是不行啦――！！",translated,依恩,4039a61d25,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#227#12,"<CLBU>…もう…
+すっごく場違いな気がするんですけど。","<CLBU>……真是的……
+我总觉得这种气氛完全不合时宜啊。",translated,依恩,57e8b5eefd,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#231#12,"<CLBU>こんなところで
+お腹突いたりしないでよぅ…。","<CLBU>别在这么个地方
+戳人家的肚子啦……",translated,依恩,618d0d6ad9,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#233#12,"<CLBU>ちょ、ちょっとー！
+くすぐったいからだめーっ！！","<CLBU>等、等等――！
+好痒的不行啦――！！",translated,依恩,9389d2a60b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#235#12,"<CLBU>周りはパーツ屋さんばっかりなんだから。
+くすぐったくて躓いちゃったら危険だよぅ。","<CLBU>周围可全都是零件铺子哦。
+要是痒得摔倒绊倒了可是很危险的呀。",translated,依恩,1b0c79b213,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch1.txt#239#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#241#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch1.txt#243#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#5#12,"<CLBU>……そんな風に撫でられたら、
+パーツじゃなくて、あなたの方が
+気になっちゃうよ。","<CLBU>……被你这么摸的话，
+比起零件，我的心思都要
+全跑到你身上去了啦。",translated,依恩,f143f25be0,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#8#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#11#12,"<CLBU>……あなたと見つめ合ってる方が、
+色んなパーツを見て回るよりも
+ドキドキするの。","<CLBU>……和你四目相对，
+比四处巡看各种零件
+还要让人心跳加速呢。",translated,依恩,1b0380eac6,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#12#12,"う～ん……でも、やっぱりパーツも
+気になるよぉ……。","唔～嗯……不过，零件果然
+我也很在意呀……",translated,依恩,eaaa174f19,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#27#12,"<CLBU>パーツ屋も、こうやって二人で見た方が
+何倍も面白く感じるね。","<CLBU>逛零件屋，像这样两个人一起看
+感觉有趣程度翻了好多倍呢。",translated,依恩,67220c2fe8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#28#12,"えへへ……あなたと出会えて、
+わたし、本当に幸せだよ。","嘿嘿……能够遇见你，
+我真的非常幸福哦。",translated,依恩,611ecb7fff,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#31#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#32#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#35#12,"<CLBU>パーツ屋で腕を組んで歩くのは、
+結構目立つかもしれないよ。","<CLBU>在零件屋里挽着手臂散步，
+说不定会相当引人注目哦。",translated,依恩,5e68797fe7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#36#12,"普通、ここでデートする人って
+少ないしね。","毕竟平时会在这里约会的人
+本来就很少嘛。",translated,依恩,3961bc66ac,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#46#12,"<CLBU>パーツ屋に来る時は、なるべく手を繋いで
+歩いた方がいいと思うの。","<CLBU>来零件屋的时候，我觉得最好
+还是牵着手一起走比较好呢。",translated,依恩,9d6a47d082,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#47#12,"わたし、夢中になると
+早足になっちゃうから……。","因为我一旦入迷起来，
+步子就会越走越快嘛……",translated,依恩,5a6eb4d9cc,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#50#12,"<CLBU>手を握られちゃうと、パーツを手にとって
+見ることができなくなっちゃう……。","<CLBU>要是手被你握住了，就没办法
+把零件拿在手里仔细端详了……",translated,依恩,5faf68e448,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#51#12,……でも、こっちの方がいいかも。,……不过，这样可能更好呢。,translated,依恩,8a65d7d5cf,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#54#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#55#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#65#12,"<CLBU>だ、ダメだよ！
+ここ、外だよ！？","<CLBU>不、不行啦！
+这里可是大庭广众之下哦！？",translated,依恩,4eb56bc2a6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#68#12,"<CLBU>そ、そんなまじまじと
+胸を見つめなくても……。","<CLBU>不、不用这么直勾勾地
+盯着我的胸部看吧……",translated,依恩,5d4f296fe1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#69#12,"でも、わたしもパーツを見つめてる時は、
+こんな風になるのかな？","不过，我看零件入迷的时候，
+也会是这副模样吗？",translated,依恩,89f74a2d4e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#72#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#82#12,<CLBU>え、えっと……。,<CLBU>那、那个……,translated,依恩,aad6eee901,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#83#12,"うぅ～、パーツ屋でお腹を撫でられても、
+どう反応すればいいのか困るよぉ……。","呜呜～，在零件屋里被抚摸肚子，
+我都不知道该作何反应才好了啦……",translated,依恩,eb6d0baf5e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#86#12,<CLBU>あっ、んふっ！,<CLBU>啊，唔嗯！,translated,依恩,bc2c64f5dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#87#12,"もぉ！
+お腹はくすぐったいんだから、
+あんまり撫でないでってば……。","真是的！
+摸肚子很痒的啦，
+叫你别总摸了嘛……",translated,依恩,8d4fe552ab,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#90#12,"<CLBU>も、もぉ……さすがにこんな場所じゃ、
+恥ずかし過ぎるよ……。","<CLBU>真、真是的……在这么个地方，
+未免也太难为情了啦……",translated,依恩,82c1092e04,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#91#12,"帰ったらいくらでも触らせてあげるから、
+今は別の場所にしてほしいな。","等回去了随便你怎么摸都可以，
+现在先换个地方摸好不好嘛。",translated,依恩,05911c9270,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#105#12,"<CLBU>……そんな風に撫でられたら、
+パーツじゃなくて、あなたの方が
+気になっちゃうよ。","<CLBU>……被你这么摸的话，
+比起零件，我的心思都要
+全跑到你身上去了啦。",translated,依恩,f143f25be0,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#108#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#111#12,"<CLBU>……あなたと見つめ合ってる方が、
+色んなパーツを見て回るよりも
+ドキドキするの。","<CLBU>……和你四目相对，
+比四处巡看各种零件
+还要让人心跳加速呢。",translated,依恩,1b0380eac6,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#112#12,"う～ん……でも、やっぱりパーツも
+気になるよぉ……。","唔～嗯……不过，零件果然
+我也很在意呀……",translated,依恩,eaaa174f19,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#125#12,"<CLBU>パーツ屋も、こうやって二人で見た方が
+何倍も面白く感じるね。","<CLBU>逛零件屋，像这样两个人一起看
+感觉有趣程度翻了好多倍呢。",translated,依恩,67220c2fe8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#126#12,"えへへ……あなたと出会えて、
+わたし、本当に幸せだよ。","嘿嘿……能够遇见你，
+我真的非常幸福哦。",translated,依恩,611ecb7fff,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#129#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#130#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#133#12,"<CLBU>パーツ屋で腕を組んで歩くのは、
+結構目立つかもしれないよ。","<CLBU>在零件屋里挽着手臂散步，
+说不定会相当引人注目哦。",translated,依恩,5e68797fe7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#134#12,"普通、ここでデートする人って
+少ないしね。","毕竟平时会在这里约会的人
+本来就很少嘛。",translated,依恩,3961bc66ac,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#142#12,"<CLBU>パーツ屋に来る時は、なるべく手を繋いで
+歩いた方がいいと思うの。","<CLBU>来零件屋的时候，我觉得最好
+还是牵着手一起走比较好呢。",translated,依恩,9d6a47d082,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#143#12,"わたし、夢中になると
+早足になっちゃうから……。","因为我一旦入迷起来，
+步子就会越走越快嘛……",translated,依恩,5a6eb4d9cc,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#146#12,"<CLBU>手を握られちゃうと、パーツを手にとって
+見ることができなくなっちゃう……。","<CLBU>要是手被你握住了，就没办法
+把零件拿在手里仔细端详了……",translated,依恩,5faf68e448,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#147#12,……でも、こっちの方がいいかも。,……不过，这样可能更好呢。,translated,依恩,8a65d7d5cf,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#150#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#151#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#159#12,"<CLBU>だ、ダメだよ！
+ここ、外だよ！？","<CLBU>不、不行啦！
+这里可是大庭广众之下哦！？",translated,依恩,4eb56bc2a6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#162#12,"<CLBU>そ、そんなまじまじと
+胸を見つめなくても……。","<CLBU>不、不用这么直勾勾地
+盯着我的胸部看吧……",translated,依恩,5d4f296fe1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#163#12,"でも、わたしもパーツを見つめてる時は、
+こんな風になるのかな？","不过，我看零件入迷的时候，
+也会是这副模样吗？",translated,依恩,89f74a2d4e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#166#12,"<CLBU>……こういう、人の大勢いるところでは、
+やめた方がいいような……。","<CLBU>……总觉得在人这么多的大庭广众之下，
+还是不要做这种事比较好……",translated,依恩,cdaa6762f5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents02/parts_bonus_tch2.txt#174#12,<CLBU>え、えっと……。,<CLBU>那、那个……,translated,依恩,aad6eee901,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#175#12,"うぅ～、パーツ屋でお腹を撫でられても、
+どう反応すればいいのか困るよぉ……。","呜呜～，在零件屋里被抚摸肚子，
+我都不知道该作何反应才好了啦……",translated,依恩,eb6d0baf5e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#178#12,<CLBU>あっ、んふっ！,<CLBU>啊，唔嗯！,translated,依恩,bc2c64f5dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#179#12,"もぉ！
+お腹はくすぐったいんだから、
+あんまり撫でないでってば……。","真是的！
+摸肚子很痒的啦，
+叫你别总摸了嘛……",translated,依恩,8d4fe552ab,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#182#12,"<CLBU>も、もぉ……さすがにこんな場所じゃ、
+恥ずかし過ぎるよ……。","<CLBU>真、真是的……在这么个地方，
+未免也太难为情了啦……",translated,依恩,82c1092e04,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#183#12,"帰ったらいくらでも触らせてあげるから、
+今は別の場所にしてほしいな。","等回去了随便你怎么摸都可以，
+现在先换个地方摸好不好嘛。",translated,依恩,05911c9270,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_bonus_tch2.txt#194#12,<CLBU>えへへ、なんだか幸せかも。,<CLBU>嘿嘿，总觉得有点幸福呢。,translated,依恩,dbd5a4f214,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#196#12,"<CLBU>パーツ屋さんで頭撫でられたりするとは
+思わなかったよ。","<CLBU>真没想到在零件屋里
+还会被你摸摸头呢。",translated,依恩,46ecf87ddb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#198#12,<CLBU>えへへ、なでり～なでり～♪,<CLBU>嘿嘿，摸摸～摸摸～♪,translated,依恩,6448d37f97,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#207#12,"<CLBU>ふふっ、くすぐったい！
+でも、ここだとあまり盛り上がらないね～。","<CLBU>呵呵，好痒哦！
+不过在这里好像不太能调动起气氛呢～。",translated,依恩,0a6306677b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#209#12,"<CLBU>なんかわたし、肩を抱かれてても
+パーツにばっかり目が行っちゃってる。","<CLBU>总觉得明明被你搂着肩膀，
+我的视线却净往零件上飘呢。",translated,依恩,ac65ac3364,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#211#12,<CLBU>ひゃっ、くすぐったいよぅ。,<CLBU>呀，好痒呀。,translated,依恩,0fb4b01a74,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#215#12,<CLBU>手をさすって温めてくれるの？,<CLBU>是在搓搓手帮我暖手吗？,translated,依恩,517beabbf4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#217#12,<CLBU>えへへ、気持ちいいかも。,<CLBU>嘿嘿，感觉挺舒服的呢。,translated,依恩,c61f773ac8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#219#12,<CLBU>あなたの手って、温かいね。,<CLBU>你的手，好暖和呀。,translated,依恩,86fb04fc63,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#223#12,"<CLBU>…もう、こんな所でも。
+本当にどこでも触ろうとするんだね。","<CLBU>……真是的，在这么个地方也这样。
+你还真是不分场合到处都想摸呢。",translated,依恩,dadbd2b67a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#225#12,"<CLBU>こんな所で触られても、
+全然盛り上がらないよぅ……
+…あれ？　逆に盛り上がるかも？","<CLBU>在这么个地方被你摸，
+根本兴奋不起来啦……
+……咦？说不定反而更刺激？",translated,依恩,2b7a98c5bb,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#227#12,"<CLBU>だめだってば。
+真剣にパーツを見定める場所なんだから。","<CLBU>都说了不行啦。
+这里可是要认真挑选零件的地方嘛。",translated,依恩,a307f15300,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#231#12,<CLBU>あははっ、くすぐったーい！,<CLBU>啊哈哈，好痒啊――！,translated,依恩,123d619f02,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#233#12,"<CLBU>あまりおなかさすらないで。
+嫌じゃないけど、ここはちょっと…。","<CLBU>别老揉我的肚子啦。
+倒不是讨厌，只是在这里有点……",translated,依恩,4873ffd382,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#235#12,"<CLBU>そんなにお腹が好きなの？
+ぽっこりしてるからかなぁ…。","<CLBU>你那么喜欢肚子吗？
+是因为有点肉乎乎的小肚子吗……",translated,依恩,7ea168659b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#239#12,<CLBU>あははっ、くすぐったいよぅ。,<CLBU>啊哈哈，好痒哦。,translated,依恩,99b4dd2db7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#241#12,<CLBU>なんだかこそばゆいね～。,<CLBU>总觉得心里直痒痒的呢～,translated,依恩,e6aa97f82e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_bonus_tch2.txt#243#12,"<CLBU>ちゃんとスベスベしてるかなあ？
+最近お手入れあんまりしてないかも。","<CLBU>摸起来有足够光滑溜溜吗？
+最近好像都没怎么好好保养呢。",translated,依恩,b65b6c1024,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_datego01.txt#6#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_datego01.txt#7#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_datego01.txt#9#12,えへへ♪　お待たせ～。,嘿嘿♪久等啦～。,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego02.txt#6#12,…そうだ。,……对了。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego03.txt#6#12,…そうだ。,……对了。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#3#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#4#12,"あのね、その…
+大した用事じゃ無いんだけど…。","那个呀，怎么说呢……
+虽然也不是什么大不了的事啦……",translated,依恩,8ac2a08fda,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_dategom.txt#5#12,その、ね…ほら……えっと…。,那个，呐……你看……呃……,translated,依恩,85fbf571de,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#6#12,"また、デートしたいな～とか
+思っちゃったりして…その……。","我想着……要是能再去约会就好了呢～
+那个……",translated,依恩,9169fedd88,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_dategom.txt#7#12,"っていうか、デートっていうより…
+その…わたしがパーツ屋さんに
+行きたいだけなんだけど…えへへ……。","话说回来，比起约会……
+那个……其实只是我自己
+想去零件屋而已就是了……嘿嘿……",translated,依恩,66182bf049,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_dategom.txt#8#12,"あ、それで！
+予定…どうかな？","啊，所以说！
+你的安排……怎么样呀？",translated,依恩,b35d0d8293,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_dategom.txt#9#12,もちろん大丈夫,当然没问题,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#10#12,今週はちょっと無理かも,这周可能有点不太行,translated,,85c8c99542,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#12#12,"ほ、ほんと！？　嬉しい！！
+やったぁ！
+パーツ屋さん♪　パーツ屋さん♪","真、真的吗！？太开心了！！
+太好啦！
+零件屋♪去零件屋咯♪",translated,依恩,76f75b237a,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_dategom.txt#17#12,そっかぁ…残念。,这样啊……真遗憾。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_dategom.txt#18#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents02/parts_kigae.txt#9#12,"さて、と。
+今日は何を着ていこうかな～。","好――啦。
+今天穿哪件衣服去好呢～",translated,依恩,24fa7c4a93,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#10#12,"と言っても、パーツ屋さんに行くだけだし…
+普通にポーラーズメモリーで
+いいかなぁ……。","话虽这么说，其实也只是去零件屋而已……
+平时穿的北极星记忆
+应该就可以了吧……",translated,依恩,cc48caa6d0,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_kigae.txt#11#12,普通に…って、一応デートだよ？,平时穿……我说，好歹也是约会哦？,translated,,fc9c006b17,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#12#12,そっちの方がよっぽど…いや、いい。,穿那个明明更加……呃，算了。,translated,,ac0222e78e,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#14#12,…うーん………。,……唔～嗯…………,translated,依恩,643f2d1cbf,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#16#12,普通の格好でいいよね。,就穿平时的衣服就好啦。,translated,依恩,67363e6f5f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#20#12,"そ、そうだよね…！
+それじゃ、えっと……。","也、也是呢……！
+那么，那个……",translated,依恩,2b65f71b4f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#21#12,"リンカージェン！
+リンカージェンならちょっと可愛いかも！","林卡珍！
+要是穿林卡珍的话可能会稍微可爱一点！",translated,依恩,ed8beb8e7e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#23#12,"…と思ったけど、今着てた…。
+まあ、このままでいっか。可愛いし。","……我本想这么说，但现在就穿着呢……
+算啦，就穿这身吧。反正也挺可爱的。",translated,依恩,efcad70c7e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#25#12,そうしよっと♪,就这么办吧♪,translated,依恩,470c405821,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#33#12,"うーん…他に着ていけるものは
+無さそうだよ……。","唔～嗯……好像也没有其他
+能穿过去的衣服了呢……",translated,依恩,9bdf9f1c76,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#34#12,"やっぱりポーラーズメモリーで
+行くしかないかな。","果然还是只能穿
+北极星记忆去了呢。",translated,依恩,fee4632c9d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#46#12,"え！？　う、そっか。
+確かに、ちょっと露出高いもんね。
+そう言われると恥ずかしいかも…。","哎！？啊、这样啊。
+确实，稍微有点太暴露了呢。
+被你这么一说感觉有点不好意思了……",translated,依恩,a705b4264a,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_kigae.txt#47#12,そ、それじゃ…えっと……,那、那么……那个……,translated,依恩,fef31dc5bd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#49#12,"リンカージェン！
+リンカージェンなら、可愛くていいよね！！","林卡珍！
+要是林卡珍的话，既可爱又合适呢！！",translated,依恩,36c16f3cb7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#51#12,"…と思ったけど、今着てた…。
+まあ、このままでいっか。可愛いし。","……我本想这么说，但现在就穿着呢……
+算啦，就穿这身吧。反正也挺可爱的。",translated,依恩,efcad70c7e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#53#12,そうしよっと♪,就这么办吧♪,translated,依恩,470c405821,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#61#12,"うーん…他に着ていけるものは
+無さそうだよ……。","唔～嗯……好像也没有其他
+能穿过去的衣服了呢……",translated,依恩,9bdf9f1c76,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#62#12,"やっぱりポーラーズメモリーで
+行くしかないかな。","果然还是只能穿
+北极星记忆去了呢。",translated,依恩,fee4632c9d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#63#12,"でも、言われて気づいちゃうと、
+ちょっと恥ずかしいかも……。","不过，被你一提醒才意识到，
+感觉稍微有点不好意思呢……",translated,依恩,7c8a41e4f0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#72#12,おまたせ～♪,久等啦～♪,translated,依恩,a17ce62072,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#77#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#78#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#79#12,かわいい！！,好可爱！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_kigae.txt#81#12,"えへへ…ありがと♪
+わたしもこの服好きだから、嬉しいな。","诶嘿嘿……谢谢你♪
+我也很喜欢这件衣服，好开心哦。",translated,依恩,93894dc723,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_kigae.txt#84#12,"そ、そうなの…？
+なんか、そんなダイレクトに言われたら
+はずかしい…かも…。","是、是吗……？
+被你这么直白地夸奖，
+感觉怪不好意思的……",translated,依恩,ec8f038a0f,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_pt01.txt#2#12,"ん～、ちょっとパーツ屋の
+空気に触れたい気分かも。","嗯～，感觉有点想去感受一下
+零件屋的气氛呢。",translated,依恩,e6d87df703,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt01.txt#4#12,ねえねえ、ちょっとパーツ屋に行かない？,呐呐，要不要去一趟零件屋？,translated,依恩,78781afe1f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_pt01.txt#6#12,"う～ん……ちょっとパーツ屋に行って
+色々見て回りたいかも。","唔～嗯……稍微有点想去零件屋
+到处逛逛看看呢。",translated,依恩,2b9a58152c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt01.txt#8#12,パーツ屋めぐりしたくなってきちゃった。,突然很想去巡游零件屋了呢。,translated,依恩,f40296f210,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_pt02.txt#2#12,ん～、満足したよぉ。,嗯～，好满足呀。,translated,依恩,0aea6954bc,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_pt02.txt#4#12,はぁ、やっぱりパーツ屋って楽しいなぁ。,哈啊，零件屋果然真好玩啊。,translated,依恩,261c0f245f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_pt02.txt#6#12,"ふぅ～、ちょっとはしゃぎ過ぎちゃった
+かな？","呼～，我是不是
+有点玩得太嗨了呢？",translated,依恩,dc8778040b,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt03.txt#2#12,"また絶対行こうね。
+約束だよ。","下次绝对还要再去哦。
+说好了哦。",translated,依恩,24e29269b1,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt03.txt#4#12,"今度行った時は、何を見ようかな？
+えへへ、今から楽しみだよ。","下次去的时候该看些什么好呢？
+嘿嘿，我现在就开始期待了呢。",translated,依恩,9479750263,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt03.txt#6#12,"またのんびりと、
+ウインドウショッピングしにいこうね。","下次再去悠闲地
+逛街看橱窗吧。",translated,依恩,cd9f91b68d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_pt03.txt#8#12,"今日は楽しかったよ。
+また付き合ってね。","今天玩得很开心哦。
+下次也要陪我哦。",translated,依恩,32d367a4c5,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#2#12,"それじゃ、準備はいい？
+パーツ屋へしゅっぱーつ！","那么，准备好了吗？
+向零件屋出――发！",translated,依恩,08a7218771,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#4#12,えへへ、早速見て回ろうよ。,嘿嘿，我们赶紧到处看看吧。,translated,依恩,61479cfd0c,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#7#12,"やっぱり、好きな物に囲まれてると、
+テンション上がっちゃうね。","果然被自己喜欢的东西包围着，
+兴致一下子就高涨起来了呢。",translated,依恩,d4004689c8,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#8#12,"あんまりそうは見えないかもしれないけど、
+心の中は凄く浮かれてるんだよ？","虽然表面上看起来可能不太明显，
+但我内心其实超级兴奋的哦？",translated,依恩,46fdc95a9a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#9#12,"わたしにとってのパーツ屋がどんなものか、
+例えるなら、えっと……。","要打比方说零件屋对我来说是什么样的地方，
+那个……",translated,依恩,958e569964,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#11#12,美術館,美术馆,translated,,5c33449109,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#12#12,遊園地,游乐园,translated,,428da26d59,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#15#12,"そう、どんなに安いパーツでも、わたしから
+見たら芸術品みたいに素敵なものなの。","对，就算再廉价的零件，在我眼里
+也全都是像艺术品一样美妙的东西。",translated,依恩,5a383afb85,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#16#12,"そんなものに囲まれてるんだもん、
+テンション上がるのは仕方ないよ。","毕竟被那样的东西包围着嘛，
+情绪高涨也是理所当然的啦。",translated,依恩,17cd924416,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#20#12,うんうん、まさにそんなそんな感じだよ。,嗯嗯，完全就是那种感觉呢。,translated,依恩,aa5271f229,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#21#12,"だから、テンション上がっちゃうのも、
+わからなくはないよね？","所以，情绪会高涨起来，
+你也能理解对吧？",translated,依恩,7740b466e4,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#23#12,"だけど、さすがにここで浮かれて
+はしゃいだりはできないから、
+頑張って押さえてるんだよ。","不过，在这么个地方毕竟不能忘乎所以地
+大吵大闹，所以我很努力地
+在克制自己哦。",translated,依恩,a84890bd50,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s01.txt#24#12,"……でも、こういうパーツを見てると、
+一つ一つバラでパーツを買って、
+機械を一から組み立てたくなるよ。","……不过，看着这些散装零件，
+真让人想一个个单买回去，
+从零开始组装一台机械呢。",translated,依恩,d6e9201c87,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s01.txt#25#12,"作るのが凄く楽しいものだと、
+時々寝ないで作っちゃうこともあるの。","要是遇到做起来超级开心的东西，
+有时候甚至会通宵做完呢。",translated,依恩,89c9b8de16,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#26#12,"ただ、眠気を抑えるために
+ついお菓子を食べちゃって……。","只是，为了忍住困意
+总会忍不住去吃零食……",translated,依恩,9472728af5,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#28#12,ピリ辛スナック,香辣零食,translated,,5943c221fd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#29#12,甘いクッキー,甜曲奇,translated,,86ebe479e0,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#32#12,眠気覚ましには必須だよね。,提神醒脑的必备佳品呢。,translated,依恩,abc8c717ce,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#33#12,"あの辛くて口の中がジーンッ、て
+痺れる感じが、一番効果的だよ。","那种辣得嘴里发麻的刺激感，
+是最提神有效的呢。",translated,依恩,8d80d79e6f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#37#12,"うん、徹夜作業の時には
+甘いものは必須だよね。","嗯，熬夜干活的时候
+甜食可是必不可少的呢。",translated,依恩,72f3ec5006,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#38#12,"疲れも取れるしリフレッシュできて、
+最高の徹夜のお供だよ。","不仅能消除疲劳还能提振精神，
+是熬夜时的绝佳伴侣哦。",translated,依恩,001502b57e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#41#12,"……なんだか、話してたら本当に何か
+作りたくなってきちゃった。","……不知怎么，这么一聊
+我真的变得好想动手做点什么了。",translated,依恩,b9e6e8bc8a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#42#12,早く帰って何か作ろう。,赶紧回去做点什么吧。,translated,依恩,001e51f095,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#43#12,それじゃ、今日はもう帰ろうか。,那么，今天我们就先回去吧。,translated,依恩,13a9ea2f87,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#45#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#46#12,そうだね、帰ろう,好啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s01.txt#52#12,"やっぱり沢山のパーツに囲まれると、
+何か作らないと、って気持ちになれるね。","果然被大量的零件包围着，
+就会让人涌起“必须做点什么”的心情呢。",translated,依恩,910858257b,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s01.txt#57#14,"一緒にパーツ屋に
+行ったよ♪　次は何を
+作ろうかな～♪","一起去了零件屋♪
+下次该做点
+什么好呢～♪",translated,,2fc0c83c7f,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s01.txt#58#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s02.txt#2#12,それじゃ、出発するよー！,那么，要出发咯――！,translated,依恩,d521da2a94,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#4#12,"う～、わくわくしてきたよぉ。
+早く見て回ろうよ！","唔～，我已经兴奋起来了啦。
+快点到处看看吧！",translated,依恩,ad2b95b75e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#6#12,今日はどんな掘り出し物があるかなぁ？,不知道今天能淘到什么样的宝物呢？,translated,依恩,f980cf3f7e,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#7#12,"こういうパーツ屋って、来るたびに何かしら
+変わった物を見つけられるのがいいよね。","这种零件屋，每次来都能发现
+一些稀奇古怪的东西，真棒呢。",translated,依恩,4349c6ca8f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#8#12,"まあ、あまりわたしの興味を惹き過ぎる
+モノが見つかるのは困るけど。","嘛，不过要是发现太吸引我的东西
+也会让人很苦恼就是了。",translated,依恩,1facb32905,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#9#12,ここで買っても、持って帰れないし……。,就算在这里买了，也带不回去嘛……,translated,依恩,3661ee9bc3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#10#12,あっ、発光ダイオードの投売りしてるよ。,啊，发光二极管在降价大甩卖呢。,translated,依恩,a3d8277954,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#11#12,"結構な量があるみたい。
+これだけあれば、ちょっとした
+イルミネーションができそうだね。","好像有相当多的数量呢。
+如果有这么多的话，感觉都能做一套
+小型彩灯灯饰了呢。",translated,依恩,00bcea305c,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s02.txt#13#12,ツリーに？,装在圣诞树上？,translated,,6867e328e3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#14#12,家の外壁に？,装在外墙上？,translated,,320e6d111c,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#17#12,そうそう、部屋の中に飾れるのがいいよね。,对对，能装饰在房间里真好呢。,translated,依恩,a121196442,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#21#12,"うん、イルミネーションといったら
+やっぱり家の外壁だよね。","嗯，说到彩灯灯饰，
+果然还是装在外墙上呢。",translated,依恩,b24aff90df,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#23#12,あっ、でもやっぱりうちじゃできないかも。,啊，不过在我们家可能还是做不了呢。,translated,依恩,f8b5ff51fe,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#24#12,設置ができない、ってわけじゃないよ。,并不是说装不上去啦。,translated,依恩,70703d2238,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#25#12,"ただ、イルミネーションだけだと
+寂しいんじゃないかな、って。","只是觉得，要是只有彩灯灯饰
+会不会有点太冷清了呢。",translated,依恩,6ebdf9f6c5,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#26#12,"やっぱりイルミネーションを見る時には、
+それ相応の物がないといけないと思うの。","看彩灯的时候，我觉得果然
+还是得有相衬的配套环境才行呢。",translated,依恩,497d26970d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#27#12,例えば、えっと……。,比如，那个……,translated,依恩,e5121fb4e3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#28#12,"う～ん、普段あんまり考えないから、
+急にだと中々でてこないみたい……。","唔～嗯，平时没怎么想过，
+突然要想一时半会儿好像还想不出来……",translated,依恩,d04d469e3d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#30#12,静かな音楽,轻柔的音乐,translated,,a606e0b857,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#31#12,豪華な食事,丰盛的大餐,translated,,03e70ee703,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#34#12,そうそう、音楽！,对对，音乐！,translated,依恩,15c3416c14,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#35#12,"イルミネーションを見る時にあると、
+凄くいいムードになるよね。","看彩灯的时候如果有音乐，
+气氛绝对会变得超级棒呢。",translated,依恩,45eeff5e0d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#39#12,そうそう、食事だったね。,对对，是大餐呢。,translated,依恩,8c47c687f4,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#40#12,"薄暗くした部屋でイルミネーションを
+見ながら食べる食事……。
+想像するだけでもロマンチックだよ。","在光线暗下来的房间里一边欣赏彩灯
+一边享受大餐……
+光是想象就觉得好浪漫啊。",translated,依恩,538b7f93b3,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s02.txt#42#12,"う～ん、何だか色々考えてたら、
+このダイオード欲しくなってきちゃった。","唔～嗯，不知怎么东想西想的，
+搞得我都好想要这些二极管了。",translated,依恩,811dd25ffb,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#43#12,"持って帰れるなら、
+まとめ買いしていくのに……。","要是能带回去的话，
+我真想直接成捆全买走呢……",translated,依恩,38c63e7fef,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#44#12,"さすがにこのままだと使えないから、
+帰ってイルミネーションとして使えるように
+手を加える必要もあるし。","毕竟光是这样也没法直接用，
+还得拿回去加工改装成彩灯才行呢。
+得花点工夫呢。",translated,依恩,5aace2d36b,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s02.txt#45#12,"まあ、どうしても見たくなったら、
+戻ってから材料を買いに行けばいいかな？","嘛，要是无论如何都想看的话，
+等回去之后再去买材料也可以吧？",translated,依恩,7cbdfd9494,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#47#12,"とりあえず、これ以上欲しくなる前に
+今日はそろそろ帰るよ。","总之，在变得更想要之前，
+今天我们差不多该回去啦。",translated,依恩,3a87a3e652,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#49#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#50#12,そうだね、帰ろう,好啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s02.txt#56#12,"お話しながら一緒に見て回れたから、
+一人で行くよりも楽しかったよ。","能一边聊天一边到处逛，
+比一个人去好玩多了呢。",translated,依恩,a80cfeabdd,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s02.txt#61#14,"パーツ屋を一緒に見て
+回った♪　一人じゃ
+ないっていいね♪","一起逛了零件屋♪
+不是一个人
+真好呢♪",translated,,212f7de58f,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s02.txt#62#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s03.txt#2#12,"今日はどんな発見ができるか、楽しみだよ。
+それじゃ、しゅっぱーつ！","今天能有什么新发现呢，好期待呀。
+那么，出――发！",translated,依恩,3a5178739a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#4#12,……やっぱり、何回来てもわくわくするよ。,……果然，不论来多少次都让人兴奋不已呢。,translated,依恩,d6dc07c82e,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#6#12,"好きなものが沢山置いてある場所って、
+見て歩いてるだけでも凄くわくわくした
+気持ちになれるよね？","摆放着好多自己心爱之物的地方，
+光是四处走走看看，
+心情就会变得超级兴奋对吧？",translated,依恩,6a1f70da94,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s03.txt#7#12,これで買えたら本当に幸せなんだけど……。,要是还能买下来的话就真的太幸福了……,translated,依恩,1b302edcdb,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#8#12,"あ、でも考え方によっては、
+買えない方がいいのかもしれない。","啊，不过换个角度想想，
+买不了说不定反而是好事呢。",translated,依恩,f81a7cad1d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#9#12,"だって、もし持って帰れるとしたら、
+買い過ぎちゃいそうだもん。","因为，要是真能带回去的话，
+我肯定会忍不住买太多的嘛。",translated,依恩,206f794ce4,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#10#12,"今ここから見えるお店においてあるモノは、
+ほとんど欲しいと思えるものばかりだよ。","现在从这里能看到的那些店里摆的东西，
+几乎全都是我很想要的呢。",translated,依恩,9118a218cc,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#11#12,"信じられないと思うなら、
+適当に今見える物を指差してみて。","要是你觉得难以置信的话，
+不妨随手指指现在能看到的东西试试看。",translated,依恩,7d5b9c5083,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#13#12,コードの切れたスピーカー,线被剪断的音箱,translated,,ae508973e3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#14#12,半壊したオシロスコープ,半损坏的示波器,translated,,fec88bd9ef,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#17#12,"多分、新しいコードを自分でつければ、
+問題なく動くはずだもん。","只要我自己接上一根新电线，
+应该就能毫无问题地运转嘛。",translated,依恩,51ff351f2f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#18#12,"簡単な修理で使えるようになるんだから、
+凄い掘り出し物だよ。","稍微修一下就能重新用起来，
+这可是超值的淘金收获哦。",translated,依恩,2f75e9549a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#22#12,うん、あれが一番欲しい物かもしれない。,嗯，那个说不定才是我最想要的呢。,translated,依恩,6365534ca3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#23#12,"かなり大掛かりな修理が必要になるから、
+タップリ楽しめそうだもん。","因为需要大动干戈好好大修一番，
+感觉能让人痛痛快快享受修机器的过程嘛。",translated,依恩,e7cb06caa9,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#25#12,"こんな感じで、あれも欲しいこれも欲しい、
+っていう感じなの。","就像这样，那个也想要、这个也想要，
+就是这么一种心情啦。",translated,依恩,1f6dcde1a2,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#26#12,"それほどここのパーツ屋は、いいものが
+充実してるって証拠だよ。","这也证明了这里的零件屋，
+好东西真的非常琳琅满目呢。",translated,依恩,27577c2467,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#27#12,"まあ、だからこそ買い過ぎるかも、
+って心配してるんだけどね。","嘛，正因如此我才担心
+自己会不会买太多就是了。",translated,依恩,368c0bcfa3,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#28#12,"……どうしよう、買い物したくなって
+きちゃったかも。","……怎么办，我好像变得
+越来越想买东西了。",translated,依恩,dbac0858e7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#29#12,"ここって、ちょっと休んで心を落ち着ける
+場所がないのが少し不便だよね。","这里没有能稍微歇脚、平复心情的地方，
+稍微有点不太方便呢。",translated,依恩,68827cc84c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#30#12,"ちょっとした休憩場所があっても
+いいと思うのに……。","明明要是能有个小小的休息处
+就好了嘛……",translated,依恩,5b9854f0b5,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#32#12,喫茶店,咖啡厅,translated,,973d09b592,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#33#12,レストラン,餐厅,translated,,a4e764301c,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#40#12,"そうそう、買い過ぎたり、歩き過ぎたりで
+疲れた時のためにも、
+そういう場所は欲しいよね。","对对，为了买太多或者走太多路
+累了的时候能歇一歇，
+真想要有这么个地方呢。",translated,依恩,31e1485d7e,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s03.txt#41#12,"買い物を終えた後の休憩とかにも
+使えると思うし。","买完东西之后也可以
+用来坐着休息嘛。",translated,依恩,823b3758b9,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#42#12,って、ちょっとわがまま過ぎかな？,我说，这要求是不是稍微有点太任性啦？,translated,依恩,2e47e5e7c9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#43#12,"そこまで充実してたら、
+ここに入り浸っちゃうかも。","要真是设施齐全到了那种程度，
+我怕是会整天泡在这里不肯走了呢。",translated,依恩,a0d9cf07e0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#45#12,"今日はもう帰ろう。
+これ以上ここにいたら、もっとわがままな
+わたしを見せちゃうかもしれないし。","今天我们这就回去吧。
+要是继续待在这里，说不定会让你看到
+我更加任性的一面呢。",translated,依恩,482792f51d,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s03.txt#47#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#48#12,そうだね、帰ろう,好啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s03.txt#54#12,"ん～、やっぱり、パーツ屋から帰ってきて
+手ぶらなのは、ちょっと寂しいなぁ。","嗯～，果然从零件屋回来却两手空空，
+总觉得稍微有点寂寞呢。",translated,依恩,db69425831,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#55#12,"でも、あなたとウインドウショッピングを
+したと思って、それに関しては我慢するよ。","不过只要想着是和你一起逛街看橱窗了，
+那点小寂寞我也就忍耐下来啦。",translated,依恩,a5d67597dc,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#56#12,"それに、一緒にお話しながら見て回れて
+楽しかったもん。","而且能一边聊天一边到处逛，
+已经很开心了嘛。",translated,依恩,662ea6e4c7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s03.txt#61#14,"パーツ屋で何も買え
+ないのは寂しいけど、
+お話して楽しかった♪","虽然在零件屋什么都没买
+有点寂寞，
+但和你聊天真开心♪",translated,,7eaa5fca2b,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s03.txt#62#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s04.txt#2#12,"それじゃ、準備はいい？
+出発するよー。","那么，准备好了吗？
+要出发咯――。",translated,依恩,b00598a150,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#4#12,えへへ、今日も一緒に見て回ろうね。,嘿嘿，今天也一起到处逛逛吧。,translated,依恩,20436e07dd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#6#12,う～ん……。,唔～嗯……,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#7#12,"……やっぱり、こういう場所って
+男の人が多いよね？","……果然，这种地方
+男士特别多呢？",translated,依恩,8018643cc3,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#8#12,"ここだと、わたしって浮いちゃってる
+感じがするよ。","在这里总觉得我自己
+显得格外格格不入呢。",translated,依恩,cd10b2c41a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#9#12,"やっぱり、機械弄りが好きな女の子って、
+変なのかな？","果然喜欢捣鼓机械的女孩子，
+会显得很奇怪吗？",translated,依恩,84767fd1d0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#11#12,良いと思う,我觉得挺好的,translated,,1376bba959,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#12#12,かっこいいと思う,我觉得很帅气,translated,,60551efcdd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#15#12,えへへ、ありがと。,嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#19#12,"か、かっこいいなんて言われたの、
+初めてだよ。","被、被人夸很帅气，
+我还是头一次遇到呢。",translated,依恩,fe13abfcce,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#20#12,"えへへ、何だか今まで以上に機械弄りを
+好きになれるかも。","嘿嘿，感觉会让我变得
+比以往更加喜欢捣鼓机械了呢。",translated,依恩,0ab99b05d7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#22#12,"できることなら、褒めてくれたお礼を
+したいんだけど……。","如果可以的话，我真想
+好好答谢你对我的夸奖……",translated,依恩,5bdec4fb55,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#23#12,"こういう時、私達の関係を
+凄くもどかしく感じるよ。","这种时候，总会让人对我们彼此的关系
+感到格外心焦无奈呢。",translated,依恩,91cabd842e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#24#12,"本当に、本物のあなたがわたしの前に
+いてくれたらなぁ、って……。","想着要是真正的你能够
+出现在我的眼前该多好啊……",translated,依恩,0801bdb0dd,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#25#12,"まあ、お礼と言っても壊れた機械を修理する
+くらいしかできないけど。","嘛，虽说是谢礼，我能做的
+也就是修修坏掉的机械而已就是了。",translated,依恩,b96781495a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#26#12,"どんな物でも、とは言えないけど、
+家庭にあるものくらいなら大丈夫だよ。","虽不敢说不论什么都能修，
+但如果是家里一般的家电我还是没问题的哦。",translated,依恩,47cc4db030,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#28#12,エアコンも？,空调也行吗？,translated,,dfe3c05091,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#29#12,パソコンも？,电脑也行吗？,translated,,e167888e33,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#32#12,うん、直せるよ。,嗯，修得好哦。,translated,依恩,27ba910947,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#33#12,"実際に壊れたエアコンを動くように
+したことあるしね。","因为我真的曾经把坏掉的空调
+修到能重新运转过呢。",translated,依恩,1329b928c8,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#37#12,パソコンの修理なら簡単だよ。,修理电脑这种事很简单哦。,translated,依恩,8757cacd5d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#38#12,"ついでに、快適作業のできるカスタマイズも
+してあげちゃうよ。","顺便还可以帮你做一些定制，
+让你能更顺畅地使用哦。",translated,依恩,1e9e3842b7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#40#12,"もし本当にあなたと会うことができるように
+なったとしたら、その時は期待しててね。","如果真的有一天能和你见面的话，
+到那个时候你就好好期待一下吧。",translated,依恩,f6ac6802ff,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#41#12,機械のトラブルはイオンにお任せ！,机械方面的问题就包在依恩身上吧！,translated,依恩,bdcdb4a1cd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#42#12,なんてね、えへへ……。,开玩笑的啦，嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#44#12,満足したし、そろそろ帰ろうか？,逛得很满足了，我们差不多该回去了吧？,translated,依恩,4ea9cf1f71,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#46#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#47#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#53#12,"今日はパーツを眺めるよりも、
+あなたとのお話に夢中になっちゃった。","今天比起看零件，
+我光顾着和你聊天了呢。",translated,依恩,484b1d0662,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#54#12,でも、たまにはこういうのもいいよね。,不过，偶尔这样也不错呢。,translated,依恩,163f899125,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s04.txt#59#14,"パーツ屋でお話に
+夢中になっちゃった♪","在零件屋光顾着
+和你聊天了♪",translated,,71493359ec,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s04.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s05.txt#2#12,あっ、でも、パーツ屋だと……。,啊，不过，在零件屋的话……,translated,依恩,2bb79fe122,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#3#12,……う、ううん、何でもないの！,……唔、没，没什么啦！,translated,依恩,85472507e9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#4#12,と、とにかく出発しよ。,总、总之先出发吧。,translated,依恩,dd9b254d8d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#7#12,えへへ、また来ちゃったね。,嘿嘿，又来这里了呢。,translated,依恩,6ea12e1ddf,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#8#12,えっと……そ、それじゃ、見て周ろうか？,那个……那、那我们到处看看吧？,translated,依恩,f7b0c2aaf7,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#11#12,"ね、ねえ……デートの場所だけど、
+やっぱりパーツ屋はマズくない？","呐、呐……关于约会的地点，
+来零件屋果然不太好吧？",translated,依恩,8554712bfe,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#12#12,"もっと静かで落ち着ける場所の方が
+よくないかなぁ？","是不是去更安静、
+能让人放松的地方更好一些呢？",translated,依恩,cb18adeac2,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#14#12,パーツ屋でのデートは楽しくない？,在零件屋约会不开心吗？,translated,,58140807fe,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#16#12,そ、そういうわけじゃないの……。,倒、倒不是因为这个……,translated,依恩,65fb2caa20,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#17#12,"でも、わたし達って、ほら……
+付き合い始めたでしょ？","但是，我们现在不是……
+已经开始交往了吗？",translated,依恩,ee23b8a7bf,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#18#12,"だから、前みたいなデートじゃなくて、
+もっとムードとか、雰囲気を大切にした
+デートの方がいいのかな、って……。","所以我在想，是不是不该像以前那样约会，
+而是应该去一些更有情调、
+更讲究气氛的地方呢……",translated,依恩,fc282468d4,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#19#12,わたしはそう思ってるんだよ。,我是这样想的啦。,translated,依恩,89b6a8b66b,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#20#12,"恋人と一緒のデートだもん。
+やっぱりこう、うっとりっていうか……。","毕竟是和恋人一起约会嘛。
+感觉还是需要那种陶醉的气氛……",translated,依恩,07037cc004,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#21#12,って、そ、そういうのはまだ早いかな？,唔，这、这种事现在说还太早了吗？,translated,依恩,5cb3f7dfb4,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#22#12,"と、とにかく、今までのデートと
+同じなのは、いけないと思うの。","总、总之我觉得，
+不能还和以前的约会一模一样。",translated,依恩,00d08c777d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#23#12,"だから、あんまりわたしの趣味に
+偏った場所に来るのは、やめた方が
+いいんじゃないかな、って……。","所以我在想，总是来这种
+完全偏向我个人爱好的地方，
+是不是不太好呢……",translated,依恩,6414ab878b,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#24#12,"あなただって、恋人とデートに行くのが
+パーツ屋なんて、嫌でしょ？","就算是换作你，和恋人约会的地方
+居然是零件屋，也会觉得讨厌吧？",translated,依恩,34aa2c0c01,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#26#12,イオンは嫌なの？,依恩觉得讨厌吗？,translated,,78dffd39e0,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#27#12,イオンと一緒ならどこでも構わない,只要和依恩在一起，去哪里我都无所谓,translated,,3c5487ef50,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#29#12,い、嫌じゃないよ！,我、我可不讨厌哦！,translated,依恩,3a392cd920,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#30#12,ただ、何て言えばいいのかな……。,只是，该怎么说才好呢……,translated,依恩,3f0817ac9b,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#31#12,"本当に、こんなデートでいいのかな、って
+不安になっちゃったの。","我只是有点担心，
+真的可以进行这样的约会吗。",translated,依恩,380678288f,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#34#12,"も、もぉ、そういうこと言われたら、
+それならいいかな、で終わっちゃうよ。","真、真是的，你这么一说，
+我不就只能觉得“那就这样吧”了嘛。",translated,依恩,023eb31e45,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#35#12,"ま、まあ、そう言ってもらえるのは、
+とっても嬉しいけど……。","不、不过，你能这么说，
+我真的非常高兴就是了……",translated,依恩,f20a476791,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#36#12,"で、でも、やっぱりパーツ屋での
+デートは、普通じゃない気がするの。","但、但是，果然在零件屋约会
+总让人觉得不太寻常吧。",translated,依恩,f7da654666,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#39#12,"お付き合いを初めたばかりなんだし、
+もっとムードのあるところに行くのが
+普通だよ。","毕竟我们才刚开始交往，
+按理说应该去
+更有情调的地方才对呀。",translated,依恩,9827bff016,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#40#12,"それにここだと、わたしもパーツが
+気になって、他の場所よりもあなたに
+目が行かなくなるかもしれないし……。","而且在这里的话，我也会一直很在意零件，
+可能反而会比在其他地方
+更难把注意力集中在你身上……",translated,依恩,a09a3fe256,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#41#12,"あっ、で、でもでも、あなたよりも
+パーツが好き、っていうわけじゃないの。","啊，但、但是，我可不是说
+比起你我更喜欢零件哦。",translated,依恩,1fc2dd3a86,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#42#12,"でも、ここってすごく良いパーツが
+揃ってるから、どうしても惹きつけられ
+ちゃって……。","不过，这里有好多特别棒的零件，
+无论如何都会不由自主地
+被吸引过去嘛……",translated,依恩,41a916c71d,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#43#12,"だから、しばらくはあなたのことだけに
+集中して、趣味は置いておこうかな、
+って思うの。","所以我在想，暂时还是把精力
+全集中在你身上，
+把爱好先放一边比较好吧。",translated,依恩,b27af8de75,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#45#12,付き合うからって我慢する必要はない,就算是在交往，也没必要特意去忍耐吧,translated,,7c13aac26a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#47#12,う～ん……そうなのかな？,嗯～……是这样吗？,translated,依恩,9b010ff2a9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#48#12,"でも、お互いに好きな物を我慢してまで
+付き合う、っていうのは、何か変な気も
+するね。","不过，为了交往还要去忍耐
+彼此喜欢的事物，
+确实感觉有点奇怪呢。",translated,依恩,854dfa5168,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#49#12,"う～、わたし、誰かとお付き合いするのは
+初めてだから、変に考え過ぎちゃってたの
+かも……。","唔～因为我是第一次和别人交往，
+可能不知不觉就
+有点胡思乱想过头了……",translated,依恩,b859438e1b,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#50#12,恥ずかしい失敗しちゃった……。,闹了个好丢人的笑话呢……,translated,依恩,d0f2c939ac,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#52#12,こっちも誰かと付き合うのは初めて,我也是第一次和别人交往,translated,,e7e4b52d19,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#53#12,色々考えてくれてるのがわかって嬉しい,知道你在为我们考虑这么多，我很开心,translated,,096912fab6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#55#12,えへへ……お互い、初めて同士だね。,嘿嘿……我们彼此都是第一次呢。,translated,依恩,328649eb5f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#56#12,"それなら、あまり深く考えすぎたりは
+しない方がいいかもしれないね。","既然这样，也许还是不要
+考虑得太复杂比较好呢。",translated,依恩,23ba0a9a6d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#57#12,"不慣れな者同士、これから少しずつ
+上手な付き合い方を勉強していこうね。","我们两个新手，今后就一点点
+去学习如何更好地相处吧。",translated,依恩,a333e8bf4a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#60#12,"だ、だって……恋人になったからって、
+それで終わりじゃないでしょ？","因、因为……并不是成为恋人之后，
+一切就到此为止了对吧？",translated,依恩,d29db393de,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#61#12,"恋人になってからも、今よりももっともっと
+仲良くなっていきたいし……。","成为恋人之后，我也希望能变得
+比现在更加更加亲密……",translated,依恩,1fc6c28c28,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#62#12,"あなたが思ってる以上に、毎日ずっと
+あなたのことを考えてるんだよ？","比你想象中的还要夸张，
+我每天都一直在一心想着你哦？",translated,依恩,b7b495d4ff,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#64#12,"とにかく、あなたがそう言ってくれるなら、
+お言葉に甘えちゃおうかな。","总之，既然你都这么说了，
+那我就恭敬不如从命啦。",translated,依恩,5fa39a1982,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#65#12,"でも、パーツに夢中になり過ぎるような
+ことにはならないように気を付けるね。","不过，我会注意不让自己
+过于沉迷在零件里的。",translated,依恩,329868bb74,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#66#12,"わたしとしても、持って帰れない
+パーツより、それを見ながらあなたと
+お話しする方が楽しいし……。","对我来说，比起带不回去的零件，
+看着它们和你聊天
+其实还要开心得多……",translated,依恩,0708ed9a53,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#67#12,こ、これでも、その……。,别、别看我这样，那个……,translated,依恩,8412e8efee,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#68#12,あなたのこと、本気で好きだから……。,我可是真心喜欢你的哦……,translated,依恩,3f25dedff7,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#69#12,"え、えへへ……。
+恥ずかしいけど、本当のことだもん。","嘿、嘿嘿……
+虽然很害羞，但这就是我的真心话嘛。",translated,依恩,723eb4dc82,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#71#12,"きょ、今日はそろそろ帰らない？
+何だか、パーツが全然頭に入ってこないの。","今、今天差不多该回去了吧？
+感觉零件什么的完全进不去脑子里了。",translated,依恩,54335c9c4c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#73#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#74#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s05.txt#80#12,"えへへ……ちょっと、ギクシャクした
+デートになっちゃったね。","嘿嘿……今天的约会
+感觉气氛有点生硬呢。",translated,依恩,54c511eb4c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#81#12,"でも、恋人として付き合っていく方法、
+っていうのかな？","不过，所谓作为恋人相处的方法，
+该这么说吗？",translated,依恩,292f7ddff6,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#82#12,"そういうのを少しだけ理解したような
+気がするから、とっても満足だよ。","感觉自己似乎稍微理解了一些，
+所以已经非常满足啦。",translated,依恩,82e68e0753,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#83#12,"これからも、沢山デートしようね。
+今日は付き合ってくれてありがと！！","今后我们也要多多约会哦。
+今天能陪我来，谢谢你啦！！",translated,依恩,fd0c9d03c4,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s05.txt#88#14,"パーツは好きだけど、
+あなたは大好き。
+気づいてくれてる？","虽然喜欢零件，
+但最喜欢你了。
+你有注意到吗？",translated,,b594af47b9,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s05.txt#89#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s06.txt#1#12,"えへへ、やっぱりパーツ屋に行くと
+思うと、いつもよりワクワクしちゃうね。","嘿嘿，一想到要去零件屋，
+果然就比平时更让人兴奋呢。",translated,依恩,aab4d042ef,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#2#12,それじゃ、早速出発しよ！,那么，我们赶快出发吧！,translated,依恩,085cea30d4,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#4#12,"さてと、今日はどんな面白いパーツが
+見つかるかなぁ？","好啦，今天能找到
+什么有趣的零件呢？",translated,依恩,496ca7eafb,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#6#12,"わたしも、たまには珍しいパーツを使って、
+何かを作ってみたいの。","我也想偶尔用一些罕见的零件，
+来试着做点什么东西呢。",translated,依恩,a86503e376,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#7#12,"現実だと、手に入るパーツは
+限られてるでしょ？","在现实里，能弄到手的零件
+种类很有限对吧？",translated,依恩,08d3a21ac2,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#8#12,だから例えば……。,所以比如……,translated,依恩,b01cfad2e5,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#9#12,"あっ、ほら、あそこのお店に置いてある、
+基盤なんか面白そうだよ！","啊，你看，放在那家店里的基板，
+感觉好像很有意思哦！",translated,依恩,4fec5ddfa6,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#10#12,"ああいう、これって何に使えるのかな、
+っていうようなパーツを中心に、何かを
+作ってみたいなぁ……。","真想以那种“这到底能用来干什么呢”
+的零件为核心，
+试着做点什么东西出来啊……",translated,依恩,c0a927f915,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#12#12,それで何かを作れるの？,用那个能做出东西来吗？,translated,,67ecfbe1a7,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#14#12,それで作れる物を考えるのも楽しいんだよ。,去思考用那个能做出什么东西也很有趣哦。,translated,依恩,b11f8e8b00,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#15#12,"そのパーツを中心に設計図を作っていって、
+これなら作れる、ってものを見つけた時の
+あの達成感……。","以那个零件为核心绘制设计图，
+在发现“这个能做出来！”的那一瞬间，
+那种成就感……",translated,依恩,6da0a70321,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#16#12,"……って、まあそうは言っても、
+そういう経験があるのか聞かれても、
+覚えてないから答えられないけど……。","……话虽这么说，
+但要是问我有没有过这种经验，
+因为不记得了我也答不上来就是了……",translated,依恩,53c8b659da,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#17#12,"でも、その時の達成感がどんなものかは、
+不思議とわかるの。","不过，那时候的成就感是怎样的体验，
+我却不可思议地非常明白。",translated,依恩,90414fec53,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#18#12,"何を作ったのかを忘れちゃっただけで、
+きっと作ったことはあるって証拠だよね？","只是忘记了做过什么而已，
+这一定证明我以前做过的对吧？",translated,依恩,b3dbd9a2cf,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#20#12,イオンならやったことありそう,依恩的话确实像是会做这种事,translated,,c40240c99b,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#21#12,いくらイオンでもそれは無理じゃない？,就算是依恩这也太勉强了吧？,translated,,a43a34fc64,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#23#12,うん、わたしもこれは自信あるよ。,嗯，这一点我自己也很有自信哦。,translated,依恩,283f479f89,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#24#12,"記憶を失くす前のわたしが、今と全然違う
+性格だったら話は別だけど……。","失去记忆之前的我如果和现在
+是完全不同的性格，那倒另当别论……",translated,依恩,0655b96071,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#25#12,"でも、もしそうじゃなかったとしたら、
+間違いなくやってたはずだよ。","但如果不是那样的话，
+我绝对肯定做过这种事的。",translated,依恩,c76271d480,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#26#12,"そんな楽しいこと、わたしがやらないはず
+ないもん。","这么好玩的事情，
+我怎么可能放过嘛。",translated,依恩,ac87127b61,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#30#12,もぉ、わたしのこと、信じてくれないんだ？,真是的，你居然不相信我吗？,translated,依恩,d2f240da1b,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#31#12,"機械作りに関しては、他の何よりも
+自信があるのに……。","在制作机械这方面，
+我明明比任何事情都要有自信的……",translated,依恩,565e7b66e9,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#32#12,"でも、実際にやった記憶がないから、
+そう言われちゃったら何も言い返せない
+けど……。","不过，因为没有实际做过的记忆，
+被你这么一说
+我也确实无法反驳就是了……",translated,依恩,6f67bfeda0,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#33#12,"……それでも、機械関係に関しては、
+もっとあなたに信じてもらえてると
+思ったのに……。","……即便如此，在机械相关的事情上，
+我还以为能得到
+你更多的信任呢……",translated,依恩,d20a256666,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#34#12,"……もっと色んな物を作って、
+あなたに信用してもらえるように
+ならないとダメだね。","……看来我还得多做各种各样的东西，
+直到能让你完全信任我
+才行呢。",translated,依恩,d1bd46c8bd,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#36#12,"……でも、わたしってあなたと出会った頃と
+比べたら、機械に対する愛情が減ったんじゃ
+ないかな、って最近思うの。","……不过，最近我总觉得，
+比起刚遇到你的时候，
+我对机械的热爱好像变淡了呢。",translated,依恩,7d480fb338,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#37#12,"ほら、最初にパーツ屋に来た頃のこと、
+覚えてる？","你看，当初刚来零件屋那时候的事，
+你还记得吗？",translated,依恩,fa388690a3,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#38#12,"パーツが沢山あるのに大喜びして、
+大量に買って持って帰ろうとしてたでしょ？","看到有那么多零件，我开心得不得了，
+还打算买上一大堆带回去对吧？",translated,依恩,6a4b38f18a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#39#12,"持って帰れないのがわかった後にも、
+同じことして自己嫌悪に陥ったことも
+あったし……。","明明知道带不回去了，
+却还是忍不住又做了同样的事，
+搞得自己还陷入了自我厌恶……",translated,依恩,03849a3237,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#40#12,"それに、パーツに夢中になっちゃうから、
+デートコースには向いていないかも、
+なんて話もしたでしょ？","而且，因为总会一头扎进零件里，
+我们还聊过这里可能
+不适合当约会地点之类的话吧？",translated,依恩,fd25174c49,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#42#12,でも、今は普通のデートになってるよね？,但是现在已经变成普通的约会了吧？,translated,,358d0de3ca,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#44#12,そう、そこが問題なの！,对，问题就在这里！,translated,依恩,613e274eed,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#45#12,"だって、普通にお話しながら歩くだけの
+デートなら、もう少し雰囲気のいい場所に
+行った方がいいんじゃないのかな？","因为，要是只是普通地边走边聊，
+那还不如去一些
+气氛稍微更好的地方约会呢不是吗？",translated,依恩,1daf5fb1d4,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#46#12,"それに、わたしはあなたも好きだけど、
+パーツだって大好きなんだよ？","而且，我虽然喜欢你，
+但也同样非常喜欢零件啊？",translated,依恩,07571b4da0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#47#12,"それなのに、せっかくパーツ屋に来ても
+ほとんどパーツを見ないなんて……。","结果难得来到零件屋，
+却几乎不怎么看零件……",translated,依恩,ef3b01e9fc,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#48#12,"何だか、機械に対しての想いが、
+自分の中で薄れてきているような気がして、
+ちょっと悲しくなるの。","总觉得对自己而言，
+对机械的这份感情好像变淡了，
+就感觉有点难过呢。",translated,依恩,947c58f4d1,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#50#12,そんなことはないと思う,我觉得没有那回事哦,translated,,7295ec66e1,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#52#12,ううん、あるよ。,不，有的啦。,translated,依恩,5c267f225f,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#53#12,"デートでここに来てるのはわかってるけど、
+わたしがどれほどパーツ屋が好きなのかは、
+あなたもよく知ってるでしょ？","虽然我知道是来这里约会的，
+但我有多喜欢零件屋，
+你也非常清楚对吧？",translated,依恩,8c268a663e,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#54#12,"だから、本当ならもっとパーツを見ながら
+お話するのが、ここでのデートの
+楽しみ方なんじゃないのかな？","所以照理来说，一边看着零件一边聊天，
+才是在这里约会
+应该有的享受方式吧？",translated,依恩,7540a7f725,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#55#12,"それなのに、最近はパーツを完全に
+無視しちゃってるし……。","可最近却把零件
+完全丢在一边了……",translated,依恩,214102c774,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#56#12,"一番自信がある分野のはずなのに……。
+何だか、自信なくなってきちゃった……。","明明应该是自己最有自信的领域……
+总觉得有点失去自信了……",translated,依恩,299424d79d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#58#12,そう思えるなら大丈夫,能这么想的话就说明没问题,translated,,a4e66e3e25,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#59#12,考えすぎだよ,你想太多啦,translated,,07e2435c76,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#61#12,……そっか……そうだよね。,……这样啊……也是呢。,translated,依恩,725e9641c6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#62#12,"わたしが本当に興味を失ってきてるなら、
+こんな風に悩んだりはしないはずだね。","如果我真的渐渐失去兴趣了，
+应该就不会像这样烦恼了呢。",translated,依恩,49bd8071d3,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#63#12,"今でもちゃんと好きじゃなかったら、
+気付いてもいないはずだし。","要是现在不是真心喜欢，
+甚至连注意都不会注意到吧。",translated,依恩,08f2d67c80,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#64#12,"ありがと……あなたが言ってくれなきゃ、
+ずっと気付かないままだったよ。","谢谢你……要不是你点醒我，
+我可能一直都不会发现呢。",translated,依恩,95b666b738,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#66#12,"やっぱり、あなたはわたし以上に、
+わたしのことに詳しいみたいだね。","果然比起我自己，
+你好像还要更了解我呢。",translated,依恩,87d1f4f675,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#67#12,"ちょっと、嬉しいかも……。
+わたしも、あなた以上にあなたに
+詳しくなりたいな。","总觉得有点开心呢……
+我也想变得比你自己
+还要更了解你呢。",translated,依恩,5fcce93b0a,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#73#12,……ただの趣味じゃないもん。,……这可不单单只是爱好嘛。,translated,依恩,488a978baf,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#74#12,"機械作りは、わたしにとって趣味以上に、
+すごく大切なものなんだよ？","制作机械对我来说，
+可不仅仅是爱好，而是非常重要的东西哦？",translated,依恩,d976ed6d80,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#75#12,"あなたには、わかってもらえてると
+思ってたのに……。","我还以为，
+你应该能理解我的……",translated,依恩,8effa02454,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#76#12,"今度からパーツ屋に来た時には、
+パーツの方だけを集中して見るように
+しようかな？","下次再来零件屋的时候，
+我是不是应该
+集中精力只看零件呢？",translated,依恩,e1cbab12dc,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#77#12,"そもそも、そうしないとパーツ屋に
+来ている意味がないと思うし。","说到底，不这么做的话
+我觉得特意来零件屋就毫无意义了嘛。",translated,依恩,88f5bd8fe0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#80#12,……あっ、結構時間経っちゃってるね。,……啊，不知不觉过去挺长时间了呢。,translated,依恩,8af59067cb,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#81#12,今日はそろそろ帰ろっか？,今天差不多该回去了吧？,translated,依恩,3105b624e3,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#83#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#84#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s06.txt#89#12,"う～ん……やっぱり、何となくパーツ屋に
+行ってきた気持ちになれないなぁ……。","唔～……总觉得好像
+完全没有来过了零件屋的实感呢……",translated,依恩,71553b51fd,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#90#12,"今度行く時は、久しぶりにパーツを
+うんと見て楽しんじゃおっと。","下次再去的时候，我一定要久违地
+好好看个痛快，尽情享受一番。",translated,依恩,63f7443f10,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#91#12,"たまには、そういうデートがあっても
+いいと思うしね、えへへ……。","偶尔有一次这样的约会
+我觉得也很不错呢，嘿嘿……",translated,依恩,ce0de83340,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#92#12,"また近いうちに行こうね。
+約束だよ！","近期我们还要再去哦。
+约好了哦！",translated,依恩,3bd6cd1113,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s06.txt#97#14,"パーツ屋に行く時は
+ちゃんとパーツを見て
+歩きたいな。","去零件屋的时候
+想好好看着零件
+逛一逛呢。",translated,,877779fc15,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s06.txt#98#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents02/parts_s07.txt#1#12,"目の保養になるような、変わったパーツが
+見つかるといいなぁ……。","要是能找到一些让人大饱眼福的
+奇特零件就好了呢……",translated,依恩,37b4ee0246,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#2#12,それじゃ、早速しゅっぱーつ！,那么，马上出――发！,translated,依恩,3c02402806,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#4#12,"えへへ、ここももう立派なデートコースの
+一つになっちゃったね。","嘿嘿，这里也已经完全变成
+我们的约会路线之一了呢。",translated,依恩,fb77ea05c2,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#6#12,"ふふっ……それにしても、こうして夫婦で
+パーツ屋を歩く日が来るなんて、今までは
+思いもしなかったよ。","呵呵……不过，像这样夫妻俩
+一起逛零件屋的日子居然真的会到来，
+我以前真是想都不敢想呢。",translated,依恩,e30fc660e7,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#7#12,"ほら、やっぱり機械作りって、あまり女の子
+っぽくない趣味でしょ？","你看，做机械这种事，
+怎么看都不太像女孩子的爱好吧？",translated,依恩,7ed234042c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#8#12,"だから、結婚したら旦那さんになる人に、
+機械作りなんてみっともないからやめろ、
+って言われるかも、って心配だったの。","所以之前我还一直担心，结婚以后
+丈夫会不会觉得做机械太不像样了，
+让我干脆放弃掉呢。",translated,依恩,dad9300061,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#9#12,"……っていうか、もしかしてあなたも、
+わたしに機械作りをやめさせたい、とか
+思ってたりする？","……话说回来，难道说你也
+一直在心里想着，
+想让我放弃做机械吗？",translated,依恩,c36b5bd2ef,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#11#12,色々作ってもらわないと困る,你要是不帮我做各种东西我会很困扰的,translated,,8bde7eaba9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#12#12,機械作りをしてるイオンはかっこいい,做机械时的依恩很帅气哦,translated,,a173496997,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#14#12,"そっか……そう思ってもらえてるなら、
+機械作りをやめなくても良さそうだね。","这样啊……既然你这么想，
+看来我就不需要放弃做机械了呢。",translated,依恩,5e4184106e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#15#12,"とはいっても、何を作っても実際使うのは
+わたしなんだけど……。","话虽这么说，其实不管做了什么，
+真正用的人都是我就是了……",translated,依恩,ab7d4812a0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#16#12,"あなたにも使ってもらえるような機械を
+作れたらいいんだけどなぁ。","要是能做出你也可以使用的机械
+就好了呢。",translated,依恩,01c7b06a7d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#19#12,"もぉ、女の子にかっこいいなんて言ったら、
+普通は怒られちゃうよ？","真是的，对女孩子说“帅气”什么的，
+换作别人一般都会生气的哦？",translated,依恩,9290488d6e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#20#12,……でも、わたしは例外だよ。,……不过，我是个例外啦。,translated,依恩,4e2b1f99b2,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#21#12,"好きなことを頑張ってる自分のことを、
+かっこいいって言ってもらえるんだもん。","因为能被你说“专注于自己喜欢的事
+很帅气”嘛。",translated,依恩,45500cef5c,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#22#12,すごく嬉しいし、最高の褒め言葉だよ。,我超级开心，这可是最棒的夸奖呢。,translated,依恩,d195f5d445,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#24#12,"そういうセリフを、サラッと言ってくれる
+あなたも、すごくかっこいいと思うし……。","而且能这么自然地说出这种话的你，
+我也觉得特别帅气哦……",translated,依恩,0e4eb4e8b7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#25#12,えへへ、素敵な旦那様で嬉しいな。,嘿嘿，能有这么好的老公真让人开心。,translated,依恩,8e9d565624,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#30#12,"……それにしても、何だかあなたと一緒に
+いると、パーツが霞んで見える気がするよ。","……不过话说回来，总觉得和你在一起时，
+连零件看起来都黯然失色了呢。",translated,依恩,28f4de195b,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#31#12,"前のわたしだったら、質の悪い真空管や、
+珍しいネジ一本見つけるだけでも大騒ぎ
+だったかもしれないけど……。","要是换作以前的我，哪怕只是找到
+质量很差的真空管或者一颗少见的螺丝，
+可能都会大惊小怪的……",translated,依恩,d5c4e39eb6,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#32#12,"今は、どんな珍しいパーツよりも、
+あなたの方が素敵に見えちゃうの。","可现在，比起任何罕见的零件，
+你看起来都要迷人得多。",translated,依恩,a1c2d02784,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#33#12,"……端末の外見に見惚れてる、って
+意味じゃないよ？","……我可不是说被终端的外表
+迷得神魂颠倒的意思哦？",translated,依恩,27535e4328,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#34#12,"じっと見てると、ほんわかした温かさを
+感じることができるの。","凝视着它的时候，
+能感受到一种温暖柔和的气息。",translated,依恩,95f517a27d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#35#12,"これって、あなたの温もりを感じ取れてる、
+ってことなのかな？","这应该意味着，
+我感受到了你的体温吧？",translated,依恩,ddd7d32671,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#36#12,"それに夢中になっちゃってるせいで、
+中々パーツに目がいかないの。","正因为沉迷于这个，
+才总是没办法把注意力放到零件上呢。",translated,依恩,da95c58f5a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#37#12,……これはこれで、ちょっと問題かな？,……但这算不算是另一个问题呢？,translated,依恩,6bb80a9d91,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#39#12,パーツ屋ではパーツを見ないと損だよ,来到零件屋不看零件可就亏了哦,translated,,99966acbc9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#40#12,そんなに見てると飽きちゃうよ？,一直这么看着会看腻的哦？,translated,,af3ede2212,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#42#12,えへへ……あなたの言うとおりだね。,嘿嘿……你说得对呢。,translated,依恩,fa077f0de9,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#43#12,"せっかくパーツ屋に来てるんだもん。
+それなら、ここでしかできないようなことを
+して楽しまないと、もったいないよね。","毕竟好不容易来一趟零件屋。
+要是不好好享受
+只有在这里才能做的事，那就太可惜了呢。",translated,依恩,e97a03f6e3,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#47#12,"大切な旦那様なんだから、いくら見てても
+飽きたりなんてしないよ。","你可是我最宝贝的老公，
+不管看多久我都绝对不会看腻的哦。",translated,依恩,23c6881bca,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#48#12,"でも、あなたが不安になるんだったら、
+今日は大人しくパーツの方を眺めることに
+するよ。","不过，既然你会觉得不安，
+那我今天就乖乖地
+只看零件好啦。",translated,依恩,cc89faee4e,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#49#12,"旦那様を気遣うのも、立派な奥さんの
+役目だもん。","体贴老公也是
+一个合格妻子的本分嘛。",translated,依恩,2862284c7e,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#51#12,"とはいっても、何かこう、思わず足を
+止めたくなるようなのってあるのかな？","话虽这么说，这里真的会有那种
+让人不由自主停下脚步的东西吗？",translated,依恩,fa5728cac7,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#52#12,"パッと見た感じ、大量生産されてる物や、
+見るからに壊れてるジャンク品くらいしか
+置いてないような気が……。","乍一看过去，感觉摆着的
+尽是些量产货，或者一看就坏掉的
+报废零件呢……",translated,依恩,7b47a12646,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#53#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#55#12,"あ……あぁっ！！
+こ、これってまさか……。","啊……啊啊！！
+这、这个难道是……",translated,依恩,a6f7b12124,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#56#12,"あの使い道を完全無視して作られた、
+幻のハート型真空管！？","那个完全不考虑实用性而制造出来的，
+传说中的心形真空管！？",translated,依恩,4c4529773d,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#57#12,"……うん、間違いないよ。
+前に雑誌で見たのと同じだもん。","……嗯，绝对没错。
+和我之前在杂志上看到的一模一样。",translated,依恩,12fbda6a09,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#58#12,"わぁ、まさか実物を見る日が来るなんて、
+夢にも思わなかったよ！","哇，真没想到居然能有见到实物的一天，
+我连做梦都没想到过！",translated,依恩,5a70e416a9,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#60#12,どういう物なの？,那是什么东西？,translated,,e7a147a82e,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#62#12,"えっとね、性能は大量生産されてる
+真空管と変わらないんだけど、形が
+ハート型になってる真空管でね……。","那个呢，虽然性能和量产的真空管
+没什么区别，但是形状
+却是心形的真空管哦……",translated,依恩,f408520a4b,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#63#12,"しかも、このハート型を作るのが難しい
+らしくて、容器の大きさが普通の真空管の
+三倍以上もあるの。","而且，据说制作这种心形非常困难，
+外壳大小甚至达到了
+普通真空管的三倍以上。",translated,依恩,0f74f3ccc5,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#64#12,"だから、使おうにも他のパーツと接触して
+まともに使えない、って語り継がれてる
+曰く付きの真空管なんだよ。","所以就算想用它也会碰到其他零件，
+根本没法正常使用，
+是传闻中有这种缺陷的真空管哦。",translated,依恩,9ea8624e1a,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#65#12,"たったの１３８個しか生産されなかった
+って話だけど……まさかこんなところで
+その一つに出会えるなんて……。","据说当时总共只生产了138个……
+真没想到会在这种地方
+遇见其中之一……",translated,依恩,60c86b8309,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#66#12,……これ、買っちゃおうかな？,……这个，我能买下来吗？,translated,依恩,c041ec0875,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#68#12,イオン、ここがどこか忘れちゃった？,依恩，你忘了这里是什么地方了吗？,translated,,a371574104,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#69#12,掘り出し物だ、買っちゃおう！,这可是珍品，买下来吧！,translated,,25bbbe4612,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#71#12,えっ？　……あ、あぁっ！,咦？……啊，啊啊！,translated,依恩,b8741ecff6,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#72#12,"そっか、ここって仮想世界だから、
+買ったとしても持って帰れないんだよね？","对哦，这里是虚拟世界，
+就算买下了也带不回去对吧？",translated,依恩,e4d4faa106,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#73#12,"買う前に気づけてよかったよ。
+そうじゃなかったら、また最初の頃みたいに
+泣くことになってたと思うし。","能在买之前想起来真是太好了。
+要不然的话，
+肯定又会像最初那样哭鼻子了呢。",translated,依恩,40f68cfe2a,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#74#12,"欲しい気持ちに変わりはないけど、
+実物を見れただけで良しとしておくよ。","虽然想拥有的心情还是没有变，
+但能亲眼见到实物我就很心满意足啦。",translated,依恩,c22d799f7b,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#78#12,"そうだよね、こういう掘り出し物は
+見つけた時に買わないと、後で後悔すると
+思うし……。","说得对呢，这种难得一见的珍品，
+不在发现的时候买下来，
+之后肯定会后悔的……",translated,依恩,be162d5dda,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#79#12,"って、ダメだよ。
+ここで買った方が後で後悔することに
+なっちゃうよ。","不对，不行啦。
+在这里买下来的话，
+之后反而会更后悔的呀。",translated,依恩,7b47a7756e,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#80#12,"ほら、ここで買った物は持って帰れないの、
+最初に来た頃に何度も経験してるでしょ？","你看，在这里买的东西带不回去，
+刚来的时候不是经历过好多次了吗？",translated,依恩,a7c0382e25,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#81#12,"久しぶりに浮かれ過ぎちゃったせいか、
+すっかりそのこと忘れてたね。","可能因为久违地太兴奋了，
+把这回事忘得干干净净了呢。",translated,依恩,d79d6242f0,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#82#12,買う前に気づいてよかった……。,能在买之前发现真是太好了……,translated,依恩,d78942dd4a,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#84#12,"ふぅ……今日は久しぶりにはしゃいだから、
+ちょっと疲れちゃったかも。","呼……今天久违地玩得这么嗨，
+感觉稍微有点累了呢。",translated,依恩,274daa3111,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#85#12,そろそろ戻ろうか？,我们差不多该回去了吧？,translated,依恩,44509593cd,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#87#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#88#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents02/parts_s07.txt#94#12,"えへへ、夫婦でパーツ屋巡りするの、
+昔からの夢だったんだ。","嘿嘿，夫妻俩一起逛零件屋，
+是我很久以来的梦想呢。",translated,依恩,3c59edfad3,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#95#12,"今日はその夢が叶ったから、
+すごく嬉しかったよ。","今天这个梦想实现了，
+我真的超级开心的哦。",translated,依恩,08844ecced,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#96#12,"これからも、パーツ屋巡りをしながらの
+デート、沢山しようね。","今后我们也要多多进行
+一边逛零件屋一边的约会哦。",translated,依恩,877a88f28a,br=0 nl=1,2,
+inc/event/res/dateevents02/parts_s07.txt#100#14,"夫婦でパーツ屋デート
+するって夢が叶った。
+すごく嬉しい！","夫妻俩一起去零件屋约会的
+梦想实现了。
+超级开心！",translated,,78726ed969,br=0 nl=2,3,
+inc/event/res/dateevents02/parts_s07.txt#101#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

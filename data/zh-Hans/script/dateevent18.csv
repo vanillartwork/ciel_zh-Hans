@@ -1,0 +1,473 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent18/card02.txt#3#12,"あ、それを出したっていうことは、
+早速使ってみたいってことだよね？","啊，你既然把那个拿出来了，
+就说明你想立刻用用看对吧？",translated,依恩,a0536cb437,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#4#12,そのとおりです,正是如此,translated,,f04c362b10,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#5#12,そういうわけではない,倒也不是那个意思,translated,,9e73eaf7fa,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#7#12,そうなんだ。,这样啊。,translated,依恩,2c13fb5706,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#12#12,"それじゃ、ショッピングセンターに行く
+必要があるよね。急になっちゃうけど
+今からちょっとだけ行っちゃおうか！","那就必须去一趟购物中心了呢。
+虽然有点突然，
+我们现在就稍微过去一趟吧！",translated,依恩,65ecedffc4,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#13#12,それじゃ、いつも通りお願いします♪,那么，就照常拜托你啦♪,translated,依恩,b069ebdfb9,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#15#12,とうちゃーく！,到――达！,translated,依恩,c8c922f160,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#16#12,"えっと……とりあえず
+どのお店に行こうか？","那个……总之
+我们先去哪家店看看呢？",translated,依恩,9f7ebeaea3,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#17#12,"考えてみたら、特に買いたいものって
+ないんだけど……。","仔细想想，其实我也没有特别
+想要买的东西就是了……",translated,依恩,48d488a174,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#18#12,"……ま、まあ、とりあえず歩きながら
+色々見てみよ！
+ウインドウショッピングだよ！","……嘛、嘛，总之先边走
+边到处看看吧！
+当作逛街看橱窗啦！",translated,依恩,1852d3bc59,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#20#12,ん～…………。,唔～…………。,translated,依恩,02fb50eaa6,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#21#12,やっぱり、パーツ屋とかは無さそうだね。,果然好像没有零件店呢。,translated,依恩,1658f81a30,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#22#12,"おしゃれでアンティークなパーツばかり
+集めたお店があってもおかしくないと
+思ったんだけどなぁ……。","我还以为就算有专门收集
+各种时尚复古零件的店
+也不奇怪呢……",translated,依恩,45ca3cdb63,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#23#12,"パーツじゃなかったとしても、
+アンティークの機械を取り扱ってる
+お店とかさ。","就算不是卖零件的，
+比如专营复古机械的
+店铺之类的呀。",translated,依恩,1dd73f2874,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#24#12,"例えばほら、蓄音機。
+あれってかなりおしゃれだと思わない？","比如你看，留声机。
+不觉得那东西相当时尚吗？",translated,依恩,887228bcaa,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#25#12,"音質だって最新の装置には無いビンテージ
+感っていうのかな、こう、暖かいような、
+ほっとするような……。","音质也有着最新设备所没有的复古感，
+怎么说呢，感觉暖洋洋的，
+让人心里感到很踏实……",translated,依恩,186f205194,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#26#12,"そう、ちょっと落ち着いてて、
+ノスタルジックな雰囲気がする音だと
+思うの！","对，我觉得是一种很沉稳、
+充满怀旧氛围的
+声音呢！",translated,依恩,c5ee1903b9,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#27#12,"だから蓄音機なんかはおしゃれの仲間に
+入ると思うんだけど……
+そういうの扱ってるお店、無さそうだね。","所以我才觉得留声机也属于时尚范畴，
+不过……
+好像没有卖那种东西的店呢。",translated,依恩,795f404c16,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#29#12,おしゃれとはちょっと違うような……？,感觉和时尚好像不太一样……？,translated,,40b073c543,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#30#12,買う人を選ぶからじゃないかな？,应该是因为受众太小了吧？,translated,,698d0bcbdc,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#32#12,……あ、あれ？おかしかった？,……诶、奇怪？很奇怪吗？,translated,依恩,1dde6a73d5,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#33#12,"わたしは蓄音機って、凄くおしゃれだと
+思ってて、結構憧れてるところあるん
+だけど……。","我一直觉得留声机非常时尚，
+心里其实还挺憧憬的，
+不过……",translated,依恩,949da1c768,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#34#12,"まあ、実際に使うか使わないか、って
+聞かれたら、多分使わないんだけど……。","嘛，要是问我实际上用不用得上，
+大概是用不上的就是了……",translated,依恩,fbf3a7b552,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#35#12,"でも、置いておくだけでも部屋の雰囲気は
+すっごくおしゃれになると
+思うんだけどなぁ……。","但是，光是摆在房间里，
+感觉气氛就会变得
+超级时尚的呀……",translated,依恩,286b906424,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#36#12,"ま、まあ、わたしの趣味がかなり
+入ってるから、あなたがおしゃれじゃ
+ないって言うなら、そうなのかも……。","嘛、嘛，毕竟这也掺杂了我个人的喜好，
+既然你觉得并不时尚，
+或许确实是那样吧……",translated,依恩,9d0fc33a23,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#37#12,……でも、ちょっとだけ残念。,……不过，稍微有点遗憾呢。,translated,依恩,96e1a1179e,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#38#12,"あなただったら、おしゃれだって
+言ってくれると思ってたんだけど……。","我还以为换作是你，
+一定会夸它很时尚的呢……",translated,依恩,6451f9f856,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#39#12,"ま、まあ、個人の趣味だからそれは
+仕方がないよね、えへへ……。","嘛、嘛，个人喜好不同这也是
+没办法的事嘛，嘿嘿……",translated,依恩,4d06ccdf77,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#42#12,そっか、確かにそれはあるかもしれないね。,这样啊，确实可能会有这种原因呢。,translated,依恩,75781e1d23,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#43#12,"主流がテープやＣＤなのに、レコードを
+聴くって人はそんなに多くないよね。","现在的主流都是磁带和ＣＤ，
+听黑胶唱片的人确实没有那么多呢。",translated,依恩,b492a5aa2d,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#44#12,"最新の流行曲を中心に聞く人にとっては、
+インテリアとしてしか使い道が無いし。","对于主要听最新流行歌曲的人来说，
+也就只能买来当作室内装饰了。",translated,依恩,a639fa4fbd,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#45#12,"考えてみたら、わたしもレコードなんて
+持ってないから、買ってもインテリアに
+使うしかないんだよね……。","仔细想想，我连一张黑胶唱片都没有，
+就算买了也只能当作室内装饰
+摆着呢……",translated,依恩,5d61a8eaab,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#46#12,"うーん……インテリアとして使うなら、
+レプリカでも悪くないんだけど……。","唔～嗯……如果只是当作室内装饰，
+买个仿制品其实也不错……",translated,依恩,65c8e59560,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#47#12,"レプリカすら売ってなさそうだね……。
+うぅ、持って帰れないのはわかってるけど、
+一度買ってみたかったなぁ……。","不过好像连仿制品都没得卖呢……
+呜呜，虽然明知道带不回去，
+但真想买一次试试看啊……",translated,依恩,9eb9dc7e67,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#49#12,"……って、ちょっと長々と
+話し過ぎちゃったね。","……话说回来，
+我不小心聊得太久了呢。",translated,依恩,922feb8943,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#50#12,"今日はお買い物をするのが目的なんだから、
+早く何か買わないといけないのに。","今天的主旨明明是来买东西，
+必须快点买点什么才行呢。",translated,依恩,ac4b0ece12,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#51#12,でも、本当に何を買えばいいのかな？,可是，到底买什么才好呢？,translated,依恩,7e283b82b0,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#52#12,"思い切って、おしゃれ過ぎて何が何だか
+わからないようなものを買ってみる、
+っていうのもいいかもしれないけど……。","索性买一个因为太前卫时尚、
+导致完全搞不懂是什么的东西，
+或许也挺不错的，不过……",translated,依恩,769edaf2fd,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#53#12,"でも、何が何だかわからないものを
+買って、それがポイントになるのも
+複雑な気分になりそうだよね……。","不过，买了连自己都搞不懂的东西，
+然后还因此累积了点数，
+总觉得心情会变得很复杂呢……",translated,依恩,e430fc0ac3,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#54#12,"アレを買った時にこれだけポイントが
+付いたんだよね～。","买那个东西的时候
+积了这么多点数呢～",translated,依恩,d2da895770,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#55#12,"でも、アレって結局何をするための
+モノだったんだろうね～。","可是，那个东西到底是为了做什么
+才被制造出来的呢～",translated,依恩,728a5fdd38,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#56#12,"なんて、ポイントと一緒に謎まで
+残ることになっちゃいそうで。","像这样，感觉除了点数之外，
+连谜团都会一起留下来呢。",translated,依恩,ba504a7718,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#57#12,"やっぱり、おしゃれでも奇抜過ぎない
+物を買うのが一番だよね。","果然，即使要追求时尚，
+买不会过于奇特的东西才是最好的呢。",translated,依恩,d3f665514f,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#58#12,だとすると……。,这么说来的话……,translated,依恩,59cd2a0b3a,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#60#12,服なんてどうかな？,衣服怎么样呢？,translated,,9564170f41,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#61#12,宝石を買ってポイントを沢山貰おうよ,买宝石拿大笔点数吧,translated,,adecf908d0,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#63#12,ふ、服かぁ……。,衣、衣服啊……,translated,依恩,578e659f5f,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#64#12,"確かに無難だけど、お店に入るのに
+少し勇気がいるね……。","确实比较稳妥，但要进那家店
+稍微需要一点勇气呢……",translated,依恩,ae3b025620,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#65#12,"だってほら、やっぱり浮いちゃってたら
+周りからジロジロ見られると思うし。","因为你看嘛，要是显得格格不入的话，
+肯定会被周围的人盯着看的。",translated,依恩,ca1fa9f0ef,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#66#12,"それに、こういうところで売ってる服って
+試着なんてできるのかな？","而且，在这一带卖的衣服，
+真的能试穿吗？",translated,依恩,7ffeb0a3d9,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#67#12,"高いから試着はできません、とか
+言われたらどうしよう？","要是被对方说“太贵了不能试穿”
+可怎么办才好呢？",translated,依恩,6c5c0e1b03,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#70#12,ほ、宝石って、ポイント付くのかな？,宝、宝石也会给点数吗？,translated,依恩,f047f4666b,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#71#12,"桁違いに高い物を買ったら、それだけ沢山の
+ポイントがついちゃうんだよ？","要是买了贵得离谱的东西，
+就会附赠相应大量的点数对吧？",translated,依恩,eff64dfa6f,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#72#12,"だから多分つけてくれないと思うけど……。
+あ、ほら、宝石店が見えてきたよ。","所以我猜大概是不会给的吧……
+啊，你看，看到珠宝店了哦。",translated,依恩,212e9cfcd8,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#74#12,"……あ～、やっぱり。
+入り口に、当店でのお買い物はポイント
+対象外、って書いてあるよ。","……啊～果然。
+入口处写着“在本店消费
+不参与积点”呢。",translated,依恩,eab43347c1,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#75#12,まあ、当然だよね。,嘛，这也理所当然呢。,translated,依恩,e5a9229799,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#77#12,"だとしたら、やっぱり無難なところで……
+服とか、かな？","如果是这样的话，果然还是保险起见……
+选衣服之类的吧？",translated,依恩,4b8fab8cd0,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#78#12,"でもでも、やっぱり慣れてないわたしが
+入ったら凄く浮いちゃいそう……。","可是可是，对于不习惯这种场合的我来说，
+进去肯定会显得格格不入……",translated,依恩,84708909b0,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#81#12,"ううう、どうしよう。
+何だか考えてたらどんどん
+怖くなってきたよぉ。","呜呜呜，该怎么办呀。
+总觉得越想
+就越害怕了啦。",translated,依恩,f5579a8672,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#82#12,"や、やっぱり服はやめて、お茶だけ飲んで
+帰るっていうのはどうかな？","要、要不还是别买衣服了，
+只喝个茶就回去怎么样？",translated,依恩,f65dace6d8,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#84#12,一緒に行くから、勇気を出して！,我会陪你一起去，拿出勇气来！,translated,,79a581313a,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#85#12,一生その服で居るつもり？,你打算一辈子穿这身衣服吗？,translated,,cb6a501f1a,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#87#12,"……そ、そうだね。
+あなたがいるんだから、
+一人でお店に入るわけじゃないもんね。","……也、也是呢。
+因为有你在身边嘛，
+又不是我一个人进店。",translated,依恩,18b90272f5,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#88#12,よ、よし、頑張るよ……！,好、好的，我会加油的……！,translated,依恩,2ab7c3db64,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#91#12,う、うぅーっ！,呜、呜呜――！,translated,依恩,8942c62304,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#92#12,"もぉ、緊張してるだけなんだから、
+もう少し優しさを見せてくれても
+いいじゃない……。","真是的，人家只是太紧张了嘛，
+你就不能稍微对我
+温柔一点吗……",translated,依恩,99f7d394d7,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#93#12,"……ふぅ、わ、わかったよ。
+わたし、がんばる……！","……呼，我、我知道了啦。
+我会加油的……！",translated,依恩,ad5b495cfd,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#95#12,"そ、それじゃ、勇気を出して……
+お店、入るよ！","那、那么，拿出勇气……
+我要进店了哦！",translated,依恩,77b4a35b26,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#97#12,ふぅ～、ただいまぁ。,呼～我回来啦。,translated,依恩,e526978d94,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#98#12,"最初は緊張したけど、お店に入ってみたら
+意外と平気でビックリしちゃった。","虽然一开始很紧张，但进店之后
+意外地发现没想象中那么难，真吃惊呢。",translated,依恩,768006a82a,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#99#12,"それに、沢山高い服を試着することも
+できて、もう大満足。","而且，还试穿了好多高档的衣服，
+已经超级满足啦。",translated,依恩,80a378deef,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#100#12,"えへへ、スタイルがいい、ってお店の人に
+褒められちゃったし。
+気分良くなって、ちょっと買い過ぎたかも。","嘿嘿，店员还夸我身材风格好呢。
+心情一好，
+不知不觉可能买得有点太多了。",translated,依恩,b6022a5771,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#101#12,"お店にとっても、わたしにとっても
+幸せいっぱい！","对店家来说，对我来说，
+都是幸福满满！",translated,依恩,6a1e50b231,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#102#12,"おまけにポイントも入っちゃって
+言う事なしだね！","顺带还拿到了点数，
+真是无可挑剔呢！",translated,依恩,5d67a25081,br=0 nl=1,2,
+inc/event/res/dateevent18/card02.txt#103#12,"これで今度ポイントカードを作った時、
+自動的に今日の買い物分のポイントが
+加算されるようになってるはずだよ。","这样一来，下次制作积分卡的时候，
+应该就会自动把今天购物的点数
+添加进去了才对哦。",translated,依恩,6e29138af5,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#104#12,"今度ショッピングセンターに行く時も、
+またポイントカードを持って
+お買い物をしようね。","下次再去购物中心的时候，
+我们也要带上积分卡
+一起去买东西哦。",translated,依恩,58cfb7d423,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#105#12,それじゃ、今日はすっごく楽しかったよ！,那么，今天玩得超级开心哦！,translated,依恩,734a87e9f6,br=0 nl=0,1,
+inc/event/res/dateevent18/card02.txt#108#14,"物は持ち帰れないけど
+カードで買い物気分♪
+また行きたいな～♪","虽然东西带不回去，
+但用卡片享受了购物的氛围♪
+还想再去呀～♪",translated,,dcf56806f3,br=0 nl=2,3,
+inc/event/res/dateevent18/card02.txt#109#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent18/card03.txt#3#12,"あっ、ポイントカードだ。
+この前の買い物はすごく楽しかったよね？","啊，是积分卡。
+上次去买东西真的好开心对吧？",translated,依恩,0fc2751067,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#4#12,"もしかして、またショッピングセンターに
+行ってみたいのかな？","难道说，你还想再去一次
+购物中心吗？",translated,依恩,5b9d583c91,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#5#12,行ってみたい,我想去看看,translated,,e3271cccc0,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#6#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#8#12,むー、つまんない……。,唔――真无聊……,translated,依恩,e31c944a39,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#13#12,本当！？,真的吗！？,translated,依恩,d27e7076a7,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#14#12,"それじゃ、早速出発しよ。
+今日はどこを見に行こうかなぁ？","那么，我们赶快出发吧。
+今天要去哪里逛逛呢？",translated,依恩,27d12a9cb7,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#16#12,"う～ん、やっぱりこれだけお店があると
+迷っちゃうよね。","唔～嗯，果然有这么多店铺的话，
+就会挑花眼呢。",translated,依恩,0f73a4fcfc,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#17#12,どこを見るかは、歩きながら決めようよ。,逛哪里就边走边决定吧。,translated,依恩,8f42400b65,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#19#12,"……そういえば、最初にここに来た時は
+おしゃれな雰囲気に圧倒されて、
+ビクビクしちゃってたよね。","……说起来，最初来这里的时候，
+我还被过于时尚的氛围所震撼，
+吓得胆战心惊的呢。",translated,依恩,18591a2edb,br=0 nl=2,3,
+inc/event/res/dateevent18/card03.txt#20#12,"それがこうして普通に見て周れるように
+なったなんて、ちょっとビックリだよ。","如今居然能够像这样神态自若地逛街，
+还真让人有点吃惊呢。",translated,依恩,3fbaddec90,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#22#12,イオンもすごくおしゃれになったよ,依恩也变得非常时尚了哦,translated,,a4bccd754e,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#23#12,さすがに何回も来て慣れちゃったね,毕竟来了那么多次也习惯了呢,translated,,006d3fb890,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#25#12,も、もぉ、おだてても何も出ないよ？,真、真是的，就算奉承我也不会给你好处哦？,translated,依恩,e839259ccd,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#26#12,"……でも、そう言ってもらえると
+嬉しいかも。","……不过，你能这么说
+我还是挺开心的哦。",translated,依恩,75165db0a3,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#30#12,"気軽に、とはいえないけど、ビクついたり、
+緊張したりはもうしないよ。","虽然谈不上十分轻松，但也不会再
+战战兢兢或者紧张过度了哦。",translated,依恩,650c57c471,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#33#12,"あれ？
+あそこのお店のショーウインドウ……。","咦？
+那家店的橱窗……",translated,依恩,8ec6c1cd19,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#34#12,"わぁ、何か流行最先端って感じの
+おしゃれな服だよ。","哇，看起来好有潮流最前线风格的
+时尚衣服哦。",translated,依恩,c4c7a432cd,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#35#12,"若い子向けのデザインみたい。
+わたしはあまり着ないデザインかも。","好像是面向年轻女孩的设计呢。
+可能是我平时不太会穿的设计风格。",translated,依恩,9b657629d4,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#37#12,……でも、何だかすごく惹かれる気がするの。,……不过，总觉得非常吸引人呢。,translated,依恩,5efd17395f,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#38#12,"いつもはこういう服を見ても、
+何とも思わないのに……。","明明平时看到这种衣服，
+心里都不会泛起什么波澜的……",translated,依恩,91f062a846,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#39#12,……試着、してみようかな？,……要不要，试穿看看呢？,translated,依恩,013826e135,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#40#12,"でも、やっぱりわたしには似合わない
+気もするし……。","不过，总觉得自己果然还是
+穿不惯这种风格呢……",translated,依恩,6bd91fd8ce,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#42#12,最初からそんなこと言ったらダメだ,从一开始就说这种话可不行哦,translated,,78828204e5,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#43#12,着るだけならタダだし、気楽に試そう,反正光试穿又不要钱，轻松试试吧,translated,,bf11cb3995,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#45#12,"……そうだよね。
+あなたの言うとおりだよ。","……也是呢。
+正如你所说的那样。",translated,依恩,71b8e318ae,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#46#12,"せっかくここにも慣れてきたんだから、
+もう少しだけ頑張ってみようかな。","难得我都已经习惯这里了，
+就稍微再加把劲挑战一下吧。",translated,依恩,3caa1a996e,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#50#12,"そ、そうだね。
+着るだけならタダだもん。","也、也是呢。
+反正光试穿又不要钱嘛。",translated,依恩,da7e91af70,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#52#12,"そ、それじゃあ、
+何か試着してみるね。","那、那么，
+我就去挑一件试穿看看哦。",translated,依恩,a51ecab255,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#54#12,"う～ん、せっかくだし、ちょっと頑張って、
+いつもと違う服を着てみようかな……。","唔～嗯，难得来一次，稍微努努力，
+试着穿穿和平时风格不同的衣服吧……",translated,依恩,980df18acf,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#56#12,"う～ん……いざ選ぶとなると、
+よくわからないし、これでいいかな……？","唔～嗯……真要挑的时候反而摸不着头脑，
+选这件可以吗……？",translated,依恩,b0fd72d7be,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#58#12,じゃあ、ちょっと行って来るね。,那么，我稍微去去就来哦。,translated,依恩,c80cf3df94,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#60#12,"ただいまー……
+う～、恥ずかしかったよぉ……。","我回来了――……
+呜～好难为情呀……",translated,依恩,fe9d37ef52,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#61#12,"やっぱり、慣れない服を着るのって、
+ちょっと恥ずかしいね。","果然，穿不习惯的衣服，
+稍微会有点害羞呢。",translated,依恩,15d0df06dd,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#62#12,"似合ってるかどうかもわからないから、
+何て言われるかすごくドキドキするし。","因为不知道适不适合自己，
+不知道会被怎么评价，心里超级心跳不已的。",translated,依恩,9076f2e68d,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#63#12,"……でも、個人的にはちょっとだけ
+良いかも、って思っちゃった。","……不过，从我个人来说，
+悄悄觉得其实还挺不错的呢。",translated,依恩,6d4759d91b,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#64#12,"えへへ、今日着たような服を、いつか
+自分で作れるようになれたら嬉しいな。","嘿嘿，如果有一天自己也能做出
+今天穿的那种衣服就好了呢。",translated,依恩,d0f27dd2c8,br=0 nl=1,2,
+inc/event/res/dateevent18/card03.txt#65#12,また一緒に、おしゃれな物を見に行こうね。,下次再一起去看时尚好看的东西吧。,translated,依恩,58830672a9,br=0 nl=0,1,
+inc/event/res/dateevent18/card03.txt#68#14,"今風の服を試着して
+みたけど、少しだけ
+恥ずかしかった……。","试穿了当季流行的衣服，
+不过还是稍微有点
+难为情呢……",translated,,9d280bdb9a,br=0 nl=2,3,
+inc/event/res/dateevent18/card03.txt#69#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent18/card04.txt#1#12,"ネリコポイントカード、
+大分貯まってきてるよね。","妮莉库积分卡，
+已经攒了相当多的点数了呢。",translated,依恩,3f9b7e6f27,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#2#12,"ちょっとショッピングセンターで、
+ウインドウショッピングしに行こっか？","要不要去购物中心，
+逛街看橱窗呢？",translated,依恩,b5b633d35c,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#3#12,行ってみよう,一起去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#4#12,時間がない,没时间,translated,,da61b38cc8,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#6#12,"あらら……じゃあ、あなたが暇な時に
+しようね。","哎呀呀……那就等你
+有空的时候再去吧。",translated,依恩,92bdb8ec87,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#11#12,"何かおしゃれで可愛いものが
+見つかるといいなぁ……。","要是能发现什么时尚又可爱的小物件
+那就太好啦……",translated,依恩,7abe8a42c6,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#12#12,それじゃ、出発しよっか？,那么，我们出发吧？,translated,依恩,3aadd30a75,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#14#12,"さてと、とりあえずお店に服を見に
+行こうかな？","好啦，总之先去店里
+看衣服吧？",translated,依恩,51993f7bae,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#17#12,今日の服、似合ってるね,今天的衣服很适合你呢,translated,,701ec03d36,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#18#12,イオンはここで服のセンスを磨くべき,依恩应该在这里好好磨炼服装品味,translated,,64e4ee34d7,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#20#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#21#12,"そ、そうかな？
+そう思ってくれてるなら、嬉しいよ。","是、是吗？
+你要是这么觉得的话，我很高兴哦。",translated,依恩,d07a5438cc,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#22#12,"やっぱり、ここのおしゃれなお店を
+何度も見に来てるからかな？","果然是因为经常跑来逛这里
+时尚好看的店铺的缘故吧？",translated,依恩,b3c3c7efe0,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#23#12,"気づかない間に、おしゃれが身について
+きてるのかもしれないね。","也许不知不觉间，我也已经
+潜移默化地学会时尚了吧。",translated,依恩,1cb0e52e23,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#24#12,"でも、いきなり服を褒められるなんて
+思わなかったから、ちょっとビックリ
+しちゃったよ。","不过，真没想到你会突然夸奖我的衣服，
+稍微让我有点
+大吃一惊呢。",translated,依恩,801abf5128,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#25#12,"まるで恋愛小説によくある
+デートみたいだね。","简直就像恋爱小说里经常出现的
+约会场景一样呢。",translated,依恩,4ad4afa19d,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#29#12,な、何かすごく失礼なこと言われてる！？,怎、怎么感觉被说了超级失礼的话！？,translated,依恩,fc8676671e,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#30#12,"むぅ……これでもわたしなりに、
+結構頑張っておしゃれしてるんだよ？","唔……就算是我，也是有在按照自己的方式，
+非常努力地追求时尚好不好？",translated,依恩,7eb8e664d8,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#31#12,"今日だって、お店におしゃれな服を
+見に行こうとしてるんだし。","今天也是打算去店里
+看好看的时尚衣服的嘛。",translated,依恩,6fd3c84128,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#32#12,"最初の頃のわたしと比べたら、
+別人と思えるくらい、おしゃれに
+積極的になってると思うんだけどなぁ……。","和最初的我相比，我觉得自己
+追求时尚的积极程度，
+简直就像换了个人似的呢……",translated,依恩,4cbb7c308e,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#33#12,"……でも、いいもん。
+もっと頑張って、あなたにおしゃれだって
+認めてもらえる女性になってみせるよ。","……不过，没关系。
+我会更加努力，成为一个让你认可
+我很有品味的女性给你看的！",translated,依恩,e406964a4f,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#35#12,……あっ、到着したね。,……啊，到地方了呢。,translated,依恩,2d7b575685,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#37#12,わぁ……このブラウス、素敵だよ！,哇……这件衬衫好漂亮啊！,translated,依恩,42828c8ff2,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#38#12,"一見シンプルなのに、洗練されてるから
+大人っぽさを感じるね。","乍看之下很简约，却非常干练洗练，
+能感受到一股成熟大人感呢。",translated,依恩,f0aa449842,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#39#12,"でも、ちょっとこれだとカッチリし過ぎて、
+私服として着るのには向いてないかも……。","不过，感觉这件稍微有点太正经了，
+作为日常私服来穿可能不太合适……",translated,依恩,aef606b0a0,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#40#12,"だとしたら……あっ、向こうに飾ってある
+ワンピースなんかいいかもしれないよ！","既然这样……啊，那边展示的
+连衣裙感觉或许很不错哦！",translated,依恩,3e15ae5add,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#41#12,"色は……黒だと大人っぽくなり過ぎるから、
+もう少し明るい方がいいかな？","颜色的话……黑色的太成熟了，
+稍微亮一点的颜色会不会更好呢？",translated,依恩,d2ac03808d,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#42#12,茶色とかベージュ辺りが良さそうだね。,棕色或者米色附近感觉挺不错的呢。,translated,依恩,6753e46c63,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#44#12,随分積極的になったね,变得相当积极了呢,translated,,32bad54bfd,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#46#12,"さすがに、何回も来てるからね。
+もう最初の頃みたいに気後れはしないよ。","毕竟都来了这么多次嘛。
+我已经不会像最初那样胆怯畏缩了哦。",translated,依恩,441b76d06a,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#47#12,"それに、おしゃれの楽しさっていうのも
+わかってきたから、こうやって見てるのが
+すごく楽しく感じるの。","而且，我也渐渐体会到时尚搭配的乐趣了，
+像这样四处看着挑着，
+真的觉得超级开心呢。",translated,依恩,e8bfe93e28,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#48#12,"この服とこの服を組み合わせて、とか、
+季節とか着ていく場所とかを考えて
+服を選んだりとか……。","想着把这件衣服和那件衣服搭配起来，
+或是根据季节和要去的场合
+来挑选服装……",translated,依恩,018ac2e3bd,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#49#12,"そういうことを考えながら見るのが、
+わたしの楽しみ方なんだ。","一边考虑着这些一边挑选，
+这就是我的逛街乐趣所在啦。",translated,依恩,90985d600b,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#50#12,"……これなら、普通にショッピングを
+楽しんでるカップルに、見えるかな？","……像这样的话，看起来应该就像
+一对普通享受着购物的情侣了吧？",translated,依恩,27ba09ff1e,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#52#12,それ以外には見えないと思うよ,怎么看都只像情侣哦,translated,,5802a5630a,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#53#12,はしゃぐ彼女と、振り回される彼氏だね,欢闹的女朋友和被耍得团团转的男朋友呢,translated,,181547385f,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#55#12,"よかった……ようやく、この場所に
+溶け込むことができた気がするよ。","太好了……总觉得终于能够
+融入到这个地方了呢。",translated,依恩,fcd8e07db1,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#56#12,"慣れてきてはいたけど、おしゃれな場所に
+ちゃんと溶け込んでる自信は、あんまり
+なかったし……。","虽然渐渐习惯了，但要说自己有没有自信
+完全融入这个时尚的场所，
+其实心里还是没太大底气的……",translated,依恩,aa80ffac7d,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#57#12,"でも、あなたがそう言ってくれるなら、
+もうその心配はしなくてすみそうだよ。","不过，既然你都这么说了，
+那我就用不着再担心这些啦。",translated,依恩,010f199f66,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#61#12,"ふふっ、確かに今のわたし達を見たら、
+みんなそう思うかもしれないね。","呵呵，确实要是看到现在的我们，
+大家大概都会这么想吧。",translated,依恩,540fdce99f,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#62#12,でも、それでもいいの。,不过，即便那样也没关系。,translated,依恩,3963b6c702,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#63#12,"だって、大好きな人とのデートなんだから、
+はしゃいじゃうのは当然だもん。","因为这可是和最喜欢的人的约会嘛，
+兴奋得欢闹起来也是理所当然的呀。",translated,依恩,d84964e2db,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#66#12,"さてと……おしゃれな服も結構見れたし、
+今日はそろそろ帰ろっか？","好啦……时尚的衣服也看了不少，
+今天我们差不多该回去了吧？",translated,依恩,53cca074d6,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#68#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent18/card04.txt#69#12,"って、あぁっ！
+ネリコポイントカードのこと、
+すっかり忘れてた！","哎呀，啊啊！
+妮莉库积分卡的事情，
+我完全给忘光了！",translated,依恩,9059aab825,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#70#12,"せっかく持って行ったんだから、
+何か買い物してポイントを貯めれば
+よかったのに……。","明明特地带过去了，
+要是顺便买点什么攒下点数
+该有多好啊……",translated,依恩,c4a13b7c80,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#71#12,"でも、それを忘れるくらい楽しかったん
+だから、文句は言えないか……。","不过，既然能开心到把这个都忘了，
+倒也没什么好抱怨的呢……",translated,依恩,4cba6ad6e3,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#72#12,"今度のデートも、今日くらい楽しめる
+ものにしようね。","下次的约会，也要像今天这样
+玩得开开心心哦。",translated,依恩,36ad0ab829,br=0 nl=1,2,
+inc/event/res/dateevent18/card04.txt#75#14,"ショッピングセンター
+にようやく溶け込める
+ようになったよ。","在购物中心里
+总算能够融入
+那里的氛围了哦。",translated,,a982dafc2d,br=0 nl=2,3,
+inc/event/res/dateevent18/card04.txt#76#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent18/card_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent18/card_int.txt#6#12,"ショッピングセンターに行きたいの？
+んー………どうしようかな…。","想去购物中心吗？
+唔――……该怎么办好呢……",translated,依恩,907b50c0f3,br=0 nl=1,2,
+inc/event/res/dateevent18/card_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent18/card_int.txt#9#12,"ごめんね、今日はショッピングセンターに
+行きたい気分じゃないの。","抱歉哦，今天我没有
+想去购物中心的心情。",translated,依恩,c6c0c98952,br=0 nl=1,2,
+inc/event/res/dateevent18/card_int.txt#10#12,"あそこに行くと凄く疲れちゃって……。
+今日はちょっと疲れ気味だから、
+日を改めようよ。","去那里会觉得好累的……
+今天我感觉稍微有点疲惫，
+我们还是改天再去吧。",translated,依恩,4b207db17c,br=0 nl=2,3,

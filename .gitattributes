@@ -1,0 +1,32 @@
+# The translation data is line-based and diffed constantly; keeping it LF
+# everywhere is what makes a pull request readable. validate.py rejects CRLF.
+# (data CSVs are handled separately below -- they must not be converted)
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+
+# Windows-only build inputs that genuinely want CRLF
+*.nsi text eol=crlf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# Never let git mangle these
+*.png binary
+*.ico binary
+*.g1t binary
+*.pak binary
+
+# The translation tables carry the game's own Japanese, and that text contains
+# CRLF *inside* quoted fields -- the script files use it as a line break within
+# one dialogue box. Git's eol conversion cannot tell that from a record
+# separator and would rewrite it, silently changing the source text and
+# breaking every `src` hash. So: no conversion at all here, but still diff them
+# as text, because a readable diff is the whole point of this format.
+data/zh-Hans/**/*.csv -text diff
+data/glossary/*.csv   -text diff
+
+# A union merge would quietly duplicate ids instead of asking anyone, which is
+# exactly the wrong outcome for these. Let a conflict be a conflict.

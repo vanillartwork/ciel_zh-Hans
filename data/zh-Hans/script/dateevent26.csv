@@ -1,0 +1,416 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent26/pafe02.txt#1#12,"……差し出されてみて改めて思うけど、
+やっぱり大きいよね……。","['……被你拿出来之后我重新端详了一下，', '它果然真的好大呀……']",translated,依恩,55c28defad,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#2#12,"実物もこれくらい大きいのか、
+確かめに行ってみよっか？","['实物是不是也这么大呢，', '我们要不要去确认一下？']",translated,依恩,006738be89,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#3#12,楽しみだ、早く行こう,['好期待啊，快走吧'],translated,,225872ff6e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#4#12,ごめん、今はちょっと……,['抱歉，现在稍微有点……'],translated,,1f139e114b,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#6#12,あらら……。,['哎呀呀……'],translated,依恩,cb9099f171,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#11#12,"うん、やっぱり実物を見ないと、
+ちゃんとできてるかわからないもんね。","['嗯，果然不亲眼看看实物，', '就不知道做得好不好了嘛。']",translated,依恩,fec19064ff,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#12#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#14#12,"さてと、それじゃあ早速メニューを
+確認して、と……。","['好啦，那么赶紧来看看菜单', '确认一下……']",translated,依恩,6b219578b2,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#15#12,"あっ、あったあった！
+よかった、限定ものじゃなかったみたい。","['啊，找到了找到了！', '太好了，看来不是期间限定品呢。']",translated,依恩,e73c9c5052,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#16#12,"もし置いてなかったら、カフェに来た
+意味がなくなっちゃってたところだよ。","['要是菜单上没有的话，特地来', '咖啡馆可就变得毫无意义了呢。']",translated,依恩,d1cffa41f9,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#17#12,"……でも、子供と同じくらいの大きさの
+パフェが運ばれてくるんだよね？","['……不过，端上来的可是', '和小孩子差不多大的芭菲对吧？']",translated,依恩,153da73bf2,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#19#12,目立ちそうだよね？,['感觉会很引人注目呢？'],translated,,e7205d5289,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#21#12,やっぱり、あなたもそう思う？,果然你也这么觉得吗？,translated,依恩,35668af914,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#22#12,"今日も混んでるから、この中で大きな
+パフェを頼んだら……。","['今天店里也很拥挤，要在这么多人面前', '点这么大一份芭菲的话……']",translated,依恩,f638efe631,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#23#12,多分、興味津々で見られちゃうよね？,['大家肯定会饶有兴致地盯着看吧？'],translated,依恩,5db1b19e37,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#24#12,"もしわたしがカフェに来てる時に
+そんなに大きなパフェを頼んだ人がいたら、
+どうしても目がいっちゃうもん。","['要是我在咖啡馆里的时候，', '看到有人点了那么大的芭菲，', '也肯定会忍不住看过去的嘛。']",translated,依恩,89562dee7a,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe02.txt#25#12,"あなただって、お店でそんな大きなパフェを
+食べてる人を見たら、つい見ちゃうでしょ？","['换作是你，看到店里有人在吃', '那么大的芭菲，也会忍不住看过去的对吧？']",translated,依恩,7c05e8c671,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#27#12,他人をじろじろ見るのは失礼だよ,['盯着别人看太失礼了哦'],translated,,a31ed881bf,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#28#12,失礼なのはわかってるけど、見ちゃう,['明知失礼，但还是忍不住看'],translated,,ed2a0d45ba,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#30#12,そ、それはそうだけど……。,话、话是这么说啦……,translated,依恩,94b8ead2b2,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#31#12,"でも、子供の背丈もあるパフェなんて、
+どう頑張っても気になっちゃうよ。","['但是，和小孩子身高差不多高的芭菲，', '无论怎么克制都绝对会在意的好吧。']",translated,依恩,a1b094d0a0,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#34#12,えへへ……やっぱりそうだよね？,['嘿嘿……果然会那样对吧？'],translated,依恩,3b26ac4457,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#35#12,"子供の背丈もあるパフェだもん。
+気にならない方がおかしいよ。","['毕竟可是和小孩子差不多高的芭菲嘛。', '不在意的人才奇怪呢。']",translated,依恩,92685f0e6b,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#38#12,"それに、わたし達の周りに座ってるの、
+みんなカップルばかりだし……。","['而且，坐在我们周围的，', '清一色全都是情侣……']",translated,依恩,2c7b1f0820,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#39#12,"普通の大きさのパフェを食べて……
+あっ、食べさせてあげたりしてる！","['吃着普通分量的芭菲……', '啊，甚至还在互相喂对方吃呢！']",translated,依恩,833fb8b02d,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#40#12,"向こうの人は……一つのジュースに
+ストロー二本挿して飲んでるし……。","['那边的人……在一杯果汁里', '插了两根吸管一起喝呢……']",translated,依恩,9bdec8d5d1,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#41#12,"……何だか、ジャンボパフェを頼むのが
+恥ずかしくなってきたかも。","['……总觉得，要点特大芭菲的话', '稍微变得有点难为情了呢。']",translated,依恩,3c08273ae2,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#42#12,"他にも美味しそうな物はたくさんあるし、
+今日はそっちを注文してみようかな？","['还有好多看起来很好吃的东西，', '今天不如换点别的吧？']",translated,依恩,1b0859a9ea,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#43#12,"パフェは、もっと人が少ない時に
+注文すればいいんじゃないかな？","['芭菲的话，等店里人少一点的时候', '再点不就好了吗？']",translated,依恩,29daebb4e2,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#45#12,自分も一緒だから恥ずかしくないよ,['我也跟你在一起，所以不丢人哦'],translated,,ffbfe4c9ee,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#46#12,でも、凄く美味しそうだよ？,['不过，看起来超级好吃哦？'],translated,,9b4bbf7bef,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#48#12,"そ、そっか……あなたが一緒に
+いてくれるんだよね？","['这、这样啊……有你在身边', '陪着我对吧？']",translated,依恩,4b7eefd612,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#49#12,"それじゃあ、パフェが運ばれて来たら、
+周りの視線が気にならなくなるくらい、
+楽しいお話をしようよ。","['那么，等芭菲端上来之后，', '我们聊些开心的事，', '聊到完全不在意周围的视线吧。']",translated,依恩,075e76351f,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe02.txt#53#12,うん……わたしもそう思うよ。,['嗯……我也觉得肯定很好吃。'],translated,依恩,cb31515f53,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#54#12,"果物に、アイスに、生クリーム……
+美味しくないはずがないもん。","['有水果、冰淇淋、还有鲜奶油……', '怎么想都不可能不好吃嘛。']",translated,依恩,fced5b30a9,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#56#12,"よし、決めた！
+やっぱりここまで来て食べないのは
+勿体無いよ！","['好，决定了！', '都来到这里了却不吃，', '果然太可惜啦！']",translated,依恩,38542575c3,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe02.txt#58#12,それじゃあ、早速注文するね。,['那么，我现在就点单哦。'],translated,依恩,f777ae4e03,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#59#12,"あの、すみませーん！
+注文お願いしたいんですけどー。","['那个，服务员――！', '我想点一下单――']",translated,依恩,cb5bcb2a5e,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#60#12,えっと、このデラックス……。,['那个，这份豪华……'],translated,依恩,20ebba359e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#62#12,"ふ、普通のチョコレートパフェを
+お願いしまーす！","['请、请给我来一份普通的', '巧克力芭菲――！']",translated,依恩,dc8aa83aae,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#64#12,"うぅ～、やっぱり恥ずかしさには
+勝てなかったよ……。","['呜呜～果然还是败给了', '害羞的心理啊……']",translated,依恩,0e81ad8b3c,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#65#12,"注文する直前までは、本当に頼もうって
+思ってたんだよ？","['直到点单的前一秒，', '我都真的打算点那份特大芭菲的哦？']",translated,依恩,a0d23384e7,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#66#12,"でも、ギリギリになったら急に、その……
+恥ずかしくなっちゃって……。","['但到了最后一刻突然，那个……', '变得超级不好意思起来了……']",translated,依恩,7b1c8bb89f,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#67#12,"……でも、今になって後悔してきてるよ。
+うぅ～、せっかくカフェに行ったのに……。","['……不过，事到如今我又后悔了啦。', '呜呜～难得去了一趟咖啡馆……']",translated,依恩,b74bfcbd94,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#68#12,"今度行った時には、到着したらすぐに
+注文することにするよ。","下次再去的时候，我决定一到店里
+就马上点单。",translated,依恩,39beb1c195,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#69#12,"恥ずかしいとか思う前に、
+勢いで注文しちゃえば大丈夫だと思うし。","我想只要在觉得难为情之前，
+一鼓作气点完就没问题了。",translated,依恩,927294b05d,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#70#12,"そんなわけだから、また一緒に
+カフェに付き合ってね。","所以说，下次也要再陪我
+去咖啡馆哦。",translated,依恩,2183c52dd8,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe02.txt#71#12,それじゃ、またね！,那就先这样，回头见啦！,translated,依恩,e06c093649,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe02.txt#74#14,"ＤＸジャンボパフェは
+注文するのに勇気が
+いるメニューだよ。","DX特大芭菲是
+一道需要鼓起勇气
+才能点单的招牌哦。",translated,,b70f6f18cd,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe02.txt#75#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent26/pafe03.txt#1#12,"いつも思うけど……そんなに大きい物を
+よく平然と差し出せるね？","我总在想……那么大的一样东西，
+你怎么能面不改色地拿出来呢？",translated,依恩,cf6abfce8c,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#2#12,"でも、せっかく出してもらったんだし、
+今日もカフェに行ってみよっか？","不过既然你都特意拿出来了，
+今天也去咖啡馆看看吧？",translated,依恩,2fbb20ad15,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#3#12,前のリベンジをしに行こう,去完成上次未竟的雪耻吧,translated,,c45083ac83,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#4#12,ただ出してみただけだよ,我只是拿出来看看而已啦,translated,,28262f46b5,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#6#12,そ、そんな重い物を、そんな理由で……。,那、那么重的东西，居然因为这种理由……,translated,依恩,a0374d7fc3,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#11#12,"うん、今日こそはちゃんと
+注文してみせるね！","嗯，今天我一定要好好
+点出来给你看！",translated,依恩,fa3a9696b9,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#12#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#14#12,さてと、それじゃ早速だけど……。,好啦，那事不宜迟……,translated,依恩,be2a257331,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#15#12,"すみませーん！
+ＤＸジャンボパフェ一つお願いしまーす！","不好意思！
+请来一份DX特大芭菲――！",translated,依恩,10ef793829,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#16#12,"ふぅ……はい、これで注文完了だよ。
+後は待つだけだね。","呼……好啦，这样就点完了。
+接下来只要等着就好。",translated,依恩,7b900c870a,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#18#12,随分あっさり頼んだね？,点得相当干脆利落嘛？,translated,,f58256ba45,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#20#12,前に言ったの、覚えてないかな？,我之前说的话，你难道不记得了吗？,translated,依恩,10bcb65820,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#21#12,"カフェに到着したら、恥ずかしい、って
+思う前に勢いで注文する、って。","就是说到了咖啡馆之后，在觉得害羞前
+借着这股气势一口气点完。",translated,依恩,d14a3c8c82,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#22#12,"でも、予想してたより簡単に言えたから、
+ビックリしちゃった。","不过，居然比我想象的还要容易开口，
+我自己都吓了一跳呢。",translated,依恩,222d30fa27,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#23#12,勢いに任せて注文作戦、大成功だね。,顺势而为的点单作战，大获成功呢。,translated,依恩,f0f6e8b6ec,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#25#12,イオンの発想の勝利だね,这是依昂机智的胜利呢,translated,,b34729cf8d,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#26#12,乱暴な作戦だなぁ……,真是简单粗暴的作战啊……,translated,,7bdd00aab3,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#28#12,えへへ……そう言ってもらえると嬉しいな。,诶嘿嘿……你能这么说我真高兴。,translated,依恩,7720dbbc5d,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#29#12,"ちょっと乱暴過ぎるって言われるかも、って
+心配してたから……。","我也担心过会不会被你说太简单粗暴了……
+所以有点不安……",translated,依恩,c198334a8d,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#33#12,"むぅ、前回の反省を生かした
+いい作戦だと思うのに……。","唔，明明是吸取了上次的教训
+才想出的好作战嘛……",translated,依恩,90d34ca856,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#34#12,ちょっとくらい、褒めてほしかったな……。,好歹也夸我一句嘛……,translated,依恩,4d7f2884bd,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#36#12,"でも、せっかく大きいパフェを頼んだのに、
+わたし一人で食べなくちゃいけないのは
+寂しいかも……。","不过，难得点了这么大一份芭菲，
+却只能让我一个人吃的话，
+未免有点冷清呢……",translated,依恩,3753f85fb2,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#37#12,やっぱり、デートで来てるんだもん。,毕竟，这可是在约会嘛。,translated,依恩,65b570681e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#38#12,"あなたと一緒に、美味しいね、って
+話しながら楽しく食べれたらいいのに……。","要是能和你一起边聊着“真好吃”，
+边开开心心地吃就好了……",translated,依恩,2230ff5c32,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#40#12,食べてるイオンを見てるだけで満足,只要看着依昂吃就很满足了,translated,,03bcc87604,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#41#12,こっちも、何か食べながら見てるよ,我这边也会边吃点东西边看着你的,translated,,be3d782c9a,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#43#12,"た、食べてるところを見られるのって、
+ちょっと恥ずかしいんだけど……。","被、被你看着我吃东西的样子，
+虽然总觉得有点不好意思……",translated,依恩,87311de81a,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#44#12,"でも、わたしが食べているところを見れば、
+あなたも食べた気になれるのかな？","不过，看着我吃东西的样子，
+你是不是也能体会到吃的感觉呢？",translated,依恩,98481a7e44,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#45#12,"それなら、ちょっと恥ずかしいけど……
+見てていいよ。","要是那样的话，虽然还是有点害羞……
+但你可以看着哦。",translated,依恩,c1717c117b,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#48#12,うん、そうしてもらえると嬉しいな。,嗯，你能那样做的话我会很高兴的。,translated,依恩,7ddd78be6e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#49#12,"やっぱり、カフェに来てわたしだけ
+食事するのは、ちょっとだけ申し訳ない
+気持ちになるし……。","毕竟到了咖啡馆只有我一个人在吃，
+心里多少还是会觉得
+有点过意不去……",translated,依恩,24e36f7a34,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#50#12,"それに、あなたも何か食べながらの方が、
+本当にカフェでデートしてる気持ちに
+なれると思うの。","而且，要是你也一边吃着什么的话，
+感觉就更像是在咖啡馆里
+真正地约会了呢。",translated,依恩,85a6bbde53,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#52#12,"……あれ？
+そろそろ来るみたいだよ。","……咦？
+好像差不多要端上来了。",translated,依恩,c7f5251298,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#53#12,"って……えぇっ！？
+それはちょっと、無理があるような……。","等……诶诶！？
+那个样子，未免有点太勉强了吧……",translated,依恩,57fb0a7f1c,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#55#12,どうかしたの？,怎么了吗？,translated,,f0189e2263,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#57#12,"う、うん……ＤＸジャンボパフェを
+ウェイトレスさんが運んできてるん
+だけど……。","嗯、嗯……服务员小姐正在把
+DX特大芭菲端过来，
+可是……",translated,依恩,1ac3b803a8,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#58#12,"お盆に乗せて、普通に持ってこようと
+してるの。","她居然直接放在托盘上，
+打算就这么端过来。",translated,依恩,87fd1418fa,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#59#12,"ああああ、あんなにふらふらして……。
+今にも転んじゃいそうだよ。","哇啊啊啊，晃得那么厉害……
+感觉随时都要摔倒了啊。",translated,依恩,5d67e0b94f,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#60#12,"あ、あの、重いと思うから無理しないで、
+台車か何かで運んでもらっても……。","那、那个，太重的话请别勉强，
+用小推车之类的推过来也可以……",translated,依恩,dcad5b6cec,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#61#12,"って、あ、足元気をつけて！
+そこ、イスの足が！","等、脚、小心脚下！
+那里有椅子的脚――！",translated,依恩,000d316ad2,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#62#12,わわっ、危なーい！,哇哇，危险――！,translated,依恩,4fb6f8646c,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#69#12,"う……うえーん！
+全身パフェ塗れになっちゃったよぉ……！","呜……呜哇――！
+弄得满身都是芭菲了啦……！",translated,依恩,90ab44a695,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#72#12,うっ、ぐすぐす……。,呜、抽泣抽泣……,translated,依恩,1110a210b8,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe03.txt#73#12,"まさか、あんなに大きなパフェを、
+頭に零されるなんて……。","真没想到，那么大一份芭菲，
+居然全倒在我的头上了……",translated,依恩,7de1fb54b7,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#74#12,"現実に戻ってくれば、汚れもすぐに
+消えるけど……やっぱり、精神的な
+ショックは消えないよ……。","虽然一回到现实中污渍就会立刻消失……
+但果然在精神上受到的打击，
+是抹不掉的呀……",translated,依恩,8e30383c62,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#75#12,"今度注文する時は、台車で運んでくるように
+言った方がよさそうだね。","下次点单的时候，看来最好还是
+提醒店员用推车推过来呢。",translated,依恩,061dd2725e,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#76#12,"とにかく、付き合ってくれてありがと。
+今度こそあのパフェを食べたいな……。","不管怎么说，谢谢你陪我来。
+下次一定要尝尝看那款芭菲呢……",translated,依恩,16a58cc03c,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe03.txt#79#14,"頭からパフェを
+被って、全身パフェ
+塗れになった……。","从头顶被泼了一身芭菲，
+浑身都被弄得
+黏糊糊的……",translated,,05dbf9b2f3,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe03.txt#80#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent26/pafe04.txt#3#12,"そういえば、前にカフェに行った時は、
+それを頭に零されたんだっけ……。","话说回来，之前去咖啡馆的时候，
+就是被它浇了一头来着……",translated,依恩,31174c5789,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#4#12,"今日こそはちゃんと食べてみたいな。
+どうかな、今から行ってみない？","今天我一定要好好尝尝看。
+怎么样，现在去看看吗？",translated,依恩,6598e8f820,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#5#12,今度こそ食べよう！,这次一定要吃上！,translated,,36712e88c4,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#6#12,嫌な予感がするからまた今度,我有种不祥的预感，还是下次吧,translated,,c4281b17a3,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#8#12,"そっか……。
+あなたがそう言うなら、また今度ね。","这样啊……
+既然你都这么说了，那就下次吧。",translated,依恩,3b1922d080,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#13#12,うん、絶対に食べるぞ、おーっ！,嗯，绝对要吃到，喔――！,translated,依恩,5c3ea470df,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#14#12,"えへへ、気合も入ったね。
+それじゃ、しゅっぱーつ！","嘿嘿，干劲也提上来了呢。
+那就，出发――！",translated,依恩,6fbf1c9b2b,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#16#12,さてと、それじゃ早速注文しちゃおっか？,好啦，那我们赶紧点单吧？,translated,依恩,b3bbfa768e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#17#12,"すみませーん。
+ＤＸジャンボパフェお願いしまーす！","不好意思。
+请来一份DX特大芭菲――！",translated,依恩,773668d8a8,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#18#12,"あっ、台車か何かでお願いしますね。
+無理しないでいいですから！","啊，请用小推车之类的送过来哦。
+千万不用勉强的！",translated,依恩,28f2e40c7d,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#19#12,"えへへ……さすがに、もう頭からパフェを
+かけられるのはごめんだもん。","嘿嘿……毕竟，我可再也不想
+被芭菲泼得满头都是了。",translated,依恩,764af87e45,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#20#12,"あなただって、デート相手がパフェ塗れに
+なるのは嫌でしょ？","就算是你的话，也不想看到约会对象
+变得一身芭菲吧？",translated,依恩,ff3909c605,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#22#12,面白そうだから嫌いじゃない,感觉挺有趣的，我倒不讨厌,translated,,43d52f7812,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#23#12,デートにならなくなっちゃうしね,那样约会就泡汤了呢,translated,,bca715154e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#25#12,"もぉ、あなたは面白いと思ってても、
+わたしの方はまったく面白くないもん。","真是的，就算你觉得有趣，
+我这边可是一点都笑不出来哦。",translated,依恩,2b76299ef5,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#26#12,"っていうか、妻がパフェ塗れになるのを
+面白そうとか言うなんて、旦那様失格じゃ
+ないのかな？","话说回来，看到妻子弄得满身芭菲
+还觉得有趣什么的，
+作为丈夫可太不及格了吧？",translated,依恩,b36ac3e3cc,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#29#12,"うん……普通のパフェくらいならまだしも、
+名前の通りすごく大きいパフェだから、
+本当に全身汚れちゃうしね。","嗯……普通大小的芭菲倒也罢了，
+可正如它的名字一样是超大号芭菲，
+真的会弄得满身都是脏兮兮的呢。",translated,依恩,52974987e5,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#30#12,"あっ、でも普通サイズでも、頭に零されたら
+その時点でデートは中止だね。","啊，不过就算是普通尺寸，被倒在头上
+那一刻约会也只能中止了吧。",translated,依恩,2bb6a65383,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#31#12,"髪の毛グチャグチャの状態じゃ、
+雰囲気ぶち壊しだもん。","头发弄得一塌糊涂的样子，
+气氛可全都被毁了嘛。",translated,依恩,30d70cec39,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#34#12,"あっ、早速店員さんが台車を奥に
+運んでいったよ！","啊，店员立刻把推车推进后厨了呢！
+动作真快！",translated,依恩,9e3969710b,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#35#12,とりあえず、これなら一安心だね。,这样一来总算是可以放心了呢。,translated,依恩,233f8cf091,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#36#12,"早く来ないかなぁ……。
+ふふっ、今から楽しみだよ。","怎么还不端上来呀……
+呵呵，我现在就开始期待了。",translated,依恩,626c6d9624,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#38#12,今更だけど、あの量食べきれるの？,事到如今才问，你真吃得下那么多吗？,translated,,e43049ba5c,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#40#12,"えっ？
+……あ、あぁっ！！","诶？
+……啊、啊啊――！！",translated,依恩,9cd375d7d9,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#41#12,"そうだよ、普通に考えたらあんなに大きな
+パフェ、一人で食べきれるはずないよ。","对哦，仔细想想那么大的芭菲，
+怎么可能一个人吃得完嘛。",translated,依恩,280ef713a3,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#42#12,"誰がどう見ても、一人の人間が食べられる
+許容量を遥かに超えた大きさだし……。","无论谁看，那分量都远远超出了
+一个人类能吃下的极限吧……",translated,依恩,f869ff4078,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#43#12,"どう考えても一人で食べる物じゃないのに、
+そのこと考えないで注文しちゃったよ。","不管怎么想都不是一个人吃的东西，
+我居然完全没考虑到这点就下单了。",translated,依恩,2b92acb2ee,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#44#12,"あんなに大きいパフェなんだから、
+今からキャンセルするのは無理かな？","毕竟是那么大的芭菲，
+现在再取消大概已经不行了吧？",translated,依恩,00660cd3c0,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#45#12,はぁ……どうしよう？,唉……这可怎么办啊？,translated,依恩,ac31c3e179,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#46#12,んっふっふ……お困りのようじゃな。,唔呼呼……看起来遇到麻烦了呢。,translated,妮莉库,f5eb1111ae,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#47#12,"えっ？
+そ、その声は！","诶？
+这、这个声音是！",translated,依恩,87ccff8f7e,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#49#12,"はろう。
+相変わらずラブラブしておるようじゃの。","哈喽。
+你们还是老样子情意绵绵的呢。",translated,妮莉库,f11435ef46,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#50#12,"ね、ねりこさん！？
+どうしたんですか、こんなところで？","奈、奈莉子小姐！？
+你怎么会在这种地方？",translated,依恩,ccfcec8f23,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#51#12,"どうしたもこうしたも、
+ここはカフェじゃぞ？","什么怎么会在，
+这里可是咖啡馆吧？",translated,妮莉库,8a81667b52,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#52#12,"たまには、洒落た甘い物でも食べながら、
+優雅なティータイムを楽しもうと思って
+来たに決まっておるではないか。","我当然是想着偶尔也一边吃点精致甜品，
+一边享受优雅的下午茶时光，
+才特意过来的嘛。",translated,妮莉库,c9b1938ce9,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#54#12,暇だったんですか？,你很闲吗？,translated,,9f038d197c,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#55#12,ねりこさん、こういうお店来るんだ？,奈莉子小姐也会来这种店啊？,translated,,054fc0164e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#57#12,"失礼なことを言うでない！
+やたらとデートをしているお前さん達よりは
+何億倍も忙しいわ！","别说这种失礼的话！
+我可比成天腻在一起约会的你们
+要忙上几亿倍呢！",translated,妮莉库,0664f68c14,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#58#12,"あ、あのぉ……わたしも、そんなに暇って
+わけじゃないんですけど……。","那、那个……我也不是
+闲到那种程度啦……",translated,依恩,1e893aa04f,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#61#12,"うん、わたしもちょっとビックリしたよ。
+ねりこさんって、こういう騒がしいお店は
+好きじゃなさそうに思ってたし……。","嗯，我也稍微吃了一惊呢。
+本来还以为奈莉子小姐
+不太喜欢这种吵闹的店呢……",translated,依恩,517c336f9f,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#62#12,"確かに、この店は若者で溢れておるからの。
+正直言って騒がしくて堪らん。","确实，这家店里全都是年轻人呢。
+说实话吵得我受不了。",translated,妮莉库,6e70b38bbe,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#63#12,"とはいえ、我とて一人のレディじゃ。
+時には無性に甘い物を食べたくなることも
+あるのじゃよ。","话虽如此，老身也是一位淑女。
+有时候也是会按捺不住
+想要吃甜食的心情嘛。",translated,妮莉库,1dd06dad7a,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#65#12,"あっ、そうだ！
+いいこと思いついたよ！","啊，有了！
+我想到了一个好主意！",translated,依恩,f17b6c7b17,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#66#12,"ねりこさん、もしかしてまだ何も
+注文してませんか？","奈莉子小姐，请问你是不是
+还没点单呢？",translated,依恩,0ccac80e74,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#67#12,う、うむ、今来たばかりじゃからな。,唔、唔姆，毕竟老身才刚来呢。,translated,妮莉库,35bebc000d,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#68#12,"それなら、わたしと一緒にパフェを
+食べてくれませんか？","既然这样，能不能和我一起
+吃这份芭菲呢？",translated,依恩,a7f01d62b0,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#69#12,"ＤＸジャンボパフェっていう、一人じゃ
+食べきれない大きいパフェを頼んじゃって、
+困ってたんです……。","我点了一份叫DX特大芭菲的超大芭菲，
+一个人根本吃不完，
+正不知所措呢……",translated,依恩,b2a7935e98,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#70#12,"はぁ……何に困っておるのかと思ったら、
+そんなことであったか。","唉……老身还以为在烦恼什么呢，
+原来就因为这点小事啊。",translated,妮莉库,cebbbbf268,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#71#12,まったく、計画性のない夫婦じゃのぅ……。,真是的，毫无计划性的小两口啊……,translated,妮莉库,e4d9f382bd,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#72#12,うう、申しわけないです……。,呜呜，真是对不起……,translated,依恩,8aac4e983d,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#73#12,"まあ、せっかくカフェに来ておるのだから、
+説教はやめておこう。","算啦，难得来一趟咖啡馆，
+老身就不对你们说教了。",translated,妮莉库,2ef8189449,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#74#12,"それで、ＤＸジャンボパフェというのは、
+あの店員が台車に乗せているあれか？","所以，那所谓的DX特大芭菲，
+就是店员放在推车上的那个吗？",translated,妮莉库,58b7d991da,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#75#12,"え？
+あ、そうです、あれです！","诶？
+啊，是的，就是那个！",translated,依恩,7874112662,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#76#12,"よかった、今回は頭にパフェを零される
+ことはなさそうだね。","太好了，看来这次不用担心
+被芭菲泼一头了呢。",translated,依恩,637b01b5ff,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#77#12,"……一体、お前さん達はどんなデートを
+しておったのじゃ？","……你们两个到底
+在进行什么样的约会啊？",translated,妮莉库,4645b48428,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#78#12,"しかしあの大きさ……んっふっふ、
+これは食べ甲斐がありそうじゃ。","不过看那分量……唔呼呼，
+这可真有吃头呢。",translated,妮莉库,b223ee8c56,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#79#12,それじゃ、協力してくれるんですか？,这么说，你愿意帮忙了吗？,translated,依恩,a1d25bbdc2,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe04.txt#80#12,"うむ、ちょうどおもいきり甘い物を
+食べようと思っていたところであったしの。","唔姆，老身刚才也正想着
+好好大吃一顿甜品呢。",translated,妮莉库,fb6473fd46,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#81#12,"少々量は多いが、二人がかりでならば
+不可能ではあるまい。","分量虽说有点多，但只要合两人之力，
+想必也绝非难事。",translated,妮莉库,9fd550e787,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#82#12,"やったぁ！
+ありがとう、ねりこさん！","太好啦！
+谢谢你，奈莉子小姐！",translated,依恩,4d05b09d82,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#89#12,"う、うわぁ……テーブルの上に載ると、
+大きさが更に増したように感じるかも……。","哇、哇啊……放到桌上之后，
+感觉显得更加庞大了呢……",translated,依恩,d00d7d3519,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#90#12,"気にしては負けじゃぞ。
+さあ、勢いを殺さず一気にかきこむのじゃ！","犹豫就输了。
+来，趁着这股势头一口气消灭它！",translated,妮莉库,34b9b2008f,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#91#12,"は、はい！
+いただきまーす！","好、好的！
+我开动啦――！",translated,依恩,63f46ae9ef,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#94#12,"う、うぅ～……ふ、二人でもあの量は、
+明らかに多過ぎだったみたい……。","呜、呜呜～……两、两个人吃那分量，
+也明显还是太多了呀……",translated,依恩,7baebf07dd,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#95#12,"仮想空間で食べた物なのに、まだ胃の中に
+残ってるような感じがしてるよ。","明明是在虚拟空间吃的东西，
+现在却还感觉全积在胃里呢。",translated,依恩,6ad75df055,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#96#12,"……あれは、友達が大勢いる時に、
+みんなで食べるものだね。","……那种东西，果然还是要在朋友很多时，
+大家一起分着吃才对呢。",translated,依恩,85ee5e9440,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe04.txt#97#12,"あなたと、本当にカフェデートする日が
+来たら、その時は普通のパフェを食べる
+ようにするよ。","等真正能和你一起去咖啡馆约会的那天，
+到时候我一定会乖乖
+点普通的芭菲吃的。",translated,依恩,e7fd19d615,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#98#12,"今日は付き合ってくれてありがと。
+今度は、二人きりのデートができると
+いいね。","今天谢谢你陪我出来。
+要是下次能享受属于我们两人的约会
+就好啦。",translated,依恩,560d1ad9a6,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#101#14,"わたしより沢山食べた
+ねりこさんが、意外と
+平然としてて驚いた。","吃了比我还多的奈莉子小姐，
+居然还是一副若无其事的样子，
+真让人吃惊。",translated,,4f0b47bdca,br=0 nl=2,3,
+inc/event/res/dateevent26/pafe04.txt#102#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent26/pafe_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe_int.txt#6#12,"カフェに行きたいの？
+んー………どうしようかな…","想去咖啡馆吗？
+嗯～……该怎么办好呢……",translated,依恩,834b4df2ce,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent26/pafe_int.txt#9#12,"それを見ると、カフェに行きたいなぁ、
+って思うけど……今日はパスかな？","一看到那个，确实会觉得很想去咖啡馆，
+不过……今天就算了吧？",translated,依恩,3b703234e0,br=0 nl=1,2,
+inc/event/res/dateevent26/pafe_int.txt#10#12,日を改めて、また行こうね。,改个日子我们再去吧。,translated,依恩,a5333f6eb7,br=0 nl=0,1,

@@ -1,0 +1,3372 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateromevent/de01_01.txt#6#12,邪魔するぞ～。,打扰啦～。,translated,妮莉库,c6c29684cb,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01.txt#7#12,"いやはや、この仕事も楽じゃないのう。
+まあ、お前さんの仕事には負けるが…。","哎呀呀，这份差事也挺不容易的呐。
+不过嘛，比起你小子的工作还是差了点……。",translated,妮莉库,8a5cf69daf,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01.txt#8#12,"どうかの？
+ちゃんと生きとるか？","怎么样啊？
+你小子还好好活着吗？",translated,妮莉库,0f657d0e5a,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01.txt#9#12,"そっちの世界で死んでいたり
+せんじゃろな？　むふふ…。","该不会在那边的世界已经死翘翘了吧？
+唔呵呵……。",translated,妮莉库,036f9ab398,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01.txt#10#12,こら、生きておるなら返事をせい。,喂，要是还活着就吱个声嘛。,translated,妮莉库,7934dc19fd,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01.txt#13#12,せっかく出てきてやったのじゃ。,老身可是难得特意跑来一趟呢。,translated,妮莉库,351c6efe25,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01.txt#14#12,"…ふむ。
+本当に生きておらんのか、
+それとも端末が壊れたか……。","……唔。
+是真的一命呜呼了呢，
+还是说终端坏掉了呢……。",translated,妮莉库,08093825e7,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01.txt#17#12,"…まあ、仕方ない。
+別に今、どうこうする事はないからの。","……嘛，拿你没办法。
+反正眼下老身也没什么非做不可的事。",translated,妮莉库,ec88f0a633,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01.txt#20#12,また日を置いて来てみるとするか。,还是过两天再来看看吧。,translated,妮莉库,9208a4bf4d,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#1#12,<CLBU>おーおー、生きておったか。,<CLBU>哎呀呀，原来还活着呐。,translated,妮莉库,521e1a9d36,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de01_01t.txt#2#12,"むっふっふ…
+そっちの世界では元気でやっとるか？","唔呵呵……
+在那边的世界过得挺有精神的嘛？",translated,妮莉库,da136fe75a,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#3#12,"この間やった仮想世界のカードは
+なかなかのもんじゃったろう？","前阵子给你的虚拟世界卡片，
+感觉相当不错吧？",translated,妮莉库,121fc3f600,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#4#12,とうだいもりと超エンジョイしてるかの？,有没有和灯塔守好好享受一番呐？,translated,妮莉库,0220187dd1,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#5#12,もちろん,那当然,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#6#12,まだ足りない,还不够过瘾,translated,,142fda2412,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#8#12,"そうかそうか。それは良かったわ。
+それでこそ譲った甲斐があったという
+ものじゃ。","这样啊这样啊。那可真是太好啦。
+这样一来老身也不枉
+特意割爱让给你小子了呐。",translated,妮莉库,077590d93e,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#11#12,"むっふっふ！
+お前さん、実はかなり精力満点と見たぞ。","唔呵呵！
+依老身看，你小子其实相当精力旺盛呐。",translated,妮莉库,07fa24fa63,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#12#12,"あいや、みなまで言うでない！
+あやつには、お前さんくらいアグレッシブ
+なのが一緒にいるのが一等じゃ。","哎呀，你什么都不必多说！
+那丫头身边，就得有你小子
+这么有进攻性的人陪着才最好呐。",translated,妮莉库,45a9f06817,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#14#12,"そんなお前さんに、今日は新しいカードを
+持ってきてやったのじゃ。","冲着你小子这份劲头，老身今天
+又特地给你带了张新卡片来哦。",translated,妮莉库,86746044f4,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#15#12,今度のカードが何かじゃと？,你问这次的新卡片是什么内容？,translated,妮莉库,1bb063f0af,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#17#12,"それは、お前さんにとってはまあ…
+ごく日常の景色かもしれんなぁ。","对你小子来说，嘛……
+可能也就是极为平常的日常光景吧。",translated,妮莉库,dd2c5c02f6,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#18#12,"昨日も今日も、当たり前のように
+行ってるかもしれん。","无论是昨天还是今天，
+你或许都理所当然地去过呢。",translated,妮莉库,997f939e04,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#20#12,"それは、お前さんにとってはまあ…
+ちょっと甘く切なくほろ苦い、
+のすたるじっくな場所かもしれんなぁ。","对你小子来说，嘛……
+大概是个有点酸甜交织、略带苦涩，
+令人怀念的地方吧。",translated,妮莉库,9475896182,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#21#12,"まあ、お前さんの人生によっては、
+トラウマになっておって、二度と行きたく
+ない場所かもしれんがの。むっふっふ…。","嘛，根据你小子的人生经历，
+也可能是让你满是心理阴影、
+这辈子都不想再去的地方呐。唔呵呵……。",translated,妮莉库,0561769b54,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#23#12,"それでも、あやつにとっては
+重大なキーとなる場所だったりするかも
+しれんからな。","不过即便如此，对那丫头来说
+说不定却会成为
+至关重要的关键之地呢。",translated,妮莉库,11148980fe,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#24#12,"一寸バクチかもしれんが…
+たまには劇薬も大事……っと…。","虽然稍微带点赌运气的成分……
+但偶尔下点猛药也是很重要的……嘛……。",translated,妮莉库,0b3be94fb3,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#25#12,おっと、喋りすぎたな。,哎呀，老身多嘴说太多了。,translated,妮莉库,5026c039ff,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_01t.txt#26#12,"まあ、どんな所なのかは
+行ってみてのお楽しみじゃ。","嘛，究竟是个什么样的地方，
+就留着等你亲自去一探究竟吧。",translated,妮莉库,ff8bdd80e0,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_01t.txt#27#12,"またお前さんにセットしておいてやるから
+難しいことは考えずに、とうだいもりと
+超ハッスルしてくるがいいぞ。","老身这就先给你装进终端里，
+别去想那些复杂的弯弯绕绕，
+尽管和灯塔守去尽情嗨皮吧。",translated,妮莉库,42d93edb3c,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#28#12,"さて、と。
+あやつが帰ってくる前に
+退散するとするかの。","那么。
+赶在那丫头回来之前，
+老身就先撤退一步好啦。",translated,妮莉库,1bf6a15ba0,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#29#12,"それじゃ、またの。
+次会う時まで
+しっかり生きているのだぞ。","那么，下次再见啦。
+在下次见面之前，
+你可要好好活下去哦。",translated,妮莉库,1d501c7dbf,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_01t.txt#33#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de01_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#6#12,"これって……
+もしかして、ねりこさんが来たの？","这个是……
+难道说妮莉库小姐来过了吗？",translated,依恩,dbe84ed80f,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#7#12,"…って、聞かなくても
+それ以外に理由なんて無いよね。","……话说回来，就算我不问
+也不会有其他可能了呢。",translated,依恩,b415b0c7f9,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#8#12,それで、今度はどんなカードなのかな？,那么，这次又是怎样的卡片呢？,translated,依恩,34658e4c62,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#9#12,教えてくれなかった,她没告诉我,translated,,872dad260f,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#11#12,"そっか。
+それじゃ……。","这样啊。
+那么……。",translated,依恩,a9c937630d,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#12#12,…行ってみるしかないって事だよねっ♪,……也就是说只能亲自去看看了呢♪,translated,依恩,7078daa26a,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#13#12,"ねえねえ、ちょっとだけ！
+ちょっとだけでいいから、
+今から行ってみようよ？","呐呐，就去一会儿！
+只要一小会儿就好，
+我们现在就去看看好不好？",translated,依恩,5a2a596f5c,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_02m.txt#14#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#15#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#17#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#18#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#19#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#24#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_02m.txt#27#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#28#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#29#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#30#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#31#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#32#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#33#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#34#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_02m.txt#38#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#39#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#40#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#43#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02m.txt#44#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de01_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#17#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#2#12,やさしくしてね♪,要温柔一点哦♪,translated,依恩,53d4119003,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#5#12,ここは……。,这里是……。,translated,依恩,e175b3476f,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#6#12,なんか……変わったところだね。,总觉得……是个好特别的地方呢。,translated,依恩,a111473ff1,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#7#12,"海みたいところだと思ってたから、
+ちょっと驚いちゃった。","本以为会是像大海一样的地方，
+稍微有点吃惊呢。",translated,依恩,6a14cbc42d,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#8#12,けど、なんか見たことが――,不过，总觉得好像在哪见过――,translated,依恩,808121a2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#9#12,ううん、来たことがあるような……。,不对，倒不如说感觉曾经来过……。,translated,依恩,63fe40e541,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#10#12,"もう少し見たら、何か思い出せるかも。
+少し歩いてもみよっか。","再看一会儿的话，说不定能想起什么来。
+我们稍微走一走逛逛看吧。",translated,依恩,55440f73da,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#12#12,人の気配はするけど、なんか静かだね。,虽然能感觉到有人类的气息，却格外安静呢。,translated,依恩,f0a5b12ea5,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#13#12,"もっと賑やかな場所だったような
+気がするんだけど……。","总觉得这里应该是个
+更加热闹嘈杂的地方才对……。",translated,依恩,3636b5f6b7,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#14#12,"壁や床も無機質で冷たい感じだし、
+もしかして楽しい場所じゃないのかな？","墙壁和地板也是冷冰冰的无机质感觉，
+难道说这里并不是什么让人开心的地方吗？",translated,依恩,936660f42b,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#15#12,"う～ん、もう少しで何か思い出せそう
+なんだけど……。","唔～，感觉差一点就能想起来了，
+可是……。",translated,依恩,090c1942d6,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#17#12,学校だと教える,告诉她是学校,translated,,5bef525aec,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#19#12,そ、そうだ、学校！ここは学校だよ！,对、对了，是学校！这里是学校呀！,translated,依恩,c7ded060b7,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#20#12,"もしかして、あなたが知ってる学校も
+こんな感じなのかな？","难道说，你所知道的学校
+也是这个样子的吗？",translated,依恩,0db958b682,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#21#12,……って、あれ？,……诶，等等？,translated,依恩,5b1b3e93b5,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#22#12,"学校だっていうのは分かったけど、
+ここって何をする場所だっけ？","虽然明白这里是学校了，
+可这里到底是做什么的地方来着？",translated,依恩,eccda61a19,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#23#12,"同じような部屋にたくさんの机がある
+みたいだけど……。","好像每个差不多模样的房间里
+都摆放着好多桌子……。",translated,依恩,7976f91726,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#25#12,勉強をするところ,学习的地方,translated,,e1a19b77ca,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#26#12,友達と遊ぶところ,和朋友玩耍的地方,translated,,7b5c849306,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#28#12,あ、それだよ。学校は勉強をするところ。,啊，对呀。学校就是学习的地方。,translated,依恩,3ddaed4fd1,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#29#12,わたしって勉強得意だったのかなぁ？,我以前到底擅不擅长学习呢？,translated,依恩,9499f09671,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#30#12,"もしかしたら機械ばっかり弄ってて
+居眠りとかしちゃってたかも。","说不定我光顾着摆弄机械，
+然后在课堂上打瞌睡也说不定呢。",translated,依恩,fce2603a26,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#33#12,"あ、それいいなぁ。
+わたし友達と遊びたい。","啊，那样真好呀。
+好想和朋友一起玩耍呀。",translated,依恩,3c2ca9ecb5,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#34#12,でも、なにか違うような……。,不过，总觉得好像有哪里不对……。,translated,依恩,0003e11930,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#35#12,う～ん……。,唔～……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#36#12,"あ、そっか。勉強……。
+ここは友達と一緒に勉強するところだよ。","啊，对哦。学习……。
+这里是和朋友们一起学习的地方呀。",translated,依恩,b7d8da3045,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#37#12,"それに、やっぱりあなたの言ったことも
+間違ってない。","而且，果然你刚才说的
+也并没有错呢。",translated,依恩,c3dfb8bc3a,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#38#12,"学校で友達と一緒に遊んだり、
+勉強したりするのは大切なことだもん。","毕竟在学校里和朋友一起玩耍、
+一起学习，都是非常宝贵的事情嘛。",translated,依恩,0ddb6ec17a,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#40#12,でも、なんか不思議だね。,不过，总觉得好不可思议呢。,translated,依恩,7e935ef7f5,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#41#12,"学校を思い出せたってことは、
+同じような場所に行った経験があるって
+ことでしょ？","能回想起学校这件事，
+也就意味着我以前
+去过类似的地方对吧？",translated,依恩,7deeb89cb3,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_03m.txt#42#12,"もしかしたら、わたしの世界のどこかに
+似たような場所があるのかも。","说不定在我的世界里的某个地方，
+也有类似这样的场所呢。",translated,依恩,67eb16f202,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#43#12,機会があったら探してみようかな。,要是有机会的话，真想找找看呢。,translated,依恩,1ac7842ce4,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#45#12,他に何か思い出せる？,还能想起其他什么吗？,translated,,a43b643696,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#48#12,ちょっと待ってね。,稍微等我一下哦。,translated,依恩,861e230a1d,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#51#12,ううん、駄目みたい。,不行，好像想不起来了。,translated,依恩,44c2ffaf80,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#52#12,"ここが学校で、勉強する場所ってこと
+以外は思い出せない。","除了这里是学校、是学习的地方之外，
+其他的一概想不起来。",translated,依恩,2915583641,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#53#12,"お話してたら何か思い出せそう
+なんだけど……。","感觉要是能聊聊天的话，
+说不定还能想起些什么……。",translated,依恩,70c02e3b7c,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#54#12,それはまた今度にしよっか。,那个就留到下次再说吧。,translated,依恩,ef5f4797d0,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#55#12,"きっかけがあった方が
+思い出せると思うし――","我想有契机的话
+应该更容易想起来――",translated,依恩,43863d81fa,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#56#12,そのときはまた一緒に来てくれる？,到时候你还能陪我一起来吗？,translated,依恩,7418310b78,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#58#12,また一緒に来よう,下次再一起来吧,translated,,34573569f3,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#59#12,イオンのためだから,都是为了依欧恩嘛,translated,,97c4fa380c,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#61#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#62#12,"時間を取らせちゃうかもしれないけど、
+その分、思い出せるように頑張るよ。","虽然可能会耽误你的宝贵时间，
+但我也会努力回想起更多事情的！",translated,依恩,8ab5723d6f,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#63#12,"そしたらきっと、共通の話題ができて、
+もっと楽しくお話できるよね。","这样一来肯定能有共同的话题，
+聊天的时候也能更加开心呢。",translated,依恩,98d4ad9c17,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#64#12,それじゃあ、一回戻ろっか。,那么，我们先回去一趟吧。,translated,依恩,5fdc617809,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#66#12,ただいま～。,我回来啦～。,translated,依恩,c729b204d5,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#67#12,えへへ、学校かぁ……。,诶嘿嘿，学校啊……。,translated,依恩,c095a4a384,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03m.txt#68#12,"これからいろんなことを思い出す
+きっかけになってくれたらいいな。","要是这能成为日后
+回想起各种事情的契机就好了呢。",translated,依恩,fab50e5eb4,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03m.txt#69#12,また一緒に行こうね。約束だよ。,下次还要一起去哦。说好啦。,translated,依恩,25b734ae69,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de01_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de01_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de01_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de01_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01.txt#6#12,邪魔させてもらうぞ。,老身来打扰啦。,translated,妮莉库,4c6993d077,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01.txt#7#12,"ふむ……またおぬし一人だけで
+留守番か？","唔……又是你小子一个人
+在看家吗？",translated,妮莉库,83f8406201,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#8#12,"寂しいのう寂しいのう。
+あやつについていってやればよいものを。","真寂寞啊真寂寞。
+明明跟在那丫头后头一起去就好了嘛。",translated,妮莉库,c376401635,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#9#12,"おっとすまん。
+おぬしは動けないんじゃったな。","哎呀抱歉抱歉。
+老身忘了你小子根本动弹不得呐。",translated,妮莉库,951a8292af,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#10#12,"しかし、留守中の女子の部屋に
+一人でいるというのも、なかなかに
+スリリングではないかの？　くふふ。","不过，独自一人待在
+无人在家的女孩子的闺房里，
+不也相当刺激吗？咕呵呵。",translated,妮莉库,5bbdd6b532,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01.txt#12#12,"……ふむ？
+返事が無いが、どうかしたか？","……唔？
+怎么不吭声，出什么事了吗？",translated,妮莉库,6313057a59,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#13#12,"のう、返事をしてくりゃれ？
+我も一応、か弱い女子でのう……。","喂，好歹回句话呀？
+老身好歹也是个柔弱女子来着……。",translated,妮莉库,3b2bb7aa02,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#14#12,"無視されるのは、一等悲しくて
+切ない気分になるのじゃ……。","被人无视可是最让人感到
+伤心难过的呀……。",translated,妮莉库,ced5c3fed8,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#15#12,……冗談じゃが。,……开玩笑的啦。,translated,妮莉库,19ae51b63f,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01.txt#16#12,"我の冗談など、滅多に聞けるものでは
+ないぞ。","老身的玩笑话，
+平日里可是打着灯笼都难得一听哦。",translated,妮莉库,bb64bfa18f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#17#12,"さあホレ、そろそろ返事をしても良い頃だと
+思わんか？","哎呀来嘛，差不多也该是
+你小子吱个声的时候了吧？",translated,妮莉库,f00060e29e,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01.txt#20#12,"なんじゃ、本当におらんのか。
+では、出直すとするかの……。","搞什么啊，难道真的不在吗。
+那老身改天再来好啦……。",translated,妮莉库,637d3e7c0f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#1#12,<CLBU>おーおー、生きておったか。,<CLBU>哎呀呀，原来还活着呐。,translated,妮莉库,521e1a9d36,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de02_01t.txt#2#12,"しかし、毎度こうしてあやつの
+いぬ間に上がりこむのは、
+少々気が引けるのう。","不过，每次都趁着那丫头不在的时候
+擅自溜进她的屋里，
+多少还是会感到有点不好意思呐。",translated,妮莉库,be7729f201,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01t.txt#3#12,"まるで空き巣にでも入っているかのような
+気分じゃて。","搞得老身好像是在
+入室盗窃一样呢。",translated,妮莉库,e70a03358f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#4#12,ど、どろぼー！,抓、抓小偷啊――！,translated,,a701d7d2fc,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#5#12,金目の物は何もない,这里可没有值钱的东西,translated,,36fdb1d0b9,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#7#12,"盗まれる物もないのに叫ばれても、
+正直困るんじゃがのう。","明明都没东西可偷还大呼小叫的，
+老身着实很为难呐。",translated,妮莉库,0ae365f847,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#10#12,"むっふっふ、おぬしをもらって行く
+という手もあるんじゃがの。","唔呵呵，不过老身也可以选择
+顺手把你小子牵走呐。",translated,妮莉库,5a1595fec2,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#11#12,"あやつ、帰ってきておぬしがいなく
+なっておったら、どれほど驚くかのう？","那丫头要是回来发现你不见了，
+不知该有多吃惊呐？",translated,妮莉库,b458c98f4a,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#12#12,"……まあ、おぬしを盗んだところで
+我には何の得もないが……。","……嘛，不过就算偷了你小子，
+对老身也没半点好处就是了……。",translated,妮莉库,c6e2e5a4b4,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#14#12,"まあ、冗談はこれくらいにして、
+話を進めようか。","嘛，玩笑就开到这里，
+言归正传吧。",translated,妮莉库,bab7d8894a,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#15#12,"今日は恒例の、プレゼントを
+持ってきたのじゃ。","今天老身也照常
+给你带了礼物过来哦。",translated,妮莉库,127b725e8b,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#16#12,ほれ、このカードじゃ。,喏，就是这张卡片。,translated,妮莉库,b07b068890,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#17#12,"これは、あやつにとっては天国とも
+言える場所であることは間違いない
+はずじゃ。","这里对那丫头来说，
+毫无疑问绝对称得上是天堂。
+老身敢打包票。",translated,妮莉库,7b302b4352,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01t.txt#18#12,ただ、問題がないわけでもない。,只是，也并非完全没有问题。,translated,妮莉库,36c1502f9a,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#19#12,"下手をすれば、あやつ……
+暴走をするかもしれん。","搞不好的话，那丫头……
+说不定会彻底暴走哦。",translated,妮莉库,b226cf390a,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#20#12,"暴走といっても、暴れたり騒いだりする
+わけでは……。","虽说暴走，但倒也不是说
+会胡闹撒泼……。",translated,妮莉库,a641d9cb31,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#21#12,……いや、騒ぎはするかもしれんのう。,……不，大吵大闹倒也说不定呐。,translated,妮莉库,42979fa745,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#22#12,"まあ、あやつにもそういう一面があると
+いうのを、おぬしも知っておいた方が
+良いじゃろうからの。","嘛，让你小子知道知道
+那丫头也有这样的一面，
+倒也是件好事呐。",translated,妮莉库,24220be82a,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01t.txt#23#12,"だが、向こうの世界のモノを、
+こちらに持ち帰ることは出来んぞ。","不过，那边的世界里的东西，
+可是绝对带不回这边的哦。",translated,妮莉库,34c29f27eb,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#24#12,それだけは、忘れてはならんからの。,唯独这点，你可千万不能忘记。,translated,妮莉库,e0802948fc,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#25#12,"あやつのことじゃ、何も持ち帰ろうと
+せずにいられるわけがない。","以那丫头的性子，
+绝不可能什么都不打算带回来的。",translated,妮莉库,94fa4f7734,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#26#12,"おぬしがしっかりと、止めてやらんと
+いかんぞ。","你小子可得好好
+替老身拦住她才行哦。",translated,妮莉库,3bcb2f718c,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#27#12,……あやつを、悲しませたくはなかろう？,……你也不想让那丫头伤心难过吧？,translated,妮莉库,5e425d47f2,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_01t.txt#28#12,"とにかく、こいつをセットして
+おくからの。
+我の注意、無駄にはせんでくれよ？","总之，老身先把这家伙装好了。
+你可别把老身的叮嘱
+当成耳旁风哦？",translated,妮莉库,1c9d4d4a25,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01t.txt#29#12,"さて、用事は済んだでな。
+我はこの辺りでドロンさせてもらうと
+するかの。","好啦，正事办完了。
+老身差不多
+也该溜之大吉喽。",translated,妮莉库,c8d14c733e,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_01t.txt#30#12,"おぬしもしっかり生きるんじゃよ。
+では、またの。","你小子也给我好好活着呀。
+那么，改天见啦。",translated,妮莉库,df84e8a286,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_01t.txt#34#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de02_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#6#12,これがあるってことは……。,有这个在也就说明……。,translated,依恩,087ed84ae5,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#7#12,"またわたしがいない間に、
+ねりこさんが来たんだ？","在我不在的时候，
+妮莉库小姐又来过了吗？",translated,依恩,f5cf429ee4,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#8#12,"わたしがいる時に来てくれたら、
+お茶くらい入れてあげたのに……。","要是我在的时候过来，
+好歹还能给她泡杯茶喝呢……。",translated,依恩,c50f7ab58a,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#9#12,勝手に入られることに抵抗は？,对她擅自闯进来没有抗拒感吗？,translated,,899ddfca51,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#11#12,"男の人だったら嫌だけど、
+相手はねりこさんだよ？","要是个男人的话我肯定会介意，
+可对方是妮莉库小姐呀？",translated,依恩,32c06ec3a4,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#12#12,"それにちゃんとお土産も置いてって
+くれるんだから、特に抵抗はないよ。","而且她每次都好好留下了伴手礼，
+所以我完全不怎么抗拒啦。",translated,依恩,7fd5c6e886,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#13#12,"それはそうと、これでまた新しい場所に
+行けるんだよね？","闲话暂且不提，有了这个的话
+我们就又能去新的地方了吧？",translated,依恩,bc8583826f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#14#12,早速、今から行ってみようよ！,事不宜迟，我们现在就去看看吧！,translated,依恩,4777dcd1b6,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#15#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#16#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#18#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#19#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#20#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#25#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_02m.txt#28#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#29#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#30#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#31#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#32#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#33#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#34#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#35#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_02m.txt#39#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#40#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#41#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#44#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02m.txt#45#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de02_03.txt#4#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#6#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03.txt#7#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#8#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#10#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03.txt#13#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#14#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#20#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#21#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#22#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#23#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03.txt#25#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#2#12,"どんな世界なんだろう？
+わくわくするなぁ……。","会是怎样的世界呢？
+好期待呀……。",translated,依恩,af6eea763b,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#5#12,"ま、待って！！
+何も言わないで！！","等、等等！！
+什么都先别说！！",translated,依恩,bf8e97f797,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#6#12,……目を瞑っててもわかるよ。,……就算闭着眼睛我也能感觉到。,translated,依恩,2a2099663a,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#7#12,"この喧騒の中に、カチャカチャって
+聞こえる色んな金属音……。","在这片喧嚣之中，传来喀啦喀啦的
+各种金属碰撞声……。",translated,依恩,c80eb07376,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#8#12,それに、この独特の機械臭……。,还有这股独特的机械气味……。,translated,依恩,6058436c0c,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#9#12,確か……確かここは……。,肯定……这里肯定就是……。,translated,依恩,107ff7a842,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#10#12,"……っ！？
+思い出した！！","……咦！？
+我想起来了！！",translated,依恩,ff418fa2e0,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#11#12,"わ、わぁーっ！！
+パーツ屋だぁ！！","哇、哇啊――！！
+是零件店啊！！",translated,依恩,a5956e4ce1,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#12#12,"凄い、凄いよ！！
+数え切れないくらい沢山、
+パーツ屋が並んでるよ！","好厉害，太厉害啦！！
+放眼望去数也数不清的
+零件店整整齐齐排成一排呢！",translated,依恩,11e29bf889,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#13#12,"わたし、こんなに沢山のパーツ屋を
+見るの、生まれて初め……。","我有生以来还是第一次见到
+这么多的零件店……。",translated,依恩,1ce4b64faa,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#14#12,"……あれ？
+でも、何だか見覚えがあるような……。","……咦？
+不过，总觉得好像似曾相识……。",translated,依恩,a216326d24,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#15#12,う～ん……。,唔～……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#16#12,"ま、まあ、とにかく歩いてみようよ。
+何か思い出すかもしれないしね。","嘛、嘛，总之先到处走走看吧。
+说不定还能想起些什么来呢。",translated,依恩,05eff2d530,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#18#12,"わぁ、こんなに古いパーツも
+売ってるんだ？","哇啊，居然连这么老旧的零件
+都在卖吗？",translated,依恩,936eea2d58,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#19#12,"あっ、そっちは新品のばかり
+扱ってるみたい。","啊，那边好像全都是
+在卖崭新的新品呢。",translated,依恩,fc3db2afe3,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#20#12,"ピカピカの外箱が沢山積まれてるよ。
+見てるだけでワクワクしてくるよね。","亮闪闪的外包装盒堆得满满当当的。
+光是看着就让人心里怦怦直跳呢。",translated,依恩,c152ea19ea,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#21#12,"見て見て！
+向こうはジャンクパーツの
+ワゴンセールやってるよ！","快看快看！
+那边正在搞
+废旧零件的花车特卖呢！",translated,依恩,e8d2f6494d,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#23#12,何か思い出せた？,想起什么来了吗？,translated,,82b4687780,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#24#12,楽しそうだね,看起来很开心呢,translated,,085335a3b5,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#26#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#27#12,"……あっ、そ、そうだよね。
+わたし、何か思い出しかけてたんだっけ。","……啊，对、对哦。
+我刚才正快要想起什么来着呢。",translated,依恩,f188ffc393,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#28#12,"えへへ、あまりにも楽しくて、
+つい夢中になっちゃった。","诶嘿嘿，因为实在是太开心了，
+不知不觉就忘乎所以了。",translated,依恩,c87c55f1dc,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#29#12,う～ん、そうだなぁ……。,唔～，该怎么说呢……。,translated,依恩,bd316a2b50,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#30#12,"……多分、パーツ屋に来たことがない、
+ってことはないと思うの。","……我想，我以前绝不可能
+从来没去过零件店的。",translated,依恩,143573d2a9,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#31#12,だって、わたしの趣味は機械弄りだよ？,毕竟，我的兴趣可是摆弄机械呀？,translated,依恩,5080d3c4cb,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#32#12,"それにここに来た時、この独特の臭いは
+パーツ屋だって思い出せたでしょ？","而且刚才一到这里，闻到这独特的味道
+我就立刻想起来这是零件店了对吧？",translated,依恩,cb50997eb5,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#33#12,"だからパーツ屋に通っていたのは、
+間違いないと思うの。","所以我以前经常光顾零件店，
+肯定是千真万确的。",translated,依恩,f0e14295d4,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#34#12,"……その時の記憶がないから、
+絶対、とは言えないけど……。","……虽然因为缺乏当时的记忆，
+不能百分之百断定就是了……。",translated,依恩,00f6214697,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#37#12,"楽しいって言葉じゃ言い表せないくらい
+最高の気分だよ。","这种美妙的心情，
+光用“开心”两个字根本表达不出来呢。",translated,依恩,3bdd17dcbb,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#38#12,わたしって、機械弄りが好きでしょ？,我平时不是很喜欢摆弄机械嘛？,translated,依恩,adc062d30d,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#39#12,"だから、沢山のパーツがあるところに
+来ると、凄くわくわくしちゃうの。","所以一来到零件堆积如山的地方，
+心里就会抑制不住地兴奋起来。",translated,依恩,b8f0ad78c4,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#40#12,"こうやって見ながら、あのパーツと
+あのパーツを組み合わせて、こんなのを
+作りたいなぁ……。","像这样一边看着，一边想着要是能把
+那个零件和那个零件组合在一起，
+做出这么个东西来该多好呀……。",translated,依恩,c39ebfdfd2,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#41#12,"なんて、頭の中で設計図を作りながら
+歩くのが大好きなの。","像这样一边在脑海中绘制着设计图
+一边漫步，我最喜欢了。",translated,依恩,fd706ea99e,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#42#12,"……えへへ、何だか、前にも同じことを
+やったことあるみたいな言い方だね。","……诶嘿嘿，听起来就好像我以前
+也做过一模一样的事情一样呢。",translated,依恩,c72a98f509,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#43#12,"でも、ここに来た時、臭いだけで
+パーツ屋だって当てたでしょ？","不过，刚刚来到这里的时候，
+我光凭气味就猜中是零件店了吧？",translated,依恩,27e251d35c,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#44#12,"それってつまり、前にも来たことがある、
+ってこと……なのかな？","这也就意味着，我以前
+其实也曾经来过……对吧？",translated,依恩,206ea0d5f3,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#45#12,う～ん……。,唔～……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#46#12,"はぁ……ダメみたい。
+やっぱり思い出せないよ。","哈啊……好像还是不行。
+果然还是想不起来呀。",translated,依恩,a922406187,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#48#12,"でも、この場所はわたしの好きな物が
+沢山ある場所でしょ？","不过，这个地方摆满了
+我最喜欢的各种东西对吧？",translated,依恩,c943146aaf,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#49#12,"だから、無意識に言葉にしたり、
+何かのきっかけで色々と思い出せる
+ような気がするの。","所以我总觉得，说不定无意间的一句话、
+或是某种微小的契机，
+就能帮我想起很多事情来呢。",translated,依恩,8e8df64614,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#50#12,"……それに、そうじゃなくても、
+十分に楽しめると思うし。","……而且，就算想不起来，
+我想我也能玩得非常尽兴的。",translated,依恩,b34b926da5,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#51#12,"わたしにとっては、
+天国よりも素敵な場所だよ。","对我来说，
+这里比天堂还要棒呢。",translated,依恩,5fe92cf3d1,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#52#12,えへへ、また近いうちにここに来たいな。,诶嘿嘿，近期我还想再来这里呢。,translated,依恩,08bd8d761e,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#54#12,何か思い出せそうなら,要是能想起什么的话,translated,,433547f49c,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#56#12,うん、それなら大丈夫だと思うよ。,嗯，那我想肯定没问题的。,translated,依恩,911c288bbd,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#57#12,"他の場所だとどうかはわからないけど、
+ここなら自信あるの。","要是换作别的地方我还不太清楚，
+但在这一带我可是很有自信的。",translated,依恩,a319be04f8,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#58#12,"大好きなパーツをきっかけに、
+色々思い出してみせるよ。","我一定会以最喜欢的零件为契机，
+努力回想起各种各样的事情给你看的！",translated,依恩,6dc8f48aa5,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#59#12,……っと、それはそうと。,……啊，闲话先放一边。,translated,依恩,b73bb38696,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#61#12,"えへへ、せっかくパーツ屋に来たのに、
+何も買わないで帰るのはダメだよね？","诶嘿嘿，难得特意来了趟零件店，
+什么都不买就空手而归可不行吧？",translated,依恩,f8123175d7,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#62#12,"やっぱりここに来たなら、
+何か買い物をして帰らないと。","既然都已经来到这里了，
+果然还是得买点东西回去才行呢。",translated,依恩,106f5e2280,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#64#12,イオン、ここで買っても……,依欧恩，就算在这里买了也……,translated,,fd4a2744ad,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#65#12,落ち着いてイオン,冷静点，依欧恩,translated,,623d1c881b,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#67#12,大丈夫、ちゃんとわかってるよ。,没事的啦，我心里有数哦。,translated,依恩,de3122edd9,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#68#12,"いくら嬉しくても、一人で持ちきれない
+量を買ったりはしないから。","就算心里再高兴，我也不会
+买多到一个人根本拿不下的分量的啦。",translated,依恩,64dea67709,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#69#12,"あなたに荷物持ちさせたりしないから、
+安心してね。","我绝不会让你替我拎包当苦力的，
+你就放一百个心吧。",translated,依恩,4864639b51,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#70#12,"さてと、まずは向こうのジャンク品から
+見ていこっと！","好啦，先从那边堆着的废旧零件
+开始淘起吧！",translated,依恩,e73fc4b33f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#72#12,ふ～、ただいまー。,呼～，我回来啦――。,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#73#12,"えへへ、少しだけのつもりだったのに、
+つい沢山買い込んじゃった。","诶嘿嘿，明明本来只打算买一点点的，
+不知不觉就采购了好多呢。",translated,依恩,c8e2294f30,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#74#12,"でも、全部レアなパーツばかり選んで
+買ったんだよ。","不过，我挑的可全都是
+市面上稀有罕见的零件哦。",translated,依恩,3a9d3e968f,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#75#12,"例えば、このヒビの入ってる
+真空管なんか……。","比如说，像这个带有裂纹的
+真空管之类的……。",translated,依恩,ae86ab7878,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#77#12,あ、あれ？,咦、咦？,translated,依恩,e936ef8f7f,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#78#12,"え、えぇっ！？
+な、何で？
+何で買ったものが一つも無いの！？","诶、诶诶！？
+怎、怎么回事？
+为什么买的东西一件都没有了！？",translated,依恩,24c7c0f8a6,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#80#12,持って帰れないからだよ,因为根本带不回来啊,translated,,de66d17fc4,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#81#12,……どうしてだと思う？,……你觉得是为什么呢？,translated,,ba6e0cb13f,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#84#12,"向こうの世界のモノは、
+こっちに持って、帰れない……から？","难道是因为……那边的世界里的东西，
+根本带不、回这边来……吗？",translated,依恩,aca1eb512d,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#85#12,……うっ。,……唔。,translated,依恩,3b539a9202,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#86#12,うわーん！！,呜哇――！！,translated,依恩,2a344baa29,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#87#12,こんなの、こんなの聞いてないよー！,怎么会这样，事先根本没听说过啊――！,translated,依恩,f5e9ed85b9,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#88#12,"グスッ……せっかく……せっかく、
+大好きなパーツ、沢山買える場所を
+見つけたと思ったのに……。","呜呜……明明好不容易……好不容易
+才找到这么一个能买到好多
+最喜欢的零件的地方……。",translated,依恩,e8ec5807ee,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03m.txt#89#12,見るだけで買えない場所なんて……。,只能看却什么都买不了的地方什么的……。,translated,依恩,c70aae5a75,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03m.txt#90#12,"天国かと思ったら地獄でした、なんて
+笑えないよぉ……。","“本以为是天堂，结果却是地狱”，
+这种事情根本让人笑不出来嘛……。",translated,依恩,745ca6984a,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#91#12,"こんな思いするなら、
+もうあの場所には……。","要是会遭这种罪的话，
+我再也不想去那个地方了……。",translated,依恩,1e62eb1c3b,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#93#12,"や、やっぱり、見るだけでも
+いいから行きたいな。","可、可是，哪怕只能看看也好，
+我果然还是想去呢。",translated,依恩,2378c3ecc8,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#94#12,"うぅ、欲しいものがあっても買えないから
+辛くなるのはわかってるのに……。","呜呜，明明心里清楚看到想要的东西
+却买不了会很难过……。",translated,依恩,c7cf491dcf,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03m.txt#95#12,"……でも今は、色んなパーツを見て回れる
+ようになっただけでも、
+ありがたいと思うことにするよ。","……不过现在，光是能到处看一看
+各种各样的稀奇零件，
+我就已经觉得非常值得感激了。",translated,依恩,020686be81,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de02_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de02_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de02_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de02_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01.txt#6#12,"ぼんじゅ～♪　いや、ぼんそわ～、か？
+ねりこさんがきてやったぞ～。","崩纠～♪ 哎不对，该说崩索瓦～吗？
+妮莉库大人特地大驾光临啦～。",translated,妮莉库,e6a2821deb,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#7#12,"しかしあやつはいないときたか……。
+まあ、いつものことじゃが……。","不过那丫头居然又不在家吗……。
+嘛，虽然早就是家常便饭了……。",translated,妮莉库,90999aa969,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#8#12,"用があるのもおぬしじゃし、
+我は一向に構わんがの。","反正老身找的也是你小子，
+老身倒是完全不介意就是了。",translated,妮莉库,61d2fdaed4,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#11#12,まさか、おぬしもおらんのか？,难不成，连你小子也开溜了？,translated,妮莉库,c01c5873bd,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01.txt#12#12,"せっかく土産があるというのに、
+これでは無駄になってしまうのう。","老身特地带了伴手礼过来，
+这样岂不是白跑一趟了呐。",translated,妮莉库,d775160b7f,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#13#12,"……いいものだが、
+欲しくないのかの～？","……这可是难得的好东西哦，
+你难道就不想要吗～？",translated,妮莉库,fdc010de3a,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#16#12,ふむ、本当にいないか。,唔，看来是真的不在啊。,translated,妮莉库,4d356ccf92,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01.txt#17#12,"まあよい、別に今日渡さなければ
+世界が滅びるわけではないしの。","嘛也罢，反正就算今天交不到你手上，
+世界也不会就此毁灭嘛。",translated,妮莉库,30b02c72ea,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01.txt#18#12,"また来るとしようか。
+あびやんと～♪
+……じゃったかな？","那老身还是改天再来吧。
+阿比扬托～♪
+……是这么说的来着吧？",translated,妮莉库,db473bef64,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_01t.txt#1#12,<CLBU>おーおー、生きておったか。,<CLBU>哎呀呀，原来还活着呐。,translated,妮莉库,521e1a9d36,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de03_01t.txt#2#12,"それにしても、あやつは外出する時は
+いつも鍵をかけんのか？","话说回来，那丫头每次出门的时候
+难道从来都不锁门的吗？",translated,妮莉库,7431f446e9,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#3#12,"我としては家宅侵入がラクでありがたいが、
+少々物騒だと思うんじゃがの……？","虽然对老身来说入室方便确实省事，
+但多少还是觉得有点不安全吧……？",translated,妮莉库,6d0b9e2f02,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#4#12,女子の一人暮らし、戸締りは重要じゃぞ。,女孩子一个人住，锁好门窗可是重中之重哦。,translated,妮莉库,fc5d44a6a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#5#12,自分がいるから大丈夫,有我在所以没问题,translated,,08a6e59fb1,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#6#12,ねりこさんくらいしか来ない,会来的大概也就只有妮莉库小姐了,translated,,a6af4d0949,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#8#12,"我に侵入されている時点で、
+説得力なぞ無に等しいわ。","在老身都已经大摇大摆闯进来的当下，
+你这话的说明力根本等同于零好吗。",translated,妮莉库,abcafa4314,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#11#12,"仕様のない奴じゃな。
+では一等構ってやるとするかの。　くふふ。","真拿你小子没办法呐。
+那就让老身好好赏脸陪你聊聊吧。咕呵呵。",translated,妮莉库,dbc2905c73,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#13#12,"我も今日はやることがあるでな、
+さっさと用件を済ませようかの。","老身今天还有别的事要忙，
+就赶紧先把正事办了吧。",translated,妮莉库,778b9baead,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#14#12,"ほれ、今日も新しいカードを持ってきて
+やったぞ。","喏，老身今天也特意
+给你带了张新卡片来哦。",translated,妮莉库,b2a814d643,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#15#12,"新しいデートコースが増えたのじゃ！
+超喜んでよいぞ？　超感謝してよいぞ？","约会路线又增添新选择啦！
+你小子尽管放声欢呼吧？尽管感恩戴德吧？",translated,妮莉库,593374e291,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#16#12,とはいえ、この場所なのだが……。,虽说如此，关于这个地点嘛……。,translated,妮莉库,ef652dc19d,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#17#12,"少々、あやつには不釣合いな場所かも
+しれんでのう。","对那丫头来说，
+可能会是个有点格格不入的地方呐。",translated,妮莉库,ddd06ba02f,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#18#12,"もしかしたら、おぬしにとっても
+それは同じかもしれんが。","说不定对你小子来说，
+也是半斤八两就是了。",translated,妮莉库,24bf616ac0,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#19#12,"まあ、我もそこまで一々考えて
+カードを選びはせんからの。","嘛，老身挑选卡片的时候
+可没心思考虑得那么面面俱到呐。",translated,妮莉库,2927c2dadc,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#20#12,"もしもお互い不慣れな場所だったとしても、
+その時はおぬしがフォローをしてやらんと
+いかんぞ。","就算对你们俩来说都是个陌生不习惯的地方，
+到时候你也必须得
+好好照应着她才行哦。",translated,妮莉库,06e0c8998a,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_01t.txt#21#12,あやつはあれでも女子なのじゃからな。,那丫头再怎么说也是个女孩子嘛。,translated,妮莉库,ca0bcc57f3,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#22#12,エスコートしてやらねばならん。,你可得好好护送引领她才行。,translated,妮莉库,e30c92dc59,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#23#12,"ち、ちなみに、じゃが。
+我も女子……じゃぞ？","顺、顺便一提啊。
+老身也是个女孩子……哦？",translated,妮莉库,9fc06a4568,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#24#12,"そのう……。
+エ、エスコートしてくれても構わんが……
+ど、どうかの？","那个啊……。
+就算你来护、护送老身老身也不介意……
+怎、怎么样啊？",translated,妮莉库,97db9edb09,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_01t.txt#25#12,どこに行きたい？,你想去哪里？,translated,,1a21713776,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#28#12,よもや、ノってくるとは……。,没想到，你小子还真顺杆往上爬啊……。,translated,妮莉库,18f19c4c87,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#29#12,"冗談じゃ冗談じゃ。
+どだい、おぬしにはあやつがおるじゃろに。
+女子とあらばホイホイ手を出すでないわ。","开玩笑的开玩笑的啦。
+归根结底，你小子身边不是有那丫头在嘛。
+只要是女孩子可不能见一个就搭讪一个哦。",translated,妮莉库,8f91b80e70,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_01t.txt#30#12,"……おぬし、どうにも私生活では
+相当な女垂らしのようじゃの？","……依老身看，你在平时的私生活中
+肯定也是个不折不扣的花花公子吧？",translated,妮莉库,801d300bba,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#31#12,"まあ、ここでは程ほどにしておけよ？
+あやつを悲しませたくなかったらの。","嘛，在这里你小子还是收敛一点吧？
+如果你不想让那丫头伤心的话呐。",translated,妮莉库,9c2afdced4,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#34#12,"……なんじゃ、そんなに固まる事はなかろ！
+でりかしーの無い奴じゃな！","……搞什么嘛，用得着整个人僵住吗！
+真是个不懂体贴女人的粗鲁家伙呐！",translated,妮莉库,8da59cb129,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#35#12,"ねりこさんは超ショックじゃ……！
+もう立ち直れん！
+おぬしにいじめられたとチクってやる…！","妮莉库大人受到超级大的打击啦……！
+再也振作不起来了！
+老身要去告状说你欺负老身……！",translated,妮莉库,456b2441c9,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_01t.txt#36#12,……冗談じゃよ。,……开玩笑的啦。,translated,妮莉库,8c920b5c70,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#38#12,"バカ話はこれくらいにしておいて、
+さっさとこいつをセットするかの。","闲扯胡诌就到此为止，
+赶紧先把这家伙给装好吧。",translated,妮莉库,e73130ea34,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#39#12,……うむ、これで良い。,……嗯，这样就好啦。,translated,妮莉库,2e0a1cbf2e,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#40#12,"では、用もすんだことだし、
+我は帰らせてもらうかの。","那么，正事既然已经办完了，
+老身就先告辞喽。",translated,妮莉库,8eda4cf392,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#41#12,"でないと、あやつが帰ってきて
+バッタリ会ってしまうかもしれんからの。","不然的话，那丫头要是回来
+说不定就会和老身撞个正着呐。",translated,妮莉库,59331f7732,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#42#12,こう見えて、我はシャイなんじゃよ。,别看老身这样，老身其实很容易害羞的哟。,translated,妮莉库,e9ce6f5236,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#43#12,無論、これも冗談じゃがの。,当然了，这也是开玩笑的呐。,translated,妮莉库,add8acd372,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_01t.txt#44#12,"では、今度会う時までしっかりと
+生きておるのじゃぞ。","那么，在下次再见之前，
+你可要好好地活下去哦。",translated,妮莉库,fe8bfe107d,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_01t.txt#48#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de03_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#6#12,またねりこさんが来てたんだ？,妮莉库小姐又来过了吗？,translated,依恩,dfccfb836f,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#7#12,"う～ん……ねりこさん、どうしていつも
+わたしがいない時を狙ってくるんだろ？","唔～……妮莉库小姐为什么总是
+专门挑我不在家的时候过来呢？",translated,依恩,5db656d77a,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#8#12,……もしかして、嫌われてるのかな？,……难道说，我是被她讨厌了吗？,translated,依恩,01fa62bcfe,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#9#12,サプライズのつもりじゃない？,也许她是想给你个惊喜吧？,translated,,3746c08d06,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#11#12,"そっか……嫌われてたら、
+わたしに何かをくれようとはしないよね。","这样啊……要是真的讨厌我的话，
+也不会特地送我东西了对吧。",translated,依恩,c9181186ca,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#12#12,えへへ、ちょっと安心したよ。,诶嘿嘿，这下稍微放心了点呢。,translated,依恩,01006f9509,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#13#12,"すっきりしたし、今から早速この場所に
+お出かけしてみない？","心情变舒畅啦，我们现在要不要
+立刻去这个地方看看呀？",translated,依恩,f74670564f,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#14#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#15#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#17#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#18#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#19#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#24#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_02m.txt#27#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#28#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#29#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#30#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#31#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#32#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#33#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#34#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_02m.txt#38#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#39#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#40#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#43#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02m.txt#44#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de03_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#17#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#2#12,"どんな世界なんだろう？
+わくわくするなぁ……。","会是怎样的世界呢？
+好期待呀……。",translated,依恩,af6eea763b,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#4#12,んっ……到着した？,嗯……到了吗？,translated,依恩,fc6c999386,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#6#12,……え？,……诶？,translated,依恩,4e48b2f03b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#7#12,"な、何！？
+このおしゃれなところは！？","什、什么！？
+这个好时髦的地方是哪里呀！？",translated,依恩,7fd9b24eac,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#8#12,"家具屋に、アクセサリーショップに、
+雑貨屋。他にも色んなお店が
+並んでるけど……。","家具店、饰品店、
+杂货铺。排着好多好多
+各种各样的店铺呢……。",translated,依恩,d29043f465,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#9#12,こういう場所、なんていうんだっけ？,这种地方，叫什么名字来着？,translated,依恩,05518ea72b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#10#12,……す、スーパー？,……超、超市？,translated,依恩,bee3a63ac1,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#11#12,"ううん、何か違うよね？
+えっとぉ……しょ、ショなんとか……。","不对，好像不太对呢？
+那个……购、购物什么来着……。",translated,依恩,6aafec7226,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#13#12,ショッピングセンターと教える,告诉她是购物中心,translated,,1f461b3e93,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#14#12,自分で思い出すのを見守る,默默守候等她自己想起来,translated,,2fa5a23d10,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#16#12,"思い出した、それだよ！
+ショッピングセンター！","我想起来了，就是那个！
+购物中心！",translated,依恩,b27ad241f2,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#17#12,"一つの建物の中に、沢山のお店が入ってる
+場所のことだよね？","是指在一栋建筑物里面
+聚集了好多店铺的地方对吧？",translated,依恩,4140e82ceb,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#18#12,……うん、間違いないと思う。,……嗯，我想肯定没错了。,translated,依恩,45c801ae0b,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#19#12,"何故かわからないけど、今の言葉に
+凄く納得してる自分が居るの。","虽然不知道为什么，
+但我发现自己非常由衷地赞同刚才的话。",translated,依恩,4cb5c94773,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#20#12,"これって、もしかして記憶を無くす前に、
+ショッピングセンターに行ったことが
+あるってことなのかな？","这难道说，意味着我在失去记忆之前，
+其实也曾经去过
+所谓的购物中心吗？",translated,依恩,727ce5c029,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#23#12,"しょ、ショップ……。
+ううん、ショッピ……？","购、购物……。
+不对，购物中……？",translated,依恩,84cefdd0e9,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#24#12,あっ、思い出した！！,啊，我想起来了！！,translated,依恩,24b877ed43,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#25#12,"ショッピングセンター！
+一つの建物の中に、
+沢山のお店が入ってる場所だよ！","购物中心！
+是指在一栋建筑物里面，
+聚集了好多店铺的地方呀！",translated,依恩,16a9aed9f3,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#26#12,えへへ、自分で思い出せちゃった。,诶嘿嘿，我自己想起来了呢。,translated,依恩,18bfdb1ccc,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#27#12,"ってことは、記憶を無くす前のわたしは、
+ここに来たことがある……ってこと？","这么说来，失去记忆之前的我，
+难道曾经来过这里……是这样吗？",translated,依恩,48171fdad4,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#29#12,"……ま、まあ、ここでこれ以上話してても
+何も思い出さないよね？","……嘛、嘛，继续站在这里聊天
+也想不出更多东西来对吧？",translated,依恩,6553a2afae,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#30#12,ちょっと、歩いてみようよ。,我们稍微到处走走逛逛吧。,translated,依恩,a0e8446056,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#33#12,"それにしても、おしゃれっていうか、
+高級っぽいお店ばかり目に入るよ。","话说回来，映入眼帘的尽是些
+与其说时髦、不如说显得很高档的店铺呢。",translated,依恩,080f49bdea,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#34#12,"家具屋、雑貨屋、アクセサリーショップ。
+それにほら、向こうの服屋も……。","家具店、杂货铺、饰品店。
+还有你看，那边的服装店也是……。",translated,依恩,0dcfc4606c,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#35#12,"……服屋って感じじゃないね。
+凄くおしゃれなドレスとかばっかり
+並んでるし。","……感觉不太像普通的服装店呢。
+陈列的尽是些
+超级华丽时髦的礼服之类的。",translated,依恩,af21070599,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#37#12,ブティック？,精品服装店？,translated,,d868363aca,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#39#12,"そう、それ！　ブティックだよ。
+服以外にも、服に合わせる宝石とか
+バッグとかも売ってるし。","对，就是那个！是精品服装店。
+除了衣服之外，还卖着搭配服装用的
+珠宝首饰和提包呢。",translated,依恩,7bbfc181a9,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#40#12,"……あんなおしゃれなお店、
+わたし一人じゃ怖くて入れないよ。","……那么高雅时髦的店铺，
+光凭我一个人害怕得根本不敢进去啦。",translated,依恩,afc4821ed9,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#41#12,"っていうより、このショッピングセンター
+全体が、おしゃれ過ぎて……。","不如说，是整个购物中心
+都未免太过于时髦了……。",translated,依恩,0282ee6cbe,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#42#12,なんか、自分が凄く場違いな気分だよ。,总觉得自己在这里显得格外格格不入呢。,translated,依恩,45459d0e23,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#43#12,あなたは、こういう場所慣れてる？,你对这种地方习惯吗？,translated,依恩,b547db5463,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#45#12,慣れてない,不习惯,translated,,ee137cfa32,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#46#12,おしゃれなところ怖い,时髦的地方好可怕,translated,,3ed9514178,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#48#12,そうだよね。,也是呢。,translated,依恩,0f419574c1,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#49#12,"こんなにおしゃれで高級なお店が
+沢山ある場所だもん。","毕竟这里可是有这么多
+既时髦又高档的店铺的地方嘛。",translated,依恩,b3ed088d93,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#50#12,慣れてなくても、おかしくないと思うよ。,就算不习惯，我觉得也一点都不奇怪哦。,translated,依恩,5da7cce3ce,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#53#12,怖いって、さすがにそこまでは……。,说是可怕，倒也不至于到那种地步啦……。,translated,依恩,8c8a25f333,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#54#12,……ううん、やっぱり少しわかるかも。,……不对，我好像多少也能体会呢。,translated,依恩,af4af272cd,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#55#12,"さっきも言ったけど、自分が凄く場違いで、
+周りから変な目で見られてるんじゃないか
+って思うと、ちょっと怖いもん。","就像我刚才说的，觉得自己格格不入，
+一想到会不会被周围人用异样的眼光看，
+就觉得稍微有点害怕呢。",translated,依恩,e3d65821a5,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#58#12,ふぅ……。,呼……。,translated,依恩,a8365b834f,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#59#12,"慣れてないし、緊張し過ぎたせいかな？
+何だか凄く疲れちゃった。","大概是因为不习惯、太紧张了吧？
+不知怎么的觉得好累呀。",translated,依恩,3e4746afbe,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#60#12,今日はそろそろ帰ろ。,今天差不多该回去啦。,translated,依恩,2a0d382192,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#62#12,あ～、家の中って落ち着く～！,啊～，还是呆在家里最安心啦～！,translated,依恩,da2298b5f9,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#63#12,"やっぱり、ああいう場所って
+わたしには合わなそうだよ。","果然，那种地方
+好像跟我不太合得来呢。",translated,依恩,4dea7e1c16,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#64#12,"高級でおしゃれな服とか雑貨って、
+元々よくわからないし。","高档又时髦的服饰和杂货什么的，
+我本来就不是很懂嘛。",translated,依恩,94ebc4aafb,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#65#12,"……でも、せっかく行ける場所が
+増えたんだから、
+行かないのは勿体無いよね？","……不过，难得能去的地方变多了，
+如果一次都不去的话
+岂不是太可惜了吗？",translated,依恩,c9e6903d2b,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03m.txt#66#12,それに、まだ全部を見たわけじゃないし。,而且，我们还没把全部地方都逛完呢。,translated,依恩,29211f69a9,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03m.txt#67#12,"今度時間のある時に、
+ゆっくり見に行こうね。","下次有空的时候，
+我们再悠闲地去逛逛吧。",translated,依恩,ca0110b202,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#68#12,"……ただ、今日みたいに緊張して、
+すぐに帰ってくることになるかも……。","……不过，说不定又会像今天这样太紧张，
+没逛多久就急匆匆打道回府了……。",translated,依恩,7df0f95496,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03m.txt#69#12,そのときはごめんね。,到时候可要向你道歉啦。,translated,依恩,f40900505f,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de03_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de03_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de03_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de03_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#7#12,邪魔するぞ～。,打扰啦～。,translated,妮莉库,c6c29684cb,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#8#12,"いやはや、この仕事も楽じゃないのう。
+まあ、お前さんの仕事には負けるが…。","哎呀呀，这份差事也挺不容易的呐。
+不过嘛，比起你小子的工作还是差了点……。",translated,妮莉库,8a5cf69daf,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#9#12,"どうかの？
+ちゃんと生きとるか？","怎么样啊？
+你小子还好好活着吗？",translated,妮莉库,0f657d0e5a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#10#12,"そっちの世界で死んでいたり
+せんじゃろな？　むふふ…。","该不会在那边的世界已经死翘翘了吧？
+唔呵呵……。",translated,妮莉库,036f9ab398,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#11#12,こら、生きておるなら返事をせい。,喂，要是还活着就吱个声嘛。,translated,妮莉库,7934dc19fd,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#14#12,せっかく出てきてやったのじゃ。,老身可是难得特意跑来一趟呢。,translated,妮莉库,351c6efe25,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#15#12,"…ふむ。
+本当に生きておらんのか、
+それとも端末が壊れたか……。","……唔。
+是真的一命呜呼了呢，
+还是说终端坏掉了呢……。",translated,妮莉库,08093825e7,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01.txt#18#12,"…まあ、仕方ない。
+別に今、どうこうする事はないからの。","……嘛，拿你没办法。
+反正眼下老身也没什么非做不可的事。",translated,妮莉库,ec88f0a633,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#21#12,また日を置いて来てみるとするか。,还是过两天再来看看吧。,translated,妮莉库,9208a4bf4d,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#23#12,邪魔させてもらうぞ。,老身来打扰啦。,translated,妮莉库,4c6993d077,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#24#12,"ふむ……またおぬし一人だけで
+留守番か？","唔……又是你小子一个人
+在看家吗？",translated,妮莉库,83f8406201,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#25#12,"寂しいのう寂しいのう。
+あやつについていってやればよいものを。","真寂寞啊真寂寞。
+明明跟在那丫头后头一起去就好了嘛。",translated,妮莉库,c376401635,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#26#12,"おっとすまん。
+おぬしは動けないんじゃったな。","哎呀抱歉抱歉。
+老身忘了你小子根本动弹不得呐。",translated,妮莉库,951a8292af,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#27#12,"しかし、留守中の女子の部屋に
+一人でいるというのも、なかなかに
+スリリングではないかの？　くふふ。","不过，独自一人待在
+无人在家的女孩子的闺房里，
+不也相当刺激吗？咕呵呵。",translated,妮莉库,5bbdd6b532,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01.txt#29#12,"……ふむ？
+返事が無いが、どうかしたか？","……唔？
+怎么不吭声，出什么事了吗？",translated,妮莉库,6313057a59,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#30#12,"のう、返事をしてくりゃれ？
+我も一応、か弱い女子でのう……。","喂，好歹回句话呀？
+老身好歹也是个柔弱女子来着……。",translated,妮莉库,3b2bb7aa02,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#31#12,"無視されるのは、一等悲しくて
+切ない気分になるのじゃ……。","被人无视可是最让人感到
+伤心难过的呀……。",translated,妮莉库,ced5c3fed8,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#32#12,……冗談じゃが。,……开玩笑的啦。,translated,妮莉库,19ae51b63f,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#33#12,"我の冗談など、滅多に聞けるものでは
+ないぞ。","老身的玩笑话，
+平日里可是打着灯笼都难得一听哦。",translated,妮莉库,bb64bfa18f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#34#12,"さあホレ、そろそろ返事をしても良い頃だと
+思わんか？","哎呀来嘛，差不多也该是
+你小子吱个声的时候了吧？",translated,妮莉库,f00060e29e,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#37#12,"なんじゃ、本当におらんのか。
+では、出直すとするかの……。","搞什么啊，难道真的不在吗。
+那老身改天再来好啦……。",translated,妮莉库,637d3e7c0f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#39#12,"ぼんじゅ～♪　いや、ぼんそわ～、か？
+ねりこさんがきてやったぞ～。","崩纠～♪ 哎不对，该说崩索瓦～吗？
+妮莉库大人特地大驾光临啦～。",translated,妮莉库,e6a2821deb,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#40#12,"しかしあやつはいないときたか……。
+まあ、いつものことじゃが……。","不过那丫头居然又不在家吗……。
+嘛，虽然早就是家常便饭了……。",translated,妮莉库,90999aa969,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#41#12,"用があるのもおぬしじゃし、
+我は一向に構わんがの。","反正老身找的也是你小子，
+老身倒是完全不介意就是了。",translated,妮莉库,61d2fdaed4,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#44#12,まさか、おぬしもおらんのか？,难不成，连你小子也开溜了？,translated,妮莉库,c01c5873bd,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#45#12,"せっかく土産があるというのに、
+これでは無駄になってしまうのう。","老身特地带了伴手礼过来，
+这样岂不是白跑一趟了呐。",translated,妮莉库,d775160b7f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#46#12,"……いいものだが、
+欲しくないのかの～？","……这可是难得的好东西哦，
+你难道就不想要吗～？",translated,妮莉库,fdc010de3a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#49#12,ふむ、本当にいないか。,唔，看来是真的不在啊。,translated,妮莉库,4d356ccf92,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01.txt#50#12,"まあよい、別に今日渡さなければ
+世界が滅びるわけではないしの。","嘛也罢，反正就算今天交不到你手上，
+世界也不会就此毁灭嘛。",translated,妮莉库,30b02c72ea,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01.txt#51#12,"また来るとしようか。
+あびやんと～♪
+……じゃったかな？","那老身还是改天再来吧。
+阿比扬托～♪
+……是这么说的来着吧？",translated,妮莉库,db473bef64,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01t.txt#1#12,"んむ！
+ちゃんと生きておったな。","嗯！
+你小子果然还好好活着呐。",translated,妮莉库,38f262d06b,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#2#12,"案の定、とうだいもりはおらんようじゃな。
+別に狙ってるわけではないんだがのぅ。","果不其然，灯塔守那丫头似乎不在呐。
+老身可不是故意趁她不在过来的哦。",translated,妮莉库,797d12acfa,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#3#12,"まぁ、よしとするか。
+今日はあやつに用というわけではないしの。","嘛，也算正合我意吧。
+反正老身今天找的也不是她。",translated,妮莉库,28486bd028,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#4#12,"でじゃ、今回もおぬしに良いものを
+持ってきてやったぞ。","那么，老身这次也照旧
+给你小子带了好东西来哦。",translated,妮莉库,b9f4f5e12d,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#5#12,新しいカード？,新的卡片？,translated,,b9d931752c,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#6#12,良いもの？,好东西？,translated,,eef719f74c,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#8#12,正解じゃ！,回答正确！,translated,妮莉库,9d503b6482,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#9#12,むふふ、さぞ待ち遠しかったじゃろ。,唔呵呵，你小子肯定早就翘首以盼了吧。,translated,妮莉库,c32f28b6d2,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#12#12,なんじゃ、もうボケとるのか？,搞什么啊，你小子已经老糊涂了吗？,translated,妮莉库,955f962ae1,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#13#12,"いや……おぬし、
+本当はわかっておるんじゃろ？","不对……你小子，
+其实心里早就一清二楚了吧？",translated,妮莉库,ff6257b5ad,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#14#12,新しいカードじゃよ。,当然是新的卡片啦。,translated,妮莉库,f5ed8efcb3,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#16#12,"今回もなかなかに
+スペシャルなカードじゃぞ。","这次也是相当相当
+特别的卡片哦。",translated,妮莉库,023f5ed46a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#17#12,"なんと言っても、これまでとは
+一風変わった場所のカードじゃからの。","毕竟不管怎么说，这可是与以往相比
+风格迥异的独特场所的卡片呐。",translated,妮莉库,ec1c6fe1cb,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#18#12,"ちょっとしたお散歩気分というわけには
+いかんかもしれんのぅ。","想要怀着轻松散步的心情去逛逛，
+恐怕可行不通哦。",translated,妮莉库,940e55f133,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#19#12,一体なんのカード？,到底是什么卡片？,translated,,fd24b84cdd,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#21#12,"むふふっ！
+そればっかりは使ってみての
+お・た・の・し・み、じゃよ。","唔呵呵！
+唯独这个就留给你们使用后
+“尽请期待”啦。",translated,妮莉库,84abd05873,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01t.txt#22#12,"そんなあっさりとネタバレしてしまっては
+面白くないじゃろ。","要是这么轻易就剧透给你，
+岂不是就没意思了嘛。",translated,妮莉库,4e9af7758a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#23#12,"まぁどうしてもというなら……
+ヒントくらいは出してやっても良いがの。","嘛，要是你非要老身说的话……
+给点提示倒也不是不可以呐。",translated,妮莉库,8ce898b16d,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#24#12,……いや、やっぱやめじゃ。,……算啦，老身还是不给啦。,translated,妮莉库,cda59cd5a8,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#25#12,"よくよく考えたら、もう十分にヒントは
+出してあるしのぅ。","仔细想想的话，
+老身其实已经给足了提示呐。",translated,妮莉库,8f741370f4,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#26#12,"我の言葉を思い出して、
+よく考えることじゃな。","好好回想回想老身说过的话，
+仔细琢磨琢磨吧。",translated,妮莉库,153b4e6f29,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#27#12,"具体的な場所までは分からなくとも、
+どんなところか、くらいなら分かるはずじゃ。","就算猜不出具体的地点，
+大概是个什么样的地方总该能猜出来呐。",translated,妮莉库,5214bda64f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#28#12,"まぁ何にしても、行ってみるのが
+一番早いとは思うがの。","嘛不管怎么说，亲自去走一趟
+才是最快的办法就是了。",translated,妮莉库,7905344059,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#29#12,"とうだいもりが帰ってきたら、
+早速行ってみるのも一興じゃな。","等灯塔守那丫头回来之后，
+立刻拉着她去转转也不失为一种乐趣呐。",translated,妮莉库,5d32812750,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#30#12,"まっ、どうしたいかは、
+おぬしが好きに選ぶとよい。
+行くもよし、行かぬもよしじゃ！","嘛，具体打算怎么办，
+全凭你小子自己的喜好选择便是。
+去也罢，不去也罢！",translated,妮莉库,467654a0d9,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01t.txt#32#12,"おぬしの性格から考えて、
+少しばかり慎重を期すのも
+ありかもしれんがの。","考虑到你小子的性格，
+稍微多谨慎观望一些
+倒也不是不行就是了。",translated,妮莉库,0a6bc187c2,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_01t.txt#34#12,"まぁ、おぬしのことじゃから、
+我が言うまでもないとは思うがの。","嘛，以你小子的能耐，
+想来也用不着老身多费口舌就是了。",translated,妮莉库,80277f1ee5,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#36#12,では、我は去るとするかの。,那么，老身这就开溜喽。,translated,妮莉库,0bd5dde9c3,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_01t.txt#37#12,"あまり長居して、とうだいもりに
+やきもちを焼かれては困るしのぅ。","逗留太久的话，要是让灯塔守那丫头
+打翻醋坛子老身可就难办了呐。",translated,妮莉库,8b9082f9e4,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#38#12,"むふふっ、ではまたの。
+次会うのを楽しみにしておるよ。","唔呵呵，那么改天见啦。
+老身期待着下次与你相见哦。",translated,妮莉库,a3c223c985,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_01t.txt#42#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de04_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#6#12,"これって……
+もしかして、ねりこさんが来たの？","这个是……
+难道说妮莉库小姐来过了吗？",translated,依恩,dbe84ed80f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#7#12,"…って、聞かなくても
+それ以外に理由なんて無いよね。","……话说回来，就算我不问
+也不会有其他可能了呢。",translated,依恩,b415b0c7f9,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#8#12,それで、今度はどんなカードなのかな？,那么，这次又是怎样的卡片呢？,translated,依恩,34658e4c62,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#9#12,教えてくれなかった,她没告诉我,translated,,872dad260f,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#11#12,"そっか。
+それじゃ……。","这样啊。
+那么……。",translated,依恩,a9c937630d,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#12#12,…行ってみるしかないって事だよねっ♪,……也就是说只能亲自去看看了呢♪,translated,依恩,7078daa26a,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#13#12,"ねえねえ、ちょっとだけ！
+ちょっとだけでいいから、
+今から行ってみようよ？","呐呐，就去一会儿！
+只要一小会儿就好，
+我们现在就去看看好不好？",translated,依恩,5a2a596f5c,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_02m.txt#14#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#15#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#17#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#18#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#19#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#24#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_02m.txt#27#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#28#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#29#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#30#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#31#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#32#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#33#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#34#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_02m.txt#38#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#39#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#40#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#43#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02m.txt#44#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de04_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#17#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#2#12,"今回はどんなところなんだろう？
+ドキドキするね。","这次会是怎样的地方呢？
+好让人心跳加速呀。",translated,依恩,361e7c9650,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#4#12,"ん？　あれ？　わたし座ってる？
+それにここ……。","嗯？咦？我是坐着的吗？
+而且这里是……。",translated,依恩,1ea520f63f,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#5#12,"す、すごい！
+たくさん人がいるよ！","好、好厉害！
+有好多好多人哦！",translated,依恩,e8aec37ee4,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#6#12,"えっと……あれ？
+こういう場所をなんていうんだったかな……。","那个……咦？
+这种地方叫什么名字来着……。",translated,依恩,acedbc56d1,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#7#12,"う～ん……
+ここまで出掛かってるんだけど……。","唔～……
+感觉都快到嘴边了……。",translated,依恩,53444a2f6c,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#8#12,"あっ、そうだ！
+カフェ……カフェテラスだよね！？","啊，对啦！
+是咖啡厅……露天咖啡座对吧！？",translated,依恩,085192c34a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#10#12,そうみたいだ,好像是这样,translated,,1ae1937575,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#12#12,"えへへ、よかったぁ。
+ちゃんとあってて。","诶嘿嘿，太好啦。
+答对了呢。",translated,依恩,610489784b,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#13#12,"でも、わたしの世界で
+こんな素敵なカフェ見たことない――","不过，在我的世界里
+可从来没见过这么棒的咖啡厅――",translated,依恩,b49980b2f8,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#14#12,"というより、
+カフェそのものがないんだけど……。","不如说，
+根本连咖啡厅本身都不存在就是了……。",translated,依恩,65e885c258,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#15#12,"でも、カフェの名前を知ってるのは、
+来たことや見たことがあるってことだよね。","不过，既然知道咖啡厅这个名字，
+就说明我肯定来过或者见过对吧。",translated,依恩,2912bc4a53,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#16#12,"う～ん、そのときのことまで
+はっきりと思い出せたらいいのになぁ。","唔～，要是能连当时的事情
+都一清二楚地回忆起来就好了呀。",translated,依恩,88f7f33835,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#18#12,気長にいこう,慢慢来吧,translated,,835293d84f,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#19#12,叩いてみたら思い出すかも,敲敲看说不定能想起来,translated,,08ef79155e,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#21#12,"う、うん。そうだね。
+ありがとう。","嗯、嗯。也是呢。
+谢谢你。",translated,依恩,e5b1a3e472,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#22#12,"考えたって思い出せるとは限らないし、
+自然に出てくるのを待つことにする。","反正就算硬想也不一定能想得起来，
+我就耐心等待它自然浮现吧。",translated,依恩,d217750cee,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#25#12,え？　えぇ！？,诶？诶诶！？,translated,依恩,a4a4d6e4da,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#26#12,"そ、それで直るのは
+せいぜい機械の接触不良くらいだよ！","那、那样能修好的
+充其量也就是机械的接触不良而已啦！",translated,依恩,714c9a28fa,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#27#12,"だいたい、それで戻るにしても、
+わたしの頭がもたないよ～。","退一步讲，就算真能恢复记忆，
+我的脑袋也吃不消呀～。",translated,依恩,5405e0bcf7,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#29#12,……それにしても、なんか不思議だね。,……话说回来，总觉得好不可思议呢。,translated,依恩,46f26555cd,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#30#12,"たくさん人がいて、
+けど全部、仮想世界の人なんだよね。","明明有这么多人，
+可全都是虚拟世界里的人呢。",translated,依恩,44f2580b16,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#31#12,"ということは、
+やっぱり生きてはいないわけで……。","这也就意味着，
+他们其实并不是活生生的人……。",translated,依恩,006747ef4a,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#32#12,"その……何を言いたいかというと、
+たくさんの人がいる前で、二人でいるのが、
+ちょっと恥ずかしいなって……。","那个……我想说的是，
+在这么多人面前我们两个人待在一起，
+总觉得稍微有点害羞呢……。",translated,依恩,859dec562c,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_03m.txt#33#12,"わたしたちって周りから見たら、
+やっぱりそういう風に見える……の、かな？","在周围的人眼里看来，
+我们果然也是那种关系……吧？",translated,依恩,24fcaf4da8,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#35#12,そんな風にって？,哪种关系？,translated,,9a133c7108,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#37#12,"え！？　いや、それは……その……
+えっと……。","诶！？不、那个是……那个……
+那个……。",translated,依恩,25446f94d3,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#38#12,"そ、そうだ！
+座ってるだけじゃ、お店の人に悪いよね。
+何か注文してみよっか！","对、对了！
+光坐在这里对店家也太失礼了呢。
+我们要不要点些什么呀！",translated,依恩,49757cbd58,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_03m.txt#40#12,逃げた！,逃避话题了！,translated,,8489747b3d,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#41#12,そうしよう,就这么办吧,translated,,76dee65597,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#43#12,"な、なんの話かな？
+わたし……知らないよ。","什、什么话题呀？
+我……完全听不懂哦。",translated,依恩,bd865dfd97,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#44#12,ほら、早く注文するもの決めよう！,好啦，赶紧决定要点什么吧！,translated,依恩,c0d3c12aee,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#47#12,"そ、そうだよね！
+早く決めちゃおっか。","对、对呀！
+我们赶快决定好点什么吧。",translated,依恩,21d9a5a772,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#48#12,も、もしかして素だったのかな……。,难、难道刚才她是真情流露吗……。,translated,依恩,f0e0c06c68,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03m.txt#51#12,"ただいまー。
+えへへ、楽しかったねぇ。","我回来啦――。
+诶嘿嘿，真开心呀。",translated,依恩,bdde19f4f2,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#52#12,"人がたくさんいて緊張しちゃうけど、
+あぁいう場所もたまにはいいね。","虽然人很多难免会紧张，
+不过偶尔去去那种地方也很棒呢。",translated,依恩,7c6103f225,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#53#12,"他のカードとも違うし、
+気分転換したいときはちょうどいいかも。","风格和其他卡片都不一样，
+想要转换心情的时候正好合适呢。",translated,依恩,4e0e5a73f6,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03m.txt#54#12,"また都合がいいときに、
+一緒に行ってみようね。","等你有空的时候，
+我们再一起去看看吧。",translated,依恩,5d82be8094,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de04_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de04_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de04_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de04_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#7#12,邪魔するぞ～。,打扰啦～。,translated,妮莉库,c6c29684cb,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#8#12,"いやはや、この仕事も楽じゃないのう。
+まあ、お前さんの仕事には負けるが…。","哎呀呀，这份差事也挺不容易的呐。
+不过嘛，比起你小子的工作还是差了点……。",translated,妮莉库,8a5cf69daf,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#9#12,"どうかの？
+ちゃんと生きとるか？","怎么样啊？
+你小子还好好活着吗？",translated,妮莉库,0f657d0e5a,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#10#12,"そっちの世界で死んでいたり
+せんじゃろな？　むふふ…。","该不会在那边的世界已经死翘翘了吧？
+唔呵呵……。",translated,妮莉库,036f9ab398,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#11#12,こら、生きておるなら返事をせい。,喂，要是还活着就吱个声嘛。,translated,妮莉库,7934dc19fd,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#14#12,せっかく出てきてやったのじゃ。,老身可是难得特意跑来一趟呢。,translated,妮莉库,351c6efe25,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#15#12,"…ふむ。
+本当に生きておらんのか、
+それとも端末が壊れたか……。","……唔。
+是真的一命呜呼了呢，
+还是说终端坏掉了呢……。",translated,妮莉库,08093825e7,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01.txt#18#12,"…まあ、仕方ない。
+別に今、どうこうする事はないからの。","……嘛，拿你没办法。
+反正眼下老身也没什么非做不可的事。",translated,妮莉库,ec88f0a633,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#21#12,また日を置いて来てみるとするか。,还是过两天再来看看吧。,translated,妮莉库,9208a4bf4d,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#23#12,邪魔させてもらうぞ。,老身来打扰啦。,translated,妮莉库,4c6993d077,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#24#12,"ふむ……またおぬし一人だけで
+留守番か？","唔……又是你小子一个人
+在看家吗？",translated,妮莉库,83f8406201,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#25#12,"寂しいのう寂しいのう。
+あやつについていってやればよいものを。","真寂寞啊真寂寞。
+明明跟在那丫头后头一起去就好了嘛。",translated,妮莉库,c376401635,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#26#12,"おっとすまん。
+おぬしは動けないんじゃったな。","哎呀抱歉抱歉。
+老身忘了你小子根本动弹不得呐。",translated,妮莉库,951a8292af,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#27#12,"しかし、留守中の女子の部屋に
+一人でいるというのも、なかなかに
+スリリングではないかの？　くふふ。","不过，独自一人待在
+无人在家的女孩子的闺房里，
+不也相当刺激吗？咕呵呵。",translated,妮莉库,5bbdd6b532,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01.txt#29#12,"……ふむ？
+返事が無いが、どうかしたか？","……唔？
+怎么不吭声，出什么事了吗？",translated,妮莉库,6313057a59,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#30#12,"のう、返事をしてくりゃれ？
+我も一応、か弱い女子でのう……。","喂，好歹回句话呀？
+老身好歹也是个柔弱女子来着……。",translated,妮莉库,3b2bb7aa02,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#31#12,"無視されるのは、一等悲しくて
+切ない気分になるのじゃ……。","被人无视可是最让人感到
+伤心难过的呀……。",translated,妮莉库,ced5c3fed8,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#32#12,……冗談じゃが。,……开玩笑的啦。,translated,妮莉库,19ae51b63f,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#33#12,"我の冗談など、滅多に聞けるものでは
+ないぞ。","老身的玩笑话，
+平日里可是打着灯笼都难得一听哦。",translated,妮莉库,bb64bfa18f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#34#12,"さあホレ、そろそろ返事をしても良い頃だと
+思わんか？","哎呀来嘛，差不多也该是
+你小子吱个声的时候了吧？",translated,妮莉库,f00060e29e,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#37#12,"なんじゃ、本当におらんのか。
+では、出直すとするかの……。","搞什么啊，难道真的不在吗。
+那老身改天再来好啦……。",translated,妮莉库,637d3e7c0f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#39#12,"ぼんじゅ～♪　いや、ぼんそわ～、か？
+ねりこさんがきてやったぞ～。","崩纠～♪ 哎不对，该说崩索瓦～吗？
+妮莉库大人特地大驾光临啦～。",translated,妮莉库,e6a2821deb,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#40#12,"しかしあやつはいないときたか……。
+まあ、いつものことじゃが……。","不过那丫头居然又不在家吗……。
+嘛，虽然早就是家常便饭了……。",translated,妮莉库,90999aa969,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#41#12,"用があるのもおぬしじゃし、
+我は一向に構わんがの。","反正老身找的也是你小子，
+老身倒是完全不介意就是了。",translated,妮莉库,61d2fdaed4,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#44#12,まさか、おぬしもおらんのか？,难不成，连你小子也开溜了？,translated,妮莉库,c01c5873bd,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#45#12,"せっかく土産があるというのに、
+これでは無駄になってしまうのう。","老身特地带了伴手礼过来，
+这样岂不是白跑一趟了呐。",translated,妮莉库,d775160b7f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#46#12,"……いいものだが、
+欲しくないのかの～？","……这可是难得的好东西哦，
+你难道就不想要吗～？",translated,妮莉库,fdc010de3a,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#49#12,ふむ、本当にいないか。,唔，看来是真的不在啊。,translated,妮莉库,4d356ccf92,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01.txt#50#12,"まあよい、別に今日渡さなければ
+世界が滅びるわけではないしの。","嘛也罢，反正就算今天交不到你手上，
+世界也不会就此毁灭嘛。",translated,妮莉库,30b02c72ea,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01.txt#51#12,"また来るとしようか。
+あびやんと～♪
+……じゃったかな？","那老身还是改天再来吧。
+阿比扬托～♪
+……是这么说的来着吧？",translated,妮莉库,db473bef64,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01t.txt#1#12,"おっ、ちゃんと生きておったな。
+生存確認じゃ。","唷，你小子果然还好好活着呐。
+生存确认完毕。",translated,妮莉库,00cff9740c,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#2#12,"さて、もうそろそろ恒例になってきた
+あれを持ってきてやったぞ！","那么，老身今天也把差不多快成惯例的
+那个东西给你带过来了哦！",translated,妮莉库,7329ea6958,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#3#12,"そうじゃな、せっかくじゃから、
+おぬしに今回のカードの予想を
+聞いてみるとするかの。","对了，难得有这个机会，
+老身就来问问你小子
+对这次卡片的预想吧。",translated,妮莉库,a38582294a,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01t.txt#4#12,動物園,动物园,translated,,f1e99579ea,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#5#12,綺麗な湖,美丽的湖泊,translated,,5f57f395d4,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#6#12,登山コース,登山路线,translated,,6a3b9f1213,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#8#12,"くふふっ、なるほど。
+それはありえるかもしれんのぅ。","咕呵呵，原来如此。
+那倒也不是没有可能呐。",translated,妮莉库,7e1eb18048,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#11#12,"おぬし、本当にそんなところに
+行きたいのか？　変わっておるのぅ。","你小子，真想去那种地方吗？
+你的喜好还真是古怪呐。",translated,妮莉库,7d085d56e1,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#13#12,まぁ、どれもはずれじゃがな！,嘛，不过全都没猜中就是啦！,translated,妮莉库,fab4bd0349,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#14#12,"くふふっ、そう簡単に教えると
+思ったのかのぅ？","咕呵呵，你以为老身
+会那么轻易就告诉你吗？",translated,妮莉库,44e6a077f4,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#15#12,"残念ながら、
+我はそこまで優しくないんじゃよ。","很遗憾，
+老身可没有那么心慈手软哦。",translated,妮莉库,766919b164,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#16#12,"それにあれじゃ。何事も自分の目で見て
+確認するのが一番じゃ。","再说了，不管什么事
+亲眼去确认一番才是最好的。",translated,妮莉库,c9a219ae61,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#17#12,"おぬしの世界の言葉でもあるじゃろ、
+えっとたしか……
+“百聞は一見にしかず”じゃったか？","你小子的世界里不也有这么句话嘛，
+那个叫什么来着……
+是叫“百闻不如一见”吧？",translated,妮莉库,8773f635f1,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01t.txt#18#12,何事も聞くより見た方が早い。,凡事百听不如一见来得实在。,translated,妮莉库,23f0665766,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#19#12,"聞くよりも、実行に移して
+その目で見てみるんじゃな。","与其四处打听，不如付诸行动
+用你自己的双眼去亲自见证吧。",translated,妮莉库,87fcfa64d5,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#20#12,"まぁ今回ばっかりは、
+ちゃんと見えないかもしれんがのぅ。","嘛不过唯独这一次，
+说不定根本没法好好看清就是了呐。",translated,妮莉库,7efa3deaac,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#21#12,どういうこと？,这是什么意思？,translated,,e692803732,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#23#12,"むっふっふっ。
+どういうことも何もそういうことじゃよ。","唔呵呵呵。
+哪有什么为什么，就是字面意思啦。",translated,妮莉库,58fae50e3f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#24#12,見たくても見れない、ドキドキ空間じゃ！,想看却看不着、令人心跳加速的空间哦！,translated,妮莉库,de4a1a6c9c,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#25#12,"おっと、これ以上話してると、
+つい口を滑らせてしまいそうじゃ。","哎呀，要是再多说下去，
+老身怕是不小心就要说漏嘴了呐。",translated,妮莉库,c7b1a119a3,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_01t.txt#26#12,ということで、我は帰るかの。,既然如此，老身就先告辞喽。,translated,妮莉库,f9db3888a1,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#27#12,"気になるんじゃったら、
+とうだいもりが帰って来てすぐに
+行ってみるのがいいじゃろ。","要是在意的话，
+等灯塔守那丫头一回来，
+就赶紧带她去看看好啦。",translated,妮莉库,59d0d80318,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_01t.txt#28#12,せいぜい楽しんでくるんじゃな、むふふっ。,你们可要尽情玩个痛快呀，唔呵呵。,translated,妮莉库,6e1c40cabb,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_01t.txt#32#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de05_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#6#12,"これって……
+もしかして、ねりこさんが来たの？","这个是……
+难道说妮莉库小姐来过了吗？",translated,依恩,dbe84ed80f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#7#12,"…って、聞かなくても
+それ以外に理由なんて無いよね。","……话说回来，就算我不问
+也不会有其他可能了呢。",translated,依恩,b415b0c7f9,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#8#12,それで、今度はどんなカードなのかな？,那么，这次又是怎样的卡片呢？,translated,依恩,34658e4c62,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#9#12,教えてくれなかった,她没告诉我,translated,,872dad260f,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#11#12,"そっか。
+それじゃ……。","这样啊。
+那么……。",translated,依恩,a9c937630d,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#12#12,…行ってみるしかないって事だよねっ♪,……也就是说只能亲自去看看了呢♪,translated,依恩,7078daa26a,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#13#12,"ねえねえ、ちょっとだけ！
+ちょっとだけでいいから、
+今から行ってみようよ？","呐呐，就去一会儿！
+只要一小会儿就好，
+我们现在就去看看好不好？",translated,依恩,5a2a596f5c,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_02m.txt#14#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#15#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#17#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#18#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#19#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#24#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_02m.txt#27#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#28#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#29#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#30#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#31#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#32#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#33#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#34#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_02m.txt#38#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#39#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#40#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#43#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02m.txt#44#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de05_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#17#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#2#12,"今回はどんなところなんだろう？
+ドキドキするね。","这次会是怎样的地方呢？
+好让人心跳加速呀。",translated,依恩,361e7c9650,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#28#12,"……あれ？
+なんだろう？　この臭い……。","……咦？
+这是什么味道……？",translated,依恩,7683cc66f0,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#29#12,"それになんか、
+お風呂に入ってるみたいな……。","而且总觉得，
+好像泡在浴室里一样……。",translated,依恩,75d6b4fd5b,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#31#12,"え、あ、あれ！？
+これって……！","诶、啊、咦！？
+这个难道是……！",translated,依恩,36289ec2a0,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#33#12,お、温泉！？,温、温泉！？,translated,依恩,b8be1a8e3a,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#34#12,"って、知らないうちにバスタオルに
+なっちゃってる！","话说回来，不知不觉
+身上居然只裹着浴巾了！",translated,依恩,7173aefebf,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#35#12,"ちょ、ちょっと待って……！
+いきなりこんな……！","等、稍微等一下……！
+怎么突然就变成这样……！",translated,依恩,fc66d09a8e,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#37#12,バスタオル着てるし,身上好歹还裹着浴巾嘛,translated,,47385ff1e0,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#38#12,ドキドキする,心跳得好快,translated,,aac75879c5,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#40#12,"そうだけど、
+恥ずかしいものは恥ずかしいの！","话是这么说，
+但害羞的事情就是很害羞嘛！",translated,依恩,897c705002,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#43#12,"うぅ、へ、変な目で見ないでね。
+わたしその……自信があるわけじゃ
+ないんだから……。","呜呜，别、别用奇怪的眼神看我哦。
+我那个……对自己的身材
+又没有什么自信……。",translated,依恩,07d25ac0c2,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03m.txt#45#12,"うぅぅ、ねりこさんがくれたカードで
+まさか温泉に来ることになるなんて……。","呜呜呜，真没想到用妮莉库小姐给的卡片
+居然会来到温泉这种地方……。",translated,依恩,dc9db530d7,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#46#12,"服まで着替えさせられてるし……。
+今までと全然違うよぉ……。","居然连衣服都被换掉了……。
+和之前完全不一样嘛……。",translated,依恩,7df870b584,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#48#12,気持ちいい？,舒服吗？,translated,,fd3e97bc73,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#50#12,"う、うん。
+温泉は気持ちいい……気がする。","嗯、嗯。
+温泉很舒服……感觉是挺舒服的。",translated,依恩,96bde1d538,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#52#12,気がする？,只是感觉？,translated,,23d8617813,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#54#12,"だって、なんかもう恥ずかしくって、
+よく分かんないよぉ。","可是，人家现在已经害羞得
+根本搞不清楚了嘛。",translated,依恩,a28a8c6337,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#55#12,ごめんなさい、少し深呼吸するね。,对不起哦，我先稍微深呼吸一下。,translated,依恩,d5107fde39,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#56#12,すぅ……はぁ……すぅ……はぁ……。,吸……呼……吸……呼……。,translated,依恩,4b65c77d13,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#59#12,"うん。
+さっきよりは落ち着いた……かな。","嗯。
+感觉比刚才稍微冷静一点了……吧。",translated,依恩,67e67bc051,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#60#12,いきなりなんだもん、びっくりしちゃった。,因为实在是太突然了，吓了我一大跳呢。,translated,依恩,86fe6b4343,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#61#12,"ねりこさん、なんでいきなり温泉のカード
+なんてくれたんだろ……。","妮莉库小姐为什么要冷不防地
+送我温泉的卡片啊……。",translated,依恩,6b7edf41fe,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#62#12,"絶対に嫌ってわけじゃないんだけど、
+その……こういうのはまだ早いんじゃない
+かなぁって。","虽然我也不是绝对讨厌啦，
+只是那个……总觉得这种事情
+对我们来说是不是还太早了点呀。",translated,依恩,9ae18df7c8,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03m.txt#64#12,そうかもしれない,也许是这样吧,translated,,ae9025c773,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#65#12,そんなことない,没那回事,translated,,17a77b07ea,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#67#12,"そ、そうだよね。
+やっぱりわたしたちにはまだ早いよねっ！","对、对吧。
+果然对我们来说还是太早了点呢！",translated,依恩,1b1a06be5d,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#68#12,"でも、もしかしたら何か考えがあるのかも
+しれないし……。","不过，说不定妮莉库小姐
+其实也有她自己的考量……。",translated,依恩,777e544b7d,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#71#12,"そ、そう……かな？
+もしかして、あなたの世界だと
+普通だったりするの？","是、是这样……吗？
+难道说，在你所在的世界里
+这属于很稀松平常的事情吗？",translated,依恩,983f16b458,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03m.txt#73#12,う～ん……。,唔～……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#74#12,"わ、わかった。
+わたし、頑張ってみる。","我、我知道了。
+我会努力尝试看看的。",translated,依恩,b1220aca19,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#75#12,"恥ずかしいけど裸ってわけじゃないし、
+あ、あとそのちゃんと覚悟してくれば、
+きっと大丈夫だと思う。","虽然很害羞，但也并不是全裸，
+而、而且只要事先做好心理准备，
+我想一定没问题的。",translated,依恩,ae1bb3772c,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03m.txt#76#12,だからね……一つだけお願いがあるの。,所以呢……我唯独有一个请求想拜托你。,translated,依恩,a823475e49,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#78#12,お願い？,请求？,translated,,8541eb69a7,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#80#12,"うん、お願い。
+それはね――","嗯，请求。
+那就是――",translated,依恩,04239d0153,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#81#12,今日のところは帰ろ……。,今天就先回去吧……。,translated,依恩,7353a295c1,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#97#12,た、ただいま～。,我、我回来啦～。,translated,依恩,472a1d2b6c,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#98#12,"あれ？　髪の毛とか濡れてない……。
+仮想世界、だからかな？","咦？头发什么的居然一点都没湿……。
+是因为在虚拟世界里的关系吗？",translated,依恩,b7711eafca,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#99#12,"あそこまで感覚がリアルだと、
+なんか、ちょっとだけ怖いかも。","感觉逼真到那种地步，
+总觉得稍微有点让人害怕呢。",translated,依恩,f4d4503211,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#100#12,それにやっぱり恥ずかしいし……。,而且果然还是好害羞呀……。,translated,依恩,8498e2c149,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03m.txt#101#12,"でも、次行くときは、ちゃんと心の準備を
+しておくから安心してね。","不过，下次再去的时候我一定会
+事先做好心理准备的，放心吧。",translated,依恩,c74e22bffa,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03m.txt#102#12,"全く恥ずかしくないっていうのは
+無理だと思うけど、
+せめて落ち着いて入れるように頑張るから。","虽然想要完全不害羞
+我觉得根本不可能，
+但我会尽量努力让自己平静泡澡的。",translated,依恩,a9807e7c26,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de05_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de05_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de05_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de05_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01.txt#6#12,"まいど～。
+道具屋ねりこさん、参上じゃぞ。","多谢关照～。
+道具店妮莉库大人登场喽。",translated,妮莉库,1ca7f8eabc,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01.txt#7#12,"まあ、名乗ったところで家主が
+留守なのはわかっておるがの。","嘛，虽然就算报上名号，
+老身也早知道屋主根本不在家就是了。",translated,妮莉库,3f1aaca64a,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01.txt#8#12,"さて、今日も例の如く、
+あれを持ってきてやったのだが。","好啦，老身今天也照例
+把那个东西给你带过来了哦。",translated,妮莉库,ded86875c7,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01.txt#9#12,おぬし、ちゃんといるかの？,你小子，有好好在这儿呆着吗？,translated,妮莉库,bc8d64fa3e,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01.txt#11#12,……む？,……唔？,translated,妮莉库,c9a2540e07,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01.txt#12#12,もしや、留守かの？,难不成，你也不在吗？,translated,妮莉库,73b5e824e7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01.txt#13#12,"おーい、ねりこさんじゃぞー。
+プレゼントが欲しければ
+早く反応をせんか。","喂～，妮莉库大人来啦――。
+要是想要礼物的话，
+就赶紧给老身吱个声嘛。",translated,妮莉库,a58fcc40b1,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_01.txt#15#12,"……なんじゃ、本当に留守か。
+つまらんのぅ……。","……搞什么啊，难道真的不在吗。
+真无聊呐……。",translated,妮莉库,9edf60216e,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01.txt#16#12,"まあ、文句を言ったところで
+始まらんしの。","嘛，就算发牢骚
+也无济于事就是了。",translated,妮莉库,c4ed9a4d94,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01.txt#17#12,また日を改めて出直すとするかの。,还是改天再来跑一趟吧。,translated,妮莉库,78f085047b,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#1#12,おっ、おったおった♪,喔，在啊在啊♪,translated,妮莉库,8b25ec7873,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#2#12,"むっふっふ、今日も超面白いものを
+持ってきてやったぞ。","唔呵呵，老身今天也
+给你带了超级有趣的好东西来哦。",translated,妮莉库,6996796e74,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#3#12,"……しかし、簡単に渡してしまうのは
+あまり面白くないのぅ。","……不过，要是太容易就交给你，
+未免也太无趣了呐。",translated,妮莉库,64d0bf982b,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#4#12,"どれ、クイズで答えられたら、このカードを
+おぬしに譲ってやるするかの。","这样吧，要是你能答对老身的谜题，
+老身就把这张卡片让给你好啦。",translated,妮莉库,3ee5e50860,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#5#12,"では問題じゃ。
+我が何を持ってきたのか答えてみよ。","那么出题喽。
+请回答老身究竟带了什么东西来。",translated,妮莉库,f310096503,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#6#12,"ヒントはさっきも言った、
+例の如く持ってきたあれ、じゃよ。","提示就像老身刚才说过的，
+是照例带来的那个东西哦。",translated,妮莉库,4d755defb9,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#7#12,カード？,卡片？,translated,,3d730cc329,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#8#12,ねりこさんの笑顔,妮莉库小姐的笑容,translated,,8a485a8370,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#10#12,正解じゃ！,回答正确！,translated,妮莉库,9d503b6482,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#11#12,"まぁ、クイズにもならない
+簡単な問題じゃな。","嘛，不过是根本算不上谜题的
+简单问题就是啦。",translated,妮莉库,de53e81dda,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#14#12,くふふ、中々面白いことを言うのぅ。,咕呵呵，你小子还真会逗人开心呐。,translated,妮莉库,6e4c3c5ed5,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#15#12,じゃが、クイズの答えとしては大外れじゃ。,不过作为谜题的答案，可就大错特错喽。,translated,妮莉库,2469cb01e3,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#16#12,"答えは、ほれ。
+新しいカードじゃよ。","答案嘛，喏。
+当然是崭新的卡片啦。",translated,妮莉库,a7a18bb248,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#18#12,"今回のもこれまでとは一風変わった、
+超ドキドキな面白カードじゃ。","这一次的也是与以往风格迥异、
+超级刺激有趣的好玩卡片哦。",translated,妮莉库,a11d9b7ea8,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#19#12,"なんといっても王道的なデートスポットに
+行くことのできるカードでの。","毕竟不管怎么说，这可是能够前往
+最王道正统的约会圣地的卡片呐。",translated,妮莉库,68e9256673,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#20#12,"……まあ、本来であれば
+季節限定ではあるが……。","……嘛，虽然本来属于
+季节限定的活动就是了……。",translated,妮莉库,0f0a3d4b3d,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#21#12,"それに左右されずに好きな時に
+行けるのだから、
+便利なものだと思わんかの？","但完全不受季节左右，
+任何想去的时候都能去，
+你不觉得这非常方便吗？",translated,妮莉库,653528de34,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_01t.txt#22#12,"くふふっ、気になっておるか？
+気になっておるじゃろ？","咕呵呵，心里很在意吧？
+你小子肯定好奇得不得了吧？",translated,妮莉库,9b1ea63bb1,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#23#12,"我慢は体に毒じゃし、
+我もおぬしに倒れられては困るからのぅ。","强忍着好奇心对身体有害，
+要是你小子憋倒了老身也会很困扰呐。",translated,妮莉库,a61d50e0ba,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#24#12,今回ばかりは特別に教えてやるとするかの。,唯独这次，老身就破例特别告诉你吧。,translated,妮莉库,bcf51ac3f6,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#25#12,今回のカードは……縁日じゃ！,这次的卡片……就是庙会！,translated,妮莉库,b6fda3c693,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#26#12,おそらく、かなり人混みになるはずじゃ。,估计到时候会相当人山人海就是了。,translated,妮莉库,2dc4e48115,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#27#12,"ここに行く時は、はぐれぬよう
+気を付けるんじゃな。","去那里的时候，
+可千万当心别走散了哦。",translated,妮莉库,fa9b46fcb9,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#28#12,"……そういえば、とうだいもりは
+浴衣を持っておったかの？","……说起来，灯塔守那丫头
+有浴衣这玩意儿吗？",translated,妮莉库,908eaeb071,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#29#12,持ってないはず,应该没有,translated,,adc1953c9a,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#31#12,なんと……それは失敗したかもしれんのぅ。,什么……那老身可就有点失策了呐。,translated,妮莉库,56dbe17361,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#32#12,縁日には浴衣で行くのがベストじゃからな。,毕竟逛庙会穿浴衣才是最完美的嘛。,translated,妮莉库,35d4c287b7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#33#12,……まあ、無いのであれば仕方があるまい。,……嘛，既然没有那也是没办法的事。,translated,妮莉库,f57a81dfae,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#34#12,"その辺りは何か別の物や、
+お互いのムードで補うのじゃぞ？","那方面你就用别的东西、
+或是你们彼此之间的气氛去弥补吧？",translated,妮莉库,1b72b278d9,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#35#12,では、さっさとセットするかの。,那么，老身这就赶紧给装上吧。,translated,妮莉库,3b4d371a0f,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#36#12,……よし、完了じゃ。,……好啦，搞定喽。,translated,妮莉库,29f03f39b2,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#37#12,"我の用事はこれで終わりじゃ。
+あとはあやつが帰ってくる前に
+退散するとしようかの。","老身的正事这样就办完啦。
+接下来就赶在那丫头回来之前
+溜之大吉好喽。",translated,妮莉库,557b9249ea,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_01t.txt#38#12,"見つかってしまっては、せっかくの
+サプライズが台無しじゃからのぅ。
+くふふっ。","毕竟要是被当场撞见，
+难得的惊喜可就泡汤了呐。
+咕呵呵。",translated,妮莉库,4309b1a9dd,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_01t.txt#39#12,"我からのプレゼント、
+有効に使うのじゃぞ。","老身送给你们的礼物，
+可要好好有效利用起来哦。",translated,妮莉库,871e320c2e,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_01t.txt#40#12,では、またの機会にの。,那么，改天有机会再见啦。,translated,妮莉库,a5f4766b67,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_01t.txt#44#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de06_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#6#12,またねりこさんが来てたんだ？,妮莉库小姐又来过了吗？,translated,依恩,dfccfb836f,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#7#12,"う～ん、事前に来ることを
+言って欲しいんだけどなぁ。","唔～，真希望她能提前
+跟我打声招呼要过来呢。",translated,依恩,168dceaa28,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#8#12,"それなら、部屋を事前に掃除して
+おけるのに。","那样的话，我就能事先
+把房间打扫打扫了。",translated,依恩,70d17cf691,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#9#12,"やっぱり人を家に上げるんだから、
+それなりに綺麗にしておかないと
+恥ずかしいもん。","毕竟是要把客人迎进家里，
+要是不稍微收拾整洁一点，
+多难为情呀。",translated,依恩,2d51d76075,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_02m.txt#10#12,勝手に上がってくるんだけどね,虽然她是自己擅自闯进来的就是了,translated,,a0a0b13ec7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#12#12,……言われてみれば、確かに。,……被你这么一说，确实呢。,translated,依恩,3c7cb95cc9,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#13#12,"まあ、戸締りをしてないわたしにも
+問題があると思うけど……。","嘛，没锁好门窗的我
+自己肯定也有责任就是了……。",translated,依恩,f807942d0b,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#14#12,"と、とりあえず新しいカードを
+もらったんだし、
+早速見に行ってみようよ？","总、总之既然拿到了新卡片，
+我们要不要立刻
+去看看到底是什么地方呀？",translated,依恩,472f34c0e3,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_02m.txt#15#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#16#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#18#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#19#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#20#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#25#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_02m.txt#28#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#29#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#30#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#31#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#32#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#33#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#34#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#35#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_02m.txt#39#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#40#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#41#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#44#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02m.txt#45#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de06_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#17#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#2#12,楽しいところだといいなぁ。,要是个好玩有趣的地方就好了呢。,translated,依恩,2265eaa314,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#4#12,……わぁ、人がたくさんいるね。,……哇啊，有好多好多人呢。,translated,依恩,f9a538907f,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#5#12,それにお店も沢山並んでるよ。,而且还排着好多好多小吃摊呢。,translated,依恩,20d14d42f6,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#6#12,ここって、ショッピングセンター？,这里难道是……购物中心吗？,translated,依恩,03c899439d,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#7#12,"……じゃない、よね？
+どう見ても外だし。","……不对，不是吧？
+怎么看这里都是室外呀。",translated,依恩,856bf9396c,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#8#12,じゃあ、何なんだろう？,那么，这里到底是哪里呢？,translated,依恩,b27e0da317,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#9#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#10#12,"よく見ると、なんか変わった服を
+着ている人が多いね。","仔细看看的话，发现有好多人
+都穿着很奇特的衣服呢。",translated,依恩,a0b0ff16c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#11#12,"ほら、ヒラッとした布を
+体に巻いて、腰の紐で止めてるよ。","你看，他们把轻飘飘的布料裹在身上，
+用腰间的绳子系着呢。",translated,依恩,edf3f2d480,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#13#12,浴衣だと教える,告诉她是浴衣,translated,,3355dd8c7b,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#14#12,何だと思う？,你觉得是什么呢？,translated,,7cf8b092e7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#16#12,ユカタ？,浴衣？,translated,依恩,8ef3e01277,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#17#12,"あれ？
+確かそれって、えっと……。","咦？
+我记得那个好像是，那个……。",translated,依恩,31cd493cd1,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#18#12,"そ、そうだ！
+お風呂上りに着たりする服だよね？","对、对了！
+是洗完澡之后穿的衣服对吧？",translated,依恩,2881b13f5d,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#19#12,"でも、お風呂屋さんは無いから、
+だとすると……。","但是，这里并没有公共澡堂，
+这么说来的话……。",translated,依恩,92dd9f9b41,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#20#12,……あ、わかった！,……啊，我知道了！,translated,依恩,ff72ec4ac5,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#23#12,"そ、そう言われても、
+わからないから聞いてるのに……。","你、你就算这么问我，
+我也是因为不知道才问你的嘛……。",translated,依恩,55eca68c65,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#24#12,"……でも、そう聞くってことは、
+知っててもおかしくないもの、
+ってことだよね？","……不过，既然你这么问，
+就说明这应该是我哪怕知道
+也一点都不奇怪的东西对吧？",translated,依恩,639485ba17,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03m.txt#25#12,"う～ん……何だろう？
+ヒラッとしてて、生地が薄くて、
+凄く涼しそうで……。","唔～……会是什么呢？
+轻飘飘的，布料薄薄的，
+看起来超级凉快……。",translated,依恩,f7b4c5f38b,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03m.txt#26#12,……ゆ、浴衣？,……浴、浴衣？,translated,依恩,826ea22802,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#27#12,"そう、浴衣！
+お風呂上りとか、あと、
+えっと……。","对，浴衣！
+是洗完澡之后穿的，还有，
+那个……。",translated,依恩,61c004bfcb,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03m.txt#28#12,……そうだ、思い出したよ！,……对啦，我想起来了！,translated,依恩,4a5061e120,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#30#12,ここ、お祭りだよ。,这里是祭典呀。,translated,依恩,84b649b1ed,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#31#12,"来たことがあるかまではわからない
+けど、確かに知ってるよ！","虽然记不清自己到底有没有来过，
+但我确确实实知道这里！",translated,依恩,c8323a738f,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#33#12,正確には、縁日だよ,准确来说，是庙会哦,translated,,8e2a727505,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#35#12,縁日……？,庙会……？,translated,依恩,9bbb38e0ef,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#36#12,"そういえば、そんな言い方も
+あったような気がするよ。","说起来，隐约觉得好像
+确实也有这种叫法呢。",translated,依恩,03e7611de5,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#37#12,"えへへ、ちょっと惜しかったけど、
+お祭りでもおまけで正解、でいいよね？","诶嘿嘿，虽然稍微差了那么一点点，
+但说成是祭典也算勉强过关，可以吧？",translated,依恩,622238d7db,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#38#12,"ねえねえ、
+それより早く見て回ろうよ。","呐呐，
+闲话少说快点到处逛逛吧。",translated,依恩,c539f79130,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#40#12,……すごく賑やかだね。,……真是好热闹呢。,translated,依恩,c44fbddeba,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#41#12,"わたし、こういう賑やかな場所って
+得意じゃないんだけど……。","我虽然一直以来
+都不太擅长应付这种喧闹的场合……。",translated,依恩,05d17e736b,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#42#12,でも、ここは平気かも。,但在这里似乎完全没问题呢。,translated,依恩,54b677f923,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#43#12,"こうして歩いてるだけで、
+何だかわくわくしてくるの。","光是像这样漫步在其中，
+心里就不知怎么的格外兴奋雀跃呢。",translated,依恩,6707ec6ccb,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#44#12,う～ん、何でかな？,唔～，到底是为什么呢？,translated,依恩,b430fad388,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#45#12,"思い出せないけど、縁日で
+楽しい経験をしたことがあるから、かな？","虽说想不起来，但大概是因为以前在庙会上
+有过什么开心愉快的经历吧？",translated,依恩,c5c4c93c8f,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#47#12,いい匂いがするからだと思う,我觉得是因为闻到了好闻的香味,translated,,a4da8a78bc,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#48#12,そのことを思い出せるといいね,要是能想起那件事就好了呢,translated,,5f3be1e512,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#50#12,えへへ、実はさっきから気になってたの。,诶嘿嘿，其实我从刚才起就一直在意呢。,translated,依恩,0945ce074d,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#51#12,"焼きそば、フランクフルト、
+イカ焼き、かき氷……。","炒面、法兰克福香肠、
+烤鱿鱼、刨冰……。",translated,依恩,be23d2ae97,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#52#12,あっ、かき氷は匂わないか……。,啊，刨冰好像闻不出什么气味来吧……。,translated,依恩,b3e850a93c,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#53#12,"って、そうじゃなくて！
+まるで、わたしが食いしん坊みたいに
+聞こえるんですけどー？","不对，我不是那个意思啦！
+这听上去不就搞得
+好像我很贪吃一样嘛――？",translated,依恩,72afbf46b4,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03m.txt#56#12,"うん……
+本当に来たことがあるならね。","嗯……
+前提是以前真来过的话呢。",translated,依恩,dbd5469967,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#57#12,"もしかしたら、この場の雰囲気で
+わくわくしてるだけって可能性も
+考えられるけど……。","虽然也存在一种可能性，
+就是我仅仅只是被现场的气氛
+带动得兴奋起来而已……。",translated,依恩,bacd964345,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03m.txt#58#12,"でも、それならそれで、あなたと
+うんと楽しむのもいいよね？","不过，就算真是那样，
+只要能和你玩得尽兴不也很棒嘛？",translated,依恩,2d7e2908cd,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#59#12,"あなたとの思い出作りになるし。
+えへへ……。","还能成为属于我们两个人的美好回忆呢。
+诶嘿嘿……。",translated,依恩,06a121f2ec,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#61#12,"そういえば、あなたは
+縁日って行ったことある？","说起来，你以前
+有去过庙会吗？",translated,依恩,219d20fbf4,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#63#12,もちろん,当然有,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#65#12,そっかぁ……。,这样呀……。,translated,依恩,0b7418ea74,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#66#12,"それじゃあ、今度来る時はあなたに
+エスコートしてほしいなぁ。","那么，下次来的时候
+我可要拜托你好好为我领路护送喽。",translated,依恩,3d7d3471d0,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#67#12,"人がいっぱいで、慣れてないわたしは
+はぐれちゃうかもしれないし。","毕竟人这么多，要是不习惯的话
+我说不定一下子就会走散呢。",translated,依恩,d171a3d12d,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#69#12,任せて,交给我吧,translated,,b5f1a16f12,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#71#12,えへへ、頼りにしてるよ♪,诶嘿嘿，那我就全仰仗你喽♪,translated,依恩,dd96238b29,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#72#12,"……あっ、端っこまで
+歩いてきちゃったね。","……啊，不知不觉
+都走到尽头了呢。",translated,依恩,0ee9b5bb67,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#74#12,"どうしよう？
+また来た方向に戻ってみようかな？","怎么办呢？
+要不要顺着来时的路再走回去呀？",translated,依恩,7793153184,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#75#12,"……でも、やっぱり楽しみは
+今度にとっておいた方がいいかも。","……不过，有些乐趣
+果然还是留到下次比较好呢。",translated,依恩,52a06e4a80,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#76#12,"初日に見尽くしちゃうのは
+もったいないよね。","第一天就把所有东西看光光的话
+未免也太可惜了嘛。",translated,依恩,21d1bc3a6d,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#77#12,今日はもう帰ろっか。,今天就先回去吧。,translated,依恩,ff20c40dbc,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#79#12,ふ～……ただいまー。,呼～……我回来啦――。,translated,依恩,05510fc6f5,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#80#12,"初めての場所だったからかな？
+ちょっと疲れちゃったかも……。","大概是因为是第一次去的地方吧？
+稍微感觉有点累了呢……。",translated,依恩,12ff190b8a,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#81#12,"でも、遊び疲れって感じだから、
+嫌じゃないよ。","不过是那种尽情玩累了的感觉，
+所以一点都不讨厌哦。",translated,依恩,49ed8b1e3f,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#82#12,"……華やかで、賑やかで、
+凄く楽しかったなぁ……。","……华丽热闹又喧嚣，
+真的玩得超级开心呀……。",translated,依恩,05b237243c,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03m.txt#83#12,今日は、付き合ってくれてありがとね。,今天谢谢你陪我一起去哦。,translated,依恩,1804cd122c,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03m.txt#84#12,"また明日、とは言わないけど、
+近いうちにまた縁日に遊びに行こうね。
+約束だよ。","虽说不会勉强你明天就去，
+但近期我们一定要再去庙会玩哦。
+说好了哦。",translated,依恩,53a90c96a3,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de06_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de06_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de06_03t.txt#9#12,えーっ……今回もだめなの……？,诶～……这次也不行吗……？,translated,依恩,122e715a1d,br=0 nl=0,1,
+inc/event/res/dateromevent/de06_03t.txt#10#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01.txt#6#12,今日も今日とて邪魔するぞぃ。,今天老身也照旧来打扰啦。,translated,妮莉库,335e90a13d,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01.txt#7#12,"とうだいもりがいないのは
+わかっておるが、おぬしは
+ちゃんとおるかの？","虽然明知灯塔守那丫头不在，
+但你小子
+有好好在这儿呆着吗？",translated,妮莉库,da8dbdec92,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01.txt#8#12,"今日も良いものを持ってきたぞ。
+おるのであれば返事をしないのは
+損と思うがの。","老身今天也带了好东西来哦。
+要是你在的话还不搭腔，
+那可就亏大发了呐。",translated,妮莉库,b7aafc6653,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01.txt#10#12,……おや？,……哎呀？,translated,妮莉库,9af4b4245a,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01.txt#11#12,おーい、聞こえておらぬのか？,喂～，你小子听不见吗？,translated,妮莉库,30af302903,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01.txt#12#12,"我がプレゼントを持って
+やってきたのだぞ。","老身可是特地带着礼物
+大驾光临了哦。",translated,妮莉库,e7291f4a83,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01.txt#13#12,"返事くらいしてもらいたいの
+じゃがのぅ？","好歹也给老身吱个声
+回句话嘛？",translated,妮莉库,5f12236679,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01.txt#15#12,"……ふむ、どうやら本当に
+留守のようじゃのぅ。","……唔，看来好像是真的
+不在家呐。",translated,妮莉库,bad68ab850,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01.txt#16#12,"せっかく来たというのに、
+つまらん……。","难得特意跑来一趟，
+真没劲……。",translated,妮莉库,1888ce5bc3,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01.txt#17#12,"仕方がない、今日のところは
+出直すとするかのぅ。","没办法，今天老身就
+改天再跑一趟好喽。",translated,妮莉库,be6aefc7cd,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#1#12,"うむ、ちゃんとおるようじゃの？
+安心したぞぃ。","嗯，看来你小子确实在呐？
+老身这就放心喽。",translated,妮莉库,8b030180fc,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#2#12,"せっかくここまで来たというのに、
+無駄足になるのは嫌じゃからの。","毕竟特地跑到这种地方来，
+白跑一趟老身可不乐意呐。",translated,妮莉库,4775b50464,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#3#12,"同じ用件でまた足を運ぶのは、
+正直言って億劫としか思えぬからのぅ。","毕竟为了同一件事再跑一趟，
+说实话老身也只觉得麻烦得要命呐。",translated,妮莉库,afec012f99,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#4#12,"さて、それはそうと今日もカードを
+持ってきたわけじゃが……。","好啦，闲话暂且不提，
+老身今天也照样把卡片带过来了……。",translated,妮莉库,c304ffb861,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#5#12,おぬし、暗い場所は苦手か？,你小子，害怕昏暗的地方吗？,translated,妮莉库,17765d61b5,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#6#12,得意じゃない,不太擅长,translated,,51a73dc9cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#7#12,場所にもよる,看是什么地方,translated,,e5f7239909,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#9#12,むっ、そうだったのか？,唔，原来是这样吗？,translated,妮莉库,1491b9a47d,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#10#12,"だとすると、これを渡すのは
+おぬしにとっては少々酷かも
+しれぬのぅ……。","这么说来的话，
+把这个交给你小子，
+或许会稍微有点残酷呐……。",translated,妮莉库,3b35d94172,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#11#12,"いや、だがおぬしには少々気張って
+もらわなければならぬでの。","不过，老身也只能请你小子
+稍微硬着头皮顶上去了呐。",translated,妮莉库,0a1dd0d392,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#14#12,ふむ、確かにその通りじゃの。,唔，倒确实是这个道理呐。,translated,妮莉库,9b642365f8,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#15#12,"夜闇は平気だとしても、
+足元すら見えぬ闇まで平気と言える者は
+少ないじゃろうからな。","就算对夜色习以为常，
+但连脚下都伸手不见五指的黑暗，
+能泰然处之的人恐怕也不多见呐。",translated,妮莉库,5fa1b5165b,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#16#12,"だが、安心せい。
+我とてそんな不可解な場所のカードを
+渡す気は毛頭無いからの。","不过放宽心吧。
+老身可压根就没打算
+给你那种古怪晦暗之地的卡片。",translated,妮莉库,bfe9898e2c,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#18#12,"よいか？
+女子というものは、ロマンチックなものに
+目がない生き物での。","听好喽？
+所谓女孩子这种生物，
+向来对浪漫的事物毫无抵抗力呐。",translated,妮莉库,221b1e1710,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#19#12,"無論、それはとうだいもりとて
+同じことじゃぞぃ。","当然，即便是灯塔守那丫头
+也绝不例外哦。",translated,妮莉库,44e6f5645f,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#20#12,"例え擬似的なものとはいえ、満点の空の下、
+おぬしと共に歩けばどう思うかのぅ？","哪怕只是模拟出来的景象，若是在漫天星空下
+与你小子并肩漫步，她会作何感想呐？",translated,妮莉库,f88c8d2f80,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#21#12,"当然、心ウキウキ心臓ドキドキ。
+いい雰囲気になるのは確実だぞぃ。","自然是心潮澎湃、小鹿乱撞。
+气氛绝对会变得极其美好哦。",translated,妮莉库,5c95d565b6,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#22#12,と、ここまで説明すればわかるかの？,那么，解释到这个份上你总该明白了吧？,translated,妮莉库,e1a3f1503a,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#23#12,"今日、我がどこへ行くためのカードを
+持ってきたのか、がの？","老身今天带来的，
+到底是去往什么地方的卡片呐？",translated,妮莉库,a7dfd29085,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#24#12,プラネタリウム？,天文馆？,translated,,9d6e3951f3,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#25#12,宇宙空間！,宇宙空间！,translated,,a6c6c2d1bb,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#27#12,うむ、正解じゃ。,嗯，回答正确。,translated,妮莉库,d744406edf,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#28#12,"まあ、ほぼ答えを言っているようなものでは
+あったのじゃがの。","嘛，虽然老身刚才
+几乎就跟直接报出答案差不多就是啦。",translated,妮莉库,8dcc4d24e2,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#29#12,"それはさておき、まさにデートには
+王道の場所だとは思わぬか？","闲话少叙，你不觉得这简直就是
+约会不可动摇的王道圣地吗？",translated,妮莉库,0bb86be019,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#32#12,"……おぬしの発想は、我を驚かせるために
+構築されておるのかのぅ？","……你小子的脑回路，
+莫非生来就是为了语出惊人吓老身一跳的？",translated,妮莉库,cec2b0f829,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#33#12,"デートで行く満点の星空の見れる場所と
+言われたら、真っ先にプラネタリウムと
+答えるのが普通ではないかのぅ？","要说是约会时能仰望满天星斗的地方，
+第一反应首先回答天文馆
+才是合乎常理的吧？",translated,妮莉库,5bdb1e98f5,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#34#12,"まあ、おぬしの突拍子もない発言も、
+聞いてて楽しくないと言えば嘘に
+なるがの。","嘛，要是说听到你小子
+这种异想天开的离谱回答不开心，
+倒也是假话呐。",translated,妮莉库,0703e93abb,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#36#12,"というわけで、プラネタリウムに行く以上、
+暗いのは怖いなどと言ってはならんぞぃ。","总而言之，既然是去天文馆，
+可不许说什么怕黑之类的话哦。",translated,妮莉库,e18be1462e,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#37#12,"特にとうだいもりは、星空を見るのが
+大好きな娘でもあるからの。","尤其是灯塔守那丫头，
+可是最喜欢眺望星空不过的姑娘呐。",translated,妮莉库,476d027ceb,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#38#12,"あやつが喜び、夢中で眺めている横で
+ビクついていては、格好がつかぬとは
+思わぬか？","那丫头满心欢喜沉醉其中的时候，
+要是你在旁边吓得瑟瑟发抖，
+你不觉得太逊了吗？",translated,妮莉库,aa32da709c,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_01t.txt#39#12,"星に夢中になって転びそうになるあやつを、
+ちゃんとエスコートしてやるのじゃぞ。","当那丫头仰望群星险些摔倒时，
+你可要好好上前护住她才行哦。",translated,妮莉库,066bb3c378,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#40#12,"っと、長々と話をしてしまったの。
+忘れぬうちに、セットしておかねば。","哎呀，老身一不小心就聊久了呐。
+趁着还没忘，赶紧把卡片装上吧。",translated,妮莉库,32371a015e,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#41#12,くふふ、これで準備完了じゃ。,咕呵呵，这下就准备就绪啦。,translated,妮莉库,4170b6d88d,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#42#12,"おっと、一つ釘を刺しておくのを
+忘れとったの。","哎呀，老身差点忘了
+先给你打一记预防针呐。",translated,妮莉库,9662edb837,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#43#12,"……暗いところに二人きりといって、
+手を出すのはいかんぞぃ。","……虽说是昏暗环境下孤男寡女独处，
+动手动脚可万万不行哦。",translated,妮莉库,ee93f8ae7a,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#44#12,"まあ、おぬしにそんな度胸があるとも
+思えんがの。","嘛，虽然老身也不觉得
+你小子有那种贼胆就是了。",translated,妮莉库,b59d33c728,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#45#12,お約束の注意というやつじゃな。,这就算走个过场的例行提醒吧。,translated,妮莉库,ae9d6677dd,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_01t.txt#46#12,"さてと、あやつが帰ってくる前に、さっさと
+退散するとしようかの。","好啦，趁那丫头还没回来，
+老身就赶紧溜之大吉好喽。",translated,妮莉库,d5da8fca09,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_01t.txt#50#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de07_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#6#12,またねりこさんが来てたんだ？,妮莉库小姐又来过了吗？,translated,依恩,dfccfb836f,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#7#12,"う～ん、事前に来ることを
+言って欲しいんだけどなぁ。","唔～，真希望她能提前
+跟我打声招呼要过来呢。",translated,依恩,168dceaa28,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#8#12,"それなら、部屋を事前に掃除して
+おけるのに。","那样的话，我就能事先
+把房间打扫打扫了。",translated,依恩,70d17cf691,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#9#12,"やっぱり人を家に上げるんだから、
+それなりに綺麗にしておかないと
+恥ずかしいもん。","毕竟是要把客人迎进家里，
+要是不稍微收拾整洁一点，
+多难为情呀。",translated,依恩,2d51d76075,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_02m.txt#10#12,勝手に上がってくるんだけどね,虽然她是自己擅自闯进来的就是了,translated,,a0a0b13ec7,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#12#12,……言われてみれば、確かに。,……被你这么一说，确实呢。,translated,依恩,3c7cb95cc9,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#13#12,"まあ、戸締りをしてないわたしにも
+問題があると思うけど……。","嘛，没锁好门窗的我
+自己肯定也有责任就是了……。",translated,依恩,f807942d0b,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#14#12,"と、とりあえず新しいカードを
+もらったんだし、
+早速見に行ってみようよ？","总、总之既然拿到了新卡片，
+我们要不要立刻
+去看看到底是什么地方呀？",translated,依恩,472f34c0e3,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_02m.txt#15#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#16#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#18#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#19#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#20#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#25#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_02m.txt#28#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#29#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#30#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#31#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#32#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#33#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#34#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#35#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_02m.txt#39#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#40#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#41#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#44#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02m.txt#45#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de07_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#17#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#2#12,"えへへ、どんなところに行くのかな？
+わくわくするよー。","诶嘿嘿，会去什么样的地方呢？
+心里扑通扑通跳得好快哦。",translated,依恩,5be8e9545b,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#4#12,"……あれ？
+到着したの？","……咦？
+已经到了吗？",translated,依恩,ded0ded226,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#5#12,……きゃっ！！,……呀啊！！,translated,依恩,ec0d65962b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#6#12,"ど、どうなってるの？
+わたし達の周り、全部星空になっちゃってる。","这、这是怎么回事？
+我们周围全都变成星空了呢。",translated,依恩,715f36c23a,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#7#12,ここって、もしかして……。,这里难道说……。,translated,依恩,6a1992321d,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#8#12,"あっ、何か知ってるかも。
+頭の隅に引っかかってる気がするよ。","啊，我好像知道这里呢。
+总觉得在脑海深处有些模糊的印象。",translated,依恩,40b102ce88,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#9#12,"確か、遠くの星や星座とかを見れる場所で、
+名前は、えっと、えっとぉ……。","记得是个能观赏遥远的星辰与星座的地方，
+名字叫、那个、那个……。",translated,依恩,83afb2ac3a,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#10#12,……そ、そうだ、プラネタリウム！,……对、对了，天文馆！,translated,依恩,a2cf589ddc,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#11#12,正解だよ,答对啦,translated,,01eb6efe3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#13#12,えへへ、自力で思い出せたよ。,诶嘿嘿，靠我自己的力量想起来了呢。,translated,依恩,8bd1f4609c,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#14#12,"でも、わたしの知っているのとは、
+結構違う感じがするかも。","不过，总觉得跟我印象中的
+感觉大不相同呢。",translated,依恩,e086c6515b,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#15#12,"星空は天井だけで、それをソファに座って
+眺めるものだと思ったんだけど……。","我本以为星空只投影在天花板上，
+然后坐在沙发上抬头眺望来着……。",translated,依恩,41283af922,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#16#12,もしかして、今はこれが主流なのかな？,难道说，现在这种才是主流吗？,translated,依恩,0cf6ce7366,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#17#12,主流ではないと思う,我想应该不是主流,translated,,7db07746ea,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#18#12,今はこれが主流だよ,现在这种才是主流哦,translated,,182e62c158,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#20#12,やっぱり、わたしの勘違いじゃないんだね。,果然，并不是我的记忆出错呢。,translated,依恩,9222d894a6,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#21#12,"ってことは、これってわたし達だけのために
+特別に用意されたプラネタリウム、って
+こと？","这么说来，也就是说
+这是专门为了我们两个人特意准备的
+天文馆喽？",translated,依恩,5c2952d676,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03m.txt#22#12,えへへ、何だか嬉しいな。,诶嘿嘿，总觉得好开心呀。,translated,依恩,883136adea,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#23#12,今度、ねりこさんにお礼を言わなくちゃ。,下次必须得好好向妮莉库小姐道谢才行。,translated,依恩,bfa3005a91,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#26#12,そ、そうなの？,是、是这样吗？,translated,依恩,84fcdfe281,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#27#12,う～、全然知らなかったよぉ……。,唔～，我完全不知道呀……。,translated,依恩,b2a23b05aa,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#28#12,"わたしの記憶がない間に、プラネタリウムも
+随分凄いものになっちゃったんだね。","在我失去记忆的这段时间里，
+天文馆也已经进化得这么厉害了呢。",translated,依恩,8caadc17d6,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#29#12,"……でも、いくらなんでも凄くなり過ぎの
+ようにも感じるんだけど？","……不过，怎么想我都觉得
+这未免也厉害过头了吧？",translated,依恩,45f409a5bc,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#31#12,"えっと……このプラネタリウムって、
+どうやって星を見ればいいのかな？","那个……这个天文馆，
+到底该怎么观赏星空才好呢？",translated,依恩,ffdb1443ae,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#32#12,見たところ、座れるところもなさそうだし。,粗略看去，好像连个能坐的地方都没有呢。,translated,依恩,486f71e899,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#33#12,"……歩いちゃって大丈夫かな？
+それとも、ここで眺めてようか？","……到处走走看应该没问题吧？
+还是说，就站在这里眺望呢？",translated,依恩,758ab16ad7,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#34#12,歩こう,到处走走吧,translated,,3937144a7c,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#36#12,あ……。,啊……。,translated,依恩,674a8541f0,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#37#12,えへへ、そう言ってもらえてよかった。,诶嘿嘿，能听你这么说太好啦。,translated,依恩,545b0fe017,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#38#12,"それじゃ、歩こうか？
+でも、暗いからゆっくりだよ。","那么，我们到处走走看吧？
+不过周围很暗，一定要慢慢走哦。",translated,依恩,1f8415c1e9,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#40#12,"……さっきは、ここで眺めてようか、なんて
+聞いたでしょ？","……刚才我虽然问了你
+要不要就站在这里眺望，对吧？",translated,依恩,457ca5afec,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#41#12,"でも、本当はちょっと歩いてみたいなぁ、
+って思ってたの。","但其实我心里一直想着
+真想稍微走走看呢。",translated,依恩,928066ed5e,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#42#12,だって、どこを見ても全部星空なんだよ？,毕竟，无论看向哪里全都是满天星斗呀？,translated,依恩,6567933ede,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#43#12,"なんだか、宇宙空間を自由に歩きながら、
+天体観測をしているみたい。","总觉得好像在宇宙空间中自由漫步、
+一边进行着天体观测一样。",translated,依恩,40be2d319d,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#44#12,あ、でも歩くっていうのはちょっと変かな？,啊，不过说成漫步好像有点奇怪？,translated,依恩,a8539ecc15,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#45#12,"実際は歩くものじゃないし。
+……泳ぐ、でいいのかな？","实际上又不是用脚在走。
+……用“遨游”来形容合适吗？",translated,依恩,5d99b25186,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#46#12,泳ぐでいいと思う,我觉得遨游挺合适的,translated,,815efc0c29,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#47#12,飛ぶ、の方がいいと思う,我觉得飞翔更合适一些,translated,,cd72b54379,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#49#12,うん、やっぱりそうだよね。,嗯，果然是这样呢。,translated,依恩,33d2c9e4bb,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#50#12,宇宙遊泳、ともいうくらいなんだし。,毕竟大家也常说“太空漫游”嘛。,translated,依恩,efc8157078,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#51#12,"せっかく三百六十度星空なんだから、
+無重力の中を泳ぎながら見れたら、
+もっと楽しかったんだけどなぁ……。","难得有三百六十度的全景星空，
+要是能在无重力中一边遨游一边欣赏，
+肯定会更有趣吧……。",translated,依恩,6bc21060cc,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03m.txt#52#12,"って、それだと泳ぐのが楽しくて、
+星が目に入らなくなっちゃうかな？","哎呀，那样的话光顾着玩得开心，
+星空反而完全进不到眼里去了吧？",translated,依恩,45bfd2da48,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#55#12,"う、うーん……。
+ちょっと違うような気がするかも。","唔、唔～……。
+感觉好像稍微有点偏差呢。",translated,依恩,cf2af3a734,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#56#12,"何かに乗っているとしたら、飛ぶ、の方が
+合ってると思うけど。","要是乘坐着某种载具的话，
+我想用“飞翔”更合适一些。",translated,依恩,0ef5c04e24,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#57#12,生身の場合は、泳ぐ、が正しいと思うよ。,但要是肉身的话，我觉得还是“遨游”更准确哦。,translated,依恩,dfa6c944e3,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#59#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#60#12,"あそこに見える星……。
+あんな星、あったかな？","在那边能看见的那颗星星……。
+我以前见过那样的星星吗？",translated,依恩,9dc2a4b2ff,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#61#12,"あっ、向こうにも知らない星がある。
+そっちの赤色巨星も。","啊，那边也有我不认识的星星。
+还有那颗红巨星也是。",translated,依恩,a122105a16,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#62#12,"……ここに見える星って、
+実際にある星なのかな？","……这里能看见的星星，
+实际上真的存在吗？",translated,依恩,28c3dad91b,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#63#12,"わたし、星空を眺めるのが好きだから、
+肉眼で見たことのある星は全部覚えてるの。","我很喜欢眺望星空，
+所以肉眼看过的星星我全都记得哦。",translated,依恩,b1805a620d,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#64#12,"でも、ここで見てる星は、
+ほとんどが見たことの無い星ばかりだよ。","但是在这里看到的星星，
+绝大多数都是我从未见过的呢。",translated,依恩,8b56e62290,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#65#12,"どこから見た星空なのかはわからないけど、
+こういう風に楽しめるのもプラネタリウムの
+いいところだよね。","虽然不知道是从哪个视角观测到的星空，
+但能像这样尽情享受
+也是天文馆的魅力所在呢。",translated,依恩,8d51f758af,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03m.txt#66#12,"今度来た時は、違う座標からの星空を
+見てみたいなぁ。","下次再来的时候，
+真想看看从不同坐标观测到的星空呢。",translated,依恩,6df1bc2456,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#67#12,できるの？,做得到吗？,translated,,147f12d5bc,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#69#12,"多分、あのカードの中にいくつか星空の
+種類が入ってるんじゃないかな？","我想那张卡片里面，
+大概收录了好几种不同的星空吧？",translated,依恩,ec17017a4f,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#70#12,まあ、それも今度来た時に試してみようよ。,嘛，那个也等下次来的时候再试试看吧。,translated,依恩,ce356ccd3c,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#71#12,"今試しちゃうのは、
+ちょっともったいない気もするし。","要是现在就全部试完，
+总觉得稍微有点可惜呢。",translated,依恩,309f9282cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#72#12,……ふぅ、大分歩いちゃったね。,……呼，不知不觉走了好久呢。,translated,依恩,b6fa049407,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#74#12,"とりあえずどんなところなのかは
+よくわかったんだし、そろそろ戻ろっか？","总之也差不多清楚这里是个什么样的地方了，
+我们是不是该回去了呀？",translated,依恩,5cd9775690,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#75#12,"初日から堪能し過ぎて、次に来た時に
+楽しめなくなったらやだもん。","第一天要是玩得太尽兴，
+下次来的时候觉得没意思可就不好啦。",translated,依恩,1949dd9a82,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#76#12,それじゃ、そろそろ帰ろうか？,那么，我们差不多该回去了吧？,translated,依恩,08d1e0e0af,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#78#12,ふぅ……ただいまー。,呼……我回来啦――。,translated,依恩,1b2b7c5a0b,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03m.txt#79#12,"うぅ、急に明るいところに戻ってきたから、
+ちょっと目が痛いかも……。","呜呜，突然回到这么明亮的地方，
+眼睛稍微有点刺痛呢……。",translated,依恩,3f13437394,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03m.txt#80#12,"でも、凄く楽しかったなぁ……。
+まさか、あんな素敵なところに行けるように
+なるなんて……。","不过，真的超级开心呀……。
+真没想到居然能去
+那么棒的地方……。",translated,依恩,fa7a4a6596,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03m.txt#81#12,"近いうちに、また絶対行こうね。
+約束だよ！","近期我们一定要再去一次哦。
+说好了哦！",translated,依恩,30ca8dfe45,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de07_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de07_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de07_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de07_03t.txt#10#12,しょぼ…。,沮丧……。,translated,依恩,d9d757db35,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#6#12,邪魔するぞぃ。,老身来打扰啦。,translated,妮莉库,e87b736789,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#7#12,くふふ、今日も良いものを持ってきたぞ。,咕呵呵，老身今天也带了好东西来哦。,translated,妮莉库,91b25accb3,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#8#12,"おぬしととうだいもりの仲を、
+急速接近させるためのものじゃ。","可是能让你小子和灯塔守的关系
+急速升温的好东西呐。",translated,妮莉库,d82e1849a7,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01.txt#9#12,"どうじゃ、喉から手が出るほど
+欲しいじゃろう？","怎么样啊，是不是眼馋得
+恨不得伸手抢过去啦？",translated,妮莉库,e9fef8aee5,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01.txt#11#12,…………おや？,…………哎呀？,translated,妮莉库,709c153b9f,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#12#12,"反応がないのぅ？
+まさか、今日に限っていないということは
+あるまいな？","没有反应呐？
+难不成，偏偏今天
+你小子却不在吗？",translated,妮莉库,8c72c6f1a2,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_01.txt#13#12,ほれ、早く返事をせんか。,喂，还不快点回老身一句。,translated,妮莉库,4abb608938,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#15#12,……何じゃ、本当にいないのか。,……搞什么啊，难道真的不在吗。,translated,妮莉库,469927f798,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#16#12,せっかく来たというのに、つまらんのぅ。,难得特意跑来一趟，真没劲呐。,translated,妮莉库,c7245d1a0a,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01.txt#17#12,まあ良い、日を改めるとするか……。,嘛也罢，改天再跑一趟吧……。,translated,妮莉库,fc9a0e670c,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#1#12,おお、ちゃんとおったか。,哦哦，原来你小子在啊。,translated,妮莉库,73a2ea4927,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#2#12,"くふふ、今日も新しい場所へ行けるカードを
+持ってきてやったぞ。","咕呵呵，老身今天也把能去往
+新地方的卡片给你带过来了哦。",translated,妮莉库,8e23029c72,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#3#12,"どうじゃ、嬉しいか？
+嬉しいのであれば素直に喜んでくれて
+構わんのじゃよ？","怎么样，高兴吗？
+要是高兴的话，老身也不介意
+你坦率地向老身欢呼雀跃哦？",translated,妮莉库,38eb995ebf,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_01t.txt#4#12,ねりこさん、どうもありがとう,妮莉库小姐，非常感谢你,translated,,bbd0a5e5f6,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#5#12,早く頂戴！,快点给我！,translated,,5658c80875,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#7#12,ふむ、礼儀正しいのは良いことじゃな。,唔，懂礼貌确实是件好事呐。,translated,妮莉库,cf259f5c61,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#8#12,"しかし、我としてはもっとこう、
+とびつく勢いで欲しがる姿を
+見たかったんじゃがのぅ……。","不过老身原本还想看看
+你小子像饿虎扑食一样
+扑上来抢要的模样呢……。",translated,妮莉库,4eb1399190,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_01t.txt#9#12,"まあ、礼儀正しいのは嫌いではないからの。
+今回は特別じゃ。","嘛，老身倒也不讨厌知书达理的人。
+这次就算特别赏你的吧。",translated,妮莉库,b437fd3595,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#12#12,くふふ、よいがっつきようじゃな。,咕呵呵，这副猴急的模样挺有意思嘛。,translated,妮莉库,2f011822d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#13#12,"これだけ喜ばれると、
+持ってきた我としても気分が良いのぅ。","既然你小子这么高兴，
+特意带来的老身心情也舒畅呐。",translated,妮莉库,ae7e716b9d,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#14#12,"おっと、それではあまり焦らさない方が
+良さそうじゃ。","哎呀，看来老身还是
+不要太吊你胃口比较好呢。",translated,妮莉库,a2e9b10603,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#16#12,"今日持ってきたのは、デートの王道コースの
+一つ、水族館のカードじゃ！","老身今天带来的，可是约会王道路线之一、
+水族馆的卡片哦！",translated,妮莉库,a2817b34fc,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#17#12,"水族館でのデート、素晴らしいとは
+思わぬか？","在水族馆里约会，
+你不觉得超级棒吗？",translated,妮莉库,238dd34903,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#18#12,"水槽の水に反射した光で、幻想的な雰囲気と
+なっておる中を、愛しき者と歩く……！","在水槽波光粼粼反射的梦幻氛围中，
+与心爱之人并肩漫步……！",translated,妮莉库,7fe57ca9d7,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#19#12,珍しい魚を見て盛り上がり、それから……。,看着珍奇的鱼群热烈交谈，然后……。,translated,妮莉库,4c87f3489d,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#20#12,……それ以外に、何をするのかのぅ？,……除了那些之外，还能干什么来着？,translated,妮莉库,b8436a5ad1,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#21#12,"考えてみれば、水族館とは魚を見る以外は
+特にすることの無い場所じゃし……。","仔细琢磨琢磨，水族馆除了看鱼之外
+好像确实没别的事情可干了呐……。",translated,妮莉库,85f5f39e3f,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#22#12,"魚好きならともかく、そうでない者達は
+どう楽しめばよいのか、トンと謎だのぅ。","喜欢鱼的人倒也罢了，那些对鱼没兴趣的人
+到底该怎么找乐子，老身可是一概不知呐。",translated,妮莉库,b25e923336,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#23#12,雰囲気を楽しむ？,享受氛围？,translated,,8f4822a2d8,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#24#12,さっぱりわからない,完全搞不懂,translated,,b2cdad2b8e,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#26#12,"雰囲気を楽しむにしても、
+限度があるとは思うのじゃが……。","虽说是享受氛围，
+但老身觉得总归也有限度吧……。",translated,妮莉库,8142dea199,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#27#12,"……まあ、デートコースの王道と呼ばれる
+場所であることに違いはないからの。","……嘛，不过不管怎么说，
+这里被称为约会王道圣地绝无虚假呐。",translated,妮莉库,34fb6c5864,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#28#12,"水族館という場所が持つ独特の雰囲気に
+酔えれば、超楽しめるはずじゃ。","只要能沉醉在水族馆独特的氛围之中，
+肯定能玩得超级开心的。",translated,妮莉库,75e812743a,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#31#12,"なんじゃ、おぬしの世界には“わびさび”
+という言葉があるんじゃろ？","怎么，你小子的世界里不是有
+所谓讲究“意境风雅”的说法吗？",translated,妮莉库,604ebe4666,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#32#12,"雰囲気を生かして、レディを楽しませるのも
+器量の一つじゃよ。
+せいぜい精進するんじゃな。","懂得借助氛围让淑女开心，
+也是衡量一个男人的本事之一哦。
+你就好好加油精进吧。",translated,妮莉库,c8f440fd45,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_01t.txt#33#12,"しかし水族館はデートコースの王道の一つで
+あることに違いはない。
+行ってみれば、超楽しいはずじゃ。","不过水族馆作为王道约会路线之一
+是不争的事实。
+只要亲自去一趟，肯定超有趣的。",translated,妮莉库,1d1de6c04d,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_01t.txt#35#12,さてと、では早速カードをセットするかの。,好啦，那老身这就赶紧把卡片装上吧。,translated,妮莉库,a0942b3a90,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#39#12,"くふふ、これで良し。
+いつでも水族館へ行けるぞぃ。","咕呵呵，这样就搞定啦。
+随时都可以去水族馆喽。",translated,妮莉库,f06503d47f,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#40#12,……しかし、水族館、か。,……话说回来，水族馆啊。,translated,妮莉库,ef134f3813,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#41#12,"我ならば水族館よりも、
+いけすの方が嬉しいがの。","要是换成老身的话，比起水族馆
+还是饭店的活鱼池更让人高兴呐。",translated,妮莉库,cb7824b2a8,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#42#12,"まあ、とにかくとうだいもりと二人で、
+超楽しんでくるんじゃぞ。","嘛，总而言之你小子就和灯塔守
+两个人去尽情玩耍吧。",translated,妮莉库,44e25a35ca,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_01t.txt#43#12,では、またな。,那么，回见啦。,translated,妮莉库,7f2b96df24,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_01t.txt#47#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de08_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#6#12,またねりこさんが来てたんだ？,妮莉库小姐又来过了吗？,translated,依恩,dfccfb836f,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#7#12,"う～ん、事前に来ることを
+言って欲しいんだけどなぁ。","唔～，真希望她能提前
+跟我打声招呼要过来呢。",translated,依恩,168dceaa28,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#8#12,"それなら、部屋を事前に掃除して
+おけるのに。","那样的话，我就能事先
+把房间打扫打扫了。",translated,依恩,70d17cf691,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#9#12,"やっぱり人を家に上げるんだから、
+それなりに綺麗にしておかないと
+恥ずかしいもん。","毕竟是要把客人迎进家里，
+要是不稍微收拾整洁一点，
+多难为情呀。",translated,依恩,2d51d76075,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_02m.txt#10#12,勝手に上がってくるんだけどね,虽然她是自己擅自闯进来的就是了,translated,,a0a0b13ec7,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#12#12,……言われてみれば、確かに。,……被你这么一说，确实呢。,translated,依恩,3c7cb95cc9,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#13#12,"まあ、戸締りをしてないわたしにも
+問題があると思うけど……。","嘛，没锁好门窗的我
+自己肯定也有责任就是了……。",translated,依恩,f807942d0b,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#14#12,"と、とりあえず新しいカードを
+もらったんだし、
+早速見に行ってみようよ？","总、总之既然拿到了新卡片，
+我们要不要立刻
+去看看到底是什么地方呀？",translated,依恩,472f34c0e3,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_02m.txt#15#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#16#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#18#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#19#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#20#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#25#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_02m.txt#28#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#29#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#30#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#31#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#32#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#33#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#34#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#35#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_02m.txt#39#12,"え！？　ほんと！？
+やったぁっ！","诶！？真的吗！？
+太棒啦！",translated,依恩,ef6e466f11,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#40#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#41#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#44#12,"あはは、そうだよね…。
+ごめんね、もったいぶっちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太卖关子了。",translated,依恩,5146b88339,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02m.txt#45#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de08_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#17#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#3#12,……んっ？,……嗯？,translated,依恩,df49f3b316,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#4#12,"わ、わわっ！？
+水の中！？","哇、哇哇！？
+在水里吗！？",translated,依恩,989ecb49e9,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#5#12,……じゃなくて、大きな水槽？,……不对，是个好大的水槽？,translated,依恩,bbf2196893,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#6#12,"ふぅ、ビックリしたぁ……。
+自分が水の中にいるのかと思っちゃったよ。","呼，吓我一大跳……。
+我还以为自己掉进水里了呢。",translated,依恩,65fb27f829,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#7#12,でも、ここって何なんだろう？,不过，这里到底是做什么的地方呢？,translated,依恩,dc77f9aedb,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#8#12,"こんなに大きな水槽があって、
+中に魚が泳いでいて……。","有这么巨大的水槽，
+里面还有好多鱼游来游去……。",translated,依恩,5bfd402b16,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#10#12,"いけす……だっけ？
+新鮮な魚を食べさせてくれる場所だよね。","是叫……活鱼池来着？
+是能让人吃到新鲜活鱼的地方对吧。",translated,依恩,81ce52ba8b,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#12#12,水族館だよ,是水族馆哦,translated,,ae73458fb4,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#14#12,水族館？,水族馆？,translated,依恩,31ddd8ea33,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#15#12,水族館っていうと、えっと……。,要说是水族馆的话，那个……。,translated,依恩,8af253ca5a,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#16#12,"あっ、ああっ！
+思い出した！","啊、啊啊！
+我想起来了！",translated,依恩,e12df442da,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#17#12,"珍しい魚がたくさんいたり、
+イルカのショーを見たりする場所だよね？","是有好多珍稀鱼类、
+还能看海豚表演的地方对吧？",translated,依恩,b1305147eb,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#19#12,正解,答对啦,translated,,5c99dc42f8,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#20#12,ここではイルカショーはやってないみたい,这里好像没有海豚表演呢,translated,,31f58e9262,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#22#12,やった、当たった！,太好啦，猜对啦！,translated,依恩,cf257c7c93,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#23#12,"当たったってことは、やっぱりわたしは
+ここのことを知ってるってことだよね？","既然猜对了，就说明我以前
+果然知道这个地方对吧？",translated,依恩,5ab8a843ee,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#24#12,えへへ、また一つ思い出せたみたい。,诶嘿嘿，看来我又想起来一件事呢。,translated,依恩,0925853363,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#25#12,"でも、ここが水族館ってこと以外は……
+まだ思い出せないみたい。","不过除了这里是水族馆以外……
+好像还是什么都想不起来呢。",translated,依恩,85a9657cac,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#28#12,えーっ！？,诶――！？,translated,依恩,12ba87aa60,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#29#12,"水族館なのにイルカショーが無いなんて、
+ちょっとガッカリかも……。","明明是水族馆却没有海豚表演，
+稍微让人有点小失望呢……。",translated,依恩,464fb302c8,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#30#12,"……あれ？
+ここではってことは、他の場所では
+やってるところがあるってことだよね？","……咦？
+你说这里没有，也就是说
+在其他地方是有海豚表演的对吧？",translated,依恩,25be28959b,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_03m.txt#31#12,"それを知ってるってことは、
+水族館のことを思い出せたってことかな？","既然连这件事我都知道，
+是不是说明我想起水族馆的事情来了呢？",translated,依恩,130ec7924a,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#32#12,"えへへ、やった！
+また一つ新しいことを思い出せたみたい。","诶嘿嘿，太棒啦！
+看来我又回想起了一件新事情呢。",translated,依恩,38185005fc,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#34#12,"ねえねえ、せっかく来たんだから、
+ちょっと歩いてみようよ。","呐呐，难得都特意过来了，
+我们稍微到处走走看看嘛。",translated,依恩,1e23b06764,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#35#12,"もっと色々見てみたいし、
+もしかしたら、他のことも思い出せるかも。","我想多看一看各种各样的东西，
+说不定还能想起其他事情来呢。",translated,依恩,53ad1dbe1d,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#37#12,それにしても、本当にすごいね。,话说回来，这里真的很厉害呢。,translated,依恩,49772f5729,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#38#12,"こんなにたくさんお魚が泳いでるよ。
+見たことのないのもたくさんいるし。","有这么多鱼在游来游去呢。
+而且好多都是我从没见过的鱼。",translated,依恩,bc77623988,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#39#12,あっ、今すごい顔のお魚が泳いでたよ！,啊，刚才游过去一条长相好滑稽的鱼哦！,translated,依恩,ae9ca840a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#40#12,"あぁいうお魚もいるんだね。
+ちょっと面白いかも♪","原来还有长成那样的鱼呀。
+感觉蛮有趣的呢♪",translated,依恩,e957582a67,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#41#12,えっと……何て名前のお魚かな？,那个……那叫什么名字的鱼呢？,translated,依恩,d406b78196,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#43#12,魚の名前に詳しいの？,你很懂鱼的名字吗？,translated,,38422d9eb8,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#45#12,う～ん……。,唔～……。,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#46#12,あはは、全然ダメみたい……。,啊哈哈，好像完全不行呢……。,translated,依恩,e6e55bba4c,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#47#12,"記憶を失う前は、お魚にはあんまり興味が
+なかったのかもしれないね。","或许我在失去记忆之前，
+对鱼类本来就没什么兴趣也说不定呢。",translated,依恩,4895c95398,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#48#12,"う～ん……でも、こんなに泳いでいるのに、
+一匹もわからないのはちょっと残念……。","唔～……不过明明有这么多鱼在游，
+却连一条都认不出来稍微有点可惜呢……。",translated,依恩,56a325955d,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#49#12,"どうせ見るなら、お魚のことを
+知ってた方がきっと楽しめたよね。","既然都要看，要是能知道它们的名字
+肯定会觉得更加有趣吧。",translated,依恩,c38c1fffaf,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#50#12,"せめて一匹か二匹くらい、
+すぐに思い出せたら良いのに……。","哪怕只要能立刻
+想起一两条鱼的名字也好呀……。",translated,依恩,c5f771a2a7,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#52#12,食べる専門だったんじゃない？,你以前该不会是专门负责吃的吧？,translated,,b99520b8b9,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#53#12,珍しい魚ばかりなんじゃない？,会不会因为全都是珍稀鱼类呢？,translated,,cded3b0906,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#55#12,うっ……ひ、否定できないかも。,呜……可、可能真没法否认呢。,translated,依恩,ea4a203403,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#56#12,"確かに、調理された後のお魚ばかり
+見てたとしたら、泳いでるところを
+見ても思い出せないよね。","确实，如果平时尽看着
+做成料理后端上桌的鱼肉，
+就算看着活鱼游动也想不起来呢。",translated,依恩,709b577474,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_03m.txt#57#12,"……それに、魚って結構似たり寄ったりな
+見た目だから、素人には区別が難しいし。","……而且鱼的外形大体上都差不多，
+外行人本来就很难分辨清楚嘛。",translated,依恩,edb3111108,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#58#12,"食べる専門じゃなかったとしても、
+見分けるのは中々難しいんじゃないかな？","就算不是只顾着吃，
+想要一一辨认出来也相当不容易吧？",translated,依恩,a0e2827a40,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#61#12,なるほど……それはあるかもしれないね。,原来如此……倒也确实很有可能呢。,translated,依恩,bebfad112b,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#62#12,"ねりこさんが用意してくれたカードの
+おかげで来れる、特別な水族館だもん。","毕竟这是多亏了妮莉库小姐准备的卡片
+才能进来的特别水族馆嘛。",translated,依恩,b588b574c9,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#63#12,"そこにいるお魚がすごく珍しいものでも
+何もおかしくはないよね。","里面的鱼全都是极其罕见的珍稀鱼种，
+也完全合情合理呢。",translated,依恩,0f865e6b79,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#65#12,"……でも、ここって何だか不思議な感じが
+するよね？","……不过，总觉得这里
+有种非常奇妙的感觉对吧？",translated,依恩,af04f1be87,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#66#12,"来た時も言ったけど、自分もお魚達と一緒に
+水の中にいるような感じがするよ。","虽说刚来的时候我也提过，
+但真的感觉自己也和鱼群一起在水里一样呢。",translated,依恩,abdf183b8e,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#67#12,"わたし、泳ぐのが苦手だって前に
+話したっけ？","我之前有跟你聊过
+我不擅长游泳这件事吗？",translated,依恩,973b4ac262,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#68#12,"だから、自分も水の中に入ってるような
+気持ちになれるのが、すごく嬉しいの。","所以能体验到这种仿佛自己
+也潜入了水中的感觉，真的好开心呀。",translated,依恩,459e844e57,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#69#12,"泳げる人は、今の私みたいな気持ちで
+泳いでるのかな？","会游泳的人平时也是怀着
+我现在这样的心情在游泳的吗？",translated,依恩,9485051161,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#71#12,似てはいるけど、歩くのとは違うかも,虽然感觉相近，但和步行还是有区别的,translated,,2bdaba7780,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#72#12,魚には囲まれてないけどね,虽然平时可不会被鱼群环绕就是了,translated,,bac34ebbf2,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#74#12,そっか、泳ぐのと歩くのは違うよね。,这样啊，游泳和走路果然不一样呢。,translated,依恩,c9d2481292,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#75#12,"う～ん、やっぱり泳いでる時の気持ちは、
+自分も泳いでみないとわからないかぁ……。","唔～，果然游泳时的感觉，
+不亲自游一游还是无法体会啊……。",translated,依恩,16f674d534,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#76#12,"……まあ、いいや。
+わたしはここを歩けるだけで、十分だよ。","……嘛，算啦。
+光是能像这样漫步在其中我就很满足啦。",translated,依恩,47083543c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#79#12,あはは、確かにそうかも。,啊哈哈，确实是那样呢。,translated,依恩,2096b299f8,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#80#12,"実際にこんなにたくさんの魚に囲まれてたら、
+泳ぎづらいよね。","现实中要是被这么多鱼团团围住的话，
+游起泳来肯定也很费劲呢。",translated,依恩,99151808be,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#83#12,"ふぅ……ちょっと、はしゃぎ過ぎて
+疲れちゃったかも。","呼……稍微有点闹腾得太欢，
+感觉有点累了呢。",translated,依恩,75f220eb5c,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#84#12,"初日からじっくり見ちゃうのは勿体ないし、
+今日はもう帰ろっか。","第一天就全部看个底朝天太可惜啦，
+我们今天就先回去吧。",translated,依恩,e3d457d929,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#86#12,ん～、楽しかったぁ！,嗯～，好开心呀！,translated,依恩,f2502062cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03m.txt#87#12,"あんなに近くで、たくさんのお魚を
+見られるとは思わなかったよ。","没想到能隔得这么近，
+看到那么多各种各样的鱼呢。",translated,依恩,156353a50c,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#88#12,"今度行く時も、可愛いお魚を見つけられたら
+嬉しいなぁ。","下次再去的时候，要是能发现
+可爱的鱼鱼就好了呀。",translated,依恩,25001a2db8,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03m.txt#89#12,"えへへ、また一緒に行こうね。
+約束だよ♪","诶嘿嘿，下次还要一起去哦。
+说好啦♪",translated,依恩,38470f55c4,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de08_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de08_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de08_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de08_03t.txt#10#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#6#12,こそこそっ、と邪魔するぞぃ。,鬼鬼祟祟地来打扰啦。,translated,妮莉库,19fc96600a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#7#12,くふふ、どうやら誰もおらぬようじゃの。,咕呵呵，看来好像谁都不在家呐。,translated,妮莉库,b9ba59849e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#8#12,これならばゆっくりと物色できそうじゃ。,这样一来就能慢条斯理地四处搜刮一番啦。,translated,妮莉库,2fe2b012e5,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#10#12,……む？,……唔？,translated,妮莉库,c9a2540e07,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#11#12,"つっこみが遅いのぉ……。
+ほれ、お前さん、いるんじゃろ？","你的吐槽来得也太慢了吧……。
+喂，你小子，其实是在的吧？",translated,妮莉库,f275836145,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01.txt#12#12,"さっさと返事をせぬと、本当に部屋を
+物色してしまうぞぃ？","要是不快点答话，老身可真要
+在这房间里到处翻箱倒柜了哦？",translated,妮莉库,48248619aa,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01.txt#13#12,"そうなったら、とうだいもりに疑われるのは
+お前さんじゃぞ？","到那时候，被灯塔守那丫头怀疑的
+可就是你小子了哦？",translated,妮莉库,17fba6da4d,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01.txt#16#12,"はぁ……つまらん。
+何だか急にやる気が失せてしまったのぉ。","哈啊……真没劲。
+不知怎么的突然一下子就没干劲了呐。",translated,妮莉库,2ca4a86071,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01.txt#17#12,物色する気すら失せてしまったぞ。,连翻箱倒柜的心思都荡然无存了。,translated,妮莉库,3c56e4e5a1,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01.txt#18#12,"今日は帰るとするか……。
+まったく、せっかく来てやったというのに。","今天老身还是回去吧……。
+真是的，亏老身还特意大老远跑过来一趟。",translated,妮莉库,711219c996,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#1#12,なんじゃ、おるではないか。,搞什么嘛，你小子这不是在嘛。,translated,妮莉库,3be8dbc0c2,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#2#12,"本当に誰もおらぬのかと思って、
+少々ヒヤっとしたところじゃ。","老身还以为真的一个人都没有，
+刚才心里还稍微捏了把汗呢。",translated,妮莉库,ac6d745933,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#3#12,何を物色しようとしたの？,你刚才打算搜刮什么？,translated,,85f92c64b0,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#4#12,新しいカード持ってきてくれたの？,你给我们带了新卡片来吗？,translated,,5d4f6fd951,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#6#12,"うむ、とりあえずお前さんの
+パーツを少々……。","嗯，本来打算先把你的零件
+拆走那么一丁点儿……。",translated,妮莉库,05c2b0b133,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#7#12,なんてな、冗談じゃよ。,逗你玩的啦，开玩笑的。,translated,妮莉库,9f0c237968,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#8#12,"今日はお前さんに、新しいカードを
+持ってきてやったのじゃ。","老身今天特地给你小子
+带了张崭新的卡片过来哦。",translated,妮莉库,f1a5586519,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#11#12,んふふ、察しの良い奴じゃな。,唔呵呵，你小子脑子转得挺快嘛。,translated,妮莉库,45f6876551,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#12#12,"その通り、今日も素敵な素敵なカードを
+持ってきてやったぞぃ。","没错，老身今天也带来了一张
+无与伦比的美妙卡片哦。",translated,妮莉库,2000e2f49f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#14#12,しかも今回のカードはな、んっふっふ……。,而且这次的卡片啊，唔呵呵呵……。,translated,妮莉库,035699ba75,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#15#12,"今までのカードとは比べ物にならぬほど、
+ロマンチックで乙女のハートを打ち抜く
+場所の物になっておる。","可是以往的卡片根本无法相提并论的、
+极其浪漫且能彻底击中少女芳心的
+绝妙圣地哦。",translated,妮莉库,370c05952e,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_01t.txt#16#12,"……まあ、本来であればこれを渡すのは
+もう少し後に、と思っておったのじゃが。","……嘛，本来老身是打算
+再稍晚一点再把这东西交给你们的。",translated,妮莉库,7bfe2333aa,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#17#12,"お前さん達の中々発展しない関係を
+見せられておるからかの？","但大概是一直看着你们俩之间
+那迟迟不见实质性进展的关系吧？",translated,妮莉库,dc9a2e97c9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#18#12,"こう、焦れったくなってきた、
+というわけじゃ。","怎么说呢，老身都开始替你们
+感到心焦如焚了呐。",translated,妮莉库,957e615700,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#19#12,"……我の言いたいことは、
+これで伝わったじゃろ？","……老身想表达的意思，
+这样你总该心领神会了吧？",translated,妮莉库,bb3ce3aeaa,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#20#12,関係を発展させろ、と？,你的意思是让我推动关系发展？,translated,,cf6b566989,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#21#12,ねりこさんを連れて行けと？,你的意思是让我带妮莉库小姐去？,translated,,5e405329a3,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#23#12,うむ、わかっておるではないか。,嗯，这不挺明白事理的嘛。,translated,妮莉库,6cd0bc9645,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#24#12,"というより、あれだけデートを繰り返して
+いながら、未だにその程度の関係というのが
+おかしな話なのじゃ。","不如说，明明都反反复复约会那么多次了，
+到现在却居然还停留在这个层面的关系，
+才叫匪夷所思好吗。",translated,妮莉库,31d4e35378,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_01t.txt#27#12,"……今の話を聞いて、どう解釈すれば
+そういう答えに結びつくのかの？","……听了老身刚才的话，你到底是怎么脑补
+才会得出那种风马牛不相及的答案呐？",translated,妮莉库,17653d1b53,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#28#12,さてはお前さん、我に惚れておるな？,莫非你小子，其实暗恋上老身了吧？,translated,妮莉库,18e8ce4ab7,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#29#12,"そ、そんな、ダメじゃダメじゃ！！
+とうだいもりを裏切るような行為、
+我にはできぬ！！","怎、怎么会，不行不行绝对不行！！
+这种背叛灯塔守的行为，
+老身可是万万做不出来的！！",translated,妮莉库,cabaa81521,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_01t.txt#30#12,"……と、まあ冗談はさておき、
+とうだいもりとの関係を発展させろ、
+ということじゃ。","……嘛，玩笑归玩笑，
+意思就是让你赶紧去推动
+和灯塔守那丫头的关系发展啦。",translated,妮莉库,78fdb9bf18,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_01t.txt#32#12,"一つ言っておくがの、この場所に行って
+もしも関係が発展しなければ、今後発展の
+見込みなしと言っても過言ではないぞ。","老身先给你说明白，要是去了这个地方
+两人的关系还毫无进展的话，
+说以后彻底没戏也绝非夸大其词哦。",translated,妮莉库,f5af1acc85,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_01t.txt#33#12,"なぜならば、今回のカードで行ける場所と
+いうのは、教会じゃからな！","毕竟，这次的卡片能够去往的地点，
+那可是教堂啊！",translated,妮莉库,afc2d9a850,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#34#12,"教会といえば、すぐに
+思い浮かべるであろう？","一说到教堂，
+你脑海里立刻就能浮现出来吧？",translated,妮莉库,3421f22365,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#35#12,"純白のドレスに身を包み、指輪の交換、
+永遠の愛の誓い……。","披上一身纯白的婚纱、交换戒指、
+许下厮守终生的永恒誓言……。",translated,妮莉库,59d75110fe,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#36#12,"くふふ、これにときめかない
+乙女はいない……。","咕呵呵，世上可没有
+不为此心潮荡漾的少女……。",translated,妮莉库,2ba1c91ef9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#37#12,"……とは言えぬが、まあとうだいもりならば
+ときめくに違いないであろう。","……虽然也不能一概而论，不过如果是
+灯塔守的话，绝对会怦然心动吧。",translated,妮莉库,6b0a8b498f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#38#12,では、ささっとセットするとしよう。,那么，老身这就麻溜给装上吧。,translated,妮莉库,d7fd5ae3d2,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#39#12,うむ、これで準備完了じゃ。,嗯，这样就准备就绪啦。,translated,妮莉库,fbc2262342,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_01t.txt#40#12,"これでお前さん達の関係がどこまで
+進展するか……楽しみにしておるぞ。","这样一来你们的关系究竟能进展到哪一步……
+老身可就拭目以待喽。",translated,妮莉库,d2d4492190,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#41#12,"では、我は帰るからの。
+いい結果を期待してるぞぃ。","那么，老身这就先回去了。
+老身静候你们的好消息哦。",translated,妮莉库,d82dc6bc09,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_01t.txt#44#12,<CLY1>新しい仮想世界カードを入手しました。,<CLY1>获得了新的虚拟世界卡片。,translated,系统文本,75b60ce9d5,<CLY1> br=0 nl=0,1,keep-tags <CLY1>
+inc/event/res/dateromevent/de09_02.txt#9#12,"ただいま～。
+ちょっと遅くなっちゃったよぅ。","我回来啦～。
+稍微有点晚了呢。",translated,依恩,6003bd5151,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02.txt#10#12,"おでかけ中に雨に降られちゃって、
+ちょっと雨宿りしてたの。","外出的时候遇上下雨，
+在路上避了会儿雨。",translated,依恩,b4d89b52f7,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02.txt#12#12,"ただいま～。
+すっかり遅くなっちゃった。","我回来啦～。
+回来得实在有点太晚了。",translated,依恩,5eef8ba2c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02.txt#13#12,"ちょっとのつもりだったのに、
+結構時間がかかっちゃった。","本来只打算出去一会儿的，
+结果花了好多时间。",translated,依恩,af9b83e000,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02.txt#15#12,疲れた～、すっかり遅くなっちゃったよ。,好累呀～，回来得彻底晚了呢。,translated,依恩,a3a44660cc,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#16#12,"考え事しながら歩いてて、
+気づいたら道に迷っちゃってたの。","一边走路一边思考事情，
+回过神来发现自己迷路了。",translated,依恩,b4f7d643cc,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02.txt#17#12,無事に帰れて、ほっとしたよ……。,能平安回来，总算松了口气呢……。,translated,依恩,44ddac5375,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#20#12,ずっと一人にしちゃってごめんね。,一直留你一个人在这，对不起哦。,translated,依恩,fdf13a175e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#22#12,一人で待たせちゃってごめんね。,让你一个人久等了，对不起哦。,translated,依恩,c5138f0a60,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#24#12,ごめんね、すっかり待たせちゃったね。,对不起哦，让你等了这么久。,translated,依恩,4df9954b9e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#30#12,えへへ♪　おまたせ～。,诶嘿嘿♪ 让～你久等啦。,translated,依恩,175d91e9f4,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#36#12,今いるかな？,现在在吗？,translated,依恩,0a3ddd0c86,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#39#12,"おーい。
+あのね、なんかまた変なカードが
+挿さってるんだけど…。","喂～。
+那个啊，不知道为什么又有张奇怪的卡片
+插在上面了呢……。",translated,依恩,7d85baa702,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_02.txt#40#12,もしかして、ねりこさんが来たの？,难道说是妮莉库小姐来过了吗？,translated,依恩,7a55590625,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#42#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02.txt#44#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#2#12,"…あれ？
+なにか新しいカードが
+あなたに挿さってるよ？","……咦？
+上面好像插着
+什么新的卡片哦？",translated,依恩,c5a6562eb4,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_02m.txt#4#12,"ねえねえ、新しいカードが
+あなたに挿さってるよ？","喂喂，你的身上插着
+什么新的卡片哦？",translated,依恩,30e79fad69,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#6#12,"これって……
+もしかして、ねりこさんが来たの？","这个是……
+难道说妮莉库小姐来过了吗？",translated,依恩,dbe84ed80f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#7#12,"…って、聞かなくても
+それ以外に理由なんて無いよね。","……话说回来，就算我不问
+也不会有其他可能了呢。",translated,依恩,b415b0c7f9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#8#12,"それで、今回のカードでは
+どこに行けるの？","那么，用这次的卡片
+能够去什么样的地方呢？",translated,依恩,602b209fdd,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#9#12,行ってからの楽しみの方がいいと思う,我觉得去了之后亲自揭晓才更惊喜哦,translated,,b1e15e8ac4,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#11#12,"なるほど……。
+確かに、そっちの方がいいよね。","原来如此……。
+确实，那样更让人期待呢。",translated,依恩,5fc7bf9c9f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#12#12,"それじゃあ、早速行ってみない？
+ここがどんな場所なのか、早く知りたいの。","那么，我们现在立刻就去看看吧？
+好想早点知道这里到底是个什么样的地方呢。",translated,依恩,b442341a54,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#13#12,いいよ,好啊,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#14#12,また今度にしよう,下次再去吧,translated,,77c598c19f,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#16#12,…あれ？　いなくなっちゃった？,……咦？走开了吗？,translated,依恩,0b849e2839,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#17#12,"おーい。
+カードの世界へ行こうよぅ……。","喂～。
+一起去卡片的世界玩嘛……。",translated,依恩,beab46a7c1,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#18#12,"うーん……
+また後で誘ってみよっと♪","唔～……
+待会儿再去邀请你看看吧♪",translated,依恩,bd4dde8cd2,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#23#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_02m.txt#26#12,えーっ……がっかり。,诶～……真失望。,translated,依恩,e9ffb57d00,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#27#12,"でも、あなたにも都合があるから
+仕方ないよね……。","不过，你也有自己的事情要忙，
+这也是没办法的事呢……。",translated,依恩,22151cc99f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#28#12,……でも、ちょっとがっかり…。,……不过，还是有点小失落呢……。,translated,依恩,76ed09d09b,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#29#12,………と言っても、仕方ないよね～……。,………虽说如此，也是无可奈何呀～……。,translated,依恩,2ae9c7e48e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#30#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#31#12,今度と言ったら今度,说了下次就是下次,translated,,629f39f4e4,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#32#12,残念だけど、我慢して待ってるね。,虽然很遗憾，但我会忍耐着等你的哦。,translated,依恩,40bdf336d9,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#33#12,それじゃ、またね。,那么，待会儿见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_02m.txt#37#12,"え！？　ほんと！？
+やったぁっ！！","诶！？真的吗！？
+太好啦！！",translated,依恩,c7bc60d481,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#38#12,"えへへ、言ってみるもんだねー。
+ちょっと我が儘だったかな…？","诶嘿嘿，说出来还真灵呢～。
+我是不是有点太任性了呀……？",translated,依恩,0ccdff4858,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#39#12,"でも、楽しみだな～。
+今度はどんな世界なんだろう。","不过，真的好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2f1b886d59,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#42#12,"あはは、そうだよね…。
+ごめんね、ワガママ言っちゃって。","啊哈哈，也是呢……。
+对不起哦，是我太任性了。",translated,依恩,f3ec758be3,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02m.txt#43#12,"またあなたの都合がいいときに
+絶対に行こうね！","等你方便的时候，
+我们一定要一起去哦！",translated,依恩,fc3eeb197e,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_02t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de09_03.txt#7#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#9#12,"もしかして、この前もらった
+仮想世界に行く気になったの？","难道说，你改变主意
+想去上次拿到的虚拟世界了吗？",translated,依恩,8e06e86574,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03.txt#10#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#11#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#13#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03.txt#16#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#17#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#23#12,ねーねー……。,喂～喂……。,translated,依恩,5dbf7ce337,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#24#12,今、忙しいのかな？,现在很忙吗？,translated,依恩,406ddd3149,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#25#12,……おーい…。,……喂～……。,translated,依恩,610039ec3b,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#26#12,…いないのかな？,……不在吗？,translated,依恩,0dfa46530b,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03.txt#28#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#1#12,それじゃ、目を瞑るね。,那么，我要闭上眼睛喽。,translated,依恩,8b1bc2713a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#3#12,……あ、あれ？,……咦、咦？,translated,依恩,c377f5e95d,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#4#12,わーっ……何だか、えっと……。,哇――……总觉得，那个……。,translated,依恩,c8ea3da6fc,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#5#12,"……何だろう？
+ちょっと、変わった場所だね。","……这是什么地方呢？
+稍微有点奇奇怪怪的呢。",translated,依恩,e97cfcb35b,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#6#12,"特に遊ぶような物があるわけじゃないし。
+あ、でも沢山椅子が並んでるね。","又没有什么能玩乐的东西。
+啊，不过整整齐齐摆着好多长椅呢。",translated,依恩,17a2292675,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#7#12,"あっ、わかったかも！
+ここって、劇場でしょ？","啊，我好像知道了！
+这里难道是剧场吧？",translated,依恩,f9221600c5,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#9#12,残念、教会だよ,很遗憾，是教堂哦,translated,,f23950604f,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#11#12,うー、間違えちゃった……。,呜～，猜错了呀……。,translated,依恩,cadab7eca6,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#12#12,"……あれ？
+でも、教会って聞いたことある気がするよ。","……咦？
+不过，我隐约觉得好像听说过教堂呢。",translated,依恩,f4657824ba,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#13#12,えっと、なんだったっけ……。,那个，到底是什么来着……。,translated,依恩,3174fbbddf,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#14#12,"何か、すごく大切なことをする
+場所だった気がするけど……。","感觉好像是个用来做
+非常非常重要的事情的地方……。",translated,依恩,645f987d12,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#15#12,"……でも、遊ぶ物も見る物も特にないし、
+デートには向いてないと思うよ？","……不过这里既没什么好玩的也没什么好看的，
+我觉得不太适合用来约会哦？",translated,依恩,e4353ea17a,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#16#12,"これからここに来るたびに、
+何をすればいいの？","今后每次来到这里，
+我们到底该做什么才好呢？",translated,依恩,5ed9523835,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#18#12,来るたびにドキドキできる,每次来都能小鹿乱撞哦,translated,,140c7191a4,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#19#12,仲良く罪を悔い改める,一起恩爱地悔改罪过,translated,,e5f50bdb0c,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#21#12,えっ……ドキドキ？,诶……小鹿乱撞？,translated,依恩,6ce44aedcf,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#22#12,"そんなドキドキする場所には
+思えないけど……。","我完全不觉得这里会是个
+让人小鹿乱撞的地方呀……。",translated,依恩,b864ea291d,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#23#12,"今のところ、見る物も遊ぶ物もなくて、
+来るたびに退屈しそうな場所にしか
+思えないよ。","就目前看来，既没有景观也没有娱乐，
+我只觉得每次来
+都肯定会无聊到发慌呢。",translated,依恩,bda13088c1,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#26#12,"つ、罪って……。
+悔い改めなくちゃいけないような悪いこと、
+してないと思うけど……。","罪、罪过什么的……。
+我可不记得自己做过什么
+非得忏悔不可的坏事哦……。",translated,依恩,da748d2a6c,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#27#12,"それに、来るたびにするってことは、
+来る前には何か悪いことをしなくちゃ
+いけないってことでしょ？","而且，要是每次来都要忏悔，
+岂不是意味着在来之前
+必须得先干点什么坏事才行吗？",translated,依恩,428b31b6de,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#28#12,わたし、そんな悪いことしたくないよ……。,我才不想干那种坏事呢……。,translated,依恩,9a33915117,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#30#12,……あっ、目の前に何かあるよ。,……啊，眼前好像有什么东西哦。,translated,依恩,ee5ed1427b,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#31#12,あれは確か、えっと……。,那个确实好像是，那个……。,translated,依恩,f19314b61e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#32#12,そう、祭壇！,对，祭坛！,translated,依恩,adef836f98,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#33#12,"実際には見たことないけど、
+本で読んだことがあるよ。","虽然实际上没亲眼见过，
+但我以前在书里读到过哦。",translated,依恩,cdb0f257be,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#34#12,"神父様があそこに立って、色んなお話を
+聞かせてくれるんだよね？","神父大人会站在那里，
+为人们讲述各种各样的话语对吧？",translated,依恩,93081dbe6b,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#35#12,それに、えっと……。,还有，那个……。,translated,依恩,7169be8e4e,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#36#12,"何だったかな？
+何か、すごく大切なことを忘れてる
+ような気がするの。","是什么来着呢？
+总觉得我好像忘记了
+某种极其重要的事情呢。",translated,依恩,289a8a52a4,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#37#12,っ！？,咦！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#38#12,"あ、あれれ？
+何だろ、これ……。","咦、咦咦？
+这是怎么回事……。",translated,依恩,0ff80a5aa9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#39#12,"こ、ここに立ってあなたのことを見たら、
+急に顔が熱くなってきちゃった。","站、站在这里看着你的脸，
+不知怎么的脸颊突然变得好烫哦。",translated,依恩,69d4d04c84,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#40#12,"えっ、どうして？
+もしかして、ここって恥ずかしいことを
+するような場所なの？","诶，为什么呀？
+难道说，这里是用来做
+某种让人非常难为情的事情的地方吗？",translated,依恩,499bc97e26,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#42#12,ヒントは、白いドレス,提示是：白色的礼服,translated,,6dfa64dd44,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#44#12,"白いドレス……。
+それから連想すれば、何か思い出すかな？","白色的礼服……。
+顺着这个线索联想的话，能想起来吗？",translated,依恩,77d5d93d09,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#45#12,"だとすると、まず思い浮かべるのは
+ウエディングドレスだよね。","这么说来的话，最先浮现出的
+肯定是纯白的婚纱对吧。",translated,依恩,5613ad799d,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#46#12,それから、えっと……。,还有就是，那个……。,translated,依恩,58bb8a10fa,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#48#12,っ！？,咦！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#49#12,"わ、わわわわっ！？
+こ、ここ、教会だよね！？","哇、哇哇哇哇！？
+这、这里，确实是教堂对吧！？",translated,依恩,51e8aa7889,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#50#12,教会って、結婚式するところだよ！,教堂可是用来举办婚礼的地方呀！,translated,依恩,cbdd42793a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#52#12,えっ？　違うよ,诶？不是哦,translated,,15434836a8,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#53#12,やっと思い出したね,终于想起来了呢,translated,,bf1ee8d69f,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#55#12,"違わないよ。
+ちゃんと思い出したもん！","才没有错呢。
+我都已经清清楚楚想起来了嘛！",translated,依恩,cc42c01c49,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#56#12,そ、それじゃあ、今立ってるここって……。,那、那么，现在站着的这个地方岂不是……。,translated,依恩,ce6b3ae961,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#57#12,"わわわっ、ま、まだ早いよ！
+わたし達、まだそんな関係じゃないでしょ？","哇哇哇，还、还太早了啦！
+我们之间，明明还没有到那种关系吧？",translated,依恩,42b3f56bf9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#60#12,"ご、ごめんなさい！
+もっと早く思い出さないとダメだよね？","对、对不起！
+我本来应该更早一点想起来才对的吧？",translated,依恩,eac8b2581f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#61#12,"う～、女の子なんだから、真っ先に
+思い出してもいいはずなのに……。","呜～明明是个女孩子，
+理应最先回想起来才对的说……。",translated,依恩,e0e8a9b242,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#62#12,"でも、わたし達って、まだそんな
+関係にはなってないよ？","但是，我们两个人之间，
+明明还根本没到那种地步呀？",translated,依恩,a3e317a592,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#65#12,"やっぱり、こういう場所に来るなら、
+もっと段階を踏まないとダメだよ！","果然，要是来这种地方的话，
+必须按部就班走完该走的阶段才行啦！",translated,依恩,952109fc28,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#66#12,"まずはほら、お付き合いをするところから
+始めて、色々手順を踏んでから……。","首先你看，得先从确立恋爱交往开始，
+经历各种各样的必要步骤之后……。",translated,依恩,96bb179ea9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#67#12,"て、手順って……何言ってるの、
+わたしったら！","步、步骤什么的……我到底在
+胡说八道些什么呀，真是的！",translated,依恩,ee57ffd227,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#69#12,"も、もぉ、今日は帰るよ！
+今の状態じゃ、まともにお話できないもん！","真是的，今天就先回去啦！
+现在的状态，我根本没办法正常聊天嘛！",translated,依恩,2526907cb9,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#71#12,はぁ……まだ顔が熱いよ……。,哈啊……脸上还是好烫哦……。,translated,依恩,efde3eac22,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#72#12,でも、本当にビックリしちゃった。,不过，刚才真的吓了我一大跳呢。,translated,依恩,603dfb077a,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03m.txt#73#12,"も、もちろん、教会に行ったからって
+すぐにその……け、け、結婚式を挙げる
+わけじゃないのはわかってるよ。","当、当然，我也明白
+就算去了教堂也不代表要立刻……
+办、办、办婚礼就是了。",translated,依恩,52c6ed8c13,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#74#12,"でも、やっぱりあなたと一緒だと思うと、
+意識しないわけにはいかないし……。","可是，一想到是和你在一起，
+就怎么都忍不住会胡思乱想嘛……。",translated,依恩,330d3203e5,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#75#12,"って、この話はもうおしまいー！
+これ以上恥ずかしいお話したら、
+本当に顔から火が出ちゃうよ。","哎呀，这个话题就到此为止啦――！
+要是再聊这么害臊的话题，
+脸上真的要羞得喷出火来了啦。",translated,依恩,c9d7a6063d,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03m.txt#76#12,"だから教会は……も、もう少し、
+お互いの仲が深まってからにしようね。","所以去教堂……还是等我们两人的感情
+再、再加深一点之后再去吧。",translated,依恩,a277782f0f,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03m.txt#77#12,"と、とにかくそういうわけだから。
+それじゃ、今日は付き合ってくれて
+ありがとね！","总、总之事情就是这样啦。
+那么，今天谢谢你
+陪我一起去哦！",translated,依恩,17d3f090d9,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03t.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateromevent/de09_03t.txt#2#12,"この前もらったカードの
+新しい仮想世界、そろそろ行かない？","之前拿到的那张卡片里的新虚拟世界，
+差不多也该去看看了吧？",translated,依恩,dc8025013d,br=0 nl=1,2,
+inc/event/res/dateromevent/de09_03t.txt#3#12,わかったわかった、行くよ,知道啦知道啦，去就是了,translated,,5315602001,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03t.txt#4#12,また今度ね,下次再去吧,translated,,6f31c0e2f7,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03t.txt#6#12,"やったぁ！
+えへへ、楽しみだな～。
+今度はどんな世界なんだろう。","太棒啦！
+诶嘿嘿，好期待呀～。
+这次会是怎样的世界呢。",translated,依恩,2c7e8887fc,br=0 nl=2,3,
+inc/event/res/dateromevent/de09_03t.txt#9#12,えーっ……今回もだめなの…？,诶――……这次也不行吗……？,translated,依恩,de02913bbe,br=0 nl=0,1,
+inc/event/res/dateromevent/de09_03t.txt#10#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,

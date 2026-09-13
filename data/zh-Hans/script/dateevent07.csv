@@ -1,0 +1,455 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent07/hon02.txt#3#12,"えへへ、これを出してきたってことは、
+わたしが何を思い出したのかが気になってる
+ってことかな？","嘿嘿，你拿出这个来，
+意思是说很在意我究竟
+想起了什么对吧？",translated,依恩,dd49d47670,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#4#12,"いいよ、教えてあげる。
+でも、どうせなら学校に行ってからに
+しようよ。","好呀，我告诉你。
+不过，难得有这个机会，
+我们还是去了学校再说吧。",translated,依恩,796d081c39,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#5#12,"やっぱり学校での思い出だもん。
+学校で話した方がいいでしょ？","毕竟是在学校里的回忆嘛。
+在学校里聊不是更有感觉吗？",translated,依恩,a5e8fee427,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#6#12,そうだね。学校へ行こう。,你说得对。我们去学校吧。,translated,,a982f7e60a,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#7#12,それなら、また今度にしよう,既然这样，那就下次再去吧,translated,,00f412865d,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#9#12,"そっか。
+それじゃ、また今度行こうね。","这样啊。
+那我们下次再去吧。",translated,依恩,4378b780f4,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#14#12,"えへへ、なんてね。
+ちょっと学校に行ってみたくなっただけ♪
+でも言ったからには、お願いします♪","嘿嘿，开玩笑的啦。
+我只是突然想去学校走走而已♪
+不过既然说了，那就拜托你啦♪",translated,依恩,abc30be3c0,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#16#12,……ん、無事到着したみたい。,……嗯，看起来平安到达了呢。,translated,依恩,36a0e00ef5,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#18#12,"……何だか、最初の頃と違って学校の中を
+歩いてても、懐かしいなぁって感じが
+しなくなってきたよ。","……总觉得和最初不同，在学校里漫步时，
+那种“好怀念啊”的感觉
+已经变得不怎么强烈了呢。",translated,依恩,94baecb4f9,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#19#12,"何回も来てるからかな？
+もう普通の散歩コースみたいな感じ。","是因为来了好多次的关系吗？
+感觉已经像是一条普通的散步路线了。",translated,依恩,4740dc1af7,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#20#12,"昔の、毎日学校に通ってた頃のわたしに、
+少しは近づけてるのかな？","比起过去的自己，那个每天去上学的我，
+现在是不是稍微接近了一点呢？",translated,依恩,5907b88be3,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#21#12,"あ、でも通ってた頃のわたしが、学校を
+散歩コースと思ってるはずないか。","啊，不过当年去上学的我，
+怎么可能把学校当成散步路线呢。",translated,依恩,8cdfa925f7,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#22#12,"う～ん、昔のわたしにとっての学校って、
+どんな場所だったんだろう？","唔～，对过去的我自己来说，
+学校究竟是个什么样的地方呢？",translated,依恩,779667aa66,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#23#12,"勉強好きではなかったと思うから、
+大好きではなかったって気はするけど……。","我感觉自己应该不算爱学习，
+所以应该也不至于非常喜欢就是了……",translated,依恩,f2d8221bdf,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#25#12,そろそろ本題に入ってもらえるかな？,差不多能进入正题了吗？,translated,,75cea1be97,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#26#12,好きだったかどうかを思い出そうよ,去回想一下当年究竟喜不喜欢吧,translated,,9aaa137da7,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#28#12,"えへへ、ナイスツッコミ。
+そう言ってくれるのを期待してたよ。","嘿嘿，吐槽得真漂亮。
+我可是一直期待着你会这么说呢。",translated,依恩,7e4909daab,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#29#12,"楽しみにしてくれてるみたいだったから、
+ちょっとだけ焦らしてみようかなぁって
+思っちゃったの。","因为你看起来很期待的样子，
+所以我就忍不住想
+稍微吊一吊你的胃口嘛。",translated,依恩,906f40927e,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#30#12,"イジワルしちゃってごめんね。
+それじゃ、何を思い出したのか教えるね。","故意捉弄你对不起哦。
+那么，我就告诉你我想起了什么吧。",translated,依恩,57953931bc,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#33#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#34#12,"あ、う、うん……。
+でも、今日はどうしてここに来たのか、
+忘れちゃったの？","啊、唔、嗯……
+不过，你难道忘记今天为什么
+要来这里了吗？",translated,依恩,bda23cbecb,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#35#12,"わたしが前に来た時に何を思い出したのか。
+それを聞きに来たんじゃなかったの？","我上次来的时候究竟想起了什么，
+你难道不是为了听这个才来的吗？",translated,依恩,8fccaa57c1,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#36#12,"もぉ、早く本題に入れ、ってツッコミが
+入るのを待ってたのに……。
+ちょっとだけガッカリだよ。","真是的，我还一直等着你
+吐槽说“赶紧进入正题”呢……
+稍微有点失望哦。",translated,依恩,7b488da612,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#37#12,"……まあいっか。
+とにかく、本題に入るね。","……算啦。
+总之，我就直接进入正题吧。",translated,依恩,bfb6a16809,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#39#12,"多分これは誰しも一度はやったことがあると
+思うんだけど、授業が退屈に思ったことって
+あったでしょ？","我想大概谁都有过这种经历吧，
+在课堂上觉得课很枯燥无聊，
+对不对？",translated,依恩,1c4d298ced,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#40#12,"でも眠ったら先生に怒られちゃうし、
+なんとしても起きてなくちゃいけない。","但是睡着的话又会被老师骂，
+无论如何都必须撑着醒着。",translated,依恩,4c8cd5059c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#41#12,"だから退屈しのぎに、教科書にラクガキを
+していたことを思い出したの！","所以我想起了自己为了打发无聊，
+在教科书上乱涂乱画的事情！",translated,依恩,d7af5ff941,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#42#12,"まあ、褒められたことじゃない、って
+いうのはわかるけど、教科書にラクガキって
+みんなやったことあるよね？","嘛，虽然我也知道这不值得表扬啦，
+不过在教科书上涂鸦，
+大家肯定都做过对吧？",translated,依恩,1b1028185c,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#43#12,"昔の偉い人の絵や写真に、ヒゲとか
+吹き出しをつけるのって、普通だよね？","在古代伟人的画像或者照片上加胡子
+或者画台词框，很普遍对吧？",translated,依恩,b7de1d18ef,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#45#12,やったことあるよ,我做过哦,translated,,c5f1a862ac,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#46#12,やったことないよ,我从来没做过哦,translated,,48592d6cbd,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#48#12,やっぱりそうだよね！,果然是这样对吧！,translated,依恩,9f7c35f410,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#49#12,"よかったぁ……。
+もしあなたが、落書きをしたことがない、
+って言ったらどうしようかと思ったよ。","太好啦……
+要是你说自己从没涂鸦过，
+我都不知道该怎么办了呢。",translated,依恩,06681db3b0,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#50#12,"授業中にする落書きって、
+どうしてあんなに楽しいんだろうね？","在课上乱涂乱画，
+到底为什么会那么开心呢？",translated,依恩,5cdc43893c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#51#12,"でも不思議なのは、授業中以外の時間だと
+まったくやる気が起きないの。","不过不可思议的是，一到了上课以外的时间，
+就完全提不起兴趣去画了呢。",translated,依恩,e4119c9d58,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#52#12,"休み時間とか、家に帰ってからは
+まったくやりたいと思わなかったし。","课间休息或者回到家之后，
+根本就完全不想去涂鸦。",translated,依恩,b0739fda01,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#53#12,"っていうか、授業中以外でやろうと
+思ったことはなかったんじゃないかな？","不如说，除了上课以外的时间，
+根本就没想过要涂鸦吧？",translated,依恩,90f014b7a5,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#54#12,"さすがにそこまでハッキリと記憶が残ってる
+わけじゃないから、断言はできないけどね。","毕竟记忆也没清晰到那种程度，
+所以我也不能断言就是啦。",translated,依恩,171c8f9e5c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#55#12,"あ、それと落書きをしてるところを先生に
+見つかっちゃって、
+怒られたことも思い出しちゃったの。","啊，还有就是涂鸦被老师当场抓包、
+狠狠挨了一顿训的事，
+我也想起来了呢。",translated,依恩,24b4befcfb,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#56#12,"でも、別に落ち込んでないよ。
+むしろそのことを思い出せて嬉しいの。","不过，我完全没有沮丧哦。
+不如说能想起来这些，我还挺开心的。",translated,依恩,c9ce91e6af,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#57#12,"顔も名前も思い出せないけど、
+確かにわたしを叱ってくれる人がいた
+っていう証拠だもん。","虽然脸和名字都想不起来了，
+但这也证明了确实曾经有人
+严厉地训斥过我嘛。",translated,依恩,079dbdd3b4,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#58#12,"記憶を無くす前からずっと一人ぼっちじゃ
+なかった……大切な記憶だよ。","这说明我并不是在失去记忆前就一直孤身一人……
+是十分珍贵的回忆哦。",translated,依恩,06fbc7f096,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#61#12,えっ、ないの！？,诶，从来没有过吗！？,translated,依恩,85985fc136,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#62#12,"……あ、うん、変じゃないよ！
+普通は落書きなんかしてたら
+いけないんだからね。","……啊，嗯，这并不奇怪啦！
+因为正常来说本来就
+不应该乱涂乱画嘛。",translated,依恩,c1b699c9d6,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#63#12,"あなたはちゃんとしてるって証拠だよ。
+本当に凄いと思うよ。","这证明你平时是个很规矩的人哦。
+真的觉得你很了不起呢。",translated,依恩,e02a50bc5f,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#64#12,"……ただ、教科書に落書きをしたことが
+ない人がいるなんて思いもしなかったから、
+ちょっとビックリしただけだよ。","……只是我完全没想到，
+居然会有人从来不在教科书上涂鸦，
+所以稍微有些吃惊而已啦。",translated,依恩,4bfb5cb1a4,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#65#12,"う～、きっと話が合うと思ったから
+焦らしてたのに、わたしの不真面目さを
+アピールしてるみたいになっちゃったよぉ。","呜～，我还以为我们肯定很有共同话题，
+才特意吊胃口的，
+结果反而显得我自己多不认真一样啦。",translated,依恩,aacabd4ec4,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#66#12,"でも、とりあえず思い出せたことに
+違いはないから、喜ばなくちゃダメだよね！","不过不管怎么说，总归是想起来了，
+必须要感到高兴才对呢！",translated,依恩,6ed798d3dc,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#68#12,"えへへ、あんまり褒められるような
+ものではないけど、
+楽しい記憶を思い出せてよかったよ。","嘿嘿，虽然也不是什么值得夸耀的事，
+但能回想起快乐的记忆，
+真是太好了。",translated,依恩,f3ad1037c0,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#69#12,"……でも、ちょっとだけ、
+寂しいって感じもあるんだ。","……不过，多少也有点
+感到落寞呢。",translated,依恩,798962fe7e,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#70#12,"それだけ楽しかったはずの記憶なのに……
+どんな写真や、どんな絵に落書きを
+したのか、まったく思い出せないの。","明明应该是那么开心的回忆……
+但我到底是在什么样的照片、或画上涂鸦的，
+却完全想不起来呢。",translated,依恩,e51aa2866a,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#71#12,なんて説明すればいいのかな……？,该怎么解释才好呢……？,translated,依恩,5799a55a78,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#72#12,"写真や絵に、ヒゲや吹き出しを
+描き込んだことは間違いないよ？","在照片和画像上画了胡子和对话框，
+这一点是绝对没记错的哦？",translated,依恩,9ac249ca8b,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#73#12,"ただ、落書きをしたのが誰の写真なのか、
+考えても全然……。","只是，被我涂鸦的到底是谁的照片，
+任凭我怎么想都完全……",translated,依恩,fa4737659c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#74#12,"……なんだか、
+記憶を取り戻してるっていうより、
+過去の文章を読んでいる気分だよ。","……总觉得，
+比起找回了记忆，
+倒更像是在阅读关于过去的一篇记载。",translated,依恩,d6e95093eb,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#75#12,"……ダメだよね。
+こんな暗くなるようなこと考えてたら。","……不能这样呢。
+老是想这种消极低落的事情。",translated,依恩,76ca619263,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#76#12,"例えそうだとしても、今はちょっとでも
+思い出せたことに感謝しないとね。","哪怕真是那样，现在也应该为能够
+稍微回想起一点过去而心怀感激才对。",translated,依恩,8d28ea8500,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#77#12,"今回はこんな思い出し方だったけど、
+今度はもっとハッキリと思い出せるかも
+しれないよね？","虽然这次是以这种方式想起来的，
+但下次说不定就能
+想得更加清晰了对吧？",translated,依恩,0c1417c67c,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#78#12,"もっとポジティブに行かないと。
+暗く考えてたら、楽しい記憶も
+全然楽しくなくなっちゃうしね。","必须要更加积极乐观才行呢。
+要是一直往阴暗处想，就连开心的回忆
+也会变得索然无味了嘛。",translated,依恩,94891d7f46,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#80#12,……今日は、もう帰ろう。,……今天，我们就先回去吧。,translated,依恩,d2e3469790,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#81#12,"ポジティブに行くにしても、
+少しは頭の中を整理しないことには
+無理そうだよ。","就算要打起精神积极面对，
+不先把脑子里的思绪整理一下，
+看来也还是做不到呢。",translated,依恩,977bf399d4,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#83#12,ふぅ……ただいまぁ。,呼……我回来啦。,translated,依恩,a896d4bfed,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#84#12,"今日はごめんね。
+せっかく学校に行ったのに、
+すぐに帰ろうなんて言っちゃって。","今天对不起哦。
+难得去了一趟学校，
+我却马上就闹着要回来。",translated,依恩,53e415ce13,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#85#12,"でも、あなたにわたしが思い出したことを
+伝えられてよかったよ。","不过，能把你我想起来的事情
+告诉你，真是太好了。",translated,依恩,91afbe3ebf,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#86#12,"また何か思い出したら、
+わたしの話を聞いてくれると嬉しいな。","要是之后我又想起了什么，
+你能听我倾诉的话我会很高兴的。",translated,依恩,f60c593ab2,br=0 nl=1,2,
+inc/event/res/dateevent07/hon02.txt#87#12,それじゃ、またね。,那就，回头见啦。,translated,依恩,05cddc81a2,br=0 nl=0,1,
+inc/event/res/dateevent07/hon02.txt#90#14,"一緒に学校に行った♪
+学校には勉強以外の
+思い出もたくさん♪","一起去了学校♪
+在学校里不仅有学习，
+还有好多其他回忆♪",translated,,77ca7bf29d,br=0 nl=2,3,
+inc/event/res/dateevent07/hon02.txt#91#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent07/hon03.txt#3#12,"あっ、極秘文書……
+じゃなくて、教科書だね。","啊，机密文件……
+不对，是教科书呢。",translated,依恩,9b647eda1a,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#4#12,"それを見てると、学校に行かなくちゃ、
+って気分になるの……。","一看着它，就会产生一种
+“必须要去上学了”的心情呢……",translated,依恩,69e491cfd4,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#5#12,それなら行ってみよう,既然这样那就去看看吧,translated,,47123b432f,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#6#12,行っても何もないよ,就算去了也什么都没有哦,translated,,ceef30317b,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#8#12,"ん～……そうだよね。
+大人しく部屋にいるよ。","唔～……也是呢。
+我还是乖乖待在房间里吧。",translated,依恩,98129de42a,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#13#12,思い立ったがなんとやらだね。,择日不如撞日呢。,translated,依恩,c97837e782,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#14#12,"それじゃ、ちょっとだけ学校に
+行ってみようか？","那么，我们稍微去学校
+转一转吧？",translated,依恩,ef48725ef7,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#16#12,"……やっぱりここに来ると、
+すごく懐かしい気持ちになるよ。","……果然只要来到这里，
+就会涌现出特别怀念的心情呢。",translated,依恩,694917d948,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#17#12,"たしか、今みたいに教科書を持って、
+よく廊下を歩いてたような……。","我记得自己好像就像现在这样拿着教科书，
+经常在走廊上走着来着……",translated,依恩,7be84fbad2,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#19#12,そうそう、こんな感じ。,对对，就是这种感觉。,translated,依恩,1cb6ec57c8,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#20#12,"でも、どうして教科書を持って廊下を
+歩く必要があったのかな？","但是，为什么会有拿着教科书
+走在走廊上的必要呢？",translated,依恩,d1c3ccbb85,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#21#12,教科書って、教室で使うものなのに……。,明明教科书是在教室里用的东西呀……,translated,依恩,ec94c4fd85,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#23#12,補修を受けてたとか？,比如在接受补习？,translated,,e5d15709d1,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#24#12,違う教室に行こうとしてたとか？,比如当时正打算去别的教室？,translated,,16be0db7d0,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#26#12,"……だとしたら、あんまり思い出したくない
+記憶かも。","……要是那样的话，说不定是
+我不太想回忆起来的事呢。",translated,依恩,6e6f09a791,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#27#12,"でも、ちょっと違う気がするの。
+あれは確か、えっと……。","不过，感觉稍微有点不太一样。
+那件事肯定该是，那个……",translated,依恩,60c284c426,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#30#12,"違う教室に？
+それって、えっと……。","去别的教室？
+那个难道是，呃……",translated,依恩,e896430fec,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#33#12,……移動教室、だっけ？,……换教室上课，对吧？,translated,依恩,4fd0df8ba8,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#34#12,授業によっては、教室を移動するんだよね？,根据课程的不同，是要换教室的对吧？,translated,依恩,61e8101816,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#35#12,"そういえば、科学や技術の移動教室って、
+何だか凄くわくわくする気がするよ。","说起来，去上科学和技术的换教室课时，
+总觉得让人超级兴奋呢。",translated,依恩,f46cd24b36,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#37#12,得意科目だから？,因为是拿手科目？,translated,,5818832ff7,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#38#12,実験や実技があるから？,因为有实验和动手实践？,translated,,d6824621ef,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#40#12,う～ん……実験とか実技があるからかも。,唔～……大概是因为有实验或者实操吧。,translated,依恩,862d7327c1,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#43#12,うん、たぶんそうだと思う。,嗯，我想大概就是那样吧。,translated,依恩,21e8f2e91c,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#46#12,"ハッキリとは思い出せないけど、
+たぶん教室を移動してる間、
+すごくわくわくしてたんじゃないかな？","虽然记不太清了，
+但在换教室的路上，
+我大概满心都是欢欣雀跃吧？",translated,依恩,ec6c686510,br=0 nl=2,3,
+inc/event/res/dateevent07/hon03.txt#47#12,"それで、移動した時に実験も実技もないって
+言われたら、凄くガッカリしたのかも。","然后要是到了之后被告知既没有实验也没有实操，
+大概就会觉得特别扫兴了吧。",translated,依恩,4163a033aa,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#48#12,"実験や実技の器具が沢山置いてある部屋で、
+ただ授業を受けるだけなんて、辛過ぎるもん。","在一间摆满了实验与实操器材的房间里，
+却只能干坐着听课，也未免太折磨人了嘛。",translated,依恩,a264cb9dd3,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#50#12,"だから、授業中はその誘惑から逃げるために
+なるべく眠って……。","所以上课的时候为了摆脱那种诱惑，
+只能尽量让自己睡着……",translated,依恩,06b7d636bd,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#51#12,"あ、ううん、違うよ！
+ちゃんと真面目に授業受けてたと思うよ！","啊，不对不对！
+我觉得自己当时肯定有认真在听讲的啦！",translated,依恩,21f0093395,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#53#12,"だから、その誘惑から逃れるために
+結構苦労したんじゃないかな？","所以为了摆脱那种诱惑，
+应该经历了一番不小的苦苦挣扎吧？",translated,依恩,fce09a0c4d,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#54#12,どう苦労したのかはわからないけどね。,虽然我也不知道具体是怎么挣扎的啦。,translated,依恩,f2fcabe07a,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#56#12,"……色々思い出したような気もするけど、
+曖昧過ぎて本当に自分の記憶なのか
+さっぱりわからない気分だよ。","……总觉得好像想起了很多事，
+但实在太模糊了，以至于完全搞不清
+到底是不是我自己的记忆呢。",translated,依恩,92b75cddf2,br=0 nl=2,3,
+inc/event/res/dateevent07/hon03.txt#58#12,何だか、疲れてきちゃった。,不知怎么的，突然觉得有点累了。,translated,依恩,1485b8a578,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#59#12,今日はそろそろ帰ろうか？,今天差不多该回去了吧？,translated,依恩,6172a3a5c9,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#61#12,ふぅ……今日は付き合ってくれてありがと。,呼……今天谢谢你陪着我哦。,translated,依恩,a2c274d862,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#62#12,"曖昧だったけど、多分昔の記憶を思い出せて
+ちょっとだけ安心したよ。","虽然很模糊，但大概是想起了过去的记忆，
+总算是稍微松了一口气呢。",translated,依恩,863f5776d8,br=0 nl=1,2,
+inc/event/res/dateevent07/hon03.txt#63#12,また近いうちに、わたしを学校に誘ってね。,近期记得还要再约我去学校哦。,translated,依恩,4719bb0946,br=0 nl=0,1,
+inc/event/res/dateevent07/hon03.txt#66#14,"また一つ昔のことを
+思い出せたよ。
+やったね♪","又回想起来一件
+过去的往事呢。
+太棒啦♪",translated,,7c81a9c81d,br=0 nl=2,3,
+inc/event/res/dateevent07/hon03.txt#67#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent07/hon04.txt#1#12,"それを出してきたってことは……わかった！
+学校に行きたいんでしょ？","你拿出那个的意思是……我知道了！
+是想去学校对吧？",translated,依恩,b47d48ea40,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#2#12,正解、学校デートだ！,答对了，是学校约会！,translated,,99720e63ad,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#3#12,ぶっぶー、ただ見せたかっただけー,大错特错，我只是想拿出来给你看而已～,translated,,0ea189e76a,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#5#12,"うぅ、学校デートができると
+思ってたのに……。","呜呜，我还以为
+可以去学校约会了呢……",translated,依恩,bf0601190d,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#10#12,"えへへ、あなたからのお誘いって、
+いつまで経っても嬉しく感じるよ。","嘿嘿，来自你的邀请，
+无论过了多久都会让我觉得好开心哦。",translated,依恩,d859a0e4d2,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#11#12,それじゃ、早速出発しよ。,那么，赶快出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#13#12,"何度も来てるからかな？
+自分が本当にここの生徒の一人に
+なった気分だよ。","是因为来了很多次的关系吗？
+感觉自己简直就像
+真正成为了这里的学生之一呢。",translated,依恩,baff36af4d,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#15#12,"思い返してみると、学校って他のデートで
+行く場所よりも、色んなことを思い出せてる
+ような気がするの。","仔细回想起来，在学校这里比起
+其他约会去过的地方，
+总觉得能想起更多各式各样的事情呢。",translated,依恩,aed2402239,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#16#12,"もちろん、大切な人の顔を思い出したり、
+実際にその時の様子が頭の中で蘇ったりは
+してないんだけど……。","当然啦，并不是说想起了重要之人的面容，
+或者当时的景象真切地在脑海中
+苏醒了过来……",translated,依恩,fb5cfa78c2,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#17#12,"でも、確かにこういうことがあった、って
+自信を持って言えることを、いくつも
+思い出すことができたのは事実だよ。","但是，能够自信地说“确实有过这种事”的回忆，
+我已经想起了好几件，
+这可是千真万确的事实哦。",translated,依恩,f12ec5ad24,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#19#12,思い過ごしの可能性もあるのを忘れずに,别忘了这也有可能是你多心了哦,translated,,28af703a05,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#20#12,もう一歩先まで思い出せたらいいのにね,要是能再进一步想起来就好了呢,translated,,d9ae1de11d,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#22#12,"そ、そんなぁ……。
+珍しく自信を持って言えることなのに……。","怎、怎么这样啊……
+难得我有自信能确信地说出来……",translated,依恩,9ed885a2dc,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#23#12,"……でも、確かにその可能性も捨てきれない
+っていうのは事実だよね。","……不过，确实不能排除那种可能性，
+这也是事实呢。",translated,依恩,6da69f8e0d,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#24#12,"思い出せないのに下手に自信を持ってても、
+後で後悔することになりそうだし……。","明明想不起来却盲目自信的话，
+事后感觉会后悔的……",translated,依恩,070391525c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#25#12,"こんなことがあったかも、って気になったと
+しても、自信は持たない方がいいのかも
+しれないね……。","就算觉得可能发生过这种事，
+或许还是不要太笃定
+比较好呢……",translated,依恩,1989cecf56,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#28#12,うん……あなたの言うとおりだよ。,嗯……正如你所说的那样呢。,translated,依恩,f2d7b24b5e,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#29#12,"こんなこと、確かにあったはず。
+でもその時の詳細とか、誰が一緒にいたかは
+まったく思い出せない。","这种事情，当年肯定是有过的。
+但是当时的详细细节、有谁和我在一起，
+却完全想不起来。",translated,依恩,f69d538304,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#30#12,"これって、すごくもどかしい気持ちなの。
+ここまで出掛かってるのに出てこない、って
+あれみたいにね。","这种感觉真的让人好心焦啊。
+就像话明明已经到了嘴边，
+却怎么也说不出来一样呢。",translated,依恩,d0377a6910,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#33#12,"……でも、本当に学校にいた頃のことを
+思い出せたとしても……その記憶の中には、
+あなたがいないのは寂しいな。","……不过，就算真的想起了在学校时的事……
+一想到那段回忆里没有你，
+就觉得好落寞啊。",translated,依恩,aa428d88d7,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#34#12,"だって、こうして一緒にいるだけでも
+楽しいんだもん。","毕竟，光是像这样和你待在一起，
+我就已经很开心了嘛。",translated,依恩,36e88e5985,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#35#12,"あなたと一緒の、本当の学生生活……。
+ふふっ、想像するだけでも楽しそう。","能和你一起度过的、真正的学生生活……
+呵呵，光是想象一下就觉得好开心。",translated,依恩,0e15712f09,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#36#12,あなたもそう思わない？,你难道不这么觉得吗？,translated,依恩,2a42a95806,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#38#12,夫婦で学生……友達にからかわれそうだ,夫妻一起当学生……感觉会被朋友调侃呢,translated,,c1facafea8,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#39#12,イオンはモテそうだから不安だ,依昂感觉会很受欢迎，让人有点不安,translated,,ada12e3cbf,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#41#12,そ、それは確かにあるかも……。,那、那倒确实有可能呢……,translated,依恩,b9bbddb5ea,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#42#12,"……でも、そういうのもちょっとだけ、
+楽しいかな、って思うの。","……不过，那种情况稍微体验一下，
+我想应该也会挺有趣的吧。",translated,依恩,40b80a0a44,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#43#12,"あなたと一緒なら、きっとからかわれるのも
+嬉しく感じられちゃいそうだし。","只要是和你在一起，哪怕被调侃
+肯定也会觉得挺高兴的。",translated,依恩,84113a2aa4,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#46#12,"そ、そんなことないよ。
+わたしみたいな女の子、あなたくらいしか
+好きになってくれないと思うし……。","哪、哪有那种事呀。
+像我这样的女孩子，我想除了你以外
+根本不会有人喜欢上我的啦……",translated,依恩,a85a8182de,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#48#12,"だから心配しなくても、あなた以外の人に
+傾いたりなんかしないよ。","所以不用担心，我绝不会
+把心偏向你以外的人哦。",translated,依恩,8ad60de03a,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#49#12,"わたしも……ずっとずっと、あなただけの
+お嫁さんでいたいしね、えへへ……。","我也……想一辈子做专属于你一人的
+小娇妻呢，嘿嘿……",translated,依恩,69b3ec5581,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#51#12,"わたしとしては、あなたの方がモテそうで
+不安に思ってるし……。","在我看来，反而是你更受欢迎、
+让我感到有些不安呢……",translated,依恩,55e227efca,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#52#12,"……もし本当に、一緒に学生生活を送れる
+ような日が来ても、他の人に浮気とかしちゃ
+ダメだよ？","……要是哪天真的一起去过学生生活，
+你可绝对不能
+跟别人出轨变心哦？",translated,依恩,2d65334dca,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#55#12,"でも、あなたとの学生生活……。
+本当にあってくれたら嬉しいのに……。","不过，能和你一起过学生生活……
+要是真能实现该有多好啊……",translated,依恩,4c3dd86388,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#56#12,……って、暗くなってちゃいけないね。,……哎呀，可不能变得消沉呢。,translated,依恩,084d9e9143,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#57#12,"昔一緒にいなかったから、こうしてあなたと
+出会えることができたんだし。","正因为当年没有在一起，
+现在才能像这样与你相遇嘛。",translated,依恩,3b89c516b0,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#58#12,"そう考えると、これでよかったのかも
+しれないね。","这么一想的话，
+或许这样反而是最好的呢。",translated,依恩,9e8e77871e,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#59#12,"学生生活を一緒に過ごせない分、
+これからも沢山学校でデートしようね。","正因为没能一起度过学生生活，
+今后我们更要经常来学校约会哦。",translated,依恩,2cec955654,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#61#12,"あっ、チャイムが鳴ったよ。
+次の授業が始まるみたい。","啊，铃声响了呢。
+好像下一堂课要开始了。",translated,依恩,0da2c35150,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#62#12,わたし達も、そろそろ帰ろっか。,我们也差不多该回去啦。,translated,依恩,908f1e1908,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#64#12,ただいまー。,我回来啦――。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent07/hon04.txt#65#12,"今日も教科書を持ってったのに、
+廊下を歩きながらお喋りするだけで
+終わっちゃったね。","今天虽然也带了教科书去，
+但结果只是边在走廊上走着边闲聊
+就结束了呢。",translated,依恩,b3afcd9e3d,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#66#12,"たまには本来の使い方をしてあげないと、
+ちょっとかわいそうかな？","偶尔不按照原本的用途使用它，
+感觉它有点可怜呢？",translated,依恩,0e917e566c,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#67#12,"今度作った時には、せめてここで少しだけ
+読むことにするよ。","下次要是再做出来，至少要在房间里
+稍微翻着读一下呢。",translated,依恩,4301450cea,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#68#12,"それじゃ、今日は誘ってくれてありがと。
+次のデートのお誘いも、楽しみにしてるね。","那么，今天谢谢你邀请我出来。
+我也很期待你下一次的约会邀请哦。",translated,依恩,ee7d71b537,br=0 nl=1,2,
+inc/event/res/dateevent07/hon04.txt#71#14,"学校って、本当に色々
+な思い出がある場所な
+んだね。","学校真是个留下了
+许许多多回忆的
+地方呢。",translated,,0a376baa68,br=0 nl=2,3,
+inc/event/res/dateevent07/hon04.txt#72#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent07/hon_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent07/hon_int.txt#6#12,"学校に行きたいの？
+んー………どうしようかな。","想去学校吗？
+嗯～……要怎么办好呢。",translated,依恩,b356420b15,br=0 nl=1,2,
+inc/event/res/dateevent07/hon_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent07/hon_int.txt#9#12,"それを出してきたってことは、
+学校に行きたい、ってことだよね？","拿出那个东西，
+意思就是想去学校对吧？",translated,依恩,3e1a5a4dc9,br=0 nl=1,2,
+inc/event/res/dateevent07/hon_int.txt#10#12,"う～ん……でもなんか、
+そういう気分じゃないかも……。","唔～……不过总觉得，
+现在好像没什么那种心情呢……",translated,依恩,72b7ba7047,br=0 nl=1,2,
+inc/event/res/dateevent07/hon_int.txt#11#12,また別の日にしよう、ね？,改天再去吧，好吗？,translated,依恩,3c4e76114f,br=0 nl=0,1,

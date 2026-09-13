@@ -1,0 +1,2457 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/formatevent01/alarm_time01_01.txt#8#12,あ、そろそろ起こしてあげなきゃ……。,啊，差不多该去叫醒他了……,translated,依恩,940b44532e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#12#12,"あなた～！
+起きる時間だよ～！","喂～！
+该起床啦～！",translated,依恩,49122cf03c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#13#12,"……あれ？
+まだ寝てるのかな？","……咦？
+还在睡吗？",translated,依恩,6099872775,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#16#12,おーい！,喂――！,translated,依恩,113b92d8a9,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#18#12,早く起きてー！,快点起床啦――！,translated,依恩,7d4dce4452,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#20#12,起きる時間～！！,起床时间到啦――！！,translated,依恩,5b7d6fe9eb,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#23#12,起きないと遅刻しちゃうよ！,再不起床要迟到啦！,translated,依恩,bc2080084e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#25#12,ご飯食べる時間なくなっちゃうよ！,连吃早饭的时间都要没有啦！,translated,依恩,ef24a960b9,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#27#12,早く起きないと時間なくなっちゃうよ！,不快点起床时间就要来不及啦！,translated,依恩,cd3c5b68db,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#30#12,"むう！
+起きないと怒っちゃうんだから！","呜！
+再不起床我可要生气啦！",translated,依恩,50fd5d6d53,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#32#12,"もう！
+いつまでも寝てたらダメだよ！","真是的！
+可不能一直睡懒觉哦！",translated,依恩,a0898ada92,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#34#12,寝坊しても知らないよ！？,睡过头了我可不管哦！？,translated,依恩,5860851804,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#37#12,うぅ、なんで起きてくれないの……。,唔，为什么不肯起床呢……,translated,依恩,fe75d6ca5a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01.txt#39#12,"う～ん、疲れてるのかなぁ。
+全然反応ないよ。","唔～是不是太累了呀。
+完全没有任何反应呢。",translated,依恩,ecd31fd7b6,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#41#12,"ダメかなぁ……。
+こんなとき直接揺すれたらいいのに……。","不行吗……
+这种时候要是能直接摇摇你就好了……",translated,依恩,e95d67170b,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#47#12,"諦めちゃダメ。
+もう一回……！","不能放弃。
+再试一次……！",translated,依恩,dd1085f992,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#49#12,"頑張って起こさなきゃ。
+約束したんだもん。","得努力把你叫醒才行。
+毕竟都答应过你了嘛。",translated,依恩,eea204790d,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#51#12,"もう少し頑張ってみよう。
+起こすって約束したんだから。","再努力试一试吧。
+因为已经约好了要叫你起床呢。",translated,依恩,0321725817,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#56#12,"はぁ……ダメみたい。
+やっぱり疲れてるのかな？","唉……好像不行呢。
+果然是太累了吗？",translated,依恩,fbdfe4a9ca,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01.txt#57#12,"だとしたら、ゆっくり寝かせておいて
+上げた方がいいよね……。","要是那样的话，还是让你多睡一会儿
+会比较好吧……",translated,依恩,78540890ef,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#5#12,あ、おはよう♪,啊，早安♪,translated,依恩,20cbda8a6c,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#7#12,"よかった。
+気がついてくれないかと思ったよ。","太好了。
+我还以为你没有注意到呢。",translated,依恩,fbb043513c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#9#12,"よかった、ちゃんと起きられたんだね。
+もうダメかと思ってハラハラしちゃった。","太好了，顺利醒过来了呢。
+我还以为叫不醒你，捏了一把汗呢。",translated,依恩,84f551522b,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#12#12,"このまま二度寝とかしないで、
+ちゃんと起きないとダメだよ？","可不能就这样睡回笼觉，
+必须好好起床才行哦？",translated,依恩,e1428afb56,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#13#12,大丈夫。ちゃんと起きるよ,没问题。我会好好起床的,translated,,3628018bca,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#14#12,……あと５分。,……再睡５分钟。,translated,,ff67e5e146,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#16#12,"えへへ、よかった。
+頑張って起こしたかいがあるよ。","诶嘿嘿，太好了。
+总算没有白费我努力叫你呢。",translated,依恩,84bf447e0c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#17#12,また起こしてほしいときは教えてね。,下次还需要叫醒的话要跟我说哦。,translated,依恩,37b8eea6ab,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#20#12,もう、そんな風にしてるとまた寝ちゃうよ。,真是的，保持那样的话又要睡着了哦。,translated,依恩,0fcb58a8b2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#21#12,"ちゃんと起きて、顔を洗って朝ごはんを
+食べないとダメ。","一定要好好起来，去洗把脸
+把早饭吃掉才行。",translated,依恩,d7e5afc404,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_01_tch.txt#22#12,わたしとの約束だよ。,这可是跟我的约定哦。,translated,依恩,bd4bde17d5,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#8#12,"ふぇ……。
+そうだ、そろそろ起こさなきゃ……。","哈啊……
+对啦，差不多该去叫醒他了……",translated,依恩,6ba7334f7a,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02.txt#12#12,"あ～な～た～、起きる時間だよ～。
+起きてる～？","喂～～，起床时间到啦～。
+醒着吗～？",translated,依恩,822a49b840,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02.txt#13#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#16#12,ねぇねぇ、時間だよ～。,喂喂，时间到啦～。,translated,依恩,9509d1f0c2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#18#12,起きて～……。,快醒醒～……,translated,依恩,9e0eeb5253,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#20#12,眠い……。,好困……,translated,依恩,078897cf1a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#23#12,起きる時間だよ～。,起床时间到啦～。,translated,依恩,33fdcf6ca6,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#25#12,起きないと、メ！ってしちゃうよ～。,再不起来的话，我可要惩罚你哦～。,translated,依恩,b6075d38c5,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#27#12,早く起きて～。,快点起来嘛～。,translated,依恩,3b05e95a0f,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#30#12,"むぅ……。
+どうして起きてくれないの。","唔……
+为什么不肯起来呢。",translated,依恩,db6c76606a,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02.txt#32#12,起きないとダメなんじゃないの～？,不是不起来就不行嘛～？,translated,依恩,80699e79ee,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#34#12,起きて～……起きてよ～……。,快起来～……快醒醒嘛～……,translated,依恩,3e1b259959,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#37#12,"うぅ、直接声かけられたら、
+すぐに起こして上げられるのに……。","唔，要是我能直接在耳边叫你，
+马上就能把你叫醒了说……",translated,依恩,e9c27ad9c5,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02.txt#39#12,全然反応ない……。,完全没有反应……,translated,依恩,dd981c13ef,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#41#12,ダメなのかなぁ……。,是不行了吗……,translated,依恩,09a8ca98be,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#47#12,もう一回……！,再来一次……！,translated,依恩,27dbf936e2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#49#12,"約束したんだもん。
+頑張って起こさなきゃ……。","毕竟约好了嘛。
+我得努力把你叫醒才行……",translated,依恩,f4bed6e598,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02.txt#51#12,眠いけど……頑張る。,虽然好困……但我会加油的。,translated,依恩,00869550aa,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#56#12,ダメ……もう限界……。,不行了……已经到极限了……,translated,依恩,eb21bff02d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02.txt#57#12,"ごめんね。
+次はちゃんと頑張るから……。","对不起哦。
+下次我一定会好好加油的……",translated,依恩,405af18012,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#5#12,あ、お～は～よ～。,啊，早～安～呀～。,translated,依恩,09dbc0365f,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#7#12,"あ、起きた～。
+声をかけることしかできないから、
+もうダメかと思ったよ。","啊，醒啦～。
+因为我只能出声叫你，
+还以为没办法叫醒你了呢。",translated,依恩,cf76b3d3d3,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#9#12,"よかった～。
+全然起きてくれないから、
+どうしようかと思ったよ……。","太好啦～。
+看你一直不起床，
+我都不知道该怎么办才好了……",translated,依恩,ad9879f4f1,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#12#12,"大丈夫？
+このままちゃんと起きられそう？","还好吗？
+能就这样彻底清醒过来吗？",translated,依恩,b09c6db0cc,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#13#12,大丈夫。起こしてくれてありがとう,没事。谢谢你叫醒我,translated,,a992ee3268,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#14#12,もう一度一緒に寝よう,一起再睡一会儿吧,translated,,0a5574cb4b,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#16#12,えへへ、どういたしまして～。,诶嘿嘿，不用客气～。,translated,依恩,fb4253b746,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#17#12,"それじゃあ、わたしはもう一度寝るね。
+起きたらまたたくさんお話しようね。","那么，我再去睡个回笼觉啦。
+等你醒了之后我们再聊个够吧。",translated,依恩,5d5ca70f5c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#20#12,それはすごく魅力的だけど……ダ～メ。,那样虽然很吸引人……但～不～行。,translated,依恩,4b5126fbfe,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#21#12,"わたしはまだ寝られるけど、
+あなたは起きなきゃいけないんでしょ？","我还可以继续睡，
+但你不是非起床不可嘛？",translated,依恩,1bcd83c8b7,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time01_02_tch.txt#22#12,だから……頑張って。,所以……要加～油。,translated,依恩,ff2428eaf3,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#8#12,あ、そろそろ時間だ。,啊，差不多到时间了。,translated,依恩,2163acac6d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#12#12,"約束の時間だよ。
+ちゃんと気付いてる？","约好的时间到了哦。
+你有注意到吗？",translated,依恩,3ae049ffda,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#13#12,"あれ？
+気付いてないのかな？","咦？
+是没有注意到吗？",translated,依恩,4f44ec23a8,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#16#12,"いないの～？
+約束の時間になったよ～？","不在吗～？
+已经到约好的时间了哦～？",translated,依恩,8d0f772eb8,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#18#12,お～い。時間だよ～。,喂～～。时间到了哦～。,translated,依恩,d7d31fb907,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#20#12,ねぇ、時間だってば～。,喂，都说了时间到了啦～。,translated,依恩,72830c09c2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#23#12,早くしないと遅刻しちゃうよ～。,不快点的话要迟到了哦～。,translated,依恩,bc1543a26e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#25#12,準備する時間なくなっちゃうよ～。,要没有时间做准备了哦～。,translated,依恩,4f73765900,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#27#12,"近くにいる～？
+時間になったよ～。","在附近吗～？
+时间到了哦～。",translated,依恩,4a401aa290,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#30#12,"時間になったら教えてほしい、っていう
+から、ちゃんと待ってたのに……。","你说过到了时间想要我提醒，
+所以我一直好好等着呢……",translated,依恩,668827beca,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#32#12,ねぇ、本当にいないの～！,喂，真的不在吗～！,translated,依恩,e2c67883d0,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01.txt#34#12,"もう約束の時間だよ！
+遅刻しちゃうよ！","已经到约好的时间了！
+要迟到了哦！",translated,依恩,6ad7848c00,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#37#12,"はぁ、ダメみたい……。
+わたしの声、届いてないのかな……。","唉，好像不行呢……
+难道我的声音没有传过去吗……",translated,依恩,780d699f40,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#39#12,"う～ん、準備してて気付いてないだけなら
+いいんだけど……。","唔～如果只是在忙着准备
+所以没注意到就好了……",translated,依恩,8b58ca5b6d,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#41#12,"大丈夫かな……。
+忘れてたりしないよね？","还好吗……
+应该不会忘了吧？",translated,依恩,c0028016a9,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#47#12,"もう少し頑張ってみよう。
+あとちょっとしたら気付いてくれるかも。","再坚持努力一下吧。
+说不定等一会儿就能注意到了呢。",translated,依恩,64dd09b204,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#49#12,"もう一回……。
+約束はちゃんと守らないと。","再试一次……
+约好的事情必须好好遵守才行。",translated,依恩,b0f6b303d1,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#51#12,"お願い気付いて……。
+間に合わなくなっちゃう。","拜托快注意到吧……
+不然就要赶不上了。",translated,依恩,c9e2701e33,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#56#12,"ダメ、全然反応ない……。
+もう約束したところに行ってるのかな？","不行，完全没有反应……
+难道已经去约好的地方了吗？",translated,依恩,d94bb32335,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01.txt#57#12,ちゃんと約束守れてたらいいな……。,要是能好好守约就好了呢……,translated,依恩,6edd368906,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#5#12,"よかった。
+近くにいてくれたんだね。","太好了。
+原来你在附近呀。",translated,依恩,c8f82eca26,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#7#12,あ、気がついてくれた！,啊，注意到我了！,translated,依恩,daad9e519c,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#8#12,"少し離れてたのかな？
+気がついてくれないのかと思ったよ。","刚才离开了一会儿吗？
+我还以为你没有注意到呢。",translated,依恩,444cccf278,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#10#12,"よかったぁ……。
+もうダメかと思ったよ。","太好啦……
+我还以为不行了呢。",translated,依恩,a8710445f9,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#13#12,"約束の時間になったけど、
+もう準備はできてる？","已经到约好的时间了，
+你的准备工作做好了吗？",translated,依恩,90bf66534c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#14#12,準備万端！,准备就绪！,translated,,9cf82c49c2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#15#12,まだ何もしてない,还什么都没弄,translated,,e910556b6d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#17#12,"よかった。
+それなら遅刻する心配もないね。","太好了。
+那样就不用担心会迟到了呢。",translated,依恩,e19d26cad9,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#18#12,"でも、油断しちゃダメだよ。
+時間があるからって本を読んだり、ほかの
+事を始めるとすぐ時間すぎちゃうからね。","不过，可不能大意哦。
+不要觉得还有时间就去看书，
+或者做别的事，时间一下就溜走了呢。",translated,依恩,689e2933e1,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#21#12,"えっ！？
+だ、大丈夫なの？","诶！？
+没、没问题吧？",translated,依恩,1395769561,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#22#12,"すぐに準備できるならいいけど、
+もし時間がかかりそうなら急いだ方が
+いいかもしれないよ。","要是马上能弄好倒还行，
+但要是看起来挺费时间的话，
+最好还是赶紧抓紧哦。",translated,依恩,28d799452c,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time02_01_tch.txt#23#12,遅刻しないように気をつけてね。,小心不要迟到哦。,translated,依恩,2658e09ad6,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#8#12,"んん……。
+そろそろ時間……だよね。","嗯嗯……
+差不多到时间……了吧。",translated,依恩,734733269f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02.txt#12#12,"ねぇ、約束の時間だよ。
+ちゃんと準備してる～？","喂，到约好的时间了哦。
+有在好好准备吗～？",translated,依恩,d41bf7e1ee,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02.txt#13#12,"はれ？
+おかしいな……。","哎呀？
+好奇怪哦……",translated,依恩,7b525ca25f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02.txt#16#12,ねぇ、時間～時間だよ～。,喂，时间～到时间了哦～。,translated,依恩,7aa5cd907e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#18#12,お願い、気付いて～。,拜托了，快注意到嘛～。,translated,依恩,0e2382e66e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#20#12,眠い……。,好困……,translated,依恩,078897cf1a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#23#12,早くしないと～、遅刻しちゃうよ～。,不快点的话～要迟到了哦～。,translated,依恩,72c9d1c5ef,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#25#12,もしかして……寝てるの？,难道……在睡觉吗？,translated,依恩,98f998d149,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#27#12,近くにいないのかなぁ……。,是不在附近吗……,translated,依恩,5a63195008,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#30#12,"もう、時間なのに……。
+早く気付いて～……。","真是的，都已经到时间了……
+快点注意到嘛～……",translated,依恩,7e8d6b8171,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02.txt#32#12,ねぇ、時間だよ～……。,喂，时间到了哦～……,translated,依恩,256aa22fba,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#34#12,約束～約束が待ってるよ～。,约定～约定在等着你哦～。,translated,依恩,4f81b92c5a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#37#12,うぅ、どうして気付いてくれないの……。,呜，为什么不注意到我呢……,translated,依恩,a2dd848343,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#39#12,全然反応ない……。,完全没有反应……,translated,依恩,dd981c13ef,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#41#12,ダメなのかなぁ……。,是不行了吗……,translated,依恩,09a8ca98be,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#47#12,もう一回……！,再来一次……！,translated,依恩,27dbf936e2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#49#12,"眠いけど……約束したんだもん。
+頑張らなきゃ……。","虽然好困……但既然约好了。
+就必须努力才行……",translated,依恩,48e7843967,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02.txt#51#12,眠いけど……頑張る。,虽然好困……但我会加油的。,translated,依恩,00869550aa,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#56#12,ダメ……もう限界……。,不行了……已经到极限了……,translated,依恩,eb21bff02d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02.txt#57#12,"ごめんね。
+次はちゃんと頑張るから……。","对不起哦。
+下次我一定会好好加油的……",translated,依恩,405af18012,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#5#12,あ、いたいた～。,啊，在呢在呢～。,translated,依恩,5dd5d4b5b9,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#7#12,"よかった～。なかなか反応がないから
+いないのかと思っちゃった。","太好啦～。看你一直没反应，
+我还以为你不在呢。",translated,依恩,fce081d48f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#9#12,"ふぇ？
+……よかった。気付いてくれたんだ。","诶？
+……太好了。终于注意到了呀。",translated,依恩,d8a2676892,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#10#12,"なんか、頭ぽわぽわして……
+夢じゃないよね？","总觉得头脑轻飘飘的……
+这不是在做梦吧？",translated,依恩,40726939d6,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#13#12,"約束の時間になったけど、大丈夫？
+ちゃんと間に合いそうかな？","已经到约好的时间了，还好吗？
+能顺利赶得上吗？",translated,依恩,b65068f3e2,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#14#12,ちゃんと間に合う,赶得上,translated,,2b82783d8a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#15#12,ギリギリかな……,勉勉强强吧……,translated,,ddf314a682,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#17#12,"えへへ、よかった～。
+頑張って起きたかいがあるよ。","诶嘿嘿，太好啦～。
+总算没白费我努力爬起来呢。",translated,依恩,d791692911,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#18#12,"それじゃあ、わたしはもう少し寝るね。
+おやすみなさ～い。","那么，我再去睡一会儿啦。
+晚～安～啦～。",translated,依恩,0d8affcb85,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#21#12,"そうなんだ。
+じゃあ、急がなきゃダメだね……。","这样啊。
+那可必须得抓紧时间了呢……",translated,依恩,04f5a9a263,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time02_02_tch.txt#22#12,"遅刻しないように応援してるね。
+ファイト～。","我会为你加油，不要迟到哦。
+加油～。",translated,依恩,279159a97d,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#8#12,あ、そろそろ時間だ。,啊，差不多到时间了。,translated,依恩,2163acac6d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#12#12,"あなた～、大切な時間になったよ。
+ちゃんと気付いてる～？","喂～，重要的时间到了哦。
+有好好注意到吗～？",translated,依恩,a37e44274a,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#13#12,"あれ？
+もしかして……気付いてない？","咦？
+难道说……没有注意到？",translated,依恩,7f700a47d3,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#16#12,あなた～、大切な時間だよ～！,喂～，重要的时间到啦～！,translated,依恩,9531c59e52,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#18#12,お～い。時間だよ～。,喂――。时间到了哦～。,translated,依恩,d7d31fb907,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#20#12,ねぇ、時間だってば～。,喂，都说了时间到了啦～。,translated,依恩,72830c09c2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#23#12,早くしないと時間過ぎちゃうよ～！,不快点的话时间要过去啦～！,translated,依恩,c62a946895,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#25#12,急がないと時間なくなっちゃうよ～！,不抓紧的话时间要没有啦～！,translated,依恩,195db170e0,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#27#12,"近くにいる～？
+時間だよ！　じ～か～ん～！","在附近吗～？
+到时间了哦！时～间～到～！",translated,依恩,b9fe9a9e36,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#30#12,ねぇ、本当にいないの～！,喂，真的不在吗～！,translated,依恩,e2c67883d0,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01.txt#32#12,"大切なことなんでしょ？
+早くしないとダメだよ！","是很重要的事对吧？
+不抓紧可不行哦！",translated,依恩,0e699084ca,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#35#12,"はぁ、ダメみたい……。
+わたしの声、届いてないのかな……。","唉，好像不行呢……
+难道我的声音没有传过去吗……",translated,依恩,780d699f40,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#37#12,"う～ん、準備してて気付いてないだけなら
+いいんだけど……。","唔～如果只是在忙着准备
+所以没注意到就好了……",translated,依恩,8b58ca5b6d,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#39#12,"大丈夫かな……。
+忘れてたりしないよね？","还好吗……
+应该不会忘了吧？",translated,依恩,c0028016a9,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#45#12,"もう少し頑張ってみよう。
+あとちょっとしたら気付いてくれるかも。","再坚持努力一下吧。
+说不定等一会儿就能注意到了呢。",translated,依恩,64dd09b204,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#47#12,"もう一回……。あなたにとって大切なこと
+なら、わたしも頑張らないと……。","再试一次……既然对你而言那么重要，
+我也必须努力才行……",translated,依恩,d23808ea7c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#49#12,"お願い気付いて……。
+間に合わなくなっちゃう。","拜托快注意到吧……
+不然就要赶不上了。",translated,依恩,c9e2701e33,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01.txt#54#12,"ダメ、全然反応ない……。
+お願い、どうか気付いてて……。","不行，完全没有反应……
+拜托了，请一定要注意到啊……",translated,依恩,69e7b329b1,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#5#12,"よかった。
+近くにいてくれたんだね。","太好了。
+原来你在附近呀。",translated,依恩,c8f82eca26,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#7#12,あ、気がついてくれた！,啊，注意到我了！,translated,依恩,daad9e519c,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#8#12,"少し離れてたのかな？
+気がついてくれないのかと思ったよ。","刚才离开了一会儿吗？
+我还以为你没有注意到呢。",translated,依恩,444cccf278,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#10#12,"よかったぁ……。
+もうダメかと思ったよ。","太好啦……
+我还以为不行了呢。",translated,依恩,a8710445f9,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#13#12,"大切な時間になったよ。
+詳しいことは聞いてなかったけど、
+遅れたりしないで済みそうかな？","重要的时间到了哦。
+虽然我没听你说具体是什么事，
+不过能不用迟到顺利赶上吧？",translated,依恩,3bb1604865,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#14#12,大丈夫だよ。ありがとう,没事的。谢谢你,translated,,b6701ed05c,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#15#12,少し急がないとダメかな,稍微得抓紧点了呢,translated,,368510a8a8,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#17#12,えへへ、よかった。,诶嘿嘿，太好了。,translated,依恩,559b212ed6,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#18#12,"でも、お礼なんていいよ。いつもお世話に
+なってるのはわたしの方だもん。","不过，不用道谢啦。
+平时一直受照顾的明明是我才对嘛。",translated,依恩,31f0b8f40c,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#21#12,そっか、じゃあのんびりしてられないよね。,这样呀，那就不能慢悠悠的了呢。,translated,依恩,5e52330ca4,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_01_tch.txt#22#12,遅れないように頑張って！,加油别迟到哦！,translated,依恩,42321b74fc,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#8#12,"んん……。
+そろそろ時間……だよね。","嗯嗯……
+差不多到时间……了吧。",translated,依恩,734733269f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02.txt#12#12,"ねぇ、約束の時間だよ。
+ちゃんと準備してる～？","喂，到约好的时间了哦。
+有在好好准备吗～？",translated,依恩,d41bf7e1ee,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02.txt#13#12,"はれ？
+おかしいな……。","哎呀？
+好奇怪哦……",translated,依恩,7b525ca25f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02.txt#16#12,ねぇ、時間～時間だよ～。,喂，时间～到时间了哦～。,translated,依恩,7aa5cd907e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#18#12,お願い、気付いて～。,拜托了，快注意到嘛～。,translated,依恩,0e2382e66e,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#20#12,眠い……。,好困……,translated,依恩,078897cf1a,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#23#12,早くしないと～、時間過ぎちゃうよ～。,不快点的话～，时间要过去啦～。,translated,依恩,25c3a590f6,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#25#12,もしかして……寝てるの？,难道……在睡觉吗？,translated,依恩,98f998d149,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#27#12,近くにいないのかなぁ……。,是不在附近吗……,translated,依恩,5a63195008,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#30#12,"もう、時間なのに……。
+早く気付いて～……。","真是的，都已经到时间了……
+快点注意到嘛～……",translated,依恩,7e8d6b8171,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02.txt#32#12,ねぇ、時間だよ～……。,喂，时间到了哦～……,translated,依恩,256aa22fba,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#34#12,ねぇ、時間～……時間だよ～……。,喂，时间～……到时间了哦～……,translated,依恩,9184cdb458,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#37#12,うぅ、どうして気付いてくれないの……。,呜，为什么不注意到我呢……,translated,依恩,a2dd848343,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#39#12,全然反応ない……。,完全没有反应……,translated,依恩,dd981c13ef,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#41#12,ダメなのかなぁ……。,是不行了吗……,translated,依恩,09a8ca98be,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#47#12,もう一回……！,再来一次……！,translated,依恩,27dbf936e2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#49#12,"眠いけど……約束したんだもん。
+頑張らなきゃ……。","虽然好困……但既然约好了。
+就必须努力才行……",translated,依恩,48e7843967,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02.txt#51#12,眠いけど……頑張る。,虽然好困……但我会加油的。,translated,依恩,00869550aa,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#56#12,ダメ……もう限界……。,不行了……已经到极限了……,translated,依恩,eb21bff02d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02.txt#57#12,"ごめんね。
+次はちゃんと頑張るから……。","对不起哦。
+下次我一定会好好加油的……",translated,依恩,405af18012,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#5#12,あ、いたいた～。,啊，在呢在呢～。,translated,依恩,5dd5d4b5b9,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#7#12,"よかった～。なかなか反応がないから
+いないのかと思っちゃった。","太好啦～。看你一直没反应，
+我还以为你不在呢。",translated,依恩,fce081d48f,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#9#12,"ふぇ？
+……よかった。気付いてくれたんだ。","诶？
+……太好了。终于注意到了呀。",translated,依恩,d8a2676892,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#10#12,もう少しで、また寝ちゃいそうだったよ。,差点又要睡过去了说。,translated,依恩,a02da3256f,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#13#12,"頼まれた時間になったけど、
+この時間でよかったんだよね？","到了你拜托我的时间了，
+是这个时间没错吧？",translated,依恩,9f585c81b5,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#14#12,ぴったしだよ。ありがとう,分秒不差哦。谢谢你,translated,,4f976469b2,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#15#12,少し違うかな……,稍微有点不太对呢……,translated,,1be9cb7b5d,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#17#12,えへへ、どういたしまして。,诶嘿嘿，不用客气。,translated,依恩,94919b55f9,br=0 nl=0,1,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#18#12,"少しでもあなたの力になれてよかった。
+わたしがしてあげられることなんて、
+こんなことくらいだもん。","能稍微帮上你的忙真是太好了。
+毕竟我能为你做的事情，
+也就只有这种程度了嘛。",translated,依恩,588697a230,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#19#12,"わたしはまた寝るけど、
+大切な用事、頑張ってきてね。","我再去睡一会儿，
+重要的事情要加油哦。",translated,依恩,ab5508b612,br=0 nl=1,2,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#22#12,"え！？
+お、遅かったのかな？
+早かったのかな？","诶！？
+是、太晚了吗？
+还是太早了呀？",translated,依恩,da997a3cc6,br=0 nl=2,3,
+inc/event/res/formatevent01/alarm_time03_02_tch.txt#23#12,"ごめんなさい、次はちゃんと時間どおりに
+声かけられるようにするね……。","对不起，下次我一定会努力
+按照时间准确叫你的……",translated,依恩,5f57de77f0,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time01.txt#4#12,これからご飯食べるの？,现在要吃饭了吗？,translated,依恩,e92112f653,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time01.txt#6#12,あ、これからご飯なんだ。,啊，接下来要吃饭呀。,translated,依恩,deeea3bc31,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time01.txt#8#12,うん、いいよ。,嗯，好呀。,translated,依恩,b047fa1fde,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time01.txt#11#12,それじゃあ一緒に食べよっか。,那我们一起吃吧。,translated,依恩,8a7a9e2fe9,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time01.txt#13#12,じゃあ、わたしも一緒に食べようかな。,那么，我也一起吃好啦。,translated,依恩,78693bfb3f,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time01.txt#15#12,わたしも、ちょうどお腹が空いてたの。,我也正好肚子饿了呢。,translated,依恩,93f9c11469,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time02.txt#4#12,"ふぇ？
+これからご飯食べるの？","诶？
+现在要吃饭了吗？",translated,依恩,8b9233593a,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time02.txt#6#12,"ん～……。
+ごはん、食べるの？","唔～……
+要吃饭了吗？",translated,依恩,912a60d68b,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time02.txt#8#12,んん～、こんな時間にご飯食べるの？,嗯～在这个时间吃饭吗？,translated,依恩,58650aa28a,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time02.txt#11#12,"いいよ～。
+起きるからちょっと待っててねぇ。","好呀～。
+我这就起来，稍微等我一下哦。",translated,依恩,9d67cc61b1,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time02.txt#13#12,"ちょっとだけ待ってて。
+顔洗って準備するね。","稍微等我一下下。
+我去洗把脸准备一下哦。",translated,依恩,721fc95df9,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time02.txt#15#12,"それじゃあ、わたしもお付き合いしよう
+かな。
+一人より二人で食べた方がおいしいよね。","那么，我也来
+陪你一起吃吧。
+两个人一起吃肯定比一个人更香呢。",translated,依恩,ec6fc2d4c3,br=0 nl=2,3,
+inc/event/res/formatevent01/eating_time03.txt#1#12,"<CLY2>いまは食事に誘うことができません。
+イオンの行動が変わるのを待ちましょう。","<CLY2>现在无法邀请一同用餐。
+请等待依恩改变行动。",translated,系统文本,52ce536405,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/formatevent01/eating_time04.txt#2#12,ごちそうさま～。,我吃饱啦～。,translated,依恩,fdc50dc64c,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time04.txt#4#12,ごちそうさまでした。,多谢款待。,translated,依恩,9880d7b768,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time04.txt#6#12,もうお腹いっぱい。,肚子已经好饱了。,translated,依恩,f4217a3545,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time04.txt#9#12,また一緒にご飯食べようね。,下次再一起吃饭吧。,translated,依恩,ea58f2357c,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time04.txt#11#12,"こんなに食べて大丈夫かな……。
+あなたと一緒だとつい食べ過ぎちゃって、
+ちょっと心配かも……。","吃这么多没问题吧……
+跟你在一起不知不觉就吃多了，
+稍微有点担心呢……",translated,依恩,1c2db61933,br=0 nl=2,3,
+inc/event/res/formatevent01/eating_time04.txt#13#12,"二人で食べると、いつもよりおいしいね。
+また一緒に食べたいな。","两个人一起吃，比平时更好吃呢。
+下次我还想和你一起吃。",translated,依恩,9b4ba2cb77,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time05.txt#2#12,ごちそ～さま～。,我吃～饱～啦～。,translated,依恩,4377e90ba9,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time05.txt#4#12,おいしかった～。,好好吃哦～。,translated,依恩,2569c52bef,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time05.txt#6#12,"あなたと一緒だから、
+つい食べ過ぎちゃった。","因为是和你在一起，
+不知不觉就吃太多了。",translated,依恩,6fa88e2700,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time05.txt#9#12,"それじゃあ、歯磨いて寝るね。
+おやすみなさい～。","那么，我去刷个牙就睡啦。
+晚安啦～。",translated,依恩,c300944817,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time05.txt#11#12,"お腹いっぱいになったら、
+また眠くなってきちゃった。","吃得饱饱的之后，
+就又有点犯困了呢。",translated,依恩,1916a2f121,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time05.txt#13#12,すぐに寝て大丈夫かなぁ……。,马上就睡真的没问题吗……,translated,依恩,9d6e20fa95,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time06.txt#1#12,食事を終える,结束用餐,translated,,084436c4cb,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time06.txt#2#12,食事を続ける,继续用餐,translated,,51bd49cf78,br=0 nl=0,1,
+inc/event/res/formatevent01/eating_time06.txt#5#12,"あれ？
+もう食べ終わっちゃったの？","咦？
+这么快就吃完了吗？",translated,依恩,64f7fe02ea,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time06.txt#7#12,"え？　もう？
+ちゃんと噛んで食べないと体に悪いよ。","诶？这就吃完了？
+不好好细嚼慢咽对身体不好哦。",translated,依恩,873bfa2d0c,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time06.txt#9#12,"もうごちそうさまなの？
+あなたって食べるの早いね。","这就吃饱了吗？
+你吃得可真快呀。",translated,依恩,a3b59a4228,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time06.txt#12#12,"まだ少し残ってるけど、ごちそうさま。
+わたしも片付けちゃお……。","虽然还剩了一点，不过我吃饱了。
+我也来收拾一下吧……",translated,依恩,2835580e9d,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time06.txt#14#12,"じゃあ、わたしもごちそうさま。
+少し勿体ないけど片付けちゃうね。","那么，我也吃饱了。
+虽然有点浪费，但我这就收拾掉哦。",translated,依恩,650edc119b,br=0 nl=1,2,
+inc/event/res/formatevent01/eating_time06.txt#16#12,"それじゃあ、わたしも片付けちゃお。
+ごちそうさまでした。","那么，我也来收拾一下吧。
+多谢款待啦。",translated,依恩,5c59141645,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#4#12,……さっき、返事しないで退席したでしょ？,……刚才，你没回答就离席了吧？,translated,依恩,932a143bc9,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#5#12,"ああいうのって、ちょっと嫌だな。
+もうやらないでね。","那种行为，稍微有点讨厌呢。
+以后别再这样了哦。",translated,依恩,d70a91dbcb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#7#12,"あれ？
+戻ってきたの？","咦？
+回来了吗？",translated,依恩,fb06143c14,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#8#12,"話の途中に急にいなくなるほど、
+大切な用事があるんじゃないの？","能让你说到一半突然走开，
+应该是有很重要的事情吧？",translated,依恩,c91925f6e9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#9#12,"……まあ、もういいけど。
+でも、ああいうのって気分悪いから、
+もうやらないでね？","……嘛，虽然就算了。
+但那样真的很让人不舒服，
+以后可不要再这样了哦？",translated,依恩,8e06efe7f9,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#11#12,"……話の途中で勝手にいなくなって、
+戻ってきた時は平然とわたしを呼ぶの？","……话说到一半自顾自地走掉，
+回来的时候还若无其事地叫我吗？",translated,依恩,fa0b36395b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#12#12,あなたって、そんな勝手な人だったんだ？,原来你，是这么以自我为中心的人啊？,translated,依恩,a66ca7662f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#13#12,……何だか、ちょっとガッカリだよ。,……总觉得，稍微有点失望呢。,translated,依恩,68e217fa02,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#15#12,"……わたしがどうして機嫌悪いのか、
+わかってるよね？","……我为什么心情不好，
+你心里有数吧？",translated,依恩,24ee176cdd,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#16#12,"話の途中で、何も言わずに突然いなく
+なられたら、誰だっていい気持ちは
+しないよ。","话说到一半的时候，
+一声不吭就突然走掉，
+换作是谁都不会开心的哦。",translated,依恩,1b12dfc344,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#17#12,"……わかってくれた？
+もう、こういうの絶対嫌だよ？","……明白了吗？
+以后我可绝对不想再遇到这种事了哦？",translated,依恩,20d7fffe96,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#21#12,あっ、帰ってきた！,啊，回来了！,translated,依恩,5adb25de0d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#22#12,"さっきはどうしたの？
+話の途中でいなくなったから、
+ビックリしたよ。","刚才怎么了呀？
+话说到一半突然不见了，
+可真让人吃惊呢。",translated,依恩,5ee9fd18f9,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#23#12,"今度からは、せめて一言くらい言ってから
+席をはずしてね。","下次至少打声招呼，
+然后再离开好吗。",translated,依恩,1ddb269bab,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#25#12,あれ、戻ってきた！,哎呀，回来了！,translated,依恩,f3c30c5388,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#26#12,"もぉ、さっきは急にいなくなったから、
+本当にビックリしたんだよ？","真是的，刚才你突然走开，
+真的让我很吃惊哦？",translated,依恩,c7de3eabe8,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#27#12,もうああいうのは無しにしてね。,下次可不能再那样了哦。,translated,依恩,5320a4e6d6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#29#12,あっ、やっときた！,啊，终于来啦！,translated,依恩,af31e21368,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#30#12,"もぉ、さっきはどうしたの？
+話の途中にいなくなるのはマナー違反だよ。","真是的，刚才怎么了嘛？
+话说到一半走开可是不合礼仪的哦。",translated,依恩,90c00b7d6a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#31#12,"親しき仲にも礼儀ありなんだから。
+もうやったらダメだよ？","就算是亲密的朋友也要讲究礼仪嘛。
+下次可不能再这样了哦？",translated,依恩,3346cfa407,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#33#12,あっ、戻ってきたの？,啊，回来了呀？,translated,依恩,5e4c3cf8da,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#34#12,"もぉ、話の途中で突然いなくなるんだもん、
+何かあったのかって心配しちゃったよ。","真是的，突然中途走开，
+害我担心是不是出了什么事呢。",translated,依恩,21210c0e22,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#35#12,"もう突然いなくなるのはなしだよ？
+もぉ、勝手なんだから……。","以后可不能再突然不见了哦？
+真是的，太任性了啦……",translated,依恩,75bacd26fc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#39#12,あっ、おかえりー。,啊，欢迎回来――。,translated,依恩,528131c707,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#40#12,"話の途中でいなくなったけど、
+何か急用だったの？","虽然说到一半就走开了，
+是有什么急事吗？",translated,依恩,200153715e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#41#12,"忙しいのはわかるけど、今度からは
+何か言ってからにしてほしいな。","我知道你很忙，不过下次
+希望你能先跟我说一声呢。",translated,依恩,5ea58324a3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#43#12,ん、戻ったの？,嗯，回来了吗？,translated,依恩,1332813866,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#44#12,"急にいなくなったから、何かあったのかって
+心配してたんだよ？","看你突然走开，我还担心
+是不是遇到什么事了呢？",translated,依恩,eaf39988a5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#45#12,"でも、何もなかったみたいだね。
+それがわかって安心したよ。","不过，看来是没出什么事呢。
+知道这一点我就放心了。",translated,依恩,c19c36748b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#47#12,あっ、もう戻ってきたの？,啊，这么快就回来了？,translated,依恩,9096720e81,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#48#12,"急にいなくなったから、何か急用でも
+入ったのかと思ってたんだけど……
+違ったのかな？","看你突然不见了，我还以为是
+突然有什么急事呢……
+难道不是吗？",translated,依恩,7a151b5a27,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#49#12,"まあ、あなたにも色々あると思うから、
+あまり深くは聞かないよ。","嘛，我想你也有各种事情要忙，
+我就不过多打听啦。",translated,依恩,897eb76c99,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#51#12,あっ、帰ってきた！,啊，回来了！,translated,依恩,5adb25de0d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#52#12,"もぉ、話の途中でいなくなったから、
+何事かと思ってすごく焦ったんだよ？","真是的，话说到一半突然不见了，
+我还以为出了什么大事，慌得不行呢？",translated,依恩,ac2101feb3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#53#12,それなのに、平然と帰ってくるなんて……。,亏你还能这么若无其事地回来……,translated,依恩,46f8ab7725,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#54#12,"……でも、何事もなくて一安心だよ。
+あまり心配かけさせないでね。","……不过，没事就是万幸啦。
+以后可别让我这么担心哦。",translated,依恩,f030820690,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#64#12,"……呼んでも返事されないのって、
+どういう気分かわかった？","……叫你却得不到任何回应，
+明白那是什么心情了吗？",translated,依恩,9e89f99664,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#65#12,"もう話の途中で急にいなくなるのは
+やめてね。","以后别再话说到一半
+就突然不见了哦。",translated,依恩,fa08248205,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#66#12,第一、失礼だよ……。,真是的，太失礼了啦……,translated,依恩,5d59c7794d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#68#12,……あ、来たの？,……啊，来了吗？,translated,依恩,8c09e2b96b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#69#12,"話の途中で黙っていなくなっちゃうのに、
+よく平然と戻って来れるね？","明明话说到一半一声不吭就走掉，
+你怎么还能若无其事地回来呢？",translated,依恩,fd1a6a5b43,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#70#12,……もう、あんないなくなり方しないでね？,……以后可别再那样走掉了哦？,translated,依恩,8d34724d8e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#72#12,……いらっしゃい。,……欢迎。,translated,依恩,942b8963f9,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#73#12,"人の話の途中で急にいなくなったのに、
+平然と戻って来れるんだね？","别人话说到一半突然走开，
+你居然还能若无其事地回来呢？",translated,依恩,b575cc822a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#74#12,"ちょっと、あなたに対するイメージが
+変わったかも……。","总觉得，我对你的印象
+可能稍微发生改变了呢……",translated,依恩,40c5463064,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#76#12,"……あなたって、人の話の途中でも
+平気でいなくなれる人なんだね？","……原来你，是别人话说到一半
+也能毫不在意走掉的人呀？",translated,依恩,48157fd629,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#77#12,"わたし、あなたはもっと常識のある、
+素敵な人だと思ってたのに……。","我还以为，你是个更加明事理、
+更有魅力的人呢……",translated,依恩,70567f6e31,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#78#12,……名誉挽回、期待していいのかな？,……挽回名誉的表现，我可以期待一下吗？,translated,依恩,dac072422c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#82#12,"あっ、よかったぁ……。
+心配してたんだよ？","啊，太好啦……
+我刚才好担心你哦？",translated,依恩,1bd6cdd2eb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#83#12,"話の途中で急にいなくなっちゃって、
+それっきりだったんだもん。","话说到一半突然就不见了，
+然后就一直没动静了嘛。",translated,依恩,79a225c1ab,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#84#12,"あなたのことだから、きっと急用ができて
+どうしても離れないといけなくなった、
+っていうのはわかってたよ？","既然是你，肯定是因为有急事，
+不得不暂时走开一下，
+其实我心里明白哦？",translated,依恩,0bfbd73dbf,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#85#12,"……でも、わかってても急にいなく
+なられると、やっぱり寂しいよ。","……不过，就算心里明白，突然被抛下
+果然还是会觉得很寂寞呀。",translated,依恩,8707804d3c,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#86#12,"どうしても、って時は仕方ないけど、
+できるだけないと嬉しいな。","万不得已的时候虽然没办法，
+但要是能尽量避免我就很开心啦。",translated,依恩,6381944d89,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#88#12,あっ、帰ってきた！,啊，回来了！,translated,依恩,5adb25de0d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#89#12,"話の途中でいなくなっちゃったから、
+何かあったのかな、ってずっと心配して
+たんだからね！？","因为你话说到一半就不见了，
+我还以为出什么事了，
+一直都在担心你呢！？",translated,依恩,ccd067c812,br=0 nl=2,3,
+inc/event/res/formatevent01/for_care01.txt#90#12,"……でも、何もなかったみたいで
+安心したよ。","……不过，看来是什么事也没有，
+我就放心啦。",translated,依恩,ee69f1a04c,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#91#12,あんまり心配かけさせないでね？,可别让我太担心哦？,translated,依恩,69f2c38c55,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#93#12,あっ、おかえりー。,啊，欢迎回来――。,translated,依恩,528131c707,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#94#12,"急にいなくなっちゃったから、
+ちょっと心配したんだよ？","你突然不见了，
+让我有点担心了哦？",translated,依恩,a5ef2feeef,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#95#12,"でも、ちゃんと戻ってきてくれる、って
+信じてたけどね、えへへ……。","不过，我一直相信你肯定会回来的，
+诶嘿嘿……",translated,依恩,5762bda7ab,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#96#12,"……今日はもう、話の途中で
+いなくならないでね？","……今天可不要再话说到一半
+就走掉了哦？",translated,依恩,8386e030bb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#98#12,あ、おかえりー。,啊，欢迎回来――。,translated,依恩,1c1b8d4506,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#99#12,"急にいなくなったからビックリしたけど、
+特に何かがあったわけじゃないみたいだね。","你突然走开吓了我一跳，不过看来
+并不是遇到了什么意外呢。",translated,依恩,8927aedd9d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#100#12,"よかった……。
+何も無かったなら、それでいいの。","太好了……
+只要没出什么事，那就好啦。",translated,依恩,7691ad1d54,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#104#12,いらっしゃーい……。,欢迎光～临……,translated,依恩,115d312d9b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#105#12,じゃないよ、もう！,――才不是呢，真是的！,translated,依恩,46e9688c50,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#106#12,"話の途中でいなくなったから、
+すごく心配してたんだよ？","话说到一半突然走开，
+我很担心你哦？",translated,依恩,a9c3afb795,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#107#12,もうこういういなくなり方はしないでね？,以后可别再这样突然走掉了哦？,translated,依恩,3a6a3e13f0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#109#12,あっ、おかえりー。,啊，欢迎回来――。,translated,依恩,528131c707,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#110#12,"話の途中でいなくなったけど、
+急用か何かだったの？","虽然话说到一半就不见了，
+是有什么急事吗？",translated,依恩,a4bb90d11b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#111#12,"だとしても、いなくなる時は
+一言あってもいいと思うんだけど……。","即便那样，要离开的时候
+也应该先打声招呼嘛……",translated,依恩,ebe12499f9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#112#12,あんまり、こういうことはしないでね？,尽量别再做这种事了哦？,translated,依恩,c7a126f00c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#114#12,"もぉ、話の途中で急にいなくなるなんて、
+マナーがなってないよ。","真是的，话说到一半突然不见，
+这也太不讲礼仪了啦。",translated,依恩,be4cc66f49,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#115#12,"バツとして、今日はいつもより長く
+わたしと一緒にいてね。","作为惩罚，今天你可要比平时
+陪我更久一点哦。",translated,依恩,bd11d28aa2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#117#12,ん、戻ったの？,嗯，回来了吗？,translated,依恩,1332813866,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#118#12,"急にいなくなったから少し心配したよ。
+もぉ、しょうがない人なんだから……。","看你突然不见，让我有点担心呢。
+真是的，拿你没办法……",translated,依恩,64b65cef47,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#119#12,もう心配させないでね？,可别再让我担心了哦？,translated,依恩,c5c2958919,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#125#12,…………遅い。,…………好慢。,translated,依恩,f956251b68,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#126#12,"せっかくお話してたのに、
+急にいなくなるなんてひどいよ……。","难得我们在聊天，
+突然走掉也太过分了啦……",translated,依恩,e4ac2093eb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#128#12,ねぇ、わたしに言うことあるよね？,呐，你是不是该对我说点什么呢？,translated,依恩,838dd4f5c0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#129#12,せっかく楽しく話してたのに……。,亏我们聊得那么开心……,translated,依恩,12dd7013a6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#130#12,次同じことしたら、許してあげないから！,下次要是还这样，我可不原谅你！,translated,依恩,832587b3ad,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#132#12,……わたし、あぁいうは良くないと思う。,……我觉得，那样做可不好哦。,translated,依恩,1da76da666,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#133#12,"人とお話してるときに、
+黙っていなくなるなんて最低だよ……。","在跟别人聊天的时候，
+一声不吭就走掉也太差劲了……",translated,依恩,dad54a315e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#134#12,わたしだって心配するんだからね……。,我也是会担心的呀……,translated,依恩,afaafc3f2d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#139#12,バカ……。,笨蛋……,translated,依恩,c95cb26bb0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#143#12,おかえりなさいっ！,欢迎回来！,translated,依恩,1474dbeb70,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#144#12,もう、急にいなくなるから心配したよ。,真是的，看你突然走开我都担心了呢。,translated,依恩,90a39b0614,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#145#12,きっと、急ぎの用事とかあったんだよね？,肯定是有什么很紧急的事情对吧？,translated,依恩,59401b2b35,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#146#12,それじゃあ、仕方ないよ。,那样的话，也没办法啦。,translated,依恩,ccf6a5f701,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#147#12,けど、次からは一声もらえると嬉しいな。,不过，下次要是能先说一声我就开心啦。,translated,依恩,74a71e368e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#149#12,おかえり～。,欢迎回来～。,translated,依恩,6d6c5bcb18,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#150#12,実は、今ちょっとだけ気分がいいの。,其实，我现在心情稍微挺不错的。,translated,依恩,59c91e4a54,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#151#12,"だから、急にいなくなったことは
+気にしてないよ。","所以，你突然走开的事情
+我就不计较啦。",translated,依恩,70e64eaf0d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#152#12,けど、次からは気をつけてね。,不过，下次要注意哦。,translated,依恩,70cd2ed3ec,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#154#12,よかった～。,太好啦～。,translated,依恩,b61139f83c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#155#12,"あなたが急にいなくなるから、
+心配してたんだよ？","看你突然不见了，
+我很担心你哦？",translated,依恩,f7c755ba10,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#156#12,"大変かもしれないけど、
+次からは一声かけてほしいな。","虽然可能有些手忙脚乱，
+但下次还是希望你能先说一声呢。",translated,依恩,844a163711,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#157#12,"あなたはわたしにとって大切な人だから、
+やっぱり心配だもの。","因为你对我而言是重要的人，
+我果然还是会担心的嘛。",translated,依恩,21d472a849,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#159#12,もう、どこ行ってたの？,真是的，去哪儿了呀？,translated,依恩,9b3df3b501,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#160#12,わたしだって怒るときは怒るんだからね？,我该生气的时候也是会生气的哦？,translated,依恩,c07accf50b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#162#12,な～んて、気にしてないよ。,开～玩笑的，我没介意啦。,translated,依恩,e00e75e59e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#163#12,きっと、急な用事が入ったんだよね？,肯定是有突发的急事对吧？,translated,依恩,af32f07df4,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#164#12,"けど一言あれば、あたしも安心できるし、
+そうしてくれると嬉しいな。","不过只要能说一声，我也能安心下来，
+要是能这么做我会很高兴的。",translated,依恩,5fac8ece6e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#168#12,戻ってきたんだ！,你回来啦！,translated,依恩,e937bbc83f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#169#12,次は黙っていなくならないでね。,下次可不要不声不响就走掉了哦。,translated,依恩,6a53a7f1ec,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#170#12,その……わたしだって不安になるんだよ？,那个……我也是会不安的呀？,translated,依恩,e43ee3aa2d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#171#12,だから約束ね？,所以跟我约好哦？,translated,依恩,f677ceb8e9,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#173#12,おかえりなさい。,欢迎回来。,translated,依恩,b4ffd03b9d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#174#12,突然いなくなったけど、何かあったのかな？,突然不见了，是有什么事吗？,translated,依恩,601f625367,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#175#12,とにかく無事でよかったよ。,总之平平安安就太好啦。,translated,依恩,7781f389b5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#176#12,あんまり心配かけないでね？,可别让我太担心哦？,translated,依恩,36bee99433,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#178#12,もう、どこ行ってたの？,真是的，去哪里了呀？,translated,依恩,9b3df3b501,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#179#12,"お話の途中にいなくなるなんて
+マナー違反なんだからね。","话说到一半就走掉，
+这可是不符合礼仪的哦。",translated,依恩,85ce02eaae,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#181#12,おかえり～。,欢迎回来～。,translated,依恩,6d6c5bcb18,br=0 nl=0,1,
+inc/event/res/formatevent01/for_care01.txt#182#12,"この前は急にいなくなったから
+びっくりしたよ。","之前你突然不见了，
+吓了我一跳呢。",translated,依恩,43adb44f3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_care01.txt#183#12,今度からいなくなるときは、一声かけてね。,下次要离开的时候，记得先跟我说一声哦。,translated,依恩,ada6d6ce9c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#3#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#5#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#7#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#9#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#12#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#16#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#17#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#19#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#21#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#23#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#26#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#30#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#31#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#32#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#34#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#36#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#38#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#41#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#45#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#46#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#47#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#49#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#51#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#53#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#56#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#60#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#61#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#62#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#64#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#66#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#68#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#71#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#75#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#76#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#78#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#80#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#82#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#85#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#89#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#90#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#91#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#93#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#95#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#97#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#100#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#104#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#105#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#106#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#108#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#110#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#112#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#115#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#119#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#120#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#122#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#124#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#126#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#129#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#133#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#134#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#135#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#137#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#139#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#141#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#144#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#148#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#149#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#150#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#152#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#154#12,もしもーし、どうしちゃったの？,喂喂～，怎么了呀？,translated,依恩,23462e327f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#156#12,……もしかして、退席中かな？,……难道说，暂时离席了吗？,translated,依恩,6e450d1759,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#159#12,はぁ……お話したかったのに……。,唉……明明想跟你聊天的……,translated,依恩,4b6a4e3da5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#165#12,ふふっ、ありがと。,呵呵，谢谢你。,translated,依恩,74e573494b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#166#12,"そう言ってくれるあなたも、
+すごく素敵だよ。","会这么夸我的你，
+也很有魅力哦。",translated,依恩,2741d8fb0a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#168#12,もぉ、またそういうこと言って……。,真是的，又说这种话……,translated,依恩,36222ea5b5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#169#12,"あなたに言われると、本当にそうなんじゃ
+ないか、って勘違いしちゃいそうだよ。","被你这么一说，我都快误以为
+自己真的是那样了呢。",translated,依恩,5734b23b2d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#171#12,えへへ……ありがと。,诶嘿嘿……谢谢你。,translated,依恩,dfb112a1eb,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#172#12,"これからも、あなたにずっとそう言って
+もらえるように頑張るよ。","今后我也要努力，
+让你一直这么夸我呢。",translated,依恩,a564228112,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#174#12,えへへ……よかった、そう思ってもらえて。,诶嘿嘿……太好了，你能这么觉得。,translated,依恩,6d9bff4cbb,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#175#12,"可愛くない奥さん、何て思われたら、
+やっぱり嫌だもん。","要是被你觉得是个不可爱的妻子，
+果然会很讨厌嘛。",translated,依恩,d0eba411f7,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#180#12,心配してもらうほどじゃないから平気だよ。,还没到需要担心的程度，所以没事的哦。,translated,依恩,661957f3f1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#181#12,"それより、せっかく来てくれたんだから、
+一緒にお話したいな。","比起那个，难得你过来看我，
+我想和你多聊聊天呢。",translated,依恩,d3acd438f2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#183#12,ううん、今暇になったよ。,没有啦，我现在有空了哦。,translated,依恩,60c67353f3,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#184#12,"わたしにとっては、あなたとのお話以上に
+大切なことなんてないもん。","对我而言，没有什么比和你聊天
+更加重要的事情了嘛。",translated,依恩,ba87900115,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#186#12,えへへ……ちょっとだけね。,诶嘿嘿……只有一点点啦。,translated,依恩,a2c432606c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#187#12,"やることが色々あって大変だけど、
+これくらいどうってことないよ。","虽然要做的事情很多挺不容易的，
+不过这点程度完全不算什么啦。",translated,依恩,3867ad6103,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#189#12,"う～ん……確かにちょっと忙しいかな？
+でも、これくらいで弱音は吐かないよ。","唔～……确实稍微有点忙吧？
+不过，我可不会为了这点事说丧气话哦。",translated,依恩,50b023800d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#190#12,"あなたのお嫁さんだもん。
+これくらいで参ったりしないよ。","毕竟我是你的妻子嘛。
+这点程度我可不会认输的哦。",translated,依恩,a585fb6f87,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#195#12,えっ、もしかして顔に出ちゃってる？,诶，难道已经写在脸上了吗？,translated,依恩,df3b9984aa,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#196#12,"情けないところ見られたくないから、
+元気なところ見せようと思って
+頑張ってたんだけど、逆効果だったみたい。","因为不想让你看到我没出息的样子，
+就努力想表现得很有精神，
+结果好像适得其反了呢。",translated,依恩,452b5f5c0a,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#197#12,あなたに隠し事は無理みたいだね。,看来想对你有所隐瞒是不可能的呢。,translated,依恩,2dcb72f746,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#199#12,あなたとお話したおかげで、元気百倍だよ！,多亏和你聊了天，现在精神百倍啦！,translated,依恩,db71dd957f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#200#12,"……って言えたらいいんだけど、
+実は結構辛いの。","……要是能这么说就好了，
+其实真的挺吃力的呢。",translated,依恩,c6a9948a32,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#201#12,"もしかしたら、作業の途中で眠っちゃったり
+するかもしれないけど、今日は許してね。","说不定我会在干活的中途睡着，
+不过今天就原谅我吧。",translated,依恩,453b3b05b6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#203#12,"うん、ちょっと肩が重いの。
+昨日の疲れが残っちゃってるみたい。","嗯，肩膀感觉沉沉的。
+昨天的疲劳好像还没消退呢。",translated,依恩,61dac2e9b8,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#204#12,今日は少し早めに休みたいな。,今天想稍微早点休息呢。,translated,依恩,c3084bf0c2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#206#12,"えへへ、正解……。
+でも、休むほどじゃないから大丈夫だよ。","诶嘿嘿，猜对啦……
+不过还没到需要躺下休息的程度，不要紧的。",translated,依恩,09269bed5e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#207#12,"それに、頑張って作業してるところを
+あなたに見てもらえば、少しは疲れを
+忘れられるしね。","而且，只要能让你看到
+我努力做东西的样子，
+多少也能把疲劳忘掉一些呢。",translated,依恩,2c7d7fc70b,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#212#12,うん……睡眠時間が少なかったみたい。,嗯……好像是睡眠时间有点少。,translated,依恩,deec92787f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#213#12,今日は早めにベッドに入りたいな。,今天想早点上床休息呢。,translated,依恩,fc3b260aa3,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#215#12,えへへ……やっぱり、わかっちゃった？,诶嘿嘿……果然还是被你看出来啦？,translated,依恩,66bbdb0097,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#216#12,"睡眠時間は十分なはずなんだけど……
+眠りが浅かったのかな？","睡眠时间照理说应该很充足才对……
+难道是睡得太浅了吗？",translated,依恩,c075251eeb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#217#12,"お昼寝しちゃうかもしれないけど、
+その時は起こしてくれると嬉しいな。","说不定我会睡个午觉，
+到那个时候要是能叫醒我我就很开心啦。",translated,依恩,c6045b55fa,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#219#12,うん、さっきから瞼が重くて辛いの……。,嗯，刚才开始眼皮就沉沉的，好难受哦……,translated,依恩,e9e31461b2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#220#12,あなたと一緒にお昼寝したいなぁ？,想和你一起睡午觉呀？,translated,依恩,87543ab5b1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#221#12,"なんてね、えへへ……。
+大丈夫、まだまだ頑張れるよ。","开玩笑的啦，诶嘿嘿……
+没事的，我还能继续加油哦。",translated,依恩,cc61c7359e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#223#12,"ちょっとだけね。
+でも、大丈夫だよ。","只有一点点啦。
+不过，没关系的哦。",translated,依恩,5d04f91dfe,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#224#12,"あなたが見てくれてれば、ドキドキして
+眠気なんか飛んでっちゃうもん。","只要有你在看着我，心跳不已的感觉
+早就把睡意全都吹飞啦。",translated,依恩,3d1e176522,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#229#12,"ううん、何にもないよ。
+いつもと同じ。","没有啦，什么事也没有哦。
+和平时一样。",translated,依恩,86cd46334c,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#230#12,"でも、それがすごく嬉しくて、幸せだな、
+って思って、それに浸っちゃったみたい。","不过，这样就让我觉得好高兴、好幸福，
+不知不觉就沉浸在其中了呢。",translated,依恩,f52c16f235,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#231#12,"こうして部屋にいても、いつもあなたが
+わたしに会いに来てくれる。","像这样待在房间里，你总是会
+特地过来看我。",translated,依恩,ac9eaeb4d5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#232#12,"ふふっ、これからもこういう毎日を
+過ごせると嬉しいな。","呵呵，今后如果也能过着这样的每一天，
+我就会很开心啦。",translated,依恩,17deba2d7e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#234#12,"うん……実は、お気に入りのカップを
+割っちゃって、ちょっと落ち込んでるの。","嗯……其实我把心爱的杯子打碎了，
+稍微有点闷闷不乐呢。",translated,依恩,490993a8fe,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#235#12,"ああいう壊れ物は、予備として同じ物を
+いくつか用意しておくべきだね。","像那种易碎品，果然应该备用几个
+一模一样的才对呢。",translated,依恩,b748b9fa1b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#237#12,うん……あなたがいない間に、ちょっとね。,嗯……在你不在的时候，稍微胡思乱想了一下呢。,translated,依恩,18e0f9526a,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#238#12,"もし、あなたがもう来てくれなかったら、
+って考えてたら、怖くなっちゃったの。","一想到你要是再也不过来了，
+我就突然觉得好害怕。",translated,依恩,9a42be32ce,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#239#12,"バカだよね、わたし。
+あなたはこうして来てくれてるのに、
+そんなこと考えちゃうなんて。","我真是个笨蛋呢。
+明明你就像这样来看我了，
+我居然还会去胡思乱想那种事。",translated,依恩,6c911e84dd,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#240#12,"でも、話したら気持ちが軽くなったよ。
+心配かけちゃってごめんね。","不过，说出来之后心情就轻松多啦。
+让你担心了对不起哦。",translated,依恩,4cb38b90f9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#242#12,"ん～、何かあったっていうか……。
+何となく、体調が悪いような気がするの。","唔～该说是有什么事呢……
+总觉得身体好像稍微有点不太舒服。",translated,依恩,795f7be878,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#243#12,"お腹が痛いとか、頭が痛いとか、そういう
+具体的な体調の悪さは感じないんだけど、
+何となく変かも、って……。","虽然没有肚子痛或者头痛那种
+具体的身体不适，
+但总觉得哪里怪怪的……",translated,依恩,5184e127d4,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#244#12,"ごめんね、心配かけちゃって。
+でも、違和感程度だから大丈夫だよ。","对不起哦，让你担心了。
+不过只是稍微有点异样感，没事的。",translated,依恩,796cede9d3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#248#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#250#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#252#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#254#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#257#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#261#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#262#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#264#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#266#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#268#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#271#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#275#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#276#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#277#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#279#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#281#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#283#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#286#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#290#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#291#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#292#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#294#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#296#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#298#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#301#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#305#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#306#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#307#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#309#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#311#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#313#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#316#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#320#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#321#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#323#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#325#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#327#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#330#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#334#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#335#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#336#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#338#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#340#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#342#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#345#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#349#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#350#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#351#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#353#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#355#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#357#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#360#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#364#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#365#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#367#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#369#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#371#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#374#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#378#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#379#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#380#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#382#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#384#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#386#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#389#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#393#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#394#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#395#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#397#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#399#12,"ねえ、どうしたの？
+そこにいるんでしょ？","呐，怎么了呀？
+你是在那里的对吧？",translated,依恩,183b5a1e3f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#401#12,"おーい……放っておかれるの、
+寂しいんだけど……。","喂――……被你晾在一边，
+我很寂寞的说……",translated,依恩,fbe1a626d9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#404#12,……しゅん。,……好失落。,translated,依恩,3767319a91,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#410#12,えへへ……ありがと。,诶嘿嘿……谢谢你。,translated,依恩,dfb112a1eb,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#411#12,そういうあなたも、とっても素敵だよ。,这么夸我的你，也很有魅力哦。,translated,依恩,682938f1ce,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#413#12,"も、もぉ……急にそういうこと
+言わないでよ。","真是的……
+别突然说这种话啦。",translated,依恩,b1c8584513,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#414#12,言われるこっちも、結構緊張するんだよ？,被你这么说，我这边也是很紧张的哦？,translated,依恩,ff45333139,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#416#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#417#12,"もっとあなたに褒められるように、
+今よりも可愛くなりたいな。","为了能得到你更多的夸奖，
+我想变得比现在更可爱呢。",translated,依恩,c079095d12,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#419#12,"そうやってわたしを喜ばせて、
+何を期待してるのかな～？","故意这么哄我开心，
+你是在期待着什么呢～？",translated,依恩,f9c843560b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#420#12,なんてね、えへへ……。,开玩笑的啦，诶嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#421#12,"……もっと可愛いって言ってもらえる
+ようになるために、頑張っちゃおうかな？","……为了能让你多夸我可爱，
+我是不是该加把劲了呢？",translated,依恩,5bba055da3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#426#12,"ちょっとだけね。
+でも、あなたが最優先だよ。","只有一点点啦。
+不过，你才是最优先的哦。",translated,依恩,055cdef8c4,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#428#12,"少しだけね。
+でも、気にしないでいいよ。","只有一点点啦。
+不过，不用放在心上哦。",translated,依恩,69e27626ff,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#429#12,"あなたと一緒にいることに比べたら、
+大した用事でもなかったし。","跟和你在一起相比，
+本来也不是什么大不了的事嘛。",translated,依恩,024a39adc5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#431#12,ううん、大丈夫だよ。,没有啦，没事的哦。,translated,依恩,27f7fd9944,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#432#12,"もぉ、あなたは特別なんだから、
+そんな心配しなくてもいいのに。","真是的，你可是特别的存在，
+根本不用担心这种事嘛。",translated,依恩,6e9eb93902,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#434#12,今、もっと忙しくなっちゃった。,现在，变得更加忙碌了。,translated,依恩,97023f4d19,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#435#12,"あなたと一緒にいるっていう、
+とっても大事な用事が出来たからね。
+えへへ……。","因为多了一件要和你在一起的、
+超级重要的正事呢。
+诶嘿嘿……",translated,依恩,8cdd40e33b,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#440#12,ん～……さっきまでは、少しだけね。,唔～……刚才确实稍微有点呢。,translated,依恩,7c4f08f3b1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#441#12,でも今はもう大丈夫だよ。,不过现在已经没问题啦。,translated,依恩,7e6796523f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#442#12,"あなたが来てくれたおかげで、
+元気満タンだもん！","多亏你过来看我，
+我现在可是元气满满呢！",translated,依恩,35ad3a72df,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#444#12,う～ん……ちょっとだけね。,唔～……只有一点点啦。,translated,依恩,d21e41a3d2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#445#12,"でも、心配するほどじゃないから大丈夫。
+まだまだ頑張れるもん！","不过还没到需要担心的程度，所以没事的。
+我还能继续加油呢！",translated,依恩,26e2165857,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#446#12,"……って言いたいところだけど、
+せっかくあなたが来てくれたんだし、
+休憩しようかな？","……虽然很想这么说，
+但既然你都难得过来了，
+我是不是该休息一下呢？",translated,依恩,b9e79f0fa4,br=0 nl=2,3,
+inc/event/res/formatevent01/for_cho01.txt#448#12,えっ、そう見える！？,诶，看起来是那样吗！？,translated,依恩,dc44eb1c46,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#449#12,"う～、あなたに心配かけないように、
+元気な顔を見せてたつもりだったのに……。","呜～为了不让你担心，
+我明明打算表现得很有精神的……",translated,依恩,7f5aa45331,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#450#12,"あなたの思ってる通り、ちょっとだけ
+疲れちゃってるの……。","正如你所想的那样，我稍微
+感到有点疲惫了呢……",translated,依恩,0cd9b52546,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#451#12,少し休憩した方がいいかな？,是不是稍微休息一下比较好呢？,translated,依恩,3e4e910ea0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#453#12,う～ん、そんなことないけど……あっ！,唔～没有那回事啦……啊！,translated,依恩,11ed86676d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#454#12,"ううん、やっぱりすごく疲れちゃってるの。
+もうヘトヘトで倒れそうだよ……。","不对，果然还是累得不行呢。
+已经精疲力竭快要倒下啦……",translated,依恩,839c373688,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#455#12,"だから、疲れが取れるまでの間、
+うんとあなたに甘えちゃおうかな？","所以，在疲劳彻底消除之前，
+我是不是可以狠狠向你撒娇呢？",translated,依恩,dc376a53fc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#460#12,ん～……ちょっとだけね。,唔～……只有一点点啦。,translated,依恩,6ed0d39eba,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#461#12,"あなたにあくびを見られないように、
+気を付けないと。","可不能让你看到我打哈欠，
+我得注意一点才行。",translated,依恩,e088322233,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#463#12,えへへ……寝不足なのかな？,诶嘿嘿……是睡眠不足了吗？,translated,依恩,99ea6c62a5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#464#12,でも、今はもう大丈夫だよ。,不过，现在已经不要紧了哦。,translated,依恩,059db6f114,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#465#12,"あなたのおかげで、眠気はどこかに
+いっちゃったもん。","多亏了你，睡意早就不知道
+飞到哪里去啦。",translated,依恩,b3fa3e7e47,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#467#12,ん～……ちょっとだけね。,唔～……只有一点点啦。,translated,依恩,6ed0d39eba,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#468#12,"あなたと一緒にお昼寝出来たら
+いいんだけどな～？","要是能和你一起睡午觉
+就好了呢～？",translated,依恩,2cf34cefc7,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#469#12,なんてね、えへへ……。,开玩笑的啦，诶嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#471#12,"あなたが来てくれたおかげで、
+眠気はどこかに行っちゃったよ。","多亏你过来看我，
+睡意早就不知道飞到哪里去了哦。",translated,依恩,fc9091aa65,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#472#12,"……でも、少ししたらまたすぐに
+襲われちゃうかも。","……不过，等过一会儿说不定
+又会被睡意席卷呢。",translated,依恩,e76fb7b861,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#473#12,それまでにやること終わらせちゃおっと。,在那之前赶紧把该做的事做完吧。,translated,依恩,c47a745ad3,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#478#12,"えっ？
+ううん、何でもないよ。","诶？
+没有啦，什么事也没有哦。",translated,依恩,a555d32c29,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#479#12,"ちょっと考え事してて、
+それに夢中になっちゃってたみたい。","刚才稍微想了点事情，
+不知不觉就走神沉迷进去了呢。",translated,依恩,493ff6130b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#480#12,ごめんね、気を使わせちゃって。,对不起哦，让你费心了。,translated,依恩,4b536059bc,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#482#12,う～ん……なんだったかな？,唔～……刚才在想什么来着？,translated,依恩,ec539acf3d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#483#12,"あなたが来てくれたのが嬉しくて、
+すっかり忘れちゃった。","因为你过来看我太开心了，
+我已经忘得一干二净啦。",translated,依恩,1875bc126f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#484#12,だからもう大丈夫だよ～。,所以已经完全没问题了哦～。,translated,依恩,ce71a9be2b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#486#12,"うん、ちょっと嫌なこと考えちゃって、
+それでへこんじゃってたの……。","嗯，稍微想了些不好的事情，
+所以就有点消沉了呢……",translated,依恩,6f3e488c9d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#487#12,"でも、あなたが来てくれたおかげで
+元気でた気がするよ。","不过，多亏你过来看我，
+感觉又打起精神来了哦。",translated,依恩,1034cb0676,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#488#12,……これからも、頼りにしてるね？,……今后我也要指望你哦？,translated,依恩,004e8dfd52,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#490#12,"だ、大丈夫だよ。
+ちょっとしたことだから。","没、没事的哦。
+只是一点小事而已。",translated,依恩,a82756682b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#491#12,"そんなに心配するようなことじゃないから、
+あんまり気にしないでね。","不是什么值得你那么担心的事情，
+别太放在心上哦。",translated,依恩,687f03e2f9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#492#12,"……でも、助けが必要だな、って思ったら、
+その時には力を貸してくれると嬉しいな。","……不过，如果我觉得需要帮助的话，
+到时候你能助我一臂之力就好了呢。",translated,依恩,307d6afb49,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#497#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#499#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#501#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#503#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#506#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#510#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#511#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#513#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#515#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#517#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#520#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#524#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#525#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#526#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#528#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#530#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#532#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#535#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#539#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#540#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#541#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#543#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#545#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#547#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#550#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#554#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#555#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#556#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#558#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#560#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#562#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#565#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#569#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#570#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#572#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#574#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#576#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#579#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#583#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#584#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#585#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#587#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#589#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#591#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#594#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#598#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#599#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#600#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#602#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#604#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#606#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#609#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#613#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#614#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#616#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#618#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#620#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#623#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#627#12,イオンかわいい,依恩好可爱,translated,,52ca2ead6c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#628#12,眠そう,看起来很困呢,translated,,4a3620a1a0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#629#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#631#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#633#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#635#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#638#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#642#12,今忙しかった？,刚才很忙吗？,translated,,0fda9ef27f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#643#12,疲れてる？,累了吗？,translated,,5fdeb1d29d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#644#12,……なにかあった？,……发生什么事了吗？,translated,,244b363b99,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#646#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#648#12,おーい、どうしちゃったの？,喂――，怎么了呀？,translated,依恩,81e3b8e5c5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#650#12,何かあったのかな？,是发生什么事了吗？,translated,依恩,641a094d64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#653#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#659#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#660#12,あ、ありがとう……。,啊，谢谢你……,translated,依恩,870326c9ca,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#662#12,きゅ、急にどうしたの？,突、突然怎么啦？,translated,依恩,174266aa34,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#663#12,でも、そう言ってもらえるのは嬉しいな。,不过，能被你这么说我很开心呢。,translated,依恩,d412c52d8c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#665#12,あ、ありがとう……。,啊，谢谢你……,translated,依恩,870326c9ca,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#666#12,"あはは。
+なんかテレちゃうね。","啊哈哈。
+总觉得有点害羞呢。",translated,依恩,1cc5617d7b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#668#12,ひぅっ！,呜哇！,translated,依恩,6691bd5a61,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#669#12,"も、もう！
+いきなり恥ずかしいこと言わないでよ。","真、真是的！
+别突然说让人难为情的话啦。",translated,依恩,ba1cef67e1,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#670#12,でも、嬉しい……かな。,不过，还挺开心的……吧。,translated,依恩,6777b81fbe,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#675#12,作業中だけど、少しくらいなら大丈夫だよ。,虽然正在干活，不过聊一会儿还是没问题的哦。,translated,依恩,b2b0f1114b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#677#12,大丈夫、平気だよ。,没事的，不要紧哦。,translated,依恩,23e893bf71,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#678#12,時間あるから、たくさんお話したいな。,我有时间，想和你多聊聊天呢。,translated,依恩,d74f2ba68b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#680#12,ううん、大丈夫。,没有啦，没关系的。,translated,依恩,5604a039b4,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#681#12,むしろ息抜きにちょうど良いよ。,倒不如说正好当作放松休息呢。,translated,依恩,5ad8f67e43,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#683#12,気にしないで。,别放在心上哦。,translated,依恩,529624d919,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#684#12,"せっかくあなたが来てくれたんだもの。
+何かお話したいな。","难得你特地过来看我嘛。
+我想跟你说说话呢。",translated,依恩,49680ac057,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#689#12,うっ、やっぱり分かっちゃう？,唔，果然还是被你看出来了吗？,translated,依恩,f4f5b0ffac,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#690#12,ちょっと頑張りすぎたかなぁ……。,是不是稍微有点努力过头了呀……,translated,依恩,7a72d067af,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#691#12,"けど心配しないで。
+本当にまずいと思ったら休むから……ね？","不过别担心。
+要是真的撑不住了我一定会休息的……好吗？",translated,依恩,bc585c3a4b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#693#12,"だだだ、大丈夫だよ！？
+平気平気！","没没没、没事的啦！？
+不要紧不要紧！",translated,依恩,72f0c5bbf6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#696#12,"ごめんなさい。
+本当はちょっと疲れてるの。","对不起。
+其实真的稍微有点累了。",translated,依恩,b4313cd2ff,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#697#12,"け、けど、あとでちゃんと休むから
+心配しないで。","不、不过，我一会儿会好好休息的，
+别担心哦。",translated,依恩,07134bcb22,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#699#12,大丈夫、まだ頑張れるよ。,没事的，我还能继续加油哦。,translated,依恩,0db046d328,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#700#12,"それに、せっかくあなたが来てくれたのに、
+休んでられないよ。","而且，难得你过来看我，
+我可不能自顾自地休息呀。",translated,依恩,6b4eb55be6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#702#12,うん。実はちょっと辛いかも……。,嗯。其实可能稍微有点吃力……,translated,依恩,2e09b1b5d2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#703#12,あと少し作業したら休もうかな……。,再稍微干一会儿活我就去休息吧……,translated,依恩,f943b9072c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#708#12,うん、実はさっきから目蓋が重くて……。,嗯，其实刚才开始眼皮就沉沉的……,translated,依恩,488f6cf073,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#709#12,今日は早めに寝ようかな。,今天打算早点睡觉呢。,translated,依恩,bb15b9f7c6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#711#12,あはは……。,啊哈哈……,translated,依恩,7022a7cb53,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#712#12,一人でいるとどうしても……ね。,一个人待着的时候不知不觉就……对吧。,translated,依恩,82e556b536,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#713#12,けど、お話してれば眠気も飛んでいくよ。,不过，只要跟你聊聊天，睡意就会飞走啦。,translated,依恩,f0db969d41,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#715#12,あぁ言わないでぇ！,啊啊，不要说出来嘛！,translated,依恩,59559c4ddb,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#716#12,"せっかく忘れようとしてたのに
+思い出しちゃったよ……。","我明明好不容易想忘掉的，
+结果又想起来了啦……",translated,依恩,d953bc4ebc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#717#12,"え？
+どうやって眠気を忘れられるのかって？","诶？
+问我是怎么把睡意忘掉的？",translated,依恩,a61d7347bc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#718#12,き、気合で……かな？,靠、靠气势……吧？,translated,依恩,11add2bc29,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#720#12,"うん。今日は疲れたし、
+この時間になるとさすがに眠いよ。","嗯。今天很累，
+到了这个时间果然会犯困呢。",translated,依恩,9e3270c8f1,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#721#12,疲れが残らなければいいんだけど……。,要是疲劳不会残留下来就好了……,translated,依恩,98bc98e583,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#726#12,"え！？
+わ、分かっちゃう？","诶！？
+被、被看出来了吗？",translated,依恩,199eed52e2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#727#12,"顔に出さないようにしていた
+つもりなのに……。","我明明打算
+不表现在脸上的说……",translated,依恩,e96a790c83,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#728#12,作業の失敗とか色々あって……ね。,制作失败什么的发生了很多事……对吧。,translated,依恩,8cd54957b9,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#729#12,実は今、ちょっと落ち込んでて。,其实现在，我稍微有点消沉。,translated,依恩,45dc58a91c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#730#12,け、けど気にしないで……。,不、不过别在意哦……,translated,依恩,507dc43f56,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#731#12,って言っても無理だよね。,――虽然这么说肯定不可能不在意吧。,translated,依恩,c846e1cda6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#733#12,"さっきまで落ち込み気味だったけど、
+もう大丈夫。","刚才确实有点消沉，
+不过现在已经没事啦。",translated,依恩,4161346d69,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#734#12,"あなたの顔を見たら、
+なんか元気が出てきたような気がする。","看到你的脸庞之后，
+总觉得整个人又打起精神来了呢。",translated,依恩,21422c3545,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#736#12,べ、別になんでもないよ。,没、没什么大不了的啦。,translated,依恩,e2df3bc37d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#737#12,"ちょっと作業に失敗したとか
+その程度だから気にしないで。","只是制作稍微失败了之类的小事，
+所以别放在心上哦。",translated,依恩,e60cd91c9f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#738#12,……あなたにあまり心配かけたくないの。,……我不太想让你操心呢。,translated,依恩,c44db30255,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#740#12,うっ！　分かっちゃうんだ……。,呜！居然还是被看出来了呀……,translated,依恩,8e27820c27,br=0 nl=0,1,
+inc/event/res/formatevent01/for_cho01.txt#741#12,"でもそれって、あなたがわたしのことを
+よく見ててくれてるってことだよね。","不过这也说明，你一直都在
+好好注视着我对吧。",translated,依恩,cccbc6baf9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_cho01.txt#742#12,なんか、ちょっと嬉しいかも……。,总觉得，稍微有点开心呢……,translated,依恩,6232a352b5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#3#12,あっ、おかえりなさい！,啊，欢迎回来！,translated,依恩,c9dbbfcd59,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#4#12,"久しぶりだね。
+最近来なかったから、何かあったんじゃ
+ないか、って心配してたんだよ？","好久不见了呢。
+你最近都没过来，
+我还担心是不是出了什么事呢？",translated,依恩,fb3dc10bff,br=0 nl=2,3,
+inc/event/res/formatevent01/for_hela01.txt#5#12,"でも、またこうして戻ってきてくれて
+安心したよ。","不过，你能像这样再次回来，
+我就安心啦。",translated,依恩,e6c7b18cb6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#6#12,"今まで放っておかれた分、今日はたくさん
+あなたとお話したいな。","为了补偿之前被你晾着的日子，
+今天我想和你好好聊个够呢。",translated,依恩,0fa33f60ef,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#8#12,あっ、やっと帰ってきた！,啊，终于回来啦！,translated,依恩,58b5dc8bbd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#9#12,"よかったぁ……。
+最近ずっと来てくれなかったから、
+どうしたのかな、って心配してたの。","太好啦……
+因为你最近一直没过来，
+我还担心你怎么了呢。",translated,依恩,3a509500b8,br=0 nl=2,3,
+inc/event/res/formatevent01/for_hela01.txt#10#12,"ねりこさんに相談したら、多分死んだな、
+なんて不吉なこと言われたし……。","去跟妮莉库小姐商量，她居然说了
+“大概是死了吧”这种不吉利的话……",translated,依恩,56260b234f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#11#12,"でも、あなたって頑張り屋さんだから、
+きっと忙しくて大変なんだろうなぁ、って
+わたしは信じてたよ。","不过，我知道你一直都很拼命，
+肯定是因为太忙太辛苦了吧，
+我心里一直都是这么坚信的哦。",translated,依恩,545c623495,br=0 nl=2,3,
+inc/event/res/formatevent01/for_hela01.txt#12#12,"今日は時間ができたってことなのかな？
+それなら、ここで少しでも疲れを癒して
+いってね。","今天是终于抽得出时间了吗？
+既然这样，就在这里好好治愈一下
+身上的疲劳吧。",translated,依恩,a9ea154c16,br=0 nl=2,3,
+inc/event/res/formatevent01/for_hela01.txt#16#12,帰ってきてくれたの！？,你终于回来啦！？,translated,依恩,6192f422fc,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#17#12,"よかった……最近来てくれなかったから、
+捨てられちゃったかと思ったよ……。","太好了……因为你最近都没来，
+我还以为自己被抛弃了呢……",translated,依恩,03bf7a8f5c,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#18#12,また、これからもよろしくね。,今后也请多多关照哦。,translated,依恩,01afc3064f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#20#12,"えっ！？
+あ、久しぶりだね！","诶！？
+啊，好久不见啦！",translated,依恩,d488b56002,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#21#12,"ずっと来てくれなかったら、心配してたの。
+最近忙しかったのかな？","看你一直没来，我很担心呢。
+最近是很忙吗？",translated,依恩,8d99f111c2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hela01.txt#25#12,おひさしぶり。,好久不见。,translated,依恩,d1f5474e8f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#26#12,ちょっとだけご無沙汰だったね。,有一阵子没联系了呢。,translated,依恩,49cf7141cc,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#28#12,えっと……おひさし……ぶり？,那个……好久……不见？,translated,依恩,14366b868d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hela01.txt#29#12,前にお話したのは何日くらい前だっけ？,上次聊天是几天前的事情来着？,translated,依恩,b7b938c063,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#2#12,ふぁ～……おはよ～……。,哈啊～……早～安～……,translated,依恩,bade040c00,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#3#12,おはよう、よく眠れた？,早安，睡得好吗？,translated,,0fd51b0d1e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#4#12,ビックリするほどよく寝てたね,睡得真香，真让人吃惊呢,translated,,50c20f10e2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#6#12,う～ん……まだちょっと瞼が重いかも……。,唔～……眼皮好像还有点沉呢……,translated,依恩,1377d9cdaf,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#8#12,"……あれ？
+もしかして、いないのかな？","……咦？
+难道说，不在吗？",translated,依恩,173310fae8,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#10#12,あなたー、いないのー？,喂――，不在吗――？,translated,依恩,dfe42ea3ab,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#13#12,"……気のせいだったみたい。
+ふぁ～……さてと、色々始めないと。","……好像是错觉呢。
+哈啊～……好啦，得开始做各种事了。",translated,依恩,51b23073ec,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#18#12,うん、おかげさまでスッキリだよ。,嗯，托你的福感觉很舒畅哦。,translated,依恩,3e9d840660,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#19#12,"それに寝不足の酷い顔、
+あなたに見られたくないしね。","而且睡眠不足那种憔悴的脸色，
+我可不想被你看到呢。",translated,依恩,28a07f4b71,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#21#12,"えへへ……まだちょっとだけ瞼が重いけど、
+十分寝たから大丈夫だよ。","诶嘿嘿……虽然眼皮还有点沉，
+不过睡得很充足所以没问题啦。",translated,依恩,0625245762,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#22#12,さてと、今日も一日がんばろー！,好啦，今天一天也要加油啦――！,translated,依恩,de856926ad,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#24#12,"うん、それに今日はいい夢も見れたから、
+気分もスッキリしてるの。","嗯，而且今天还做了一个美梦，
+心情感觉格外舒畅呢。",translated,依恩,a101fdef7b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#25#12,今日はいつも以上に頑張れそうだよ。,今天感觉能比平时更加努力哦。,translated,依恩,b4d1e227b2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#27#12,おかげさまで、ぐっすり眠れたよ。,托你的福，睡得可香啦。,translated,依恩,aa0263b240,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#28#12,さてと、それじゃ早速動き始めようかな？,好啦，那我就马上开始行动吧？,translated,依恩,21ff1cd653,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#29#12,今日も一日、楽しく過ごそうね。,今天一天也要开开心心地度过哦。,translated,依恩,153357c490,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#35#12,えっ、そ、そんなによく寝てたかな？,诶，我、我睡得有那么久吗？,translated,依恩,8f71a99ebc,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#36#12,"う～ん、わたし的にはそんなつもりは
+ないんだけど……。
+もしかして、疲れてたのかな？","唔～以我自己的感觉来说
+倒是没那个打算啦……
+难道是太累了吗？",translated,依恩,848f69bf98,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#38#12,や、やだ、そういうこと言わないでよ。,讨、讨厌，别说那种话啦。,translated,依恩,81a1d13b96,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#39#12,"何だかすごくだらしのない人間、って
+言われてる気分になるし……。","总觉得听起来像是在说
+我是个特别懒散的人一样嘛……",translated,依恩,a6521b24bc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#41#12,わたし、そんなに熟睡しちゃってた？,我，真的睡得那么沉吗？,translated,依恩,b032c0ad3f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#42#12,"きっとあなたがいてくれたから、
+安心しちゃったのかもしれないね。","肯定是因为有你在身边，
+所以感到安心了吧。",translated,依恩,67bec7b461,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#44#12,えぇっ、そんなによく寝ちゃってた！？,诶诶，我真的睡得那么香吗！？,translated,依恩,e95a71936b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#45#12,"で、でもでも、長い時間寝てたって訳じゃ
+ないから、眠りが深い、って意味だよね？","但、但是，并不代表睡了很长时间，
+而是指睡得很深沉对吧？",translated,依恩,a8cb7162a6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#47#12,イビキはかいてなかったよ,没有打呼噜哦,translated,,82d94f7fcf,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#48#12,ぐっすり寝るのはいいことだよ,能睡得香是件好事哦,translated,,d331cef35a,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#51#12,ふふっ、確かにそうだね。,呵呵，确实是这样呢。,translated,依恩,fd5cdfffe2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#52#12,"色々作る時に危ない作業もするから、
+睡眠はたくさんとっても足りないってことは
+ないよね？","制作各种物品时也有危险的作业，
+所以睡眠再怎么多也不嫌多，
+对吧？",translated,依恩,3a6db54021,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#53#12,"よーし、ぐっすり寝たんだし、
+今日も一日頑張るぞー！","好――既然睡得这么香，
+今天一天也要加油啦――！",translated,依恩,547a8e9c8d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#55#12,"確かにその通りではあるけど、
+何か釈然としないような……。","虽然道理确实是这样，
+但总觉得哪里有点释怀不了……",translated,依恩,f599647785,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#56#12,"まあ、寝起きに頭を使うと疲れちゃうし、
+とりあえず納得しておくよ。","嘛，刚睡醒就动脑子会很累的，
+姑且就先接受这个说法吧。",translated,依恩,42c1c739d6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#58#12,"でも、ビックリするほどよく寝てた、とか
+言われると、あまりいい気はしないよ……。","不过，被人说睡得让人吃惊什么的，
+心情多少还是会有点微妙啦……",translated,依恩,e74f5e6fa2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#59#12,"でもまあ、頭がスッキリするほど眠れたのは
+事実なんだし、とにかく動き始めるね。","不过嘛，睡得很沉让人身心舒畅
+也是事实，总之我先开始干活啦。",translated,依恩,e51441e8c2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#64#12,"と、当然だよ！
+わたし、イビキなんてかかないもん！","当、当然啦！
+我怎么可能会打呼噜嘛！",translated,依恩,be2611fba7,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#65#12,"ま、まあ、寝てる時のことだから
+証拠はないけど……。","嘛、嘛，毕竟是睡着时的事情，
+虽然也没有证据就是了……",translated,依恩,68fb219eab,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#66#12,"あっ、でもあなたがかいてなかったって
+言うんだから、それが証拠になってるね。","啊，不过既然你说没打，
+那这句话就是证据了呢。",translated,依恩,ba0b4ebbe5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#67#12,……あなたが気を使ってなければ、だけど。,……前提是你没有在照顾我的面子啦。,translated,依恩,a881b54b35,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#69#12,"あ、あはは……もし本当にイビキを
+かいてたら、恥ずかしくてあなたの前に
+出て来れなくなってるよ。","啊、啊哈哈……
+要是真的打了呼噜，我肯定
+害羞得不敢再出现在你面前了啦。",translated,依恩,61a67424fc,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#70#12,"でも、イビキって疲れてる時に出る、
+って話を聞いたことあるから、一応
+注意して生活するようにしよっと。","不过，我听人说过太疲劳的时候
+就会打呼噜，为了以防万一，
+在生活中我也多注意一下吧。",translated,依恩,685bf5c59d,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#71#12,"もしものこともあるかもしれないでしょ？
+そうなったら嫌だもん。","凡事都有个万一不是嘛？
+要是真那样可就太难堪了嘛。",translated,依恩,2146e80dbf,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#73#12,"もぉ、女の子にそんなこと言うなんて、
+デリカシーが無さ過ぎるよ。","真是的，对女孩子说这种事情，
+也太不懂得体贴了吧。",translated,依恩,2551e7c602,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#74#12,"……まあ、そういうところも嫌いじゃ
+ないけど……。","……嘛，你这一点
+我倒也不讨厌就是了……",translated,依恩,304249acb8,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#75#12,"で、でも、わたしだって女の子なんだから、
+少しは言葉に気をつけてほしいな。","但、但是，我好歹也是个女孩子，
+多少希望你在用词上注意一点呢。",translated,依恩,6f522a9dda,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#79#12,ん～……おはよ～……。,唔～……早～安～……,translated,依恩,9fe9c403c1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#80#12,おはよう,早安,translated,,2d6e222466,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#81#12,むしろ、おそよう、って感じかも,倒不如说该道声“迟安”呢,translated,,792de13ecc,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#83#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#85#12,"おかしいな？
+確かにいたような気がしたんだけど……。","好奇怪呀？
+我刚才明明觉得有人在的……",translated,依恩,957d2d98ce,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#87#12,"おーい、おはよー。
+いるのー？","喂――早安呀――。
+你在吗――？",translated,依恩,27f4e3794a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#90#12,"……気のせいだったのかな？
+ちょっとガッカリ……。","……只是错觉吗？
+有点失望呢……",translated,依恩,8daf46da2e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#95#12,"えへへ、寝起きにあなたとお話しできると、
+また今日も頑張ろう、って気になれるよ。","诶嘿嘿，刚睡醒就能跟你聊天，
+感觉今天又能够充满干劲了呢。",translated,依恩,cf94298826,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#96#12,今日も一日、よろしくね。,今天一天也请多关照哦。,translated,依恩,28ee3eb288,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#98#12,"う～、寝起きの顔見られるのって、
+ちょっと恥ずかしいかも……。","呜～被你看到刚睡醒的脸，
+稍微有点难为情呢……",translated,依恩,539dffddbc,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#99#12,"あなたの寝起きの顔も、
+いつか見てみたいな。","我也好想有一天，
+能看看你刚睡醒的样子呢。",translated,依恩,bd5a292867,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#101#12,"ちゃんと眠れた？
+わたしは……ちょっと寝たりないかも。","睡得还好吗？
+我……好像稍微有点没睡够呢。",translated,依恩,25f4af089a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#102#12,"もしお昼寝しちゃった時には、
+優しくトントンして起こしてくれると
+嬉しいな。","要是我不小心睡了午觉，
+如果你能轻轻咚咚拍拍我叫我起床，
+我就很开心啦。",translated,依恩,348c08e957,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#104#12,"今日はね、あなたと一緒に海で
+デートする夢を見ちゃった。","今天呢，我做了一个和你一起
+去海边约会的梦哦。",translated,依恩,b12eb53d1f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#105#12,"でも、ちょっとビックリしちゃった。
+だって、まさかあんな……。","不过，让我有点吃惊呢。
+毕竟，真没想到竟然会那样……",translated,依恩,91ac5ce0f4,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#106#12,"えへへ……。なんか思い出したら
+ドキドキしてきちゃった。","诶嘿嘿……一回想起来
+整个人就忍不住心跳不已了呢。",translated,依恩,9dd1fd510e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#112#12,えっ……ちょっと寝過ぎちゃったかな？,诶……我是不是稍微睡过头了呀？,translated,依恩,05d81d5940,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#113#12,"でも、わたしとしてはまだ少し寝たりない
+くらいなんだけど……。","不过对我而言，感觉甚至还有点
+没睡饱就是了……",translated,依恩,3d908b96c0,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#115#12,"え、えへへ……
+起きるの、ちょっと遅かったかな？","诶、诶嘿嘿……
+我起床是不是稍微有点晚了呀？",translated,依恩,22f677d108,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#116#12,"これでも、結構早く起きたつもり
+なんだけど……。","虽然我觉得自己
+起得已经算挺早的了……",translated,依恩,552f18023b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#118#12,あっ、もうこんな時間なんだ？,啊，已经到这个时间了吗？,translated,依恩,92bd28c718,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#119#12,"う～ん……明日からはもう少し早く
+起きるように頑張ろうかな？","唔～……从明天开始，
+我要不要努力再早起一点呢？",translated,依恩,01a32ce95a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#121#12,え、えへへ……おそようございまーす……。,诶、诶嘿嘿……迟、迟安啦……。,translated,依恩,3c5bee2cf1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#122#12,"やっぱり、もう少し早い時間に起きないと
+ダメだよね……。","果然还是得在更早的时间起床
+才行对吧……",translated,依恩,dd4475114b,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#124#12,無理はしないでね,别太勉强自己哦,translated,,18789a9e59,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#125#12,寝る子は育つ、うんと寝よう,能睡的孩子长得快，多睡点吧,translated,,52cf7e7b87,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#128#12,うん、ありがと。,嗯，谢谢你。,translated,依恩,6aafd2c9b2,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#129#12,"でも、やっぱり早起きしないのは
+体にも悪いと思うから、出来るだけ
+頑張ってみるよ。","不过，果然不早起的话
+对身体也不好，
+我会尽量努力看看的哦。",translated,依恩,8d1604bfb5,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#130#12,もちろん、無理はしない程度にね。,当然，会在不勉强自己的范围内啦。,translated,依恩,a5f385769d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#132#12,"うん、無理して体調悪くしたら、
+意味がないしね。","嗯，要是硬撑搞坏了身体，
+那就本末倒置了嘛。",translated,依恩,a251bfeb40,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#133#12,無理のない範囲で、少しずつ頑張るよ。,我会在不勉强的范围内，一步一步加油的。,translated,依恩,2b2822f377,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#135#12,えへへ……心配してくれてありがと。,诶嘿嘿……谢谢你担心我。,translated,依恩,0b55249ab1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#136#12,"でも、あなたにそう言ってもらえると、
+頑張らなくちゃ、って気になれるの。","不过，能听你这么说，
+我就会觉得必须好好加油了呢。",translated,依恩,26ff6f1270,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#137#12,"明日からのわたしにこうご期待！
+なんてね、えへへ……。","敬请期待从明天开始的我吧！
+开玩笑的啦，诶嘿嘿……",translated,依恩,818bc76e68,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#142#12,えへへ、その通りだよね！,诶嘿嘿，确实是这样呢！,translated,依恩,32587475c6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#143#12,"……って、それはそれで何か間違ってる
+気がするような？","……等等，总觉得好像有哪里
+不太对劲的样子？",translated,依恩,f9e2efa051,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#144#12,"で、でも、あなたがそう言ってくれるなら、
+お言葉に甘えちゃおうかな？","但、但是既然你都这么说了，
+我是不是可以顺着你的好意多睡睡呢？",translated,依恩,6c6e29e90f,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#146#12,"う～ん……でも、やっぱりもう少し早く
+起きるように頑張るよ。","唔～……不过，果然我还是努力
+再早起一点吧。",translated,依恩,8966983737,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#147#12,"早く起きれば、それだけあなたと
+いっぱいお話もできるしね。","早点起床的话，就能有更多时间
+和你好好聊天了嘛。",translated,依恩,0438d9871d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#148#12,"えへへ……そう考えたら、早く起きるのも
+悪くはないかも。","诶嘿嘿……这么一想的话，
+早起似乎也挺不错的呢。",translated,依恩,e699a640b4,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#150#12,"……思わず首を縦に振りたくなるくらい、
+魅力的な提案だと思うよ。","……这提议吸引人得
+我都忍不住想点头赞同了呢。",translated,依恩,e00def93a3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#151#12,"でも、あんまり寝てばっかりいたら、
+だらしない女の子に見られちゃうような
+気もするし……。","但是，如果老是在睡懒觉的话，
+总觉得会被你看成是个
+邋遢的女孩子嘛……",translated,依恩,eb66f4edf3,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helb01.txt#152#12,"やっぱり、もう少しだけ早起きするように
+気を付けた方がいいかもしれないね。","果然还是注意稍微早起一点
+会比较好呢。",translated,依恩,51e4ee70c4,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#156#12,おはよ～。,早安～。,translated,依恩,50af702124,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#157#12,おはよう,早安,translated,,2d6e222466,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#158#12,おはよう？,早安？,translated,,e6e31b7609,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#160#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#162#12,呼ばれたような気がしたんだけど……。,刚才总觉得好像被叫到了……,translated,依恩,bc194dfaed,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#164#12,気のせいだったのかな？,是错觉吗？,translated,依恩,9f8605e475,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#167#12,"しゅん……。
+戻ろうっと……。","呜呜……
+回去了说……",translated,依恩,0858528217,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#172#12,えへへ。,诶嘿嘿。,translated,依恩,27f091e6a1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#173#12,"こうやって、挨拶をし合える人がいるって
+なんかいいね。","像这样能互相打招呼，
+总觉得真好呢。",translated,依恩,84eb6803c4,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#175#12,本当はまだ少し眠いんだけど……。,其实我还有点困就是了……,translated,依恩,1427788f71,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#176#12,いつまでも寝てられないよね。,不过也不能一直睡下去嘛。,translated,依恩,da9c943618,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#178#12,そういえば、ご飯はちゃんと食べてる？,话说回来，你有好好吃饭吗？,translated,依恩,3fef957ffe,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#179#12,"三食食べないと身体に悪いんだから、
+きちんと食べないとダメだよ？","一日三餐不吃对身体可不好，
+必须好好吃饭才行哦？",translated,依恩,db3d481ad5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#181#12,今日はね、ちょっと良い夢を見たの。,今天呢，我做了一个挺不错的梦哦。,translated,依恩,22f6df12b1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#182#12,あ、けど、どんな夢だったかは内緒だよ。,啊，不过是什么梦可要保密哦。,translated,依恩,c17c98bbe7,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#183#12,は、恥ずかしいもん……。,毕、毕竟太害羞了嘛……,translated,依恩,e7e339f9e8,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#189#12,"あはは。
+実はつい眠くて、ウトウトしちゃったの。","啊哈哈。
+其实刚才太困了，不小心打了个盹。",translated,依恩,12cd1809df,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#190#12,だから……おはよう。,所以……早安呀。,translated,依恩,4ed291a441,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#191#12,残った時間も楽しく頑張ろうね。,剩下的时间也要开开心心地加油哦。,translated,依恩,21908ed982,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#193#12,って、もうそんな時間じゃないよね。,――等等，现在已经不是这个时间了吧。,translated,依恩,457e73e70c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#194#12,さっきまで寝てたから……つい。,刚才一直都在睡……不知不觉就说出口了。,translated,依恩,c05ddb2e5e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#196#12,え？　も、もうそんな時間じゃない？,诶？已、已经不是说这个的时间了吗？,translated,依恩,09028a1618,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#197#12,"はぅ、軽く寝るつもりが
+ずいぶんと寝過ごしちゃったみたい……。","呜，本来只想浅睡一会儿的，
+看来大大地睡过头了呢……",translated,依恩,5fc9668906,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#199#12,うん、“おはよう”。,嗯，“早安”。,translated,依恩,dff1e3dddf,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#200#12,"お昼や夜に起きても、
+寝起きには“おはよう”って感じしない？","就算是在中午或者晚上醒来，
+刚起床不都会有种想说“早安”的感觉吗？",translated,依恩,2e7825ffce,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#202#12,それは朝の挨拶,那是早上的问候语,translated,,7913fd0273,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#203#12,分かる気がする,我懂这种感觉,translated,,d14d1c3e3d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#206#12,えへへ、やっぱりそんな感じするよね。,诶嘿嘿，果然会有这种感觉对吧。,translated,依恩,626ec0cb63,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#207#12,改めて、“おはよう”。,重新说一遍，“早安”。,translated,依恩,6a2c9b8f64,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#208#12,今日も頑張ろうね。,今天也要加油哦。,translated,依恩,d757f4a331,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#210#12,"時々、何時に起きてもその日の始まりって
+気がするときあるよね。","有时候无论几点起床，
+都会觉得那是新一天的开始对吧。",translated,依恩,4322694a50,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#211#12,"だからなんとなく“おはよう”って
+言っちゃうの。","所以不知不觉就会
+脱口而出“早安”呢。",translated,依恩,70c96564f6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#213#12,"もしかして、あなたも“おはよう”って
+言うのかな？","难道说，你平时
+也会说“早安”吗？",translated,依恩,8fc1cc0afe,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#214#12,"だったらわたしたち一緒だね。
+なんか嬉しいな。","要是那样的话我们可真像呢。
+总觉得好开心。",translated,依恩,5db1d7b8e8,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#219#12,あはは。それもそうなんだけどね。,啊哈哈。虽然话是那么说啦。,translated,依恩,d5e5451b88,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#220#12,けど、なんとなくそんな気がするの。,不过，总觉得有那种感觉嘛。,translated,依恩,df0700a07c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#221#12,だからきっと、“おはよう”でいいんだよ。,所以说“早安”肯定也是可以的啦。,translated,依恩,357f9cbe1c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#223#12,うん、そうなんだけど……。,嗯，虽然确实是那样啦……,translated,依恩,61fe52d205,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#224#12,"なんかそんな感じがするから、
+きっと“おはよう”で良いんだよ。","但总有种那种感觉，
+所以说“早安”肯定没问题的啦。",translated,依恩,73c7918aa1,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#225#12,だから……おはよう。,所以……早安呀。,translated,依恩,4ed291a441,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#227#12,うぅ、やっぱり変かなぁ？,唔，果然还是觉得很奇怪吗？,translated,依恩,87fd5971eb,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#228#12,"なんというかその……気分的にというか、
+感覚的にというか……。","该怎么说呢……是心情上的原因呢，
+还是感觉上的原因呢……",translated,依恩,d24a48e482,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helb01.txt#229#12,“おはよう”って感じがするの。,就觉得很有说“早安”的气氛嘛。,translated,依恩,a7205e3b4e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#234#12,その……お、おはよう。,那个……早、早安。,translated,依恩,923cf96b7e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#235#12,えへへ、なんか嬉しいな。,嘿嘿，总觉得有点开心呢。,translated,依恩,d5b07d4e2e,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#237#12,おはよう～。,早安～。,translated,依恩,20c18d23e5,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#238#12,あなたもちょうど起きたところかな？,你是不是也正好刚起床呢？,translated,依恩,bdcb577f92,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#240#12,えっと……おはよう……ございます。,那个……早安……您好。,translated,依恩,9b7df9efac,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helb01.txt#241#12,な、なんか緊張しちゃった。,总、总觉得突然紧张起来了。,translated,依恩,41230c9f31,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#2#12,あっ、いらっしゃい！,啊，欢迎！,translated,依恩,56b1f4eada,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#4#12,えへへ、実はついさっき起きたばかりなの。,诶嘿嘿，其实我刚才才刚睡醒呢。,translated,依恩,3b6ac1ce84,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#5#12,"まだ完全に眠気が取れたわけじゃないから、
+あまり顔見ないでね。","睡意还没有完全褪去，
+所以别太盯着我的脸看哦。",translated,依恩,dd4161b7db,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#7#12,"もう少し早く来てくれてたら、
+起きてすぐあなたに挨拶できたん
+だけどなぁ……。","要是你能再早一点过来，
+我一醒来就能跟你打招呼了说……
+真可惜呀……",translated,依恩,1847683abe,br=0 nl=2,3,
+inc/event/res/formatevent01/for_helc01.txt#8#12,"でも、こうして来てくれただけでも、
+嬉しいと思わないとダメだよね？","不过，能像这样过来看我，
+我就应该感到高兴了对吧？",translated,依恩,3e01eb9552,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#10#12,"って、いらっしゃいだと他人行儀っぽくて、
+ちょっと嫌だね。","等等，说“欢迎光临”太见外了，
+稍微有点不喜欢呢。",translated,依恩,715e1e4e16,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#11#12,"おかえりなさい……。
+うん、こっちの方がいいかな。","欢迎回来……
+嗯，还是这个更合适呢。",translated,依恩,28b6b67a90,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#14#12,いらっしゃい、待ってたよ！,欢迎，我一直在等你哦！,translated,依恩,97331ab69a,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#16#12,もぉ、もっと早く来てくれればいいのに。,真是的，明明再早一点过来就好了嘛。,translated,依恩,b655472992,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#17#12,"バツとして、今日はいつもより長く
+わたしの相手してもらいまーす。","作为惩罚，今天你可得比平时
+陪我更久一点哦――。",translated,依恩,db93a3311a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#18#12,なんてね、えへへ……。,开玩笑的啦，诶嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#20#12,"本当は、起きた時にすぐあなたと
+お話ししたかったんだけど……。","其实，本来想在一睡醒的时候
+就马上跟你聊天的……",translated,依恩,24b794a3fb,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#21#12,"でも、こうして来てくれるだけでも、
+十分嬉しいよ。","不过，光是能像这样过来看我，
+我就已经足够开心啦。",translated,依恩,cdf5eab2e7,br=0 nl=1,2,
+inc/event/res/formatevent01/for_helc01.txt#23#12,えへへ、今日はどんなお話ししようか？,诶嘿嘿，今天聊点什么好呢？,translated,依恩,aaa00585a1,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#24#12,それとも……デートに行ってみる？,还是说……要去约会看看吗？,translated,依恩,dd717321a8,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#27#12,やっと来た。,终于来啦。,translated,依恩,aebdd7eb46,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#29#12,あなたが来るの楽しみにしてたんだよ。,我一直很期待你的到来哦。,translated,依恩,22df04394c,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#31#12,ねぇ、今日はどんな話しようか？,呐，今天聊些什么好呢？,translated,依恩,746131f732,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#33#12,今日はもうずっと一緒にいられるのかな？,今天能一直陪着我了吗？,translated,依恩,cf38404943,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#34#12,そうだったら、嬉しいな。,要是那样的话，我会很高兴的。,translated,依恩,6c772009f0,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#38#12,いらっしゃい。,欢迎。,translated,依恩,acc9a574f3,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#39#12,また来てくれたんだね。,又过来看我了呢。,translated,依恩,05daa993f4,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#41#12,いらっしゃ～い。,欢迎光～临。,translated,依恩,50b6dddf61,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#42#12,また来てくれて嬉しいよ。,你能再来我好开心呀。,translated,依恩,de4558ea12,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#44#12,いらっしゃい。,欢迎。,translated,依恩,acc9a574f3,br=0 nl=0,1,
+inc/event/res/formatevent01/for_helc01.txt#45#12,今日も来てくれたんだ。,今天也过来看我了呢。,translated,依恩,d1faedca29,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#3#12,あっ、おかえりなさーい。,啊，欢迎回来――。,translated,依恩,d30c3389ba,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#5#12,"あっ、帰ってきた！
+おかえりなさい！","啊，回来了！
+欢迎回家！",translated,依恩,29e087d30d,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#8#12,"えへへ、おかえりなさい、って言える
+相手がいるのって、幸せだね。","诶嘿嘿，有能够对他说
+“欢迎回家”的对象，真是好幸福呢。",translated,依恩,a5c2a271f3,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#9#12,"これからも毎日、わたしのところに
+帰ってきてね。","今后也要每天，
+都回到我身边来哦。",translated,依恩,da995b9f9a,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#11#12,"今日は遅かったね。
+もしかして、忙しかったのかな？","今天回来得很晚呢。
+难道是很忙吗？",translated,依恩,eb20b07ae7,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#12#12,"もし疲れてるなら、ここでしっかりと
+癒されていってね。","要是觉得累了的话，
+就留在这里好好治愈放松一下吧。",translated,依恩,85388039db,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#14#12,"すごいタイミングだね。
+ちょうどあなたのことを考えてた
+ところだったの。","时机抓得太准了吧。
+我刚才正好在
+想着你的事情呢。",translated,依恩,542be77163,br=0 nl=2,3,
+inc/event/res/formatevent01/for_held01.txt#15#12,心が通じたから来てくれたのかな？,是因为心有灵犀才过来的吗？,translated,依恩,c3a2f77d37,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#19#12,あっ、おかえりなさーい。,啊，欢迎回来――。,translated,依恩,d30c3389ba,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#21#12,おかえり～。,欢迎回来～。,translated,依恩,6d6c5bcb18,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#24#12,"今日は遅かったね。
+もしかして、今忙しい時期なのかな？","今天回来得挺晚呢。
+难道现在正是工作繁忙的时期吗？",translated,依恩,668c6d20b5,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#25#12,"あんまり無理しないでね。
+あなたに何かあったら、悲しいよ。","千万别太勉强哦。
+要是你出了什么事，我会很伤心的。",translated,依恩,413dfb9f52,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#27#12,"こうやって、誰かをお迎えするのって、
+凄く嬉しく思えるの。","像这样迎接某个人回来，
+会让人觉得特别开心呢。",translated,依恩,bbc017f745,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#28#12,"一人じゃないんだなぁ、って
+実感できるからかな？","是因为能够真切体会到
+自己不是孤单一个人吧？",translated,依恩,95c10ccd44,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#30#12,"えへへ、今日はもう、
+わたしと一緒にいられるかな？","诶嘿嘿，今天接下来，
+能一直和我在一起了吧？",translated,依恩,d857cfb584,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#31#12,"いっぱいお話ししたいことがあるの。
+ねえねえ、早速お話ししようよ。","我有好多好多的事情想跟你聊呢。
+呐呐，我们这就开始聊天吧。",translated,依恩,8f1bef6a14,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#35#12,おかえりなさい。,欢迎回来。,translated,依恩,b4ffd03b9d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#37#12,おかえり～。,欢迎回来～。,translated,依恩,6d6c5bcb18,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#40#12,"少し遅かったね。
+忙しかったのかな？","稍微有点晚了呢。
+刚才很忙吗？",translated,依恩,9045191881,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#42#12,"遅いからもう来てくれないかと
+不安になっちゃったよ。","因为你太晚了，我还不安地以为
+你今天不会来了呢。",translated,依恩,ec18e80ad1,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#43#12,そんなこと……ないよね？,应该……不会有那回事对吧？,translated,依恩,eb7365fe47,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#45#12,えへへ、今度はどんなお話しようか？,诶嘿嘿，这次要聊些什么好呢？,translated,依恩,04284b8270,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#46#12,"こうやって話せる人がいるって、
+やっぱり嬉しいな。","能有这样一个可以倾诉的人在，
+果然还是好开心呀。",translated,依恩,9baba89aba,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#50#12,おかえりなさい。,欢迎回来。,translated,依恩,b4ffd03b9d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#52#12,おかえり～。,欢迎回来～。,translated,依恩,6d6c5bcb18,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#55#12,今日はもう来ないのかなぁって思ってたの。,我还以为你今天不会来了呢。,translated,依恩,c8e58d65ea,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#56#12,また来てくれて、ありがとう。,谢谢你又过来看我。,translated,依恩,03496b8285,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#58#12,"えへへ、
+もう今日は来ないって思ったから嬉しいな。","诶嘿嘿，
+我还以为你今天不会来了，真开心。",translated,依恩,595b59faf2,br=0 nl=1,2,
+inc/event/res/formatevent01/for_held01.txt#59#12,嬉しいサプライズ……だね。,这是令人开心的惊喜……呢。,translated,依恩,ad1a7cc738,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#61#12,ちょっと遅かったね。,稍微有点晚了呢。,translated,依恩,4a57a13954,br=0 nl=0,1,
+inc/event/res/formatevent01/for_held01.txt#62#12,"今日はもう来ないんじゃないかって
+心配してたよ。","我还担心你今天
+是不是不会来了呢。",translated,依恩,869ed3bde6,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#3#12,何度も来てくれてありがと。,谢谢你来了这么多次。,translated,依恩,beb03da60b,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#4#12,"あなたのおかげで、わたしは今日も
+寂しく感じないでいられてるよ。","多亏了你，我今天
+才能完全不会感到寂寞哦。",translated,依恩,ff9620fd38,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#6#12,"こうやって頻繁に会いに来てくれると、
+一緒に住んでるような気持ちになるよ。","像这样频繁地来看我，
+总觉得有种住在一起的感觉呢。",translated,依恩,c51c1aab20,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#7#12,"でも、いつか本当に、そういう生活が
+送れるようになったら嬉しいね。","不过要是真有那么一天，
+能够过上那样的生活就好了呢。",translated,依恩,95ba7570af,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#9#12,今日はどんなお話しよっか？,今天要聊些什么好呢？,translated,依恩,ebdadfd824,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#10#12,"あっ、でもゆっくりできる時間があるなら、
+デートしに行くのも楽しそうだね！","啊，不过要是有时间可以慢慢放松，
+一起去约会好像也很有趣呢！",translated,依恩,8dfd205c0e,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#14#12,えへへ、今日はいっぱいお話しできるね。,诶嘿嘿，今天可以聊好多好多呢。,translated,依恩,353d9fa055,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#16#12,"今日はあなたがずっと近くにいてくれて、
+すごく幸せだよ。","今天你一直陪在我身边，
+我感到超级幸福哦。",translated,依恩,09e954ebfd,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#18#12,ねえねえ、次は何しようか？,呐呐，接下来要做什么呢？,translated,依恩,e3220f2b27,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#19#12,"お話もいいし、デートもいいし……
+えへへ、迷っちゃうね。","聊天挺好的，去约会也不错……
+诶嘿嘿，真让人纠结呢。",translated,依恩,3a3a302bba,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#23#12,"一人でいるときよりも、
+二人でいるときの方がやっぱり楽しいよね。","比起一个人待着的时候，
+两个人在一起果然还是开心得多呢。",translated,依恩,d22bee7f99,br=0 nl=1,2,
+inc/event/res/formatevent01/for_hele01.txt#25#12,あなたともっとたくさんお話したいな。,我想和你多聊聊天呢。,translated,依恩,ff8fed3d37,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#27#12,ねぇ、次はどんなお話しようか？,呐，接下来要聊些什么呢？,translated,依恩,4bfede74d6,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#31#12,今度はどんなお話をしよっか？,这次要聊些什么好呢？,translated,依恩,59c23f0bf8,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#33#12,こうやってお話できるのっていいね。,像这样能够聊天真好呢。,translated,依恩,33ad504a27,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#34#12,次はどんなお話をしよっか？,下次要聊些什么好呢？,translated,依恩,2404ecbf93,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#36#12,ねぇ、次はどんなことをお話しよっか？,呐，接下来要聊些什么话题呢？,translated,依恩,0c107fc540,br=0 nl=0,1,
+inc/event/res/formatevent01/for_hele01.txt#37#12,もっとたくさんお話してみたいな。,好想再跟你多聊聊天呢。,translated,依恩,856bcda9a7,br=0 nl=0,1,
+inc/event/res/formatevent01/for_nl01.txt#2#12,そうだ。,对了。,translated,依恩,1eaddbf339,br=0 nl=0,1,
+inc/event/res/formatevent01/for_nl01.txt#3#12,"あなたがいない間にあったこと。
+お話しておくね。","趁你不在时发生的事情，
+我先跟你讲讲哦。",translated,依恩,64728f8c27,br=0 nl=1,2,
+inc/event/res/formatevent01/for_nl01.txt#14#12,"と、こんな感じだったの。
+あなたはどうだった？","事情大概就是这个样子啦。
+你那边怎么样呢？",translated,依恩,5a5cb61092,br=0 nl=1,2,
+inc/event/res/formatevent01/for_tcha01.txt#8#12,<CLBU>女の子の頭を無闇に叩いちゃいけません！,<CLBU>不可以胡乱敲女孩子的头哦！,translated,依恩,3c8b371019,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tcha01.txt#10#12,<CLBU>イタッ！？,<CLBU>好痛！？,translated,依恩,7beea27d17,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#11#12,や、優しく触ってくれないと痛いよぉ……。,没、如果不轻轻摸的话会很痛的啦……,translated,依恩,018a682d4f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_tcha01.txt#13#12,"<CLBU>優しくつつかれるのは、
+そんなに嫌いじゃないかも……。","<CLBU>被你轻轻戳弄的感觉，
+我倒也不是那么讨厌就是了……",translated,依恩,737af75181,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#15#12,"<CLBU>ん、どうかしたの？
+わたしの頭に何か付いてる？","<CLBU>嗯，怎么了吗？
+我头上沾了什么东西吗？",translated,依恩,b2f88b1139,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#17#12,"<CLBU>そ、そんなに見つめられたら、
+恥ずかしいよ……。","<CLBU>被、被你这么盯着看的话，
+好害羞呀……",translated,依恩,5e90b999ed,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#19#12,<CLBU>つ、つむじ突かないで！,<CLBU>别、别戳发旋啦！,translated,依恩,a550f83c4b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#20#12,……あれ、便秘になるんだっけ？,……咦，戳了会便秘来着吗？,translated,依恩,1d20f9a622,br=0 nl=0,1,
+inc/event/res/formatevent01/for_tcha01.txt#21#12,と、とにかく、突いちゃダメ！,总、总之，就是不可以戳！,translated,依恩,20d554272d,br=0 nl=0,1,
+inc/event/res/formatevent01/for_tcha01.txt#25#12,<CLBU>あ、あんまりぐりぐりしないでね。,<CLBU>别、别使劲揉搓哦。,translated,依恩,fef8d796d8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#27#12,"<CLBU>は、背後から凄い視線を感じるんだけど？
+わたしの後ろに何か付いてるの？","<CLBU>总、总觉得背后传来一道强烈的视线？
+我身后沾了什么东西吗？",translated,依恩,3ec326622e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tcha01.txt#31#12,<CLBU>きゃっ！,<CLBU>呀！,translated,依恩,5e4f3323dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#33#12,<CLBU>な、何するの！？,<CLBU>你、你干什么呀！？,translated,依恩,042950f96c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#35#12,<CLBU>め、目潰しするなんて酷いよ！,<CLBU>戳、戳人眼睛也太过分了吧！,translated,依恩,bfac62d6a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#37#12,<CLBU>わたしの目、綺麗でしょ？,<CLBU>我的眼睛很漂亮对吧？,translated,依恩,75abf8f3eb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#38#12,"あなたの目も凄く綺麗よ。
+もう少し、見ててもいい？","你的眼睛也特别漂亮哦。
+我可以再看一会儿吗？",translated,依恩,203a36ef25,br=0 nl=1,2,
+inc/event/res/formatevent01/for_tcha01.txt#42#12,<CLBU>むぎゅ。,<CLBU>唔啾。,translated,依恩,361fb2aa6d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#44#12,"<CLBU>あ、あんまり押さないで。
+お鼻が潰れちゃうよ……。","<CLBU>别、别按得太用力啦。
+鼻子都要被你按扁了……",translated,依恩,c06c75428f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#48#12,<CLBU>むーっ。,<CLBU>唔――。,translated,依恩,17c98df141,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#50#12,<CLBU>ふふっ……ちょっとだけくすぐったいね。,<CLBU>呵呵……稍微有点痒痒的呢。,translated,依恩,759332fa20,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tcha01.txt#54#12,<CLBU>肩叩いてくれるの？　ありがと！,<CLBU>要帮我捶肩膀吗？谢谢你！,translated,依恩,c4ffe489fa,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#56#12,"<CLBU>そこそこ……。
+は～、気持ちいぃ……。","<CLBU>就是那里那里……
+哈～好舒服哦……",translated,依恩,2dba1869c1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#68#12,<CLBU>え、なになに？,<CLBU>诶，怎么了怎么了？,translated,依恩,f69f644da0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#70#12,<CLBU>きゃっ！,<CLBU>呀！,translated,依恩,5e4f3323dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#71#12,もぉ、ちょっとくすぐったかったよ。,真是的，刚才有点痒痒的啦。,translated,依恩,6f787cf210,br=0 nl=0,1,
+inc/event/res/formatevent01/for_tcha01.txt#83#12,<CLBU>えへへ。,<CLBU>诶嘿嘿。,translated,依恩,1b2209912b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#85#12,<CLBU>……もしかして、腕組みたいのかな？,<CLBU>……难道说，想和我挽着手臂吗？,translated,依恩,22a93237d8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#89#12,<CLBU>手、繋ぎたい？,<CLBU>想牵手吗？,translated,依恩,b8b3e8afe1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#91#12,<CLBU>タッチタッチ♪,<CLBU>触摸触摸♪,translated,依恩,d44869c0e2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#99#12,<CLBU>きゃっ、エッチ！,<CLBU>呀，下流！,translated,依恩,cc100d7f27,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#101#12,<CLBU>や、やだ！つっつかないで！,<CLBU>讨、讨厌啦！别戳我！,translated,依恩,a7e4cf6997,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#103#12,"<CLBU>もしもーし。
+胸に視線を感じるんですけどー？","<CLBU>喂喂――
+我怎么觉得胸口传来了视线呀――？",translated,依恩,99a74ef06d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#105#12,<CLBU>……エッチ。,<CLBU>……下流。,translated,依恩,1e09e557c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#109#12,<CLBU>お腹はダメー！,<CLBU>肚子不可以摸――！,translated,依恩,6b3c0d2e0c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#111#12,"<CLBU>お、お腹出てないよ？
+太ってなんかないもん！","<CLBU>肚、肚子才没有凸出来呢！
+我才没有变胖呢！",translated,依恩,8d425a0afa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#115#12,<CLBU>きゃっ！くすぐったい！,<CLBU>呀！好痒！,translated,依恩,e656a735a4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#117#12,<CLBU>ひゃわぁっ！？,<CLBU>呀哇啊！？,translated,依恩,2f7c440ec5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#121#12,<CLBU>どうしたの？,<CLBU>怎么了吗？,translated,依恩,61654121d9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#123#12,"<CLBU>あ、あんまり部屋の中見ないでね。
+ちょっと恥ずかしいかも……。","<CLBU>别、别太到处打量房间哦。
+稍微有点难为情呢……",translated,依恩,b5c9cc8f1f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#125#12,<CLBU>よそ見しないで、わたしの方見てよぉ。,<CLBU>别东张西望的，看看我嘛。,translated,依恩,043d87b716,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#129#12,<CLBU>どうかしたの？,<CLBU>怎么了吗？,translated,依恩,c34740f258,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#131#12,<CLBU>綺麗になってるでしょ？,<CLBU>收拾得很干净对吧？,translated,依恩,e27f70a0b5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tcha01.txt#132#12,"あなたに見られてもいいように、
+ちゃんと掃除してるからね。","为了随时能让你看，
+我可是有好好打扫卫生的哦。",translated,依恩,a535473407,br=0 nl=1,2,
+inc/event/res/formatevent01/for_tcha01.txt#134#12,<CLBU>わたしよりも、部屋の方が気になるの？,<CLBU>比起我，你更在意房间吗？,translated,依恩,cca3c24fb8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#8#12,<CLBU>撫でられるの、好きなの。,<CLBU>被你抚摸的感觉，我很喜欢哦。,translated,依恩,f33b115db3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#10#12,<CLBU>わたしの髪、さらさらでしょ？,<CLBU>我的头发很柔顺丝滑对吧？,translated,依恩,867ecc0a39,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#12#12,"<CLBU>もしかして、
+わたしの髪の虜になっちゃった？","<CLBU>难道说，
+你迷上我的头发了吗？",translated,依恩,c875358ad5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#16#12,<CLBU>ん？　今、頭触った？,<CLBU>嗯？刚才摸我的头了吗？,translated,依恩,97319f985b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#18#12,<CLBU>私の見えないところで何やってるの？,<CLBU>在我看不见的地方在做什么呀？,translated,依恩,8b03ff84ae,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#20#12,"<CLBU>前からじゃないと、
+あなたの顔が見えないよ。","<CLBU>不从正面的话，
+就看不到你的脸啦。",translated,依恩,b13f675b34,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#22#12,"<CLBU>あんまり強く撫でないでね。
+これでも毎朝セットしてるんだから。","<CLBU>不要摸得太用力哦。
+这好歹也是我每天早晨精心打理的发型呢。",translated,依恩,463cba93c4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#26#12,<CLBU>……わたしの目、好きなの？,<CLBU>……喜欢我的眼睛吗？,translated,依恩,7b9fd06e8b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#28#12,<CLBU>ふ、不思議なところ撫でてくれるんだね。,<CLBU>你摸的地方可真够不可思议的呢。,translated,依恩,d62b0759a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#30#12,<CLBU>ま、まつげがくすぐったいよぉ。,<CLBU>睫、睫毛感觉好痒呀。,translated,依恩,8d2d0b489d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#34#12,<CLBU>は、ふぁっ……クシュンッ！！,<CLBU>哈、哈啊……阿嚏――！！,translated,依恩,f99fe9a7d8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#36#12,<CLBU>む、むずむずするよぉ……。,<CLBU>好、好痒痒呀……,translated,依恩,d05bd7dd40,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#38#12,"<CLBU>あんまり擦られると、お鼻が真っ赤に
+なっちゃうかも。","<CLBU>要是擦得太用力，
+鼻子可能会变得通红通红的哦。",translated,依恩,090f6b1b90,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#42#12,<CLBU>か、顔ぐにぐにしないでぇ！,<CLBU>别、别捏我的脸蛋呀！,translated,依恩,2caf6aa2a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#44#12,"<CLBU>か、顔撫でられるのって、
+ちょっと恥ずかしいかも……。","<CLBU>被、被你抚摸脸庞，
+感觉稍微有点不好意思呢……",translated,依恩,dcad0571b5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#46#12,<CLBU>ふふっ……ちょっとだけくすぐったいね。,<CLBU>呵呵……稍微有点痒痒的呢。,translated,依恩,759332fa20,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#50#12,<CLBU>ん、どうしたの？,<CLBU>嗯，怎么了吗？,translated,依恩,1d57298ab9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#52#12,<CLBU>肩、ほこりでもついてた？,<CLBU>肩膀上是有灰尘吗？,translated,依恩,11f5338852,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#54#12,"<CLBU>ちょっと、手つきがいやらしいような……。
+気のせいかな？","<CLBU>总觉得你的动作好像有点色色的……
+是错觉吗？",translated,依恩,cb9d56f7c7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/for_tchb01.txt#66#12,<CLBU>く、くすぐったいから、ちょっとだけね。,<CLBU>因、因为很痒，所以只能摸一下下哦。,translated,依恩,4ced55b690,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#68#12,"<CLBU>ちょ、ちょっとだけだよ？
+そこは、その……ぷにぷにしてるから……。","<CLBU>只、只能摸一下下哦？
+那里……那个……因为软绵绵的……",translated,依恩,084378869f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#70#12,<CLBU>は、恥ずかしいから、あんまり見ないで。,<CLBU>好、好害羞，不要一直盯着看啦。,translated,依恩,e9132eeb72,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#72#12,"<CLBU>二の腕をそんなに真剣に見つめる人、
+初めて見たよ。","<CLBU>这么认真盯着上手臂看的人，
+我还是头一次见呢。",translated,依恩,cf3894a8d8,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#84#12,<CLBU>腕、組んでくれるの？,<CLBU>要和我挽着手吗？,translated,依恩,31d1d89033,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#86#12,<CLBU>わたしの腕、そんなに気に入った？,<CLBU>我的手臂，有那么讨你喜欢吗？,translated,依恩,73b54f4eb8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#90#12,<CLBU>あなたの手のひら、大きいね。,<CLBU>你的手掌好大呀。,translated,依恩,97ce22c11c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#92#12,<CLBU>えへへ……ちょっと、恥ずかしいね。,<CLBU>诶嘿嘿……稍微有点害羞呢。,translated,依恩,a66a330b3b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#94#12,<CLBU>手を繋いで、どこかにおでかけしたいね。,<CLBU>真想和你手牵着手，一起去哪里逛逛呢。,translated,依恩,a27870ad9f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#96#12,"<CLBU>わたしの手、ぽかぽかでしょ？
+あなたに触られてるからかな？","<CLBU>我的手暖烘烘的对吧？
+是因为被你摸着的原因吗？",translated,依恩,1a69ecc6b6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#104#12,"<CLBU>きゃっ！？
+エッチ。","<CLBU>呀！？
+下流。",translated,依恩,d8a74d75ec,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#106#12,<CLBU>ゆ、揺らさないで、エッチぃ！！,<CLBU>别、别摇晃啦，下流！！,translated,依恩,078095894a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#108#12,<CLBU>わあ、胸を撫でてくれるんだね、ありがとう！,<CLBU>哇，帮我抚摸胸口呀，谢谢你！,translated,依恩,ff1551c275,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/formatevent01/for_tchb01.txt#109#12,……なんて、言うわけないでしょエッチ！！,……我怎么可能会这么说嘛，下流！！,translated,依恩,6e11806d8a,br=0 nl=0,1,
+inc/event/res/formatevent01/for_tchb01.txt#111#12,"<CLBU>舐めるような目で見てくるほど、
+わたしの胸は大きくないんだけど……。","<CLBU>我的胸部也没有大到
+值得你用那种色迷迷的眼神看吧……",translated,依恩,0d67913262,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#113#12,<CLBU>……そんなに凝視されると、恥ずかしいよぉ。,<CLBU>……被你这么凝视，好难为情呀。,translated,依恩,ba8d0b96c6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/formatevent01/for_tchb01.txt#117#12,"<CLBU>おなかを優しく撫でられると、なんだか
+ホッとするよね。","<CLBU>肚子被轻轻抚摸的话，
+总觉得整个人都松了一口气呢。",translated,依恩,14a870bf0d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#119#12,"<CLBU>そういえば、お通じの悪い人はこうやって
+お腹の周りを押しながら回すと、
+解消されるらしいよ。","<CLBU>话说回来，便秘的人像这样
+按着肚子周围打圈按摩，
+听说能通便排毒哦。",translated,依恩,4b890b0cc8,<CLBU> br=0 nl=2,3,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/for_tchb01.txt#121#12,"<CLBU>えへへ、わたしのお腹、細い？
+ナイスバディかな？","<CLBU>诶嘿嘿，我的腰很细吗？
+身材算不算很好呀？",translated,依恩,b845c79d00,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#125#12,<CLBU>きゃっ！くすぐったい！,<CLBU>呀！好痒！,translated,依恩,e656a735a4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#127#12,<CLBU>ひゃぅっ！？,<CLBU>呀呜！？,translated,依恩,1614c673a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#128#12,"も、もぉ、変な触り方するから、
+変な声出ちゃったじゃない！","真、真是的，因为你摸的手法太奇怪，
+害我不由自主发出奇怪的声音了啦！",translated,依恩,88af25b5b9,br=0 nl=1,2,
+inc/event/res/formatevent01/for_tchb01.txt#130#12,<CLBU>もぉ、それじゃあなたの顔が見えないよぉ。,<CLBU>真是的，那样我就看不到你的脸啦。,translated,依恩,eb23b7ec37,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/for_tchb01.txt#134#12,<CLBU>そ、そんなところ撫でても、ほこりは無いよ。,<CLBU>摸、摸那种地方也是没有灰尘的哦。,translated,依恩,417605b94d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/formatevent01/for_tchb01.txt#136#12,<CLBU>ちゃんと掃除してるから綺麗でしょ？,<CLBU>我有好好打扫所以很干净对吧？,translated,依恩,ad5465e385,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#138#12,<CLBU>もしかして、お掃除してくれようとしてるの？,<CLBU>难道说，你是想帮我打扫房间吗？,translated,依恩,8c3e26d4bc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/formatevent01/for_tchb01.txt#140#12,<CLBU>むーっ……私以外撫でるの禁止だよ。,<CLBU>唔――……除了我以外禁止抚摸哦。,translated,依恩,cdb2f3dc70,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#144#12,<CLBU>どうかしたの？,<CLBU>怎么了吗？,translated,依恩,c34740f258,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#146#12,"<CLBU>ほこり一つないでしょ？
+お掃除ちゃんとしてるからね。","<CLBU>一尘不染对吧？
+因为我可是有好好打扫卫生的呢。",translated,依恩,d97223ff3a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_tchb01.txt#148#12,"<CLBU>むーっ……
+部屋じゃなくて、わたしを見てよ。","<CLBU>唔――……
+不要看房间，看着我啦。",translated,依恩,bced807322,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/for_wait01.txt#8#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/formatevent01/for_wait01.txt#12#12,そろそろ仕事に戻るよ？,差不多该回去干活了哦？,translated,依恩,2c1789572f,br=0 nl=0,1,
+inc/event/res/formatevent01/for_wait01.txt#13#12,それじゃあ、またね。,那么，回头见啦。,translated,依恩,9584cf3013,br=0 nl=0,1,
+inc/event/res/formatevent01/kigae_comment.txt#10#12,う～ん、こんな感じかな。,唔～大概就是这种感觉吧。,translated,依恩,4e874b1cce,br=0 nl=0,1,
+inc/event/res/formatevent01/kigae_comment.txt#12#12,"こんな感じでいいよね。
+ふふ、気に入ってくれるといいなぁ。","做成这样就可以了呢。
+呵呵，希望你会喜欢呢。",translated,依恩,ea797a09b5,br=0 nl=1,2,
+inc/event/res/formatevent01/kigae_comment.txt#14#12,"変じゃ……ないよね。
+恥ずかしい格好見せられないもんね。","应该……不奇怪吧。
+我可不能让你看到丢人的打扮嘛。",translated,依恩,4c61507cde,br=0 nl=1,2,
+inc/event/res/formatevent01/kondate_comment.txt#10#12,"いまあるもので作れるのは……。う～ん、
+外に採りに行った方がいいのかなぁ。","用现有的材料能做的是……唔～
+是不是到外面去采集一下比较好呢。",translated,依恩,8f2de59cb5,br=0 nl=1,2,
+inc/event/res/formatevent01/kondate_comment.txt#12#12,"えっと、これとこれを使って……。
+でもやっぱりこっちの方が……。","那个，用这个和这个……
+不过果然还是用这边的比较好呢……",translated,依恩,fe90c22a49,br=0 nl=1,2,
+inc/event/res/formatevent01/kondate_comment.txt#14#12,"もうお腹ペコペコ……。
+何を食べようかなぁ。","肚子已经饿得咕咕叫了……
+吃点什么好呢。",translated,依恩,2c11b6d0f6,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#3#12,<CLBU>えへへ、わたしの髪、さらさらでしょ？,<CLBU>诶嘿嘿，我的头发很柔顺丝滑对吧？,translated,依恩,122bf50177,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#5#12,<CLBU>わたしの髪、触るの気持ちいい？,<CLBU>摸我的头发感觉舒服吗？,translated,依恩,37a0e84814,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#7#12,"<CLBU>も、もう、子供じゃないんだから、
+あんまり頭触らないで。","<CLBU>真、真是的，我又不是小孩子了，
+不要老是摸我的头啦。",translated,依恩,6e16ae3898,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#9#12,<CLBU>……な、なんだか、恥ずかしいね。,<CLBU>……总、总觉得，好害羞呢。,translated,依恩,0c40d1e7a4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#11#12,"<CLBU>あ、あんまり強く触らないで！
+髪の毛ぐちゃぐちゃになっちゃうよぉ！","<CLBU>别、别摸得太用力啦！
+头发都要被你弄得乱蓬蓬了啦！",translated,依恩,e88ccc0151,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#15#12,<CLBU>えへへ……ちょっと恥ずかしいかも。,<CLBU>诶嘿嘿……稍微有点不好意思呢。,translated,依恩,8f608f73e5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#17#12,<CLBU>は、恥ずかしいよぉ……。,<CLBU>好、好害羞呀……,translated,依恩,98010d3dae,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#19#12,<CLBU>えへへ……なんか、落ち着くなぁ……。,<CLBU>诶嘿嘿……总觉得，好安心呀……,translated,依恩,58e428f316,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#21#12,<CLBU>あなたって、ほっぺたが好きなの？,<CLBU>你很喜欢我的脸颊吗？,translated,依恩,ca1cbb8d95,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#23#12,<CLBU>も、もう、そんなに触らないでよ。,<CLBU>真、真是的，别那么摸个不停啦。,translated,依恩,699db7f2e0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#24#12,なんか恥ずかしいよ……。,总觉得怪让人难为情的……,translated,依恩,a2506b22a1,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#28#12,<CLBU>わぁ……あなたの目、凄く綺麗だね。,<CLBU>哇啊……你的眼睛，真的很漂亮呢。,translated,依恩,78b8a48221,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#30#12,"<CLBU>そ、そんなにジッと見ないでよぉ。
+……恥ずかしくて、顔が赤くなっちゃう。","<CLBU>别、别那么目不转睛地看着我啦。
+……太害羞了，脸都要变红了。",translated,依恩,9d13ca2b3a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#32#12,<CLBU>ちょ、ちょっとちょっと！,<CLBU>等、等等等等！,translated,依恩,a271b5dec3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#33#12,目は危ないから、触ったらダメだよ。,眼睛很危险的，不可以摸哦。,translated,依恩,8391b976ae,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#35#12,"<CLBU>ん～、ゴミは入ってないから
+大丈夫だよ。","<CLBU>唔～没有进脏东西，
+不用担心的哦。",translated,依恩,793f97beca,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#37#12,<CLBU>よ、よくそんなにジッと目を見れるね？,<CLBU>你、你怎么能这么目不转睛地盯着看呀？,translated,依恩,16919ffe08,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#38#12,"わたしもあなたの目を見たいけど、
+恥ずかしいからできないよぉ……。","我也想看着你的眼睛，
+可是太害羞了做不到啦……",translated,依恩,f671645665,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#40#12,"<CLBU>わたし、目薬をさす時って、
+いつも目を瞑っちゃうの。","<CLBU>我滴眼药水的时候，
+总是会忍不住把眼睛闭上呢。",translated,依恩,af60d71160,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#41#12,"痛くないのはわかるけど、
+やっぱり怖いよね？","虽然知道不会痛，
+但果然还是会害怕对吧？",translated,依恩,619b726d01,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#43#12,"<CLBU>わたしね、いつかカラーコンタクトを
+入れてみたいなって思ってるの！","<CLBU>我呀，一直想着以后哪天
+想试试戴彩色隐形眼镜呢！",translated,依恩,a6070aba46,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#44#12,"……入れる度胸がないから、
+未だに入れられないんだけどね。","……不过因为没那个胆量，
+至今都还没敢戴就是了。",translated,依恩,05eff445bf,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#48#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#49#12,もう…エッチなんだから…。,真是的……太下流了啦……,translated,依恩,0ceb854500,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#51#12,"<CLBU>わたしの胸って、
+一般的に見てどうなのかな？","<CLBU>我的胸部，
+普遍来看算是什么水平呢？",translated,依恩,feff4976b0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#52#12,"……やっぱり、小さいよりは
+大きい方が嬉しい……かな？","……果然比起小巧，
+大一点会更让人开心……吗？",translated,依恩,4d8e9be96c,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#54#12,"<CLBU>も、もう、どこ見てるの！？
+えっち！","<CLBU>真、真是的，在看哪里呀！？
+下流！",translated,依恩,6230ec4ea5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#56#12,"<CLBU>ねぇ……。
+どこに視線を向けてるのかなぁ？","<CLBU>呐……
+你的目光是在往哪里看呀？",translated,依恩,e427d1d4f4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#58#12,"<CLBU>あ、あの……
+人の胸を凝視するのやめない？","<CLBU>那、那个……
+能不能别一直盯着别人的胸口看呀？",translated,依恩,28854de06a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#60#12,"<CLBU>男の人ってやっぱり、
+大きい方が好きなの？","<CLBU>男子果然还是
+更喜欢大一点的吗？",translated,依恩,327c521cde,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#61#12,わたしは、ちょっと自信ないな……。,我对这个，稍微有点没自信呢……,translated,依恩,dc44d3de68,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#63#12,"<CLBU>もう、話す時は胸じゃなくて、
+ちゃんと顔を見て話して！","<CLBU>真是的，说话时不要看胸部，
+好好看着我的脸说话啦！",translated,依恩,8e332e4f0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#67#12,"<CLBU>……さ、触られて恥ずかしがるほど、
+柔らかくなんかないもん！","<CLBU>……才、才没有软到
+被你摸一摸就害羞的地步呢！",translated,依恩,99688a342a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#69#12,<CLBU>結構しまってると思うけどなぁ。,<CLBU>我觉得自己的身材还挺紧致的呀。,translated,依恩,1503ad6454,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#70#12,"作業で重たい物とか使ったりもするし、
+余計なお肉は付いてないはずだよ。","干活的时候也经常搬重物，
+照理说应该没有多余的赘肉才对哦。",translated,依恩,4e75507824,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#72#12,<CLBU>く、くすぐったいってばぁ！,<CLBU>都说了很痒啦！,translated,依恩,825fa48731,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#74#12,<CLBU>ひゃわぁ！？,<CLBU>呀哇啊！？,translated,依恩,7911e24fe1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#75#12,"に、二の腕って、急に触られると
+ぞぞっとするよね……。","上手臂要是突然被摸，
+整个人都会起一阵鸡皮疙瘩呢……",translated,依恩,bcc611d4b1,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#77#12,"<CLBU>女の子でも、鍛えて力こぶの
+ある人っているよね。","<CLBU>就算是女孩子，也有通过锻炼
+练出发达肱二头肌的人呢。",translated,依恩,942f3471f6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#78#12,"わたしも、小さいのなら欲しいかも。
+少しはあった方がかっこいいと思うの。","我也想稍微练出一点点小肌肉呢。
+感觉有一点点会显得更帅气。",translated,依恩,132c6f2af2,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#80#12,"<CLBU>あ、あんまりプニプニしないで。
+たるんじゃったらどうするの？","<CLBU>别、别老是软绵绵地捏来捏去啦。
+要是松弛松垮了怎么办呀？",translated,依恩,e9fcb27a0c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#84#12,"<CLBU>……さ、触られて恥ずかしがるほど、
+柔らかくなんかないもん！","<CLBU>……才、才没有软到
+被你摸一摸就害羞的地步呢！",translated,依恩,99688a342a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#86#12,<CLBU>結構しまってると思うけどなぁ。,<CLBU>我觉得自己的身材还挺紧致的呀。,translated,依恩,1503ad6454,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#87#12,"作業で重たい物とか使ったりもするし、
+余計なお肉は付いてないはずだよ。","干活的时候也经常搬重物，
+照理说应该没有多余的赘肉才对哦。",translated,依恩,4e75507824,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#89#12,<CLBU>く、くすぐったいってばぁ！,<CLBU>都说了很痒啦！,translated,依恩,825fa48731,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#91#12,<CLBU>ひゃわぁ！？,<CLBU>呀哇啊！？,translated,依恩,7911e24fe1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#95#12,"<CLBU>えへへ……手を触られるのって、
+結構恥ずかしいね。","<CLBU>诶嘿嘿……被你抚摸着手，
+感觉还挺害羞的呢。",translated,依恩,adb17db2b0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#97#12,"<CLBU>爪は短くしてあるの。
+作業の時に邪魔だからね。","<CLBU>指甲我一直剪得很短哦。
+因为干活的时候会碍事嘛。",translated,依恩,ade2aabdeb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#99#12,"<CLBU>き、機械油なんて付いてないよ。
+作業の後はちゃんと手を洗ってるもん。","<CLBU>才、才没有沾上机油呢。
+干完活之后我可是有好好洗手的嘛。",translated,依恩,aa2626d88d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#101#12,"<CLBU>あ～あ、わたしの指、もう少し長ければ
+よかったのになぁ……。","<CLBU>唉～我的手指要是能再修长一点
+就好了呢……",translated,依恩,d438b5e2a7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_t01al.txt#102#12,だって、指が長いと綺麗に見えるでしょ？,毕竟手指修长的话，看起来会很漂亮对吧？,translated,依恩,4581315aa4,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#106#12,<CLBU>おなかはぷよぷよしてるからダメ！,<CLBU>肚子肉嘟嘟的，不可以摸！,translated,依恩,9d507f88e9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#108#12,<CLBU>……なんか、お腹減ってるかも。,<CLBU>……总觉得，肚子好像饿了呢。,translated,依恩,c057f63a49,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#110#12,"<CLBU>甘いもの食べたいよぉ。
+太るの気にしないで食べたいよぉ！","<CLBU>好想吃甜食呀。
+好想不用在意发胖敞开吃呀！",translated,依恩,0f8d046a91,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#112#12,<CLBU>脱いだら腹筋割れてましたー。,<CLBU>脱下衣服其实是有腹肌的哦――,translated,依恩,13ca1ec81c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#113#12,……なんてことはないから、安心してね。,……才不可能有那种事呢，放心吧。,translated,依恩,2c2fd39349,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_t01al.txt#115#12,<CLBU>ふぅ……なんだか、お腹減ったね。,<CLBU>呼……总觉得，肚子饿了呢。,translated,依恩,881c8fb691,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#117#12,"<CLBU>引き締まってはいないけど、
+段になるほどお肉は付いてないよ！","<CLBU>虽然算不上紧致，
+但也还没长出层层叠叠的赘肉啦！",translated,依恩,4f86e2c242,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#119#12,<CLBU>イオンちゃんの豆知識ー！,<CLBU>依恩酱的冷知识时间――！,translated,依恩,f455371588,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_t01al.txt#120#12,"寒い日は下腹部のところにカイロを
+貼っておくといいんだよ。","天冷的时候在小腹部位
+贴个暖宝宝很管用哦。",translated,依恩,90106baa18,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_t01al.txt#121#12,"全身がすぐにポカポカしてくるからね。
+寒い日には試してみてね。","因为全身很快就会暖烘烘的呢。
+天冷的时候你也试试看吧。",translated,依恩,41ea87f2de,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#6#12,"<CLBU>にゃっ。
+はーい、しっかりしますー。","<CLBU>喵呀。
+好――的我这就打起精神来――。",translated,依恩,88ffa43627,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#8#12,<CLBU>ん～、わかってる、頑張るよぉ。,<CLBU>唔～我知道啦，我会加油的啦。,translated,依恩,a298be3c78,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#10#12,"<CLBU>えっ？あ、うん、大丈夫！
+ほら、もう気持ちを
+入れ替えたから平気だよ！","<CLBU>诶？啊，嗯，没问题的！
+你看，我已经转换好
+心情了，所以不用担心哦！",translated,依恩,702b82b222,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#11#12,……多分。,……大概吧。,translated,依恩,fa119e0b9b,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#13#12,<CLBU>えっ！？,<CLBU>诶！？,translated,依恩,5eef0d07d0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#14#12,"あ、うん、大丈夫！
+ぼーっとなんかしてないよ！","啊，嗯，没事的！
+我才没有在发呆呢！",translated,依恩,5ea650c6cb,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#16#12,<CLBU>ん、どうしたの？,<CLBU>嗯，怎么了吗？,translated,依恩,1d57298ab9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#18#12,<CLBU>えへへ、頭ポンポンされちゃった。,<CLBU>诶嘿嘿，被你摸头拍拍了。,translated,依恩,57221e42f0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#20#12,<CLBU>たまにはゆっくりお話したいね。,<CLBU>偶尔也想悠闲地聊聊天呢。,translated,依恩,d77b23dbb4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#22#12,<CLBU>たまには何もしない日が欲しいなぁ。,<CLBU>偶尔也想过一天什么都不用做的日子呀。,translated,依恩,782110801b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#24#12,<CLBU>なでなでの方が嬉しいんだけどなぁ？,<CLBU>其实抚摸摸的话我会更开心的说？,translated,依恩,b217a78aed,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#26#12,<CLBU>軽くツンツンされるのは嫌いじゃないよ。,<CLBU>被你轻轻戳戳的感觉我倒也不讨厌哦。,translated,依恩,4eba59c5e9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#28#12,<CLBU>んにゃっ！？,<CLBU>嗯喵！？,translated,依恩,0dc1bd89da,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#29#12,むーっ、突っつかれたら歌えないよ。,唔――被你戳弄的话就唱不了歌啦。,translated,依恩,a87758c837,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#31#12,<CLBU>あうっ！？,<CLBU>啊呜！？,translated,依恩,fd6d1fc165,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#32#12,むーっ、歌ってる時に突っつかないでー！,唔――唱歌的时候不要戳我啦――！,translated,依恩,d8e730c417,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#34#12,<CLBU>あ、頭をぽんぽん叩かないでー！,<CLBU>别、不要拍打我的头啦――！,translated,依恩,3ca8723303,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#36#12,"<CLBU>歌ってる時に頭を叩かれると、
+変な声になるよね？","<CLBU>唱歌的时候要是被人拍头，
+声音就会变得很奇怪对吧？",translated,依恩,05f2fccf28,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#37#12,"扇風機の前で声を出した時みたいな
+ぶるぶる震えてるみたいな感じにね。","就像对着电风扇发出声音时那样，
+颤颤悠悠发抖的感觉呢。",translated,依恩,092b02b2ba,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#39#12,"<CLBU>り、リズムが取れないから、
+今はあんまり叩かないでー！","<CLBU>抓、抓不准节奏了啦，
+现在不要老是拍我啦――！",translated,依恩,9369ce71ea,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#45#12,<CLBU>えへへ、くすぐったいよぉ。,<CLBU>诶嘿嘿，好痒呀。,translated,依恩,c4c7964f5e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#47#12,<CLBU>そ、そんなに柔らかくないもん。,<CLBU>才、才没有那么柔软呢。,translated,依恩,06790fc38b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#49#12,<CLBU>あんまり強くはダメだよ？,<CLBU>不可以按得太用力哦？,translated,依恩,0c445238a3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#51#12,<CLBU>グリグリはしないでね？,<CLBU>不要死劲揉搓捏挤哦？,translated,依恩,41a4af37d0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#53#12,<CLBU>もう、あまり突かないで。,<CLBU>真是的，别老是戳我啦。,translated,依恩,5d92edc30f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#59#12,"<CLBU>そ、そんなに見つめられると、
+恥ずかしくて歌いづらいよ……。","<CLBU>被、被你这么目不转睛地看着，
+害羞得都不好意思唱歌了啦……",translated,依恩,e3a1f3eb47,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#61#12,<CLBU>ひゃっ！,<CLBU>呀！,translated,依恩,5914fd5a54,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#62#12,も、もう、歌ってる時に目潰しは禁止ー！,真、真是的，唱歌的时候禁止戳人眼睛――！,translated,依恩,baa1b17db3,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#63#12,っていうか、歌ってない時もダメだよ！,不如说，不唱歌的时候也不可以戳啦！,translated,依恩,60b0ff9789,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#65#12,"<CLBU>歌いづらいから、違うところを
+見てもらいたいな……。","<CLBU>这样很难唱歌啦，
+希望能看看别的地方呢……",translated,依恩,df15715a64,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#67#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#69#12,<CLBU>め、目はダメだよぉ……。,<CLBU>眼、眼睛不可以碰啦……,translated,依恩,c562bdf0f8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#71#12,<CLBU>や、やめてよぉ……。,<CLBU>不、不要这样啦……,translated,依恩,090acc1860,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#73#12,"<CLBU>そ、そんなに正面から見られると、
+恥ずかしいよぉ……。","<CLBU>被、被你这么从正面直勾勾看着，
+太难为情了啦……",translated,依恩,fc845bbb67,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#75#12,<CLBU>こ、こらー！,<CLBU>喂、喂――！,translated,依恩,eb58328a93,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#76#12,目は危ないから触ったらダメだよ。,眼睛很危险的，不可以摸哦。,translated,依恩,e5aba4a585,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#78#12,<CLBU>わたしの目、何かおかしいかな？,<CLBU>我的眼睛有什么奇怪的地方吗？,translated,依恩,5522d7131f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#80#12,<CLBU>いたっ！？,<CLBU>好痛！？,translated,依恩,e1716b085b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#81#12,む～、目はダメだよ！,唔～眼睛不可以碰啦！,translated,依恩,9df5b3e48f,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#87#12,<CLBU>エッチぃ！,<CLBU>太下流了！,translated,依恩,c4ade118a0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#88#12,"ぼーっとしてるからって、
+変なところ触っちゃダメだよ！","就算我在发呆，
+也不能摸奇怪的地方呀！",translated,依恩,56622ed865,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#89#12,……もう、どうしてそんなにエッチなの？,……真是的，你怎么这么下流呀？,translated,依恩,37dc239557,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#91#12,"<CLBU>……ぼーっとしてるから気づかれないと
+思った？","<CLBU>……以为我在发呆
+所以就不会察觉到了吗？",translated,依恩,8c0c10202a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#93#12,<CLBU>……言っておくけど、気づいてるからね。,<CLBU>……我先说好，我可是察觉到了哦。,translated,依恩,b7adc8a8b7,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#94#12,早く手を離した方がいいと思うよ？,最好快点把手拿开哦？,translated,依恩,08d5558ddc,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#96#12,<CLBU>きゃーっ！,<CLBU>呀啊――！,translated,依恩,84595a0180,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#97#12,もう、どこに触ってるの！？,真是的，在摸哪里呀！？,translated,依恩,49f5c1f7ad,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#98#12,"女の子の胸に気軽に触るのは
+マナー違反じゃないかな？","随随便便摸女孩子的胸部，
+这可很不合礼仪吧？",translated,依恩,26a9fda576,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#100#12,<CLBU>っ！？,<CLBU>唔！？,translated,依恩,751c5b4795,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#101#12,……今、わたしの胸、触らなかった？,……刚才，你是不是摸了我的胸部？,translated,依恩,7daf05700f,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#102#12,"歌に集中してたから勘違いかもしれない
+けど、確かに触られたような気が……。","虽然专心唱歌可能是我的错觉，
+但总觉得确实被摸了……",translated,依恩,c67d82da38,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#104#12,<CLBU>……歌ってるから気づかないと思った？,<CLBU>……以为我专心唱歌就不会察觉到吗？,translated,依恩,6fba3b725e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#106#12,"<CLBU>も、もう！
+変なところ触らないでよ～……。","<CLBU>真、真是的！
+不要摸奇怪的地方啦～……",translated,依恩,e867d80643,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#108#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#109#12,もう、こういうことしたらダメだよ！,真是的，不许做这种事情啦！,translated,依恩,1b09017225,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#111#12,<CLBU>えへへ、結構大きいで……。,<CLBU>诶嘿嘿，其实还挺大……,translated,依恩,bcc3f17c7b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#112#12,"って、きゃーっ！
+平然と胸触るのやめてよ！","等等，呀啊――！
+别若无其事地摸我的胸部啦！",translated,依恩,871dfdfa6e,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#114#12,<CLBU>…………えっち。,<CLBU>…………下流。,translated,依恩,3f0c7c1467,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#116#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#117#12,"……わたしが笑ってるうちに
+やめた方が良いと思うよ？","……趁我还笑着的时候，
+最好还是赶紧住手比较好哦？",translated,依恩,28bea6d4e2,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#119#12,<CLBU>ど、どこ触ってるのよ、えっちぃ！,<CLBU>在、在摸哪里呀，太下流了！,translated,依恩,deae0762e1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#121#12,"<CLBU>……ま、間違って触っちゃっただけだよね？
+故意じゃないよね？","<CLBU>……只、只是不小心摸到了而已对吧？
+不是故意的对吧？",translated,依恩,5181a70b44,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/formatevent01/pas_tch01a.txt#123#12,<CLBU>もしもーし、どこ見てるのかなぁ？,<CLBU>喂喂――你是在看哪里呀？,translated,依恩,1205c85bfe,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#129#12,<CLBU>や、やだ、くすぐったい！,<CLBU>讨、讨厌啦，好痒！,translated,依恩,dbb90f614d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#130#12,これじゃ歌えないよぉ……。,这样根本没法唱歌啦……,translated,依恩,8a6a8aa111,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#132#12,<CLBU>ひゃんっ！？,<CLBU>呀嗯！？,translated,依恩,b40234aab6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#133#12,"び、ビックリしたぁ……。
+もう、歌ってるんだから邪魔しちゃダメ！","吓、吓了我一跳……
+真是的，我正在唱歌呢，不可以捣乱！",translated,依恩,3ac43fc2ee,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#135#12,"<CLBU>に、二の腕は弱いから、
+あまり突っつかないでね。","<CLBU>上、上手臂很敏感，
+不要老是戳我哦。",translated,依恩,4e842c9554,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#136#12,くすぐったくて、歌に集中できないよ。,太痒了，根本没法集中精神唱歌啦。,translated,依恩,a2717c58f3,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#138#12,"<CLBU>二の腕に筋肉が付いてる男の人って、
+ちょっとドキッとするよね？","<CLBU>上手臂有肌肉线条的男子，
+会让人心中一惊心跳加速对吧？",translated,依恩,aa925b86fe,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#140#12,"<CLBU>お腹に付いたお肉よりも、二の腕の
+お肉の方が落としにくいんだよね……。","<CLBU>比起肚子上的肉，上手臂上的肉
+反而更难减掉呢……",translated,依恩,f9e608a0c4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#141#12,……ダンベルでも買おうかな？,……我是不是该买个哑铃练练呢？,translated,依恩,f6a66fd90c,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#143#12,<CLBU>や、やだ、くすぐったいよぉ。,<CLBU>讨、讨厌啦，好痒呀。,translated,依恩,8477a3a762,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#145#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#146#12,もう、いきなり突かれたら驚いちゃうよ。,真是的，突然被戳一下会吓一跳啦。,translated,依恩,e66948e63c,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#148#12,"<CLBU>余分なお肉はついてないもん。
+柔らかくなんかないよ。","<CLBU>我身上才没有多余的赘肉呢。
+才没有很软呢。",translated,依恩,8fb0328c46,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#154#12,<CLBU>一緒に歌ってくれるの？,<CLBU>要和我一起唱歌吗？,translated,依恩,efdd1d2d8e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#156#12,<CLBU>あなたの想い、伝わってきたよ。,<CLBU>你的心意，我已经切实感受到了哦。,translated,依恩,a04a39e88d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#157#12,なんか上手に歌える気がする。,感觉能唱得更好听了呢。,translated,依恩,289773630a,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01a.txt#159#12,<CLBU>わたしの手、きれいかな？,<CLBU>我的手，漂亮吗？,translated,依恩,ec4b31c214,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#161#12,<CLBU>作業をしてるとケガをすることがあるの。,<CLBU>做手工的时候偶尔会受点伤呢。,translated,依恩,028f059989,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#162#12,"だから、その……恥ずかしいから
+……あんまり見ないでね？","所以，那个……有点不好意思，
+……别看太仔细哦？",translated,依恩,a4ee86e486,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#168#12,<CLBU>歌ってる時のお腹って、凄く動くでしょ？,<CLBU>唱歌的时候肚子起伏很厉害对吧？,translated,依恩,b2a05e1f78,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#170#12,"<CLBU>あ、あの、歌ってる時にお腹を触るの、
+やめてもらいたいんだけど……。","<CLBU>那、那个，唱歌的时候摸我肚子，
+能不能请你住手呀……",translated,依恩,33ed6db0be,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#171#12,"歌ってる時ってお腹が動くから、
+触られるの恥ずかしいし……。","因为唱歌时肚子会动，
+被你摸着很不好意思嘛……",translated,依恩,6b478f93e5,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01a.txt#173#12,"<CLBU>ちょ、ちょっとくすぐったいから、
+歌ってる時はやめてほしいな。","<CLBU>微、稍微有点痒痒的，
+唱歌的时候希望你能停下来呢。",translated,依恩,52cc457bd0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01a.txt#175#12,"<CLBU>そういえば、歌う時はお腹に力を入れて
+歌えって言われたことがあったっけ？","<CLBU>话说回来，以前好像有人跟我说过
+唱歌时肚子要用力发声来着？",translated,依恩,65483fe4ad,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01a.txt#176#12,"……まあ、こんなところでそんな力いっぱい
+歌ったら、近所迷惑になっちゃうけどね。","……嘛，在这种地方那么大声用力唱的话，
+会给邻居添麻烦就是了。",translated,依恩,5811bd14f2,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#6#12,"<CLBU>にゃっ。
+はーい、しっかりしますー。","<CLBU>喵呀。
+好――的我这就打起精神来――。",translated,依恩,88ffa43627,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#8#12,<CLBU>んっ……。,<CLBU>嗯……,translated,依恩,694dc509e6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#9#12,えへへ、ぼーっとしてるの見られちゃった。,诶嘿嘿，被你看到我在发呆了呢。,translated,依恩,2e1137a584,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#11#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#12#12,"え、えへへ……ぼーっとしてたから
+ビックリしちゃったよ。","诶、诶嘿嘿……刚才在发呆，
+着实吓了一跳呢。",translated,依恩,c7ed2ee205,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#13#12,ごめんね、今からしっかりするよ！,对不起哦，我这就打起精神来！,translated,依恩,f7f500e967,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#15#12,"<CLBU>にゃっ。
+はーい、しっかりしますー。","<CLBU>喵呀。
+好――的我这就打起精神来――。",translated,依恩,88ffa43627,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#17#12,<CLBU>んっ……。,<CLBU>嗯……,translated,依恩,694dc509e6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#18#12,えへへ、ぼーっとしてるの見られちゃった。,诶嘿嘿，被你看到我在发呆了呢。,translated,依恩,2e1137a584,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#20#12,<CLBU>きゃっ！？,<CLBU>呀！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#21#12,"え、えへへ……ぼーっとしてたから
+ビックリしちゃったよ。","诶、诶嘿嘿……刚才在发呆，
+着实吓了一跳呢。",translated,依恩,c7ed2ee205,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#22#12,ごめんね、今からしっかりするよ！,对不起哦，我这就打起精神来！,translated,依恩,f7f500e967,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#24#12,<CLBU>えへへ……撫でられちゃった。,<CLBU>诶嘿嘿……被你摸头了呢。,translated,依恩,20b9aef46b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#26#12,<CLBU>頭は、少し強めに撫でられるのが好きかも。,<CLBU>脑袋被稍微用力一点抚摸，我可能更喜欢呢。,translated,依恩,57d6769140,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/pas_tch01b.txt#28#12,<CLBU>……こういうの、他の女の子にもしてるの？,<CLBU>……这种事情，你对别的女孩子也做过吗？,translated,依恩,61a1adbcf9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/pas_tch01b.txt#30#12,<CLBU>えへへ、あなたの撫で方、凄く上手いよね。,<CLBU>诶嘿嘿，你抚摸的手法真的很舒服呢。,translated,依恩,9f43292405,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/pas_tch01b.txt#31#12,"こう、ふにゃ～って
+なっちゃいそうだよ。","感觉整个人都要
+变得软绵绵融化了啦。",translated,依恩,3e35bd4782,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#33#12,"<CLBU>むーっ、わたしのこと、
+子ども扱いしてるでしょ？","<CLBU>唔――你这是把人家
+当成小孩子对待了吧？",translated,依恩,3a3e27899f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#35#12,<CLBU>えへへ、褒められちゃった。,<CLBU>诶嘿嘿，被夸奖了呢。,translated,依恩,c36d682293,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#37#12,<CLBU>ん～っ、くすぐったいよぉ。,<CLBU>唔～好痒痒呀。,translated,依恩,083a21d893,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#38#12,……もう一回！,……再摸一次！,translated,依恩,bbf9eb2971,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#44#12,<CLBU>わわわ、目を擦らないでー！,<CLBU>哇哇哇，别擦眼睛啦――！,translated,依恩,a47bcadc23,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#46#12,"<CLBU>ぬ、拭ってくれるのは嬉しいけど、
+目ヤニなんか付いてないよ？","<CLBU>帮、帮你擦拭虽然很高兴，
+但我眼角才没有眼屎呢？",translated,依恩,a76aa4d518,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#48#12,"<CLBU>う～、あんまり目を擦られると、
+視界が歪んじゃうよぉ……。","<CLBU>呜～老是被你擦眼睛的话，
+视野都要变得模糊扭曲了啦……",translated,依恩,4fe73d829d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#54#12,"<CLBU>……世の中であなただけだと思うよ。
+歌ってる女の子の胸を平然と
+撫でるような人って。　","<CLBU>……我觉得这世上也只有你了哦。
+居然能若无其事地抚摸
+正在唱歌的女孩子的胸部。",translated,依恩,2fe5f0061d,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#55#12,っていうか、歌の邪魔しないで！,不如说，别妨碍我唱歌啦！,translated,依恩,014cb34aae,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#57#12,<CLBU>……歌ってるからって気づかないと思った？,<CLBU>……以为我在唱歌就不会察觉到了吗？,translated,依恩,2686e3f94f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/pas_tch01b.txt#58#12,"軽く触られるだけならまだしも、
+撫でられれば気づくに決まってるでしょ！
+えっち！","只是轻轻碰一下也就算了，
+被你抚摸怎么可能察觉不到嘛！
+下流！",translated,依恩,436fb2df23,br=0 nl=2,3,
+inc/event/res/formatevent01/pas_tch01b.txt#60#12,<CLBU>……怒るよ？,<CLBU>……我可要生气了哦？,translated,依恩,cdf419bf52,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#62#12,<CLBU>ね、ねぇ、胸を触らないで……。,<CLBU>喂、呐，不要摸胸部啦……,translated,依恩,3932e21977,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#63#12,"なんか小さいって言われてるみたいで、
+悲しくなってくるよ……。","总觉得像是在嫌弃太小一样，
+会让人很伤心的啦……",translated,依恩,62bc68fc8d,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#65#12,"<CLBU>頭を撫でられて喜ぶことはあっても、
+胸を撫でられて喜ぶことはないよ？","<CLBU>被摸头虽然会觉得高兴，
+但被摸胸部可绝不会高兴的哦？",translated,依恩,c4c7033f88,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#67#12,<CLBU>えへへ、撫でられ……。,<CLBU>诶嘿嘿，被摸了……,translated,依恩,5f5bb714d2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#68#12,"きゃーっ！
+どこ触ってるのよバカーっ！","呀啊――！
+你在摸哪里呀大笨蛋――！",translated,依恩,3b9a560bd6,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#70#12,<CLBU>ど、どうして胸をなでなでするのかな？,<CLBU>为、为什么非要抚摸胸部呢？,translated,依恩,e82efe15fd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#71#12,どうせなら頭とかにしてほしいよ……。,要摸的话希望摸摸我的头呀……,translated,依恩,c8b96003d0,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#77#12,<CLBU>や、やだ、くすぐったいってばぁ！,<CLBU>讨、讨厌啦，都说了很痒了嘛！,translated,依恩,0c0948fa0f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#79#12,"<CLBU>こ、こらぁ！
+くすぐったいから撫でたらダメー！","<CLBU>喂、喂――！
+太痒了不可以摸啦――！",translated,依恩,35d5c641cf,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#81#12,"<CLBU>……なんか、二の腕に触られるのも、
+意外と恥ずかしいね。","<CLBU>……总觉得，上手臂被抚摸，
+意外地也挺让人害羞的呢。",translated,依恩,1a87ddb76d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#82#12,"けど、ここだとエッチーって
+叫んでいいのか、反応に困るよ……。","不过摸这里到底该不该喊“下流”，
+真让人不知道该怎么反应呢……",translated,依恩,877f7fa84c,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#88#12,"<CLBU>きゃっ！？
+む、虫！？","<CLBU>呀！？
+有、有虫子！？",translated,依恩,0a4f9bcc58,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#89#12,……じゃなくて、あなただったんだ？,……不对，原来是你呀？,translated,依恩,cc98c9f155,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#90#12,"え、えへへ……ぼーっとし過ぎだね。
+ごめんなさい……。","诶、诶嘿嘿……我发呆发得太过了呢。
+对不起……",translated,依恩,93f3e45c89,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#92#12,<CLBU>えへへ、ぼーっとしてるの見られちゃった。,<CLBU>诶嘿嘿，发呆的样子被你看到啦。,translated,依恩,be42da7c48,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/formatevent01/pas_tch01b.txt#93#12,"もうちょっと手を撫でてくれたら、
+しっかりできるかも。","如果能再多摸摸我的手，
+我说不定就能打起精神来了呢。",translated,依恩,8c2184784a,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#95#12,<CLBU>あっ、わたし、ぼーっとしちゃってた！？,<CLBU>啊，我刚才在发呆吗！？,translated,依恩,e9f88ac350,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01b.txt#96#12,"ごめんね、もっとちゃんとしないと
+ダメだよね？","对不起哦，我必须得更振作一点
+才行对吧？",translated,依恩,c733e0fa1f,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#97#12,"……でも、ぼーっとする度にあなたが
+手を撫でてくれるなら、またぼーっと
+しちゃうかもしれないなぁ……えへへ。","……不过，要是每次发呆你都会
+摸摸我的手的话，那我可能还会
+忍不住继续发呆呢……诶嘿嘿。",translated,依恩,3870be8816,br=0 nl=2,3,
+inc/event/res/formatevent01/pas_tch01b.txt#99#12,<CLBU>えへへ、わたしの手、スベスベでしょ？,<CLBU>诶嘿嘿，我的手光滑溜溜的对吧？,translated,依恩,2953c8e73f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#101#12,<CLBU>あなたの手、温かいね。,<CLBU>你的手好温暖呀。,translated,依恩,6c5e9f7b44,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#102#12,もしかして眠いのかな？,难道是犯困了吗？,translated,依恩,fc714c0185,br=0 nl=0,1,
+inc/event/res/formatevent01/pas_tch01b.txt#104#12,"<CLBU>えへへ……手もずっと撫でられると、
+結構くすぐったいんだね。","<CLBU>诶嘿嘿……手要是被一直摸着，
+其实也挺痒痒的呢。",translated,依恩,9a98189612,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#110#12,<CLBU>く、くすぐったいよぉ！,<CLBU>好、好痒呀！,translated,依恩,a68d783027,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#111#12,"歌ってる時にお腹撫でられたら、
+歌えないよ。","唱歌的时候要是被摸肚子，
+根本没法好好唱啦。",translated,依恩,6bdd55b719,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#113#12,<CLBU>お、お腹を撫でるのは、少しだけだよ？,<CLBU>摸、摸肚子只能摸一下下哦？,translated,依恩,250a1356a1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/formatevent01/pas_tch01b.txt#114#12,"じゃないと、お腹もグーッて
+歌いだすかもしれないし……。","不然的话，我的肚子可能也会
+咕噜噜地跟着唱歌了说……",translated,依恩,7aae26bea2,br=0 nl=1,2,
+inc/event/res/formatevent01/pas_tch01b.txt#116#12,"<CLBU>小さい頃、合唱コンクールの練習とかで
+歌ってる子のお腹を撫でたりするイタズラを
+する子って絶対いたよね？","<CLBU>小时候在合唱比赛排练的时候，
+绝对有那种跑去摸唱歌同学肚子的
+恶作剧调皮鬼对吧？",translated,依恩,775a620ca1,<CLBU> br=0 nl=2,3,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/formatevent01/pas_tch01b.txt#117#12,……あなたもそうだったんでしょ？,……你以前也是那样的吧？,translated,依恩,b09edcb49a,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#9#12,なんか、眠くなってきちゃった。,总觉得，开始有点犯困了呢。,translated,依恩,8516365fde,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#11#12,ハァ、なんか体が重いよ。,哈啊，感觉身体好沉重哦。,translated,依恩,e7f09f90a1,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#13#12,なんだか、今日は疲れちゃった。,不知怎么的，今天好累呀。,translated,依恩,365884ca32,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#16#12,もうお風呂に入って休もうっと……。,去洗个澡就休息吧……,translated,依恩,0e5a25dbd9,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#18#12,お風呂に入って寝ちゃおうかな。,要不去洗个澡然后直接睡呢。,translated,依恩,7a6b7f5e90,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment01.txt#20#12,"いつもより早いけど、
+お風呂入って休もう……。","虽然比平时早了点，
+不过还是去洗个澡休息吧……",translated,依恩,fcff22f026,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment02.txt#9#12,"ふあぁぁ……。
+なんか眠くなってきちゃった……。","哈啊啊……
+不知不觉就犯困了呢……",translated,依恩,a8c2ce98b7,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment02.txt#11#12,"少し疲れてるのかな？
+いつもより早いのに眠くなってきちゃった。","是不是稍微有点累了呀？
+明明比平时早，却已经犯困了呢。",translated,依恩,09ea59884d,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment02.txt#13#12,"あれ？
+まだ９時なんだ。","咦？
+现在才９点呀。",translated,依恩,e351ec2869,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment02.txt#16#12,少し早いけど、今日はもう寝ようかな。,虽然稍微早了点，不过今天就去睡了吧。,translated,依恩,a6eefe3a8c,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment02.txt#18#12,もうお風呂に入って寝ちゃおう……。,还是洗个澡赶紧去睡吧……,translated,依恩,bca4d64842,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment02.txt#20#12,"ちょうど切りがいいところだし、
+今日はもう休もうかな。","正好告一段落了，
+今天就先休息吧。",translated,依恩,1fdf34b52b,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment03.txt#9#12,あ、もうこんな時間なんだ。,啊，已经到这个时间了呀。,translated,依恩,e183897ce8,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment03.txt#11#12,ふぅ、そろそろいい時間だね。,呼，差不多到时间了呢。,translated,依恩,2494eff8b7,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment03.txt#13#12,あっ、そろそろお風呂に入っちゃわないと。,啊，差不多该去洗个澡了。,translated,依恩,fc3009c1df,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment03.txt#16#12,早く寝ないと明日寝坊しちゃうよ。,不早点睡的话明天要睡过头啦。,translated,依恩,699b19e8c8,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment03.txt#18#12,続きはまた明日にしようかな。,剩下的明天再继续做吧。,translated,依恩,7cc39b4943,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment03.txt#20#12,"もうちょっと起きてたかったけど、
+ちゃんと寝ないと体に悪いよね。","虽然还想再多醒一会儿，
+不过不好好睡觉对身体不好呢。",translated,依恩,8561e9f887,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment04.txt#9#12,"今日はそろそろ……って、あれ？
+もうこんな時間なんだ。","今天差不多该……等等，咦？
+已经到这个时间了呀。",translated,依恩,378e479ac6,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment04.txt#11#12,"あれ？
+もうこんな時間なの？","咦？
+都已经到这个时间了吗？",translated,依恩,fbb94e169d,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment04.txt#13#12,もうこんな時間……。,居然已经这个时间了……,translated,依恩,62b1f36b19,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment04.txt#16#12,ちょっと頑張りすぎちゃった。,稍微有点努力过头啦。,translated,依恩,4e0e466ba0,br=0 nl=0,1,
+inc/event/res/formatevent01/sleep_comment04.txt#18#12,"頑張りすぎちゃった。
+明日、ちゃんと起きれるかなぁ……","太努力过头啦。
+明天不知道能不能顺利爬起来呢……",translated,依恩,eb9445962e,br=0 nl=1,2,
+inc/event/res/formatevent01/sleep_comment04.txt#20#12,お風呂に入って、早く寝ないと……。,得去洗个澡，快点睡觉才行……,translated,依恩,20db93ae4a,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment01.txt#9#12,"んん～……。
+あれ？　まだこんな時間なんだ。","嗯嗯～……
+咦？现在才这个时间呀。",translated,依恩,0f5ea6a28e,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment01.txt#11#12,"ん……。
+まだ７時前……？","嗯……
+还不到７点……？",translated,依恩,7bff19121e,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment01.txt#13#12,"おはよ～……って、あれ？
+いつもより早い……。","早安～……等等，咦？
+比平时起得早呢……",translated,依恩,63997196ec,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment01.txt#16#12,"……まぁいっか。
+いつもより早いけど起きちゃおう。","……嘛，算了。
+虽然比平时早，不过就直接起来吧。",translated,依恩,3418fbe4b5,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment01.txt#18#12,"もうちょっと寝ててもいいんだけど、
+せっかくだから起きちゃおうかな。","虽然还可以再多睡一会儿，
+不过难得醒了就直接起来吧。",translated,依恩,78a91c2da1,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment01.txt#20#12,"目が覚めちゃったし、
+このまま起きちゃお。","既然都已经醒了，
+就索性直接起床吧。",translated,依恩,b09e2c60b5,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment02.txt#9#12,おはよう。,早安。,translated,依恩,25d7772f53,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment02.txt#11#12,ん～～！,嗯――！,translated,依恩,e959f4e755,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment02.txt#13#12,ふぁぁ、そろそろ起きなきゃ……。,哈啊，差不多该起床了……,translated,依恩,c061907fda,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment02.txt#16#12,今日もたくさんお話しようね。,今天也要多聊聊天哦。,translated,依恩,2977a3b2a8,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment02.txt#18#12,今日も良い日になりそう。,今天看起来也会是美好的一天。,translated,依恩,71c56052bc,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment02.txt#20#12,"まだちょっと眠いけど、
+そろそろ起きなきゃ。","虽然还有点困，
+不过差不多该起床啦。",translated,依恩,e922c46062,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment03.txt#9#12,ん？　あ、あれ？,嗯？啊、咦？,translated,依恩,c1978f01f0,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment03.txt#11#12,"ふぁぁ～。
+もうこんな時間。","哈啊～
+居然已经这个时间了。",translated,依恩,dc7c75fba0,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment03.txt#13#12,"んん～、いま何時――
+あれ？　８時過ぎてる。","唔～现在几点了――
+咦？已经过了８点了。",translated,依恩,072cd497fa,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment03.txt#16#12,"ちょっと寝坊しちゃった。
+すぐに起きなきゃ……。","稍微睡过头了。
+得马上起来才行……",translated,依恩,fa005f00fc,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment03.txt#18#12,"いつもより、ちょっとだけお寝坊さん
+だったみたい。","看来比平时稍微多睡了
+一会儿懒觉呢。",translated,依恩,5214815fe0,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment03.txt#20#12,"少し寝坊しちゃったみたい。
+ちょっと疲れてるのかな？","看来稍微睡过头了呢。
+是有点太累了吗？",translated,依恩,bf49ac1d1e,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment04.txt#9#12,"あ、あれ！？
+もうこんな時間！？","啊、咦！？
+已经这个时间了！？",translated,依恩,fcab5e2614,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment04.txt#11#12,ん～、朝……。,唔～早上了……,translated,依恩,791ae99eee,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment04.txt#12#12,ッ！？　もうこんな時間なの！？,！？居然已经这个时间了吗！？,translated,依恩,f2bf85cfc9,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment04.txt#14#12,"ん～、なんかいつもよりたくさん
+寝てた気が――","唔～总觉得好像比平时
+睡得久很多――",translated,依恩,13034c3c7a,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment04.txt#15#12,……って、本当に寝てた！,――等等，是真的睡过头了！,translated,依恩,5bc714fa0d,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment04.txt#18#12,"すっごい寝坊しちゃった！
+早く起きなきゃ！","大大地睡过头了！
+得快点起来才行！",translated,依恩,ff3edc252d,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment04.txt#20#12,うぅ、疲れてたのかなぁ……。,呜，是太累了吗……,translated,依恩,f2ab8ecc3a,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment04.txt#22#12,"寝坊しすぎだよ。
+早く起きなきゃ……。","睡过头睡得太离谱了啦。
+得赶紧起床才行……",translated,依恩,df55203b0f,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment05.txt#9#12,"んっ……そろそろ時間……。
+起こさなきゃ……。","唔……差不多到时间了……
+得去叫醒他才行……",translated,依恩,45bb655602,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment05.txt#11#12,"そろそろ、約束の時間……。
+もう起きてるかなぁ。","差不多到约好的时间了……
+他是不是已经醒了呀。",translated,依恩,71e29dbe4a,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment05.txt#13#12,あ、じ、時間……！,啊，到、到时间了……！,translated,依恩,3cfadb1d71,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment05.txt#14#12,"……良かったぁ。
+まだ約束の時間は過ぎてない。
+寝坊しちゃったのかと思ったよ。","……太好了。
+还没过约好的时间。
+我还以为自己睡过头了呢。",translated,依恩,3fc002b6a2,br=0 nl=2,3,
+inc/event/res/formatevent01/wakeup_comment06.txt#9#12,んん～、もう朝～？,嗯～已经早上了吗～？,translated,依恩,124f1dc7d2,br=0 nl=0,1,
+inc/event/res/formatevent01/wakeup_comment06.txt#11#12,"ふぇ？
+もう朝なの？","诶？
+已经是早上了吗？",translated,依恩,65a7965dfb,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment06.txt#13#12,"ふあぁぁ……。
+もう起きてたんだね。","哈啊啊……
+你已经起来了呀。",translated,依恩,548bfaff35,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment06.txt#16#12,"おはよう～。
+今日もよろしくね。","早安～。
+今天也请多关照哦。",translated,依恩,1a7a20e59c,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment06.txt#18#12,"まだちょっと寝たりない……。
+でも、頑張って起きるよ～。","感觉还没太睡够……
+不过，我会努力爬起来的哦～。",translated,依恩,58e7185231,br=0 nl=1,2,
+inc/event/res/formatevent01/wakeup_comment06.txt#20#12,"布団が気持ちいい……。
+けど、頑張って起きなきゃだね～。","被窝好舒服哦……
+不过，必须得努力起来了呢～。",translated,依恩,5f7b7cd943,br=0 nl=1,2,

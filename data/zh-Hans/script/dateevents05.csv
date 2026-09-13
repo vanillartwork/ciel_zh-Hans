@@ -1,0 +1,2138 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents05/back_kigae_spa.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents05/back_kigae_spa.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents05/date_bonus02_spa.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents05/date_bonus02_spa.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents05/date_bonus02_spa.txt#14#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents05/date_bonus02_spa.txt#16#12,まだ！！,还不够！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents05/date_bonus02_spa.txt#17#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents05/date_bonus02_spa.txt#19#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents05/date_bonus02_spa.txt#25#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents05/date_bonus02_spa.txt#27#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents05/date_initm_spa.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents05/date_initm_spa.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents05/date_initm_spa.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents05/date_initm_spa.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#14#12,お待たせ。温泉に行こう。,让你久等了。去温泉吧。,translated,,9c54232044,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#16#12,いますぐ行こう,马上就去吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents05/date_initm_spa.txt#21#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents05/date_initm_spa.txt#97#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents05/date_initm_spa.txt#99#12,<CLY2>イオンと温泉に行く約束をしました。,<CLY2>与依恩约好了一起去温泉。,translated,系统文本,cd0deb0c4f,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents05/date_initt_spa.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/date_init_spa.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents05/date_init_spa.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents05/date_init_spa.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents05/date_init_spa.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents05/date_init_spa.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents05/date_init_spa.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents05/date_init_spa.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents05/date_init_spa.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents05/date_init_spa.txt#34#12,イオンと温泉に行く,和依恩去温泉,translated,,dacb8af7eb,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#35#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#39#12,"ああっ！
+来た～っ♪","啊啊！
+你来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents05/date_init_spa.txt#45#12,ねえねえ、いる？,喂喂，你在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#48#12,あ・な・た～♪,亲～爱～的～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents05/date_init_spa.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#2#12,"準備はいい？
+それじゃあ、行こっか。","准备好了吗？
+那咱们出发吧。",translated,依恩,4977419b39,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#4#12,ん～、気持ちいー！！,嗯～，好舒服――！！,translated,依恩,26c9765ceb,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#5#12,"温泉っていいよねー。
+何だかこう、凄く落ち着くの。","温泉真棒呢～。
+总觉得好让人放松平静呀。",translated,依恩,f601818022,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#6#12,"家のお風呂も好きだけど、
+やっぱり温泉にはお風呂では感じられない、
+こう、不思議な安心感っていうのかな？","虽然我也喜欢家里的浴缸，
+但温泉果然有着在家里泡澡时感受不到的、
+怎么说呢，不可思议的安心感呢。",translated,依恩,86db57dc5f,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#7#12,"体の奥の奥から、ふぃ～……って、
+力が抜けちゃうんだよねぇ。","感觉整个人从身体最深处呼～地……
+彻底放松下来浑身脱力了呢。",translated,依恩,e1009a2227,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#8#12,ふぃ～……。,呼～……,translated,依恩,30469677fa,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#10#12,"はっ！？
+いけないいけない。
+寝ちゃうところだったよ。","哈！？
+不行不行。
+差点就睡着了啦。",translated,依恩,9382fdcc6c,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#12#12,温泉で寝るのは危ないよ,在温泉里睡觉很危险哦,translated,,848db3ac73,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#13#12,温泉で寝るのって気持ちいいよね,在温泉里睡觉很舒服呢,translated,,46348d75a2,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#15#12,えへへ、そうだよね。,诶嘿嘿，是呀。,translated,依恩,698a5ab734,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#16#12,"ただでさえお風呂と比べて熱いんだから、
+ここで寝たらのぼせちゃうよね。","本来这里就比家里的洗澡水要热，
+要是睡着了肯定会晕堂呢。",translated,依恩,1109096bb2,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#17#12,あ、溺れちゃう、の方が正しいかな？,啊，或者说会淹死才更准确吧？,translated,依恩,378e4178a4,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#18#12,"家のお風呂で寝ちゃった時に時々あるの。
+顔が浸かっちゃって鼻に水が入って、
+それでビックリして起きることが。","在家里浴缸睡着时偶尔会这样呢。
+脸沉进水里鼻子呛了水，
+然后就猛地吓醒过来。",translated,依恩,2f2db569b3,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#19#12,"気をつけてはいるんだけど、やっぱり、
+お風呂ってただ沈んでゆっくりしてる
+以外にすることがないでしょ？","虽然我有留心注意，但泡澡的时候，
+除了静静泡在里面放松以外，
+不也没有别的事可以做嘛？",translated,依恩,d6d9160f1e,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#20#12,"だからどうしてもゆっくりし過ぎて、
+いつの間にか寝ちゃうんだよね。","所以不知不觉就太放松了，
+一下子就睡过去了呢。",translated,依恩,2e3738439b,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#21#12,"でも、ここでなら寝ちゃったとしても、
+溺れる心配はないよね。","不过，在这里就算睡着了，
+也不用担心会淹死对吧。",translated,依恩,fd92084460,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#22#12,"だって、あなたが一緒にいてくれるから、
+わたしのこと見ててくれると思うし。","因为有你陪在我的身边，
+肯定会好好看着我的嘛。",translated,依恩,f41c2806d6,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#23#12,"わたしが寝てる間だったら、ちょっとだけ
+なら見てもいいからね。","在我睡着的时候，稍微看一看
+也是可以的哦。",translated,依恩,cf3667e8c5,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#24#12,"なんて、うそ。
+えへへ、期待しちゃった？","开玩笑的啦。
+诶嘿嘿，你期待了吗？",translated,依恩,7a5d060b60,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#27#12,わぁ、あなたもそう思う！？,哇，你也这么觉得吗！？,translated,依恩,4d3ccfd5be,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#28#12,"普通に入ってるだけで気持ち良いんだから、
+寝たらもっと気持ちよくなるのは当然……。","光是平时泡着就很舒服了，
+要是睡上一觉肯定更舒服啦……",translated,依恩,bdb34cb215,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#29#12,"って、開き直ったらダメだよね。
+危ないことなんだし。","不对，我可不能破罐子破摔呀。
+毕竟这可是很危险的事情呢。",translated,依恩,dc617863d9,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#30#12,"そういえば、プールには監視員さんが
+いつも見張っててくれるよね？","说起来，泳池里总是有安全员
+一直在旁边守着对吧？",translated,依恩,76668881ed,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#31#12,"それと同じで、温泉にも監視員さんを
+置くべきだよ。","和那个一样，温泉也应该
+安排安全员才对呀。",translated,依恩,ef1928ae66,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#32#12,"それで寝ちゃってる人が溺れないように、
+しっかり見張ってるの。","那样就能好好看着，
+别让睡着的人淹到了。",translated,依恩,fea52b4255,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#33#12,"それなら、みんな安心して温泉で
+眠れると思うのになぁ……。","要是那样的话，大家就能安心地
+在温泉里睡觉了嘛……",translated,依恩,d9c67650ab,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#34#12,"……あ、あれ？
+わたし、どうして温泉で寝るのが
+当然みたいなこと言ってるんだろう？","……诶、诶？
+我怎么说得好像在温泉里睡觉
+是理所当然的一样呀？",translated,依恩,4892a74582,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#35#12,"こんなこと考えてるから
+眠くなっちゃうんだよね。
+本当に気をつけないと……。","肯定就是因为净想这些，
+我才会犯困的呢。
+真的必须多加注意才行……",translated,依恩,8a0d3c3a24,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#37#12,"おや？
+イオンも来てたのか。","哎呀？
+依恩你也来了啊。",translated,妮莉库,59aae93ebf,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#38#12,えっ、その声は……。,诶，这个声音是……,translated,依恩,c4560ec1e9,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#40#12,"ねりこさんだ！！
+こんなところで何してるの？","是奈莉子小姐！！
+你在这地方做什么呢？",translated,依恩,d7ec6c3151,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#41#12,"温泉に来てすることといったら、
+一つしかなかろ。","来到温泉要做的事情，
+除了那个还能有什么嘛。",translated,妮莉库,fd1e68af54,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#42#12,"そうじゃなくて、どうして当たり前のように
+仮想世界にいるのか聞いてるんだけど……。","不是说这个啦，我是问你怎么会
+一副理所当然的样子待在虚拟世界里……",translated,依恩,2e2c622726,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#43#12,"イイ女には秘密が沢山あるものでな。
+聞かれた傍から答えては、ねりこさんの
+神秘的なイメージが崩れてしまうじゃろ。","极品女人身上总是充满秘密的。
+要是别人一问就答，奈莉子小姐
+神秘的形象不就全毁了嘛。",translated,妮莉库,5263092ead,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#44#12,"そ、そんな秘密にするようなことでもないと
+思うんだけど……。","我、我觉得这也不是什么
+需要保密的事情吧……",translated,依恩,a359899360,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#45#12,"あれ？
+ねりこさん、それって何？","咦？
+奈莉子小姐，那个是什么呀？",translated,依恩,d6fc84ce24,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#46#12,"ん、あぁこれか？
+温泉の友といえば、昔から酒と決まって
+おるでの♪","嗯，啊，这个吗？
+说到温泉的良伴，
+自古以来可非酒莫属呢♪",translated,妮莉库,9d150c5c8c,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#47#12,お酒？,酒？,translated,依恩,748a4ec46e,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#48#12,なんじゃ知らんのか！,什么嘛，难道你不知道吗！,translated,妮莉库,f33d817270,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#49#12,"こうして酒を載せた盆を湯に浮かべてな。
+景色を眺めながらちびちびやるのが、
+クールな大人の楽しみ方なのじゃ。","像这样把放着酒的托盘漂在温泉水上，
+一边眺望美景一边小酌一口，
+这才是帅气大人的享受方式哦。",translated,妮莉库,ca76a42f71,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#50#12,……そうだ、それだよ！！,……对呀，就是那个！！,translated,依恩,8fa9f1689e,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#51#12,"わたしも温泉に入りながら、
+何か飲み物を飲めばいいんだよ。","我也一边泡温泉，
+一边喝点饮料不就好了嘛。",translated,依恩,12626558c6,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#52#12,"そうすれば、温泉に浸かってても
+眠っちゃったりしないと思うの。","那样的话，就算泡在温泉里
+我想也不会犯困睡着了呢。",translated,依恩,b6d7a6bd46,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#54#12,お酒を飲むの？,你要喝酒吗？,translated,,2dd60fba9e,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#55#12,ジュースを飲むの？,你要喝果汁吗？,translated,,461976ccdf,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#57#12,"むっふっふ、それはよいそれはよい。
+ほれ、特別に我が酌をしてやろう！","唔呼呼，不错不错，很好很好。
+来，老身就破例替你斟酒一番吧！",translated,妮莉库,5d0b15f5a0,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#58#12,"お、お酒なんか飲まないよ！！
+まだ未成年だもん！","我、我才不喝酒呢！！
+人家还是未成年呢！",translated,依恩,2e6ec48760,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#59#12,ちっ……なんじゃなんじゃ、つまらんのう！,啧……搞什么搞什么嘛，真扫兴呐！,translated,妮莉库,214b721d4b,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#60#12,"お酒じゃなくて、普通の水とかジュースを
+飲もうかと思ってるの。","我打算不喝酒，喝普通的水
+或者果汁之类的啦。",translated,依恩,4c064717c6,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#61#12,"とりあえず何か飲んでいれば、のぼせたり
+眠っちゃったりはしないと思うしね。","总之只要嘴里喝着东西，
+应该就不会晕堂或者睡着了嘛。",translated,依恩,be9b1718b4,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#62#12,"イオンよ、ついでだから一つ、よいことを
+教えてやろう。","依恩啊，顺便老身教你一件
+大有益处的事情吧。",translated,妮莉库,6e4cbffd0f,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#63#12,"湯に浸かって酒を飲むとな……、
+通常より回りがよくなって……、
+あっという間によっぱらって……、","泡在温泉水里喝酒的话呐……
+酒气会比平时循环得更快……
+一眨眼就会酩酊大醉……",translated,妮莉库,926c5d08fd,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#64#12,眠ってしまう可能性があるんじゃーッ！！,有可能直接当场睡过去哦――！！,translated,妮莉库,86aa050b89,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#65#12,だから、お酒は飲まないってば！！,所以说，我都说了不喝酒啦！！,translated,依恩,7fec1512c7,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#68#12,"そうそう！
+ジュースでも冷えた水でもいいから、
+とにかく飲み物を用意するの。","对对！
+果汁也行，冰水也行，
+总之准备好饮品。",translated,依恩,c6d30a6386,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#69#12,"そうすれば、のぼせることもないと思うし、
+眠っちゃったりもしなくなると思うの。","那样的话我想就不会晕堂了，
+而且也不会犯困睡着了呢。",translated,依恩,ee2604cc9b,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#70#12,"イオンも酒の味を覚えても良い頃だと
+思うんじゃがのう……。
+悲しいのう……。寂しいのう……。","老身觉得依恩也差不多该尝尝
+酒是什么滋味了的说……
+真叫人伤感呐……真冷清呐……",translated,妮莉库,1616368d60,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#71#12,"む、無理だよぉ。
+だってわたし、未成年だもん。","不、不行的啦。
+因为人家是未成年嘛。",translated,依恩,cac837ae96,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#72#12,"それに、今ねりこさんの飲んでるお酒の
+匂いだけで、ちょっとふらふらして
+きちゃってるくらいだし……。","而且，光是现在闻着奈莉子小姐
+喝的酒的味道，
+我就已经有点晕乎乎的了……",translated,依恩,35457f00fd,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#74#12,"まあ、酒でも水でも何でも構わんか。
+我にとってはどっちも同じような物じゃ。","嘛，不管是酒是水什么都无所谓啦。
+在老身看来反正都差不多。",translated,妮莉库,f4506d8290,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#75#12,"しかし温泉に浸かって飲む以上、
+風情を楽しまねばなるまい！
+となれば……果然これが一等じゃ！","不过既然要泡在温泉里喝东西，
+那自然少不了附庸风雅一番！
+既然如此……果然还是这个最棒了！",translated,妮莉库,e06ed191f5,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#76#12,"これ、レシピカード？
+いいの、もらっちゃって？","这个，是配方卡？
+真的可以给我吗？",translated,依恩,e76dc47b9a,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#77#12,"むふふ。我とおまえさんの仲じゃからの。
+今度来る時は、それを持ってくるとよかろ。","唔呼呼。凭老身跟你的交情算什么嘛。
+下次来的时候，带上那个来就好啦。",translated,妮莉库,9c9c949eb9,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#78#12,ありがと、ねりこさん！,谢谢你，奈莉子小姐！,translated,依恩,5fc052c3bb,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#79#12,"ふぅ……何だかふらふらしてきちゃった。
+そろそろ上がろうかな？","呼……总觉得开始晕头转向了呢。
+差不多也该出浴了吧？",translated,依恩,b58bcd992a,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#80#12,"無理はいかんからの。
+イオンや、機会があればまた一緒に
+入ろうじゃないか。","千万不能勉强自己哦。
+小依恩啊，有机会的话
+咱们再一起泡温泉吧。",translated,妮莉库,4329de422e,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#81#12,"うん、そうだね。
+それじゃねりこさん、お先にー。","嗯，说得对呢。
+那奈莉子小姐，我先走一步啦～。",translated,依恩,0e1812e1ad,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#90#12,ふ～、サッパリしたー！,呼～，整个人神清气爽――！,translated,依恩,7e8dd1ec4c,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#91#12,"本当にお湯に浸かった訳じゃないけど、
+気分的に凄くサッパリできるよね。","虽说并不是真的泡在热水里，
+但在心情上感觉超级畅快舒爽呢。",translated,依恩,8538bdcf44,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#92#12,"っと、そういえばねりこさんから
+レシピカードもらったんだったっけ？","啊，说起来刚才从奈莉子小姐那里
+拿到了配方卡对吧？",translated,依恩,b2d59e95c7,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#93#12,えっと……コップ？,那个……水杯？,translated,依恩,dfcf1def00,br=0 nl=0,1,
+inc/event/res/dateevents05/masu01.txt#94#12,"これなら簡単に作れそうだね。
+えへへ、早く作って、また温泉行こうね。","这个的话感觉能很简单地做出来呢。
+诶嘿嘿，赶紧做出来，再去泡温泉吧。",translated,依恩,1ec0665582,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#95#12,"それじゃ、今日は付き合ってくれて
+ありがとね！","那么，今天谢谢你
+能陪着我哦！",translated,依恩,9212f1f287,br=0 nl=1,2,
+inc/event/res/dateevents05/masu01.txt#96#12,"<CLY2>レシピ【コップ？】が
+追加されました。","<CLY2>追加了配方
+【水杯？】。",translated,系统文本,429a8686a4,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents05/masu01.txt#102#14,"何かを飲みながら
+温泉に入るなんて
+風流だよね♪","一边喝着东西
+一边泡在温泉里，
+真是风雅别致呢♪",translated,,6d24d4ceca,br=0 nl=2,3,
+inc/event/res/dateevents05/masu01.txt#103#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/piyo01.txt#1#12,それじゃ、早速行こ。,那咱们赶快去吧。,translated,依恩,e7fc9884e2,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#3#12,ん～っ、いいお湯～！,嗯～，水温真舒服～！,translated,依恩,a06e3d0b5d,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#4#12,"ちょっと熱めだけど、外気の冷たさを
+感じながらだとすごく心地良い温度に
+感じられるんだよね？","虽然稍微有点烫，但一边感受着
+外面微凉的空气，就会觉得
+温度特别舒适怡人对吧？",translated,依恩,fd3e334bff,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#5#12,"こうやって静かに浸かってると、
+本当に落ち着くよ……。","像这样静静地泡在里面，
+心情真的好平静祥和呀……",translated,依恩,1cdec33196,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#7#12,よし、露天風呂のレシピを作ろう,好，来做露天风吕的配方吧,translated,,9defc28132,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#8#12,ちょっと立ち上がってみようか？,要不稍微站起来一下看看？,translated,,1708dd0ac1,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#10#12,あはは、それいいかもしれないね。,啊哈哈，说不定挺不错的呢。,translated,依恩,4351ed6804,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#11#12,"お庭に露天風呂があったら、仮想世界に
+来なくても毎日入れるし……。","要是院子里有露天风吕，
+不用来虚拟世界每天也能泡了……",translated,依恩,3f9a9d2a90,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#12#12,"あっ、ねりこさんも入りに来るかも。
+何となく温泉好きってイメージあるし。","啊，奈莉子小姐搞不好也会跑来泡。
+总觉得她给人一种很喜欢温泉的印象呢。",translated,依恩,2c8ec2d92f,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#13#12,"ただ、温泉が出るって保証がないから、
+レシピにするのは無理っぽいけど……。","不过，由于没法保证能挖出温泉来，
+要做成配方似乎不太可能就是了……",translated,依恩,3cf918c401,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#14#12,"それでも、もし作れるのがわかったら、
+いつか本当に作ってみたいな。","即便如此，要是知道真能做出来的话，
+哪天真想亲手做一个试试看呢。",translated,依恩,433d9f9424,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#18#12,うん、それじゃ……。,嗯，那我就……,translated,依恩,f67a8be09c,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#19#12,って、何させようとしてるの！？,不对，你到底想让我干嘛呀！？,translated,依恩,260bc39fd4,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#20#12,"気持ちよくてゆったりしてたから、
+ついやりそうになっちゃったよ……。","因为太舒服太放松了，
+我差点就顺着你照做了啦……",translated,依恩,6a6b79ae87,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#21#12,"もぉ、エッチなことばかり言うのは
+ダメだよ？","真是的，老是说些下流的话
+可不行哦？",translated,依恩,574180c764,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#23#12,"……そういえば、この温泉って、
+どうして柵で囲まれてるのかな？","……说起来，这个温泉，
+为什么会被栅栏围起来呢？",translated,依恩,c995fe9eb8,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#24#12,"露天風呂っていったら、温泉に入りながら
+眺められる景色も重要だと思うの。","要说是露天风吕，一边泡温泉
+一边眺望的景色也是很重要的嘛。",translated,依恩,83018727f0,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#25#12,"それなのに、こんな風に柵で囲まれたら、
+何となく外なのに圧迫感があるように
+感じない？","可是像这样被栅栏团团围住，
+难道你不觉得明明是在室外
+却总有种压迫感吗？",translated,依恩,60b5298663,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#26#12,"……まあ、温泉の構造に文句を言っても
+どうしようもないのはわかるけど。","……嘛，虽然我也知道去抱怨
+温泉的构造根本无济于事啦。",translated,依恩,20d8c8fd55,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#27#12,"でも、何か視覚的にも楽しめるような
+ものがあればいいのに……。","但要是能有什么在视觉上
+也能赏心悦目的东西就好了呢……",translated,依恩,a253884cf6,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#28#12,"お湯に浸かってるだけでも癒されるけど、
+それがプラスされれば効果が倍増すると
+思うの。","光是泡在热水里就很治愈了，
+要是能加上那个，
+我想效果肯定会倍增的。",translated,依恩,8d13fe88f9,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#29#12,何か良い方法ってないかなぁ？,有没有什么好办法呢？,translated,依恩,1f078e89d8,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#31#12,果物でも浮かべてみる？,要不试着漂几只水果？,translated,,4bb7dcac89,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#32#12,柵に風景画でも描いてみる？,要不在栅栏上画点风景画？,translated,,d19a990460,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#34#12,あっ、それいいかも！,啊，那个说不定很棒呢！,translated,依恩,67905057c9,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#35#12,"家のお風呂と違って温度も高いから、
+果物の香りも少し強めに出ると思うし……。","不同于家里的浴缸水温更高，
+水果的香气我想也会更浓烈一些……",translated,依恩,8db307a1e6,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#36#12,"それなら、視覚的にも嗅覚的にも
+すごく気に入ると思うよ！","那样的话，无论视觉还是嗅觉上
+肯定都会超级让人喜欢的！",translated,依恩,bbf7bb3a8e,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#37#12,"あっ……でも、家のお風呂と比べると
+大きいから、それなりの数の果物を
+用意する必要が出てくるんだ？","啊……不过，比起家里的浴缸
+这里大得多，所以相应地
+也得准备相当多数量的水果才行吧？",translated,依恩,c7d0d40fb8,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#38#12,"う～ん、さすがにそれは無理かも。
+良いアイデアだと思ったのに……。","唔～嗯，那果然还是有点勉强呢。
+我明明觉得是个很好的点子呢……",translated,依恩,b918105c58,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#42#12,"う、う～ん……悪くないアイデアだとは
+思うけど、それだと屋内温泉に入っても
+同じような気が……。","唔、唔～嗯……虽然也是个不坏的点子，
+但那样的话感觉跟在室内温泉里泡
+也没什么区别了呀……",translated,依恩,4c070aa393,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#43#12,"それに、これだけ大きな柵に絵を描くのは、
+結構大変な作業になると思うし。","而且，在这么大的栅栏上画画，
+感觉也会是一项相当费劲的大工程呢。",translated,依恩,4392e9d03f,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#45#12,"う～ん、何かもっと簡単にできて、
+視覚的に楽しめるような物……。","唔～嗯，有没有什么能更简单做到、
+在视觉上又能带来乐趣的东西呢……",translated,依恩,4341ecaada,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#46#12,"……あっ、そうだ！
+いいこと思いついたよ！","……啊，对啦！
+我想到了一个好主意！",translated,依恩,64b7fa9a27,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#47#12,"それなら、お風呂で遊ぶ時に使うおもちゃを
+持ってくればいいんじゃないかな？","既然这样，把平时在浴缸里玩的玩具
+带过来不就好了嘛？",translated,依恩,7dc0f63fd0,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#48#12,"温泉におもちゃを持ち込むのは、
+ちょっとだけマナー違反かもしれないけど。","把玩具带进温泉里，
+虽然可能稍微有点不合礼数啦。",translated,依恩,dab7d9ce42,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#49#12,"でも、ここはわたし以外のお客さんは
+入って来れないんだし、誰にも迷惑は
+かけなくてすむもん。","但是，这里除了我以外
+又没有别的客人会进来，
+根本用不着担心给别人添麻烦嘛。",translated,依恩,7d288620d2,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#50#12,"よーし、それで決まり！
+何を作るかも、大体決まったよ。","好嘞，就这么定了！
+要做什么东西，我也大致有着落啦。",translated,依恩,8bcfcebb6f,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#51#12,"それじゃ、丁度身体も温まったことだし、
+そろそろ帰ろっか。","那既然身子也正好暖和过来了，
+咱们差不多就回去吧。",translated,依恩,43764a10a3,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#53#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#54#12,"えへへ、これが完成すれば、今まで以上に
+温泉を楽しむことができるはずだよ。","诶嘿嘿，只要把这个做出来，
+肯定能比以往更加享受温泉的乐趣呢。",translated,依恩,0a1559ce24,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#55#12,"それじゃ、今日は急なお誘いだったのに、
+付き合ってくれてありがと。","那么，今天明明是我突然邀请，
+你还愿意陪着我，谢谢你啦。",translated,依恩,2b0951c63a,br=0 nl=1,2,
+inc/event/res/dateevents05/piyo01.txt#56#12,早く作って、また温泉に行こうね。,早点做出来，咱们再去温泉玩哦。,translated,依恩,f9449a95df,br=0 nl=0,1,
+inc/event/res/dateevents05/piyo01.txt#58#12,"<CLY2>レシピ【黄色い鳥？】が
+追加されました。","<CLY2>追加了配方
+【黄色的小鸟？】。",translated,系统文本,cf675ad84d,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents05/piyo01.txt#62#14,"風景を楽しめない
+露天風呂を楽しくする
+工夫、発見したよ！","我发现了一个能让
+无法欣赏风景的露天风吕
+变有趣的巧思哦！",translated,,59f51e3f60,br=0 nl=2,3,
+inc/event/res/dateevents05/piyo01.txt#63#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_bonus_tch1.txt#5#12,"<CLBU>顔にもお湯をかけないと、
+顔が滑々にならないよね？","<CLBU>脸上也得浇点热水，
+脸蛋才会变得光滑水嫩对吧？",translated,依恩,824a1a1c60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#6#12,"……まあ、現実に戻ったら温泉の効能も
+なかったことになるんだけど。","……嘛，虽说回到现实后
+温泉的功效也就当没发生过了就是啦。",translated,依恩,a076df77a4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#9#12,"<CLBU>顔が赤いのは、お湯が熱いから
+だけじゃないよ？","<CLBU>我脸红可不光是
+因为温泉水太烫哦？",translated,依恩,02a194fdc3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#10#12,"好きな人に見つめられれば、
+普通はこうなっちゃうよ。","被喜欢的人一直盯着看，
+一般人都会变成这样的啦。",translated,依恩,b0d774a123,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#18#12,"<CLBU>お湯の温度が高いから、
+肩まで浸かる必要はないの。","<CLBU>因为水温挺高的，
+用不着一直泡到肩膀哦。",translated,依恩,51205e0a09,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#19#12,"っていうか、そこまで浸かったら
+熱くてのぼせちゃうよ。","倒不如说，真泡到那里的话
+太烫了肯定会晕堂的啦。",translated,依恩,9f1a8769e2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#22#12,<CLBU>まさか、腕を組みたいの？,<CLBU>该不会，你想挽着手？,translated,依恩,24e3153f50,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#23#12,"温泉に浸かりながら腕を組むのって、
+何か間違ってるような……。","一边泡温泉一边挽着胳膊，
+总觉得哪里怪怪的……",translated,依恩,37c6d7595f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#26#12,"<CLBU>こ、この格好の時に触られるのは、
+やっぱり恥ずかしいかな……。","<CLBU>穿、穿成这个样子被你摸的话，
+果然还是超级害羞啦……",translated,依恩,a714445179,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#27#12,だから……ちょっとだけだよ？,所以……只能摸一下下哦？,translated,依恩,f74fec0018,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#35#12,"<CLBU>周りにバレないように、お湯の中で
+手を繋いで温泉に浸かりたいな。","<CLBU>真想在水底下悄悄牵着手，
+不被别人发现地一起泡温泉呢。",translated,依恩,2441f1569f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#36#12,"何だか、いけないことしてるみたいで、
+ドキドキすると思わない？","总觉得像是在做坏事一样，
+难道不觉得格外心跳加速吗？",translated,依恩,57873f143c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#39#12,"<CLBU>あなたも、実際にわたしと一緒に
+入れたらよかったのに……。","<CLBU>要是你也能真真切切地
+和我一起泡进来就好了呢……",translated,依恩,d194be8f3f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#40#12,"あっ、でもそうなったら、
+ドキドキし過ぎてこんな風に
+お話できないかな？","啊，但要是真那样的话，
+会不会因为太心跳不已
+而没法像这样正常聊天了呀？",translated,依恩,4929c994fa,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#43#12,"<CLBU>あなたとお話しながら入る温泉って、
+どうしてこんなに楽しいのかな？","<CLBU>和你一边聊天一边泡的温泉，
+为什么会这么开心呢？",translated,依恩,5508dcafbd,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#44#12,何だか、毎日来たい気分だよ。,感觉整个人每天都想来呢。,translated,依恩,2c3d428145,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#52#12,<CLBU>……あんまり、見ないでね？,<CLBU>……不要一直盯着我看哦？,translated,依恩,45af24e21e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#53#12,"<CLBU>恥ずかしくて、我慢できなく
+なっちゃいそうだし……。","<CLBU>不然太害羞了，
+我都快忍不住要逃跑了……",translated,依恩,54e3df2afa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#56#12,<CLBU>う～……恥ずかしくて、涙が出そうだよ。,<CLBU>呜～……太害羞了，眼泪都要掉下来了。,translated,依恩,febc52bace,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch1.txt#59#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#60#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#68#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#71#12,<CLBU>きゃっ、くすぐったい！,<CLBU>呀，好痒！,translated,依恩,aea8e965ee,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#72#12,"もぉ、やったなー！
+服を着てないから、いつもより
+敏感になってるのに！","真是的，你来真的啊――！
+人家又没穿衣服，
+明明比平时更敏感的说！",translated,依恩,53511d69d3,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#75#12,<CLBU>きゃぁっ！？,<CLBU>呀啊！？,translated,依恩,d5a250b112,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#76#12,"び、ビックリしたぁ……。
+もぉ、お湯の中からイタズラするのは
+ダメだよ！","吓、吓了我一大跳……
+真是的，不许从温泉水底下
+恶作剧啦！",translated,依恩,d811783008,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#88#12,"<CLBU>顔にもお湯をかけないと、
+顔が滑々にならないよね？","<CLBU>脸上也得浇点热水，
+脸蛋才会变得光滑水嫩对吧？",translated,依恩,824a1a1c60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#89#12,"……まあ、現実に戻ったら温泉の効能も
+なかったことになるんだけど。","……嘛，虽说回到现实后
+温泉的功效也就当没发生过了就是啦。",translated,依恩,a076df77a4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#92#12,<CLBU>もしかして、子ども扱いしてる？,<CLBU>难道说，你把我当小孩看了？,translated,依恩,dbe358bdcc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#93#12,"もぉ……これでも、あなたの恋人さん
+なんだよ？","真是的……人家好歹也是
+你的恋人呀？",translated,依恩,fa54e5bdf8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#96#12,"<CLBU>顔が赤いのは、お湯が熱いから
+だけじゃないよ？","<CLBU>我脸红可不光是
+因为温泉水太烫哦？",translated,依恩,02a194fdc3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#97#12,"好きな人に見つめられれば、
+普通はこうなっちゃうよ。","被喜欢的人一直盯着看，
+一般人都会变成这样的啦。",translated,依恩,b0d774a123,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#105#12,"<CLBU>お湯の温度が高いから、
+肩まで浸かる必要はないの。","<CLBU>因为水温挺高的，
+用不着一直泡到肩膀哦。",translated,依恩,51205e0a09,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#106#12,"っていうか、そこまで浸かったら
+熱くてのぼせちゃうよ。","倒不如说，真泡到那里的话
+太烫了肯定会晕堂的啦。",translated,依恩,9f1a8769e2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#109#12,<CLBU>まさか、腕を組みたいの？,<CLBU>该不会，你想挽着手？,translated,依恩,24e3153f50,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#110#12,"温泉に浸かりながら腕を組むのって、
+何か間違ってるような……。","一边泡温泉一边挽着胳膊，
+总觉得哪里怪怪的……",translated,依恩,37c6d7595f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#113#12,"<CLBU>こ、この格好の時に触られるのは、
+やっぱり恥ずかしいかな……。","<CLBU>穿、穿成这个样子被你摸的话，
+果然还是超级害羞啦……",translated,依恩,a714445179,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#114#12,だから……ちょっとだけだよ？,所以……只能摸一下下哦？,translated,依恩,f74fec0018,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#122#12,"<CLBU>周りにバレないように、お湯の中で
+手を繋いで温泉に浸かりたいな。","<CLBU>真想在水底下悄悄牵着手，
+不被别人发现地一起泡温泉呢。",translated,依恩,2441f1569f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#123#12,"何だか、いけないことしてるみたいで、
+ドキドキすると思わない？","总觉得像是在做坏事一样，
+难道不觉得格外心跳加速吗？",translated,依恩,57873f143c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#126#12,"<CLBU>あなたも、実際にわたしと一緒に
+入れたらよかったのに……。","<CLBU>要是你也能真真切切地
+和我一起泡进来就好了呢……",translated,依恩,d194be8f3f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#127#12,"あっ、でもそうなったら、
+ドキドキし過ぎてこんな風に
+お話できないかな？","啊，但要是真那样的话，
+会不会因为太心跳不已
+而没法像这样正常聊天了呀？",translated,依恩,4929c994fa,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#130#12,"<CLBU>あなたとお話しながら入る温泉って、
+どうしてこんなに楽しいのかな？","<CLBU>和你一边聊天一边泡的温泉，
+为什么会这么开心呢？",translated,依恩,5508dcafbd,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#131#12,何だか、毎日来たい気分だよ。,感觉整个人每天都想来呢。,translated,依恩,2c3d428145,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#139#12,<CLBU>……あんまり、見ないでね？,<CLBU>……不要一直盯着我看哦？,translated,依恩,45af24e21e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#140#12,"<CLBU>恥ずかしくて、我慢できなく
+なっちゃいそうだし……。","<CLBU>不然太害羞了，
+我都快忍不住要逃跑了……",translated,依恩,54e3df2afa,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#143#12,<CLBU>う～……恥ずかしくて、涙が出そうだよ。,<CLBU>呜～……太害羞了，眼泪都要掉下来了。,translated,依恩,febc52bace,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch1.txt#146#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#147#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#155#12,"<CLBU>もぉ、そんなふうにつんつんされたら、
+くすぐったくて笑っちゃいそうだよ。","<CLBU>真是的，被你那样戳来戳去，
+好痒痒我都快笑出来了啦。",translated,依恩,8da3f2c9cb,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#158#12,<CLBU>きゃっ、くすぐったい！,<CLBU>呀，好痒！,translated,依恩,aea8e965ee,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#159#12,"もぉ、やったなー！
+服を着てないから、いつもより
+敏感になってるのに！","真是的，你来真的啊――！
+人家又没穿衣服，
+明明比平时更敏感的说！",translated,依恩,53511d69d3,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#162#12,<CLBU>きゃぁっ！？,<CLBU>呀啊！？,translated,依恩,d5a250b112,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#163#12,"び、ビックリしたぁ……。
+もぉ、お湯の中からイタズラするのは
+ダメだよ！","吓、吓了我一大跳……
+真是的，不许从温泉水底下
+恶作剧啦！",translated,依恩,d811783008,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#175#12,<CLBU>あ、赤くなってるのは、お湯のせいだよ？,<CLBU>脸、脸红只是因为水温的关系哦？,translated,依恩,b0ba8b74d5,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch1.txt#176#12,"……でも、あなたに撫でられたら、
+もっと赤くなっちゃうかも。","……不过，要是被你摸摸头的话，
+可能会变得更红呢。",translated,依恩,ab6e1bafc7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#178#12,<CLBU>その……あんまり見ちゃ嫌だよ？,<CLBU>那个……不要一直盯着我看啦？,translated,依恩,a801ed56cb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#179#12,"トントンしてくれてるってことは、
+こっちを見てる、ってことでしょ？","你会咚咚戳我，也就是说
+你正在看着我这边对吧？",translated,依恩,9753109c6e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#181#12,<CLBU>あっ、ううん、大丈夫！,<CLBU>啊，没事，不要紧的！,translated,依恩,fc2da85b85,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#182#12,"ちょっとぼーっとしちゃってたみたい。
+トントンしてくれてありがと。","我刚才好像稍微有点发呆了呢。
+谢谢你敲了敲我。",translated,依恩,5ebfb88b5b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#188#12,<CLBU>肩まで浸かれ、って言ってるの？,<CLBU>你是让我泡到肩膀吗？,translated,依恩,00e4124476,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#189#12,"ここのお湯って熱いから、
+これくらいでも十分温まるよ。","这里的水温挺热的，
+泡到这个程度就足够暖和了啦。",translated,依恩,73eb79d701,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#191#12,<CLBU>温泉効果で、お肌プルプルだよ。,<CLBU>多亏了温泉效果，皮肤水水嫩嫩的哦。,translated,依恩,5bc268651c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#192#12,"えへへ……つんつんし過ぎると、
+病み付きになっちゃうかも。","诶嘿嘿……戳得太多的话，
+搞不好会让人上瘾的哦。",translated,依恩,031073cb55,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#194#12,<CLBU>ひゃっ！？,<CLBU>呀啊！？,translated,依恩,2e347e1e65,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#195#12,"ちょ、ちょっと冷たく感じて、
+ビックリしちゃった……。
+温泉に入ってるからかな？","感、感觉稍微有点凉凉的，
+吓了我一跳……
+大概是因为正在泡温泉吧？",translated,依恩,2fe8524457,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#201#12,"<CLBU>良い景色を眺めながら、あなたと手を繋いで
+入る温泉は格別だね。","<CLBU>一边眺望美景，一边和你牵着手
+泡的温泉果然格外特别呢。",translated,依恩,0bd0755b42,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents05/spa_bonus_tch1.txt#203#12,<CLBU>えへへ……ちょっと、意外かも。,<CLBU>诶嘿嘿……稍微有点意外呢。,translated,依恩,6b7bc3e88a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#204#12,"あなたのことだから、もっと違うところ
+触られるかと思っちゃった。","按照你的性格，我还以为
+会被摸别的地方呢。",translated,依恩,82d0495155,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#206#12,"<CLBU>あなたと一緒に入ると楽しいし、
+いつかはお家でも……。","<CLBU>和你一起泡好开心，
+哪天在家里也……",translated,依恩,9a2e32f298,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#207#12,"な、なんてね～。
+やっぱり、温泉とお風呂は別だよ。","开、开玩笑的啦～。
+温泉和家里的浴缸毕竟不一样嘛。",translated,依恩,0b8c955d81,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#213#12,<CLBU>もう……あなたならすると思ってたよ。,<CLBU>真是的……我就知道你会这么干啦。,translated,依恩,6c2a861052,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#214#12,"この格好のときにされると、
+余計に恥ずかしいかも……。","在穿成这副模样的时候被你摸，
+感觉人格外害羞呢……",translated,依恩,2e108c5cc1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#216#12,<CLBU>ひゃぅっ！？,<CLBU>呀呜！？,translated,依恩,1614c673a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#217#12,"バ、バスタオルしか着けてないんだから、
+その、えっと…。","我、我身上可只围了一条大浴巾呀，
+那个，怎么说……",translated,依恩,8640405630,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#219#12,"<CLBU>ば、バスタオルしかつけてないんだから、
+その、えっと……。","<CLBU>我、我身上可只裹了一条大浴巾呀，
+那个，怎么说……",translated,依恩,b02a86d116,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch1.txt#220#12,……変なところ触らないでね、いい？,……可不许摸奇怪的地方哦，好吗？,translated,依恩,0202ed4765,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#226#12,"<CLBU>や、やだ……。
+そんなに胸を凝視されたら……。","<CLBU>不、不要啦……
+被你那么直勾勾盯着胸口看的话……",translated,依恩,f7c3a657ab,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#227#12,"って、あれ？
+もしかして、お腹見てるの？","不对，咦？
+难道说，你是在看肚子吗？",translated,依恩,714e2e3ebb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#229#12,<CLBU>きゃっ、くすぐったい！,<CLBU>呀，好痒！,translated,依恩,aea8e965ee,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#230#12,"もぉ、お湯の中でイタズラする子は
+誰ですか～？","真是的，在温泉水底下
+恶作剧的坏孩子是谁呀～？",translated,依恩,21470d6a48,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch1.txt#232#12,<CLBU>もう、くすぐったいよぉ。,<CLBU>真是的，好痒痒啦。,translated,依恩,eca7005d70,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch1.txt#233#12,どうしてお腹をトントンするの？,为什么总是咚咚戳我的肚子呀？,translated,依恩,c035bc8f07,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#5#12,"<CLBU>えへへ……温泉に入ってるおかげで、
+顔が赤くなってるのを見られても
+恥ずかしくないよ。","<CLBU>诶嘿嘿……多亏了是在泡温泉，
+就算被你看到我脸红
+也不会觉得难为情呢。",translated,依恩,224faa8829,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#8#12,"<CLBU>お、お風呂の中でのなでなでは、
+いつもよりドキドキするよ……。","<CLBU>在、在浴池里被你抚摸，
+比平时更让人心跳加速呢……",translated,依恩,dcb029c1df,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#11#12,<CLBU>ふふっ……なんだか、ちょっとビックリ。,<CLBU>呵呵……总觉得稍微有点吃惊呢。,translated,依恩,41393ec8c1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch2.txt#12#12,"あなたのことだから、胸ばっかり
+見つめられると思ってたから……。","按照你的性格，我还以为
+你肯定会一直盯着胸口看呢……",translated,依恩,49402d0b48,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#20#12,"<CLBU>え、えっと……心配しなくても、
+ちゃんとお湯に浸かってるから平気だよ。","<CLBU>诶、那个……不用担心啦，
+我有好好泡在热水里，没事的。",translated,依恩,2ad46c0022,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#23#12,<CLBU>はふ～……すごく気持ちいいよ……。,<CLBU>哈呼～……超级舒服的哦……,translated,依恩,f669eb87d0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#24#12,"毎日の作業で疲れが溜まってたみたい。
+マッサージ、もう少し続けてもらえる？","每天忙着干活好像积攒了不少疲劳呢。
+按摩能帮我再多按一会儿吗？",translated,依恩,bdd012affd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#27#12,"<CLBU>わかるかな？
+わたしの肌、結構すべすべなんだよ。","<CLBU>感觉得出来吗？
+我的皮肤其实还挺光滑的哦。",translated,依恩,ec9102a1ce,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#28#12,"あなたが、いつもわたしのことを
+撫でてくれるからかな？","大概是因为你平时
+总会像这样温柔抚摸我的缘故吧？",translated,依恩,92c084047e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#36#12,"<CLBU>機械作りで精密作業をするから、
+手はしっかりと休ませないとね。","<CLBU>平时做机械老要做些精细活儿，
+双手必须好好休息放松才行呢。",translated,依恩,3ab3ff0127,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#39#12,"<CLBU>えへへ……手を繋いでると、
+余計に熱くなってきちゃいそうだよ。","<CLBU>诶嘿嘿……手牵着手，
+感觉整个人反而变得更加燥热了呢。",translated,依恩,1097a82701,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#40#12,"もしのぼせちゃったら、
+その時は助けてね？","要是我真的晕堂了，
+到时候可要救我哦？",translated,依恩,1ecfe4da0b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#44#12,"こうして、ただ手を握り合いながら
+時間が過ぎていくのも、結構いいかも……。","像这样仅仅彼此紧握着双手
+任由时间静静流逝，感觉也挺不错的呢……",translated,依恩,e5c92681e4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#52#12,"<CLBU>も、もしもーし……胸にすごい視線を
+感じるんですけどー？","<CLBU>喂、喂喂――我感觉有股灼热的视线
+一直钉在人家胸口上耶――？",translated,依恩,09da05222e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#53#12,"……ま、まあ、触られるよりは良い、
+と思うべきなのかな？","……嘛、嘛，我是不是应该庆幸
+至少比直接上手摸要好呢？",translated,依恩,772b89ea3a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#56#12,<CLBU>む～……。,<CLBU>唔～……,translated,依恩,b0e71807cb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#57#12,……泣いちゃうよ？,……我要哭出来了哦？,translated,依恩,a97b983840,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#60#12,<CLBU>あっ、だ、ダメだってば！,<CLBU>啊，都、都说了不可以啦！,translated,依恩,ca24486c61,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#61#12,ほとんど裸に近い格好なんだから……。,人家身上几乎跟光着没两样嘛……,translated,依恩,8155473bb6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#69#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#70#12,"う～、何だか胸の方まで触られそうで、
+落ち着かないよぉ……","呜～总觉得下一秒就要摸到胸口了，
+心里七上八下的啦……",translated,依恩,00d2144ee5,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#73#12,"<CLBU>ば、バスタオルしかつけてないんだから、
+お腹でも恥ずかしいよ……。","<CLBU>我、我身上可就围了条浴巾，
+就算是摸肚子也很害羞啦……",translated,依恩,541ee9073d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch2.txt#76#12,"<CLBU>そっと撫でてくれるなら、
+ちょっとは我慢するよ。","<CLBU>要是你只是轻轻抚摸的话，
+我稍微忍耐一下也是可以的啦。",translated,依恩,3c9e235f62,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#77#12,"恥ずかしいけど、あなたに撫でてもらうと
+落ち着く感じもするしね。","虽然害羞，但只要被你摸摸，
+不知为何就会觉得很安心呢。",translated,依恩,f8e3d42a2a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#89#12,"<CLBU>えへへ……温泉に入ってるおかげで、
+顔が赤くなってるのを見られても
+恥ずかしくないよ。","<CLBU>诶嘿嘿……多亏了是在泡温泉，
+就算被你看到我脸红
+也不会觉得难为情呢。",translated,依恩,224faa8829,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#92#12,"<CLBU>お、お風呂の中でのなでなでは、
+いつもよりドキドキするよ……。","<CLBU>在、在浴池里被你抚摸，
+比平时更让人心跳加速呢……",translated,依恩,dcb029c1df,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#95#12,<CLBU>ふふっ……なんだか、ちょっとビックリ。,<CLBU>呵呵……总觉得稍微有点吃惊呢。,translated,依恩,41393ec8c1,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch2.txt#96#12,"あなたのことだから、胸ばっかり
+見つめられると思ってたから……。","按照你的性格，我还以为
+你肯定会一直盯着胸口看呢……",translated,依恩,49402d0b48,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#104#12,"<CLBU>え、えっと……心配しなくても、
+ちゃんとお湯に浸かってるから平気だよ。","<CLBU>诶、那个……不用担心啦，
+我有好好泡在热水里，没事的。",translated,依恩,2ad46c0022,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#107#12,<CLBU>はふ～……すごく気持ちいいよ……。,<CLBU>哈呼～……超级舒服的哦……,translated,依恩,f669eb87d0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#108#12,"毎日の作業で疲れが溜まってたみたい。
+マッサージ、もう少し続けてもらえる？","每天忙着干活好像积攒了不少疲劳呢。
+按摩能帮我再多按一会儿吗？",translated,依恩,bdd012affd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#111#12,"<CLBU>わかるかな？
+わたしの肌、結構すべすべなんだよ。","<CLBU>感觉得出来吗？
+我的皮肤其实还挺光滑的哦。",translated,依恩,ec9102a1ce,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#112#12,"あなたが、いつもわたしのことを
+撫でてくれるからかな？","大概是因为你平时
+总会像这样温柔抚摸我的缘故吧？",translated,依恩,92c084047e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#120#12,"<CLBU>機械作りで精密作業をするから、
+手はしっかりと休ませないとね。","<CLBU>平时做机械老要做些精细活儿，
+双手必须好好休息放松才行呢。",translated,依恩,3ab3ff0127,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#123#12,"<CLBU>えへへ……手を繋いでると、
+余計に熱くなってきちゃいそうだよ。","<CLBU>诶嘿嘿……手牵着手，
+感觉整个人反而变得更加燥热了呢。",translated,依恩,1097a82701,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#124#12,"もしのぼせちゃったら、
+その時は助けてね？","要是我真的晕堂了，
+到时候可要救我哦？",translated,依恩,1ecfe4da0b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#128#12,"こうして、ただ手を握り合いながら
+時間が過ぎていくのも、結構いいかも……。","像这样仅仅彼此紧握着双手
+任由时间静静流逝，感觉也挺不错的呢……",translated,依恩,e5c92681e4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#136#12,"<CLBU>も、もしもーし……胸にすごい視線を
+感じるんですけどー？","<CLBU>喂、喂喂――我感觉有股灼热的视线
+一直钉在人家胸口上耶――？",translated,依恩,09da05222e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#137#12,"……ま、まあ、触られるよりは良い、
+と思うべきなのかな？","……嘛、嘛，我是不是应该庆幸
+至少比直接上手摸要好呢？",translated,依恩,772b89ea3a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#140#12,<CLBU>む～……。,<CLBU>唔～……,translated,依恩,b0e71807cb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#141#12,……泣いちゃうよ？,……我要哭出来了哦？,translated,依恩,a97b983840,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#144#12,<CLBU>あっ、だ、ダメだってば！,<CLBU>啊，都、都说了不可以啦！,translated,依恩,ca24486c61,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#145#12,ほとんど裸に近い格好なんだから……。,人家身上几乎跟光着没两样嘛……,translated,依恩,8155473bb6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#153#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#154#12,"う～、何だか胸の方まで触られそうで、
+落ち着かないよぉ……","呜～总觉得下一秒就要摸到胸口了，
+心里七上八下的啦……",translated,依恩,00d2144ee5,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#157#12,"<CLBU>ば、バスタオルしかつけてないんだから、
+お腹でも恥ずかしいよ……。","<CLBU>我、我身上可就围了条浴巾，
+就算是摸肚子也很害羞啦……",translated,依恩,541ee9073d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch2.txt#160#12,"<CLBU>そっと撫でてくれるなら、
+ちょっとは我慢するよ。","<CLBU>要是你只是轻轻抚摸的话，
+我稍微忍耐一下也是可以的啦。",translated,依恩,3c9e235f62,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#161#12,"恥ずかしいけど、あなたに撫でてもらうと
+落ち着く感じもするしね。","虽然害羞，但只要被你摸摸，
+不知为何就会觉得很安心呢。",translated,依恩,f8e3d42a2a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#173#12,<CLBU>汗、拭いてくれるの？,<CLBU>你是要帮我擦汗吗？,translated,依恩,39e9a009ed,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#174#12,えへへ……スッキリスッキリ♪,诶嘿嘿……清清爽爽♪,translated,依恩,1f08cdea72,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#176#12,"<CLBU>え、えへへ……
+嬉しくて、のぼせちゃいそうだよ。","<CLBU>诶、诶嘿嘿……
+高兴得我都快要晕堂了啦。",translated,依恩,1fa5b3c861,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#177#12,そうなった時は、助けてくれるよね？,真变成那样的话，你会救我的对吧？,translated,依恩,f09a5bdc67,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#179#12,"<CLBU>う～……やっぱり、温泉で触られるのは、
+ちょっと恥ずかしいよぉ……。","<CLBU>呜～……在温泉里被摸，
+果然还是有点太难为情了啦……",translated,依恩,b33bb6291a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents05/spa_bonus_tch2.txt#180#12,"胸がすごくドキドキしてるし……
+頭、くらくらしてきそう。","心脏砰砰跳得好厉害……
+脑袋都快要晕乎乎的了。",translated,依恩,6d688de3aa,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#186#12,<CLBU>えへへ、温泉効果でお肌すべすべだよ。,<CLBU>诶嘿嘿，多亏了温泉效果，皮肤滑滑的哦。,translated,依恩,31eba7b421,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#188#12,"<CLBU>お風呂よりも温度が高いから、
+肩まで浸かる必要がないの。","<CLBU>因为比家里的浴缸温度高，
+用不着一直泡到肩膀哦。",translated,依恩,78b2e8da4e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#189#12,その証拠に、ちゃんと温まってるでしょ？,作为证据，你看我现在浑身都很暖和吧？,translated,依恩,41bdb33266,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#191#12,"<CLBU>お風呂の中でなでてもらうのって、
+すごく気持ちいいね。","<CLBU>在浴池里被你抚摸，
+真的感觉好舒服呀。",translated,依恩,2d660ee4f4,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#197#12,<CLBU>温泉に入りながらお湯の中で手を繋ぐ……。,<CLBU>泡在温泉里，在温水中悄悄牵手……,translated,依恩,bd0d0cf82a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents05/spa_bonus_tch2.txt#198#12,それって、すごく素敵だと思わない？,你不觉得那样非常浪漫动人吗？,translated,依恩,674f1daadf,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#200#12,"<CLBU>温泉で手を繋ぐのって、
+いつもよりドキドキすると思わない？","<CLBU>在温泉里牵手，难道你不觉得
+比平时更让人心跳加速吗？",translated,依恩,779780a6b1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#201#12,やっぱり、こんな格好だからかな？,果然是因为穿成了这副模样吗？,translated,依恩,c8821407c4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#203#12,<CLBU>あなたの手って、温かいよね？,<CLBU>你的手心，真的很温暖呢？,translated,依恩,62624af1bd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#204#12,"温泉のお湯とは違う、優しい温かさを
+感じるの……本当だよ。","能感受到不同于温泉热水的、
+温柔暖意哦……是真的啦。",translated,依恩,8c16171c41,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#210#12,<CLBU>あ、あの……。,<CLBU>那、那个……,translated,依恩,e1f5ac629b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#212#12,"<CLBU>あ、あの……そんなに凝視しても、
+見えないと思うよ？","<CLBU>那、那个……就算那么目不转睛地看，
+我想也是看不出什么的哦？",translated,依恩,99430b7616,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#218#12,<CLBU>ちょっと温まり過ぎたかな？,<CLBU>是不是泡得有点太暖和了呢？,translated,依恩,fc6b74be9e,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#219#12,お腹、すごく熱くなっちゃってるよね？,肚子变得超级热乎了对吧？,translated,依恩,113d9f8eda,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#221#12,"<CLBU>お腹流してくれるの？
+それじゃあお願いして……。","<CLBU>你要帮我冲洗肚子吗？
+那就拜托你……",translated,依恩,b9a13ff3c2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#222#12,"あれ？
+普通は背中だったような……。","咦？
+按常理好像一般都是冲洗后背吧……",translated,依恩,c1537a821e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_bonus_tch2.txt#224#12,<CLBU>あ、あんまり触ったらダメだよ？,<CLBU>可、可不能摸得太频繁哦？,translated,依恩,9451def998,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_bonus_tch2.txt#225#12,"うぅ……お部屋で触られてるときよりも
+緊張するよぉ……。","呜呜……比在房间里被你摸
+还要让人紧张得多啦……",translated,依恩,acfb377f19,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_datego01.txt#6#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_datego01.txt#7#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_datego01.txt#9#12,えへへ♪　お待たせ～。,诶嘿嘿♪ 让你久等啦～。,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego02.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego03.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#3#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#4#12,"あのね、その…
+大した用事じゃ無いんだけど…。","那个呀，怎么说呢……
+虽然也不是什么大不了的事啦……",translated,依恩,8ac2a08fda,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategom.txt#5#12,その、ね…ほら……えっと…,那个，你看……就是……那个……,translated,依恩,16a24a569b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#6#12,"また、デートしたいな～とか
+思っちゃったりして…その……。","我想着……要是能再去约会就好了呢～
+那个……",translated,依恩,9169fedd88,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategom.txt#7#12,"お、思いきって温泉に行くのもいいかなって
+思うんだけど……！","我、我想着干脆鼓起勇气
+再去一次温泉也挺不错的……！",translated,依恩,97ede04f8e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategom.txt#8#12,"そ、それで！
+予定…どうかな？","所、所以说！
+你的安排……如何呢？",translated,依恩,7f310da9bc,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategom.txt#9#12,もちろん大丈夫,当然没问题,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#10#12,今週はちょっと無理かも,这周可能稍微有点抽不开身,translated,,85c8c99542,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#12#12,ほ、ホント！？,真、真的吗！？,translated,依恩,f8a88926a8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#13#12,"よかったぁ……。
+断られたらどうしようかと思っちゃった。","太好啦……
+我还一直在想要是被你拒绝了该怎么办呢。",translated,依恩,c9d926291b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategom.txt#18#12,そっかぁ…残念。,这样啊……真遗憾。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_dategom.txt#19#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents05/spa_kigae.txt#4#12,"えっと、温泉だからバスタオルを
+巻いてった方がいいのかな……。","那个，既然是去温泉，
+是不是裹上大浴巾去会比较好呢……",translated,依恩,ed9de76126,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_kigae.txt#5#12,そうだね,是啊,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#6#12,何も着ない方が……,什么都不穿会更好……,translated,,dfdc5a20d2,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#8#12,…うーん………。,……唔――……,translated,依恩,643f2d1cbf,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#10#12,"うん、この方が雰囲気出るし、
+やっぱりバスタオルに着替えた方がいいよね。","嗯，这样更有氛围感，
+果然还是换上大浴巾比较好呢。",translated,依恩,4eebacf645,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_kigae.txt#21#12,"やっぱりそう思う？
+それじゃあ、バスタオルを巻いておくね。","你也这么觉得吗？
+那我就裹上大浴巾啦。",translated,依恩,806676cb73,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_kigae.txt#32#12,"え？　えぇ！？
+いきなり何言ってるの！？
+そんなの絶対に無理だよ！","诶？诶诶！？
+你突然在胡说些什么呀！？
+那种事绝对不可能啦！",translated,依恩,6e4b207b7c,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_kigae.txt#33#12,バスタオル！　バスタオルを巻くから！,浴巾！我会裹上大浴巾的啦！,translated,依恩,a855a0caaf,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#44#12,おまたせ～♪,久等啦～♪,translated,依恩,a17ce62072,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#48#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#49#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#50#12,かわいい！！,好可爱！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#52#12,も、もう、エッチなんだから……。,真、真是的，你太下流了啦……,translated,依恩,716e9ae3ab,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_kigae.txt#55#12,"ええっ……な、なんか恥ずかしい。
+でも、嬉しいかも…♪","诶诶……总、总觉得好害羞。
+不过，心里也挺开心的…♪",translated,依恩,461c4fd10d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_pt02.txt#2#12,ふぅ～、ただいまー。,呼～，我回来啦～。,translated,依恩,be613041d4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_pt02.txt#4#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_pt02.txt#6#12,"ただいま～。
+温泉、気持ちよかったね。","我回来啦～。
+温泉泡得真舒服呢。",translated,依恩,bc2e10701b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_pt03.txt#2#12,"今日は付き合ってくれて、ありがとう。
+少し恥ずかしかったけど、楽しかったよ。","今天谢谢你陪着我。
+虽然稍微有点害羞，但真的玩得很开心哦。",translated,依恩,50f558a22e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_pt03.txt#4#12,また一緒に温泉に行こうね。,下次再去温泉玩哦。,translated,依恩,f441cda525,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_pt03.txt#6#12,"今日は付き合ってくれてありがと。
+また一緒に行こうね。","今天谢谢你陪我。
+下次再一起去哦。",translated,依恩,17d962f435,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_pt03.txt#8#12,"一緒に行ってくれてありがと。
+また行こうね。","谢谢你陪我一起去。
+下次再去哦。",translated,依恩,4c7335eed0,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#3#12,それじゃ、行こっか。,那咱们出发吧。,translated,依恩,2e44017be4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#5#12,えっと、き、来ちゃった……ね。,那个，来、来都来了……呢。,translated,依恩,c67022a568,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#6#12,"なんかやっぱり、部屋の中でバスタオル姿を
+見られるのとは、ちょっと違うね。","总觉得跟在房间里被你看到
+裹着大浴巾的模样，稍微有点不一样呢。",translated,依恩,dfa12877b1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#7#12,"温泉に入ってるってだけの違いなのに
+どうしてだろう？","明明区别仅仅只是在泡温泉而已，
+这是为什么呢？",translated,依恩,db3be6dcd4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#8#12,ある意味でこれも温泉の効果なのかな……。,某种意义上这也是温泉的效果吗……,translated,依恩,fce85f406e,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#10#12,混浴は男の夢,混浴可是男人的梦想,translated,,7525d34554,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#11#12,気にしすぎだよ,你想太多啦,translated,,f8df20be1d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#13#12,そ、そうなの？,是、是这样吗？,translated,依恩,84fcdfe281,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#14#12,"なんかそう言われると、
+余計に恥ずかしい気が……。","听你这么一说，
+总觉得反而更加难为情了……",translated,依恩,bac8c1c572,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#18#12,そうかな？,是吗？,translated,依恩,14df58a342,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#19#12,"ん～、でもそうなのかも。
+意識しすぎちゃってるのかな……。","嗯～，不过搞不好真是这样呢。
+可能是我自己太在意了吧……",translated,依恩,76c3934fd7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#22#12,"……あれ？
+今思ったんだけど、なんか来たときよりも
+温泉が気持ちよく感じるような……。","……咦？
+我突然觉得，温泉好像比刚来的时候
+泡着更舒服了呢……",translated,依恩,8c2161687f,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s01.txt#23#12,"やっぱり覚悟してきたから、
+少しは緊張が和らいでるのかも。","果然是因为心里已经做好了觉悟，
+紧张感多少有所缓和了吧。",translated,依恩,2978fa6f66,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#24#12,"前はずっと緊張しっぱなしで、
+満足に温泉を楽しめなかったから。","上次一直紧绷着神经，
+都没能尽情享受温泉呢。",translated,依恩,92420e3e71,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#26#12,もう緊張してない？,已经不紧张了吗？,translated,,6d4f99a6e9,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#28#12,緊張は……前よりはしてないかな。,紧张嘛……可能比之前好多了吧。,translated,依恩,d10074aea4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#29#12,"でもやっぱり恥ずかしいし、
+ドキドキしちゃうよ……。","不过果然还是很害羞，
+而且心跳好快呀……",translated,依恩,5f51414034,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#30#12,"こうやって一緒にお風呂に入るなんて、
+普通ならなかったと思うし……。","像这样一起泡在浴池里，
+平时根本不可能有这种机会的嘛……",translated,依恩,a02e342283,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#31#12,"……そういえば、あなたの世界では
+こういうのって普通だったりするの？","……说起来，在你的世界里，
+这种事情很常见吗？",translated,依恩,14dacb1cd8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#33#12,あんまりない,并不常见,translated,,90e23ae444,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#34#12,割と普通,还挺普遍的,translated,,3c5a7468e3,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#36#12,"そ、そうだよね。
+なんかちょっと安心しちゃった……。","也、也是呢。
+不知怎么的感觉稍微松了一口气……",translated,依恩,2c277f40a6,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#40#12,あぅ……そうなんだ。,呜……是这样啊。,translated,依恩,37726aaa28,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#43#12,"けど、混浴って知らない人も入って
+来たりするんだよね……？","但是，混浴不是也会有
+陌生人跑进来泡的吗……？",translated,依恩,c8d27baea8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#44#12,"ここみたいに二人きりならまだいいかも
+しれないけど、知らない人に見られるのは
+ちょっと嫌……かな","像这里一样只有我们两个人或许还好，
+但要是被陌生人看到的话，
+我还是有点抗拒……吧。",translated,依恩,31e19915f9,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s01.txt#45#12,"タオルを巻いてたって、
+裸であることには変わりないんだもん。","就算裹着浴巾，
+归根结底跟光着身子也没两样嘛。",translated,依恩,8f0e1cbff7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#47#12,じゃあ、じっくりみても,那我仔细看个够也可以咯,translated,,5e8e1ec95f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#49#12,だ、ダメだってば！,不、都说了不行啦！,translated,依恩,32e1d17810,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#50#12,"知らない人よりはいいってだけで、
+その……見られて恥ずかしくないわけ
+じゃないんだから……。","我只是说比起陌生人要好一点，
+那个……又不是说被你看着
+我就不害羞了……",translated,依恩,bf96b6a484,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s01.txt#51#12,あんまりジロジロ見ちゃ嫌だよ……。,别一直目不转睛地盯着看啦……,translated,依恩,433a6319ad,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#53#12,ごめん,对不起,translated,,573351f8aa,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#55#12,あっ……わたしこそごめんなさい。,啊……我才该说对不起呢。,translated,依恩,6f4276b3dd,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#56#12,"こっちから誘ったのに、
+こんなこと言ったらあなたに悪いよね。","明明是我主动邀请你的，
+还说这种话真对不住你呢。",translated,依恩,7527c5cc43,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#57#12,えっと……今日のところは帰らない？,那个……今天咱们就先回去好吗？,translated,依恩,d94a87dec4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#59#12,そうだね、帰ろう,好呀，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#62#12,"ただいま～。
+やっぱり、混浴は緊張しちゃうね……。","我回来啦～。
+混浴果然还是让人紧张呢……",translated,依恩,69d113acdf,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#63#12,"でも、少しずつ慣れてきてるから、
+次はもう少し平気かも……。","不过，我也在一点点习惯了，
+下次说不定能更坦然一些……",translated,依恩,076efe81fc,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#64#12,"心の準備ができたら、
+また誘ってもいいかな？","等我做好心理准备了，
+还可以再约你吗？",translated,依恩,e65838e447,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s01.txt#66#12,準備ができるのを待ってる,我会等做好准备的,translated,,989480bbd2,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#68#12,うん、ありがとう。,嗯，谢谢你。,translated,依恩,7bc153c9f7,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s01.txt#73#14,"温泉って恥ずかしい。
+知らない人に見られたり
+しませんように……。","温泉真让人害羞。
+但愿千万不要
+被陌生人看到……",translated,,515e687e80,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s01.txt#74#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s02.txt#3#12,それじゃ、行こっか。,那咱们出发吧。,translated,依恩,2e44017be4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#5#12,ま、また来ちゃった……ね。,又、又跑来了……呢。,translated,依恩,df170ea25b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#6#12,"でも、前来たときよりずっと平気かも。
+もう三回目だからかな……。","不过，感觉比上次来要从容得多呢。
+大概是因为已经是第三次了吧……",translated,依恩,b2ef0b72f2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#7#12,"そういえば、最初もその次も
+温泉のお話、全然してなかったね。","说起来，第一次和第二次
+我们都完全没聊过关于温泉的话题呢。",translated,依恩,a71360798e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#8#12,"せっかく、こういう場所にいるんだし、
+温泉のことお話してみたいな。","难得身处这样的地方，
+真想聊聊温泉的事情呢。",translated,依恩,50dac02e48,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#9#12,"う～ん……といっても、
+わたしは温泉のことを知ってはいたけど、
+あくまでもお風呂としてなの……。","唔～嗯……虽说如此，
+我虽然知道温泉，
+但归根结底只是把它当作大号浴缸……",translated,依恩,16fa4080f9,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#11#12,お風呂として？,当作浴缸？,translated,,d4107233bb,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#13#12,うん、そうだよ。,嗯，是呀。,translated,依恩,077a00b3ae,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#14#12,"温泉がどうやって出来てるのかとか、
+どういう種類があるのかってことくらいかな。","大概也就是温泉是怎么形成的，
+或者有哪些种类之类的吧。",translated,依恩,960bb710b7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#15#12,"温泉が地熱で温められた地下水ってことは
+知ってるでしょ？","温泉是受到地热加热的地下水，
+这个你肯定知道对吧？",translated,依恩,b0d085ff5f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#16#12,"けど、地下水も色々な温められ方があって、
+それでいくつかの種類に分けられるの。","但是，地下水也有很多种不同的受热方式，
+因此也可以划分成好几种分类哦。",translated,依恩,eacdb293bb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#17#12,"大きく分けると、
+火山性温泉と非火山性温泉かな。","大致上可以划分为
+火山性温泉和非火山性温泉吧。",translated,依恩,71030fac5d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#18#12,"非火山性温泉は、地温勾配っていう地下深い
+ほど温度が高くなる深層熱水と
+熱源不明のものがあるんだって。","听说非火山性温泉里，有因为地温梯度
+导致越到地下深处温度越高的深层热水，
+也有热源不明的温泉呢。",translated,依恩,5f114daa4d,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#19#12,"熱源不明のものはいろんな説があるらしい
+けど、どれも仮説みたいで、
+はっきりとした原因が分かってないの。","据说关于热源不明的温泉有很多种说法，
+但似乎都只是假说，
+还没有明确找出确凿的原因呢。",translated,依恩,f0712edc0c,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#21#12,温泉マニア？,你是温泉发烧友？,translated,,82f20d0766,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#23#12,"ち、違うってば！
+たまたま！　たまたまだよ！？","才、才不是啦！
+碰巧！只是碰巧看到的啦！？",translated,依恩,2c9ec73700,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#24#12,"前にねりこさんのところで見つけて、
+時間があるときに、
+そういう本を読んでみたことがあるの。","之前在奈莉子小姐那里看到过，
+我有空的时候，
+就试着翻阅过那样的书啦。",translated,依恩,8f513b647c,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#25#12,"ちょっとした興味本位だったんだけど、
+読んでみると意外と面白くて……。","虽然当时只是出于一点好奇心，
+但读起来却意外地很有意思……",translated,依恩,dc4cff1c3d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#26#12,"“知ってるようで知らない自然界の事象”
+って、本だったかな？","书名好像是叫
+“似懂非懂的自然界现象”来着？",translated,依恩,f0648866fe,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#27#12,"自然に発生する事象がどうやって
+起きてるのかって簡単にまとめた雑学本。","是把自然界发生的现象是如何产生的
+给做了一个简单归纳的杂学书。",translated,依恩,4a1547b93c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#28#12,"あぁいうのって、なるほど～って感じで、
+面白いんだよ。","那种书读起来总会让人觉得“原来如此～”，
+特别有意思呢。",translated,依恩,0ffd014aef,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#29#12,"まぁ、その……雑学なだけに
+実際に役に立つことは、
+ほとんどないんだけどね。","嘛，怎么说呢……正因为是杂学，
+在现实中能派上用场的情况
+几乎是没有的啦。",translated,依恩,b8e65ea0c1,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#31#12,それでもすごい,即便如此也很厉害,translated,,8a8fe13ca9,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#32#12,覚えてるのがびっくり,居然能记住真让我吃惊,translated,,3c7c0fd3ea,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#34#12,そ、そう？,是、是吗？,translated,依恩,8a03c96912,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#35#12,えへへ、読んでてよかったぁ。,诶嘿嘿，真庆幸当时看过了呢。,translated,依恩,72f791863a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#39#12,"えへへ、一度読んだ本の内容は
+けっこう覚えてられるの。","诶嘿嘿，只要读过一次的书的内容，
+我一般都能记得相当牢固哦。",translated,依恩,09de4d3f61,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#40#12,もちろん、忘れちゃうこともあるけどね。,当然啦，偶尔也会有忘掉的时候就是了。,translated,依恩,7e87c9c5be,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#43#12,"でも、なんか知識自慢してるみたいに
+なっちゃったけど、よかったのかな？","不过，感觉刚才好像有点在炫耀学识一样，
+真的没关系吗？",translated,依恩,e4544abafc,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#44#12,"もっとこう、二人で盛り上がれるような
+話題の方がよかったよね……？","明明换成更能让我们两个人聊得热火朝天的
+话题会比较好吧……？",translated,依恩,27e3f8eea2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#46#12,けっこう面白い,我觉得挺有意思的,translated,,2b6f5de511,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#47#12,もっとイチャイチャしたい,想更亲热亲热,translated,,e2a117d82a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#49#12,えへへ、よかったぁ。,诶嘿嘿，太好啦。,translated,依恩,e80482146c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#50#12,"それじゃあ、また面白そうなものがあったら
+調べておくね。","那如果还有别的看似有趣的知识，
+我会去查一查的哦。",translated,依恩,0e8f49e44e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#54#12,はぅ、い、イチャイチャって……。,呜，打、打情骂俏什么的……,translated,依恩,9a84383948,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#57#12,"なんか、お話が終わったら、
+また恥ずかしくなってきちゃった……。","不知怎么的，话题一聊完，
+我又开始觉得害羞起来了……",translated,依恩,932c7eea92,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#58#12,"のぼせちゃいそうだし、
+今日はそろそろ帰ろっか。","感觉快要晕堂了，
+今天差不多就回去吧。",translated,依恩,7d996bd0c0,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#60#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#61#12,そうだね、帰ろう,说得对，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#67#12,えへへ、もうだいぶ慣れてきたね。,诶嘿嘿，已经相当习惯了呢。,translated,依恩,a428c81966,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s02.txt#68#12,"これなら、次からは緊張しないで、
+あなたとの温泉を楽しめそうだよ。","这样的话，下次应该就不会紧张，
+能尽情享受和你一起泡温泉的乐趣了哦。",translated,依恩,b3e45dab27,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s02.txt#73#14,"温泉って色々な出来方が
+あるんだよ？
+面白いよね♪","温泉原来有各种各样的
+形成方式呢？
+很有趣吧♪",translated,,db82236caf,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s02.txt#74#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s03.txt#2#12,"えへへ、今日は少し長めに
+入りたい気分かも。","诶嘿嘿，今天心情好，
+感觉想多泡一会儿呢。",translated,依恩,5a23881d68,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#3#12,それじゃ、出発するよ。,那么，出发啦。,translated,依恩,0f328e75f1,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#5#12,ん～っ……気持ちいいー！,嗯～……好舒服――！,translated,依恩,376cbf3d4a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#6#12,"やっぱり、温泉の気持ちよさは
+家のお風呂とは比べ物にならないね。","温泉的舒服感，
+果然根本不是家里的浴缸能比的呢。",translated,依恩,ddcdcf9f16,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#7#12,"お湯の中で、グーッ、と体を伸ばすのって、
+すごく気持ちがいいよ。","在温泉水里舒――服地伸个懒腰，
+感觉特别畅快哦。",translated,依恩,a5529a38c8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#8#12,"あなたもやってみて。
+ほら、体をグーッ、て。","你也试着做做看嘛。
+来，把身子舒――展一下。",translated,依恩,fc6310e98e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#10#12,今日は恥ずかしがらないの？,你今天不害羞了吗？,translated,,525ddbe222,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#12#12,えっ、どうして？,诶，为什么呀？,translated,依恩,36c3f58be2,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#13#12,"だって、わたし達ってもう、
+お付き合いしてるんだよ？","因为，我们两个现在明明
+已经在交往了呀？",translated,依恩,edd96e11ee,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#14#12,"恋人同士なら、一緒に温泉に入るくらい
+当然のことだもん。","既然是情侣，一起泡个温泉什么的
+本就是理所当然的事情嘛。",translated,依恩,fafb11c119,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#15#12,"楽しいな、とは思うけど、
+恥ずかしいとは思わないよ。","虽然会觉得很开心，
+但可不会觉得有什么好害羞的啦。",translated,依恩,d2350d87e5,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#16#12,それに……。,而且……,translated,依恩,edf9c3758e,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#17#12,"こ、告白の時の恥ずかしさに比べたら、
+これくらいどうってことないよ。","比起告、告白时的害羞程度，
+现在这点小事根本就算不了什么啦。",translated,依恩,6038b0fec0,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#18#12,えへへ……変かな？,诶嘿嘿……很奇怪吗？,translated,依恩,17c0efa929,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#20#12,あの時は確かに恥ずかしかった,那时候确实让人难为情呢,translated,,cc4f880e0b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#21#12,（ジッとイオンの胸を見つめる）,（目不转睛地凝视着依恩的胸口）,translated,,dafd52b1c6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#23#12,やっぱり、あなたもそう思う？,果然你也这么觉得吗？,translated,依恩,35668af914,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#24#12,"それに比べたら、一緒にお風呂に
+入るくらい……。","比起那个，一起泡个澡
+这种程度……",translated,依恩,44ab33747f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#25#12,え、えっと……。,那个，呃……,translated,依恩,e39c2b10a8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#28#12,"……もしもーし。
+どこ見てるんですかー？","……喂――？
+你在看哪里呢――？",translated,依恩,f96d338d99,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#29#12,えへへ……本当、あなたってエッチだね。,诶嘿嘿……你可真是个大色狼呢。,translated,依恩,ae72463897,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#30#12,……まだ見てるでしょ？,……还在看对吧？,translated,依恩,8aa13e2b0c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#33#12,"何だか、改めて一緒にお風呂に入ってるって
+思ったら、恥ずかしくなってきちゃった。","总觉得，一重新意识到我们是一起在泡澡，
+就变得不好意思起来了。",translated,依恩,e8981c9675,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#34#12,"やっぱり、二人で温泉に浸かって
+仲良くお話しするのは、もう少し
+時間が必要みたい……。","看来，想要两个人一起泡着温泉
+亲密地聊天，还需要
+稍微花点时间适应呢……",translated,依恩,8fca0115ab,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s03.txt#36#12,付き合い始めたばかりだからね,毕竟我们才刚开始交往呢,translated,,47cf71a1a6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#38#12,言われてみると、そうだよね。,听你这么一说，也确实呢。,translated,依恩,dc9a6006f4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#39#12,"恋人ならこれくらいは当然、と思っても、
+なったからすぐに、っていうのは、
+ちょっと急過ぎたかも……。","就算觉得恋人间这样很正常，
+可刚确立关系就立刻这样，
+可能还是有些太仓促了吧……",translated,依恩,8b56b67e4d,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s03.txt#40#12,"……でも、恥ずかしがらなくなるのも、
+そんなに遠くはないかもしれないよ。","……不过，变得不再害羞的那一天，
+说不定很快就会到来哦。",translated,依恩,5b13d23245,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#41#12,"わたしたち、お付き合いを始める前から
+こうして一緒に温泉に入ってるんだもん。","毕竟我们在开始交往前，
+就已经像这样一起泡温泉了嘛。",translated,依恩,f7df7f174c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#42#12,"さすがに、そろそろ慣れないと
+いけない頃だと思うし……って、あれ？","按理说也差不多该习惯了
+才是……咦，等等？",translated,依恩,e8058d4e07,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#43#12,"わたし達、お付き合いをする前から
+一緒に温泉入ってたよね？","我们……在交往之前
+就一直在一起泡温泉了吧？",translated,依恩,d760530132,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#44#12,"あ、改めて考えると、それってすごく
+問題があるような気が……。","仔、仔细想想，那样做感觉
+问题非常大啊……",translated,依恩,72d43701d4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#46#12,意外と大胆な性格なんだね,原来你意外地很大胆呢,translated,,95258a5a9b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#47#12,混浴だから問題なし,反正都是混浴，没问题的,translated,,2fb35f90b8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#49#12,"ち、違うよ！
+勘違いしないで！","才、才不是呢！
+你不要误会啦！",translated,依恩,1124a58f64,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#52#12,"そもそもここが本当に混浴なのかも
+わからないままなんだけど……。","话说到底这里是不是混浴，
+我都一直还不清楚呢……",translated,依恩,d8e8bb436e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#53#12,"で、でも、あなた以外の人がいたら、
+多分すぐに帰ってたと思うの。","可、可是，如果有你以外的人在，
+我肯定立刻就回去啦。",translated,依恩,3660309e90,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#55#12,"あなたはわたしにとって、出会った時から
+特別な存在だったの。","对我而言，从相遇的那一刻起，
+你就是特别的存在。",translated,依恩,3688136f43,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#56#12,"ずっと一人ぼっちだったわたしの前に
+現れた、特別な人……。","出现在孤身一人的我面前的，
+特别之人……",translated,依恩,293acea84f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#57#12,"だから、一緒に温泉に入るのにも
+そんなに抵抗がなかったの。","所以，和你一起泡温泉的时候，
+才完全没有抵抗感呢。",translated,依恩,10c2a4cb10,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#58#12,"わたし、誰とでも温泉に入れるような
+子じゃないもん。","我可不是能随随便便
+和任何人一起泡温泉的女孩子哦。",translated,依恩,f07593b645,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#59#12,"あなた以外の人と入るなんて……
+想像もしたくないよ。","要是跟除你以外的人一起泡……
+我连想都不敢想呢。",translated,依恩,63dbbf0a3f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#60#12,……信じてもらえないかもしれないけど。,……虽然你可能不信就是了。,translated,依恩,533ce3e383,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#62#12,そういう子じゃないってわかってる,我知道你不是那样的女孩子,translated,,bb260324d8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#63#12,信じてるからお風呂も一緒に入ろう,我相信你，所以再一起泡个澡吧,translated,,084eef0a4a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#65#12,"ほっ……そう言ってもらえて、
+本当に安心したよ。","呼……听你这么说，
+我真的安心多了呢。",translated,依恩,7d2d6415ac,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#66#12,"あなたには、わたしの生活はもちろん、
+夢セカイまで見てもらってるんだもん。","毕竟你不仅了解我的日常生活，
+就连我的梦世界也都看过了呢。",translated,依恩,8e4df5615d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#67#12,"それなのに信じてもらえなかったら
+どうしよう、って思ってたけど……
+そうならなくてよかった。","要是即使这样你也不肯相信我，
+我真不知道该怎么办才好……
+幸好没有变成那样呢。",translated,依恩,51b1acd850,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s03.txt#68#12,"これからも、ずっとわたしのことを
+見ててほしいな。","今后我也希望你能
+一直注视着我呢。",translated,依恩,a3607df0a4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#72#12,"う、う～ん……信じてもらえたのは
+嬉しいけど、それは無理かも。","唔、唔～……虽然你能相信我
+很高兴，但那可不行哦。",translated,依恩,92aa0b4f50,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#73#12,"だって、一緒にお風呂に入るには、
+端末を移動させないといけないでしょ？","因为如果要一起泡澡的话，
+就必须把终端搬过去对吧？",translated,依恩,3e9e98ab04,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#74#12,一応精密機械だから、水場は厳禁だよ。,毕竟是精密机械，绝对不能碰水的。,translated,依恩,f005843745,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#75#12,"それで端末が壊れて、あなたとお別れに
+なったりしたら嫌だもん。","万一终端坏掉导致不得不和你分别，
+我才不要那样呢。",translated,依恩,1254779de0,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#76#12,あなたとはもっと、その……。,我还想和你更加，那个……,translated,依恩,aa3a2201ec,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#77#12,ら、ラブラブなこと、沢山したいしね。,做、做很多甜甜蜜蜜的事情呢。,translated,依恩,771ff8d89f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#79#12,"え、えへへ……
+何か、急に熱くなってきちゃったかも。","诶、诶嘿嘿……
+怎么感觉，突然变得好热了呢。",translated,依恩,8841a8ccbd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#80#12,湯あたりする前に戻ろっか？,在晕堂之前先回去吧？,translated,依恩,96a0f90459,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#82#12,帰る前にマッサージをしようか,回去前要不要来做个按摩？,translated,,efe95d30bd,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#83#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s03.txt#89#12,"う～ん……やっぱり、まだ恥ずかしさを
+克服できなかったのが残念だよ。","唔～……结果还是没能
+克服害羞，真遗憾呢。",translated,依恩,3fe2623c61,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#90#12,"今日はちょっと大胆なところを見せて、
+ビックリさせたかったんだけど……。","今天本来还想展现一下大胆的一面，
+吓你一跳来着……",translated,依恩,214e208f7b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#91#12,"や、やっぱり、そういうのはもっと
+仲が深まるまでお預けだね。","果然那种事情，还是要留到
+关系变得更亲密之后再说呢。",translated,依恩,094072bdfb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s03.txt#96#14,"恋人同士なら、一緒に
+温泉に入るくらいは
+普通……だよね？","既然是恋人，一起
+泡个温泉这种事
+应该很普通……对吧？",translated,,e47ef2b34a,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s03.txt#97#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s04.txt#2#12,早く温泉に入って、ゆっくりしよっと。,早点泡进温泉里，好好放松一下吧。,translated,依恩,795353c46b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#3#12,それじゃ、しゅっぱーつ！,那么，出――发！,translated,依恩,61fd8fd71b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#5#12,ん～っ、いい気持ちー！,嗯――，好舒服啊！,translated,依恩,955dba7e28,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#6#12,"こうして入ってると、毎日の疲れが
+消えていくのを感じるよ。","像这样泡着，能感觉每天的疲惫
+都在渐渐消散呢。",translated,依恩,19805c5d7a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#7#12,"温泉はもう少し来る回数を増やしても
+いいんじゃないかな？","来温泉的次数稍微再多增加一点
+感觉也不错呢？",translated,依恩,5e2b94d913,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#8#12,あなたはどう思う？,你觉得怎么样？,translated,依恩,722e66ad74,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#10#12,賛成、目の保養になるよ,赞成，还能大饱眼福呢,translated,,d35dabe8eb,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#11#12,お風呂で満足できなくなりそう,感觉普通泡澡会没法满足了,translated,,85badb24b3,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#13#12,も、もぉ……またそういうこと言って……。,真、真是的……又说这种话……,translated,依恩,65d9cb3c57,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#14#12,"でも、あなたは実際に温泉に入れるわけじゃ
+ないから、お湯に浸かってのんびりとは
+出来ないんだよね？","不过，你又不是真的能泡进温泉里，
+所以没办法亲自浸在热水里
+好好放松对吧？",translated,依恩,6ad3736f4a,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#15#12,"それなら、せめて目の保養くらいは
+多めに見るべきなのかな？","既然这样，至少大饱眼福这种程度
+我是不是该睁一只眼闭一只眼呢？",translated,依恩,5b0464a026,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#16#12,"う～、どうしてわたし、こんなこと
+本気で考えてるんだろう？","唔～，我为什么会这么认真地
+去思考这种事情啊？",translated,依恩,35bee9d0fe,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#19#12,あっ、確かにそれはありそうかも……。,啊，确实很有可能呢……,translated,依恩,40d707be78,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#20#12,"わたしの部屋のお風呂じゃ、
+こんなに広くないから、
+ゆったり体を広げたりは出来ないの。","我房间里的浴室
+没有这么宽敞，
+所以没办法舒舒服服地伸展身体呢。",translated,依恩,ace5c4af02,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#21#12,"それに、ここで入っても現実のわたしの
+体が綺麗になるわけでもないし。","而且，就算在这里泡，现实中我的
+身体也不会真的变干净。",translated,依恩,e85a403681,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#22#12,"あくまでも、温泉気分を楽しめるだけ、
+っていうのを忘れちゃダメだね。","归根结底只是享受温泉的气氛而已，
+可千万不能忘了这点呢。",translated,依恩,9f1a081909,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#25#12,"あっ、話は変わるけど、
+温泉にも色んなのがあるよね？","啊，换个话题，
+温泉其实也有各种各样的类型吧？",translated,依恩,1de986f1d1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#26#12,"ここみたいに大きな露天風呂の他にも、
+小さいのだったり、屋内のだったり。","除了像这里这么大的露天风吕，
+也有小巧的，或者室内的。",translated,依恩,25949df819,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#27#12,"それでわたし、一つ入ってみたいなぁ、
+って思った温泉があるの。","然后我啊，有一个很想去泡泡看
+的温泉类型呢。",translated,依恩,55842c0138,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#28#12,"本で読んだんだけど、旅館によっては、
+プライベート用の温泉の付いた部屋が
+あるんだって。","我在书上读到的，有些旅馆里
+会有附带私人专用温泉的
+房间哦。",translated,依恩,29ea290545,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#29#12,"わたしね、それに入ってみたいな、って
+思ってるの……。","我啊，想要试着去泡泡看那个，
+一直这么想着呢……",translated,依恩,afa939485a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#30#12,"家族向けの少し大きめのじゃなくて、
+新婚さんやカップル向けの、
+ちょっと小さいのがいいな。","不是家庭用的那种稍大一点的，
+而是新婚夫妇或情侣专用的、
+稍微小巧一点的就挺好。",translated,依恩,ff6c09f7fe,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#32#12,のんびりできるかな？,能放松得下来吗？,translated,,9fbdb8c848,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#34#12,その点は大丈夫みたいだよ？,那一点似乎没问题哦？,translated,依恩,e605a2e470,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#35#12,"小さいとはいっても、体を伸ばして
+入れるくらいの広さはあるみたいだし。","虽说比较小，但好像也有
+能舒展身体泡进去的宽敞度。",translated,依恩,92c4a2762c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#36#12,"あくまでも二人用の大きさだから、
+ここに比べたら小さいけど……。","不过毕竟是两人用的大小，
+比起这里肯定是要小很多啦……",translated,依恩,7c7c462479,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#37#12,"でも、カップル向けだもん。
+普通の温泉よりも、くっついて
+入ることができるでしょ？","但是，毕竟是情侣专用的嘛。
+比起普通的温泉，不就能挨得
+更加紧密地一起泡了吗？",translated,依恩,fc4acfccd8,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#38#12,"並んで入ったら、肩が触れ合うくらいの
+小さい温泉……。","如果并排泡进去，肩膀都会相碰的
+小巧温泉……",translated,依恩,8a72208d1f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#39#12,"普通よりドキドキすると思うから、
+ちょっと湯あたりして、あなたの肩に
+頭を乗せてみたりして……。","感觉会比平时更心跳加速，
+然后稍微有点晕堂，再把头靠在
+你的肩膀上之类的……",translated,依恩,14e97a520d,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#40#12,えへへ……そういうの、憧れてるの。,诶嘿嘿……我很憧憬那种感觉呢。,translated,依恩,1d13f34ae4,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#42#12,そっちの温泉に移ろう,那换去那边的温泉吧,translated,,210a70dac5,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#43#12,気が休まらない温泉だね,那可是个让人无法放松的温泉呢,translated,,c5fb3b566a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#45#12,"わたしも、出来ることなら
+今すぐにでも移りたいとは思うけど……。","我也觉得要是可以的话，
+真想现在就立刻换过去呢……",translated,依恩,c9526893c8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#46#12,"でもここ、プライベート用の
+温泉ってないみたいなの。","可是这里好像并没有
+私人专用的温泉呢。",translated,依恩,02f56a0fc4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#47#12,"他にも露天風呂はあるらしいけど、
+作りはこことほとんど変わらない
+みたいだし……。","听说虽然还有其他的露天风吕，
+但构造好像跟这里
+基本上没什么分别呢……",translated,依恩,8f976050f3,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#48#12,"せっかく、あなたも興味を持ってくれた
+みたいなのに……残念……。","难得你似乎也提起兴趣来了……
+真遗憾……",translated,依恩,f871778d53,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#52#12,あはは……確かにそうだね。,啊哈哈……确实是那样呢。,translated,依恩,b83ff84aff,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#53#12,"普通に入るのとは違って、
+体も心も休まらないとは思うよ。","比起普通地泡澡，
+身心肯定都没办法好好放松呢。",translated,依恩,36ae24cbef,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#54#12,"……でも、その分幸せな気持ちに
+なれるんじゃないかな？","……但是，相对地不也能变得
+更加幸福吗？",translated,依恩,e7e55ea1c8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#55#12,"だって、想像してるだけでも
+自然と笑顔になっちゃうもん。","毕竟光是想象一下，
+嘴角就会自然而然地扬起来嘛。",translated,依恩,fa32339cb2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#56#12,"残念なのは、ここにはプライベート用の
+温泉はない、ってことだね。","可惜的是，这里并没有
+私人专用的温泉呢。",translated,依恩,8c77f09d9e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#58#12,"まあ、やろうと思えばここでもくっついて
+入ることができないわけじゃないよ？","不过，真要想做的话，在这里也不是
+不能贴在一起泡啦？",translated,依恩,7862b06eb1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#59#12,"でも、それだと広い温泉に入っている
+意味がなくなっちゃう気もするし。","但是那样一来，感觉特意来泡
+这么宽敞的温泉就失去意义了呢。",translated,依恩,6166cdd169,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#60#12,う～ん……何かいい方法はないかな？,唔～……就没有什么好办法吗？,translated,依恩,9c91da8c4d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#62#12,家のお風呂に入ろう,去泡家里的浴室吧,translated,,563300cc73,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#64#12,"それって、現実のわたしの部屋にある
+お風呂、ってことだよね？","你说的，是指现实中我房间里的
+浴室对吧？",translated,依恩,4d04cc0f23,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#65#12,"さすがにそれは無理だよ。
+だってわたしの部屋のお風呂って、
+普通の大きさだよ？","那未免太勉强啦。
+因为我房间里的浴缸，
+就只是普通大小哦？",translated,依恩,5e4097464b,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#66#12,"二人並んで入れる大きさじゃないから、
+体育座りで窮屈な感じで入らなくちゃ
+いけなくなっちゃうし……。","根本不是两个人能并排泡的大小，
+不得不像抱膝坐着那样挤在一起
+泡进去才行呢……",translated,依恩,c61a5c0e70,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#67#12,"第一、あなたを浴槽まで
+動かすことが出来ないよ。","最关键的是，我也没办法
+把你移动到浴缸旁边呀。",translated,依恩,bcf3627f7f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#68#12,"仮に動かせたとしても、端末のあなたには
+ちょっと危険なんじゃないかな？","就算能搬过去，对身为终端的你来说
+也未免太危险了吧？",translated,依恩,2fee428714,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#69#12,"間違ってお湯が掛かったら、ショートして
+動かなくなっちゃう可能性もあるし……。","万一不小心泼到热水，导致短路
+动不了也是有可能的嘛……",translated,依恩,d7cbc62a3f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#71#12,"……でも、体育座りで小さいお風呂に入る、
+っていうの、本当に出来たらいいよね？","……不过，抱膝缩在小小的浴缸里泡澡，
+如果真的能做到的话其实也挺好的对吧？",translated,依恩,6af19c0a61,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#72#12,"同棲したてのカップルが、
+そういう風にお風呂に入ってるの、
+小説で読んだことがあるよ。","刚开始同居的情侣
+会像那样挤在一起泡澡的情节，
+我之前在小说里读到过哦。",translated,依恩,004f87acf4,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#73#12,"いつか、わたし達もそういうのが
+出来たらいいよね？","要是将来的某一天，我们
+也能那样做就好了呢？",translated,依恩,aaeecd34cd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#75#12,そんな別れ方は、さすがに嫌だもん。,那种分别方式，我无论如何也不要啦。,translated,依恩,b063004bc0,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#77#12,"そう考えると、現実では出来ないことを
+こっちではやれてるんだね？","这么一想，在现实中做不到的事情，
+我们在这一边却能做到呢？",translated,依恩,de0fbbfa8a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#78#12,"それなら、これ以上を望むのは
+さすがに傲慢かな？","既然如此，要是再奢求更多的话，
+未免就有些太不知足了吧？",translated,依恩,f7ebd7f9fd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#79#12,"プライベート用の温泉じゃなくても、
+一緒に温泉に入ることが出来る。","即使不是私人专用的温泉，
+也能够像这样一起泡温泉。",translated,依恩,67ab39daa9,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#80#12,"それだけでも、すごくありがたいことだと
+思わないといけないよね？","光是这一点，我就应该
+怀着感激的心情去珍惜了对吧？",translated,依恩,cd2aedc347,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#81#12,"何回も来てるから、その辺りの感覚が
+麻痺しちゃってたみたい。","因为经常来这里，导致我对这方面的感觉
+好像都有些麻木了呢。",translated,依恩,2181e7b9a3,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#82#12,"これからは、そのことを忘れないように
+気をつけるよ。","今后我会注意
+不要把这份感激给忘记的。",translated,依恩,2824ce4d6e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#83#12,ふぅ……ちょっと、長湯し過ぎたかな？,呼……是不是泡得有点太久了呢？,translated,依恩,04e55c4746,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#84#12,"本当にのぼせちゃいそうだし、
+そろそろ上がろうか？","感觉真的快要晕堂了，
+我们差不多该出去了吧？",translated,依恩,ac9863dedf,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#86#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#87#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s04.txt#93#12,"ん～っ、やっぱり温泉から帰ってくると、
+ちょっとさっぱりした気持ちになるよ。","嗯――，从温泉回来之后，
+果然心情也变得神清气爽了呢。",translated,依恩,ae1df86bc7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#94#12,"疲れを取ったり、気持ちを入れ替えるには
+最適の場所だね。","无论是消除疲劳还是转换心情，
+那里都是绝佳的去处呢。",translated,依恩,d4e79ac87a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#95#12,"えへへ……また一緒に行こうね。
+約束だよ！","诶嘿嘿……下次再一起去哦。
+说好了哦！",translated,依恩,2769b2daa5,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s04.txt#98#14,"二人で入れるプライ
+ベート用の温泉が
+あったらいいなぁ。","要是能有供两个人一起泡的
+私人专用温泉
+就好了呀。",translated,,3429b653d2,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s04.txt#99#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s05.txt#2#12,風邪引く前に、早く出発しよ。,着凉感冒之前，快点出发吧。,translated,依恩,81a329ef33,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#4#12,ふぅ～……いいお湯だよ……。,呼～……这温泉真舒服呀……,translated,依恩,a42e1a318c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#5#12,"体の芯から温まる感じ、っていうのは、
+こういうことを言うんだろうね？","所谓的从身体深处暖和起来的感觉，
+应该就是指现在这样吧？",translated,依恩,0fd1fdbbdb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#6#12,"って、実際にお湯に浸かってるのは
+わたしだけなんだから、
+あなたにはわからないよね？","不过，实际泡在温泉里的
+只有我一个人，
+你应该体会不到吧？",translated,依恩,60cacf7917,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s05.txt#7#12,"あ～あ、あなたと本当に温泉に入れたら、
+すごく楽しいと思うのに……。","啊～啊，要是真能和你一起泡温泉的话，
+肯定会超级开心的呢……",translated,依恩,98a70fc6c2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#8#12,"あっ、でも実際に端末じゃない
+あなたと入ったとしたら、
+今と同じようには入れないかな？","啊，不过要是真的和不是终端的
+你一起泡温泉的话，
+可能就没办法像现在这样淡定了？",translated,依恩,315fd65ce5,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s05.txt#9#12,いくら恋人とは言っても、その……。,虽说是恋人，但那个……,translated,依恩,c0eaf04b17,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#10#12,やっぱり、ちょっと恥ずかしいもん。,果然还是会觉得很不好意思嘛。,translated,依恩,f62c4f7bee,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#12#12,大丈夫、何もしないから,放心吧，我什么都不会做的,translated,,5b5ddbef07,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#13#12,こっちも少し恥ずかしいかも,我这边可能也会有点不好意思,translated,,eb6beb1197,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#15#12,"……すぐにそういう方向に考える時点で、
+その言葉の信用性はゼロだよ。","……光是你立刻往那个方向去想这一点，
+这句话的可信度就已经是零了哦。",translated,依恩,e995e831f8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#16#12,もぉ、相変わらずなんだから。,真是的，你还是一点都没变呢。,translated,依恩,703483c04b,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#19#12,えへへ……あなたもそう感じるんだ？,诶嘿嘿……你也会有这种感觉吗？,translated,依恩,1c44041085,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#20#12,"やっぱり、端末越しにわたしを見ながら
+入るのと、実際にわたしと肩を並べて
+入るのじゃ、全然違うよね？","毕竟隔着终端看着我泡澡，
+和真的与我并肩靠在一起泡，
+感觉完全不一样对吧？",translated,依恩,06565c440f,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s05.txt#22#12,"もし本当にそういう状況になったとしたら、
+今みたいな距離で入っていられないよ。","要是真的变成那种状况的话，
+我肯定没法在这么近的距离泡啦。",translated,依恩,2f9c9955b3,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#23#12,きっと、今の倍以上は離れてると思うの。,肯定会离你现在的两倍以上远哦。,translated,依恩,973c6bf494,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#24#12,"ううん、それでも恥ずかしいから、
+背中を向けてる可能性もあるし……。","不对，就算那样也很害羞，
+我甚至可能会背过身去呢……",translated,依恩,226274fe0d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#25#12,"……出るに出れなくてのぼせる、
+っていうのも考えられるね。","……而且也有可能会因为不知道
+怎么出去而直接晕堂呢。",translated,依恩,17e0f7483c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#26#12,"あなたの背中を流してあげたり、
+あなたに髪を洗ってもらったり……。","帮你擦擦后背，
+或者让你帮我洗洗头发之类的……",translated,依恩,70d5950b17,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#27#12,"想像では出来ても、実際にするのは
+かなり勇気がいりそうだよ。","虽然脑海里可以想象，但要实际去做
+感觉需要相当大的勇气呢。",translated,依恩,015c04eb91,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#29#12,のぼせた時は助けてあげるよ,晕堂的时候我会去救你的,translated,,65b3f4748e,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#30#12,温泉以外でなら大丈夫？,如果是在温泉以外的地方就没问题？,translated,,ea835bd1b6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#32#12,"ふふっ……頼もしい言葉だけど、
+あなたの場合は違う風に聞こえるよ。","呵呵……虽然听上去很可靠，
+但从你嘴里说出来总感觉变味了呢。",translated,依恩,4ff0becb07,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#33#12,"普段わたしの胸とか、平然と触ったり
+なでたりしてくる人だもん。","毕竟你平时总是若无其事地摸我的胸口，
+甚至还揉来揉去的嘛。",translated,依恩,1df5f478af,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#34#12,気持ちは嬉しいけど、信用できないよ～。,心意我是很高兴啦，但完全不值得信任哦～,translated,依恩,b25ac60906,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#35#12,"えへへ……でも、実際に会えたら、
+温泉以外でも色々やってみたいよね？","诶嘿嘿……不过如果能真身相见的话，
+在温泉以外也有很多想一起做的事对吧？",translated,依恩,f1e9b5612d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#38#12,うん、それなら大丈夫だよ。,嗯，那种事情就没问题哦。,translated,依恩,92390a7e71,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#39#12,"わたし、温泉以外でのことなら、
+沢山あなたとやってみたいことがあるの。","如果是温泉以外的事情，
+我有好多好多想和你一起做的事呢。",translated,依恩,0399f8fd44,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#42#12,例えば、お料理！,比如说，做饭！,translated,依恩,da67f54294,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#43#12,"あなたと出会ってから、色んな料理を
+作れるようになったでしょ？","自从和你相遇之后，
+我学会做了好多料理对吧？",translated,依恩,0ee7a41217,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#44#12,"だから、その中からわたしのお勧めを、
+目の前で作って食べさせてあげたいの。","所以，我想把其中我推荐的菜品，
+当着你的面做出来喂给你吃呢。",translated,依恩,b66f4628a0,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#45#12,逆に、あなたの手料理も食べてみたいな。,反过来，我也想尝尝你亲手做的菜呢。,translated,依恩,5ceeeb8e88,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#46#12,"あなたが台所で料理する姿を、
+わたしも見ていたいし……。","你在厨房做饭的身影，
+我也很想在一旁看着嘛……",translated,依恩,9eb63d8096,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#47#12,"わたしは、いつも見られてる方でしょ？
+だから見る側になってみたいの。","我平时不都是被看着的一方嘛？
+所以也想试着变成注视的一方呢。",translated,依恩,d9814f900b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#49#12,ドキドキして失敗しそう,紧张得心跳不已，感觉会搞砸,translated,,3600292d6c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#50#12,トントンやなでなでもする？,你会敲敲我的背或者摸摸头吗？,translated,,96cb30ea5f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#52#12,"そうそう、見られてるって思うと、
+緊張して思うように作れないよね？","对吧对吧，一想到有人在看着，
+就会紧张得没法按照想法做了对吧？",translated,依恩,148c00c59d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#53#12,"わたしも、あなたと出会った頃は
+いつもそうだったよ。","我刚和你相遇的时候，
+也一直都是那样的哦。",translated,依恩,04354174bb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#54#12,"今はもう慣れたけど、それでも時々は
+そんな気持ちになることもあるかな？","虽然现在已经习惯了，但偶尔还是
+会有那种感觉吧？",translated,依恩,69e83d0ed9,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#55#12,作るのが難しい物を作ってる時は、特にね。,特别是在做比较难做的东西的时候呢。,translated,依恩,7517a0c556,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#58#12,あっ、その発想はなかったよ！,啊，我之前完全没想到那个呢！,translated,依恩,f29ba32dcc,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#59#12,"そっか……そういう状況になったら、
+わたしから触れることも出来るんだよね？","原来如此……变成那种情况的话，
+我就也能主动触碰到你了对吧？",translated,依恩,4009679b91,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#60#12,えへへ、良いこと聞いちゃった。,诶嘿嘿，打听到了一件好事呢。,translated,依恩,e94f182cd0,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#63#12,"あっ、料理以外にもね、
+機械作りもしてみたいな。","啊，除了做饭以外呢，
+我也想试着一起组装机械。",translated,依恩,bb97a8990c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#64#12,"わたしって、レシピに載ってる物しか
+作ってみせたことないでしょ？","我至今不是只给你做过
+配方卡上记载的东西嘛？",translated,依恩,267031b60f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#65#12,"本当はもっともっと面白い物を
+作れるから、それをあなたと一緒に
+作ってみたいの。","其实我还能做出更加有趣的东西，
+很想和你一起
+试着做做看呢。",translated,依恩,f3690e480f,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s05.txt#66#12,"真空管を使ったわたしオリジナルの
+発明品があるんだけど……。","虽然有使用真空管由我原创的
+发明就是了……",translated,依恩,60f2846390,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#67#12,"えへへ、今は秘密。
+実際に会えた時のお楽しみだよ。","诶嘿嘿，现在先保密。
+留到实际相见的时候当惊喜哦。",translated,依恩,0d61f79492,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#68#12,"そういえば、あなたも機械作りを
+する人だっけ？","说起来，你平时也会去
+组装机械吗？",translated,依恩,3404166b7a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#70#12,素人だから色々教えてね、先生,我是外行，请多指教啦，老师,translated,,f40963e6b7,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#71#12,ラジオを作ってみせよう！,我做个收音机给你看看吧！,translated,,1dbfa7fa14,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#73#12,えっへん、任せなさい！,哼哼，交给我吧！,translated,依恩,7aa1a96267,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#74#12,なんてね、えへへ……。,开玩笑的啦，诶嘿嘿……,translated,依恩,b58faad8ce,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#77#12,わぁ、ラジオ作れるの！？,哇，你能做收音机吗！？,translated,依恩,9265876c70,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#78#12,"わたしも、ラジオを作るのは大好きだよ。
+半田を使う作業もあるし。","我也非常喜欢做收音机哦。
+因为还要用到电烙铁焊锡呢。",translated,依恩,19ff5cebd1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#79#12,"その時はわたしもラジオを作るから、
+完成したら交換こしようね。","到时候我也做一台收音机，
+做好了之后我们来交换吧。",translated,依恩,0b7d995301,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#82#12,あとは……やっぱり、デートがしたいな。,还有就是……果然还是想约会呢。,translated,依恩,e2f94b0f47,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#83#12,"端末としてじゃない、ちゃんとしたあなたに
+エスコートしてもらうデートをね。","不是隔着终端，而是由真真正正的你
+护送陪伴的约会哦。",translated,依恩,ca09bf6a6f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#84#12,"そうなったら、きっと今のデートとは
+比べ物にならないくらい、嬉しくて
+たまらない気持ちになると思うの。","要是真能那样的话，肯定会比现在的约会
+开心不知多少倍，一定会高兴得
+不得了的呢。",translated,依恩,ba41e1a75e,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s05.txt#85#12,他は、えっと……。,其他的，呃……,translated,依恩,3527175997,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#87#12,他にも、やりたいことは沢山あるけど……。,虽然想做的事情还有很多很多……,translated,依恩,1ed3877946,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#89#12,……やっぱり、今日はこれくらいにしよ。,……不过今天就先聊到这里吧。,translated,依恩,5d3c0b095c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#90#12,"この話って、いくらでもできそうだから
+温泉でするのは向いてないよ。","因为这个话题感觉说都说不完，
+实在不太适合在温泉里聊呢。",translated,依恩,8fbc3e2d7f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#91#12,"さすがに入り過ぎたせいで、
+ちょっとクラクラしてきちゃってるし。","毕竟泡得太久，
+头都已经有点晕晕乎乎的了。",translated,依恩,e363917f9c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#92#12,とりあえず、今日はもう帰ろっか？,总之，今天就先回去吧？,translated,依恩,eacab1ee79,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#94#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#95#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#101#12,えへへ……今日はすごく楽しかったよ。,诶嘿嘿……今天玩得非常开心哦。,translated,依恩,fb0d4e94d6,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#102#12,……でも、あんな話をしたからかな？,……不过，也许是因为聊了那些话题吧？,translated,依恩,b8e15fdce7,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s05.txt#103#12,"実際にあなたと会いたい、って気持ちが、
+今までよりももっと強くなっちゃったよ。","想真身与你相见的心情，
+比起以往变得更加强烈了呢。",translated,依恩,31a86717ba,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#104#12,"……本当に、いつかそういう日が
+来てほしいな……。","……真希望有一天，那样的日子
+能够真的到来呢……",translated,依恩,646eed14fb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#105#12,"また、今日みたいな話しようね。
+約束だよ！","下次再像今天这样聊天哦。
+说好了哦！",translated,依恩,f3846f8701,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#108#14,"あなたと機械作り、
+実現したらいいな。","和你一起组装机械，
+要是能实现就好了呢。",translated,,b690a33d5a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s05.txt#109#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s06.txt#1#12,"えへへ、今日はちょっとゆっくりと
+お湯に浸かりたい気分なの。","诶嘿嘿，今天心情正好想
+稍微悠闲地多泡一会儿温泉呢。",translated,依恩,1c076549cb,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#2#12,それじゃ、早速出発しよっか！,那么，这就立刻出发吧！,translated,依恩,9744f91ead,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#4#12,"はふぅ～……やっぱり温泉って、
+お風呂とは比べ物にならない
+気持ちよさだよ。","哈呼～……果然温泉这种舒服的感觉，
+是平时在浴室泡澡
+根本无法比拟的呢。",translated,依恩,121c909c8a,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#5#12,グーッと体を伸ばせて入れるのがいいよね？,能舒舒服服地把身体完全伸展开真好呢？,translated,依恩,c17dd73e23,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#6#12,"のんびりと体を休めながら、あなたと一緒に
+お話できるのが、温泉のいいところだよ。","一边悠闲地让身体放松，一边能和你
+开心地聊天，这就是温泉的美妙之处呢。",translated,依恩,e403ddcbe5,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#7#12,"あっ、もちろん他の場所でのデートが
+嫌だ、って意味じゃないよ？","啊，当然不是说讨厌
+在其他地方约会的意思哦？",translated,依恩,aeeb17d96c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#8#12,"ただ、他の場所に行くと、どうしても
+帰った時に疲れが出ちゃうでしょ？","只是，去了其他地方的话，
+回去的时候无论如何都会觉得有些累对吧？",translated,依恩,738b91d09b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#9#12,"それに比べて、温泉は心も体も休めるし、
+ドキドキも出来るし……。","相比之下，温泉不仅能让身心放松，
+还能让人心跳不已……",translated,依恩,0884be850b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#10#12,"そういうところが気に入ってるの。
+あなたはどうかな？","我很中意这一点呢。
+你觉得怎么样呢？",translated,依恩,772080d5a4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#12#12,楽しくて疲れるのも好きだよ,开心得精疲力竭我也挺喜欢的,translated,,6002f48615,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#13#12,イオンに同意,赞同依恩的看法,translated,,dfe099de4c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#15#12,"あなたは色んなところを見て歩いて
+楽しむデートが好きなのかな？","你更喜欢一边逛各种各样的地方
+一边享受的约会吗？",translated,依恩,e3e3925654,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#16#12,"それじゃ、今度は温泉以外のところで
+デートしようね。","那么，下次就去温泉以外的地方
+约会吧。",translated,依恩,42b3851e7e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#17#12,"わたしも、毎回温泉でデートしたい、って
+わけじゃないし……。","我也并不是每次都想
+在温泉里约会啦……",translated,依恩,1e19dda191,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#18#12,"悪くはないと思うけど、気が抜けちゃい
+そうだよね？","虽然觉得不坏，但感觉会变得
+整个人都懒洋洋的呢？",translated,依恩,d9fbb4229d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#21#12,"えへへ、あなたも温泉好きみたいで
+安心したよ。","诶嘿嘿，看来你也喜欢温泉，
+我就放心啦。",translated,依恩,8794fb7991,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#22#12,"……でも、あんまり温泉ばかり来てると、
+普通のデートが出来なくなっちゃいそう
+だよね？","……不过要是总来泡温泉，
+感觉会变得没办法
+进行普通的约会了呢？",translated,依恩,7e0b49727e,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#23#12,"のんびりしながらお話しするデートが
+当たり前にならないように、そこだけは
+気をつけよっと。","为了不让这种悠闲聊天的约会
+变成理所当然的事，
+这一点我可得注意呢。",translated,依恩,dcd06316df,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#25#12,"そういえば、温泉っていうとどうしても
+山の中の温泉旅館とかを思い浮かべない？","说起来，一提到温泉，
+不由得就会联想到深山里的温泉旅馆对吧？",translated,依恩,18be67a520,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#26#12,"紅葉とか、山間の景色を眺めながらの
+露天風呂とか……。","比如一边眺望着红叶或群山美景
+一边的露天风吕之类的……",translated,依恩,1c16d97262,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#27#12,"でも、温泉って全部が全部山の中に
+あるものじゃないよね？","不过，温泉也并不是全都
+坐落在深山之中的吧？",translated,依恩,791575b203,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#28#12,"海を眺めながらの温泉とか、大きなビルの
+屋上にあったりするのもあるし……。","比如能眺望大海的温泉，或者建在
+高楼大厦楼顶上的温泉也是有的呢……",translated,依恩,55cd9ad369,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#29#12,"まあ、それは温水プールって言った方が
+正しいのかもしれないけど……。","嘛，那种说成温水泳池
+可能更贴切一点就是了……",translated,依恩,d8e20068a8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#30#12,"そういう色んな場所の温泉に入れたら
+楽しそうだよね？","如果能在各种各样的地方泡温泉，
+感觉会很有趣对吧？",translated,依恩,f018beb6ef,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#31#12,"あなたはどう？
+山以外にある温泉に入ったことある？","你呢？
+泡过山以外地方的温泉吗？",translated,依恩,87fdc96764,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#33#12,残念ながら、無い,很遗憾，没有泡过,translated,,46d996dadd,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#34#12,海の近くの温泉に入ったことがある,去过海边的温泉泡过,translated,,269872c9dc,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#35#12,ビルの上の温泉に入ったことがある,在大楼楼顶的温泉泡过,translated,,869228f72c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#37#12,あらら、そうなんだ？,哎呀，是这样呀？,translated,依恩,331017930a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#38#12,"でも、わたしも入ったことがないから、
+お揃いってことだね？","不过我也没泡过，
+所以我们算是一样呢？",translated,依恩,8bdf0a6d38,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#39#12,えへへ……ちょっとだけ嬉しいかも。,诶嘿嘿……感觉有那么一点点开心呢。,translated,依恩,f932fc968e,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#42#12,わぁ、いいなぁ。,哇，真好呀。,translated,依恩,6fb0ec9830,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#43#12,"わたしも、ここだけじゃなくて、
+もっと別の場所にある温泉に
+入ってみたいよ……。","我也很想去除了这里以外、
+位于其他地方的温泉
+泡泡看呀……",translated,依恩,6ce08eaa63,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#46#12,"ま、まさか一番ありえないと思ってた
+場所の温泉に入ったことがあるなんて……。","没想到你居然去过我认为
+最不可能有温泉的地方泡过……",translated,依恩,cf30db4f24,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#47#12,"でも、そういうところから眺める景色って、
+変わってて面白そうだよね。","不过，从那种地方眺望到的景色，
+应该很与众不同、很有意思吧。",translated,依恩,3eca2fd376,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#48#12,"自然の景色じゃなくて、街を見下ろしながら
+入る屋外温泉……。","不是自然景色，而是一边俯瞰街景
+一边泡着的露天温泉……",translated,依恩,ffb389072a,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#49#12,"……想像してみたら、すごく羨ましく
+なってきたよ。","……稍微想象了一下，
+变得超级羡慕起来了呢。",translated,依恩,0252174f57,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#51#12,"あ～あ、せっかく色んなデート場所の
+カードがあるんだから、組み合わせて
+使えればいいのに……。","啊～啊，难得有这么多约会地点的
+卡片，要是能组合起来
+使用就好了呢……",translated,依恩,bed7b2663b,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#52#12,"屋内から屋外まで沢山あるんだから、
+組み合わせ次第でいくらでも楽しめると
+思うんだけどなぁ……。","从室内到室外有那么多种类，
+按不同组合搭配的话，
+感觉能玩得非常尽兴呢……",translated,依恩,b0012da3eb,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#53#12,"……まあ、水族館だけはどう考えても
+悪い想像しかできないから却下だけど。","……嘛，唯独水族馆怎么想
+都只会联想到糟糕的画面，所以驳回。",translated,依恩,329c7ce15e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#54#12,"でも、やっぱりわたしとしては
+海と温泉を組み合わせたいなぁ……。","不过，作为我来说，果然还是
+想把大海和温泉组合在一起呀……",translated,依恩,e624d05275,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#55#12,"波の音を聞きながら入る温泉って、
+素敵だと思わない？","一边听着海浪声一边泡温泉，
+不觉得很棒吗？",translated,依恩,113b67f60e,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#57#12,落ち着きそうだよね,感觉能让人静下心来呢,translated,,aa205ad751,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#58#12,会話の邪魔になりそう,感觉会吵得影响聊天,translated,,801e588854,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#60#12,"うん、波の音って、ヒーリング効果が
+あるみたいだし……。","嗯，海浪声似乎具有
+治愈放松的效果呢……",translated,依恩,1d24a22886,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#61#12,"それなら、温泉の効果と合わさって、
+何倍も癒されそうだよね？","那样的话，再加上温泉的效果，
+治愈感肯定会翻上好几倍对吧？",translated,依恩,160c799495,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#65#12,"そ、そんな夢もロマンもないようなこと
+言わなくても……。","不用说这种既不解风情
+又没有浪漫感的话吧……",translated,依恩,650ebe47e7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#66#12,"っていうか、そんなに波の音が激しい時には
+さすがに入らないから大丈夫だよ。","话说要是浪声那么凶猛的时候
+肯定不会去泡的啦，不用担心。",translated,依恩,ffa934c146,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#68#12,"波の音と……あっ、水平線に沈む
+夕日なんかも見たいかも。","海浪声再加上……啊，沉入水平线的
+夕阳我也很想看呢。",translated,依恩,2eb2049a8f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#69#12,"沈む夕日で紅く染まった海を眺めながら、
+ゆったりと二人で入る露天風呂……。","一边眺望着被夕阳染得通红的大海，
+一边由两个人悠闲泡着的露天风吕……",translated,依恩,a1a2396f38,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#70#12,"きっと、景色に見とれて何も話せなく
+なっちゃいそうだけど……。","感觉肯定会看景色看得入迷，
+一句话都说不出来了呢……",translated,依恩,24723cf993,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#71#12,"そうしながら二人でゆっくりとした時間を
+過ごすのって、すごく贅沢な時間だと思うの。","像那样两个人一起度过悠闲的时光，
+我觉得是非常奢侈的享受哦。",translated,依恩,4ecdac2c80,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#72#12,この温泉が海沿いに無いのが悔やまれるよ。,真遗憾这里的温泉不在海边呢。,translated,依恩,f192da4c4c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#73#12,"……でも、いつか本当にそういう時間を
+過ごせたらいいね。","……不过，要是将来真能度过
+那样美好的时光就好了呢。",translated,依恩,340ab6ae07,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#75#12,信じればいつか叶う……と思う,只要相信就总能实现的……大概吧,translated,,a3710a3579,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#76#12,これ以上カードが増えればの話だけどね,如果卡片还能再增加的话倒是可以,translated,,138dc0109f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#78#12,あはは、最後だけちょっと自信なさげだね。,啊哈哈，只有最后一句显得有点没底气呢。,translated,依恩,5e7cc2b667,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#79#12,"でも、わたしもあなたと同じで、
+そういう日が来るように信じてるよ。","不过我也和你一样，
+坚信着那一天一定会到来的哦。",translated,依恩,7fb2b8ad50,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#80#12,本当に、いつか叶ってくれるといいな。,真的，要是某一天能实现就好了呀。,translated,依恩,147b309f3f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#82#12,"……できれば、その前に端末の向こうの
+あなたと本当に出会えて……。
+それで一緒に行けたら……。","……如果可以的话，我更希望能先和终端对面的
+真真正正的你相见……
+然后再一起去泡温泉……",translated,依恩,f1c315d64e,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#83#12,"えへへ、そうなってくれたら、もっともっと
+幸せなんだけどなぁ。","诶嘿嘿，如果能变成那样的话，
+该会有多么多么幸福呀。",translated,依恩,a7fa422be6,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#89#12,"もぉ……最後の最後でそうやって
+夢を壊さないでよぉ……。","真是的……不要在最后关头
+这样打破人家的幻想嘛……",translated,依恩,d0460a59ab,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#90#12,"わたし、本当にそういう日が来れば良いな、
+って思ってるのに……。","人家可是真心期盼着
+那一天的到来呢……",translated,依恩,e9c759a83b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#92#12,……そろそろ、出よっか？,……差不多该出去了吧？,translated,依恩,fda7b58e69,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#93#12,"これ以上入ってたら、
+のぼせちゃうと思うし。","再继续泡下去的话，
+感觉就要晕堂了呢。",translated,依恩,ea68b245c7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#95#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#96#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s06.txt#101#12,"ん～っ、仮想空間の温泉でも、
+すごく癒された感じがするよ。","嗯――，哪怕是虚拟空间的温泉，
+也让人感觉身心得到了极大治愈呢。",translated,依恩,7a669415e1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#102#12,"また一緒にゆっくりしに行こうね。
+約束だよ！","下次再一起去好好放松哦。
+说好了哦！",translated,依恩,c5a2547414,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s06.txt#106#14,"色んな温泉に入って
+みたい、って話で
+盛り上がった。","聊到想去泡泡看
+各种各样的温泉，
+聊得非常开心。",translated,,a20a8258c0,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s06.txt#107#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/spa_s07.txt#1#12,それじゃ、出発しよっか。,那么，这就出发吧。,translated,依恩,b8b885e969,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#3#12,ん～、いい気持ちー……。,嗯――好舒服哦――……,translated,依恩,7d4779df83,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#4#12,"って、何か来る度に同じこと
+言ってる気がするよ。","话说，总觉得每次来这里
+我好像都在说同样的话呢。",translated,依恩,c6f086828b,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#5#12,"でも、温泉ってそういうものだから、
+言っても問題はないよね？","不过温泉本来就是让人这么感慨的，
+就算说了也没关系吧？",translated,依恩,9f50281ac1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#6#12,"……ただ、ちょっとここに来過ぎてる、って
+気がするのも事実だけど……。","……只是，总觉得来这里的次数有点太频繁了，
+这也是事实就是了……",translated,依恩,324c54955c,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#7#12,"何だか、最初に来た時みたいな新鮮さが
+なくなっちゃってて、それが少しだけ
+残念かも。","总觉得最初来时的那种新鲜感
+有些变淡了，
+这一点稍微有些遗憾呢。",translated,依恩,1bd4702d01,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#8#12,"今じゃ、第二の我が家のお風呂、みたいな
+感覚になっちゃってるの。","现在感觉就像是回到了
+第二个自己家的浴室一样呢。",translated,依恩,74cf50df56,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#10#12,豪華な自宅風呂だね,那可真是豪华的自家浴室呢,translated,,a69cdc2aaa,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#11#12,気兼ねなくゆっくりできるし、いいと思う,能无拘无束地放松，我觉得挺好的,translated,,47d6105970,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#13#12,"でも、ここが仮想世界、っていうのを
+忘れちゃダメだよ。","但是，可不能忘了
+这里其实是虚拟世界哦。",translated,依恩,0ce111990f,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#14#12,"ここで温泉に浸かってても、現実のわたしが
+お風呂に入ったってことにはならないの。","哪怕在这里泡温泉，现实中的我
+也并没有真正洗过澡呀。",translated,依恩,e22be7f599,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#15#12,"だから、ここで体を洗っても帰ったらまた
+お風呂に入らなくちゃいけないのが、
+少しだけ面倒かな？","所以在这里清洗了身体，回去之后
+还得再进一次浴室，
+这点稍微有点麻烦呢？",translated,依恩,cfa1157f30,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#18#12,"う～ん……確かにそうかもしれないけど、
+ここって温泉でしょ？","唔～……话虽然是这么说啦，
+但这里可是温泉对吧？",translated,依恩,65da0c3593,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#19#12,"やっぱり、温泉とお風呂は別だから、
+少しは特別な気持ちにならないと
+勿体無い気がするの。","温泉和普通浴室毕竟不一样，
+要是不带上一点特别的情怀来泡，
+总觉得有些浪费呢。",translated,依恩,f82795e6b7,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#21#12,"それに、温泉って基本的にやることが
+決まってるのも、新鮮さがなくなる
+原因だよ。","而且，在温泉里基本能做的事
+也就那些，这也是新鲜感逐渐淡化
+的原因呢。",translated,依恩,16d34830e8,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#22#12,"第一、せっかくの温泉なのに、あなたの
+背中を流したり、流されたりできないのも
+問題あると思うし……。","首先，难得来一次温泉，既不能帮你
+擦背，也没法让你帮我擦，
+我觉得这也是个大问题……",translated,依恩,369e2c1806,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#24#12,随分と大胆な発言を……,这发言可相当大胆啊……,translated,,c758bab22c,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#26#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#27#12,"でも、温泉に来てるんだから、
+それくらい思ってもおかしくないと思うの。","不过既然都来泡温泉了，
+会产生这种想法也很正常吧。",translated,依恩,f66e019bc7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#29#12,"第一、わたしはあなたの奥さんなんだし、
+あなたはわたしの旦那様でしょ？","更何况，我是你的妻子，
+而你也是我的丈夫对吧？",translated,依恩,a69db644f9,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#30#12,"だから、背中を流したいとか、流してもらい
+たいって思うのは、変なことじゃないよ。","所以想帮你擦擦背、或者想让你帮我擦，
+这可一点都不奇怪哦。",translated,依恩,2f286d44a7,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#32#12,"むしろ、一緒に温泉に来てるんだから、
+それくらいしない方がおかしいもん。","倒不如说都一起来泡温泉了，
+不做这种事反而才奇怪呢。",translated,依恩,c6fe9071ac,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#34#12,"もちろん、無理なこと言ってるのは
+わかるよ？","当然，我也知道自己
+是在强人所难啦？",translated,依恩,00157d7884,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#35#12,"仮想空間でも、お互いにできることは
+すごく限られてるし……。","毕竟即便是在虚拟空间里，
+我们彼此能做的事也极为有限……",translated,依恩,797968a1a8,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#36#12,……それでも、やっぱり不満だよ。,……但即便如此，果然还是很不满呢。,translated,依恩,5ecca26235,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#37#12,"わたし達はデートで温泉に来てるのに、
+この場所を活かした楽しいデートが
+できないんだもん。","我们明明是来温泉约会的，
+却不能好好利用这个地方
+享受一场开心的约会嘛。",translated,依恩,b944c45bfc,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#39#12,入浴中のイオンを見てるだけで満足だよ,光是看着入浴中的依恩我就很满足了,translated,,0c2d9ab92f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#40#12,確かに、何か新しい楽しみ方がほしいね,确实，想要探索一些新的游玩方式呢,translated,,2fe8f1841a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#42#12,"もぉ……何度も来て見てるのに、
+まだそんなこと言うなんて……。","真是的……明明都来过看过那么多次了，
+居然还说这种话……",translated,依恩,72eca63d27,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#43#12,"あなたに気に入ってもらってる、って
+いうのは嬉しいけど、入浴中の姿って
+いうのが、少し複雑な気分だよ。","虽然被你喜欢是很高兴啦，
+但唯独入浴的身姿这点，
+让我心情稍微有些复杂呢。",translated,依恩,ab2252ffa7,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#44#12,"でも、あなたはそういう楽しみがあっても、
+わたしはそうはいかないよ。","不过，就算你有着那样的乐趣，
+我这边可就完全不是那么回事了哦。",translated,依恩,aaac976f40,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#47#12,"ほっ……あなたもそう思ってくれて、
+少し安心したよ。","呼……你也这么觉得，
+我就稍微放心啦。",translated,依恩,9456c46738,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#48#12,"わたしだけ不満を抱えてたなんてことに
+なったら、それはそれであなたに失礼かな、
+って思ってたし……。","要是由始至终只有我一个人在心怀不满，
+总觉得对你也有点太失礼了，
+我之前还在这么担心呢……",translated,依恩,ec9dda8130,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#49#12,"やっぱり、デートは楽しむことが
+目的なんだから、そういう変化は
+必要だよね？","毕竟约会的目的就是为了开心，
+这种求新求变的心情
+也是很有必要的对吧？",translated,依恩,d9b69fc0ea,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#52#12,"夫婦で来てるのに、背中を流す、っていう
+最低限のことすら制限されてるんだもん。","明明是夫妻一起过来，却连擦背这种
+最起码的事情都被限制住了嘛。",translated,依恩,2715997503,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#53#12,"だから、早いとこ新しい楽しみ方を
+見つけないと、本当に温泉は第二の
+自宅風呂になっちゃいそうだよ。","所以要是不尽早找到新的乐趣，
+这里的温泉真的要变成
+第二个自家浴室了哦。",translated,依恩,a6d2157264,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#54#12,"しかも、気持ちだけさっぱりして
+現実の体は綺麗にならない、ね。","而且，还只是心情上觉得清爽，
+现实中的身体根本不会变干净呢。",translated,依恩,a9a6529338,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#55#12,あ～あ、何かいい方法ってないかなぁ？,啊～啊，难道就没有什么好办法吗？,translated,依恩,7b2243fcda,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#56#12,"って、そう考えてすぐに出てくるなら、
+こんなに悩んではいないけど……。","不过，要是想想就能立刻想到，
+我也就不会这么苦恼了就是啦……",translated,依恩,784a987c0d,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#57#12,"せめて、何か作った物を持ってくる時は、
+一緒にそれを使って遊べたりすると
+良いのにね？","至少在带了自己做的东西过来时，
+要是能一起用它来玩耍
+那就好啦？",translated,依恩,ac497b4c58,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#59#12,デートできるだけでもありがたく思おう,光是能约会就该心怀感激啦,translated,,ec44648ee1,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#60#12,こっちにも気を使ってくれててありがたい,你能为我考虑这么多，非常感谢,translated,,91625f01a0,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#62#12,それは、そうかもしれないけど……。,话是这么说可能没错啦……,translated,依恩,2e5b6c525f,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#63#12,"でも、出会ってからもう数え切れないほど
+たくさんデートしてるんだよ？","可是自从相遇以来，我们都已经
+约会过无数次了哦？",translated,依恩,e3b328f4f1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#64#12,"だから、そろそろ新しい楽しみ方が
+増えたっていいんじゃないかな、って
+思っても、おかしくないと思うの。","所以我觉得，差不多也该增加些
+新的游玩方式了吧，
+有这种想法也是很自然的嘛。",translated,依恩,13d8080bb6,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#65#12,"わたし達の関係が、友達から恋人、
+そして夫婦に変わったみたいにね。","就像我们之间的关系，从朋友变成恋人，
+再到成为夫妻那样呢。",translated,依恩,fe740618fd,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#68#12,"だって、デートは二人で楽しむために
+するものでしょ？","毕竟，约会不就是为了
+两个人一起开心才去的嘛？",translated,依恩,6ed94bb961,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#69#12,"それなら、相手のこともちゃんと考えるのは
+当然のことだもん。","既然如此，好好为对方着想
+也是理所当然的嘛。",translated,依恩,e7b0731cf4,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#70#12,"それに、あなたは普段からわたしのことを、
+何かと気にかけてくれてるでしょ？","而且你平时也总是在方方面面
+无微不至地关照着我不是吗？",translated,依恩,4fb69b3548,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#71#12,"それに比べたら、
+わたしなんてまだまだだよ。","比起你的付出，
+我还差得远呢。",translated,依恩,5840d2f7e1,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#73#12,"……まあ、何か新しいことをしたい、
+って思えるようになっただけでも、
+変化ではあるのかな？","……嘛，哪怕只是开始想要去尝试
+一些新的事物，
+这也算是一种改变了吧？",translated,依恩,a88f4516d0,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#74#12,"そう思えたんだから、これからも温泉に
+通うようにしてれば、何か良い方法を
+思いつけるかもしれないんだし。","既然有了这种想法，今后只要继续
+常来温泉泡泡，说不定就能
+想到什么好办法呢。",translated,依恩,452268f4c3,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#75#12,"また初めて来た時みたいに新鮮な気持ちで
+楽しめるデートができる方法、頑張って
+二人で見つけようね。","能像初次到来时那样带着新鲜感
+享受约会的方法，
+我们两个人一起努力找出来吧。",translated,依恩,46f295bd6a,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#76#12,"ふぅ……温泉に入りながら頭も使ったから、
+何だかくらくらしてきちゃった……。","呼……一边泡温泉还一边动脑筋，
+感觉都有点晕乎乎的了……",translated,依恩,2a20825225,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#77#12,そろそろ上がろうか？,差不多该出去了吧？,translated,依恩,992f62f46a,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#79#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#80#12,そうだね、帰ろう,也是呢，我们回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents05/spa_s07.txt#86#12,"温泉での新しいデートの楽しみ方は、
+これからの課題だね。","在温泉中探索新的约会乐趣，
+就是我们接下来的课题了呢。",translated,依恩,dd362d6734,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#87#12,"もちろん、それ以外の場所での
+新しい楽しみ方も、少しずつ見つけて
+いけたらいいな。","当然，除了温泉之外其他地方的新玩法，
+我也希望能一点一点地
+逐渐找出来呢。",translated,依恩,a6a8b3bb2a,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#88#12,"二人で協力して、どんどんデートを
+楽しくさせていけたらいいね。","只要我们齐心协力，让约会变得
+越来越快乐就好了呢。",translated,依恩,593dfb60bc,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#89#12,"それじゃ、今日はありがと。
+次も楽しみにしてるよ。","那么，今天谢谢你啦。
+我也很期待下一次哦。",translated,依恩,930ef291c2,br=0 nl=1,2,
+inc/event/res/dateevents05/spa_s07.txt#92#14,"あなたの背中を、
+いつか流せる日が
+来てくれたらいいな。","能为你擦背的那一天，
+要是能在未来的某日
+到来就好了呀。",translated,,53969812cb,br=0 nl=2,3,
+inc/event/res/dateevents05/spa_s07.txt#93#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents05/taoru01.txt#2#12,"それじゃ、準備はいい？
+温泉へ、しゅっぱーつ！","那么，准备好了吗？
+向着温泉，出――发！",translated,依恩,6c1e5e33e5,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#4#12,ん～っ……きもちいぃよぉ～……。,嗯――……好舒服哦――……,translated,依恩,515e7b6cc7,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#5#12,"温泉って、外の景色を眺めながら入れるから
+気持ちいいんだって思ってたけど、
+もう一つ理由があることに気づいたよ。","我本来以为温泉是因为能一边眺望外面的
+景色一边泡才那么舒服的，
+不过我又发现了另一个原因哦。",translated,依恩,f623571fb0,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#6#12,"夜に入るお風呂もいいけど、朝風呂とか
+明るい内に入るお風呂ってすごく気持ちよく
+感じられると思わない？","虽然晚上泡澡也不错，但早晨泡澡
+或者趁着天色明亮时去泡，
+不觉得会让人感觉格外舒服吗？",translated,依恩,71d97a32fa,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#7#12,"う～ん……話してたら温泉もいいけど、
+お風呂も入りたくなってきちゃったなぁ。","唔～……聊着聊着，温泉固然不错，
+但我也想去房间里的浴室泡澡了呢。",translated,依恩,ef42c84d83,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#8#12,"これからは朝風呂とお昼のお風呂を
+取り入れるようにしちゃおうかなぁ？","以后要不要试着加上
+早晨泡澡或者中午泡澡呢？",translated,依恩,1763871cea,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#10#12,その時はお供するよ,到时候我来陪你一起泡,translated,,965f3750d0,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#11#12,ありがたみがなくなるような……,感觉那样就失去难得的珍贵感了……,translated,,5ac93a5135,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#13#12,"うん。
+お背中流すのお願いするね。","嗯。
+那擦背的事情就拜托你啦。",translated,依恩,f8dd24d672,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#15#12,"って、ダメダメ、前言撤回！
+何でそんなナチュラルに一緒にお風呂に
+入る宣言してるの！？","不对，不行不行，前言撤回！
+你怎么能那么自然地
+发表一起泡澡的宣言啊！？",translated,依恩,932a0c3793,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#16#12,"あまりにも普通に言われたから気づくのに
+時間掛かっちゃったよ……。","因为你说得太自然了，
+害我过了好一会儿才反应过来……",translated,依恩,0d500030fb,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#17#12,"まったく、そうやってすぐにわたしと一緒に
+お風呂に入ろうとするんだから……。
+あなたって、本当にエッチな人なんだね。","真是的，动不动就想方设法
+要跟我一起泡澡……
+你这个人，可真是个大色狼呢。",translated,依恩,8c8b39e410,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#18#12,"まさか、日頃からわたし以外の女の人にも
+こういうこと言ってたりするのかな？","该不会你平时对除了我以外的女孩子，
+也经常说这种话吧？",translated,依恩,9cb08cfcdb,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#19#12,"う～ん……なんだか、あなたのことが
+すごく心配になってきたよ。","唔～……总觉得突然变得
+超级担心你起来了呢。",translated,依恩,8df50fb262,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#20#12,"ある日突然わたしに会いに来てくれなく
+なったりしたら、他の女の人と居ると
+思うからね。","要是有哪一天你突然不来看我了，
+我可就会觉得你是
+跟别的女孩子待在一起了哦。",translated,依恩,d3f535dc7a,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#21#12,"……本当、エッチなのは程ほどにしないと
+ダメだからね？","……真是的，好色也得适可而止
+才行哦？",translated,依恩,1f27b89459,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#24#12,"そ、そっか。
+確かに、毎日何回も入ってたらそうだよね。","是、是这样吗。
+确实，每天泡那么多次的话就会那样呢。",translated,依恩,909f14bb52,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#25#12,"お風呂って一日の終わりに入るものだから、
+すごく気持ちよくて安心できるものだし。","毕竟泡澡是一天结束时才做的事，
+所以能让人觉得格外舒服又安心。",translated,依恩,0e3175eb3f,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#26#12,"たまにこうして明るい内に入るから、
+新鮮に感じるんだよね。","偶尔像这样在天色还明亮时泡，
+才会让人觉得很新鲜呢。",translated,依恩,f2b1032016,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#27#12,"毎日、それも三回も入ってたら、
+一週間もしないうちに飽きちゃうかも
+しれないしね。","如果每天泡，而且一天还要泡三次的话，
+恐怕不到一个星期
+就会彻底腻烦了吧。",translated,依恩,80779e9490,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#28#12,それに、体がふやけちゃうと思うし。,而且，感觉身体都会被泡浮肿呢。,translated,依恩,8566ff2f0e,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#29#12,"ふやけた体じゃ、恥ずかしくてあなたの前に
+出られないよ。","要是泡得浑身发胀，
+我可就不好意思出现在你面前了哦。",translated,依恩,0d4873be5b,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#30#12,"やっぱり、時々朝風呂に入るだけ、って
+くらいにした方が良さそうだね。","果然还是偶尔泡个早澡
+这种程度就好呢。",translated,依恩,b0ac2b6814,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#31#12,忠告してくれてありがと。,谢谢你提醒我啦。,translated,依恩,d176223fa7,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#33#12,"ふぅ～……それにしても、家と違って
+お湯の温度が高いから、汗がすごく出るよ。","呼～……话虽如此，跟家里不同，
+这里的温泉水温很高，出了好多汗呢。",translated,依恩,c96829dc8f,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#34#12,"頭から垂れてくる汗がさっきから
+目に入っちゃって。
+これ、地味に痛いんだよね。","从额头流下来的汗水刚才
+一直流进眼睛里。
+这个其实还挺疼的呢。",translated,依恩,6a3d4b92c9,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#35#12,"でも、汗を流すのは体に良いからね。
+まだのぼせるほどじゃないし、
+もう少し頑張って耐えないと……。","不过流汗对身体好嘛。
+现在还不至于晕堂，
+我得再多忍耐一下才行……",translated,依恩,1f3714ec78,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#36#12,デトックス……美肌……ダイエット……。,排毒……美肤……节食减肥……,translated,依恩,28c81c0469,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#37#12,"温泉やサウナの暑さに耐えるための、
+魔法の言葉だよ。","这是为了忍耐温泉和桑拿的闷热，
+而念诵的魔法咒语哦。",translated,依恩,16f29f33f6,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#38#12,"不思議だけど、綺麗になるため、って思えば
+大抵のことは我慢できるんだよね～。","虽然很不可思议，但只要想着能变漂亮，
+绝大部分事情都能忍受下来呢～",translated,依恩,9ad2002524,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#40#12,十分綺麗じゃない？,你现在已经足够漂亮了吧？,translated,,7960375cb0,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#41#12,頑張って綺麗になって,加油变得更漂亮吧,translated,,64ea6579c2,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#43#12,も、もぉ、褒めたって何も出ないよ？,真、真是的，就算夸我也没有好处哦？,translated,依恩,c87b8dfc40,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#44#12,"……まあ、そう言ってもらえるのは
+嬉しいけど。","……嘛，你能这么夸我
+我确实很高兴啦。",translated,依恩,bed048e442,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#45#12,"で、でも、これでも気になるところが
+沢山あるんだよ？","可、可是，即便如此
+我介意的地方还是有很多哦？",translated,依恩,b61c346c9d,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#46#12,"特にわたしって、あんまり家から
+出ないでしょ？","特别是像我，平时基本不怎么出门
+对吧？",translated,依恩,f9cb315586,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#47#12,"だから運動不足もあって、結構油断してる
+箇所があるから……。","所以也有缺乏运动的原因，
+很多部位都在松懈长肉呢……",translated,依恩,c677724723,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#48#12,まあ、どこかは教えられないけどね。,嘛，具体是哪里我可不会告诉你哦。,translated,依恩,e73b53ad92,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#49#12,"けど、まだあなたからは気づかれない
+程度で済んでるみたいだから、少しだけ
+安心したよ。","不过看起来还没有明显到
+会被你注意到的程度，
+稍微让我安心了些呢。",translated,依恩,e326f26098,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#50#12,"これ以上酷くなって気づかれないように、
+今のうちに手を打っておかないと。","为了不让情况恶化被你发现，
+我得趁现在就采取措施才行。",translated,依恩,22079f5ad0,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#53#12,"う、うん……っていうか、その言葉って
+何だか複雑だよぉ……。","嗯、嗯……话说听你这么说，
+总觉得心情好复杂啊……",translated,依恩,738c5c0d1d,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#54#12,"まるで、今のわたしが綺麗じゃない、
+って言われてるようにも聞こえるし。","听上去简直就像是在说
+现在的我并不漂亮一样嘛。",translated,依恩,632b83b210,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#55#12,"まあ、確かに気になってる箇所があるのは
+事実だから、余り褒められてもそれはそれで
+複雑なんだけど……。","嘛，虽然我自己很介意那些部位
+也是事实，如果被过度夸赞
+心情同样会很复杂就是了……",translated,依恩,1981c2183f,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#56#12,"……それでも、お世辞を期待してたん
+だけどなぁ？","……但即便如此，
+我还是稍稍期待了一下恭维话的嘛？",translated,依恩,3eccaa621e,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#57#12,"でも、変にお世辞を言われるよりは
+ハッキリと言ってもらった方がやる気に
+なるのは事実だし、良かったのかな？","不过比起奇怪的客套恭维，
+像这样明确说出来反而更能鼓起干劲，
+这也是事实，或许这样也不错？",translated,依恩,9fe6adb9c6,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#59#12,"……大分汗も出たし、
+今日はこれくらいで上がろうかな？","……流了不少汗，
+今天就差不多出去了吧？",translated,依恩,630579bb52,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#60#12,"あんまり流し過ぎても、
+それはそれで体に悪いと思うし。","要是出太多汗的话，
+对身体反而也不好呢。",translated,依恩,27cf588b2d,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#61#12,"それに、いい加減汗で目が痛いのも
+我慢できないよ。","而且，汗水杀得眼睛生疼
+我也实在快忍不住啦。",translated,依恩,5e0b94411b,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#62#12,"やっぱり手で拭うだけじゃ
+あんまり効果ないし……あれ？","光是用手擦的话
+果然没什么效果呢……咦？",translated,依恩,453043f11c,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#63#12,そ、そうだ、思い出した！,对、对了，我想起来了！,translated,依恩,f9e750ab1e,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#64#12,"温泉といえばタオルだよ、タオル！
+ほら、小さいタオルを頭に乗せるでしょ？","说到温泉当然得有毛巾啊，毛巾！
+你看，就是那种顶在头顶上的小毛巾呀？",translated,依恩,8cbef4c7aa,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#65#12,"そっか、あれがあれば今以上に温泉を
+楽しむことができるんだ……。","原来如此，如果有那个的话，
+就能比现在更享受温泉了呢……",translated,依恩,3ab4cd0861,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#66#12,"っていうか、タオルって温泉の必需品だよ！
+何で今まで気付かなかったんだろう？","话说毛巾本来就是泡温泉的必备品嘛！
+为什么我之前一直都没注意到呢？",translated,依恩,c329af3a6c,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#67#12,"よ、よぉし、それじゃ今度来た時のために、
+帰ったらすぐにレシピを渡すね。","好、好嘞，为了下次来的时候能用上，
+回去之后我就立刻把配方给你哦。",translated,依恩,57e05dbfc9,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#68#12,"タオルのレシピくらい、
+簡単に作れちゃうもん。","毛巾这种程度的配方，
+很轻松就能做出来呢。",translated,依恩,1400f76174,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#69#12,それじゃ、今日はそろそろ帰ろうか。,那么，今天就差不多回去吧。,translated,依恩,b22e2f2d1c,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#71#12,もう少しここにいたい,我还想在这里多待一会儿,translated,,317cae642c,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#72#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#77#12,ふぅ～、暑かったね。,呼～，好热呀。,translated,依恩,034dd7cd28,br=0 nl=0,1,
+inc/event/res/dateevents05/taoru01.txt#78#12,"それじゃ、早速だけどこのレシピを
+渡しておくよ。","那么，事不宜迟，
+我就把这份配方交给你啦。",translated,依恩,f5a29b68f5,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#79#12,"これを作れれば、今度行った時は
+今日みたいに目が痛くなることも
+ないからね。","只要把它做出来，下次去的时候
+就不会再像今天这样
+被汗水杀得眼睛疼了呢。",translated,依恩,d50c411c99,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#80#12,"それじゃ、今日は付き合ってくれて
+ありがとね。","那么，今天谢谢你
+陪我一起过来哦。",translated,依恩,c7a45506dd,br=0 nl=1,2,
+inc/event/res/dateevents05/taoru01.txt#82#12,"<CLY2>レシピ【タオル？】が
+追加されました。","<CLY2>已追加配方
+【毛巾？】。",translated,系统文本,26a82e9215,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents05/taoru01.txt#87#14,"今度行くときは
+温泉用のタオルを
+用意していこう♪","下次去的时候
+准备好温泉用的
+小毛巾吧♪",translated,,353b3cfa71,br=0 nl=2,3,
+inc/event/res/dateevents05/taoru01.txt#88#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

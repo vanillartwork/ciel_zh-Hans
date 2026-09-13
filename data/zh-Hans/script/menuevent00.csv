@@ -1,0 +1,2044 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/menuevent00/alarm_set01.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/alarm_set01.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set01.txt#6#12,"<CLY2>時間を伝えるためにはイオンが室内にいる
+必要があります。",<CLY2>传达时间需要依恩身处室内。,translated,系统文本,8a257a861c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/alarm_set01.txt#10#12,"<CLY2>いま時間を伝えることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法传达时间。
+请等待依恩切换行动。",translated,系统文本,a1a4383c13,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set01.txt#17#12,"別の時間に起こしてほしいの？
+何時に起こそっか？","想要在其他时间叫醒你吗？
+几点叫醒你呢？",translated,依恩,e78a4c795a,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#19#12,"別の時間に起こしてほしいんだね。
+何時に起こしたらいいのかな？","想让我换个时间叫醒你对吧。
+几点叫醒你好呢？",translated,依恩,4a0fc78aa6,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#21#12,"起きる時間を変更したいの？
+何時に声をかけたらいいかな？","想更改起床时间吗？
+几点出声叫你好呢？",translated,依恩,5ace5c0482,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#25#12,"起こしてほしいの？
+何時に声をかけたらいいかな？","想让我叫醒你吗？
+几点出声叫你好呢？",translated,依恩,11b824cc7a,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#27#12,"これから休むの？
+何時に起こしたらいいかな？","接下来准备休息了吗？
+几点叫醒你好呢？",translated,依恩,b3c68a5f28,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#29#12,"時間になったら起こしてほしいんだね。
+何時に起きたいのかな？","到时间了想让我叫醒你对吧。
+想几点起床呢？",translated,依恩,326c158bb3,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set01.txt#34#12,じゃあ、その時間に起こすね。,好，那我就在那个时间叫醒你哦。,translated,依恩,55163be21f,br=0 nl=0,1,
+inc/event/res/menuevent00/alarm_set01.txt#36#12,"うん、わかった。
+あなたがちゃんと起きられるように
+頑張って起こすね。","嗯，我知道了。
+为了能让你按时起床，
+我会拼命叫醒你的哦。",translated,依恩,77d3bed1e6,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set01.txt#38#12,"えへへ、あなたが寝坊しないように
+頑張って起こすね。","诶嘿嘿，为了不让你睡过头，
+我会努力叫醒你的哦。",translated,依恩,5debaca0b4,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/alarm_set02.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set02.txt#6#12,"<CLY2>時間を伝えるためにはイオンが室内にいる
+必要があります。",<CLY2>传达时间需要依恩身处室内。,translated,系统文本,8a257a861c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/alarm_set02.txt#10#12,"<CLY2>いま時間を伝えることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法传达时间。
+请等待依恩切换行动。",translated,系统文本,a1a4383c13,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set02.txt#17#12,"約束の時間が変わったの？
+何時に声をかけよっか？","约定好的时间更改了吗？
+几点出声提醒你呢？",translated,依恩,99cf6174ee,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#19#12,"時間が変わったんだね。
+いつ声かけよっか？","时间更改了对吧。
+什么时候出声叫你呢？",translated,依恩,96a8b598bb,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#21#12,"時間が変わったの？
+何時に声をかけたらいいかな？","时间更改了吗？
+几点出声提醒你好呢？",translated,依恩,a027e35810,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#25#12,"約束の時間になったら教えてほしいんだね。
+何時に約束してるの？","到约定的时间了想让我提醒你对吧。
+是约在了几点呢？",translated,依恩,54853038c0,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#27#12,"だれかと約束してるんだね。
+いつ声をかけたらいいかな？","和谁有约定对吧。
+什么时候出声提醒你好呢？",translated,依恩,8995dc71f6,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#29#12,"大切な約束があるんだね。
+何時に声かけたらいいかな？","有很重要的约定对吧。
+几点出声提醒你好呢？",translated,依恩,7169522133,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set02.txt#34#12,"うん、わかったよ。
+あなたが遅れないように、
+わたしも気をつけておくね。","嗯，我知道了。
+为了不让你迟到，
+我也会多加留意的哦。",translated,依恩,07560009c9,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set02.txt#36#12,"わかった、その時間だね。
+あなたが遅刻しないように、
+気をつけておかなきゃ。","知道了，是那个时间对吧。
+为了不让你迟到，
+我可得多加注意呢。",translated,依恩,976facc2f9,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set02.txt#38#12,"じゃあ、その時間になったら教えるね。
+あなたも遅刻しないように、
+ちゃんと準備しててね。","那么，到了那个时间我就提醒你哦。
+你也为了不迟到，
+好好做好准备哦。",translated,依恩,216c3a448f,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set03.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/alarm_set03.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set03.txt#6#12,"<CLY2>時間を伝えるためにはイオンが室内にいる
+必要があります。",<CLY2>传达时间需要依恩身处室内。,translated,系统文本,8a257a861c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/alarm_set03.txt#10#12,"<CLY2>いま時間を伝えることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法传达时间。
+请等待依恩切换行动。",translated,系统文本,a1a4383c13,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/alarm_set03.txt#17#12,"大切な時間が変わったの？
+何時に声をかけよっか？","重要的时间变更了吗？
+几点出声提醒你呢？",translated,依恩,4efe6c2be8,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#19#12,"時間が変わったんだね。
+いつ声かけよっか？","时间更改了对吧。
+什么时候出声叫你呢？",translated,依恩,96a8b598bb,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#21#12,"時間が変わったの？
+何時に声をかけたらいいかな？","时间更改了吗？
+几点出声提醒你好呢？",translated,依恩,a027e35810,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#25#12,"大切な時間になったら教えてほしいんだね。
+いつ声をかけたらいいかな？","到了重要时刻想让我提醒你对吧。
+什么时候出声叫你好呢？",translated,依恩,0b066febfd,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#27#12,"これから大切なことがあるんだね。
+いつ頃声をかけたらいいのかな？","接下来有重要的事情对吧。
+大概什么时候提醒你好呢？",translated,依恩,1996857939,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#29#12,"大切な時間に声をかけてほしいの？
+それっていつ頃なの？","想让我在重要时刻出声提醒你吗？
+那大概是在什么时候呢？",translated,依恩,6f42a73fef,br=0 nl=1,2,
+inc/event/res/menuevent00/alarm_set03.txt#34#12,"うん、わかったよ。
+あなたが遅れないように、
+わたしも気をつけておくね。","嗯，我知道了。
+为了不让你迟到，
+我也会多加留意的哦。",translated,依恩,07560009c9,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set03.txt#36#12,"わかった、その時間だね。
+あなたが遅刻しないように、
+気をつけておかなきゃ。","知道了，是那个时间对吧。
+为了不让你迟到，
+我可得多加注意呢。",translated,依恩,976facc2f9,br=0 nl=2,3,
+inc/event/res/menuevent00/alarm_set03.txt#38#12,"じゃあ、その時間になったら教えるね。
+あなたも遅刻しないように、
+ちゃんと準備しててね。","那么，到了那个时间我就提醒你哦。
+你也为了不迟到，
+好好做好准备哦。",translated,依恩,216c3a448f,br=0 nl=2,3,
+inc/event/res/menuevent00/campos_move_after.txt#2#12,"これでよし、っと。
+またたくさんお話しようね。","这样就好啦。
+接下来也要多跟我聊聊天哦。",translated,依恩,ac1b16003e,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_after.txt#4#12,"ここでいいんだよね？
+また、何かあったらわたしに伝えてね。","放在这里就行了吧？
+要是还有什么事，再随时告诉我哦。",translated,依恩,5068ce090c,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_after.txt#6#12,"これでよしっと。
+場所を変えてほしいときは
+またいつでも教えてね。","这样就好啦。
+想换地方放的时候，
+随时再告诉我哦。",translated,依恩,fe7d1adb20,br=0 nl=2,3,
+inc/event/res/menuevent00/campos_move_before.txt#2#12,いつもの場所に移してほしいの？,想移到平时常放的地方吗？,translated,依恩,8c8879355c,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_before.txt#3#12,"それじゃあ、すぐに動かしちゃうから、
+ちょっとだけ待っててね。","那我这就移过去，
+稍微等我一下下哦。",translated,依恩,e6b515a5f8,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_before.txt#5#12,"テーブルに端末を動かせばいいんだね。
+すぐに動かしちゃうから、少しだけ待ってて。","把终端移到桌子上就行了吧。
+我这就挪过去，稍微等我一下哦。",translated,依恩,0b2e04143e,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_before.txt#7#12,キッチンに端末を移してほしいの？,想把终端移到厨房吗？,translated,依恩,3fe392ad5b,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_before.txt#8#12,"わたしもあなたが隣で見ててくれた方が
+嬉しいし、すぐに移動させちゃうね。","我也觉得有你在身旁看着更开心，
+我这就移过去哦。",translated,依恩,a0bf3bd58e,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_before.txt#10#12,えっと……お風呂に来たいの？,那个……想移到浴室来吗？,translated,依恩,037b3b8bf1,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_before.txt#11#12,"どうしても、って言うなら、いいよ。
+少し恥ずかしいけど、あなたなら……。","要是你无论如何都想的话，也可以哦。
+虽然有点害羞，但如果是你的话……",translated,依恩,d4d1550230,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#4#12,え！？,咦！？,translated,依恩,4d2f18c9e0,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#5#12,"い、いまはちょっと……。
+もう少しだけ待ってて。","现、现在稍微有点……
+再稍微等我一下下哦。",translated,依恩,605a3224ed,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#8#12,"ん？
+ここに移動するの？","嗯？
+移到这里来吗？",translated,依恩,17d3e25b4c,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#9#12,"でも、もう置いてあるし……
+このままで良いってこと？","可是，已经摆在这里了呀……
+意思是保持现状就好吗？",translated,依恩,eea75f12ff,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#12#12,うん、テーブルに移動してほしいんだね――,嗯，想移到桌子上对吧――,translated,依恩,390e4b25a1,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#13#12,って、もうテーブルに置いてるよ！,哎呀，已经放在桌子上了啦！,translated,依恩,b74ddfa1c0,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#14#12,もしかして、わたしのことからかってる？,难道说，你在拿我寻开心吗？,translated,依恩,8f25128d25,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#17#12,"えっと、もうキッチンに置いてあるよね？
+もしかして別の場所に置いてほしいのかな？","那个，已经摆在厨房里了哦？
+难道是想放在别的地方吗？",translated,依恩,4462e59696,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#18#12,"もしそうなら、どこに動かしてほしいか
+ちゃんと伝えてね。","如果是那样的话，
+想移到哪里要好好告诉我哦。",translated,依恩,ad052df305,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#19#12,"じゃないと、わたしもどうしたらいいか
+分からないよ。","不然的话，
+我也不知道该怎么做好啦。",translated,依恩,4b3cd18f8f,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#22#12,"え？
+お風呂に持って行ってほしいの？","诶？
+想拿到浴室里去吗？",translated,依恩,0b36bc26d2,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#23#12,"そう言われても、
+もうここがお風呂なんだけど……。","话虽这么说，
+但这里已经是浴室了呀……",translated,依恩,485f7a6e67,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#29#12,"え……そんなところに持っていったら、
+お話し辛くなっちゃうよ？","诶……拿到那种地方去的话，
+聊天会变得很不方便哦？",translated,依恩,7e0ffacc95,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#30#12,"せっかく、あなたが来てくれてるのに、
+面と向かってお話できないのは寂しいよ。","难得你过来看我，
+要是不能面对面聊天，会很寂寞的啦。",translated,依恩,5fd1cbb66f,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#35#12,"お風呂に持って行ってほしい……って、
+そんなところに移しても何もないよ？","想拿到浴室去……
+就算移到那种地方，也什么都没有哦？",translated,依恩,c644f596ea,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#36#12,それに、壁越しでお話するのはちょっと……。,而且隔着一面墙壁说话，总觉得有点……,translated,依恩,fd54618e04,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#37#12,"あなたには悪いけど、
+いまのままお話してたいな。","虽然对你很抱歉，
+但我还是想保持现在的样子聊天呢。",translated,依恩,ba81f28889,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#42#12,"え？
+キッチンに持って行ってほしいの？","诶？
+想拿到厨房去吗？",translated,依恩,ae8b6d940d,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#43#12,"でも、お料理とかしてるわけじゃないし、
+持って行っても仕方ないと思うよ。","可是我又不是在做饭，
+拿过去也没用呀。",translated,依恩,c706897eae,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#49#12,"ごめんね。
+もう少しだけ待ってて。","对不起哦。
+再稍微等我一下下。",translated,依恩,55c8735171,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#52#12,"このままで良い、ってことだよね？
+それとも何かうまく伝わってないのかな？","保持现状就好，是这个意思对吧？
+还是说有什么没能顺利传达清楚呢？",translated,依恩,1d43b7050f,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#55#12,"だから、もうテーブルに置いてあるよ。
+他にテーブルなんてないし……。","所以说，已经放在桌子上啦。
+这里也没有别的桌子了呀……",translated,依恩,f3fbe023cb,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#56#12,もしかして、何かに気付けてないのかな？,难道说，是我遗漏了什么事情吗？,translated,依恩,652f7ebfda,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#59#12,えっと……だからここがキッチンだよ。,那个……所以说这里就是厨房呀。,translated,依恩,d02d2f3f12,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#60#12,"なんだか、わたしが間違えてるような
+気がしてきたよ。","不知怎的，
+感觉好像是我搞错了一样呢。",translated,依恩,3b2e7451bd,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#63#12,もしかしてこっちまで来たい、ってこと？,难道说是想移到我这边来？,translated,依恩,c10cc49ef2,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_impos.txt#64#12,"そ、それはさすがに恥ずかしいから、
+遠慮してもらえると嬉しいな。","那、那未免太让人害羞了，
+能饶了我我会很感激的啦。",translated,依恩,6f2027a1a0,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#70#12,"……もしかして、わたしの顔みたくない、
+とか？　そんなことないよね？","……难道说，你不想看到我的脸吗？
+不会有这种事对吧？",translated,依恩,f400be87c9,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#75#12,"そんなにお風呂に持って行ってほしいの？
+もしかして、何か変なことをしようと――","就那么想拿到浴室里去吗？
+难道说，是想做什么奇怪的事情――",translated,依恩,dedb442252,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#76#12,"って、何かしようにも端末越しじゃ
+無理だよね。","哎呀，就算想做什么，
+隔着终端也做不到对吧。",translated,依恩,3a30f9e7b0,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#81#12,"そんなにキッチンに行きたいの？
+でも、さすがにいまは……。","就那么想去厨房吗？
+可是，现在果然还是不太方便……",translated,依恩,7bbac26b96,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_impos.txt#82#12,"次お料理するときに持って行くから、
+それを楽しみにしててほしいな。","下次做饭的时候我再拿过去，
+好好期待着那一刻吧。",translated,依恩,e8e6289e6a,br=0 nl=1,2,
+inc/event/res/menuevent00/campos_move_root.txt#12#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/campos_move_root.txt#17#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/campos_move_root.txt#18#12,"<CLY2>端末を移動してもらうためには
+イオンが室内にいる必要があります。",<CLY2>移动终端需要依恩身处室内。,translated,系统文本,e527e1a965,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/campos_move_root.txt#35#12,"<CLY2>いま端末を移動できません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法移动终端。
+请等待依恩切换行动。",translated,系统文本,eb17da7122,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#5#12,<CLY2>イオンとデートの約束をしてません。,<CLY2>尚未与依恩约定约会。,translated,系统文本,548aec50bd,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#8#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#9#12,"<CLY2>デートを断るためにはイオンが室内にいる
+必要があります。",<CLY2>取消约会需要依恩身处室内。,translated,系统文本,8d66feb253,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/dateevent_cansel.txt#12#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#13#12,"<CLY2>デートを断るためにはイオンが室内にいる
+必要があります。",<CLY2>取消约会需要依恩身处室内。,translated,系统文本,8d66feb253,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/dateevent_cansel.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#17#12,"<CLY2>デートを断るためにはイオンが室内にいる
+必要があります。",<CLY2>取消约会需要依恩身处室内。,translated,系统文本,8d66feb253,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/dateevent_cansel.txt#20#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#24#12,"<CLY2>いまデートを断ることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法取消约会。
+请等待依恩切换行动。",translated,系统文本,a699161193,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#27#12,"<CLY2>デートの約束をキャンセルした場合、
+すぐに別の約束をすることは出来ません。","<CLY2>若取消约会约定，
+无法立即定下另一项约定。",translated,,11b5dcda55,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#28#12,<CLY2>キャンセルしますか？,<CLY2>要取消吗？,translated,,7cd0f6ad6d,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_cansel.txt#29#12,デートをキャンセルする,取消约会,translated,,f96a10b287,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#30#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#37#12,"え？
+デートにいけなくなっちゃったの？","诶？
+没办法去约会了吗？",translated,依恩,3817e6b5a3,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_cansel.txt#39#12,え……約束してた日に用事できちゃったの？,诶……约定好的那天有事脱不开身吗？,translated,依恩,54cd3696ef,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#41#12,そっか、急用入っちゃったんだ……。,这样啊，临时有急事了呀……,translated,依恩,96ef82d35d,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#44#12,楽しみにしてたのに……。,亏我还那么期待的说……,translated,依恩,df92941724,br=0 nl=0,1,
+inc/event/res/menuevent00/dateevent_cansel.txt#46#12,"たくさんお話できるチャンスだと
+思ったのに……。","明明还以为
+是能好好聊聊天的绝好机会……",translated,依恩,2394d66bed,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_cansel.txt#48#12,"せっかくあなたとお出かけできると
+思ってたのに……。","亏我还想着
+好不容易能和你一起出门了呢……",translated,依恩,e62c4401af,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_cansel.txt#51#12,"でも、仕方ないかな……。
+また今度デートしようね。","不过，也是没办法的事呢……
+下次再去约会吧。",translated,依恩,a0f8e3f46c,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_cansel.txt#53#12,"けど、こんなときもあるよね。
+次は約束通りデートに行こうね。","不过，偶尔也会有这种情况呢。
+下次一定要如约去约会哦。",translated,依恩,ee3f5513ee,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_cansel.txt#55#12,"次はちゃんと約束守ってね？
+すっごく楽しみにしてるんだから。","下次一定要遵守约定哦？
+因为我真的非常非常期待嘛。",translated,依恩,c4cc582a4d,br=0 nl=1,2,
+inc/event/res/menuevent00/dateevent_check.txt#3#12,<CLY2>海へ行く約束をしています。,<CLY2>已约定前往海边。,translated,系统文本,7e8bdfbf7e,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#5#12,<CLY2>学校へ行く約束をしています。,<CLY2>已约定前往学校。,translated,系统文本,3d72c66d08,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#7#12,"<CLY2>ショッピングセンターへ行く約束を
+しています。",<CLY2>已约定前往购物中心。,translated,系统文本,7c714aff4f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#9#12,<CLY2>パーツ屋へ行く約束をしています。,<CLY2>已约定前往零件店。,translated,系统文本,68b58c2893,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#11#12,<CLY2>カフェへ行く約束をしています。,<CLY2>已约定前往咖啡馆。,translated,系统文本,9e0c4b3976,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#13#12,<CLY2>温泉へ行く約束をしています。,<CLY2>已约定前往温泉。,translated,系统文本,4588245f1a,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#15#12,<CLY2>縁日へ行く約束をしています。,<CLY2>已约定前往庙会游园。,translated,系统文本,5cd76ec0c3,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#17#12,<CLY2>プラネタリウムへ行く約束をしています。,<CLY2>已约定前往天文馆。,translated,系统文本,c6e9770456,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/dateevent_check.txt#19#12,<CLY2>水族館へ行く約束をしています。,<CLY2>已约定前往水族馆。,translated,系统文本,fad151657f,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#21#12,<CLY2>教会へ行く約束をしています。,<CLY2>已约定前往教会。,translated,系统文本,634643a783,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/dateevent_check.txt#23#12,<CLY2>イオンとデートの約束をしてません。,<CLY2>尚未与依恩约定约会。,translated,系统文本,548aec50bd,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/event_check01.txt#2#12,"<CLY2>　　　　『７次元世界からのカフェレストラン』
+　 %d 年 %d 月 %d 日 ～ %d 月 %d 日
+ 詳しくはこちら → http://social.gust.co.jp","<CLY2>　　　　‘来自７次元世界的咖啡餐厅’
+　 %d 年 %d 月 %d 日 ～ %d 月 %d 日
+ 详情请见 → http://social.gust.co.jp",translated,Ciel nosurge×Schatzkiste,e8773198dd,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=35
+inc/event/res/menuevent00/event_check02.txt#2#12,"<CLY2>　　　　　　　　『７次元世界からの感謝状』
+　 %d 年 %d 月 %d 日 ～ %d 月 %d 日","<CLY2>　　　　　　　　‘来自７次元世界的感谢信’
+　 %d 年 %d 月 %d 日 ～ %d 月 %d 日",translated,依恩的感谢CD,b224888789,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=28
+inc/event/res/menuevent00/event_check02.txt#3#12,"<CLY2>詳しくはこちら↓
+http://social.gust.co.jp/pc/ciel/cieluser/
+home/","<CLY2>详情请见↓
+http://social.gust.co.jp/pc/ciel/cieluser/
+home/",translated,依恩的感谢CD,56fdc248a4,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=42
+inc/event/res/menuevent00/genomilink_00.txt#7#12,"ジェノミリンクとは、『シェルノサージュ 
+DX』と『アルノサージュ DX』の間で
+データをやりとりする機能です。","所谓杰诺米链接，是指在《Ciel nosurge
+DX》与《Ar nosurge DX》之间
+进行数据互通传输的功能。",translated,【何谓杰诺米链接(1/5)】,c992d2d482,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_00.txt#8#12,"ジェノミリンクの機能として、
+『セカイリンク』があります。","在杰诺米链接的功能之中，
+包含有“世界链接”。",translated,【何谓杰诺米链接(2/5)】,647dddc8b1,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_00.txt#9#12,『セカイリンク』の機能について説明します。,下面说明“世界链接”的功能。,translated,【何谓杰诺米链接(3/5)】,5412fa72eb,br=0 nl=0,1,
+inc/event/res/menuevent00/genomilink_00.txt#12#12,"『セカイリンク』は、シェルノサージュDXと
+アルノサージュDXで、それぞれの進行状況や、
+アイテムなどを交換する機能です。","“世界链接”是在Ciel nosurge DX与
+Ar nosurge DX之间，
+交换各自的游戏进度及道具等的功能。",translated,【何谓杰诺米链接(4/5)】,6f2ffe1eb3,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_00.txt#15#12,"詳細説明は、メニューより『セカイリンク』を
+選択して確認してください。","详细说明请在菜单中
+选择“世界链接”进行确认。",translated,【何谓杰诺米链接(5/5)】,8662170edc,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_01.txt#7#12,"『セカイリンク』とは、『シェルノサージュ
+ DX』と『アルノサージュ DX』の
+間で様々なデータをやりとりする機能です。","所谓“世界链接”，是指在《Ciel nosurge
+DX》与《Ar nosurge DX》之间
+互通交换各类数据的功能。",translated,【何谓世界链接(1/4)】,3c6df776c7,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_01.txt#10#12,"《シェルノサージュ DX→アルノサージュ DX》
+　１．シナリオ進行状況
+　２．プラグインアイテム","《Ciel nosurge DX→Ar nosurge DX》
+　１．剧本进行状况
+　２．插件道具",translated,【何谓世界链接(2/4)】,ee61f55444,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_01.txt#13#12,"《アルノサージュ DX→シェルノサージュ DX》
+　１．シナリオ進行状況","《Ar nosurge DX→Ciel nosurge DX》
+　１．剧本进行状况",translated,【何谓世界链接(3/4)】,1bb80f8267,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_01.txt#16#12,"更に、『アルノサージュ DX』では、
+シェルノサージュ DXのコスチューム３種を
+転送することが可能です。","此外，在《Ar nosurge DX》中，
+还可以传送来自
+Ciel nosurge DX的３种服装。",translated,【何谓世界链接(4/4)】,447562cecf,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_02.txt#7#12,"シェルノサージュDXとアルノサージュDXの
+間でセカイリンクを可能にする為には、
+次の条件が必要となります。","若要在Ciel nosurge DX与
+Ar nosurge DX之间开启世界链接，
+需要满足以下条件：",translated,【链接所需条件(1/3)】,02a582b44a,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_02.txt#10#12,"同一の機種、ユーザーアカウントで
+シェルノサージュDXと
+アルノサージュDXをプレイすること。","必须在同一机种、同一用户账号下
+游玩Ciel nosurge DX与
+Ar nosurge DX。",translated,【链接所需条件(2/3)】,edd855e44b,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_02.txt#11#12,"機種、ユーザーアカウントが異なる場合、
+セカイリンクが出来ません。","机种或用户账号不同时，
+无法进行世界链接。",translated,【链接所需条件(3/3)】,41bd9ea2fc,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_03.txt#7#12,"ここでは、セカイリンクがいつ行われるかを
+説明します。","此处说明世界链接
+将在何时生效执行。",translated,【链接的时机(1/8)】,ac23ae2fd6,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_03.txt#10#12,"セカイリンクのオペレーションは、
+『アルノサージュ DX』の
+ゲーム内で行います。","世界链接的操作，
+需在《Ar nosurge DX》的游戏内进行。",translated,【链接的时机(2/8)】,936c6b8b26,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#11#12,"アルノサージュDXのゲーム内における
+セーブサークルで「ジェノミリンク」→
+「セカイリンク」と操作することで行われます。","在Ar nosurge DX游戏内的存档光阵处，
+依次操作“杰诺米链接”→
+“世界链接”即可执行。",translated,【链接的时机(3/8)】,26dd0c819f,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#14#12,"この時、シェルノサージュDX、
+アルノサージュDXのリンクデータが
+読み込まれ反映されます。","此时，Ciel nosurge DX与
+Ar nosurge DX的链接数据
+将被读取并予以反映同步。",translated,【链接的时机(4/8)】,f06a8eceff,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#15#12,"アルノサージュDXにて、このコマンドを使わな
+い限り、リンクデータは更新されませんので、
+ご注意ください。","在Ar nosurge DX中只要未使用该指令，
+链接数据便不会更新，
+请多加留意。",translated,【链接的时机(5/8)】,61f2328ae2,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#18#12,"また、『シェルノサージュ DX』では、
+アルノサージュDXと同様にセカイリンクを
+行ってデータを更新します。","此外在《Ciel nosurge DX》中，
+需同Ar nosurge DX一样进行世界链接
+来更新数据。",translated,【链接的时机(6/8)】,a4ef9faca7,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#19#12,"セッティング画面から「ジェノミリンク」→
+「セカイリンク」の手順を踏むことでデータの
+確認が行われます。","在设置画面中依次进行“杰诺米链接”→
+“世界链接”的操作步骤，
+即可对数据进行核对确认。",translated,【链接的时机(7/8)】,20c234d4f7,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_03.txt#20#12,"こちらもセカイリンクを使わない限り、
+リンクデータは更新されませんので、
+ご注意ください。","此处只要未使用世界链接，
+链接数据同样不会更新，
+请多加留意。",translated,【链接的时机(8/8)】,6b129edaa5,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_04.txt#7#12,"シェルノサージュDXからアルノサージュDXに
+送られるアイテムは、プラグイン全種と
+コスチューム３種です。","从Ciel nosurge DX发送至
+Ar nosurge DX的道具，
+为全套插件道具以及３种服装。",translated,【道具传送特别说明(1/3)】,619b250fe4,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_04.txt#10#12,"１セーブデータごとに対象となるアイテムが最
+大１個ずつアルノサージュDXに転送されます。","每个存档中对应的目标道具，
+最多各有１个会被传送至Ar nosurge DX。",translated,【道具传送特别说明(2/3)】,a135b3d6c6,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_04.txt#11#12,"転送されたときに、シェルノサージュDX側の
+アイテム個数が減ることはありません。","在传送完成后，Ciel nosurge DX一侧的
+道具持有数量并不会减少。",translated,【道具传送特别说明(3/3)】,77cf48ab63,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_05.txt#7#12,"セカイリンクをすることで、アルノサージュDX
+のイオンが、「あなた」を認識できるように
+なります。","通过进行世界链接，Ar nosurge DX的
+依恩便能够辨识知晓“你”的存在。",translated,【链接推荐(1/3)】,a3d92a97c3,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_05.txt#10#12,"その為、一部イベントの会話が、あなたを
+知っていること前提での会話になります。","因此，一部分事件的对话文本，
+将转变为以知晓你为前提的特殊对话。",translated,【链接推荐(2/3)】,54cb10d165,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_05.txt#11#12,"是非、シェルノサージュDXの延長線上に
+存在する可能性軸の、アルノサージュDXを
+お楽しみください！","请务必尽情享受身处Ciel nosurge DX
+延长线可能性维度上的Ar nosurge DX！",translated,【链接推荐(3/3)】,58ae888727,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_06.txt#7#12,"GPフュージョンとは、ガストのWEBページで
+管理する「GP（ガストポイント）」を、
+アルノサージュに転送する機能です。","所谓GP融合，是指将Gust网页上
+所管理的“GP（Gust Point）”，
+传送至Ar nosurge之中的功能。",translated,【何谓GP融合(1/3)】,ef476c36f9,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_06.txt#10#12,"アルノサージュでは、GPを使うことで
+戦闘終了時にゲットできる「経験値」「DP」
+「CT（お金）」を倍増できます。","在Ar nosurge中通过消耗GP，
+可使战斗胜利时获取的“经验值”、
+“DP”、“CT（金钱）”翻倍。",translated,【何谓GP融合(2/3)】,3b653fd72d,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_06.txt#13#12,"シェルノサージュからは、HymPを、
+WEB上の変換ツールによってGPに
+変換することができます。","在Ciel nosurge中，可以通过网页端的
+转换工具将HymP转换为GP。",translated,【何谓GP融合(3/3)】,18ccca670e,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_07.txt#7#12,"HymPをGPに変換するには、
+WEB上のツールを利用して行います。","要将HymP转换为GP，
+需利用网页端提供的工具来完成。",translated,【HymP的转换方法(1/5)】,b261119aeb,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_07.txt#10#12,"サージュコンチェルトソーシャル
+http://social.gust.co.jp/pc/ciel/cieluser/
+にある「HymP→GP変換」ツールで行います。","请在Surge Concerto Social
+http://social.gust.co.jp/pc/ciel/cieluser/
+中的“HymP→GP转换”工具处操作。",translated,【HymP的转换方法(2/5)】,1e6401ba83,br=0 nl=2,3,src-longest-line=42
+inc/event/res/menuevent00/genomilink_07.txt#13#12,"メニューをクリックすると、変換したい
+GP数を選択する画面が表示されます。","点击菜单后，将显示用于选择
+想要转换的GP数量的画面。",translated,【HymP的转换方法(3/5)】,687a8c4316,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_07.txt#16#12,"ここで、変換したいGP数を入力し、
+実行してください。
+規程のHymPが消費され、GPに変換されます。","在此处输入想要转换的GP数量并执行。
+即可消耗规定数量的HymP并转换为GP。",translated,【HymP的转换方法(4/5)】,7609c6660e,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_07.txt#19#12,"その後、アルノサージュのセーブサークルで
+「セカイリンク」→「GPフュージョン」を
+確認すると、そのGPを使えます。","随后在Ar nosurge的存档光阵处核对
+“世界链接”→“GP融合”，
+即可使用该GP。",translated,【HymP的转换方法(5/5)】,208fe3a52d,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_08.txt#7#12,"HymPからGPに変換する際には
+変換レートがあります。","将HymP兑换为GP时，
+存在兑换比率。",translated,【HymP转换汇率(1/6)】,e837087885,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_08.txt#8#12,"それは、HymPからGPに通算で変換した
+GPポイント数によって、1GPに変換する際に
+必要になるHymPが増加するものです。","这是指，根据HymP累计兑换成的
+GP点数，每兑换1GP所需要的
+HymP数量也会随之增加。",translated,【HymP转换汇率(2/6)】,d9468520d2,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_08.txt#11#12,"例えば、通算で1回目の１GPの変換にかかる
+HymPは、100ポイントです。","例如，累计第1次兑换1GP时
+所需的HymP为100点。",translated,【HymP转换汇率(3/6)】,5c216da11b,br=0 nl=1,2,
+inc/event/res/menuevent00/genomilink_08.txt#12#12,"しかし、通算で30回目の１GPを変換する
+には、100HymPではできません。
+より高額のHymPを必要とします。","但是，累计第30次兑换1GP时，
+100HymP就无法兑换了。
+需要消耗更多的HymP。",translated,【HymP转换汇率(4/6)】,be838917f3,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_08.txt#13#12,"このレートは、１GPずつ変換しても、
+30GP一気に変換しても同じように
+必要HymPは上昇していきます。","这个比率不管是每次兑换1GP，
+还是一口气兑换30GP，
+所需HymP的上涨幅度都是相同的。",translated,【HymP转换汇率(5/6)】,17995eefa0,br=0 nl=2,3,
+inc/event/res/menuevent00/genomilink_08.txt#16#12,"変換レートについては、サージュ
+コンチェルトソーシャルの、HymP→GP変換
+ページに、一覧表があります。","关于兑换比率，在Surge Concerto
+Social的HymP→GP兑换
+页面中有一览表。",translated,【HymP转换汇率(6/6)】,41edc9c8da,br=0 nl=2,3,
+inc/event/res/menuevent00/lovers_revenge.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#6#12,"<CLY2>告白するためにはイオンが室内にいる
+必要があります。",<CLY2>告白需要依恩身处室内。,translated,系统文本,f36a15d8d7,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#10#12,"<CLY2>告白するためにはイオンが室内にいる
+必要があります。",<CLY2>告白需要依恩身处室内。,translated,系统文本,f36a15d8d7,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#14#12,"<CLY2>告白するためにはイオンが室内にいる
+必要があります。",<CLY2>告白需要依恩身处室内。,translated,系统文本,f36a15d8d7,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#21#12,"<CLY2>いま再告白することはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法再次告白。
+请等待依恩切换行动。",translated,系统文本,a42a075e05,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/lovers_revenge.txt#30#12,"ん？
+どうしたのお話したくなった？","嗯？
+怎么啦，想跟我聊聊天了吗？",translated,依恩,0bacc99e94,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#31#12,海に行かない？,要不要去海边？,translated,,d28ce48e55,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#33#12,"海に？
+別に良いけど……。","去海边？
+我倒是无所谓啦……",translated,依恩,83a5a74269,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#34#12,準備するから少しだけ待っててね。,我准备一下，稍微等我会儿哦。,translated,依恩,44163c550e,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#43#12,"えへへ、おまたせ。
+早速行こうっか。","诶嘿嘿，让你久等啦。
+我们这就出发吧。",translated,依恩,2bddaaf8f3,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#45#12,"う～ん！
+やっぱりここは何度きても暑いね。","唔――！
+果然这里不管来多少次都好热呢。",translated,依恩,3b06eb65e7,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#46#12,"でも、ここの暑さって不思議と心地良い
+感じもするんだよ。","不过，这里的热意不可思议地
+让人觉得挺舒服的呢。",translated,依恩,821fe763ce,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#47#12,"もしかしたら、あなたが作ってくれてる
+世界だからかも。","说不定，是因为这是你为我
+创造的世界吧。",translated,依恩,3da001e8dc,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#50#12,少し歩かない？,要稍微走走吗？,translated,,87c680b76b,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#52#12,"どうしたの？
+なんか様子がおかしいけど……。","怎么啦？
+总觉得你的样子有点奇怪……",translated,依恩,c7aaa6d971,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#53#12,"……ねぇ、ちょっと歩こっか。
+気分転換になるかもしれないし。","……呐，我们去散散步吧。
+说不定还能转换一下心情呢。",translated,依恩,89f847edac,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#56#12,"うん、せっかく海に来たんだもんね。
+少し歩いて回ろっか。","嗯，难得来了一趟海边嘛。
+稍微到处走走吧。",translated,依恩,848369e2b1,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#63#12,"なんか、こうしてるとあなたに
+告白したときのこと思い出すね。","总觉得，像这样待着就会想起
+向你告白时的事情呢。",translated,依恩,716f3254d7,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#64#12,結局、断られちゃったけど……。,虽然结果还是被你拒绝了……,translated,依恩,8f5334fe91,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#65#12,"あっ！　ごめんね！
+あなたのことを責めてるわけじゃないの。","啊！对不起！
+我并没有要怪你的意思哦。",translated,依恩,1e79613914,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#66#12,"ただ、それでもこうしてあなたは
+わたしと一緒にいてくれた。
+それが嬉しくて……。","只是，即便如此你还是像这样
+陪在了我的身边。
+我真的好高兴……",translated,依恩,9126a450fe,br=0 nl=2,3,
+inc/event/res/menuevent00/lovers_revenge.txt#67#12,"あなたのこと信じてたけど、
+それでもやっぱり怖くて――","虽然我相信你，
+但那时果然还是很害怕――",translated,依恩,eeb4f26f38,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#68#12,"これまでの関係が崩れて、気まずくて……
+もう会えないじゃないかって何回も考えた。","关系就此破裂、陷入尴尬……
+我无数次想过会不会再也见不到你了。",translated,依恩,a81439be60,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#69#12,でも、あなたはわたしといてくれた……。,但是，你依然陪伴着我……,translated,依恩,9f2fbf8ed3,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#70#12,"えへへ、やっぱりわたしの信じたあなたは
+嘘じゃなかった。","诶嘿嘿，我所相信的你
+果然没有让我失望。",translated,依恩,acade072b0,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#72#12,話がある……,我有话想对你说……,translated,,2a31636cec,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#75#12,あ……うん……。,啊……嗯……,translated,依恩,a7b4f3f4e5,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#76#12,ごめんね、ほんとはわかってたの……。,对不起，其实我心里都明白的……,translated,依恩,c6849ef3bf,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#77#12,お別れを……言いに来たんだよね。,你是来……跟我道别的吧。,translated,依恩,b7c59ac421,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#78#12,……違う！,……不是的！,translated,,96e227cc8a,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#79#12,それなのにわたし、話をはぐらかして……。,可我却一直顾左右而言他……,translated,依恩,141c5e2466,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#80#12,"これまでも一緒にいてくれるようにって、
+あなたを押さえつけるようなことを言って……。","还为了让你能像之前一样陪着我，
+净说些束缚你的话……",translated,依恩,15a56f8f87,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#81#12,"ごめんなさい……。
+わたし、卑怯だね……。","对不起……
+我真的很卑鄙呢……",translated,依恩,1e2f9d6838,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#83#12,違う！！,不是的！！,translated,,5593c2e802,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#85#12,"え？
+それってどういう……。","诶？
+那是说明……",translated,依恩,f0b8ff8960,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#93#12,"<CLBU>え！？
+う、うそ……。","<CLBU>诶！？
+骗、骗人……",translated,依恩,c271e83197,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/menuevent00/lovers_revenge.txt#94#12,"もう、ダメなんだって……
+諦めてたのに……。","明明我都觉得已经不行了……
+明明都已经死心了……",translated,依恩,0c2d2ba96c,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#95#12,"ほんとに……良いの？
+わたしなんかで……。","真的……可以吗？
+由我这样的人来……",translated,依恩,712a2dcf58,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#97#12,伝えたとおり,就像我刚才说的,translated,,74c13e39be,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#99#12,あ……あり、ありが――,谢……谢、谢谢――,translated,依恩,06adef1e3b,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#101#12,おんめでとーーー！！,恭喜你们啦――！！,translated,妮莉库,9a2cd12a61,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#102#12,ひゃぁぁ！,呀啊啊！,translated,依恩,c35834b805,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#105#12,ね、ねねね、ねりこさん！？,妮、妮妮妮、妮莉库小姐！？,translated,依恩,536ef120e0,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#106#12,"いやぁ、良かった良かった。
+一時はどうなることかと思って
+おったんじゃよ。","哎呀，太好了太好了。
+一度我还担心会变成什么样呢。",translated,妮莉库,2c65c6228f,br=0 nl=2,3,
+inc/event/res/menuevent00/lovers_revenge.txt#107#12,"正直、お前さんが断ると思っておらんかった
+からのぅ。","说老实话，我之前可没想到
+你居然会拒绝呀。",translated,妮莉库,0f6cbd0d24,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#108#12,"あのままなし崩し的にいなくなってしまうん
+じゃないかとハラハラしとったんじゃよ。","我还提心吊胆着，怕你会不会
+就那样不明不白地直接消失了呢。",translated,妮莉库,36afb44ee9,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#109#12,"まぁ、何はともあれめでたいことじゃ。
+とうだいもり、良かったのぅ。","嘛，不管怎么说都是件大喜事。
+灯塔守，太好了呢。",translated,妮莉库,5cc2cf3be0,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#110#12,え、えへへ、ありがとうございます。,诶、诶嘿嘿，谢谢您。,translated,依恩,c2261944cb,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#111#12,"けど、ねりこさん、
+いつから聞いてたんですか？","不过，妮莉库小姐，
+您是从什么时候开始听的啊？",translated,依恩,2ed9985242,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#112#12,そんなもん、最初からに決まっとるじゃろ。,那还用问，当然是从一开始啦。,translated,妮莉库,60f90304f9,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#113#12,こんな面白イベント逃すわけにはいかんしの。,这么有趣的活动我怎么能错过嘛。,translated,妮莉库,efc98acc61,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#114#12,あぅ……恥ずかしい……。,呜……好害羞……,translated,依恩,eab2309f08,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#117#12,雰囲気ぶち壊し,气氛全被毁了,translated,,530bcfb23a,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#119#12,"なんじゃ、お前さんも照れておるのか？
+意外とかわいいところがあるではないか。","怎么，连你也害羞起来了吗？
+没想到你还有挺可爱的一面嘛。",translated,妮莉库,bffb6738be,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#122#12,"いやぁ、すまんすまん。
+見てるだけにしようとは思っておったんじゃが
+……つい、の。","哎呀，抱歉抱歉。
+我本来是打算只在旁边看着的，
+但……一不留神就忍不住了。",translated,妮莉库,d25cab728f,br=0 nl=2,3,
+inc/event/res/menuevent00/lovers_revenge.txt#124#12,"せっかくのめでたい場なんじゃから、
+このくらいの茶目っ気は許してくれても
+良いじゃろ？","难得这么喜庆的场面，
+稍微开个小小的玩笑，
+原谅我也无妨吧？",translated,妮莉库,1fcb5abfad,br=0 nl=2,3,
+inc/event/res/menuevent00/lovers_revenge.txt#125#12,"でないと、そのうちお前さんが
+とうだいもりに見限られるかもしれんぞ？","不然的话，迟早有一天你会被
+灯塔守给抛弃也说不定哦？",translated,妮莉库,4439facc49,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#126#12,そ、そんなこと絶対にないです！,绝、绝对不可能有这种事！,translated,依恩,3057b079ee,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#127#12,"ほほぅ、絶対か。
+早速見せつけてくれるのぅ。","吼吼，绝对吗。
+这么快就开始秀恩爱了呀。",translated,妮莉库,03cd1f8a04,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#128#12,もう、ねりこさん！！,真是的，妮莉库小姐！！,translated,依恩,a45d8fed1a,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#129#12,"むふふ、ではお邪魔虫の我は帰るとするかの。
+二人ともあまりイチャつくでないぞ♪","唔呼呼，那碍事的我这就回去了。
+你们两个可别卿卿我我得太厉害哦♪",translated,妮莉库,66236ddd78,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#131#12,もう、ねりこさんったら……。,真是的，妮莉库小姐真是……,translated,依恩,bbfbb25f08,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#132#12,わたしたちも、そろそろ戻ろっか。,我们也差不多该回去啦。,translated,依恩,c262c5f7aa,br=0 nl=0,1,
+inc/event/res/menuevent00/lovers_revenge.txt#134#12,"あ、あはは、なんか変なことに
+なっちゃったけど……。","啊、啊哈哈，虽然不知怎么
+搞成了这种奇怪的发展……",translated,依恩,ab767b0f15,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#135#12,"その……すごく嬉しかったよ。
+ありがとう。","那个……我真的很高兴哦。
+谢谢你。",translated,依恩,3f6d89ff76,br=0 nl=1,2,
+inc/event/res/menuevent00/lovers_revenge.txt#136#12,これからもずっとずっと、一緒にいようね。,今后也要一直一直在一起哦。,translated,依恩,10392fe5c9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#3#12,今日もあなたに添い寝してもらいたいな。,今天我也想让你陪我一起睡呢。,translated,依恩,275791a964,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#4#12,こっちもそう思ってた,我也正这么想呢,translated,,1eda7436cb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#5#12,疲れてるから一人で寝たい,我很累，想一个人睡,translated,,55cb5825bd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#7#12,"寝る瞬間まで、あなたと色々お話すると、
+いい夢が見れるの。","在入睡前的最后一刻能和你聊聊天，
+就能做个好梦呢。",translated,依恩,f1edeac844,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#9#12,"それに、起きてる時間は出来る限り
+あなたと一緒にいたいし……。","而且，只要醒着的时候，
+我都想尽可能多和你待在一起嘛……",translated,依恩,40a4620f41,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#11#12,"……あ、あれ？
+もしかして、退席中？","……诶、诶？
+难道说，暂时不在吗？",translated,依恩,29ff89c621,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#13#12,"はぁ……今日は添い寝無しかぁ……。
+ちょっと寂しいな。","唉……今天不能一起睡啊……
+有点寂寞呢。",translated,依恩,86695b6fa9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#17#12,"えへへ、やっぱり夫婦なんだから、
+一緒に寝るのは当然だよね？","诶嘿嘿，毕竟我们是夫妻嘛，
+一起睡也是理所当然的对吧？",translated,依恩,fedc88e512,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#18#12,今日はどんなお話しようかなぁ？,今天聊些什么好呢？,translated,依恩,ca33689be2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#22#12,"そっか……。
+そういう事情があるなら仕方ないね。","这样啊……
+既然有这种情况那也没办法呢。",translated,依恩,20c62fc69f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#23#12,"今日はゆっくり休んで、また元気な日に
+お願いするよ、","今天就好好休息，等你有精神的日子
+我再拜托你吧。",translated,依恩,29fb0c19e9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#26#12,きょ、今日も……ご一緒して、いい？,今、今天也能……一起睡吗？,translated,依恩,593fc50d41,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#27#12,もちろん,当然了,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#28#12,一人で寝たい,想一个人睡,translated,,8f2657fffd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#32#12,"あ、あの……一緒に寝たいなぁ、って
+思ってるんだけど……。","那、那个……我想着要是能
+一起睡就好了……",translated,依恩,4ae2872ea3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#34#12,"……あれ？
+もしかして、いない？","……咦？
+难道说，不在吗？",translated,依恩,85b9ec86f9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#36#12,"い、いないみたいだね……。
+う～、恥ずかしい……。","好、好像不在呢……
+呜――好害羞……",translated,依恩,487e6bb5ec,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#40#12,え、えへへ……嬉しいな……。,诶、诶嘿嘿……真高兴……,translated,依恩,8cb35fc72f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#41#12,"それじゃ、準備してくるね。
+先に寝ちゃダメだよ？","那我这就去准备哦。
+可不许先睡着哦？",translated,依恩,6310dbc551,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#45#12,そ、そっか……。,这、这样啊……,translated,依恩,d4c99105ec,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#46#12,"ううん、何でもない。
+それじゃ、おやすみなさい。","不，没什么。
+那么，晚安啦。",translated,依恩,24baf50e0d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#49#12,"今日はもうおやすみなさいなの？
+それじゃ、わたしも隣で寝よっかな？","今天这就准备晚安了吗？
+那我也到你身边一起睡吧？",translated,依恩,6bb7337e5b,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#50#12,一緒に寝たい,想一起睡,translated,,05562612c5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#51#12,一人で大丈夫,一个人就行,translated,,f5ddac14aa,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#53#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#55#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#57#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#59#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#63#12,"えへへ♪
+それじゃ、わたしもベッドに行くから
+ちょっと待っててね。","诶嘿嘿♪
+那我这就去床上，
+稍微等我一下哦。",translated,依恩,05a3af92d3,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bed1.txt#64#12,あなたも、寝る支度をしておいてね♪,你也准备好去睡觉吧♪,translated,依恩,1fd860b767,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed1.txt#68#12,"そっか。
+それじゃ、おやすみなさい♪","这样啊。
+那么，晚安啦♪",translated,依恩,75f36e2381,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed1.txt#69#12,ゆっくり休んでね？,好好休息哦？,translated,依恩,cbf1491a09,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed2.txt#2#12,くぅ……すぅ……。,呼……呼……,translated,依恩,d25d1c515d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed2.txt#3#12,"……ねりこさんと、浮気……
+ダメだよぉ……。","……和妮莉库小姐出轨……
+可不行哦……",translated,依恩,26821cffa6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed2.txt#5#12,んぅ……えへへ……。,唔……诶嘿嘿……,translated,依恩,b0ce0b7672,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed2.txt#6#12,……くぅ……すぅ……。,……呼……呼……,translated,依恩,72fd9c1d51,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed2.txt#8#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#2#12,えっ、もう寝ちゃうの！？,诶，已经要睡了吗！？,translated,依恩,23c5708cc8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#3#12,"わたしも一緒に寝たいから、もう少しだけ
+待っててほしいんだけど……。","我也想和你一起睡，
+能再稍微等我一下下吗……",translated,依恩,7bfc67e06c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#4#12,頑張ってみる,我尽量撑住,translated,,3e0df945d9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#5#12,限界、もうダメ……,到极限了，撑不住了……,translated,,c44b745db5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#7#12,"ああ、でも髪の毛まだ洗ってないから
+もう少し時間かかっちゃうかも。","啊，不过我头发还没洗，
+可能会稍微多花点时间。",translated,依恩,26474dafcd,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#9#12,"でも、なるべく急ぐからもう少しだけ
+待っててもらえるかな？","不过我会尽量快点的，
+能再稍微等我一下下吗？",translated,依恩,a6baecda49,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#11#12,"……あ、あれ？
+おーい、聞こえてるー？","……诶、诶？
+喂――听得见吗――？",translated,依恩,91329ca4df,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#13#12,"……先に寝ちゃったのかな？
+うぅ、一緒に寝たかったのに……。","……已经先睡着了吗？
+呜呜，明明想一起睡的……",translated,依恩,bfec70ca71,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#17#12,ごめんね、眠いのに無理言っちゃって。,对不起哦，你都这么困了还勉强你。,translated,依恩,5cf6c160d2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#18#12,"もう少しで出られると思うから、
+頑張ってね。","我想再过一会儿就能出去了，
+坚持一下哦。",translated,依恩,be951102ec,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#24#12,"そっか……そんなに眠いなら、
+無理はさせられないよ。","这样啊……要是那么困的话，
+也不能勉强你呢。",translated,依恩,91c863e0ad,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#25#12,"おやすみなさい……。
+明日は、一緒に寝ようね。","晚安……
+明天一定要一起睡哦。",translated,依恩,51c93cf4d1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#29#12,えっ、もう寝ちゃうの！？,诶，已经要睡了吗！？,translated,依恩,23c5708cc8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#30#12,"もう少ししたらわたしも出るから、
+そしたら隣で寝てもいい？","再过一会儿我也出去了，
+到时能在你身边一起睡吗？",translated,依恩,43f03c704c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#31#12,待ってるよ,我等你哦,translated,,e49a4e15f8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#32#12,今日は一人で寝るよ,今天我想一个人睡,translated,,72cc429cce,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#34#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#36#12,"あの、聞こえてる？
+寝るの待っててほしいんだけど……。","那个，听得见吗？
+希望你能等我一起睡的说……",translated,依恩,495d4e55c3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#38#12,……もしかして、寝ちゃったのかな？,……难道说，已经睡着了吗？,translated,依恩,524adbcdb1,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#40#12,"……聞こえてないだけだといいな。
+とにかく、早く出た方がいいかも。","……要是只是没听到就好了。
+总之，我还是尽快出去比较好。",translated,依恩,cd03b23532,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#44#12,"ありがと。
+あ、先にお布団入ってていいよ。","谢谢你。
+啊，你可以先钻进被窝里哦。",translated,依恩,b3d3274343,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#45#12,でも、わたしが行くまでに寝ちゃ嫌だよ？,但是，在我过去之前睡着的话我可不依哦？,translated,依恩,2fd1145b00,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#51#12,そっか……。,这样啊……,translated,依恩,72f774d7f9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#52#12,それじゃ、おやすみなさい……。,那么，晚安啦……,translated,依恩,4904004875,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#56#12,"あ、もうおやすみの時間なの？
+お風呂から出たら、わたしも隣に行こっか？","啊，已经到了晚安的时间了吗？
+等我洗完澡出去，我也到你身边去吧？",translated,依恩,e4eac3ff55,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#57#12,お願い,拜托你了,translated,,8f1caa45bb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#58#12,いや、大丈夫,不用了，没事,translated,,170af74d81,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#60#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#62#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#64#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#66#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#70#12,"うん、わかった。
+それじゃ、先に寝ててね。","嗯，我知道了。
+那么，你先睡吧。",translated,依恩,f07941ad20,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#71#12,わたしも、お風呂上がったら行くから。,等我洗完澡出去也会过去的。,translated,依恩,3f0398f79f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed3.txt#77#12,"そっか。
+それじゃ、おやすみなさい♪","这样啊。
+那么，晚安啦♪",translated,依恩,75f36e2381,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed3.txt#78#12,ゆっくり休んでね？,好好休息哦？,translated,依恩,cbf1491a09,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#3#12,"えっ、もう寝ちゃうの？
+まだご飯食べてる最中なのに……。","诶，已经要睡了吗？
+我还在吃饭呢……",translated,依恩,7f3cb1d768,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#4#12,"急いで食べちゃうから、もう少しだけ
+待っててほしいな？","我会快点吃完的，
+能再稍微等我一下下吗？",translated,依恩,3da52be3a9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#5#12,頑張ってみる,我尽量撑住,translated,,3e0df945d9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#6#12,もう、限界だよ……,已经到极限了……,translated,,82889b386a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#8#12,"あっ、でも喉に詰まるといけないから、
+かきこんだりとかはできないけど……。","啊，不过要是噎着可就不好了，
+所以不能狼吞虎咽就是了……",translated,依恩,3dcd6963c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#10#12,"でも、できるだけ急いで食べるから、
+待っててほしいの。","但我会尽量快点吃的，
+希望你能等等我。",translated,依恩,3d9cbbc3fe,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#12#12,"……って、あれ？
+もしかして、もう寝ちゃってる？","……等等，咦？
+难道说，已经睡着了吗？",translated,依恩,11e48abedc,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#14#12,"はぁ……やっぱり寝ちゃったみたい。
+まあ、添い寝は明日してもらえばいいか。","唉……看来果然睡着了。
+嘛，陪睡的事明天再拜托吧。",translated,依恩,64e337ee0e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#18#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#19#12,"すぐに食べちゃうから、
+もう少しだけ待っててね。","我马上就吃完，
+再稍微等我一下哦。",translated,依恩,97b7d7b078,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#25#12,あはは、本当にすごく眠そうだよ。,啊哈哈，看起来真的很困呢。,translated,依恩,37faa6941c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#26#12,"それじゃ、一緒に寝るのはまた別の日の
+お楽しみだね。
+それじゃ、おやすみなさい。","那么，一起睡就留到改天
+再期待吧。
+那么，晚安啦。",translated,依恩,5a9ca3def9,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bed4.txt#30#12,"んぐっ！
+も、もう寝ちゃうの？","唔咳！
+已、已经要睡了吗？",translated,依恩,d31e087be3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#31#12,"あの、わたしまだ食事中だから、
+終わるまで待っててくれると嬉しいな……。","那个，我还在吃饭，
+能等我吃完的话我会很高兴的……",translated,依恩,6d01003fd7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#32#12,待ってるよ,我等你哦,translated,,e49a4e15f8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#33#12,ごめん、もう限界,抱歉，已经到极限了,translated,,e8896fb70f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#35#12,"急いで食べるから、ちょっとだけ
+待っててほしいの。","我会快点吃的，
+希望能稍微等我一下。",translated,依恩,4e194301e8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#37#12,"……あれ？
+聞こえてる？","……咦？
+听得见吗？",translated,依恩,8980fa02fa,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#39#12,あの、起きてますかー？,那个，还醒着吗――？,translated,依恩,fe782765a2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#41#12,……い、急いで食べた方がいいかも。,……感、感觉还是快点吃完比较好。,translated,依恩,9c4cefe012,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#45#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#46#12,"すぐに食べちゃうから、
+もう少しだけ待っててね。","我马上就吃完，
+再稍微等我一下哦。",translated,依恩,97b7d7b078,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#52#12,そっか……無理言ったらダメだよね。,这样啊……不能强人所难呢。,translated,依恩,0664dbfedf,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#53#12,"それじゃ、おやすみなさい。
+良い夢見てね。","那么，晚安啦。
+做个好梦哦。",translated,依恩,f3a54922f1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#57#12,"あ、もうおやすみの時間なの？
+ご飯食べ終わったら、わたしも隣に行く？","啊，已经到了晚安的时间吗？
+等我吃完饭，我也去你身边好吗？",translated,依恩,2db5055cc8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#58#12,お願い,拜托你了,translated,,8f1caa45bb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#59#12,いや、大丈夫,不用了，没事,translated,,170af74d81,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#61#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#63#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#65#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#67#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#71#12,"うん、わかった。
+それじゃ、先に寝ててね。","嗯，我知道了。
+那么，你先睡吧。",translated,依恩,f07941ad20,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#72#12,すぐにご飯食べてそっち行くから。,我马上吃完饭就过去哦。,translated,依恩,649e9dadf1,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bed4.txt#78#12,"そっか。
+それじゃ、おやすみなさい♪","这样啊。
+那么，晚安啦♪",translated,依恩,75f36e2381,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bed4.txt#79#12,ゆっくり休んでね？,好好休息哦？,translated,依恩,cbf1491a09,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#3#12,"何だか眠そうな感じが伝わってくるけど、
+そろそろ寝る時間なのかな？","总感觉你好像很困的样子，
+差不多到睡觉时间了吗？",translated,依恩,df28e45dca,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#4#12,"わたしも、ちょっとまぶたが重くなって
+きてるし……一緒に寝よっか？","我也稍微觉得眼皮有点发沉了……
+要一起睡吗？",translated,依恩,ebc3b3b809,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#5#12,そうしよう,就这么办吧,translated,,76dee65597,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#6#12,一人でゆっくり寝た方がいい,你一个人好好睡比较好,translated,,a5b1e9cbbf,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#8#12,"……あれ？
+どうかしたの？","……咦？
+怎么了吗？",translated,依恩,6d8bcd6a75,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#10#12,"返事がない……。
+もしかして、もう寝ちゃったのかな？","没有回答……
+难道说，已经睡着了吗？",translated,依恩,254fe2d5d5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#12#12,"すごく眠そうな感じがしたから、
+ありえるかも。
+ねえ、起きてるならトントンしてみて。","感觉你好像真的很困，
+说不定真睡着了呢。
+呐，如果醒着的话就轻轻敲我一下。",translated,依恩,0033f8cea8,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedn.txt#14#12,"……やっぱり、寝ちゃったみたい。
+おやすみなさい、起きたらまたわたしと
+たくさんお話してね。","……看来果然睡着了。
+晚安，醒来之后还要陪我
+多聊聊天哦。",translated,依恩,8f755299d1,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedn.txt#18#12,"うん、やっぱり一緒に寝た方が、
+お話もできて楽しめるからいいよね？","嗯，果然还是一起睡比较好，
+既能聊天又开心嘛？",translated,依恩,9a7cbd5a4d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#19#12,"それじゃ、すぐに用意するから、
+もう少し待っててね。","那我这就去准备，
+再稍微等我一下哦。",translated,依恩,bc4865360d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#25#12,"そっか……でも、一緒に寝ようとすると、
+つい遅くまでお話しちゃうから、翌日に
+疲れを残しちゃうよね？","这样啊……不过如果一起睡的话，
+总会忍不住聊到很晚，
+第二天就会残留疲劳呢？",translated,依恩,23531437ad,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedn.txt#26#12,今日は添い寝は控えて、ゆっくり眠るよ。,今天就不陪你睡了，好好睡个觉吧。,translated,依恩,9c1ea932da,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#30#12,そろそろおねむの時間かな？,差不多到犯困的时间了吗？,translated,依恩,e9c5b55ac6,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#31#12,"わたしも、ちょっと眠いかも。
+一緒に寝てほしいなぁ……。","我也稍微有点困了呢。
+真希望你能陪我一起睡啊……",translated,依恩,b6fe1df30e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#32#12,いいよ,好呀,translated,,b285e3bc27,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#33#12,一人で寝たい,想一个人睡,translated,,8f2657fffd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#35#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#37#12,えっと……もしかして、もう寝ちゃった？,那个……难道说，已经睡着了？,translated,依恩,49c95acf51,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#39#12,"ねえ、聞こえるー？
+わたしも一緒に寝たいから、
+待っててほしいんだけど？","呐，听得见吗――？
+我也想一起睡，
+希望能等等我呢？",translated,依恩,89e585067f,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedn.txt#41#12,"……本当に寝ちゃったのかな？
+う～、一緒に寝たかったな……。","……真的睡着了吗？
+呜――好想一起睡啊……",translated,依恩,242ba92162,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#45#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#46#12,"それじゃ、寝る準備したらすぐ行くから、
+寝ないで待っててね。","那我准备好睡觉就马上过去，
+可别睡着了，要等我哦。",translated,依恩,38956e34b3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#52#12,……うぅ。,……呜。,translated,依恩,c5a6d8d158,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#53#12,"でも、一人で寝たい時もあるよね。
+それじゃ、おやすみなさい……。","不过，有时也会想一个人睡呢。
+那么，晚安啦……",translated,依恩,65f9ee3f7a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#57#12,"あ、もう寝るの？
+わたしも一緒に寝ていいかな？","啊，已经要睡了吗？
+我也能一起睡吗？",translated,依恩,ae41455e7d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#58#12,お願い,拜托你了,translated,,8f1caa45bb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#59#12,いや、大丈夫,不用了，没事,translated,,170af74d81,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#61#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#63#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#65#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#67#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedn.txt#71#12,"うん、わかった。
+すぐ行くから、先に寝ててー！","嗯，我知道了。
+我马上过去，你先睡吧――！",translated,依恩,262e3b50b6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedn.txt#77#12,"そっか。
+それじゃ、おやすみなさい♪","这样啊。
+那么，晚安啦♪",translated,依恩,75f36e2381,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#2#12,えへへ……寝る準備はできてるよ。,诶嘿嘿……我已经准备好睡觉啦。,translated,依恩,daaeaa6402,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#3#12,それじゃ、一緒に寝よっか？,那么，要一起睡吗？,translated,依恩,37ec3bea6a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#4#12,寝不足は身体に悪いしね,睡眠不足对身体不好嘛,translated,,f3f0a50d1a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#5#12,ごめん、やることができちゃった,抱歉，我突然有事要做,translated,,7a8d81ee49,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#7#12,…………あ、あれ？,…………诶、诶？,translated,依恩,f9c9ba1d4e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#9#12,もしかして、もう寝ちゃったのかな？,难道说，已经睡着了吗？,translated,依恩,fae9f7aa53,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#11#12,"一緒に寝よう、って話してたんだから、
+もう少しくらい起きて待っててくれても
+よかったのに……。","明明都说好要一起睡了，
+稍微醒着等等我也好嘛……",translated,依恩,7fa0de60f6,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#13#12,"ふふっ、でもきっと、
+すごく疲れてたのかも。
+ゆっくり寝かせてあげよう。","呵呵，不过肯定是因为
+实在太累了吧。
+就让你好好休息吧。",translated,依恩,b37172e633,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#17#12,"うん。
+わたしも、寝不足でクマのできた顔を
+見られるのは嫌だもん。","嗯。
+我也不想让你看到
+因为睡眠不足而长出黑眼圈的脸嘛。",translated,依恩,836a18939e,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#18#12,さっ、早くベッドに入ろ。,好啦，快点钻进被窝吧。,translated,依恩,9c96c3ab18,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#22#12,"そっか……残念だけど、そういうことって
+あるよね？","这样啊……虽然很遗憾，
+但也是会有这种情况的呢。",translated,依恩,1ed43c1a27,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#23#12,"わたしは先に寝かせてもらうけど、
+あなたも、根詰め過ぎて夜更かしするのは
+ほどほどにね。","那我先去睡了，
+你也别太拼命了，
+熬夜要适可而止哦。",translated,依恩,cc2a14eb55,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#26#12,ごめんなさい、遅くなっちゃった！,对不起，我来晚了！,translated,依恩,ccc578b6a3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#27#12,今からでも、一緒に寝てくれる？,即使是现在，还能和我一起睡吗？,translated,依恩,6904c6a972,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#28#12,そのために待ってた,我就是为了这个在等着的,translated,,4714f76745,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#29#12,眠気が冷めちゃった,困意已经消散了,translated,,7a7e4bedee,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#31#12,"……あれ？
+もう寝ちゃった？","……咦？
+已经睡着了吗？",translated,依恩,91d0053eaa,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#33#12,おーい、寝ちゃったのー？,喂――睡着了吗――？,translated,依恩,030e2f343b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#35#12,"って、寝ちゃってるなら起こしたら
+かわいそうかな？","不过，要是已经睡着了还叫醒你的话
+未免太可怜了吧？",translated,依恩,f6e28c2c7d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#37#12,"起こさないように、わたしも一緒に
+寝ちゃおっと。
+ふぁ～……おやすみー……。","为了不吵醒你，我也一起
+钻进去睡吧。
+哈啊……晚安――……",translated,依恩,694b7460f0,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#41#12,眠いところ、待たせちゃってごめんね。,你明明那么困，还让你久等真对不起。,translated,依恩,9bc132b0f2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#42#12,それじゃ、すぐに行くから待っててね。,那我马上就过去，等我哦。,translated,依恩,473026a60c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#46#12,"そっか……
+わたしが待たせすぎちゃったせいだね。","这样啊……
+是我让你等太久的缘故呢。",translated,依恩,1ca40d3089,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#47#12,"仕方がないか……。
+でも、今度は一緒に寝ようね。","也没办法呢……
+不过，下次一定要一起睡哦。",translated,依恩,04bdb8ffa6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#50#12,"<CLBU>あ、まだ起きてたんだね。
+遅くなってごめんね！","<CLBU>啊，你还醒着呢。
+我来晚了真对不起！",translated,依恩,f742ecea51,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/menuevent00/menu_bedt.txt#51#12,それじゃ、寝よう,那么，睡吧,translated,,583669cb13,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#52#12,もう寝なくても大丈夫,已经不用睡了,translated,,d577addf75,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#54#12,…あれ？どうしたの？,……咦？怎么了吗？,translated,依恩,1cb36d8a41,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#56#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#58#12,寝ちゃったのかな？,是睡着了吗？,translated,依恩,8713fb2c1e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#60#12,それじゃ、わたしも寝ちゃおっと♪,那我这就去睡啦♪,translated,依恩,98957ed948,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedt.txt#64#12,"えへへ♪
+それじゃ、わたしもベッドに行くから
+ちょっと待っててね。","诶嘿嘿♪
+那我这就去床上，
+稍微等我一下哦。",translated,依恩,05a3af92d3,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_bedt.txt#68#12,"ご、ごめんね。
+ちょっとわたし、遅すぎちゃったね…。","对、对不起。
+我似乎真的太慢了呢……",translated,依恩,48fe4c748a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedt.txt#69#12,今度は一緒に寝ようね？,下次一定要一起睡哦？,translated,依恩,d50170f043,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedy.txt#8#12,"お待たせー。
+それじゃ、ベッドに入ろっか？","让你久等啦――
+那么，钻进被窝吧？",translated,依恩,801a364f9f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#12#12,あなたの方は、準備できてる？,你那边准备好了吗？,translated,依恩,de4be9850e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedy.txt#13#12,"……あれ？
+もしもーし。","……咦？
+喂喂――",translated,依恩,0450901c38,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#14#12,"もしかして、我慢できなくて
+先に寝ちゃったの？","难道说，忍不住
+先睡着了吗？",translated,依恩,cf85de8642,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#16#12,"ふふっ、きっと疲れてたんだね。
+おやすみなさい、いい夢見てね。","呵呵，肯定是很累了吧。
+晚安，做个好梦哦。",translated,依恩,c8faa16480,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#20#12,"えへへ……お待たせ。
+それじゃ、一緒に寝よっか？","诶嘿嘿……让你久等了。
+那么，一起睡吧？",translated,依恩,5f14f24758,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#24#12,"……あれ？
+先に寝ちゃったの？","……咦？
+已经先睡着了吗？",translated,依恩,8bef97c53b,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#25#12,おやすみのキス、したかったのに……。,明明还想给你个晚安吻的说……,translated,依恩,25b54e81a5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedy.txt#26#12,"な、なんてねー。
+えへへ……。","开、开玩笑啦――
+诶嘿嘿……",translated,依恩,804485de70,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#27#12,"……な、何か反応してくれないと、
+すごく恥ずかしいんだけど？","……要、要是你不给点反应的话，
+我会觉得超级害羞的耶？",translated,依恩,07cefab844,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#28#12,"……やっぱり、先に寝ちゃったみたい。
+わたしも早く寝よっと。","……看来果然是先睡着了。
+我也快点睡吧。",translated,依恩,9793da8fff,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#32#12,"お待たせ♪
+今そっち行くからね～。","让你久等啦♪
+我现在就过去哦～。",translated,依恩,aa480818ce,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#36#12,"おーい…
+あれ？　もう寝ちゃった？","喂――
+咦？已经睡着了吗？",translated,依恩,2e84c36c83,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#37#12,"あ・な・た？
+なんちゃって…えへ……。","亲・爱・的？
+开玩笑啦……诶嘿……",translated,依恩,c71733ddad,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_bedy.txt#38#12,……うーん。,……唔――,translated,依恩,035317cc78,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedy.txt#39#12,寝ちゃったのかな？,是睡着了吗？,translated,依恩,8713fb2c1e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_bedy.txt#40#12,それじゃ、わたしも寝ちゃおっと。,那我这就去睡啦。,translated,依恩,75b2152a18,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#7#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#12#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#17#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp1.txt#22#12,"<CLY2>いま作ってほしいものをお願いすることは
+できません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法委托制作物品。
+请等待依恩切换行动。",translated,系统文本,d00f5656f7,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_comp1.txt#29#12,"それじゃあ、わたしはこれを作れば
+いいんだね？",那么，我只要制作这个就好了对吧？,translated,依恩,a91e8d73ea,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#30#12,お願いできるかな？,能拜托你吗？,translated,,8d57ee7059,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#31#12,ちょっと待った,等等,translated,,54976045cd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#33#12,"作るの楽しそうかも。
+早く作ってみたいなぁ……。","制作起来好像很有趣的样子。
+真想快点做做看呀……",translated,依恩,a519233402,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#35#12,"……あれ？
+ねえ、これを作るんじゃなかったの？","……咦？
+呐，不是要制作这个吗？",translated,依恩,7b5cd7c57d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#37#12,"う～ん……
+もしかして、まだ考え中なのかな？","唔――……
+难道说，还在考虑当中吗？",translated,依恩,f5487f4dca,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#38#12,"ゆっくりでいいから、何をさせたいか
+決まったらまた声をかけてね。","不用着急，等决定好想让我做什么之后
+再叫我哦。",translated,依恩,c87bd6c1e8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#43#12,うん、任せて！,嗯，交给我吧！,translated,依恩,b282d526ef,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#44#12,"頑張って作るから、完成した時には
+ちゃんと褒めてね。","我会加油做的，做好了之后
+可要好好夸奖我哦。",translated,依恩,6a8e95bbdb,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#49#12,うん、ゆっくり考えてからでいいよ。,嗯，好好考虑清楚之后再决定就行哦。,translated,依恩,e94ee0edcc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#53#12,これを作るの？,要制作这个吗？,translated,依恩,a46f356cfc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#54#12,お願いできる？,能拜托你吗？,translated,,1ccb13ce01,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#55#12,やっぱり考え直そうかな？,我还是重新考虑一下吧？,translated,,12946c97e2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#57#12,……あれ、どうかしたの？,……咦，怎么了吗？,translated,依恩,51181bde5f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#59#12,もしかして、考え中かな？,难道说，还在考虑中吗？,translated,依恩,7c73f75da4,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#61#12,"結構悩んでるみたいだね。
+それなら、また今度にしよっか？","看起来挺苦恼的呢。
+既然这样，那就改天再决定吧？",translated,依恩,8f9e2183d8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#62#12,"すぐに決まらないってことは、
+きっとすぐに必要なものじゃない、
+ってことだと思うしね。","不能马上决定的话，
+我想肯定是因为那并不是什么
+需要急着要的东西吧。",translated,依恩,0aa96a3628,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_comp1.txt#67#12,うん、もちろん。,嗯，当然好。,translated,依恩,8bdfcaca88,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#68#12,その代り、ちゃんと応援しててね。,相对的，你可要好好为我加油哦。,translated,依恩,ce1068dcfe,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#73#12,"それじゃ、決まったらいつでも
+声をかけてね。",那么，等决定好了随时叫我哦。,translated,依恩,0c98a95b85,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#77#12,これを作るんだね？,是要做这个对吧？,translated,依恩,403de183bc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#78#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#79#12,いや、ちょっとまって！,不，等等！,translated,,ab2f2cdd8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#81#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#83#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#85#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#86#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp1.txt#91#12,"わかった。
+それじゃ、張り切って作るからね？","知道了。
+那我可就干劲满满地去做了哦？",translated,依恩,9c03596bd4,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp1.txt#96#12,あらら…。,哎呀呀……,translated,依恩,00eba140fc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#7#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#12#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#17#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp2.txt#22#12,"<CLY2>いま作ってほしいものをお願いすることは
+できません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法委托制作物品。
+请等待依恩切换行动。",translated,系统文本,d00f5656f7,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_comp2.txt#29#12,えっ、今すぐ違うのを作り始めるの！？,诶，现在马上开始做别的吗！？,translated,依恩,644a33355d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#30#12,"でもそうなると、今作ってるものを
+捨てなくちゃいけなくなっちゃうし……。","但那样的话，现在正在做的东西
+就不得不扔掉了呀……",translated,依恩,e05983ca01,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#31#12,……もしかして、急ぎで必要なの？,……难道说，是很着急要吗？,translated,依恩,dfda9befd4,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#32#12,そうだよ,是啊,translated,,c963842df9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#33#12,急ぎではない,并不是很急,translated,,914312372a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#35#12,"そうじゃないなら、今作ってるものを
+先に完成させてからにしたいな。","如果不是的话，我想先把现在
+正在做的东西完成再说呢。",translated,依恩,1dd766488e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#37#12,"ここまで頑張って作ったんだもん。
+捨てちゃうのは勿体無いと思うの。","毕竟都努力做到这一步了嘛。
+直接扔掉的话感觉太可惜了。",translated,依恩,9dc7273a92,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#39#12,"……決められないのかな？
+それじゃあ、このまま作業を続けるね。","……拿不定主意吗？
+那我继续接着做目前的工作哦。",translated,依恩,434bb0c2cf,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#44#12,そっか……それじゃしょうがないね。,这样啊……那也没办法呢。,translated,依恩,44a5e0f8dc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#45#12,あなたの指示に従うよ。,我听从你的指示。,translated,依恩,73bac13407,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#50#12,"それなら、この作業が終わってから
+もう一度指示を出してね。","那样的话，等这项工作完成之后
+你再重新指示我吧。",translated,依恩,b050f4d298,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#54#12,今すぐ新しい物を作るの？,现在马上要制作新物品吗？,translated,依恩,d6e1143e1a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#55#12,"それだと、今作ってる途中の物は
+捨てなくちゃいけなくなるけど……
+それでもいい？","那样的话，正在制作中的物品
+就不得不扔掉了……
+即使这样也可以吗？",translated,依恩,f857c51d76,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_comp2.txt#56#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#57#12,いいえ,不用了,translated,,f901585367,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#59#12,"……あれ？
+もしかして、考え中？","……咦？
+难道说，还在考虑中？",translated,依恩,4b2eb02335,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#61#12,"やっぱり、今作ってるものを無駄にしてまで
+作るのは、気が引けちゃうかな？","果然，把现在正在做的东西白白浪费掉
+去制作新的，心里还是过意不去吗？",translated,依恩,9d88a8a010,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#63#12,"結構悩んでるみたいだし、とりあえず今は
+これの作業を続けるよ。","看起来挺苦恼的，总之现在
+我还是继续做这个吧。",translated,依恩,42e57952a1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#64#12,"新しいのを作るのは、それからでも
+遅くないと思うしね。","我想等做完了再去制作新的，
+也完全来得及嘛。",translated,依恩,563980a90f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#69#12,"ん、わかったよ。
+あなたが言うならそうするね。","嗯，我知道了。
+既然你都这么说了那就这么办吧。",translated,依恩,879dd9349f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#74#12,えへへ、やっぱり無駄はよくないもんね。,诶嘿嘿，果然浪费是不好的呢。,translated,依恩,542725777a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#78#12,"今、別のを作っているところなんだけど、
+これをやめて、新しいものを作る？","我现在正在制作别的东西，
+要放弃这个，转去制作新的吗？",translated,依恩,7bdba7d86c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#79#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#80#12,いいえ,不用了,translated,,f901585367,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#82#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#84#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#86#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#87#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp2.txt#92#12,"そっか。
+それじゃ、これを作ることにするね。","这样啊。
+那么，我就决定做这个啦。",translated,依恩,56b658e8a1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp2.txt#97#12,"わかったよ。
+それじゃ、今までのを作り続けるね。","我知道了。
+那么，我继续做之前的东西哦。",translated,依恩,360a26876e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp3.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp3.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#7#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#12#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#17#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp3.txt#22#12,"<CLY2>いま作ってほしいものをお願いすることは
+できません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法委托制作物品。
+请等待依恩切换行动。",translated,系统文本,d00f5656f7,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_comp3.txt#28#12,よーし、それじゃあ頑張って……あれ？,好――的，那么加油……咦？,translated,依恩,96655914df,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp3.txt#29#12,これ、今わたしが作ってる物と同じだよ？,这个和我现在正在做的东西是一样的哦？,translated,依恩,0c6fdd992f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp3.txt#30#12,"ふふっ、あなたってうっかり屋さんな
+ところがあるのかな？","呵呵，你是不是有哪根筋
+比较粗心大意呀？",translated,依恩,51ebc1a4f6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp3.txt#34#12,わかった、これを作れば……。,知道了，只要做这个……,translated,依恩,4ec95445db,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp3.txt#35#12,"って、あれれ？
+これって今作ってるものだよ？","等等，咦？
+这个不就是现在正在做的东西吗？",translated,依恩,5f333ed9c7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp3.txt#39#12,それはもうお願いされてるよ。,那个已经拜托过我了哦。,translated,依恩,3adbbcaada,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp4.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp4.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#7#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#12#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#17#12,"<CLY2>作ってほしいものをお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托制作物品需要依恩身处室内。,translated,系统文本,474500c441,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_comp4.txt#22#12,"<CLY2>いま作ってほしいものをお願いすることは
+できません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法委托制作物品。
+请等待依恩切换行动。",translated,系统文本,d00f5656f7,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_comp4.txt#28#12,これだと……あっ、材料が足りないよ。,这个的话……啊，材料不够呢。,translated,依恩,f961c5742a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp4.txt#29#12,"どうしても必要なら、まずは材料を
+採取に行ってからだね。","无论如何都需要的话，
+就得先去采集材料才行呢。",translated,依恩,5c6a8d73f6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_comp4.txt#33#12,う～ん……材料が足りなくて作れないよ。,唔――……材料不够，做不了呢。,translated,依恩,2494e6e04e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_comp4.txt#37#12,材料が足りないよ。,材料不够哦。,translated,依恩,618b381cfb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#5#12,夢セカイに行く,去梦世界,translated,,e180076f8f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#6#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#44#12,また夢セカイに行くの？,又要去梦世界吗？,translated,依恩,03e0d8d066,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#45#12,行きたい,想去,translated,,4dc8ee3969,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#46#12,やっぱりやめよう,还是算了吧,translated,,6579ed0f02,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#48#12,"今日もまた新しいことを思い出せると
+いいんだけど……どうかな？
+あなたはどう思う？","今天要是也能回想起新的事情就好了呢……
+怎么样？
+你是怎么想的呢？",translated,依恩,783283f01e,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive1.txt#50#12,"……あれ？
+もしかして、席外してる？","……咦？
+难道说，离开座位了吗？",translated,依恩,13679bbe13,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#52#12,お～い、どうしちゃったのぉ？,喂――怎么啦――？,translated,依恩,4ae1538a5b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#54#12,"……急用ができたのかな？
+まあ、夢セカイならいつでもいけるし、
+気にすることないか。","……是有急事吗？
+嘛，反正梦世界随时都能去，
+不用太在意吧。",translated,依恩,22df74bb84,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive1.txt#59#12,また新しいことを思い出せるといいなぁ。,要是能回想起新的事情就好了呀。,translated,依恩,e1a66cc7ef,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#60#12,それじゃ、よろしくね！,那么，拜托你啦！,translated,依恩,8b3997355a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#70#12,うん、あなたの都合のいい時にしよ。,嗯，挑你方便的时候再去吧。,translated,依恩,adf6aa15dd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#74#12,夢セカイに行くの？,要去梦世界吗？,translated,依恩,8b7b6cd63b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#75#12,良いかな？,可以吗？,translated,,16c90b1063,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#76#12,やっぱりまた今度,还是下次吧,translated,,dd82529552,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#78#12,……あれ、どうかしたの？,……咦，怎么了吗？,translated,依恩,51181bde5f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#80#12,"う～ん……
+もしかして、気が変わっちゃった？","唔――……
+难道说，改变心意了吗？",translated,依恩,aaef80d745,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#82#12,お～い、どうするの～？,喂――要怎么做呀～？,translated,依恩,ac36de1b63,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#84#12,"……悩んでるみたいだし、
+日を改めよっか？","……看来挺犹豫的，
+改天再说吧？",translated,依恩,ada5ded7e8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#89#12,"もちろん……あなたが行きたいなら、
+反対なんてしないよ。","当然……如果你想去的话，
+我绝不会反对的哦。",translated,依恩,0f7afd6ca6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#90#12,今日は、どんなことを思い出せるのかな？,今天，能回想起怎样的事情呢？,translated,依恩,8ea5804cc1,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#100#12,うん、また今度ね。,嗯，下次再说吧。,translated,依恩,0db6762773,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#104#12,夢セカイに行くの？,要去梦世界吗？,translated,依恩,8b7b6cd63b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#105#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#106#12,いや、ちょっとまって！,不，等等！,translated,,ab2f2cdd8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#108#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#110#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#112#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#114#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive1.txt#119#12,"わかった。それじゃ、いこ。
+何度やってもドキドキするね。","知道了。那么，出发吧。
+不管去多少次都心跳加速呢。",translated,依恩,f5985fd9b8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive1.txt#129#12,あらら…。,哎呀呀……,translated,依恩,00eba140fc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#3#12,夢セカイに行く,去梦世界,translated,,e180076f8f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#4#12,やっぱりやめる,还是算了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#26#12,"くぅ……ん、えへ、えへへぇ……。
+端末から、ビヨーン、って……。","呼……嗯，诶嘿，诶嘿嘿……
+从终端机里、嗖地一下……",translated,依恩,95e93d6034,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive2.txt#27#12,寝てるからコッソリ夢セカイに行こう,她正睡着呢，悄悄去梦世界吧,translated,,2c3d368892,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#28#12,面白そうだからまた今度にしよう,看着挺有趣的，还是下次再去吧,translated,,a0e4be146e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#43#12,くぅ～……ん、んうぅ……。,呼――……嗯，唔呜……,translated,依恩,d91a8aa901,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#44#12,寝てるけど夢セカイに行っちゃう,虽然在睡觉但还是去梦世界,translated,,29a3f7f864,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#45#12,また後にする,还是以后再说,translated,,5f085d1315,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#60#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#61#12,寝てるけど夢セカイに行っちゃう,虽然在睡觉但还是去梦世界,translated,,29a3f7f864,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive2.txt#62#12,また後にする,还是以后再说,translated,,5f085d1315,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#8#12,えっ、ゆ、夢セカイに行くの？,诶，去、去梦世界吗？,translated,依恩,7edc99a324,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#9#12,わたし、今お風呂中なんだけど……。,我正在洗澡呢……,translated,依恩,49fc2cd821,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#10#12,また都合のいい時にお願いする,等合适的时候再拜托你,translated,,9a5b9d5480,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#11#12,そのままでいいから出発しよう,保持这样就好，我们出发吧,translated,,50cd37e120,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#13#12,……あれ、どうしたの？,……咦，怎么了吗？,translated,依恩,8d381f1e96,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#15#12,おーい、聞こえてるー？,喂――听得见吗――？,translated,依恩,50189290a3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#17#12,ねえ、どうし……っくしゅっ！,呐，怎么……阿嚏！,translated,依恩,2bf62558e3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#19#12,"うぅ、ちょっと冷えちゃった……。
+もう一回温まらないと。","呜，稍微有点受凉了……
+得再泡一泡暖暖身子才行。",translated,依恩,5b4efd5414,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#24#12,わ、わたしは全然良くないよ！,我、我可是一点都不觉得好！,translated,依恩,5d21210c2c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#25#12,"湯冷めもしたくないから、
+夢セカイに行くのはまた後でね。","我也不想着凉感冒，
+去梦世界的事还是稍后再说吧。",translated,依恩,0d02dd882a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#32#12,うん、わがまま言ってごめんね。,嗯，我任性了对不起哦。,translated,依恩,e4273ac465,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#39#12,えっ、ゆ、夢セカイに行くの？,诶，去、去梦世界吗？,translated,依恩,7edc99a324,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#40#12,わたし、今お風呂中なんだけど……。,我正在洗澡呢……,translated,依恩,49fc2cd821,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#41#12,また都合のいい時にお願いする,等合适的时候再拜托你,translated,,9a5b9d5480,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#42#12,そのままでいいから出発しよう,保持这样就好，我们出发吧,translated,,50cd37e120,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#44#12,……あれ、どうしたの？,……咦，怎么了吗？,translated,依恩,8d381f1e96,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#46#12,おーい、聞こえてるー？,喂――听得见吗――？,translated,依恩,50189290a3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#48#12,ねえ、どうし……っくしゅっ！,呐，怎么……阿嚏！,translated,依恩,2bf62558e3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#50#12,"うぅ、ちょっと冷えちゃった……。
+もう一回温まらないと。","呜，稍微有点受凉了……
+得再泡一泡暖暖身子才行。",translated,依恩,5b4efd5414,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#55#12,わ、わたしは全然良くないよ！,我、我可是一点都不觉得好！,translated,依恩,5d21210c2c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#56#12,"湯冷めもしたくないから、
+夢セカイに行くのはまた後でね。","我也不想着凉感冒，
+去梦世界的事还是稍后再说吧。",translated,依恩,0d02dd882a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#63#12,うん、わがまま言ってごめんね。,嗯，我任性了对不起哦。,translated,依恩,e4273ac465,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#70#12,"今お風呂に入ってるのー。
+また後でもいい？","我现在正在洗澡呢――
+稍后再去可以吗？",translated,依恩,76f0ca63c9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#71#12,はい,好的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#72#12,いやだ,不要,translated,,ef78999eae,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#74#12,…あれ？どうしたの？,……咦？怎么了吗？,translated,依恩,1cb36d8a41,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#76#12,おーい！,喂――！,translated,依恩,113b92d8a9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#80#12,ま、いっかー。,算啦，无所谓啦。,translated,依恩,b50deb673f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive3.txt#85#12,"やだって言われても…
+風邪引いちゃうよぅ……。","就算你说不要……
+我会感冒的啦……",translated,依恩,66683e9b75,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive3.txt#86#12,"ごめんね、
+お風呂から上がったらそっち行くから。
+ちょっと待っててね！","对不起哦，
+等我洗完澡出去就过去找你。
+稍微等我一下哦！",translated,依恩,5da1737630,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive3.txt#93#12,"ごめんねー。
+お風呂から出たらそっち行くね。","对不起啦――
+等我洗完澡出来就过去找你哦。",translated,依恩,d7b7e63daa,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#9#12,"んむっ！？
+い、今行くの！？","唔！？
+现、现在就去吗！？",translated,依恩,d074ffcb3b,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#10#12,"でも、ご飯中に他のことするのは、
+お行儀が悪いよ。","但是，吃饭的时候做别的事情，
+太没规矩了哦。",translated,依恩,369eeea263,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#11#12,たまにはいいんじゃない？,偶尔一次不也挺好吗？,translated,,c90940d578,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#12#12,そうだね,也是呢,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#14#12,"……あれ？
+ねぇ、どうしたの？","……咦？
+呐，怎么了吗？",translated,依恩,0b7b75498f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#16#12,えっと……食事を続けていいのかな？,那个……我可以继续吃饭了吗？,translated,依恩,a5fd5d5637,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#18#12,……また後でね。,……稍后再说吧。,translated,依恩,ba0836053e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#24#12,"う～ん……やっぱり、食事の時に
+他のことするのは、よくないよ。","唔――……果然在吃饭的时候
+做别的事情是不好的哦。",translated,依恩,973a180030,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#25#12,"いくらあなたのお願いでも、
+これだけはちょっと……。
+ごめんね。","就算是你拜托我的，
+唯独这个稍微有点……
+对不起哦。",translated,依恩,8761d78bd2,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive4.txt#32#12,"うん。
+食べ終わるまで待ってね。","嗯。
+等我吃完哦。",translated,依恩,437c90a770,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#39#12,"んむっ！？
+い、今行くの！？","唔！？
+现、现在就去吗！？",translated,依恩,d074ffcb3b,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#40#12,"でも、ご飯中に他のことするのは、
+お行儀が悪いよ。","但是，吃饭的时候做别的事情，
+太没规矩了哦。",translated,依恩,369eeea263,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#41#12,たまにはいいんじゃない？,偶尔一次不也挺好吗？,translated,,c90940d578,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#42#12,そうだね,也是呢,translated,,513e788082,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#44#12,"……あれ？
+ねぇ、どうしたの？","……咦？
+呐，怎么了吗？",translated,依恩,0b7b75498f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#46#12,えっと……食事を続けていいのかな？,那个……我可以继续吃饭了吗？,translated,依恩,a5fd5d5637,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#48#12,……また後でね。,……稍后再说吧。,translated,依恩,ba0836053e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#54#12,"う～ん……やっぱり、食事の時に
+他のことするのは、よくないよ。","唔――……果然在吃饭的时候
+做别的事情是不好的哦。",translated,依恩,973a180030,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#55#12,"いくらあなたのお願いでも、
+これだけはちょっと……。
+ごめんね。","就算是你拜托我的，
+唯独这个稍微有点……
+对不起哦。",translated,依恩,8761d78bd2,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive4.txt#62#12,"うん。
+食べ終わるまで待ってね。","嗯。
+等我吃完哦。",translated,依恩,437c90a770,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#69#12,"夢セカイに行くの？
+…ご飯食べ終わってからでもいい？","要去梦世界吗？
+……等我吃完饭再去可以吗？",translated,依恩,6443c77147,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive4.txt#70#12,はい,好的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#71#12,いやだ,不要,translated,,ef78999eae,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#73#12,…あれ？どうしたの？,……咦？怎么了吗？,translated,依恩,1cb36d8a41,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#75#12,おーい！,喂――！,translated,依恩,113b92d8a9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#83#12,んー……。,唔～……,translated,依恩,283542e340,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive4.txt#84#12,"やっぱりご飯食べた後にする。
+食べ終わったらダイブするから、
+ちょっと待ってて？","还是吃完饭再去吧。
+等吃完了我就潜入，
+稍微等我一下好吗？",translated,依恩,572698d025,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive4.txt#91#12,"えへへ、ありがと。
+それじゃ、食べ終わったら
+夢セカイに行こうね。","诶嘿嘿，谢谢你。
+那么，等吃完饭
+就去梦世界吧。",translated,依恩,040d4ef21e,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_dive5.txt#8#12,"もぉ、何もトイレに入ってる時に
+言わなくてもいいのに……。","真是的，何必非要在人家上厕所的时候
+说嘛……",translated,依恩,78da3f76c0,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive5.txt#9#12,"お花を摘み終わるまで、
+もう少しだけ待ってね。","等我摘完花，
+再稍微等我一下下哦。",translated,依恩,e4e2dcea41,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive5.txt#16#12,えっ、ちょ、ちょっと待って！,诶，等、等等！,translated,依恩,7273d37694,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_dive5.txt#17#12,"お花が中々摘めなくて……。
+もう少ししたら行くから、待っててね。","花老是摘不完……
+再过一会儿我就过去，等我哦。",translated,依恩,4dce78c5e1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive5.txt#24#12,"夢セカイに行くの！？
+ちょ、ちょっとまってー！","要去梦世界吗！？
+等、等等我――！",translated,依恩,8dac88fcaa,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_dive5.txt#25#12,あの…　後でそっち行くからー！！,那个……我稍后再过去啦――！！,translated,依恩,e9d1bd81d0,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_diven.txt#9#12,"夢セカイのお誘い？
+うん、もちろん大丈夫だよ！","邀请去梦世界吗？
+嗯，当然没问题啦！",translated,依恩,64b76ee4a9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_diven.txt#10#12,今、そっちに行くね。,我现在就过去找你哦。,translated,依恩,48748baac3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_diven.txt#17#12,"あ、はーい！
+夢セカイに行くんだね？","啊，好――的！
+是要去梦世界对吧？",translated,依恩,fc3f528c34,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_diven.txt#18#12,すぐ行くから、ちょっと待ってね。,我马上过去，稍微等我一下哦。,translated,依恩,5cab92ea84,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_diven.txt#25#12,"夢セカイに行くの？
+ちょっと待って、すぐ行くー。","要去梦世界吗？
+稍等一下，我马上就去――",translated,依恩,fe5598f035,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#2#12,"よかった、まだいてくれて。
+待たせ過ぎていなくなってないか、
+ちょっと心配だったよ。","太好了，你还在。
+我还稍微有点担心
+让你等太久你会走开呢。",translated,依恩,dd0412bb86,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_divet.txt#3#12,"夢セカイ、いつでも行けるよ。
+あなたの方はどうかな？","梦世界随时都能去哦。
+你那边怎么样呢？",translated,依恩,1422ca2225,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#4#12,もちろん、いつでも大丈夫,当然，随时都可以,translated,,9d0e725233,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#5#12,ごめん、用事が出来ちゃった……,抱歉，我突然有事要做……,translated,,2d31452e08,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#7#12,…………あれ？,…………咦？,translated,依恩,5c47e7456c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#9#12,あの、もしかして忙しくなっちゃった？,那个，难道说突然变忙了吗？,translated,依恩,97843253ec,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#11#12,"う～ん……待たせ過ぎちゃったから、
+他の用事ができちゃったのかな？","唔――……是因为让你等太久了，
+所以有别的事要忙了吗？",translated,依恩,53114851de,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#13#12,"忙しいみたいだし、また時間ができたら
+声をかけてね。","看起来挺忙的，等你又有空了
+再叫我哦。",translated,依恩,09d939d5f7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#18#12,"よかった。
+それじゃ、早速出発だね。","太好了。
+那么，我们这就出发吧。",translated,依恩,860ee5609c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#28#12,あらら……タイミングが悪いね。,哎呀呀……真是不巧呢。,translated,依恩,f054060255,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#29#12,"それじゃあ、そっちの用事が終わったら
+また声をかけてね。","那么，等忙完那边的事之后
+再叫我哦。",translated,依恩,6df4a046e3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#33#12,"<CLBU>お待たせしちゃってごめんね。
+夢セカイに行くんだよね？","<CLBU>让你久等了真对不起。
+是要去梦世界对吧？",translated,依恩,768bdc7c62,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/menuevent00/menu_divet.txt#34#12,"わたしの方は準備完了だよ。
+あなたの方はどう？","我这边已经准备好啦。
+你那边怎么样？",translated,依恩,38c776da27,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#35#12,いつでもＯＫ,随时都可以,translated,,97558c5e54,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#36#12,ごめん、用事が出来ちゃった……,抱歉，我突然有事要做……,translated,,2d31452e08,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#38#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#40#12,"あの、準備できたけど……
+もしかして、いなくなっちゃった？","那个，我已经准备好了……
+难道说，走开了吗？",translated,依恩,08a55aae61,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#42#12,……やっぱり、待たせ過ぎちゃったかな？,……果然，是因为让你等太久了吧？,translated,依恩,75d0d3bce4,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#44#12,"あなただって、忙しいよね。
+ごめんね、また時間のある時に
+一緒に行こうね。","你平时也很忙的嘛。
+对不起哦，等下次有空的时候
+我们再一起去吧。",translated,依恩,334aa305a9,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_divet.txt#49#12,えへへ、それじゃ早速行こっか？,诶嘿嘿，那我们这就出发吧？,translated,依恩,c814fbc980,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#59#12,そっかぁ……ううん、気にしないで。,这样啊……不，不用介意。,translated,依恩,42c8a0ecf5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#60#12,"待たせ過ぎちゃったわたしも悪いんだし。
+また今度誘ってね。","毕竟让我等太久的我也有一半责任嘛。
+下次记得再叫我哦。",translated,依恩,8b01c1d3eb,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#64#12,<CLBU>あ、いたいた♪,<CLBU>啊，在呢在呢♪,translated,依恩,b7e1121921,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/menuevent00/menu_divet.txt#65#12,それじゃ、夢セカイに行こっか。,那么，去梦世界吧。,translated,依恩,e8fa884256,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#66#12,はい,好的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#67#12,もう行かなくても大丈夫,已经不用去了,translated,,fcb26d1f23,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#69#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#71#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#73#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#75#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divet.txt#80#12,"えへへ、よかった♪
+待っててくれてありがとう。","诶嘿嘿，太好啦♪
+谢谢你愿意等我。",translated,依恩,72829f822c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#92#12,"あわわ、ごめんね！
+遅くなっちゃったからかな…。","哇哇，对不起！
+是因为我来得太晚了吗……",translated,依恩,7a19ecb7e6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divet.txt#93#12,"今度はもっと早く来れるように
+がんばるね。",下次我会努力更早一点过来的。,translated,依恩,643af33ecf,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#7#12,"お待たせしちゃってごめんね。
+夢セカイに行く準備ができたよ。","让你久等了真对不起。
+去梦世界的准备已经做好啦。",translated,依恩,e8b75fe32f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#11#12,おーい、こっちはいつでも行けますよー。,喂――我这边随时都能出发哦――,translated,依恩,59619b012b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#12#12,……あ、あれ？,……诶、咦？,translated,依恩,c377f5e95d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#13#12,"もしかして、今度はそっちの方が
+忙しくなっちゃったのかな？","难道说，这次轮到你那边
+变忙了吗？",translated,依恩,bde90596f2,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#14#12,"端末の前にいるなら、とりあえず
+トントンしてもらえるかな？","如果在终端机前的话，
+能先轻轻敲两下吗？",translated,依恩,74eada0448,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#16#12,"やっぱり、いないみたい……。
+わたし、待たせ過ぎちゃったかな？","看来果然不在……
+是我让你等太久了吧？",translated,依恩,1b71d16ba8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#20#12,"ごめんねー、お待たせしちゃって。
+夢セカイに行く準備できたよー。","对不起哦，让你久等了。
+去梦世界的准备已经做好啦――",translated,依恩,714c5f5f5c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#24#12,出発合図の、トントンお願いしまーす。,出发的信号，就拜托你轻轻敲两下啦――,translated,依恩,8feee6d821,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#25#12,……準備オーケーだよ？,……我准备OK了哦？,translated,依恩,7981178825,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#26#12,……あれ、もしかして、いなくなっちゃった？,……咦，难道说，走开了吗？,translated,依恩,e2e4351c4e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#27#12,"ちょっと待たせ過ぎちゃったかな？
+おーい、気づいてー！","稍微让你等得太久了吗？
+喂――注意到我呀――！",translated,依恩,7719b76967,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#28#12,"あの、準備オーケーだよー。
+夢セカイ、どうするのー？","那个，我已经准备好啦――
+梦世界，要怎么做呀――？",translated,依恩,a7df58d15a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#29#12,……悪いことしちゃったな。,……真是不好意思呀。,translated,依恩,f53129cb2e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#33#12,"お待たせー！
+それじゃ、夢セカイに行こっか。","让你久等啦――！
+那么，去梦世界吧。",translated,依恩,584ba0387d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#37#12,"おーい…夢セカイに行く？
+いたらコンコン♪ってしてー？","喂――要去梦世界吗？
+在的话就咚咚♪敲两下嘛？",translated,依恩,48b8d28996,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#38#12,"……あれ？
+ちょっと遅くなっちゃったかな……。","……咦？
+稍微有点来太晚了吗……",translated,依恩,fb2a19d926,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#39#12,……うーん。,……唔――,translated,依恩,035317cc78,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_divey.txt#40#12,"おーーーい！
+いる？","喂――！
+在吗？",translated,依恩,31252b029e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#41#12,"夢セカイに行くよーぅ……
+コンコン♪ってしてよーぅ…。","要去梦世界了哦――
+咚咚♪敲两下嘛……",translated,依恩,7a34b33de7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_divey.txt#42#12,……いないのかな……。,……是不在吗……,translated,依恩,c62465b305,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_expire.txt#3#12,くぅ……んっ……えへへぇ……。,呼……嗯……诶嘿嘿……,translated,依恩,eeb1adf319,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_expire.txt#4#12,あなたのほっぺ……ぷにぷにぃ……。,你的脸颊……软乎乎的……,translated,依恩,d29811d94d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_expire.txt#6#12,くぅ……んぅ、んんっ……。,呼……嗯呜，嗯嗯……,translated,依恩,8960b9ad51,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_expire.txt#7#12,えへへぇ……ピカピカの真空管……。,诶嘿嘿……亮闪闪的真空管……,translated,依恩,8f8eb1bc60,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_expire.txt#9#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#7#12,"<CLY2>採取をお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托采集需要依恩身处室内。,translated,系统文本,4d1e4db613,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#12#12,"<CLY2>採取をお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托采集需要依恩身处室内。,translated,系统文本,4d1e4db613,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#17#12,"<CLY2>採取をお願いするためには
+イオンが室内にいる必要があります。",<CLY2>委托采集需要依恩身处室内。,translated,系统文本,4d1e4db613,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_go1.txt#22#12,"<CLY2>いま採取をお願いすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法委托采集。
+请等待依恩切换行动。",translated,系统文本,f281aec961,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_go1.txt#28#12,今回はこれを取ってくればいいのかな？,这次只要采这个回来就可以了吗？,translated,依恩,eae73532d8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#29#12,任せたよ,交给你了,translated,,5b15e9c83e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#30#12,これじゃなかった,不是这个,translated,,70460c0872,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#32#12,……どう、問題なさそう？,……怎么样，看起来没问题吧？,translated,依恩,9d364f35bb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#34#12,"な、何か、やけに時間かけてるね。
+もしかして、何か足りない気がするの？","总、总觉得花了好长时间呢。
+难道说，觉得还缺点什么吗？",translated,依恩,fa6fd7c36c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#36#12,"う～ん……まだ悩んでるなら、
+今採取に行くのはやめた方が
+よさそうだね。","唔――……如果还在纠结的话，
+现在还是先别去采集比较好吧。",translated,依恩,cf85f2386c,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#37#12,"これでもう決まり、って思ったら、
+もう一度呼んでね。","如果觉得彻底决定好了，
+记得再叫我一次哦。",translated,依恩,120ef55ba4,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#42#12,"うん、任せといて。
+それじゃあ、準備ができたら
+早速採取に出かけるよ。","嗯，交给我吧。
+那么等准备好之后，
+我立刻就出门采集去。",translated,依恩,09346cf041,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#43#12,"忘れないように、採ってくる物のリストに
+書いておかなきゃ♪","为了不忘记，
+得写在采集目标列表上才行♪",translated,依恩,c324e4500a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#47#12,ほっ……行く前に気づけてよかった。,呼……能在出发前注意到真是太好了。,translated,依恩,e90cb56e36,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#48#12,本当は何を採って来たらいいの？,其实是想让我采什么回来呢？,translated,依恩,170752e772,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#52#12,採取する材料はこれでいい？,采集的材料选这个就可以了吗？,translated,依恩,667f37913b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#53#12,オッケー,没问题,translated,,94af695c6f,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#54#12,考え直すからちょっと待って,我再想想，稍微等等,translated,,ebdb646b98,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#56#12,"……あれ？
+どうかしたの？","……咦？
+怎么了吗？",translated,依恩,6d8bcd6a75,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#58#12,もしかして、ちょっとお悩み中？,难道说，正在纠结中吗？,translated,依恩,0b52fce776,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#60#12,まだ決まらないのかな？,还没决定好吗？,translated,依恩,3bafa551e3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#61#12,"急ぎじゃないなら、また後で決まったら
+声をかけてね。","如果不着急的话，等以后决定好了
+再叫我哦。",translated,依恩,184d5a7090,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#66#12,うん、任せて！,嗯，交给我吧！,translated,依恩,b282d526ef,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#67#12,準備が出来たら、行ってくるね。,等准备好了，我就出发哦。,translated,依恩,53dc00bf83,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#71#12,うん、決まったらまた声をかけてね。,嗯，等决定好之后再叫我哦。,translated,依恩,b5cba2fb18,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#75#12,これを採ってきて欲しいの？,是想让我采这个回来吗？,translated,依恩,235321b407,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#76#12,はい,是的,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#77#12,いや、ちょっとまって！,不，等等！,translated,,ab2f2cdd8b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#79#12,"…あれ？どうしたの？
+考え中？","……咦？怎么啦？
+在考虑吗？",translated,依恩,91036df4c5,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#81#12,ん～……。,嗯――……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#83#12,いなくなっちゃったのかな？,是走开了吗？,translated,依恩,5ebd29722d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#84#12,それじゃ、わたし戻るね。,那我先回去了哦。,translated,依恩,2ec8a5ee97,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#89#12,"わかった。
+それじゃ、キリのいいところで
+出掛けてくるね。","知道了。
+那么，等手头告一段落
+我就出门去哦。",translated,依恩,18eee531bb,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#91#12,"そうだ。もしわたしが家にいないときに
+帰って来てほしい、って思ったら、
+端末に想いを伝えてみて。","对了。要是我不在家的时候
+你希望我回来的话，
+试着向终端机传达你的心意吧。",translated,依恩,021f40a221,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#92#12,"あなたの想いを感じたら、
+すぐに戻ってくるから。","只要感受到你的心意，
+我就会马上回来的。",translated,依恩,ab84a904a2,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#93#12,外でも伝わるの？,在外面也能传达到吗？,translated,,59b879ffc2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go1.txt#95#12,"う～ん、それは試してみないと分からない
+けど、何となくうまくいく気がするの。","唔――虽然不试试看我也说不准，
+但总觉得应该会很顺利的。",translated,依恩,c4fa10297c,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#96#12,"それに、外に行っててあなたとお話でき
+ませんでした、なんてわたしも嫌だもん。","而且，因为出门而没能和你聊上天，
+这种事我也很讨厌嘛。",translated,依恩,6cc3b5cf4a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#97#12,"だから、もし用があるときは
+遠慮なく想いを伝えてね。","所以，要是有事的话
+别客气，尽管向我传达心意哦。",translated,依恩,366e6f082d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#103#12,"イオンが外に行ってる場合、
+【採ってきてほしい】のメニューは
+【帰ってきてほしい】に変わります。","依恩在外面的时候，
+【希望你去采集这个】的菜单
+会变为【希望你回来】。",translated,【让依恩回来吧！】,5cce76ce60,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#104#12,"あなたがイオンとお話したいと思ったとき、
+【帰ってきてほしい】を選択してください。","当你想和依恩聊天时，
+请选择【希望你回来】。",translated,【让依恩回来吧！】,fa613da7cd,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#109#12,"すると、イオンはすぐにあなたのもとへと
+帰ってきてくれます。","这样一来，依恩就会立刻
+回到你的身边。",translated,【让依恩回来吧！】,ea88dfe599,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_go1.txt#114#12,"しかし、途中で採取を切り上げてしまうため、
+目的の物を採ってこれないこともあります。
+想いを伝えるタイミングは注意しましょう。","但是，由于是中途结束采集，
+也有可能采不回预期的目标道具。
+传达思念的时机请多加注意。",translated,【让依恩回来吧！】,2ae15c5eaa,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_go1.txt#126#12,あらら…。,哎呀呀……,translated,依恩,00eba140fc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_go2.txt#1#12,<CLY2>採ってくるものリストから削除しました。,<CLY2>已从目标采集列表中删除。,translated,系统文本,60c69e3d98,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_go3.txt#1#12,"<CLY2>依頼できるアイテム上限いっぱいです。
+一度にお願いできるアイテムは４個までです。","<CLY2>可委托的道具已达上限。
+一次最多只能委托4个道具。",translated,系统文本,f1b8908de5,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_rps_01.txt#7#12,あ、はーい。,啊，好――的。,translated,依恩,0f82c2eba8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_01.txt#27#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_01.txt#28#12,ジャンケンをしよう,来猜拳吧,translated,,6f35a9d907,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_01.txt#30#12,"ジャンケン？
+それってあなたの世界の遊びか何かなの？","猜拳？
+那是你那个世界的游戏什么的吗？",translated,依恩,176ab33044,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_rps_01.txt#31#12,良かったら、指タッチで教えて。,可以的话，用手指触碰教教我吧。,translated,依恩,e1ca3ee403,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_01.txt#36#12,"…あれ？
+教えてくれないの…かな…？","……咦？
+不……教我吗……？",translated,依恩,5985e0d3c8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_rps_01.txt#37#12,"よければ、左下のボタンを押しながら
+わたしに５秒くらい指タッチしてね。
+想いが伝わるように……。","可以的话，请按住左下角的按钮
+用手指触碰我大约5秒钟。
+为了能传达心意……",translated,依恩,2295db6dd6,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_rps_01.txt#44#12,"<CLBU>グーとチョキとパーっていう手の形を作って、
+勝敗を決める遊びなんだね。","<CLBU>做出石头、剪刀、布的手势，
+来决定胜负的游戏呢。",translated,依恩,7fec30ab3b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/menuevent00/menu_rps_01.txt#45#12,"これなら簡単に出来るし面白そう♪
+早速やってみようよ♪","这样的话既简单又很有趣呢♪
+我们赶紧来玩玩看吧♪",translated,依恩,f31ad6ef41,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_rps_02.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_rps_02.txt#6#12,"<CLY2>ジャンケンをするためにはイオンが室内にいる
+必要があります。",<CLY2>想猜拳的话，依恩必须身处室内。,translated,系统文本,2b2c8096cc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/menuevent00/menu_rps_02.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_rps_02.txt#10#12,"<CLY2>ジャンケンをするためにはイオンが室内にいる
+必要があります。",<CLY2>想猜拳的话，依恩必须身处室内。,translated,系统文本,2b2c8096cc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/menuevent00/menu_rps_02.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_rps_02.txt#14#12,"<CLY2>ジャンケンをするためにはイオンが室内にいる
+必要があります。",<CLY2>想猜拳的话，依恩必须身处室内。,translated,系统文本,2b2c8096cc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/menuevent00/menu_rps_02.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#26#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/menu_rps_02.txt#30#12,"<CLY2>いまジャンケンをすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法猜拳。
+请等待依恩切换行动。",translated,系统文本,bb8038acf7,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/menuevent00/menu_rps_02.txt#38#12,"現在のあなたの戦績は
+ %d 戦 %d 勝 %d 敗
+です。","你目前的战绩为
+ %d 战 %d 胜 %d 败。",translated,系统文本,2ed91f3e92,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_rps_02.txt#39#12,イオンをジャンケンに誘いますか？,要邀请依恩猜拳吗？,translated,系统文本,3ea4b4084d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#41#12,ジャンケンをする,进行猜拳,translated,,2501a59919,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#42#12,ジャンケンをしない,不进行猜拳,translated,,8bb152693d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#50#12,あ、はーい。,啊，好――的。,translated,依恩,0f82c2eba8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#70#12,またジャンケンで勝負するの？,又要用猜拳来决胜负吗？,translated,依恩,5dc2f6a295,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02.txt#71#12,"えへへ、いいよ～。
+負けないからね。","诶嘿嘿，好呀～。
+我可不会输的哦。",translated,依恩,b640f8d08f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_rps_02m.txt#31#12,いくよ～！,要来啦～！,translated,依恩,45446676fa,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#34#12,あいこで～……,平手再来～……,translated,依恩,7e87d012d7,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#36#12,ジャンケン～……,石头剪刀～……,translated,依恩,2bec4687cf,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#39#12,グー,石头,translated,,12aa4805ee,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#40#12,チョキ,剪刀,translated,,bab88f741a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#41#12,パー,布,translated,,6d4dea10b2,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#91#12,あぅ、負けちゃった……。,呜，输掉了……,translated,依恩,c86c238d67,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#93#12,うぅ……。,呜呜……,translated,依恩,7e9d35f0a5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#95#12,あ、あれ……？,诶、咦……？,translated,依恩,caee2f899a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#98#12,あっち出しておけばよかった……。,早知道出那个就好了……,translated,依恩,fe1fc024b3,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#100#12,これだと思ったんだけどなぁ……。,明明觉得肯定是出这个的呀……,translated,依恩,9ae7e07d07,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#102#12,その手は予想外だよ……。,那一手真是出乎意料啊……,translated,依恩,2b62a7f167,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#107#12,やった♪,太好啦♪,translated,依恩,9ef5f25abd,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#109#12,えへへ、わたしの勝ちだね♪,诶嘿嘿，是我赢了呢♪,translated,依恩,9e641079b1,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#111#12,今回はわたしの勝ちだね。,这次是我赢了呢。,translated,依恩,7f3515d3fa,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#114#12,バッチリ予想通り♪,完全正如我所料♪,translated,依恩,63a00d2108,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#116#12,こういうのを予感的中って言うのかな♪,这种情况就叫做预感灵验了吧♪,translated,依恩,f067e65ff9,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#118#12,次も負けないよ♪,下次我也不会输的哦♪,translated,依恩,09627b9c6e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#124#12,"現在のあなたの戦績は
+ %d 戦 %d 勝 %d 敗
+です。","你目前的战绩为
+ %d 战 %d 胜 %d 败。",translated,系统文本,2ed91f3e92,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_rps_02m.txt#125#12,もう一回やる？,还要再来一局吗？,translated,依恩,ef170bf9ae,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#126#12,もう一回やる,再来一局,translated,,b08804e30d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#127#12,もうやめる,不玩了,translated,,15eb346fb5,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#131#12,よーし、次は負けないよ！,好――的，下次我可不会输哦！,translated,依恩,0a156aea61,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#133#12,う～ん、次は何を出そうかなぁ……。,唔――下次出什么好呢……,translated,依恩,67504c0d56,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#135#12,次はどうしようかな～……。,下次要怎么办呢～……,translated,依恩,3b0cada752,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#139#12,次は何を出そうかなぁ♪,下次出什么好呢♪,translated,依恩,c35ab4e354,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#141#12,これまでのパターンを考えると……。,考虑一下至今为止的规律的话……,translated,依恩,7264e5422b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#143#12,あなたの次の手を予想すると……。,预测一下你的下个出招的话……,translated,依恩,d45fc70093,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_rps_02m.txt#156#12,"楽しかった～。
+また一緒にやろうね。","玩得好开心～。
+下次再一起玩哦。",translated,依恩,aaa8338ca1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#6#12,"何時くらいに起きる？
+できる限り、あなたに合わせるよ。","大概几点起床呢？
+我会尽可能配合你的哦。",translated,依恩,98778a312e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#8#12,何時くらいに起きよっか？,大概几点起床呢？,translated,依恩,755e3fe196,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#10#12,何時に起きればいい？,几点起床比较好？,translated,依恩,927d77a95e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#15#12,"ふふっ、この時間だと、まだベッドにも
+入っていないよ。","呵呵，这个时间的话，
+我可连被窝都还没钻进去呢。",translated,依恩,7c3e7cb20a,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#16#12,"あなたって、本当にうっかり屋さんな
+ところがあるよね？",你这个人，还真是有够粗心大意的呢？,translated,依恩,c03e82c4af,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#18#12,うん、それじゃあその時間に……。,嗯，那么就在那个时间……,translated,依恩,fb937cc6b0,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#19#12,って、これまだ寝る前の時間だよ。,等等，这还是睡觉前的时间呀。,translated,依恩,b0930eb265,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#21#12,その時間はまだ寝てもいないと思うよ。,那个时间我肯定连睡都还没睡呢。,translated,依恩,af4fc9a1ee,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#27#12,"さ、さすがにその時間だと、睡眠時間が
+短すぎるかも……。","到、到底那个时间的话，
+睡眠时间未免也太短了吧……",translated,依恩,be230ef197,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#28#12,"眠くて作業がちゃんとできないと困るし、
+もう少し長く寝たいな。","要是太困导致没法好好工作可就糟了，
+我想再多睡一会儿呢。",translated,依恩,ee85ecb13d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#30#12,う～ん……もう少し長く寝たいな。,唔――……我想再多睡一会儿呢。,translated,依恩,f80a331635,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#31#12,"眼の下にクマが出来ちゃったら、
+恥ずかしいもん……。","要是眼底下长出黑眼圈的话，
+会很丢人的嘛……",translated,依恩,a63c0cb736,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#33#12,その時間だと、起きられそうにないかも…。,那个时间的话，我可能起不来呢……,translated,依恩,6981cdf8be,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#39#12,"さすがにこんな時間まで
+寝ていられないよ。",无论如何也不能睡到这么晚呀。,translated,依恩,45fac16a63,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#40#12,もう少し短い方がいいな。,稍微短一点会比较好呢。,translated,依恩,91a2f5392b,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#42#12,"いくら寝坊助さんのわたしでも、
+その時間には起きてると思うよ？","哪怕是我这种贪睡虫，
+那个时间肯定也已经起床了哦？",translated,依恩,7041bf42a6,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#44#12,その時間だと、もう起きちゃってるかも。,那个时间的话，说不定我已经醒了呢。,translated,依恩,3740aa3adb,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#50#12,うん、この時間で賛成！,嗯，我赞成这个时间！,translated,依恩,c0a0a014d0,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#51#12,"わたしが起きるまで、ちゃんとわたしの
+隣にいてくれないと嫌だよ？","在我醒来之前，必须好好待在
+我的身边，不然我可不依哦？",translated,依恩,9d7e673e76,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#53#12,"うん、決まり！
+その時間になったら一緒に起きようね。","嗯，决定了！
+到了那个时间我们一起起床哦。",translated,依恩,0ccc1906d1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#54#12,"先に起きて寝顔見るのは無しだよ？
+恥ずかしいし……。","可不许比我先醒然后看我的睡相哦？
+怪不好意思的……",translated,依恩,ab6f67852f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#56#12,"うん、わかった。
+それじゃ、その時間に起きようね♪","嗯，我知道了。
+那么，就在那个时间起床吧♪",translated,依恩,b30f41c600,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#57#12,"もしあなたが起きていなかったら、
+起こしちゃうからね？","如果你还没醒的话，
+我可是会叫醒你的哦？",translated,依恩,5ee994a6bb,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#64#12,えっと……このくらいの時間がいいかも。,那个……大概这个时间比较好吧。,translated,依恩,f71d75796d,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#66#12,"う～ん……
+それじゃあ、これくらいでどうかな？","唔――……
+那么，这个时间怎么样呢？",translated,依恩,5b56f9ea75,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#68#12,このくらいの時間だとどうかな？,大概这个时间的话怎么样呢？,translated,依恩,c7e1699ef6,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#73#12,その時間はまだ寝てないよ。,那个时间我可还没睡呢。,translated,依恩,d3267c3e66,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#75#12,それ、寝る前の時間だよ……。,那个，是睡觉前的时间啦……,translated,依恩,7c00ee6ab8,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#77#12,"うーん…
+その時間はまだ寝ていないと思うよ。","唔――……
+我想那个时间肯定还没睡呢。",translated,依恩,4d882624af,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#83#12,それじゃあ短過ぎるよぉ……。,那样的话也太短了啦……,translated,依恩,f26d5e33ba,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#84#12,"寝不足でずっとうとうとしちゃうから、
+もう少しちゃんと寝ておきたいな。","睡眠不足会一直打瞌睡的，
+我想再好好多睡一会儿呢。",translated,依恩,67d17bc8db,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#86#12,も、もう少し長く寝たいかも……。,我、我也许想再多睡一会儿……,translated,依恩,0eb8c9f287,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#87#12,"起きれないと思うし、起きれたとしても、
+寝不足の顔見られるの嫌だもん……。","我觉得起不来，就算能起来，
+也不想让你看到我睡眠不足的脸庞嘛……",translated,依恩,895ad64b40,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#89#12,"うーん…
+その時間だと、起きれそうにないかも…。","唔――……
+那个时间的话，我可能起不来呢……",translated,依恩,5c75b91834,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#95#12,もぉ、わたしはそんなに寝れません！,真是的，我可睡不了那么久！,translated,依恩,222a59ae8c,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#96#12,"もうちょっとだけ短くしてほしいな。
+あ、極端なのはダメだよ？","希望你能再稍微调短一点。
+啊，可不能走极端哦？",translated,依恩,b05027116d,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#98#12,"……わたし、そんなに寝坊助さんじゃ
+ないよ？",……我可没有爱睡懒觉到那种地步哦？,translated,依恩,3c980d4601,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#100#12,"うーん…
+その時間だと、もう起きちゃってるかも。","唔――……
+那个时间的话，说不定我已经醒了呢。",translated,依恩,c935d541b7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#106#12,ふぅ……やっと決まったね。,呼……终于定下来了呢。,translated,依恩,8a76fc287a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#107#12,"わたしが起きるまで、ちゃんとわたしの
+隣にいてくれないと嫌だよ？","在我醒来之前，必须好好待在
+我的身边，不然我可不依哦？",translated,依恩,9d7e673e76,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#109#12,"うん、決まり！
+その時間になったら一緒に起きようね。","嗯，决定了！
+到了那个时间我们一起起床哦。",translated,依恩,0ccc1906d1,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#110#12,"先に起きて寝顔見るのは無しだよ？
+恥ずかしいし……。","可不许比我先醒然后看我的睡相哦？
+怪不好意思的……",translated,依恩,ab6f67852f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#112#12,"うん、わかった。
+それじゃ、その時間に起きようね♪","嗯，我知道了。
+那么，就在那个时间起床吧♪",translated,依恩,b30f41c600,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#113#12,"もしあなたが起きていなかったら、
+起こしちゃうからね？","如果你还没醒的话，
+我可是会叫醒你的哦？",translated,依恩,5ee994a6bb,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#121#12,"時間の感覚が合わないみたいだから、
+今回はわたしが自分で決めちゃうね。","感觉我们的时间观念合不来，
+这次就由我自己来决定吧。",translated,依恩,f1fc6dbf69,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#123#12,"いつまでも決まりそうにないし、
+やっぱり自分で決めることにするよ。","总觉得再怎么商量也定不下来，
+果然还是我自己决定吧。",translated,依恩,c65866e8af,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#125#12,"ごめんね。やっぱり自分が起きたい時間に
+起きることにするよ…。","对不起哦。果然我还是决定
+在自己想醒的时间起床啦……",translated,依恩,7eb869f679,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#130#12,"う～ん……あなたのお願いにできる限り
+近づけるとして……。
+これくらいなら、どうにかなるかも。","唔――……尽量接近你的要求的话……
+这个程度的话，说不定还能应付得来。",translated,依恩,ea9e1716d4,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_time1.txt#132#12,"う～ん……わたしがギリギリ頑張って
+起きられる時間だと……。
+これくらいかな？","唔――……如果是极限勉强一下
+能够起床的时间的话……
+大概是这个时间吧？",translated,依恩,5e1445b4ca,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_time1.txt#134#12,"うーん、でも…あなたのお願いだから…
+このくらいの時間なら頑張れるかも。","唔――不过……毕竟是你的要求嘛……
+这个时间的话说不定能努力撑一下。",translated,依恩,f68a90d4ec,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#140#12,"はぁ……真面目に考えてる？
+どう考えても寝る前だよ。","唉……你到底有没有认真考虑呀？
+怎么想都还是睡觉前的时间吧。",translated,依恩,d56a3beec8,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#142#12,だから、その時間はまだ寝てないってば！,都说了，那个时间我还没睡呢！,translated,依恩,08a92314bc,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#144#12,"だからぁ…
+その時間はまだ寝てないってば。","都说了嘛……
+那个时间我可还没睡呢。",translated,依恩,3afe2f3685,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#149#12,"こんなに短い時間じゃ、寝不足で何も
+できなくなっちゃうよ。","这么短的时间，睡眠不足
+会导致什么都做不了的哦。",translated,依恩,f7f86a863e,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#150#12,"わたしが結構しっかり寝るタイプだって、
+そろそろわかってほしいな。","差不多也该明白
+我是需要睡足觉的那种类型了吧。",translated,依恩,eeed1d98f9,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#152#12,"この時間だと、ほとんど眠れないから
+起きれないと思うの……。","这个时间几乎根本没怎么睡，
+我觉得肯定起不来呀……",translated,依恩,92ef6c1b70,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#153#12,"もし起きれたとしても、頭がぼーっとした
+状態だと思うから、まともに作業なんて
+できないよ？","就算能勉强起来，脑袋也肯定
+晕乎乎的，根本没法正常工作哦？",translated,依恩,84b9e5e4a5,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_time1.txt#155#12,"ごめんなさい、やっぱりその時間だと
+起きれそうにないと思う…。","对不起，果然那个时间的话
+我想我肯定是起不来的……",translated,依恩,37556bf274,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#160#12,"……わたし、今まであなたの前で
+こんなに寝たことなかったと思うけど？","……我想我至今在你的面前
+可从来没睡过这么久吧？",translated,依恩,dcad038a35,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#162#12,"……わたし、半日以上寝ちゃうほど
+寝坊助さんじゃないよ？",……我可不是会睡上大半天的贪睡虫哦？,translated,依恩,3394b644bd,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#164#12,その時間は、もう絶対に起きてるもん。,那个时间我绝对已经醒了嘛。,translated,依恩,e5ef3b56db,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#169#12,うん、これで決まり！,嗯，这就定下来啦！,translated,依恩,327c29ce1a,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#170#12,"ふぅ……時間を決めるだけなのに、
+すごく苦労しちゃった気がするね。","呼……明明只是决定个时间，
+总觉得费了好多力气呢。",translated,依恩,0328a12eb7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#172#12,うん、それで決まりだね。,嗯，就这么定了吧。,translated,依恩,74828e6c7e,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#173#12,"決まらないかと思って、ちょっとだけ
+ハラハラしちゃった。","我还以为定不下来了，
+稍微提心吊胆了一下呢。",translated,依恩,aa276f2778,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#175#12,"うん、わかった。
+それじゃ、頑張ってその時間に起きるよ。
+あなたと一緒にいたいもん。","嗯，我知道了。
+那么，我会努力在那个时间起来的。
+毕竟我想和你待在一起嘛。",translated,依恩,1f0f22cac9,br=0 nl=2,3,
+inc/event/res/menuevent00/menu_time1.txt#176#12,"でももし、あなたが起きていなかったら、
+起こしちゃうからね？","但是如果你还没起来的话，
+我可是会把你叫醒的哦？",translated,依恩,5a7e5a35c3,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#183#12,"はぁ……何だか今日は全然意見が
+合わないね。","唉……总觉得今天
+完全意见不合呢。",translated,依恩,35e321fa56,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#184#12,"こういう日は無理しても仕方がないし、
+日を改めよっか？","这种日子勉强也没用，
+改天再决定吧？",translated,依恩,9312d925a4,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#186#12,"う～ん……今日は上手く時間が
+合わないみたいだね。","唔――……今天的时间
+似乎很难合得来呢。",translated,依恩,e067fcf024,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_time1.txt#187#12,でも、こういう日もあるよ。,不过，也是会有这种日子的啦。,translated,依恩,a3c47a5529,br=0 nl=0,1,
+inc/event/res/menuevent00/menu_time1.txt#189#12,"ごめんね、
+上手く時間をあわせられなくて…。","对不起哦，
+没能好好把时间对上……",translated,依恩,f58ff436d7,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_uta00.txt#19#12,"捧げるこの想いの波（は）は
+ゆらりゆらり漂ひて","献上的这思念之波
+摇曳着缓缓飘荡",translated,系统文本,3b4ae36b8f,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_uta00.txt#20#12,"届くか　星となるか
+空即是色の鳥のよう","会传达吗　还是化作繁星
+宛如空即是色之鸟",translated,系统文本,244e7a5e06,br=0 nl=1,2,
+inc/event/res/menuevent00/menu_uta00.txt#24#12,"溢れるこの想いの波（は）は
+いろはにほへど　いずこへ","漫溢的这思念之波
+虽生芬芳　将归何方",translated,系统文本,cb3d96b1e0,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/user_getback.txt#6#12,"<CLY2>挨拶するためにはイオンが室内にいる
+必要があります。",<CLY2>打招呼需要依恩身处室内。,translated,系统文本,72bdb1b314,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/user_getback_word01.txt#3#12,おかえりなさい。,欢迎回来。,translated,依恩,b4ffd03b9d,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word01.txt#4#12,"おでかけはどうだった？
+何か良いことあったかな？","出门还顺利吗？
+有没有遇到什么好事呀？",translated,依恩,a56e702b41,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback_word01.txt#6#12,"おかえり～。
+あなたが帰ってくるの待ってたんだよ。","欢迎回来～。
+我一直在等着你回来呢。",translated,依恩,9948cdf491,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback_word01.txt#7#12,またたくさんお話しようね。,还要再多聊聊天哦。,translated,依恩,6aed3acc14,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word01.txt#9#12,あ、おかえりなさい。,啊，欢迎回来。,translated,依恩,1982a8259b,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word01.txt#10#12,えへへ、これでまた一緒にいられるね。,诶嘿嘿，这样又能待在一起啦。,translated,依恩,92d8051a46,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word02.txt#3#12,あれ？　おでかけしてたの？,咦？刚才出去了吗？,translated,依恩,37f9c6e308,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word02.txt#4#12,"とりあえず、おかえりなさい。
+またたくさんお話しようね。","总之，欢迎回来。
+还要再多聊聊天哦。",translated,依恩,8b21ec39c9,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback_word02.txt#6#12,"あ、あれ？
+いつの間におでかけしてたの？","诶、咦？
+是什么时候出门的呀？",translated,依恩,b64fcbb081,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback_word02.txt#7#12,"もしかして、わたしが気が付かなかったの
+かな？",难道说，是我没有注意到吗？,translated,依恩,af5fcc14a2,br=0 nl=1,2,
+inc/event/res/menuevent00/user_getback_word02.txt#9#12,えっと……おかえり、なさい？,那个……欢迎、回来？,translated,依恩,c85f1e3a0e,br=0 nl=0,1,
+inc/event/res/menuevent00/user_getback_word02.txt#10#12,どこかにおでかけしてたのかな？,是去哪里了吗？,translated,依恩,48482e0b13,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/user_goto.txt#6#12,"<CLY2>挨拶するためにはイオンが室内にいる
+必要があります。",<CLY2>打招呼需要依恩身处室内。,translated,系统文本,72bdb1b314,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/user_goto_bed.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/user_goto_bed.txt#6#12,"<CLY2>挨拶するためにはイオンが室内にいる
+必要があります。",<CLY2>打招呼需要依恩身处室内。,translated,系统文本,72bdb1b314,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/user_goto_bed_word01.txt#3#12,"おやすみなさい。
+ゆっくり休んでね。","晚安。
+好好休息哦。",translated,依恩,74894a77cb,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word01.txt#6#12,あ、もう寝るところなんだね。,啊，正准备睡觉了呢。,translated,依恩,b669d7ecbc,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word01.txt#7#12,"おやすみなさい。
+起きたらまたお話しようね。","晚安。
+醒来之后还要再聊天哦。",translated,依恩,00a20f4fe4,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word01.txt#9#12,あ……もう寝ちゃうんだ……。,啊……已经要睡了吗……,translated,依恩,a42b3dc3cf,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word01.txt#10#12,"ちょっと残念。
+もう少し起きて一緒に痛かったなぁ。","稍微有点遗憾。
+真想再多醒着陪你待一会儿呢。",translated,依恩,5510f9f0f9,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#3#12,"あれ？
+まだ起きてたの？","咦？
+还醒着吗？",translated,依恩,6fe0fec32b,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#4#12,"お話できるのは嬉しいけど、
+寝ないで大丈夫？","能聊天固然很高兴，
+但不睡真的没事吗？",translated,依恩,ed0c262f21,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#6#12,"あれ？
+さっきおやすみなさいって……。","咦？
+刚才不是还说了晚安……",translated,依恩,087d4fa39b,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#7#12,もしかして、寝ないで遊んでたりしたの？,难道说，没去睡反而在玩吗？,translated,依恩,e3e732eb27,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#9#12,あ、まだ起きてたんだ。,啊，还醒着呢。,translated,依恩,f76de6ca5d,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word02.txt#10#12,ちゃんと寝ないと疲れが残っちゃうよ？,不好好睡觉的话疲劳会消不掉的哦？,translated,依恩,7946747c72,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#3#12,"あれ？
+また寝るの？","咦？
+又要去睡了吗？",translated,依恩,3f39e7b0d4,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#4#12,"もしかして疲れてるのかな？
+ゆっくり休んでね。","难道说很累了吗？
+好好休息哦。",translated,依恩,c8b4fb2cbc,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#6#12,"あれ？　さっきも寝てたよね？
+もしかしてお昼寝だったの？","咦？刚才不是才睡过吗？
+难道是午睡吗？",translated,依恩,a4a3090faa,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#7#12,"わたしもよくお昼寝するし、
+気持ちはすごく分かるよ。","我也经常午睡，
+心情非常能够理解哦。",translated,依恩,832a111cf0,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#9#12,おやすみなさい。,晚安。,translated,依恩,36c28bb331,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_bed_word03.txt#10#12,"たくさん寝るのも良いけど、
+寝疲れには気をつけてね。","多睡一会儿虽然也好，
+但也要注意别睡太累了哦。",translated,依恩,9af665c0fd,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word01.txt#3#12,"あれ？
+さっきも出かける、って言ってなかった？","咦？
+刚才不是也说要出门吗？",translated,依恩,da0d915809,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word01.txt#4#12,もしかして、もう行って帰ってきたの？,难道说，已经走完一趟回来了吗？,translated,依恩,bc0a0282eb,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word01.txt#6#12,えっと……時間大丈夫？,那个……时间来得及吗？,translated,依恩,0545793b6a,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word01.txt#7#12,"帰ってくるのが遅くならないように
+気をつけてね。",注意别太晚回来哦。,translated,依恩,9059c431bf,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word01.txt#9#12,あ、いってらっしゃい。,啊，一路顺风。,translated,依恩,f55725a60d,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word01.txt#10#12,"って、さっきも言ったよね。
+時間大丈夫？","不对，刚才也说过了呢。
+时间来得及吗？",translated,依恩,16c1a0b507,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#4#12,"あ、おかえりなさい。
+もう帰ってたんだね。","啊，欢迎回来。
+已经回来了呢。",translated,依恩,5b987cd88f,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#6#12,"あれ？
+いつの間に帰ってたの？","咦？
+是什么时候回来的呀？",translated,依恩,40e6f26f43,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#7#12,"もう、帰ってたら教えてくれても
+いいのに……。","真是的，回来了的话
+跟我说一声也好嘛……",translated,依恩,785dfb54d7,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#11#12,"あ、おかえりなさい。
+もう帰ってたんだね。","啊，欢迎回来。
+已经回来了呢。",translated,依恩,5b987cd88f,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#13#12,"おかえりなさい。
+あとそれから、いってらっしゃい。","欢迎回来。
+还有接下来，一路顺风。",translated,依恩,99640ffcec,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#14#12,"次帰ってきたら、ただいまって
+言ってくれると嬉しいな。","下次回来的时候，要是能跟我说声
+我回来了，我会很高兴的。",translated,依恩,a5d3ed087d,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#16#12,"あれ？
+いつの間に帰ってたの？","咦？
+是什么时候回来的呀？",translated,依恩,40e6f26f43,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word02.txt#17#12,"もう、帰ってたら教えてくれても
+いいのに……。","真是的，回来了的话
+跟我说一声也好嘛……",translated,依恩,785dfb54d7,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word03.txt#3#12,"いってらっしゃい。
+あなたが帰って来るの待ってるからね。","一路顺风。
+我会等着你回来的哦。",translated,依恩,f5b2a6913b,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word03.txt#5#12,"いってらっしゃ～い。
+また来てくれるの楽しみにしてるね。","一路顺风～。
+期待着你再次过来玩哦。",translated,依恩,e508ca31f7,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word03.txt#7#12,あ、これからおでかけ？,啊，现在要出门吗？,translated,依恩,38eeac3b83,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word03.txt#8#12,気をつけて行って来てね。,路上要小心哦。,translated,依恩,1a022c4bfc,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word04.txt#3#12,またおでかけするの？,又要出门了吗？,translated,依恩,0958399a0b,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word04.txt#4#12,"一緒にいられないのは残念だけど、
+仕方ない……よね。","虽然没法待在一起挺遗憾的，
+但也是没办法的……对吧。",translated,依恩,6112f76f75,br=0 nl=1,2,
+inc/event/res/menuevent00/user_goto_word04.txt#6#12,あ、いってらっしゃい。,啊，一路顺风。,translated,依恩,f55725a60d,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word04.txt#7#12,早めに帰って来てくれると嬉しいな。,要是能早点回来我会很高兴的。,translated,依恩,87ea6a3c49,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word04.txt#9#12,あ……またどっかに行っちゃうんだ……。,啊……又要去别的地方了吗……,translated,依恩,7478dbeda1,br=0 nl=0,1,
+inc/event/res/menuevent00/user_goto_word04.txt#10#12,"わたし待ってるから。
+帰ってきたらまたお話しようね。","我会等着的。
+等你回来再一起聊天哦。",translated,依恩,5c98e93c32,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/menuevent00/user_morning.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/menuevent00/user_morning.txt#6#12,"<CLY2>挨拶するためにはイオンが室内にいる
+必要があります。",<CLY2>打招呼需要依恩身处室内。,translated,系统文本,72bdb1b314,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/menuevent00/user_morning_word01.txt#3#12,"おはよう。
+もう起きて大丈夫なの？","早上好。
+已经起来了不要紧吗？",translated,依恩,8104ae99f8,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word01.txt#4#12,"ちゃんと寝ないと疲れが取れないから
+気をつけてね。","不好好睡觉的话疲惫是消不掉的，
+要注意哦。",translated,依恩,25a303805d,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word01.txt#6#12,あ、おはよう♪,啊，早上好♪,translated,依恩,20cbda8a6c,br=0 nl=0,1,
+inc/event/res/menuevent00/user_morning_word01.txt#7#12,"起きるの早いね。
+ちゃんと疲れは取れたかな？","起得真早呢。
+疲惫有好好消除了吗？",translated,依恩,584dcf23db,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word01.txt#9#12,"え！？
+もう起きたの？","诶！？
+已经起来了吗？",translated,依恩,942e0e4f89,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word01.txt#10#12,"お話できるのは嬉しいけど、
+無理してないか心配になるよ。","能聊天虽然很高兴，
+但我会担心你是不是在勉强自己呢。",translated,依恩,c0ac68f0c6,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word02.txt#3#12,おはようございます！,早上好！,translated,依恩,3e3eeb1646,br=0 nl=0,1,
+inc/event/res/menuevent00/user_morning_word02.txt#4#12,"えへへ、こうやって挨拶できるのって
+なんか嬉しいね。","诶嘿嘿，能像这样互相打招呼，
+总觉得好开心呢。",translated,依恩,cffe01271b,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word02.txt#6#12,"おはよう。
+よく眠れたかな？","早上好。
+昨晚睡得好吗？",translated,依恩,db27dc5794,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word02.txt#7#12,またたくさんお話しようね。,还要再多聊聊天哦。,translated,依恩,6aed3acc14,br=0 nl=0,1,
+inc/event/res/menuevent00/user_morning_word02.txt#9#12,"あ、おはよう。
+良い夢見れた？","啊，早上好。
+做了个好梦吗？",translated,依恩,3023a6f95a,br=0 nl=1,2,
+inc/event/res/menuevent00/user_morning_word02.txt#10#12,わたしはねぇ……ふふっ、内緒だよ♪,我呢……呵呵，保密哦♪,translated,依恩,ec509183d1,br=0 nl=0,1,

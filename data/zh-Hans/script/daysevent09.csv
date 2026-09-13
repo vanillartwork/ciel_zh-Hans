@@ -1,0 +1,507 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/daysevent09/day09_01.txt#6#12,"時々、高いところからの景色を
+眺めてみたい、って思うことがあるの。","有时候，我总会想着
+眺望一下高处的景色呢。",translated,依恩,2d6ddcc639,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_01.txt#7#12,"うんと高いところ……道を歩く人達が
+豆粒みたいに小さく見えるくらいの
+高いところが良いかな？","特别高的地方……比如路上走着的人
+小得像豆子一样看得清清楚楚的
+那种高处是不是挺不错的？",translated,依恩,0987f22118,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_01.txt#8#12,"そういうところから見える景色を見たい、
+って思うの。あなたはどうかな？","我很想看看从那种地方俯瞰的景色呢。
+你是怎么想的呢？",translated,依恩,2ac9cf0b81,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_01.txt#9#12,山からの景色を眺めたい,想眺望高山上的景色,translated,,1f6c368b82,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_01.txt#10#12,綺麗な夜景を一望したい,想一览美丽的夜景,translated,,dfcb8c70fa,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_01.txt#14#12,"わ、わたしが思ってたよりも、
+随分高度が上がったような……。","感觉这高度、比我想象中的
+还要高出很多呢……",translated,依恩,ced6fd8d01,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_01.txt#15#12,"でも、高い山からの景色とかって、
+ちょっと興味あるかも。","不过从高山俯瞰的景色，
+我可能还真挺感兴趣的。",translated,依恩,833a5011c7,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_01.txt#16#12,"行くまでが大変だけど、
+いつか自分の目で見てみたいな。","虽然去的过程会很辛苦，
+但真想哪天亲眼去看一看呢。",translated,依恩,c94fb56437,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_01.txt#21#12,わぁ……ロマンチックでいいね。,哇……真浪漫，真好呢。,translated,依恩,6ecfbb0432,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_01.txt#22#12,そのうち、デートで行ってみたいかも。,改天，也想和你去那里约会看看呢。,translated,依恩,3a2a6bc3ac,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_01.txt#24#14,"景色を見渡すことは
+多くても、見下ろすの
+は中々できないよね？","虽然经常可以极目远眺，
+但是要俯瞰大地
+可不太容易呢？",translated,,c4f259db92,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_02.txt#6#12,"ねえねえ、お化粧している女の子って、
+あなたはどう思う？","呐呐，化妆的女孩子，
+你是怎么看的呢？",translated,依恩,874d8fec87,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_02.txt#7#12,"あ、言っておくけど、
+わたしも少しはしてるんだよ？","啊，先说好，
+我自己也是稍微化了一点的哦？",translated,依恩,1fbd8df429,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_02.txt#8#12,"でも、時間をかけてしてるわけじゃ
+ないから、少しはビシッと決めた方が
+いいのかなぁ、なんて……。","不过并不是花很长时间化的，
+所以我在想，是不是稍微化得更精致一点
+会比较好呢，之类的……",translated,依恩,cc5617fd70,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_02.txt#9#12,今くらいでいいんじゃない？,像现在这样不就挺好的吗？,translated,,403e74e89e,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_02.txt#10#12,"あんまり濃い化粧はしたくないけど、
+それなりにはした方がいいと思うの。","虽然我不太想化浓妆，
+但觉得化个适度的妆容还是挺有必要的。",translated,依恩,2e77313cee,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_02.txt#11#12,"わたしももう子供じゃないんだし、
+大人としての身だしなみを整えられる
+ようにならないと、って……。","我也已经不是小孩子了，
+总得学会整理好作为大人的
+仪容仪表才行，我是这么觉得的……",translated,依恩,5d6115f6cc,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_02.txt#14#12,今度、ねりこさんに教わってみようかな？,下次，要不去请教一下妮莉库小姐吧？,translated,依恩,cea289aeb1,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_02.txt#21#12,"そ、そうかな？
+でも、もう子供じゃないんだし、
+少しはした方がいいような……。","是、是吗？
+可是我已经不是小孩子了，
+总觉得还是稍微化一点比较好……",translated,依恩,c4fd7ce888,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_02.txt#22#12,"……でも、あなたが言うなら、
+今くらいの方がいいのかな？","……不过既然你都这么说了，
+维持现在这样或许更好一些吧？",translated,依恩,bdd29837e9,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_02.txt#23#12,"うん、そうだね。
+あなたの言葉、信じるよ。","嗯，说得也是呢。
+我相信你说的话哦。",translated,依恩,46aa194e1c,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_02.txt#24#14,"お化粧をビシッと
+決めた女の人って、
+かっこいいよね。","妆容打理得
+格外精致干练的女性，
+真的很帅气呢。",translated,,2aa581d73e,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_03.txt#6#12,"ねえねえ、あなたはわたしに、
+どんな格好をしてほしい？","呐呐，你希望我
+穿成什么样子呢？",translated,依恩,797bec8546,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#7#12,"あ、どんなって言っても、
+あんまり細かい指定は無しだよ？","啊，虽说是什么样子，
+但不准提出太细致的要求哦？",translated,依恩,b51849322f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#8#12,"簡単に、派手なのが良いか地味なのが
+良いかを聞きたいの。","简单来说，我只是想问问你
+是喜欢华丽一些的还是朴素一些的。",translated,依恩,2956ca7d48,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#9#12,派手なのが良い,喜欢华丽一点的,translated,,64568f924b,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_03.txt#10#12,地味なのが良い,喜欢朴素一点的,translated,,a25eb41bb3,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_03.txt#14#12,は、派手なのが良いんだ？,喜、喜欢华丽的呀？,translated,依恩,afe1fe3948,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_03.txt#15#12,"う～ん……わかったよ……。
+でも、あまり露出の激しいのは
+ダメだからね？","唔～……我知道了啦……
+但是布料太少太露骨的
+可不行哦？",translated,依恩,260a91dc9c,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_03.txt#20#12,地味なのがお好みなの？,你中意朴素一点的风格呀？,translated,依恩,56cdea0081,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_03.txt#21#12,"うん、わかったよ。
+教えてくれてありがと。","嗯，我知道了。
+谢谢你告诉我哦。",translated,依恩,a63fe1e23b,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#23#12,"えへへ……この質問って、結構前にも
+したの、覚えてる？","嘿嘿……这个问题在很久以前
+我也问过一次，你还记得吗？",translated,依恩,55d95e0643,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#24#12,"でも、あの頃と違って、今はわたし、
+あなたの恋人だもん。","不过和那个时候不同，现在的我，
+已经是你的恋人了嘛。",translated,依恩,067d1a8748,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#25#12,"だから、恋人としてもう一度質問して、
+あなたに聞いてみたかったの。","所以我想以恋人的身份再问一次，
+听听你的想法。",translated,依恩,13eb2c68ca,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#26#12,"やっぱり、あの時とはちょっとだけ、
+違った気持ちになれるね。","果然心情变得
+和那个时候有些不太一样了呢。",translated,依恩,6150921da7,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_03.txt#27#14,"わたしの恋人さんは、
+そういうのが好きなん
+だね？","我的恋人先生，
+原来喜欢那种
+风格呀？",translated,,25eea7075d,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_04.txt#6#12,"そういえば、冷蔵庫の中にずっと使ってない
+材料があるのを見つけたの。","说起来，我发现冰箱里
+有一直没用过的材料呢。",translated,依恩,a9db36810e,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_04.txt#7#12,"いつ採ってきたのか思い出せないから、
+相当前から入ってる、ってことだよね？","因为记不得是什么时候采来的了，
+也就是说已经放了相当长的时间吧？",translated,依恩,b3f669d3f4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_04.txt#8#12,"採ってくるときに、その時必要じゃない物も
+一緒に採ってくるのがいけないのかな？","是不是因为我采东西时，把当时并不需要
+的东西也一起采回来的缘故呢？",translated,依恩,b0e7a0c2d0,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_04.txt#9#12,腐らないから問題ないよ,又不会放坏所以没问题啦,translated,,1b4488dd9a,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_04.txt#10#12,"でも、せっかく材料を集めに行くのに、
+必要なものしか持って帰らないのは、
+それはそれでちょっと勿体ないし……。","可是难得特意跑去采集材料，
+只带必要的东西回来，
+未免又觉得有点可惜……",translated,依恩,7449b486b0,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_04.txt#11#12,"その時だけじゃなくて、次に作る物に
+必要になる、ってわかってる物を選んで
+持ってくるようにしようかな？","以后不仅看当时需要的，
+还要挑选明知下次制作会用到的材料
+带回来，这样如何呢？",translated,依恩,9254079689,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_04.txt#14#12,うん、そうした方がいいよね。,嗯，那样做比较好吧。,translated,依恩,c8e153bf54,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_04.txt#15#12,"そうすれば、冷蔵庫の中に入れっぱなし、
+なんてことにはならないと思うし。","这样一来，应该就不会出现
+一直堆在冰箱里不管的情况了。",translated,依恩,42b1496af6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_04.txt#22#12,"あっ、言われてみればそうだよね。
+えへへ、安心しちゃった！","啊，听你这么一说确实是呢。
+嘿嘿，这下我放心了！",translated,依恩,f3a48934ab,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_04.txt#24#12,"あ、安心、していいのかな……？
+そもそも、腐らない、っていうのも
+それはそれでちょっと怖いような……。","不、不过，真的可以放心吗……？
+说到底“不会放坏”这点，
+感觉本身也挺让人害怕的……",translated,依恩,0be541eb90,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_04.txt#25#14,"冷蔵庫の中のお掃除。
+わたしはちょっと
+苦手かも……。","打扫冰箱里面的卫生。
+我可能稍微
+有点不在行呢……",translated,,af11e69ee1,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_05.txt#6#12,ねえねえ、聞いておきたいことがあるの。,呐呐，我有件事想问问你。,translated,依恩,aeb7e88761,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#7#12,"あなたが、その……
+も、もし、結婚したとするでしょ？","如果你，那个……
+假、假如结婚了的话对吧？",translated,依恩,ca3f451a1d,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_05.txt#8#12,"そうなった時、奥さんはちゃんと毎日
+家事をする人の方がいい？","到了那个时候，你希望妻子是个
+每天都老老实实做家务的人吗？",translated,依恩,658e0e8557,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_05.txt#9#12,そりゃもちろん,那当然啦,translated,,8803214fed,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#10#12,そこまで完璧は求めないかも,可能不会追求那么完美吧,translated,,ba72d4c2b9,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#14#12,そっか……うん、やっぱりそうだよね。,这样啊……嗯，果然是那样呢。,translated,依恩,6ea30da905,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#15#12,これからは、もっと家事を頑張ろうかな？,那我以后是不是要更努力做家务呢？,translated,依恩,828095cdfc,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#16#12,"そうすれば、もっとあなたに好きになって
+もらえそうだしね、えへへ……。","这样的话，好像就能让你
+变得更加喜欢我了呢，嘿嘿……",translated,依恩,27a5e02744,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_05.txt#21#12,そうなんだ……ちょっと安心したよ。,是这样啊……我稍微安心了些哦。,translated,依恩,f0128fcb8d,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#22#12,"わたし、家事ってあまり得意じゃないから、
+毎日家事のできる人の方がいいって言われ
+たらどうしよう、って思ってたの。","因为我并不太擅长做家务，
+要是你说希望是每天都能做家务的人，
+我都不知道该怎么办才好了。",translated,依恩,761b6bf943,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_05.txt#23#12,"でも、それで家の中がぐちゃぐちゃに
+なるのは、ちょっと嫌かも……。","不过如果家里因此变得一团乱糟糟的，
+感觉也有点讨厌呢……",translated,依恩,9c4523ca0c,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_05.txt#24#12,その時は、分担で作業しようね。,到那时，我们两个人分工干活吧。,translated,依恩,dd66b98e95,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_05.txt#26#14,"家事の苦手な女の子も
+いるんだよ……。","世上也是有
+不擅长家务的女孩子的呀……",translated,,1f27b000fe,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#6#12,"そういえば、洗い物をしてる時に
+コップを割っちゃったの。","说起来，洗碗洗杯子的时候
+我不小心把杯子打碎了。",translated,依恩,893cebe70a,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#7#12,"ちょっと深めのコップだったから、
+洗うのが難しくて……。","因为是稍微偏深的杯子，
+洗起来挺费劲的……",translated,依恩,f484e064c6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#8#12,"内側を洗う時に、手を奥まで入れないと
+中途半端になっちゃうでしょ？","洗内壁的时候，手如果不伸到最里面的话，
+不就洗不干净了吗？",translated,依恩,223cbf9677,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#9#12,"そう思ってたら、ツルッと滑って
+落としちゃったの……。","我正这么想着，手一滑
+就把杯子摔下去了……",translated,依恩,6e65ae0194,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#10#12,コップ用のブラシとか便利だよ,洗杯子用的刷子挺方便的哦,translated,,a6c2bc1716,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_06.txt#11#12,"う～ん……もう少し底の浅いコップを
+使うようにした方がいいかな？","唔～……我是不是换成稍微浅一点的杯子
+用起来会比较好呢？",translated,依恩,1674f7d6a6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#12#12,"指先が届かないほど深いコップを使うから、
+割るんじゃないかな、って思うの。","就是因为用了指尖够不到底的深杯子，
+才会摔碎的吧，我是这么觉得的。",translated,依恩,b75bf1e761,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#15#12,"……食器の入れ替え、
+真剣に考えてみようかな？","……更换餐具的事，
+我是不是该认真考虑一下了呢？",translated,依恩,84be370984,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#22#12,"う～ん……買おうかな、って
+気にはなってるの。","唔～……我确实也动过
+要不要买一把的心思啦。",translated,依恩,08f471b475,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#23#12,"でも、そこまでは必要ない、って
+気もしちゃって……。","不过总觉得，
+好像也没必要特地买那个……",translated,依恩,a24d35ca41,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#24#12,"あれって相当深いコップじゃない限り、
+普通は使わないと思うの。","那个除非是相当深的杯子，
+平时一般都是用不上的吧。",translated,依恩,4c83ab01e0,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#25#12,"やっぱり、もう少し気を付けて洗い物を
+するようにするよ。","总归还是我在洗餐具的时候
+再稍微多加注意一点吧。",translated,依恩,64daf8630b,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_06.txt#26#14,"深いコップは洗う時が
+大変だよね……。","深杯子洗起来的时候
+真的很费劲呢……",translated,,630f09ed9a,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#6#12,最近、怖い夢をよく見るの。,最近我经常做可怕的噩梦呢。,translated,依恩,4878a3d622,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_07.txt#7#12,"寝る前に怖い本を読んだりとかしてないよ？
+それなのに、頻繁に見ちゃうの。","睡前我可没有看什么恐怖的书哦？
+即便如此还是频繁梦到呢。",translated,依恩,1cfc8af0f4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#8#12,"見なくなるためには、
+どうしたらいいのかな？","为了不再做噩梦，
+我该怎么办才好呢？",translated,依恩,00f5a2577c,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#9#12,そういう時は呼んでくれて構わない,那种时候随时叫我就好,translated,,0a7d9000e4,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_07.txt#10#12,立ち向かうんだ、怖い夢に！,要勇敢迎战噩梦啊！,translated,,e13f21cd19,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_07.txt#14#12,ほ、本当に！？,真、真的吗！？,translated,依恩,6c3282adbe,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_07.txt#15#12,"えへへ、そう言ってもらえると
+すごく助かるよ。","嘿嘿，能听你这么说，
+真的帮了大忙呢。",translated,依恩,c0ee2ef1e6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#16#12,"……でも、そうなると怖い夢を見るのが、
+ちょっと楽しみになっちゃうかも。","……不过这样一来，做噩梦这件事，
+搞不好反而会变得有点令人期待了呢。",translated,依恩,aefc891a66,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#21#12,えぇっ！？,诶诶！？,translated,依恩,7ebec1c9d2,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_07.txt#22#12,"……恋人に見守ってもらえたらな、
+って期待してたんだけど……。","……本来我还暗暗期待着
+能得到恋人的守护呢……",translated,依恩,9b3a02034e,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#23#12,"で、でも、あなたに甘えてばかりいるのは
+良くないよね。","不、不过，总是向你撒娇依赖你
+总归也不太好对吧。",translated,依恩,5a0cf02e77,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#24#12,"今度怖い夢を見た時には、
+勇気を出して立ち向かってみるよ！","下次要是再做噩梦，
+我会鼓起勇气迎难而上的！",translated,依恩,7c037139e6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#25#12,"……でも、ダメだった時には
+慰めてくれると嬉しいな。","……不过如果没能撑住的话，
+你能安慰安慰我我会很高兴的哦。",translated,依恩,cd23bbc467,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_07.txt#27#14,"怖い夢を見る原因って
+何なのかな？","做噩梦的原因
+到底会是什么呢？",translated,,bc6b84a40f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#6#12,"わたし、気づかないうちに鼻歌を
+歌っちゃう癖があるみたい……。","我好像有在不知不觉中
+哼起歌来的习惯呢……",translated,依恩,c261556821,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#7#12,あなたの前でも、結構やっちゃってるよね？,在你的面前，好像也经常这样对吧？,translated,依恩,56378cdbce,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_08.txt#8#12,"う～……思い出すと恥ずかしくなって
+きちゃった。","唔～……一想起来就觉得
+怪不好意思的。",translated,依恩,1c48fd9c0d,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#9#12,"無意識だから、きっと音痴になってると
+思うし……。","因为是无意识哼出来的，
+感觉肯定会跑调走音的嘛……",translated,依恩,c90daa1f25,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#10#12,楽しそうに歌ってて可愛い,唱得很开心的样子很可爱哦,translated,,4b0f70371f,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_08.txt#11#12,"ちゃ、ちゃんと歌えば、
+それなりに歌える自信はあるんだよ？","要、要是认真唱的话，
+我还是有信心能唱得挺不错的哦？",translated,依恩,fa370b880c,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#12#12,"証拠は夢セカイで見たでしょ？
+わたし自身、あんな風に歌えたんだ、って
+ビックリしたくらいだもん。","证据在梦世界里不是已经看过了吗？
+我自己当时能唱成那样，
+都觉得吓了一跳呢。",translated,依恩,1ec68bfcf0,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_08.txt#15#12,"今もあの時と同じくらい上手く歌えるかは
+分からないけど……。","虽然不知道现在的自己
+还能不能唱得像当时那么好……",translated,依恩,282b7df2dc,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#16#12,"でも、そのうち今のわたしの歌を、
+あなたに披露出来たらいいな。","不过，如果哪天能把你现在的我
+唱的歌展示给你听就好了呢。",translated,依恩,00367b2593,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#23#12,"も、もぉ……褒めてくれてるつもりかも
+しれないけど、恥ずかしいよ……。","真、真是的……虽然你可能是在夸我，
+但也太害羞了啦……",translated,依恩,cc6eff00a4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#24#12,"……でも可愛い、って思って
+もらえてたのは嬉しいな。","……不过能被你觉得可爱，
+我还是很高兴的啦。",translated,依恩,f2fbc128ad,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#25#12,"えへへ……これじゃ、
+この癖は治りそうにないね。","嘿嘿……这样一来，
+这个习惯恐怕很难改掉了呢。",translated,依恩,16397b8d61,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_08.txt#26#14,"あなたの前でちゃんと
+歌ったことって、
+無かったような……。","在你的面前，
+好像还从来没有
+认真唱过歌呢……",translated,,2d9fe87785,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_09.txt#6#12,"あのね、最近ちょっとだけ気になった
+ことがあるんだけど……。","那个啊，最近我有件事
+稍微有点在意……",translated,依恩,6ca29eeb8f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#7#12,もしかしてわたし、食べ過ぎかな？,难不成我，吃得太多了吗？,translated,依恩,2b3f04eabd,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_09.txt#8#12,"結構しっかりした料理も作ってるから、
+ちょっと不安に思ったの。","因为做了相当扎实丰盛的饭菜，
+所以稍微有点担心了。",translated,依恩,fecc29a02f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#9#12,正直に言ってくれると嬉しいな。,你能坦白告诉我我会很高兴的哦。,translated,依恩,6c2b0027e1,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_09.txt#10#12,少ないくらい,甚至可以说偏少呢,translated,,714e6369e7,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_09.txt#11#12,食べ過ぎかも,搞不好确实吃得有点多,translated,,6b6a44b427,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_09.txt#15#12,"そ、そっか……。
+えへへ、それを聞けて安心しちゃった。","这、这样啊……
+嘿嘿，听你这么说我就安心了。",translated,依恩,31e82c0d57,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#16#12,"少ないくらいなら、もう少し食べる量を
+増やした方が良いかな？","要是算少的话，
+稍微再增加一点饭量会比较好吗？",translated,依恩,e0b917e46d,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#17#12,"もちろん太らない程度だけど、
+食べなさ過ぎるのも体に悪いもんね。","当然是要在不长胖的范围内，
+不过吃太少也对身体不好嘛。",translated,依恩,c171b756b5,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#23#12,や、やっぱり……。,果、果然是这样吗……,translated,依恩,18f8a23dc4,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_09.txt#24#12,"う～ん、自分的には気を付けてるつもり
+だったけど、やっぱりまだ甘かったみたい
+だね。","唔～我自己虽然觉得注意了，
+但看来还是
+太掉以轻心了呢。",translated,依恩,e6115ec7ca,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_09.txt#25#12,"無理のない程度に、食べる量を減らす
+努力をしてみるよ。","我会尽力在合理的范围内，
+努力减少食量的。",translated,依恩,5a4f20e010,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_09.txt#27#14,"恋をするとお腹がすく
+ってことなのかな？","难道谈恋爱的话
+肚子就会容易饿吗？",translated,,cc7e7a58e3,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#6#12,"あなたと、もっと長い時間デートが
+できればいいのに……。","要是能和你更长时间地去约会
+就好了呢……",translated,依恩,a1628f6456,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#7#12,"あ、でもいつも行く場所に、
+長い時間一緒にいたい、
+って意味じゃないよ？","啊，不过并不是指
+想在经常去的地方呆很长时间，
+这个意思哦？",translated,依恩,cabd8ed805,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_10.txt#8#12,"もっと、ほら……
+泊りがけのデート旅行、なんて……。","而是更加、那个……
+像是要在外面过夜的约会旅行之类的……",translated,依恩,5b890b4146,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#9#12,家デートならいつまででも付き合う,室内约会的话随时奉陪到底,translated,,3760274866,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_10.txt#10#12,む、無理なのはわかってるよ？,我、我知道这不可能啦？,translated,依恩,149de6bde0,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_10.txt#11#12,"でも、あなたとのデート旅行……
+きっと楽しいだろうな、って思うの。","但是，和你一起去约会旅行……
+我想肯定会非常开心的。",translated,依恩,cd51622c96,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#12#12,"それに、デートの間はあなたもずっと
+一緒にいてくれるでしょ？","而且约会期间，
+你也会一直陪在我身边的对吧？",translated,依恩,9e0200a479,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#15#12,だからね、えっと……。,所以那个，就是……,translated,依恩,c4f9956102,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_10.txt#16#12,"いつか、そういう日が来てくれたら
+いいなぁって思ったの。","我在想，如果将来某一天
+能迎来那样的日子该有多好啊。",translated,依恩,4308bebaaa,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#23#12,"ん～……それも捨てがたいけど、
+でも、やっぱり旅行に憧れるよ。","唔～……那也确实很有吸引力，
+不过果然还是更向往去旅行呢。",translated,依恩,496f9c4c15,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#24#12,もちろん、無理なのはわかってるけど……。,当然，我也明白这不太可能实现啦……,translated,依恩,e2acf049f1,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_10.txt#25#12,"でも、恋人にはなれたんだもん。
+諦めなければ、いつかはきっと叶う！","可是，我们都已经成为恋人了嘛。
+只要不放弃，迟早有一天能实现的！",translated,依恩,beda8b8889,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_10.txt#26#12,……なんて、信じるくらいはいいよね？,……像这样怀揣希望也是可以的吧？,translated,依恩,68df240c72,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_10.txt#27#14,"デート旅行、前から
+憧れてることの一つ
+なの。","约会旅行，是自很久以前
+就一直向往的
+愿望之一呢。",translated,,c0e48ee308,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_11.txt#6#12,"ご飯の後に食べるデザートって、
+一段と美味しく感じられるよね。","饭后吃的甜点，
+感觉吃起来格外美味呢。",translated,依恩,3b5a111918,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#7#12,"毎回食べるのはさすがに体に悪いけど、
+つい手を出したくなっちゃうんだよね。","虽然每顿都吃肯定对身体不好，
+但总是忍不住想吃呢。",translated,依恩,2b00f402b8,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#8#12,"ただ、何を食べるかで
+いつも悩んじゃって……。","只是，究竟该吃什么
+我每次都很发愁……",translated,依恩,c5dfd39a7e,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#9#12,あなたはどんなデザートを食べたい？,你想吃什么样的甜点呢？,translated,依恩,7d48356792,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_11.txt#10#12,生クリームたっぷりのパフェ,奶油多多的芭菲,translated,,03c13f2aff,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_11.txt#11#12,シロップをかけたかき氷,淋了糖浆的刨冰,translated,,3da38547f5,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_11.txt#15#12,うんうん、わたしもそれに賛成だよ！,嗯嗯，我也举双手赞成！,translated,依恩,80a4cc8f34,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_11.txt#16#12,"やっぱりデザートの王様と言ったら、
+パフェしか考えられないよね？","说到甜点之王，
+除了芭菲果然不做他想呢？",translated,依恩,01d5343c9c,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#17#12,"……や、やっぱり今のなし。
+ケーキやアイスとかも、捨てがたいもん。","……不、刚才那句不算。
+蛋糕和冰淇淋也很让人难以割舍嘛。",translated,依恩,604a547a24,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#22#12,"味の濃い食事の後なんかには、
+最高のデザートだね！","在口味较重的饭菜之后，
+绝对是极品的甜点呢！",translated,依恩,7334075eab,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#23#12,"さっぱりしてるから、食事の後でも
+いくらでも食べられちゃいそうだよ。","因为口感清爽，即使吃饱了饭
+感觉也能吃得下一大堆呢。",translated,依恩,2c1c3f9fc1,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#24#12,"……あっという間に太りそうで、
+ちょっと怖いね。","……感觉一眨眼就会长胖，
+稍微有点吓人呢。",translated,依恩,9f6f55aba2,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_11.txt#26#14,"デザートで悩むのは
+女の子なら当然だよ！","为甜点而发愁
+对女孩子来说是理所当然的！",translated,,a7c8f9b6cc,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#6#12,そういえば、あなたは香水ってつける？,说起来，你平时会喷香水吗？,translated,依恩,4837d66ce3,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_12.txt#7#12,"わたしもいくつか持ってて、
+今もつけてるんだよ。","我自己也有好几瓶，
+现在身上也喷着呢哦。",translated,依恩,d4632039e4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#8#12,今気に入ってるのは、柑橘系の香りかな？,现在最中意的是柑橘系的香味吧？,translated,依恩,519cf6c668,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_12.txt#9#12,甘い香りが好き,喜欢甜甜的香气,translated,,35994a7a89,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_12.txt#10#12,"朝起きて、着替えた時にシュッと
+吹きかけてるの。","早上起床换好衣服后，
+我就会“咻”地喷上一下。",translated,依恩,6d1b1c52e4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#11#12,"そうすると、柑橘系の香りで眠気が一瞬で
+吹き飛ばされちゃうんだよ。","这样一来，柑橘系的香气
+瞬间就能把困意全都吹散呢。",translated,依恩,41d8b84578,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#14#12,"いつか、あなたにもこの香水の香りを
+知ってもらえたら良いな。","如果将来哪天，也能让你闻闻
+这款香水的味道就好了呢。",translated,依恩,c2e4c26a09,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#21#12,あなたはそういうのが好きなんだ？,原来你喜欢那种类型的香气呀？,translated,依恩,27dc9b573f,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_12.txt#22#12,"大人の女性なら似合いそうだけど、
+わたしには少し早過ぎるかも……。","成熟女性喷起来应该很合适，
+对我来说可能稍微早了一点……",translated,依恩,967d8b74f3,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#23#12,"……でも、いつかそういう匂いが似合う
+人になりたいな。","……不过，真想有朝一日成为
+适合那种香气的人呢。",translated,依恩,3b46b433f4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_12.txt#24#14,"わたしだって女の子
+だもん。香水くらい
+持ってるよ。","我也是女孩子嘛。
+香水这种东西
+多少还是有的啦。",translated,,b096ecc585,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_13.txt#6#12,"もしもあなたの世界に行くことができたら、
+わたしはどんな仕事に就けると思う？","如果我能去你的世界，
+你觉得我能从事什么工作呢？",translated,依恩,bfc630979f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#7#12,"もちろん、機械関係の仕事に就けたら
+それが一番いいと思うの。","当然，要是能做机械相关的工作
+我觉得是最理想的。",translated,依恩,4e9b3d9858,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#8#12,"でも、あなたの世界の機械が、わたしの
+知ってる機械と同じとは限らないでしょ？","不过，你那个世界的机械，
+未必和我所知道的机械完全一样吧？",translated,依恩,0813b5d4ee,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#9#12,"そうなると、う～ん……。
+わたしって何ができるんだろ？","这样一来，唔～……
+我到底还能做些什么呢？",translated,依恩,e2bc5e9448,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#10#12,アイドルを目指せばいい,以偶像为目标就好啦,translated,,718765eeeb,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_13.txt#11#12,イオンならどんな機械でも扱えるよ,依恩的话不管什么机械都能驾驭的,translated,,efde20ffad,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_13.txt#15#12,……驚きを超えて、少し呆れちゃった。,……比起吃惊，我都有些哭笑不得了。,translated,依恩,6f842c0127,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_13.txt#16#12,"たしかに、詩には少し自信あるけど、
+わたしにアイドルなんて無理だよ。","虽然我对诗魔法稍微有点自信，
+但让我当偶像可太勉强啦。",translated,依恩,ef0ccd78b2,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#17#12,"……でも、あなたのそういうところ、
+嫌いじゃないよ。","……不过，你这种想法，
+我倒也不讨厌哦。",translated,依恩,5a821421ec,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#22#12,"も、もぉ……そんな風に褒めたって
+何も出ないよ？","真、真是的……就算你这么夸我，
+我也不会给你什么好处哦？",translated,依恩,67bf9cb9e4,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#23#12,"……でも、そう言ってもらえて
+すごく嬉しい。","……不过听你这么说，
+我真的很开心。",translated,依恩,7f39ba3439,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_13.txt#24#12,えへへ……もっと好きになっちゃいそう。,嘿嘿……感觉又会更喜欢你了呢。,translated,依恩,dd8b3b08fd,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_13.txt#26#14,"あなたの世界に
+行けたら、わたしは
+何をしようかな？","如果能去到你的世界，
+我该做些
+什么好呢？",translated,,1ebe341c3d,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_14.txt#6#12,ん～……。,唔～……,translated,依恩,1ec4947c24,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_14.txt#7#12,"客観的に部屋の中を見てみると、
+あまり生活感が感じられないような
+気がするのは、わたしだけかな？","客观审视一下房间内部的话，
+觉得几乎感受不到什么生活气息的，
+难道只有我一个人吗？",translated,依恩,48664525f2,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_14.txt#8#12,"部屋が綺麗だから、とかそういう理由じゃ
+なくて、なんていうか……。","并不是因为房间收拾得干净之类，
+该怎么说呢……",translated,依恩,c9b32c0923,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_14.txt#9#12,ショールームみたいな感じ、っていうの？,就是那种像样品展厅一样的感觉？,translated,依恩,9866c26390,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_14.txt#10#12,少し部屋を綺麗にし過ぎだから,因为你把房间收拾得太整洁了,translated,,88d80c2a1b,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_14.txt#11#12,"あなたが思うならまだしも、
+ここに住んでるわたしが思うのは、
+ちょっと問題あるよね？","你这么觉得倒也罢了，
+连住在这里的我都有这种感觉，
+这稍微有点成问题对吧？",translated,依恩,efd4e6a819,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_14.txt#12#12,"う～ん……でもそんな理由で部屋を
+散らかすのも、あまり納得いかない
+気がするし……。","唔～……不过为了那种理由把房间弄乱，
+总觉得又让人很难接受……
+我是这么想的……",translated,依恩,640fb6a9a3,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_14.txt#15#12,"……自分の持ってる服を、ハンガーで壁に
+かけたりすれば、生活感が出るようになる
+かな？","……如果把自己的衣服用衣架挂在墙上，
+会不会看起来
+就有生活气息了呢？",translated,依恩,5f50a6171a,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_14.txt#22#12,"そっか……。
+やっぱり、原因はそれだね。","这样啊……
+果然原因出在这里呢。",translated,依恩,75e90f27c8,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_14.txt#23#12,"でも、あなたに汚いと思われない程度に
+散らかすのも、結構難しいかも……。","不过要在不让你觉得邋遢的限度下弄乱，
+感觉也挺有难度的呢……",translated,依恩,832aa2acde,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_14.txt#24#12,"あ～あ、何かいい方法があれば
+いいんだけどなぁ……。","啊～啊，要是有什么好办法
+就好了呀……",translated,依恩,c07d4ae9a2,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_14.txt#25#14,"わたしの部屋、生活感
+ゼロな気が……。
+生活してるよ！？","总觉得我的房间生活感
+为零……
+我明明有在这里生活啊！？",translated,,7ecd6b496e,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_15.txt#6#12,"そういえば、換気扇の掃除を最後にしたのって
+結構前だったかも……。","说起来，上次清洗换气扇
+好像已经是挺久以前的事了……",translated,依恩,04f9ed8ac6,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#7#12,"やらなくちゃやらなくちゃ、と思っては
+いるけど、つい忘れちゃうの……。","我心里一直念叨着必须做必须做，
+但总是不知不觉就忘记了……",translated,依恩,58a768dccb,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#8#12,"でも、あれって結構大変だよね？
+フィルター外して水洗いとかしないと
+いけないし……。","不过那东西洗起来真的很麻烦吧？
+还得把滤网拆下来用水冲洗才行……
+真是头疼呢……",translated,依恩,404f3a4975,br=0 nl=2,3,
+inc/event/res/daysevent09/day09_15.txt#9#12,よく効くようになるよ,洗完后效果会变好哦,translated,,86400974b6,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_15.txt#10#12,掃除機でほこりを吸えば十分,用吸尘器吸掉灰尘就足够了,translated,,9e2e027d9d,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_15.txt#14#12,う～ん……そうだよね。,唔～……说得也是呢。,translated,依恩,20b7d505cb,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_15.txt#15#12,"急に暑くなったり寒くなったりしたら、
+困るのはわたしなんだし……。","要是突然变热或者变冷，
+受苦的也是我自己嘛……",translated,依恩,fbe41b5ebe,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#16#12,"近いうちに、ちゃんと掃除した方が
+良さそうだね。","看来最近抽空好好清洗一下
+会比较好呢。",translated,依恩,0046d03824,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#21#12,あっ、それくらいなら簡単にできていいかも！,啊，只是那种程度的话做起来既简单又方便！,translated,依恩,b2a3390178,br=0 nl=0,1,
+inc/event/res/daysevent09/day09_15.txt#22#12,"お部屋を掃除する時に、ホースを持ち上げる
+だけですむから、あっという間だね！","打扫房间的时候，只要把软管举起来
+吸一下就搞定了，真是一眨眼的事呢！",translated,依恩,d59401bc9a,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#23#12,"えへへ、良いこと聞いちゃった。
+教えてくれてありがと！","嘿嘿，学到了好方法呢。
+谢谢你告诉我哦！",translated,依恩,5b4dcc9c1f,br=0 nl=1,2,
+inc/event/res/daysevent09/day09_15.txt#25#14,"空調って意外と汚れる
+けど、いつも掃除し
+忘れちゃうの……。","空调意外地很容易积灰，
+可我总是
+忘记清洗呢……",translated,,597ea84d22,br=0 nl=2,3,

@@ -1,0 +1,590 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/special/sp_dlc_recipe02.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe02.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe02.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe02.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe02.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#5#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#7#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe03_tch.txt#8#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#11#12,"またねりこさんから、新しいレシピを
+貰っちゃったの。","我又从妮莉库小姐那里，
+拿到新的配方了哦。",translated,依恩,487754626b,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#13#12,"ねりこさん、っていうわたしの知り合いが、
+新しいレシピをくれたの。","我的一位叫妮莉库小姐的熟人，
+给了我新的配方哦。",translated,依恩,9a648c0113,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#15#12,"どんなレシピなのかは、わたしもよくは
+わからないの。","究竟是什么配方，
+我自己其实也不太清楚。",translated,依恩,98b32683aa,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#16#12,"ただ、このレシピをくれた時に、
+ねりこさんがね……。","只是，把这个配方给我的时候，
+妮莉库小姐她啊……",translated,依恩,abfc376d64,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#17#12,"んふふ、これはとってもプリティーな
+萌え萌えアイテムじゃぞぃ！","“唔呵呵，这可是超级可爱的
+萌萌道具哦！”",translated,依恩,ff23cbe4fd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#18#12,"……って、自信満々に言ってたのが
+少し気になるの。","……她这么满怀自信地说了，
+让我稍微有点在意。",translated,依恩,3a18b9122a,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#19#12,プリティーな萌え萌えアイテム……。,超级可爱的萌萌道具……,translated,依恩,07f1adc290,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#20#12,っていうか、萌えって何だろう？,话说回来，“萌”到底是什么意思呢？,translated,依恩,b8fb659b58,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#21#12,"まあ、プリティーって言ってたから、
+可愛い物になることに間違いはないと
+思うし、それでいいや。","既然说是超级可爱，
+那做出来的肯定会是很可爱的东东，
+这样就好啦。",translated,依恩,d6d05ccb4f,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#22#12,えへへ、作るのが楽しみだよ。,嘿嘿，真期待做出来呢。,translated,依恩,5fd935878e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe03_tch.txt#24#12,"<CLY2>レシピ【動物みみセット？】が
+追加されました。","<CLY2>已追加配方
+【动物耳套装？】。",translated,系统文本,03c805c713,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe04.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#5#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#7#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe04_tch.txt#8#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#11#12,"ねりこさんから新しいレシピを
+預かってきたの。","我从妮莉库小姐那里，
+领了新的配方回来哦。",translated,依恩,8fc78abb4d,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#13#12,"ねりこさん、っていう人から、
+レシピをもらったの。","我从一位叫妮莉库小姐的人那里，
+拿到了配方哦。",translated,依恩,d7fc3e5474,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#15#12,"あなたが買ったもの、って言ってたけど、
+初耳だったから少し驚いちゃったよ。","虽然说是你买下的东西，
+但我第一次听说，所以吓了一小跳呢。",translated,依恩,204b2d2d31,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#16#12,でもこのレシピ、何が出来上がるのかな？,不过这个配方，到底能做出什么呢？,translated,依恩,457c4a8151,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#17#12,"レシピを見た限りだと、すごく露出の
+多い服になりそうだけど……。","只看配方上面的内容，
+感觉会是件布料很少很露骨的衣服……",translated,依恩,3451f58c7e,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#18#12,動きやすい服だよ,那是方便活动的衣服哦,translated,,85674b5f10,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#19#12,それにここの注意書きも気になるの。,而且这里的注意事项也很让人在意。,translated,依恩,b7392e5def,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#20#12,"自分の体にピッチリフィットするサイズに
+合わせる必要がある、って……。","写着“必须紧贴自身体型
+调整至完全贴身的尺寸”……",translated,依恩,2878a7cf40,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#21#12,……水着みたいな服になるのかな？,……难道会是像泳装一样的衣服吗？,translated,依恩,07fa66d44a,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#23#12,う～ん……ダメ、想像できないよ。,唔～不行，完全想象不出来。,translated,依恩,2aa781f168,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#24#12,"ちょっと不安だけど、実際に作って確かめる
+以外にないみたい。","虽然有点不安，但看来除了
+亲手做出来确认以外别无他法了。",translated,依恩,09393bdb87,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#27#12,"あっ、なるほど……。
+言われてみれば確かにそうかも。","啊，原来如此……
+听你这么一说确实很有可能呢。",translated,依恩,7ad6fff0e9,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#28#12,"生地が薄くて体にフィットする、って
+書いてあるもん。","上面写着布料轻薄
+而且十分贴身嘛。",translated,依恩,2858c4a4ad,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#29#12,"作業をする時なんかには、
+便利な服になりそうだね。","干起活来的时候，
+感觉会是挺方便的衣服呢。",translated,依恩,bf0f7c3388,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#30#12,えへへ、早く作りたいな。,嘿嘿，真想快点做做看呀。,translated,依恩,a50c838463,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe04_tch.txt#33#12,"<CLY2>レシピ【チャイナ？】が
+追加されました。","<CLY2>已追加配方
+【旗袍？】。",translated,系统文本,2c737fa4ec,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe05.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe05.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe05.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe05_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#10#12,"ねりこさんが、また新しいレシピを
+プレゼントしてくれたの。","妮莉库小姐又送了
+新的配方给我哦。",translated,依恩,fb25aed373,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#12#12,"ねりこさん、っていうわたしの知り合いが、
+新しいレシピをくれたの。","我的一位叫妮莉库小姐的熟人，
+给了我新的配方哦。",translated,依恩,9a648c0113,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#14#12,"何のレシピかは教えてくれなかったけど、
+とうだいもりなら似合うと思う、って
+言ってたから、多分服じゃないかな？","虽然她没告诉我是什么配方，
+但说了“如果是守灯人肯定很合适”，
+所以大概是衣服吧？",translated,依恩,c3aaedf9cb,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#15#12,"レシピに載ってる材料を見た感じでも、
+服ができそうなものばかりだし。","而且看配方上列出的材料，
+也全都是能做成衣服的东西。",translated,依恩,78a0085c45,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#16#12,"でも、わたしに似合いそうな服って、
+どんな感じなのかな？","不过，适合我的衣服，
+究竟会是什么感觉呢？",translated,依恩,11702ad4ee,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#17#12,"わたし自身は、こういう服がわたしには
+似合う、って思ってるけど……。","我自己觉得这种衣服
+挺适合自己的……",translated,依恩,2ac54cfa08,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#18#12,"ねりこさんから見た感じだと、
+どういうのが似合うと思われてるのか、
+ちょっとだけ怖いかも……。","但在妮莉库小姐眼中，
+她到底觉得什么样才适合我呢，
+稍微让人有点害怕呢……",translated,依恩,55f0b7141d,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#19#12,"ま、まあ、すごくパンクなデザインとか、
+スケスケの服ってことはないと思うから、
+怖がる必要はないよね。","不、不过，应该不至于会是朋克风，
+或是全透明的衣服吧，
+不需要那么害怕对吧。",translated,依恩,d0f566343d,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#20#12,"それに、新しい服が一着増えるんだから、
+素直に喜んでおこっと。","况且，新衣服又多了一件，
+我还是老老实实高兴一下吧。",translated,依恩,55d0499a7a,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#21#12,"でも、気になるからできるだけ
+早く作ってみたいな。","不过因为实在很在意，
+真想尽可能早点做做看呀。",translated,依恩,e1e226a3d0,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe05_tch.txt#23#12,"<CLY2>レシピ【作業着？】が
+追加されました。","<CLY2>已追加配方
+【工作服？】。",translated,系统文本,15bb1c1b05,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe06.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe06_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#10#12,"ねりこさんから、新しいレシピを
+預かってきたの。","我从妮莉库小姐那里，
+领了新的配方回来哦。",translated,依恩,e8dde019b3,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#12#12,"ねりこさん、っていうわたしの知り合いが、
+新しいレシピをくれたの。","我的一位叫妮莉库小姐的熟人，
+给了我新的配方哦。",translated,依恩,9a648c0113,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#14#12,"何でも、今風の学生が着ている制服の
+レシピなんだって。","听说是现在流行的学生们穿的制服
+配方呢。",translated,依恩,e20fcf38ea,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#15#12,……今風、ってどういうことなのかな？,……现在流行的，是什么意思呢？,translated,依恩,3a95f5ede9,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#16#12,"学生服って言われると、セーラー服とか
+ブレザーが一般的なはずなのに。","一说到学生制服，
+一般不都是水手服或西装外套吗。",translated,依恩,cd5cf70447,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#17#12,"……もしかして、わたしの知らない間に
+それ以外にも新しいのが出てきてる、って
+ことなのかもしれないね。","……难道说，是在我不知道的时候，
+又出现了除那以外的
+崭新设计也说不定呢。",translated,依恩,c7597e5f75,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#18#12,"制服としてはもちろん、普段着として
+着ても使えるくらいにおしゃれ、って
+言ってたし。","她还说那件衣服不仅能当制服，
+甚至时髦到
+可以当作便服来穿呢。",translated,依恩,78350bfa27,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#19#12,"……ちょっと想像できないけど、
+どんなのができあがるのか楽しみだね。","……虽然有点难以想象，
+但真期待做出来的成品呢。",translated,依恩,d71e588327,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#20#12,早く作ってみたいなぁ……。,真想快点做出来看看呀……,translated,依恩,fbdc53a78d,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe06_tch.txt#22#12,"<CLY2>レシピ【ブレザー？】が
+追加されました。","<CLY2>已追加配方
+【西装外套？】。",translated,系统文本,23be39f286,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe07_01.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe07_01.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe07_01.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#10#12,"ねりこさんが、このレシピを持っていけ、
+って渡してくれたの。","妮莉库小姐让我把这个配方拿去，
+并交给了我哦。",translated,依恩,479395bdb0,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#12#12,"ねりこさん、っていうわたしの知り合いが、
+新しいレシピをくれたの。","我的一位叫妮莉库小姐的熟人，
+给了我新的配方哦。",translated,依恩,9a648c0113,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#14#12,"何でも、このレシピには世の男性の夢と
+希望と男のロマンが詰まってる、って
+話なんだけど……。","听她说，这个配方里凝聚了
+世间男性的梦想与希望，
+以及男人的浪漫……",translated,依恩,b1a4c0c95b,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#15#12,"でも、どう見てもこのレシピに書いて
+あるのって、服のレシピなの。","可是，无论怎么看这上面写的，
+都只是衣服的配方而已呀。",translated,依恩,91a14928a6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#16#12,"男の人達の夢と希望とロマンが詰まった
+服って……一体どんなものなんだろ？","凝聚了男人们的梦想、希望与浪漫的衣服，
+到底会是什么样的东西呢？",translated,依恩,a4c66fc522,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#17#12,"ちょっとドキッとはしたけど、
+エッチな感じではないみたいだし……。","虽然让我心里一惊，
+不过看起来倒不像很下流的样子……",translated,依恩,6d5644b456,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#18#12,"……何ができるかわからないけど、
+気になるから作ってみようかな？","……虽然不知道能做出什么，
+但挺在意的，不如试着做做看吧？",translated,依恩,d0a974c79c,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#19#12,"もしかしたら、すごく可愛い服が
+完成するかもしれないしね。","说不定能做出一件
+超级可爱的衣服呢。",translated,依恩,bae30b23d7,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#20#12,"……でも、作ってる途中で変な服って
+わかったら、すぐにしまっちゃおっと。","……不过要是做着做着发现是奇怪的衣服，
+我就会立刻把它收起来哦。",translated,依恩,c90672a1cd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe07_01_tch.txt#22#12,"<CLY2>レシピ【普通の水着？】が
+追加されました。","<CLY2>已追加配方
+【普通泳装？】。",translated,系统文本,a74b8381e2,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe10.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe10.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe10.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe10_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#10#12,"この前、ねりこさんから
+新しいレシピを貰ったの！","前阵子我从妮莉库小姐那里，
+拿到新的配方了哦！",translated,依恩,c8241829d2,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#12#12,"ねりこさん、っていうわたしの知り合いが、
+新しいレシピをくれたの。","我的一位叫妮莉库小姐的熟人，
+给了我新的配方哦。",translated,依恩,9a648c0113,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#14#12,"動きやすい普段着だ、って言ってたけど、
+どんなのなんだろう？","虽说是方便活动的便服，
+但到底会是什么样呢？",translated,依恩,696f38d31c,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#15#12,やっぱりその……生地が少ないのかな？,难道又是那种……布料很少的吗？,translated,依恩,cb1a687d43,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#16#12,"動きやすい、って言われると、どうしても
+そういうのをイメージしちゃうよ。","一听到方便活动，
+我总会忍不住往那种方向联想呢。",translated,依恩,a66a570670,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#17#12,"今回貰ったレシピがあまり恥ずかしくない
+のだったら良いんだけど……。","这次拿到的配方要是没有那么羞人
+那就太好了呢……",translated,依恩,3657d3d60e,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe10_tch.txt#19#12,"<CLY2>レシピ【カジュアル服？】が
+追加されました。","<CLY2>已追加配方
+【休闲服？】。",translated,系统文本,93f69ddb19,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe11.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe11.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe11.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe11_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#10#12,"ねりこさんがね、新しい服のレシピを
+プレゼントしてくれたの。","妮莉库小姐她啊，送了
+新的衣服配方给我哦。",translated,依恩,265fffbdfb,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#12#12,"わたしの知り合いにねりこさんって人が
+いるんだけど、その人から新しいレシピを
+もらったの。","我有个叫妮莉库小姐的熟人，
+我从她那里
+拿到了新的配方哦。",translated,依恩,19deea813d,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#14#12,えっと、なんて言ったかな……？,那个，她当时是怎么说的来着……？,translated,依恩,f90e070191,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#15#12,"オシャレ文系ガールを目指すなら、
+これに勝る服はありえん……たぶん！","“若想成为时尚文系美少女，
+没有比这更好的衣服了……大概！”",translated,依恩,72548476ad,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#16#12,"って、自信満々に言ってたけど……
+たぶん、って付くところがちょっとだけ
+気になるかも……。","虽然她自信满满地这么说了……
+但加上了“大概”这点，
+稍微让人有点在意呢……",translated,依恩,f40ed44276,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#17#12,"でも、レシピを見た限りだと、
+結構かわいらしい感じの服になりそうで
+楽しみかも。","不过只看配方上面的内容，
+感觉会是挺可爱的衣服，
+真令人期待呢。",translated,依恩,933cdeb47a,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#18#12,"早く作って、あなたに着たところを
+見てもらいたいなぁ、えへへ……。","真想快点做出来，
+然后穿给你看看呢，嘿嘿……",translated,依恩,5d630597ca,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#19#12,"材料が足りてるかだけ確認しておこっと。
+作るのが楽しみだよ。","我先去确认一下材料够不够。
+真期待做出来呢。",translated,依恩,8c47ebf20e,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe11_tch.txt#21#12,<CLY2>レシピ【司書服？】が追加されました。,<CLY2>已追加配方【司书服？】。,translated,系统文本,770ee8cb97,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe1201.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#10#12,"ねりこさんから、新しい服のレシピを
+渡されたの。","妮莉库小姐交给了我
+新的服装配方哦。",translated,依恩,58977e826a,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#12#12,"わたしの知り合いのねりこさんから、
+新しいレシピをもらったの。","我从我的熟人妮莉库小姐那里，
+拿到了新的配方哦。",translated,依恩,cde57fbf42,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#14#12,"なんでも、今回はわたしの知ってる人達が
+着てる服を作るレシピ、なんだって。","听说这次是制作我认识的人们
+平时穿的衣服的配方呢。",translated,依恩,7d8ec43fbd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#15#12,"ちょっと楽しみだよね。
+誰の服を作れるのかな？","让人挺期待的呢。
+到底能做出谁的衣服呢？",translated,依恩,ebea8a506c,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#16#12,もしかしたら、ター坊の服とか……。,难不成，会是阿达的衣服什么的……,translated,依恩,6506449414,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#17#12,"って、さすがにそれはないよね？
+一応わたし、女の子なんだし……。","不对，再怎么说也不可能吧？
+我好歹也是个女孩子嘛……",translated,依恩,4c8caef130,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#18#12,"ううう、いろんな可能性を考えたら
+ちょっと不安になってきたかも。","呜呜呜，一想到各种各样的可能性，
+感觉心里稍微有点不安了呢。",translated,依恩,bb8f52f810,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#19#12,早く作って、誰の服なのかたしかめたいな。,真想快点做出来，确认一下到底是谁的衣服。,translated,依恩,c382fb2070,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#22#12,<CLY2>レシピ【徒然なる者？】が追加されました。,<CLY2>已追加配方【无聊之人？】。,translated,系统文本,2852bf82ec,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/special/sp_dlc_recipe1201_tch.txt#23#12,<CLY2>レシピ【厳格なる者？】が追加されました。,<CLY2>已追加配方【严谨之人？】。,translated,系统文本,a42ab89fe9,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/special/sp_dlc_recipe1202.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1202.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1202.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#10#12,"ねりこさんから、新しい服のレシピを
+もらってきたよ。","我从妮莉库小姐那里，
+拿到了新的服装配方哦。",translated,依恩,95e23b1d74,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#12#12,"わたしの知り合いのねりこさんから、
+新しい服のレシピをもらってきたの。","我从我的熟人妮莉库小姐那里，
+拿到了新的服装配方哦。",translated,依恩,261164f7e4,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#14#12,えっと、なんて言ってたかな？,那个，她当时是怎么说的来着？,translated,依恩,5bb76e8777,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#15#12,"とうだいもりの知り合いには、
+中々おしゃれな服を着ている者達がおる。","“守灯人的熟人里，
+可是有几个穿着挺时尚的人在呢。",translated,依恩,657277c129,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#16#12,"じゃから、その者達の服を実際に着て、
+おしゃれなレディを目指すのじゃ！","所以说，你也要试着穿上那些衣服，
+努力成为时髦淑女吧！”",translated,依恩,41dc92dfda,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#17#12,"って言ってたけど……
+誰の服ができるのかな？","虽然她是这么说的……
+但到底能做出谁的衣服呢？",translated,依恩,696c8076a2,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#18#12,"レシピを見ると、二着作れるみたい。
+なんだか得した気分だよ。","看配方的内容好像能做两件呢。
+总觉得有种赚到了的心情呢。",translated,依恩,633ed5aeb8,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#19#12,"早く作ってみたいね。
+あなたも、そう思ってくれてるかな？","真想快点做做看呢。
+你是不是也这么想呢？",translated,依恩,5c3e90f6da,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#22#12,<CLY2>レシピ【お気楽衣装？】が追加されました。,<CLY2>已追加配方【轻松服装？】。,translated,系统文本,f4ecac645d,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/special/sp_dlc_recipe1202_tch.txt#23#12,<CLY2>レシピ【おしゃれ衣装？】が追加されました。,<CLY2>已追加配方【时尚服装？】。,translated,系统文本,89ed117b45,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/special/sp_dlc_recipe_2nd.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_2nd.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_2nd.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#5#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#7#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#8#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#11#12,"ねりこさんから新しいレシピを
+預かってきたの。","我从妮莉库小姐那里，
+领了新的配方回来哦。",translated,依恩,8fc78abb4d,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#13#12,"ねりこさん、っていう人から、
+レシピをもらったの。","我从一位叫妮莉库小姐的人那里，
+拿到了配方哦。",translated,依恩,d7fc3e5474,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#15#12,"しかも、今回は出血大サービスで
+三つセットのレシピなんだって！","而且，听说这次是大出血大优惠，
+是足足三套一组的配方哦！",translated,依恩,328f763d30,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#16#12,"こんなにたくさん服をもらっちゃうと、
+嬉しい反面、ちょっと悪い気がしちゃうね。","一下子收到这么多衣服，
+开心归开心，但感觉有点不好意思呢。",translated,依恩,df8af559db,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#17#12,"でも、せっかく貰ったレシピだし、
+ちゃんと全部作って着こなしてみたいな。","不过既然难得拿到了配方，
+真想全部做出来并且穿穿看呢。",translated,依恩,4d92eb0250,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#18#12,"それに、服が増えれば、あなたにいろんな
+わたしを見てもらえるし……ね。","况且衣服要是变多了，
+就能让你看到更多不一样的我了嘛……",translated,依恩,da9ebdaf69,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#19#12,"と、とにかく、貰った服を作ってみて
+欲しいときはいつも通り言ってね。","总、总之，如果想让我做拿到的衣服，
+就和平常一样告诉我哦。",translated,依恩,43036e1d50,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#20#12,わたし、頑張って作るよ♪,我会加油做出来的♪,translated,依恩,562e3d0bec,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#24#12,"<CLY2>レシピ【新しい服？】が
+追加されました。","<CLY2>已追加配方
+【新衣服？】。",translated,系统文本,78f1b4fb8e,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#25#12,"<CLY2>レシピ【こんぽた？】が
+追加されました。","<CLY2>已追加配方
+【玉米浓汤？】。",translated,系统文本,ff18e3ef86,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe_2nd_tch.txt#26#12,"<CLY2>レシピ【なりきりセット？】が
+追加されました。","<CLY2>已追加配方
+【变装套装？】。",translated,系统文本,0ad15a2558,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe_docomo.txt#6#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_docomo.txt#13#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_docomo.txt#14#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_docomo.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_docomo.txt#19#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off.txt#5#12,はぁーい！,来啦――！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off.txt#11#12,"コーンコン♪
+いる？","咚――咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off.txt#12#12,いたらトントンして？,在的话就敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off.txt#16#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off.txt#17#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#4#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#7#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#10#12,"ねりこさんから、新しいレシピを
+渡されたの。","妮莉库小姐交给了我
+新的配方哦。",translated,依恩,c35df80afb,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#12#12,"知り合いのねりこさん、って人から、
+新しいレシピをもらったの。","我从我的熟人妮莉库小姐那里，
+拿到了新的配方哦。",translated,依恩,f11c54adba,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#14#12,"確か、とうだいもりもいつの日か
+神聖な儀式を執り行う日が来るやもしれぬ。","“想必守灯人日后终有一天，
+也会主持神圣的仪式吧。",translated,依恩,406b7b01aa,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#15#12,"そうでなくとも、きっと似合うはずじゃ。
+ぜひ作ってみるのじゃ……。","就算不是那样，也肯定很适合你。
+务必做出来看看哦……”",translated,依恩,9d8be311cd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#16#12,"って、渡す時に言われたけど……
+ねりこさん、言ってること
+メチャクチャで……。","交给我的时候她虽然是这么说的……
+但妮莉库小姐说的话
+也太没条理了……",translated,依恩,b57021f616,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#17#12,"神聖な儀式をする時に着るような服を、
+そうじゃない時にも着ろだなんて……
+いいのかなぁ？","在神圣仪式上穿的衣服，
+却让我平时没事也穿穿看……
+真的没问题吗？",translated,依恩,0107885fe9,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#18#12,"……でも、似合ってる、と思われるような
+服だったら、一度は着てみたいかも。","……不过如果是能让人觉得适合我的衣服，
+我也挺想穿穿看一次的呢。",translated,依恩,223cdae96b,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#19#12,"あなたにも着てるところを見せて、
+似合ってるよ、って言われたいし、
+えへへ……。","我也想穿给你看看，
+然后听你说一句很适合我嘛，
+嘿嘿……",translated,依恩,9ff89942f3,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#20#12,なんだか、作るのが楽しみになってきたよ。,总觉得变得越来越期待做出来了呢。,translated,依恩,624e0e556c,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#21#12,材料が揃ったら、すぐにでも作ろうね。,等材料凑齐了，我们就马上做出来吧。,translated,依恩,b338de7869,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_off_tch.txt#23#12,"<CLY2>レシピ【神聖な衣？】が
+追加されました。","<CLY2>已追加配方
+【神圣之衣？】。",translated,系统文本,732467ea8b,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe_tch02.txt#5#12,そうそう、実はね――,对了对了，其实啊――,translated,依恩,d5dd47b4ba,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#7#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe_tch02.txt#8#12,"たいした用事ではないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,bef76b72bd,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#11#12,"あなたがいないときに、ねりこさんが
+新しいレシピを持ってきてくれたよ。","你不在的时候，妮莉库小姐
+送了新的配方过来哦。",translated,依恩,4f75bbd2a7,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#13#12,"ねりこさんって人がいるんだけど、
+その人がレシピを持ってきてくれたの。","我有个叫妮莉库小姐的熟人，
+她送了配方过来哦。",translated,依恩,31cad2269a,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#15#12,"覚えがないものだったから、
+最初びっくりしちゃったけど、
+あれってあなたが買ったものだったんだね。","因为我完全没有印象，
+起初还吓了一大跳，
+原来那个是你买下来的东西啊。",translated,依恩,9101530539,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#16#12,"ねりこさんも全然説明してくれないから、
+何かの押し売りかと思っちゃったよ……。","妮莉库小姐也完全不跟我解释，
+我还以为遇到什么强买强卖的了呢……",translated,依恩,1105991309,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#17#12,"今回のレシピは、御奉仕がどうとかって
+言ってたけど……。","这次的配方，
+她好像说什么侍奉之类的……",translated,依恩,275c20c368,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#18#12,ご主人様と召使いの関係,主人与仆从的关系,translated,,51db6b083a,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#19#12,"御奉仕ってなんだろう？
+お店の店員さんとお客さんみたいな感じかな？","侍奉是什么意思呢？
+感觉像是店里的店员和顾客那样吗？",translated,依恩,707597b9aa,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#20#12,"でも、話してたねりこさんを思い出すと
+なんか違うような……。","可是回想一下妮莉库小姐说话时的样子，
+总觉得又不太一样……",translated,依恩,2ab134ea7b,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#21#12,う～ん……。,唔～……,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#24#12,ま、まぁいっか。,算、算了，先不管啦。,translated,依恩,9d4783fe3e,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#25#12,作ってほしくなったら言ってね。,如果想让我做就告诉我哦。,translated,依恩,d16495690c,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#28#12,"め、召使い！？
+それじゃあ、この場合あなたがご主人様に
+なるのかな？","仆、仆从！？
+那么如果是这样的话，
+你岂不就是主人了吗？",translated,依恩,91e6fe94b9,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#29#12,なんか、恥ずかしい……。,总觉得，好害羞……,translated,依恩,f455275963,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#30#12,"と、とにかく、作ってほしいときは
+わたしに言ってね。","总、总之，想让我做的时候
+就跟我说哦。",translated,依恩,4068563b0d,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#32#12,"どんな服か分からないけど、
+頑張って作るから。","虽然不知道会是什么样的衣服，
+但我会加油做出来的。",translated,依恩,42e36afca1,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch02.txt#34#12,"<CLY2>レシピ【メイド服？】が
+追加されました。","<CLY2>已追加配方
+【女仆装？】。",translated,系统文本,fcc61655d9,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#4#12,"あ、そうだ。
+言っておくことがあったの。","啊，对了。
+有件事差点忘了跟你说了。",translated,依恩,5a4e5d00ad,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#6#12,<CLBU>ごめんね。急に呼び出したりして。,<CLBU>对不起哦，突然把你叫出来。,translated,依恩,129484d414,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#7#12,"たいした用事じゃないんだけど、
+実はね――","虽然不是什么大事，
+不过其实啊――",translated,依恩,c056cd682f,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#10#12,"ねりこさんから、新しいレシピを
+預かってたの。","我从妮莉库小姐那里，
+领了新的配方回来哦。",translated,依恩,64bc7a07cb,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#12#12,"ねりこさん、っていう人が、
+新しいレシピをくれたの。","一位叫妮莉库小姐的人，
+给了我新的配方哦。",translated,依恩,fa763a1825,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#14#12,"何のレシピかは教えてくれなかったけど、
+これをくれた時に……。","虽然她没告诉我具体是什么配方，
+不过把这个给我的时候……",translated,依恩,09977fc2ec,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#15#12,"とうだいもりも立派なレディじゃ。
+これくらいのおめかしをしなくては
+いかんぞぃ！","“守灯人也是一位出色的淑女了。
+不稍微打扮打扮自己
+怎么行呢！”",translated,依恩,9a65986c51,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#16#12,"って言ってたから、たぶん新しい服の
+レシピだと思うよ。","她都这么说了，我想大概是
+新衣服的配方吧。",translated,依恩,d3bdf3a4c4,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#17#12,"……ちょっと細かい作業が多そうで
+見てて不安だけど……。","……看起来细碎工序好像挺多的，
+看着稍微有点不安呢……",translated,依恩,33b6b37c1e,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#18#12,"でも、おめかし、って言ってたから
+すごく可愛い服になるってことだよね？","不过既然说了是打扮，
+也就是说会是一件非常可爱的衣服吧？",translated,依恩,7dabf35496,br=0 nl=1,2,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#19#12,そう思うと、ちょっとだけ楽しみかも。,这么一想，感觉稍微有点期待了呢。,translated,依恩,2c570bf96d,br=0 nl=0,1,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#20#12,"……でも、ねりこさんのことだから、
+ただ可愛いだけでは済まない何かが
+ありそうな気も……。","……不过以妮莉库小姐的性格，
+总觉得不会只是单纯可爱那么简单，
+里面搞不好有什么蹊跷……",translated,依恩,1ad7ab6747,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#21#12,"とにかく、作ってみればハッキリするよね。
+どんなのが出来るのかな？
+楽しみだね。","总之，只要做出来就一清二楚了对吧。
+到底能做出什么样的呢？
+真让人期待呢。",translated,依恩,bf41ba6bbf,br=0 nl=2,3,
+inc/event/res/special/sp_dlc_recipe_tch_docomo.txt#23#12,"<CLY2>レシピ【ウェイトレス？】が
+追加されました。","<CLY2>已追加配方
+【服务生装？】。",translated,系统文本,babbc2ff32,<CLY2> br=0 nl=1,2,keep-tags <CLY2>

@@ -1,0 +1,790 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent_p/datemap_select.txt#4#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#5#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#6#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#7#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#8#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#10#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#11#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#12#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#13#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#14#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#16#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#17#12,水族館に行きたい,想去水族馆,translated,,e8d6b86769,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#18#12,教会に行きたい,想去教会,translated,,7b9dd17c9e,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#19#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#22#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#23#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#24#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#25#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#26#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#28#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#29#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#30#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#31#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#32#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#34#12,水族館に行きたい,想去水族馆,translated,,e8d6b86769,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#35#12,教会に行きたい,想去教会,translated,,7b9dd17c9e,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#36#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#39#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#40#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#41#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#42#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#43#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#45#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#46#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#47#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#48#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#49#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#51#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#52#12,水族館に行きたい,想去水族馆,translated,,e8d6b86769,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#53#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#56#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#57#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#58#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#59#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#60#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#62#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#63#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#64#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#65#12,水族館に行きたい,想去水族馆,translated,,e8d6b86769,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#66#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#69#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#70#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#71#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#72#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#73#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#75#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#76#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#77#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#78#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#79#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#82#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#83#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#84#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#85#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#86#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#88#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#89#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#90#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#91#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#94#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#95#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#96#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#97#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#98#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#100#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#101#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#102#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#103#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#106#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#107#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#108#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#109#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#110#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#112#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#113#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#114#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#117#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#118#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#119#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#120#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#121#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#123#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#124#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#125#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#128#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#129#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#130#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#131#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#132#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#134#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#135#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#138#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#139#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#140#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#141#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#142#12,次へ,下一页,translated,,e572295bb2,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#144#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#145#12,戻る,返回,translated,,60a1005be6,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#147#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#148#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#149#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#150#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#152#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#153#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#154#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#155#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#157#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#158#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#159#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#161#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#162#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#163#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#165#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#166#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#168#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#169#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/datemap_select.txt#171#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么这样……就算看我
+也一点都不好玩呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus.txt#10#12,もっとよく見せて欲しい,想看你展示得更清楚一点,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#12#12,"…も、もっとって…
+えっと、どんな感じかな？","……更、更清楚一点是指……
+呃，要怎么做呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus.txt#13#12,こうしてみた方がいい？,像这样做好一点吗？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#16#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#17#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#22#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#24#12,まだ！！,还没看够！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#25#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#27#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+都说了好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus.txt#33#12,それじゃ、元に戻すね。,那么，我转回原样了哦。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus.txt#38#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus.txt#40#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么长时间，
+感觉也有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus02.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus02.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么这样……就算看我
+也一点都不好玩呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus02.txt#14#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus02.txt#16#12,まだ！！,还没看够！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus02.txt#17#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/date_bonus02.txt#19#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+都说了好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus02.txt#25#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevent_p/date_bonus02.txt#27#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么长时间，
+感觉也有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all.txt#5#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all.txt#6#12,いたらトントンして？,在的话就咚咚敲两下？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all.txt#10#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all.txt#11#12,…わたしが何か勘違いしてるだけかな…。,……只是我自己想多了而已吗……,translated,依恩,ad6c290f72,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#2#12,"<CLBU>ごめんね、急に呼び出したりして。
+今時間大丈夫かな？","<CLBU>对不起哦，突然把你叫出来。
+现在时间上方便吗？",translated,依恩,7ebc54cca3,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#3#12,"ちょっと急だけど、もし良かったら、
+これからおでかけしない？","虽然有点突然，如果你方便的话，
+等下要不要一起出门呀？",translated,依恩,99d93d186b,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#4#12,"といっても、わたしたちが一緒にいけるのは
+仮想世界くらいだけど……。","话虽这么说，我们能一起去的
+也就只有虚拟世界就是了……",translated,依恩,86e4ca0d1f,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#6#12,イオンと仮想世界に行く,和依恩去虚拟世界,translated,,ee1fa747e2,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#7#12,手が離せないので断る,抽不开身所以拒绝,translated,,c10cfa2590,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#9#12,早速行こう,赶快走吧,translated,,e2bc0f36dc,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#10#12,今は無理,现在去不了,translated,,89380bfddb,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#12#12,気分転換しにいこう,去散散心转换一下心情吧,translated,,6f359dd4ad,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#13#12,今ちょっと忙しい,现在有点忙,translated,,944af3e1f3,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#17#12,"そ、そうだよね……。
+ごめんなさい。","也、也是呢……
+对不起哦。",translated,依恩,a3a84fa783,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#19#12,"そっか。
+それじゃあ、また都合の良さそうなときに
+誘ってみるね。","这样啊。
+那么等之后你有空的时候，
+我再邀请你吧。",translated,依恩,9a152edaee,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#21#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#29#12,"よかったぁ。
+急に誘ったから断られるんじゃないかって
+ドキドキしちゃった。","太好啦。
+因为是突然邀请，我还一直心跳不已，
+担心会不会被拒绝呢。",translated,依恩,07a6a4efba,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#31#12,"急なお誘いなのに、
+付き合ってくれてありがと♪","明明这么突然，
+还愿意陪我，谢谢你♪",translated,依恩,06fa52c873,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#33#12,それじゃあ、どこに行こっか？,那么，我们去哪里好呢？,translated,依恩,9257f1ab58,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#37#12,海に行くの？,要去海边吗？,translated,依恩,1f44fca8db,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#39#12,学校に行くの？,要去学校吗？,translated,依恩,ed8ab921d3,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#41#12,ショッピングセンターに行くの？,要去购物中心吗？,translated,依恩,e33008316b,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#43#12,パーツ屋に行くの？,要去零件屋吗？,translated,依恩,3a297773ef,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#45#12,カフェに行くの？,要去咖啡馆吗？,translated,依恩,481fc99d2c,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#47#12,温泉に行くの？,要去温泉吗？,translated,依恩,98fc42bed8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#49#12,縁日に行くの？,要去庙会吗？,translated,依恩,dceeb360d6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#51#12,プラネタリウムに行くの？,要去天文馆吗？,translated,依恩,b9f73d39c5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#53#12,水族館に行くの？,要去水族馆吗？,translated,依恩,9f958f379e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#55#12,教会に行くの？,要去教会吗？,translated,依恩,a1793c9831,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#57#12,デートスポットを決定,决定约会地点,translated,,2650171ca2,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#58#12,選び直す,重新选择,translated,,26e29f6250,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#61#12,それじゃあ、早速行こっか。,那么，我们赶快出发吧。,translated,依恩,020e1a0578,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_all_tch.txt#63#12,"場所も決まったことだし、
+いつも通りお願いします。","地点也已经决定好了，
+就和平时一样拜托你啦。",translated,依恩,bcd840dd83,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_aqua.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_aqua.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_aqua.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_aqua.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_aqua.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_aqua.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_aqua.txt#40#12,"う～ん……来てみたのはいいけど、
+今日は特にお魚を見たい気分じゃ
+ないかも……。","唔～……虽然过来了，
+但今天可能没什么
+特别想看鱼的心情呢……",translated,依恩,629e5607c5,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#41#12,"こういう時の水族館って、間が持たなく
+なっちゃいそうな気がするの。","总觉得这种时候来水族馆，
+可能会冷场呢。",translated,依恩,e1893f1fe0,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#42#12,日を改めてまた、ってことにしない？,要不要改天再来呀？,translated,依恩,8bfc28aada,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#44#12,あ、あれれ？,啊，奇怪？,translated,依恩,072d17e693,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#45#12,"水槽の中をお掃除してる人がいるよ。
+もしかして、今日はそういう日なのかな？","有人正在清理水槽内部呢。
+难道说，今天正好碰上了吗？",translated,依恩,80977585d0,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#46#12,"う～ん……このままここにいると
+邪魔しちゃいそうだし……
+また別の日に来よっか？","唔～……继续待在这里的话
+好像会妨碍到别人……
+我们改天再来吧？",translated,依恩,045d7c6748,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#48#12,"こう言ったら何だけど……水槽のお魚って
+いつも代わり映えしないよね？","虽然这么说有点那个……但水槽里的鱼
+感觉总是千篇一律呢？",translated,依恩,1658a0e5b1,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#49#12,"今日はちょっと眠いから、退屈であくびとか
+出ちゃいそうかも……。","今天我有点困，无聊的话
+可能都要打哈欠了呢……",translated,依恩,109e1ed0a2,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#50#12,デートは、また次の機会にしない？,约会改在下次可以吗？,translated,依恩,d726407f8f,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_aqua.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_cafe.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_cafe.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_cafe.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_cafe.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_cafe.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_cafe.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_cafe.txt#40#12,わわっ！？,哇哇！？,translated,依恩,df2b624710,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#41#12,"む、向かいの席に、すごく密着してる
+カップルがいるよ……。
+もぉ、こういう場所ではよくないよね？","对、对面桌有一对贴得好紧的
+情侣在呢……
+真是的，在公众场合这样不太好吧？",translated,依恩,31af3f2da4,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#42#12,"これじゃ落ち着いてお話できないし、
+出直さない？","这样根本没办法静下心来聊天，
+我们要不要换个时间再来？",translated,依恩,19ad5bc937,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#44#12,きょ、今日は一段と混んでるみたい……。,今、今天好像格外拥挤呢……,translated,依恩,e141fba610,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#45#12,"お店の外、すごい行列が出来てるよ。
+今日って何かイベントでもやってるのかな？","店门外排了好长的队伍哦。
+今天难道是有什么活动吗？",translated,依恩,621588e7e5,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#46#12,"あんまり長居するのも悪いし、
+今日はもう帰ろっか？","待太久也不太好，
+我们今天就先回去吧？",translated,依恩,3597792b18,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#48#12,わわっ！？,哇哇！？,translated,依恩,df2b624710,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#49#12,"お、奥の席でお客さん同士が揉めてるよ！
+ああっ、ケンカになっちゃってる！","里面的座位有客人在起争执哦！
+啊啊，甚至都吵架闹起来了！",translated,依恩,9bba0f160a,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#50#12,"こ、怖くてデートなんかできないよ。
+今日はもう帰ろ？","好、好害怕，根本没法好好约会了。
+今天还是先回去吧？",translated,依恩,ce7cebac4c,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_cafe.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_church.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_church.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_church.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_church.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_church.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_church.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_church.txt#40#12,"う～ん……せっかく来たけど、
+今日は特にすることも無いかも……。","唔～……虽然难得来一趟，
+但今天好像也没什么特别要做的事呢……",translated,依恩,47f446d7f5,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_church.txt#41#12,デートは、また別の日にしようよ。,约会还是改在别的日子吧。,translated,依恩,e4567ca2fd,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#43#12,あっ……お祈りをしに来てる人がいるね。,啊……有人来这里做祈祷呢。,translated,依恩,fb2f99a421,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#44#12,"邪魔になっちゃうといけないから、
+デートはまた日を改めようよ。","打扰到别人就不好了，
+约会我们还是改天吧。",translated,依恩,0d1343145c,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_church.txt#46#12,"つ、ついノリで来ちゃったけど……
+教会って理由もなく来ちゃって良いのかな？","虽、虽然一时顺着兴头就过来了……
+但教会这种地方没有理由真的可以随便来吗？",translated,依恩,145bb52e51,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_church.txt#47#12,"それに、せっかく教会でデートするなら、
+もっとちゃんとしたときの方が、
+わたしも嬉しいし……。","而且，难得来教会约会，
+如果能选在更正式的时刻，
+我也能更开心一些……",translated,依恩,1998dc65af,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_church.txt#48#12,……出直そっか？,……我们换个时间再来吧？,translated,依恩,1874fe6822,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#52#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#53#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#55#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#56#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#58#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#59#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#61#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_church.txt#62#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#9#12,はぁーい！,好～的！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#10#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#13#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#15#12,海に行きたい,想去海边,translated,,cbd404a1a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#16#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#18#12,学校に行きたい,想去学校,translated,,f07bc06f24,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#19#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#21#12,ショッピングセンターに行きたい,想去购物中心,translated,,28e16a8ddf,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#22#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#24#12,パーツ屋に行きたい,想去零件屋,translated,,86b7369100,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#25#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#27#12,カフェに行きたい,想去咖啡馆,translated,,57b65ab200,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#28#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#30#12,温泉に行きたい,想去温泉,translated,,f1b04832b9,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#31#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#33#12,縁日に行きたい,想去庙会,translated,,cfd03ff4a9,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#34#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#36#12,プラネタリウムに行きたい,想去天文馆,translated,,eda762f870,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#37#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#39#12,水族館に行きたい,想去水族馆,translated,,e8d6b86769,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#40#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#42#12,教会に行きたい,想去教会,translated,,7b9dd17c9e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#43#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#51#12,デートに行きたいの？,想去约会吗？,translated,依恩,9224bf00f7,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#52#12,"わたしは大丈夫だよ。
+気分転換にちょっとだけおでかけしよっか。","我没问题哦。
+要不要出门稍稍转换一下心情？",translated,依恩,6129d8831d,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#54#12,"うん、いいよ。
+わたしも同じこと考えてたの。","嗯，好呀。
+我也在想着同样的事呢。",translated,依恩,2f927e32ca,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#57#12,それじゃあ、早速行こっか。,那么，我们赶快出发吧。,translated,依恩,020e1a0578,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#59#12,えへへ、それじゃあ行こっか。,诶嘿嘿，那我们这就出发吧。,translated,依恩,7ff6fbfd63,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#89#12,"そう？
+それじゃあ、何かあったら呼んでね。","这样吗？
+那如果有什么事随时叫我哦。",translated,依恩,2185e8808b,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#91#12,"用がなくても呼んでくれるのは嬉しいけど、
+お話とかできたらもっと嬉しいな。","虽然就算没事你能叫我也很开心，
+但要是能聊聊天的话我会更开心的。",translated,依恩,f9f638019c,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#93#12,"なんでもないの？
+何かあったら遠慮なく呼んでね。","没什么事吗？
+要是真有什么事不用客气，随时叫我哦。",translated,依恩,9d91aa4923,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#98#12,"用がないなら声をかけないで
+とは言わないけど、ちょっとがっかり……。","我倒不是想说“没事就别叫我”，
+只是稍微有点失落……",translated,依恩,787b5c05aa,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#100#12,"はぁ、せっかくお話できると思ったのに……。
+ぬか喜びだよ……。","哈啊，我还以为难得能聊聊天呢……
+空欢喜一场啦……",translated,依恩,a21538e93d,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_datemap_put.txt#102#12,"そう？
+なんでもないなら別に良いけど……。","这样吗？
+没什么事的话倒是无所谓啦……",translated,依恩,e5396e7fd5,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_end.txt#7#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_end.txt#9#12,ふ～、ただいまー。,呼～我回来啦～,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_end.txt#11#12,とうちゃーく。,到家啦～,translated,依恩,0f66b14285,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_end.txt#14#12,"ちょっとだけだけど、良い気分転換に
+なったよ。また一緒に行こうね。","虽然时间很短，但心情舒畅多了呢。
+下次还要一起去哦。",translated,依恩,ff389603e0,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_end.txt#16#12,"今日は楽しかったよ。
+また一緒に行こうね。","今天玩得很开心哦。
+下次再一起去吧。",translated,依恩,f5f99ca764,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_end.txt#18#12,"こういう短いデートもたまにはいいね。
+今度はどこに行こっか？","偶尔像这样短时间的约会也不错呢。
+下次我们要去哪里呢？",translated,依恩,3d5857c4a4,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_end.txt#19#12,今から楽しみ♪,从现在开始就很期待了♪,translated,依恩,7bd3235b9d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_festa.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_festa.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_festa.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_festa.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_festa.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_festa.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_festa.txt#40#12,"あれ？
+まだ準備中のお店が結構あるよ。","咦？
+还有好多店铺都在准备中呢。",translated,依恩,bffa5b8ed2,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_festa.txt#41#12,"早い時間の縁日に来ちゃったみたい。
+う～ん、これじゃあまりワクワクした
+気持ちになれなそうだね。","看来我们来庙会来得太早了呢。
+唔～这样的话好像
+很难让人满怀期待地逛起来呢。",translated,依恩,99be73eccd,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_festa.txt#42#12,また別の日に来ようよ。,我们改天再来吧。,translated,依恩,f08beb3b4d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#44#12,"わわっ、なんか向こうでケンカしてる
+人達がいるよ！？","哇哇，那边好像
+有人在吵架呢！？",translated,依恩,9ed912ac33,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_festa.txt#45#12,"あんなに怒鳴りあって……。
+みんなで仲良く出来たら良いのに……。","互相吼得那么凶……
+大家能好好相处该有多好呀……",translated,依恩,941cd9d3dc,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_festa.txt#46#12,ねぇ、もう帰ろう？,呐，我们回去吧？,translated,依恩,43c8ce83f5,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#48#12,さてと、今日はどこを見て……あれ？,那么，今天去看看哪里……咦？,translated,依恩,b37e3c8de6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#49#12,"雨……？
+ぽつぽつとだけど、雨が降ってきてるよ。","下雨……？
+虽然只是淅淅沥沥的，但确实下雨了哦。",translated,依恩,2a0e5cd338,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_festa.txt#50#12,"これじゃ落ち着いてみてられないね。
+強くなる前に帰ろっか？","这样就没办法安心游览了呢。
+趁雨下大之前我们回去吧？",translated,依恩,94ff5bdd26,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_festa.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_festa.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_parts.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_parts.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_parts.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_parts.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_parts.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_parts.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_parts.txt#40#12,"っ！？
+きょ、今日は帰ろう！","唔！？
+今、今天还是回去吧！",translated,依恩,c5deee5dd9,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#41#12,"い、今ね、お店の前に、信じられないくらい
+レアなパーツを見つけちゃったの。","刚、刚才在店门前，我看到了
+稀罕到不可思议的稀有零件哦。",translated,依恩,526ea3e977,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#42#12,"持って帰れないのにあんなにすごい物を
+見続けるなんて、我慢できないよ。
+ね、今日はもう帰ろう？","明明带不回去，却一直看着那么厉害的东西，
+我实在是忍不住啦。
+呐，今天就先回去吧？",translated,依恩,4e261d805c,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_parts.txt#44#12,あっ……今日はやめた方が良い日みたい。,啊……今天好像还是别来的好。,translated,依恩,0f21f0e312,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#45#12,"今日は来た時に感じるワクワクが、
+ちょっと少ない気がするの。","感觉今天过来时的满怀期待，
+好像比平时少了一点呢。",translated,依恩,cf7fb12245,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#46#12,"こういう日はあまり良い出会いがない、
+ってジンクスがあるんだ。
+だから、また日を改めようよ。","这种日子一般不会有什么好的邂逅，
+这算是一种不祥的迷信呢。
+所以，我们还是改天再来吧。",translated,依恩,6dc13908b7,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_parts.txt#48#12,"う～ん……来たばかりで申し訳ないけど、
+日を改めない？","唔～……虽然才刚来很不好意思，
+但我们改天再来好吗？",translated,依恩,96a68b15e6,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#49#12,"何だか今日は、見てるだけじゃ
+我慢できなくなる気がするの……。","总觉得今天光是看着，
+我就会忍不住想要呢……",translated,依恩,bdac70dc02,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#50#12,"また泣くことになるのは嫌だし、
+日を改めない？","我可不想又落得哭鼻子的下场，
+我们改天再来好不好？",translated,依恩,04793b597d,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_parts.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_parts.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_planet.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_planet.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_planet.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_planet.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_planet.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_planet.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_planet.txt#40#12,"う～ん！
+ここの星空は何度見ても綺麗だね。","嗯～！
+这里的星空无论看多少次都很美呢。",translated,依恩,1eeac73944,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#41#12,"ただ来てみたのはいいけど、
+あんまりすることないかも……。","虽然过来是挺好的，
+但好像也没有太多能做的事呢……",translated,依恩,afd5f6417f,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#42#12,もう少しだけ星を見たら、今日は帰ろっか？,再看一会儿星星，今天就回去吧？,translated,依恩,94be080b97,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#44#12,うわ、なんか人が一杯いるよ！,哇，好多人啊！,translated,依恩,ea60a580a0,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#45#12,"みんな星を見に来てるのかな？
+こんなに綺麗なんだもん、
+気持ちはすごく分かるなぁ。","大家都是来看星星的吧？
+毕竟这么美丽，
+我非常能理解大家的心情呢。",translated,依恩,1c1d64c406,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_planet.txt#46#12,"ちょっと歩き辛いけど、
+わたしたちも早速見て回ろうよ。","虽然走起路来有点挤，
+我们也赶快到处看看吧。",translated,依恩,0dc23111f2,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#48#12,ふぅ、とーちゃーく！,呼，到～达！,translated,依恩,6b6d46b084,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#49#12,"あれ？
+なんか人が少ないような……。","咦？
+感觉人好像很少……",translated,依恩,8ea1ad6d8e,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#50#12,"あっ！
+メンテナンスで閉館するみたい！","啊！
+好像因为维护要闭馆了！",translated,依恩,119d91b80b,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#51#12,"でも、せっかく来たんだし、
+ちょっとだけだけど見ていこっか。","不过难得来一趟，
+哪怕只有一点点时间也看看再走吧。",translated,依恩,2d1d31fbc4,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_planet.txt#55#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#56#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#58#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#59#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#61#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#62#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#64#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_planet.txt#65#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_school.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_school.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_school.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_school.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_school.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_school.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_school.txt#40#12,"……あれ？
+今日は誰もいないみたいだね。","……咦？
+今天好像一个人都没有呢。",translated,依恩,01f127f869,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_school.txt#41#12,"もしかして、お休みの日の学校に
+来ちゃったのかな？","难道说，我们来到了
+放假休息日的学校吗？",translated,依恩,aef2631088,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_school.txt#42#12,"二人きりなのは良いけど、ちょっと寂しい
+気もするし、出直そうか？","虽然只有两个人挺好，但总觉得有点冷清，
+我们要不要换个时间再来？",translated,依恩,711682cecd,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_school.txt#44#12,うわわっ、今日はちょっと騒がしいね。,哇哇，今天感觉有点吵闹呢。,translated,依恩,e07c7ad403,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#45#12,"こういう雰囲気も楽しいとは思うけど……
+デートにはちょっと向かないよね？","虽然这种气氛也挺开心的……
+但好像不太适合约会呢？",translated,依恩,e3ac94c8c8,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_school.txt#46#12,出直したほうが良いかな？,是不是换个时间来比较好呢？,translated,依恩,8433d759de,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#48#12,あっ……今日はテストの日みたい。,啊……今天好像是测试日。,translated,依恩,ef8cdf48b3,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#49#12,"ほら、教室でみんな頑張ってる……。
+ああっ、頭抱えてる人もいるよ、
+頑張って！","你看，教室里大家都在努力呢……
+啊啊，还有人抱着头苦恼呢，
+加油啊！",translated,依恩,08903235a3,br=0 nl=2,3,
+inc/event/res/dateevent_p/purpose_date_school.txt#50#12,"って、騒いでたら余計邪魔になっちゃうね。
+デートはまた次の機会にしよっか？","不过，我们在这吵闹反而会妨碍到他们呢。
+约会还是下次再来吧？",translated,依恩,9e502b7953,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_school.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_school.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_sea.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_sea.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_sea.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_sea.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_sea.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_sea.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_sea.txt#40#12,"ふぅ……せっかく来てはみたけど、
+今日は特にすることが無いよね？","呼……虽然特意过来了，
+但今天好像没什么特别可做的呢？",translated,依恩,f902468278,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#41#12,"う～ん……意味も無く歩くには
+暑過ぎると思うし……。","唔～……漫无目的地走走，
+感觉天气也太热了……",translated,依恩,590a7e00a0,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#42#12,どうしよっか？,怎么办呢？,translated,依恩,953ccba3cc,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#44#12,"あっ、今日はビーチバレー大会を
+してるみたいだよ！","啊，今天好像有
+沙滩排球比赛呢！",translated,依恩,ab246b3f52,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#45#12,"すごい人が集まってる……。
+でも、これじゃデートは無理っぽいね。","聚集了好多人哦……
+不过，这样好像就没办法好好约会了呢。",translated,依恩,79f8324332,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#46#12,また日を改めて来ようか？,我们改天再来吧？,translated,依恩,fbebb83a2f,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#48#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#49#12,"暑くて、ちょっと眩暈がしちゃった……。
+う～ん、あんまり体調良くないのかな？","太热了，感觉有点头晕……
+唔～是我身体状况不太好吗？",translated,依恩,a3a1004f6e,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#50#12,"どうしよう……。
+また別の日に出直した方がいいかな？","怎么办好呢……
+是不是改天重新来过比较好呢？",translated,依恩,af9293d982,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_sea.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_sea.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_shop.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_shop.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_shop.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_shop.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_shop.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_shop.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_shop.txt#40#12,"う～ん、来てみたのはいいけど、
+特に見たいお店とかないかも……。","唔～虽然过来了，
+但好像也没有什么特别想逛的店呢……",translated,依恩,5b63f749a6,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_shop.txt#41#12,"こんな気持ちで見ても面白くないし、
+出直そうか？","带着这种心情逛也不会觉得有意思，
+我们要不要换个时间再来？",translated,依恩,ce5e0ee541,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_shop.txt#43#12,わわっ、今日はちょっと人が多過ぎだよ！,哇哇，今天人也太多了吧！,translated,依恩,75f2d4db68,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#44#12,"これだと、見て回ってる間に迷子とかに
+なっちゃいそう……。","照这样的话，到处逛的时候
+感觉都要走丢了……",translated,依恩,fcaf5c84c8,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_shop.txt#45#12,仕方ないから日を改めよっか？,没办法，改天再来吧？,translated,依恩,f3d0eb9988,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#47#12,あ、あれれ？,啊，奇怪？,translated,依恩,072d17e693,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#48#12,"今日はお休みのお店が多いみたい……。
+こんな日もあるんだね？","今天休息的店铺好像很多呢……
+居然还有这样的日子呀？",translated,依恩,9bd444a145,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_shop.txt#49#12,また別の日に来ようよ。,我们换个日子再来吧。,translated,依恩,f08beb3b4d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#53#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#54#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#56#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#57#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#59#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#60#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#62#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_shop.txt#63#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#2#12,…むにゃ……。,……唔嗯……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_spa.txt#6#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_spa.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_spa.txt#10#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_spa.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_spa.txt#14#12,"<CLY2>デートに誘うためにはイオンが室内にいる
+必要があります。","<CLY2>想要邀请约会的话，
+依恩必须身处室内。",translated,系统文本,c99779e162,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevent_p/purpose_date_spa.txt#18#12,先にご飯食べちゃうから、待っててね。,我先吃完饭，等等我哦。,translated,依恩,3be8545b07,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#20#12,すぐに食べちゃうから、少し待っててね。,我马上就吃完，稍微等我一下哦。,translated,依恩,ab411323b6,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#22#12,ご飯冷めちゃうから、先に食べちゃうね。,饭菜要凉了，我先吃了哦。,translated,依恩,5613f416f1,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#27#12,"<CLY2>いまはデートに誘うことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法邀请约会。
+请等待依恩切换行动。",translated,系统文本,6aa9b3879c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevent_p/purpose_date_spa.txt#40#12,あ、熱っ！？,啊，好烫！？,translated,依恩,63008819f0,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#41#12,"きょ、今日のお湯、すごく熱いの！
+温度調節を間違えちゃってるのかな？","今、今天的水温特别烫哦！
+是温度调节弄错了吗？",translated,依恩,3e42b0861f,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#42#12,"とにかく、これ以上入ってられないし、
+今日は帰ろっか？","总之没法再继续泡下去了，
+今天就先回去吧？",translated,依恩,f69714e94d,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#44#12,"う～……今日のお湯、
+すごく気持ち良いよぉ。","唔～……今天的温泉水，
+泡起来好舒服呀。",translated,依恩,f2093b4231,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#45#12,"気持ちよ過ぎて、眠くなってきちゃいそう。
+ふぁ～……。","舒服过头了，感觉都要犯困了呢。
+哈啊～……",translated,依恩,51485599c7,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#46#12,"これじゃデートにならなそうだし、
+今日は帰った方が良いみたい。","这样感觉没办法好好约会了，
+今天好像还是回去比较好呢。",translated,依恩,63aefefabb,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#48#12,……今日のお湯、微妙に熱過ぎかも。,……今天的水温，感觉稍微有点太烫了呢。,translated,依恩,b6d52bf80d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#49#12,"騒ぐほどじゃないけど、
+肌がピリピリッて痛い感じがするの……。","虽然还不至于大惊小怪，
+但皮肤有种隐隐作痛的发刺感呢……",translated,依恩,783f804e28,br=0 nl=1,2,
+inc/event/res/dateevent_p/purpose_date_spa.txt#50#12,落ち着かないし、今日はもう帰ろっか？,静不下心来，今天我们还是回去吧？,translated,依恩,61e64e3cb7,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#54#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#55#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#57#12,もうちょっとだけイオンを見ていいかな？,能让我再稍微多看一会儿依恩吗？,translated,,206e3ec485,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#58#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#60#12,ここでイオンを見ていたい,想在这里看着依恩,translated,,1cd1e000ee,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#61#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#63#12,イオンを見つめる,注视着依恩,translated,,c478e2ea91,br=0 nl=0,1,
+inc/event/res/dateevent_p/purpose_date_spa.txt#64#12,そうだね、帰ろう,是啊，回去吧,translated,,0e4366daf8,br=0 nl=0,1,

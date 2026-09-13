@@ -1,0 +1,58 @@
+name: 术语讨论
+description: 某个人名、地名或专有名词该怎么译
+title: "[术语] "
+labels: ["术语"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        改动已有译名会牵连几十上百行，所以**请先在这里讨论，不要直接提 PR**。
+
+        补充一个全新的词可以直接提 PR。
+
+        现有术语表：[`data/glossary/glossary.csv`](/data/glossary/glossary.csv)
+
+  - type: input
+    id: source
+    attributes:
+      label: 日文原词
+      placeholder: 例：シェルノトロン
+    validations:
+      required: true
+
+  - type: input
+    id: current
+    attributes:
+      label: 现在的译名
+      description: 术语表里已有的话请填上；没有就写"暂无"。
+    validations:
+      required: true
+
+  - type: input
+    id: proposed
+    attributes:
+      label: 你提议的译名
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: 理由
+      description: |
+        什么理由都可以，但下面这些特别有说服力：
+
+        - 官方（包括光荣特库摩台湾）用过的写法
+        - 作品内设定上的依据
+        - 系列其他作品里的既有译法
+        - 现在这个译名会造成误解或歧义
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: official
+    attributes:
+      label: 确认
+      options:
+        - label: 我知道标着"官方"来源的译名原则上不改（统一比完美重要）
+          required: true

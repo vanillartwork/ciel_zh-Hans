@@ -1,0 +1,437 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/useeventall/useeventall_acc01.txt#5#12,頻繁に着けて欲しい,希望你经常戴,translated,,0104528202,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#6#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#7#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#9#12,頻繁に着けて欲しい,希望你经常戴,translated,,0104528202,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#10#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#11#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#13#12,頻繁に着けて欲しい,希望你经常戴,translated,,0104528202,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc01.txt#14#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#5#12,すぐに着けて欲しい,希望你马上戴上,translated,,97df608250,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#6#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#7#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#9#12,すぐに着けて欲しい,希望你马上戴上,translated,,97df608250,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#10#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#11#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#13#12,すぐに着けて欲しい,希望你马上戴上,translated,,97df608250,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc02.txt#14#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#5#12,また着けてみて欲しい,希望你能再戴戴看,translated,,d1477101cc,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#6#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#7#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#9#12,また着けてみて欲しい,希望你能再戴戴看,translated,,d1477101cc,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#10#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#11#12,はずしてほしい,希望你取下来,translated,,76611c5bd8,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#13#12,また着けてみて欲しい,希望你能再戴戴看,translated,,d1477101cc,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc03.txt#14#12,あまり着けないで欲しい,希望你不要经常戴,translated,,eb03c8c595,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc_word01.txt#2#12,あなたもこれがお気に入りなの？,你也中意这个吗？,translated,依恩,0ac8143127,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_acc_word01.txt#3#12,"だったら、これからも着けるようにして
+みようかな。","既然这样，那以后我也试着
+经常戴戴看吧。",translated,依恩,b25bafebf1,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word01.txt#5#12,"うん、もちろんいいよ。
+あなたと好みが一緒で良かった。","嗯，当然可以啦。
+很高兴能和你的喜好一致。",translated,依恩,636b9ef884,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word01.txt#7#12,"そういうことなら、これから多めに
+着けてみることにするね。","既然是这样，那从今往后
+我就多戴戴看吧。",translated,依恩,5659a3a692,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word02.txt#1#12,"どうしたの？
+もしかして、それを着けて欲しいのかな？","怎么了吗？
+难道是希望我戴上那个吗？",translated,依恩,0471397a94,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word03.txt#3#12,"うん、いいよ。
+すぐに着けちゃうから、
+ちょっとだけ待っててね。","嗯，好啊。
+我这就戴上，
+稍微等我一下下哦。",translated,依恩,8eaf013bf0,br=0 nl=2,3,
+inc/event/res/useeventall/useeventall_acc_word03.txt#5#12,"それじゃあ、早速着けてみようかな。
+少しだけ待ってて。","那么，我这就戴戴看吧。
+稍微等我一下哦。",translated,依恩,3df98294c4,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word03.txt#7#12,"そういうことなら、少しだけ布をかけるね。
+すぐ終わるからちょっとだけ待ってて。","既然这样，那我先拉一下布帘哦。
+很快就好，稍微等我一下下。",translated,依恩,3e2ac2102e,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_acc_word04.txt#1#12,"今度はどうしたの？
+もしかして、また着けてみて欲しいのかな？","这次又怎么啦？
+难道是希望我再戴戴看吗？",translated,依恩,808ba3e506,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_cansel.txt#2#12,"ごめん。
+今の髪の長さじゃ、難しいと思う。","抱歉哦。
+按现在的头发长度，恐怕有点难呢。",translated,依恩,1395970289,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_cansel.txt#3#12,もう少し伸びるまで待ってて。,等头发再长长一点再说吧。,translated,依恩,6b24c0dfac,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_cansel.txt#5#12,"う～ん、今の長さじゃ、
+それを着けるのはちょっと無理かな……。","唔～，以现在的头发长度，
+要戴那个稍微有点勉强呢……",translated,依恩,9f81f155e0,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_cansel.txt#7#12,"着けてあげたいけど、
+今の長さだと無理だよ……。","虽然很想戴给你看，
+但现在的长度戴不上啦……",translated,依恩,4b00c86a04,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_cansel.txt#8#12,もっと伸びるまで待ってて。,等头发长得更长一些再说吧。,translated,依恩,9945c2b123,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_change_word.txt#3#12,"なんか寝る前じゃないのに
+パジャマに着替えるのって不思議な感じ。","总觉得明明不是要睡觉的时间
+却换上睡衣，感觉怪不可思议的。",translated,依恩,abfca9367b,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#5#12,"ゆったりしてて着心地もいいけど、
+ずっとこのままってわけにもいかないよね。","虽然宽松又舒适，
+但总不能一直穿着这个不换吧。",translated,依恩,a9e75fd5f0,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#9#12,"えっとその……あんまり見ないでくれると
+嬉しいかも……。","那个……你要是能不那么盯着看的话
+我会很高兴的……",translated,依恩,ce1a92d6da,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#11#12,"うぅ、お風呂のときとはやっぱり違うね。
+室内でバスタオルっていうのは恥ずかしいよ。","呜呜，跟洗澡的时候果然不一样呢。
+在房间里裹着浴巾太让人害羞了啦。",translated,依恩,9755ddc058,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#15#12,"おまたせ～。
+はずしてみたよ。","让你久等啦～。
+我已经取下来了哦。",translated,依恩,a098f257f9,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#17#12,"これでいいのかな？
+着けていたのを取ると、
+ちょっと落ち着かないね。","这样可以了吗？
+把戴着的东西取下来后，
+总觉得心里有点空落落的呢。",translated,依恩,289b9a8597,br=0 nl=2,3,
+inc/event/res/useeventall/useeventall_change_word.txt#21#12,"えへへ、どうかな？
+似合ってるといいな。","诶嘿嘿，怎么样？
+要是合你心意就好啦。",translated,依恩,8e79ed35b2,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_change_word.txt#23#12,"こんな感じだけど、どう？
+変じゃないといいんだけど……。","大概是这种感觉，怎么样？
+没有显得很怪就好……",translated,依恩,5fa8f9e75c,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#2#12,似合ってる,很适合你,translated,,75facec166,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#3#12,う～ん、微妙,嗯～，挺微妙的,translated,,1c6a1fb3f6,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#5#12,"そ、そう？
+えへへ、うれしいな。","是、是吗？
+诶嘿嘿，好开心。",translated,依恩,4fc3dd0f4b,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#9#12,そっか……。ちょっと残念。,这样啊……有点遗憾呢。,translated,依恩,01c94b5436,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#12#12,視線を独り占めできる,能独占视线,translated,,d1463f7ea3,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#13#12,う～ん、ちょっと微妙,嗯～，感觉挺微妙的,translated,,43c5e508db,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#15#12,"えへへ、そ、そうかな？
+恥ずかしいけど、そう言われると嬉しい。","诶嘿嘿，是、是吗？
+虽然害羞，但听你这么说还是很高兴。",translated,依恩,bf64e83153,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#16#12,"でも、じろじろ見られるのは、
+ちょっと苦手かも……。","不过，要是被目不转睛地盯着看，
+我可能会有点受不了呢……",translated,依恩,2b57536b35,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#20#12,そっかぁ……。,这样啊……,translated,依恩,0b7418ea74,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#21#12,"ほかのと雰囲気違うし、わたしにはやっぱり
+いつものみたいなのがいいのかな……。","因为气质和平时不一样的缘故吧，
+我果然还是适合平时的打扮吗……",translated,依恩,283714cf0b,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#24#12,その……ごめん……,那个……对不起……,translated,,19dc8c6be2,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#25#12,ご飯三杯いける,我能连吃三碗饭,translated,,0829e4fa47,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#27#12,"も、もう！
+謝るくらいなら頼まないでよぉ！","真、真是的！
+要道歉的话一开始就别提这种要求啦！",translated,依恩,387d6ce810,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#31#12,もう、変なことばっかり言って……。,真是的，净说些奇怪的话……,translated,依恩,146dfe969c,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#34#12,イオンにはやっぱりこれ,依恩果然还是适合这个,translated,,da326ed0ab,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#35#12,……ミスした,……选错了,translated,,180652ac7d,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#37#12,ありがと。,谢谢你。,translated,依恩,c09cbecf1a,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#38#12,"わたしもこれはお気に入りだし、
+そういってもらえるとうれしいな。","我也很喜欢这个，
+你能这么说我真开心。",translated,依恩,cd663d2954,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#42#12,"ふぇぇぇ！？
+今ミスっていったよね！？","诶诶诶！？
+你刚才说了选错对吧！？",translated,依恩,124046e4d4,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#43#12,うぅ、いじわる～。,呜呜，你好坏哦～。,translated,依恩,bf626f4ce9,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#46#12,よく似合う,非常适合,translated,,1cdabea960,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#47#12,女性らしさが出てる,很有女人味,translated,,5ac0a12126,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#49#12,えへへ、ありがと。,诶嘿嘿，谢谢你。,translated,依恩,bd1aa78c76,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#50#12,"何気ない言葉だけど、
+そういってもらえるとやっぱり嬉しいね。","虽然只是随口一说，
+但能听你这么夸我还是很开心的呢。",translated,依恩,1cf9916f29,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#54#12,よかったぁ。,太好了。,translated,依恩,3eecc6aac5,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_choice.txt#55#12,"デザインのこととかよく分からないし、
+自分だけだと正直不安だったの。","我不太懂设计之类的事，
+只有自己一个人时老实说还挺不安的。",translated,依恩,5a7aef1b53,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_choice.txt#56#12,"そう言ってもらえて、
+なんか安心しちゃった。","你能这么说，
+让我总算安心下来了。",translated,依恩,7d1f4934d5,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_reject_word.txt#3#12,もう、変なことばっかり言って……。,真是的，净说些奇怪的话……,translated,依恩,146dfe969c,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_reject_word.txt#5#12,"ダメとは言わないけど……
+その、あからさま過ぎるのもどうかと……。","倒也不是说不行……
+只是那个，太露骨了感觉也有些……",translated,依恩,1e769f9ec9,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_reject_word.txt#9#12,"そっか……。
+あなたはあんまり好きじゃないんだね。","这样啊……
+看来你不太喜欢呢。",translated,依恩,58d0b4555b,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_reject_word.txt#10#12,それじゃあ、そうしてみようかな。,那么，我就试着那样做吧。,translated,依恩,ba32dd801f,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_reject_word.txt#12#12,"うん、わかった。
+それじゃあ、次から気をつけるね。","嗯，我知道了。
+那从下次起我会注意的。",translated,依恩,27c50b0957,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_reject_word.txt#14#12,あなたがそういうなら、そうしようかな。,既然你都这么说了，那就这么办吧。,translated,依恩,42e1151ece,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_reject_word.txt#15#12,"見てくれる人がカワイイ、って
+思ってくれた方がわたしも嬉しいもん。","看着我的人能觉得可爱的话，
+我自己也会很开心的嘛。",translated,依恩,a2d7b989ea,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_takeoff_word.txt#2#12,"これをはずしてほしいの？
+じゃあ、ちょっと待っててね。","想让我把这个摘下来吗？
+那请稍微等我一下哦。",translated,依恩,7befc81a86,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_takeoff_word.txt#4#12,"これをはずしてほしいのかな？
+ちょっと残念だけど、あなたのお願いだし
+はずしてみようかな……。","想让我把这个摘下来吗？
+虽然有点遗憾，但既然是你的请求，
+那我就试着摘下来吧……",translated,依恩,50614a5af5,br=0 nl=2,3,
+inc/event/res/useeventall/useeventall_takeoff_word.txt#5#12,ちょっと待っててね。,稍微等我一下哦。,translated,依恩,4c1314b466,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_takeoff_word.txt#7#12,"えっと、似合って……なかったかな？
+すぐにはずしちゃうね。","那个，是不……适合我吗？
+我马上就摘下来哦。",translated,依恩,46a9416b28,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#2#12,…むにゃ……。,……唔姆……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#6#12,"<CLY2>着替えてもらうためにはイオンが室内にいる
+必要があります。","<CLY2>需要依恩身在室内，
+才能够为她更换服装。",translated,系统文本,1d4395dfe6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#10#12,"<CLY2>着替えてもらうためにはイオンが室内にいる
+必要があります。","<CLY2>需要依恩身在室内，
+才能够为她更换服装。",translated,系统文本,1d4395dfe6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#13#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_acc01.txt#17#12,"<CLY2>いま着替えるもらうことはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法为她更换服装。
+请等待依恩切换行动。",translated,系统文本,8f079d84c8,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#2#12,…むにゃ……。,……唔姆……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#6#12,"<CLY2>着替えてもらうためにはイオンが室内にいる
+必要があります。","<CLY2>需要依恩身在室内，
+才能够为她更换服装。",translated,系统文本,1d4395dfe6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#10#12,"<CLY2>着替えてもらうためにはイオンが室内にいる
+必要があります。","<CLY2>需要依恩身在室内，
+才能够为她更换服装。",translated,系统文本,1d4395dfe6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#14#12,"<CLY2>着替えてもらうためにはイオンが室内にいる
+必要があります。","<CLY2>需要依恩身在室内，
+才能够为她更换服装。",translated,系统文本,1d4395dfe6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_trigger_wear01.txt#21#12,"<CLY2>いま着替えるもらうことはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>现在无法为她更换服装。
+请等待依恩切换行动。",translated,系统文本,8f079d84c8,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/useeventall/useeventall_wear01.txt#3#12,頻繁に着て欲しい,希望你经常穿,translated,,bb7119eb24,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear01.txt#4#12,あまり着ないで欲しい,希望你尽量别穿,translated,,832a7bbd95,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear02.txt#4#12,すぐに着て欲しい,希望你马上穿上,translated,,bbdcba95f0,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear02.txt#5#12,あまり着ないで欲しい,希望你尽量别穿,translated,,832a7bbd95,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear03.txt#4#12,また着てみて欲しい,希望你能再穿穿看,translated,,bd2a616c5c,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear03.txt#5#12,あまり着ないで欲しい,希望你尽量别穿,translated,,832a7bbd95,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word01.txt#3#12,寝るときはちゃんとパジャマに着替えるよ。,睡觉时我自然会乖乖换上睡衣的啦。,translated,依恩,c424f75c51,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word01.txt#4#12,"でも、起きてるときはちゃんと服に
+着替えないとダメだよね。","不过，醒着的时候要好好换上日常衣服
+才行对吧。",translated,依恩,c49e201bdf,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#6#12,"もしかして、パジャマ姿の女の子が
+好きなのかな？","难不成，你喜欢
+穿着睡衣的女孩子吗？",translated,依恩,14acacb442,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#7#12,"でも、その……ずっとパジャマなのは
+やっぱり良くないと思うよ？","但是，那个……一直穿着睡衣
+总归还是不太好吧？",translated,依恩,74e3b213fa,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#11#12,"も、もしかして、お風呂以外のときも
+着て欲しいってこと？","难、难道说，你是想让我在洗澡以外的时候
+也穿成这样吗？",translated,依恩,0b405fe23d,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#12#12,さすがにそれはちょっと……。,那未免还是有点……,translated,依恩,3212d06159,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word01.txt#14#12,お風呂のときはちゃんと身に着けるよ。,洗澡的时候我自然会好好裹上的啦。,translated,依恩,39bc9bb5e4,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word01.txt#15#12,"じゃないとその……
+み、見えちゃうし……ね。","不然的话那个……
+就、就会被看光了嘛……",translated,依恩,1e34449fa5,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#19#12,"あなたってこれが好きなんだね。
+それじゃあ今度からは他の服よりも
+多めに着てみようかな。","原来你喜欢这套啊。
+那从今以后相比其他衣服，
+我就试着多穿穿它吧。",translated,依恩,e23f3350bb,br=0 nl=2,3,
+inc/event/res/useeventall/useeventall_wear_word01.txt#21#12,"なるほど。
+あなたが好きなのはこういう服なんだね。","原来如此。
+你喜欢的原来是这种衣服啊。",translated,依恩,243b428004,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word01.txt#22#12,えへへ、ちゃんと覚えておかなきゃ。,嘿嘿，我得好好记下来才行。,translated,依恩,6b6305cb2e,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word01.txt#24#12,"あなたがそういうなら、
+もっとたくさん着てみようかな。","既然你都这么说了，
+那我就试着多穿几次吧。",translated,依恩,6c74ad3bb3,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word02.txt#2#12,"えっと……それってバスタオルだよね？
+もしかして着て欲しいのかな？","那个……那是指浴巾吧？
+难道你想让我裹着那个吗？",translated,依恩,d25e7c288c,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word02.txt#4#12,その服がどうかしたの？,这件衣服怎么了吗？,translated,依恩,950f722584,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word03.txt#4#12,そ、それじゃあ、ちょっとだけだよ？,那、那我只穿一小会儿哦？,translated,依恩,7b0b970693,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word03.txt#6#12,"も、もう仕方ないなぁ。
+それじゃあ、ちょっと待っててね。","真、真是拿你没办法呢。
+那么，稍微等我一下哦。",translated,依恩,57793dc40f,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word03.txt#10#12,"うん、いいよ。
+着替えるから、ちょっと待っててね。","嗯，好啊。
+我现在去换，稍微等我一下哦。",translated,依恩,aaae1ef315,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word03.txt#12#12,"えへへ、なんとなくそんな気がしてたの。
+着替える間、ちょっとだけ待っててね。","嘿嘿，我总觉得你会这么想呢。
+换衣服的时候，请稍微等我一下哦。",translated,依恩,e74094ea05,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word03.txt#14#12,"それじゃあ、早速着替えようかな。
+ちょっとだけ布をかけさせてね。","那么，我马上就换上吧。
+先让我把帘布遮一下哦。",translated,依恩,c4b59a94b6,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_wear_word04.txt#2#12,もしかして……ま、また着て欲しいの？,难道说……你、你还想让我穿吗？,translated,依恩,092f4ce798,br=0 nl=0,1,
+inc/event/res/useeventall/useeventall_wear_word04.txt#4#12,"ん？
+次はその服を着て欲しいの？","嗯？
+下次想让我穿这件衣服吗？",translated,依恩,96567ac934,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_word.txt#2#12,"ん？
+これがどうかしたの？","嗯？
+这个怎么了吗？",translated,依恩,1f1edf5df7,br=0 nl=1,2,
+inc/event/res/useeventall/useeventall_word.txt#4#12,"えへへ、これいい感じでしょ？
+最近、ちょっとお気に入りなんだ。","嘿嘿，这个感觉不错吧？
+我最近挺中意这个的呢。",translated,依恩,f55b37bad4,br=0 nl=1,2,
+inc/event/res/useeventall/useevent_denial_acc.txt#2#12,え？　また付けてほしいの？,诶？还想让我戴上吗？,translated,依恩,c95c694be6,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_acc.txt#3#12,今じゃなくてもいいかな？,可以不是现在戴吗？,translated,依恩,dd5a72f9cb,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_acc.txt#5#12,それを付けてほしいの？,想让我戴上那个吗？,translated,依恩,1a46e1f724,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_acc.txt#6#12,じゃあ、今度付けてみようかな。,那，下次我试着戴上看看吧。,translated,依恩,cc0b878250,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_acc.txt#8#12,"そういうの好きなんだ。
+それなら今度付けてみようかな。","原来你喜欢这种啊。
+既然这样那我下次试着戴上看看吧。",translated,依恩,61a9bad0e2,br=0 nl=1,2,
+inc/event/res/useeventall/useevent_denial_wear.txt#2#12,え？　また着るの？,诶？还要穿吗？,translated,依恩,436c186a7b,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_wear.txt#3#12,今じゃなくてもいいかな？,可以不是现在戴吗？,translated,依恩,dd5a72f9cb,br=0 nl=0,1,
+inc/event/res/useeventall/useevent_denial_wear.txt#5#12,"また機会があったら着るから、
+楽しみにしててね。","有机会的话我还会穿的，
+敬请期待哦。",translated,依恩,588933f497,br=0 nl=1,2,
+inc/event/res/useeventall/useevent_denial_wear.txt#7#12,その服が好きなんだ。考えておくね。,你喜欢那件衣服啊。我会考虑考虑的。,translated,依恩,061b569daf,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#8#12,"イヤシーン？
+そういえば、作ったのはいいけど、
+まだちゃんと飲んでないね。","令人讨厌的场面？
+说起来，虽然做出来了，
+但好像还没正经喝过呢。",translated,依恩,9885384955,br=0 nl=2,3,
+inc/event/res/useeventall/us_drug001.txt#9#12,"せっかく作ったんだし、
+この機会に一本飲んでみようかな。","既然难得做出来了，
+不如趁这个机会喝上一瓶吧。",translated,依恩,c2bbb4aba9,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#12#12,う～ん、これは効くね！,嗯～这个真有效呢！,translated,依恩,b718a3cb76,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#13#12,"我ながら、
+いいものを作ったなぁって思うよ。","连我自己都觉得，
+做出了一个很棒的好东西呢。",translated,依恩,1d88f2ae89,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#20#12,またイヤシーンを飲むの？,还要再喝令人讨厌的场面吗？,translated,依恩,9dca217f36,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#21#12,"たしかに疲れてたら効率も落ちるし、
+疲労は小まめに抜いた方がいいよね。","确实，如果累了效率也会下降，
+疲劳还是尽早消除比较好呢。",translated,依恩,8daf6d9fb3,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#25#12,イヤシーンだね。,是令人讨厌的场面呢。,translated,依恩,5fbf42312a,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#26#12,えへへ、疲れてないか心配してくれてるの？,嘿嘿，是在担心我有没有累到吗？,translated,依恩,d4b8e247ce,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#27#12,"それじゃあ、
+せっかくだから飲んでおこうかな。","那么，
+难得这样我就喝一瓶吧。",translated,依恩,dd0211c8cc,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#30#12,イヤシーンだね。,是令人讨厌的场面呢。,translated,依恩,5fbf42312a,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#31#12,すぐに飲んじゃうから、ちょっと待ってね♪,我马上就喝完，稍微等一下哦♪,translated,依恩,89ffa0751b,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#34#12,イヤシーンを飲むの？,要喝令人讨厌的场面吗？,translated,依恩,ec4a01745c,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#35#12,それじゃあ、ちょっと待ってね。,那么，稍微等一下哦。,translated,依恩,a9aad9d0c1,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#40#12,ん？　また飲むの？,嗯？还要再喝吗？,translated,依恩,5e84b1d11a,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#41#12,"たしかに疲れが抜けきってないし、
+もう一本飲むのもいいかも。","确实疲劳还没彻底消退，
+再喝一瓶也许也不错。",translated,依恩,443a10c396,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#42#12,それじゃあ、すぐに飲んじゃうね。,那么，我马上就喝掉哦。,translated,依恩,5f86c68fb0,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#46#12,え？　また？,诶？还要喝？,translated,依恩,25bf564ef6,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#47#12,"今はもう、そんなに疲れていないし、
+飲みすぎても身体に悪そうだから
+やめておくね。","我现在已经没那么累了，
+而且喝太多好像也对身体不好，
+这次就算了吧。",translated,依恩,81eec94ee2,br=0 nl=2,3,
+inc/event/res/useeventall/us_drug001.txt#52#12,今日もう三本目だよ？,今天已经是第三瓶了哦？,translated,依恩,54a2245ced,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#53#12,"飲んだ方がいいっていうなら飲むけど、
+かえって身体に悪いような……。","你要是觉得该喝我倒是会喝，
+但感觉反而会对身体不好……",translated,依恩,b2b2156f61,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#57#12,"二本も飲んだせいかな？
+今はもう全然疲れてないよ。","是因为已经喝了两瓶吗？
+我现在已经完全不觉得累了哦。",translated,依恩,3127e5734f,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#58#12,だから飲まなくてもいいじゃないかな？,所以现在不用喝也可以了吧？,translated,依恩,59814ddf8d,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#63#12,もう、またなの？,真是的，怎么又要喝？,translated,依恩,eb10c5a1de,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#64#12,これ以上はちょっと……。,再喝下去可就有点……,translated,依恩,3607c62df4,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#73#12,う～ん、やっぱりこれは効くね！,嗯～这个果然很管用呢！,translated,依恩,569dd8c696,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#74#12,"我ながら、
+いいものを作ったなぁって思うよ。","连我自己都觉得，
+做出了一个很棒的好东西呢。",translated,依恩,1d88f2ae89,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#76#12,ふぅ、元気でたかな。,呼，总算恢复精神了吧。,translated,依恩,5d1ee5bcf4,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#77#12,"もう疲労が限界！ってまでなると、
+そこまでの効果は期待できないけど、
+ある程度の回復ならこれで十分かな。","要是已经疲劳到极限了，
+或许不能指望有那么好的效果，
+不过普通程度的恢复用这个就足够了呢。",translated,依恩,2d2294993d,br=0 nl=2,3,
+inc/event/res/useeventall/us_drug001.txt#79#12,"ハァ……。
+この疲労がスッて抜けていく感じが……。","哈啊……
+这种疲劳瞬间消退的感觉……",translated,依恩,784221d03e,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug001.txt#81#12,って、そんなこと言ってられない。,不对，可不能在这感慨了。,translated,依恩,d23bcfa262,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug001.txt#82#12,わたし作業にもどるね。,我回去继续干活了哦。,translated,依恩,390a7813dc,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#8#12,チューンシロップを飲めばいいの？,喝调谐糖浆就可以了吗？,translated,依恩,4ed9112bef,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#9#12,"たしかにこれを飲めば、
+眠気もすっきりするもんね。","喝了这个的话，
+确实连困意都能一扫而空呢。",translated,依恩,235983a6f5,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#12#12,"ふわぁ……。
+やっぱりすごいスースーする。","呼啊……
+果然感觉非常清凉呢。",translated,依恩,a65fc70001,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#13#12,"これで眠気もすっきりだね。
+さぁ頑張ろう！","这样困意就彻底消除了呢。
+好，要加油了！",translated,依恩,f038685fe8,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#20#12,またチューンシロップを飲むの？,还要再喝调谐糖浆吗？,translated,依恩,6943e0f264,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#21#12,"眠気は作業の大敵だし、
+ほんと作っといて良かったよね。","困倦可是工作的大敌，
+当初做了它真是做对了呢。",translated,依恩,e50bb99d9b,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#25#12,チューンシロップだね。,是调谐糖浆呢。,translated,依恩,7c86acd96d,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#26#12,"えへへ、そうだね。
+あなたといられる時間に寝ちゃったら
+もったいないもんね。","嘿嘿，说得也是。
+要是把能和你在一起的时间睡过去，
+那可就太浪费了嘛。",translated,依恩,9bf3f5affb,br=0 nl=2,3,
+inc/event/res/useeventall/us_drug004.txt#29#12,チューンシロップだね。,是调谐糖浆呢。,translated,依恩,7c86acd96d,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#30#12,すぐに飲んじゃうから、ちょっと待ってね♪,我马上就喝完，稍微等一下哦♪,translated,依恩,89ffa0751b,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#33#12,チューンシロップを飲むの？,要喝调谐糖浆吗？,translated,依恩,23b91dca12,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#34#12,それじゃあ、ちょっと待ってね。,那么，稍微等一下哦。,translated,依恩,a9aad9d0c1,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#39#12,ん？　また飲むの？,嗯？还要再喝吗？,translated,依恩,5e84b1d11a,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#40#12,"眠気覚ましとしては強くないと思うけど、
+飲みすぎたら夜に寝れないかも……。","虽然作为提神药药效不算强烈，
+但喝太多的话晚上可能会睡不着……",translated,依恩,5b8885b56c,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#41#12,えへへ、気をつけなきゃ……。,嘿嘿，我得注意点才行……,translated,依恩,3d23195a71,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#45#12,え？　また？,诶？还要喝？,translated,依恩,25bf564ef6,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#46#12,"う～ん、今はそんなに眠くないし
+飲まなくてもいいじゃないかな？","唔～我现在也不是很困，
+不喝应该也没关系吧？",translated,依恩,e717309488,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#51#12,今日もう三本目だよ？,今天已经是第三瓶了哦？,translated,依恩,54a2245ced,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#52#12,夜寝れなくなっちゃったら嫌だな……。,晚上要是睡不着可就讨厌了呢……,translated,依恩,2711d0d3b3,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#56#12,"二本も飲んだせいかな？
+全然眠くないよ。","是因为已经喝了两瓶吗？
+我完全不觉得困哦。",translated,依恩,4761266436,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#57#12,だから飲まなくてもいいじゃないかな？,所以现在不用喝也可以了吧？,translated,依恩,59814ddf8d,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#62#12,もう、またなの？,真是的，怎么又要喝？,translated,依恩,eb10c5a1de,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#63#12,これ以上はちょっと……。,再喝下去可就有点……,translated,依恩,3607c62df4,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#72#12,"ふわぁ……。
+やっぱりすごいスースーする。","呼啊……
+果然感觉非常清凉呢。",translated,依恩,a65fc70001,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#73#12,これだけ即効性の眠気止めは早々ないよね。,见效这么快的止困药可真不多见呢。,translated,依恩,179e66a1b0,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#75#12,ふぅ、ちょっとスッキリした。,呼，感觉清爽了一些。,translated,依恩,03387f7f51,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#76#12,"眠くなりすぎてるとあんまり効かないけど、
+それでもあるのとないのとじゃ全然違うね。","虽然太困的时候效果不太明显，
+但有它和没它完全是两回事呢。",translated,依恩,6c07a6336c,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#78#12,"このスースーする感じ、
+ちょっとクセになっちゃうかも……。","这种清凉透爽的感觉，
+搞不好会让人有点上瘾呢……",translated,依恩,dc9d9d70a9,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug004.txt#79#12,って、そんなこと言ってられない。,不对，可不能在这感慨了。,translated,依恩,d23bcfa262,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug004.txt#80#12,わたし作業にもどるね。,我回去继续干活了哦。,translated,依恩,390a7813dc,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#8#12,ハラハラドリンクを飲むの？,要喝捏汗饮料吗？,translated,依恩,f73325f3e2,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#9#12,"これってその、
+すっごくドキドキする薬だよね？","这个药喝了之后，
+会让人心跳得特别厉害对吧？",translated,依恩,b668ae22c5,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#10#12,"完成したときに試しに飲んだけど、
+全部飲むのは初めてだし緊張するね……。","虽然刚做好的时候尝过一次，
+但整瓶喝下去还是第一次，真紧张呢……",translated,依恩,63751a70d0,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#14#12,うわ、すごい！,哇，好厉害！,translated,依恩,f47e0e110f,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#15#12,もう心臓がバクバクいってるよ……。,心脏已经在扑通扑通狂跳了……,translated,依恩,0a4900686c,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#16#12,"その……これ飲んだからって、
+変なことしちゃダメなんだからね？","那个……就算我喝了这个，
+你也不准做奇怪的事哦？",translated,依恩,c91fc7ddc6,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#23#12,またハラハラドリンクを飲むの？,还要再喝捏汗饮料吗？,translated,依恩,7fa5b59628,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#24#12,"まだ緊張するけど、
+二回目だし前よりは平気かな。","虽然还是有点紧张，
+但毕竟是第二次了，应该比之前好些吧。",translated,依恩,2615b11ad4,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#28#12,ハラハラドリンクだね。,是捏汗饮料呢。,translated,依恩,9f5a63771f,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#29#12,えへへ、あなたがいうなら喜んで飲むよ。,嘿嘿，既然你这么说了，我很乐意喝哦。,translated,依恩,6c51f7b493,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#32#12,ハラハラドリンクだね。,是捏汗饮料呢。,translated,依恩,9f5a63771f,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#33#12,すぐに飲んじゃうから、ちょっと待ってね♪,我马上就喝完，稍微等一下哦♪,translated,依恩,89ffa0751b,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#36#12,ハラハラドリンクを飲むの？,要喝捏汗饮料吗？,translated,依恩,f73325f3e2,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#37#12,それじゃあ、ちょっと待ってね。,那么，稍微等一下哦。,translated,依恩,a9aad9d0c1,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#42#12,ん？　また飲むの？,嗯？还要再喝吗？,translated,依恩,5e84b1d11a,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#43#12,"別にいいけど、強いお薬だし
+飲みすぎには注意しないとね。","喝倒是没问题，不过这药性很强，
+可得注意别喝太多了呢。",translated,依恩,4ee706a5b1,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#47#12,え？　また？,诶？还要喝？,translated,依恩,25bf564ef6,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#48#12,"えっと……ごめん。
+今まだドキドキしてるし、
+またあとで……ね。","那个……对不起。
+我现在心里还在扑通扑通跳，
+等会儿再喝……好吗。",translated,依恩,c9c6560aac,br=0 nl=2,3,
+inc/event/res/useeventall/us_drug007.txt#53#12,今日もう三本目だよ？,今天已经是第三瓶了哦？,translated,依恩,54a2245ced,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#54#12,"あなたが言うなら飲んでもいいけど、
+緊張したままは、ちょっと辛いかも……。","既然你都这么说了喝倒也可以，
+但一直这么紧张，稍微有点难受呢……",translated,依恩,3afeb37f67,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#58#12,二本も飲んだせいかな？,是因为已经喝了两瓶吗？,translated,依恩,2c1aec1c26,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#59#12,"まだドキドキしてるし、今は飲みたくない。
+ごめんね。","我现在心跳还没平复下来，暂时不想喝。
+对不起哦。",translated,依恩,3ae4a04b4e,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug007.txt#64#12,もう、またなの？,真是的，怎么又要喝？,translated,依恩,eb10c5a1de,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#65#12,これ以上は辛いから嫌だよ……。,再喝下去太难受了我才不要呢……,translated,依恩,23c399e554,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#75#12,はぅ……。,哈呜……。,translated,依恩,17877bd36f,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#76#12,もう心臓がバクバクいってるよ……。,心脏已经在扑通扑通狂跳了……,translated,依恩,0a4900686c,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#78#12,あぅ……。,啊呜……。,translated,依恩,a82e47196d,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#79#12,なんかちょっと変な気分になっちゃうね。,总觉得变得有些奇怪的感觉呢。,translated,依恩,076286c3e3,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#81#12,うわぁ……。,哇啊……。,translated,依恩,a71812f9d9,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#82#12,なんかもうドックンドックンいってる。,感觉心脏已经扑通扑通地狂跳了。,translated,依恩,d2d6c3623c,br=0 nl=0,1,
+inc/event/res/useeventall/us_drug007.txt#83#12,"一度にたくさん飲んだら、
+大変なことになりそう……。","要是直接一口气喝太多，
+感觉会出大问题的……",translated,依恩,d256aede9f,br=0 nl=1,2,
+inc/event/res/useeventall/us_drug_temp.txt#12#12,……ごくごく。,……咕嘟咕嘟。,translated,依恩,0bde462d14,br=0 nl=0,1,
+inc/event/res/useeventall/us_outtime.txt#2#12,…むにゃ……。,……唔姆……。,translated,依恩,5eb020476e,br=0 nl=0,1,

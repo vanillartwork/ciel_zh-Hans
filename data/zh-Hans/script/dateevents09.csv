@@ -1,0 +1,1710 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents09/back_kigae_church.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents09/back_kigae_church.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_datego01.txt#6#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents09/church_datego01.txt#7#12,"ちょっと待ってね。
+今そっちに行くから。","稍微等我一下哦。
+我现在就过去。",translated,依恩,b9ca975a6f,br=0 nl=1,2,
+inc/event/res/dateevents09/church_datego01.txt#9#12,えへへ♪　お待たせ～。,嘿嘿♪让你久等啦～。,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego02.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents09/church_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego03.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents09/church_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#3#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#4#12,"あのね、その…
+大した用事じゃ無いんだけど…。","那个呀，怎么说呢……
+虽然也不是什么大不了的事啦……",translated,依恩,8ac2a08fda,br=0 nl=1,2,
+inc/event/res/dateevents09/church_dategom.txt#5#12,その、ね…ほら……えっと…,那个，你看……就是……那个……,translated,依恩,16a24a569b,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#6#12,"また、デートしたいな～とか
+思っちゃったりして…その……。","我想着……要是能再去约会就好了呢～
+那个……",translated,依恩,9169fedd88,br=0 nl=1,2,
+inc/event/res/dateevents09/church_dategom.txt#7#12,教会……行ってみない？,要不要……去教会看看？,translated,依恩,7c66bff3bf,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#8#12,"そ、それで！
+予定…どうかな？","所、所以说！
+你的安排……如何呢？",translated,依恩,7f310da9bc,br=0 nl=1,2,
+inc/event/res/dateevents09/church_dategom.txt#9#12,もちろん大丈夫,当然没问题,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#10#12,今週はちょっと無理かも,这周可能有点抽不开身,translated,,85c8c99542,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#12#12,ほ、ホント！？,真、真的吗！？,translated,依恩,f8a88926a8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#13#12,"よかったぁ……。
+断られたらどうしようかと思っちゃった。","太好啦……
+我还一直在想要是被你拒绝了该怎么办呢。",translated,依恩,c9d926291b,br=0 nl=1,2,
+inc/event/res/dateevents09/church_dategom.txt#18#12,そっかぁ…残念。,这样啊……真遗憾。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents09/church_dategom.txt#19#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_kigae.txt#5#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_kigae.txt#6#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_kigae.txt#7#12,かわいい！！,好可爱！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents09/church_kigae.txt#9#12,"えへへ…ありがと♪
+わたしもこの服好きだから、嬉しいな。","诶嘿嘿……谢谢你♪
+我也很喜欢这件衣服，好开心哦。",translated,依恩,93894dc723,br=0 nl=1,2,
+inc/event/res/dateevents09/church_kigae.txt#12#12,"そ、そうかな…？
+なんか、そんなダイレクトに言われたら
+はずかしい…かも…。","是、是吗……？
+被你这么直白地夸奖，
+感觉怪不好意思的……",translated,依恩,b5abbe481e,br=0 nl=2,3,
+inc/event/res/dateevents09/church_pt02.txt#2#12,ふぅ～、ただいまー。,呼～我回来啦。,translated,依恩,be613041d4,br=0 nl=0,1,
+inc/event/res/dateevents09/church_pt02.txt#4#12,あ～、楽しかったぁ。,啊～玩得好开心。,translated,依恩,e068f53971,br=0 nl=0,1,
+inc/event/res/dateevents09/church_pt02.txt#6#12,えへへ、楽しかったぁ。,嘿嘿，玩得好开心。,translated,依恩,8719c29517,br=0 nl=0,1,
+inc/event/res/dateevents09/church_pt03.txt#2#12,"今日は付き合ってくれてありがと。
+また一緒に行こうね。","今天谢谢你陪我。
+下次再一起去哦。",translated,依恩,17d962f435,br=0 nl=1,2,
+inc/event/res/dateevents09/church_pt03.txt#4#12,また一緒に行こうね。,下次还要一起去哦。,translated,依恩,f8fea3efcd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#2#12,"やっぱり、せっかく行けるようになったん
+だから、行かないと勿体ないよね。","果然，既然好不容易能去了，
+要是不去的话就太可惜了呢。",translated,依恩,830eaef19e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#3#12,"……行く前から、すごく恥ずかしい
+気持ちになっちゃってるけど。","……虽然还没出发前，
+我就觉得害羞得不得了了就是啦。",translated,依恩,089aa16b19,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#4#12,と、とにかく、出発しよ。,总、总之，出发吧。,translated,依恩,d4103e50a6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#6#12,……えへへ、来ちゃったね。,……嘿嘿，真的来了呢。,translated,依恩,7c62d758f4,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#7#12,"本当は、こういう場所はもっと、
+特別な時にした方がいいかも、って
+思ったんだけど……。","虽然我原本觉得，这种地方
+是不是留到更特别的时刻
+再来会比较好呢……",translated,依恩,8aef219439,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#8#12,"でも、いざって時のために慣れて
+おいた方がいいよね？","但是，为了关键时刻着想，
+还是提前习惯一下比较好吧？",translated,依恩,9f5df36068,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#10#12,いざって時、というと？,你说的关键时刻，是指？,translated,,7fde3e66fb,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#12#12,そ、それは、ほら……。,那、那个就是，你看嘛……,translated,依恩,90c072770d,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#13#12,もぉ、わかってて聞いてるでしょ？,真是的，你明明心知肚明还故意问我吧？,translated,依恩,5907edd46c,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#14#12,"わたしばっかり恥ずかしがらせて、
+なんかズルいな……。","只让我一个人在这里害羞，
+总觉得你也太狡猾了……",translated,依恩,4455c5bd15,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#16#12,恥ずかしがるイオンが可愛いから,因为害羞的依恩很可爱嘛,translated,,5bccccf7fd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#17#12,本当にわからなかった、鈍感でごめん,我真的没明白，迟钝了对不起,translated,,38605c435f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#19#12,"も、もぉ……そんな風に言われたら、
+怒るに怒れないよ。","真、真是的……被你这么一夸，
+我想生气都没法生气了啦。",translated,依恩,de9e0405e8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#20#12,"えへへ……でも、ちょっと嬉しいから、
+許してあげるね。","嘿嘿……不过，心里还是有点高兴，
+就原谅你啦。",translated,依恩,b596c67a98,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#24#12,"あ、あなたって、そんなに鈍感だったっけ？
+えっと、つまりね……。","你、你原来有这么迟钝的吗？
+那个，就是说啊……",translated,依恩,10c9e1a5a8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#25#12,"しょ、将来的に、式とか挙げる時のために、
+慣れておいた方がいいかな……なんて。","将、将来要是举办婚礼什么的，
+提前适应一下会不会比较好……之类的。",translated,依恩,0a5e0f5d7c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#26#12,"こ、ここまで言えばわかるよね？
+う～、恥ずかしい……。","说、说到这个地步你总该懂了吧？
+呜～好难为情……",translated,依恩,a89bf961d0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#28#12,で、でも……やっぱり、憧れるよね？,不、不过……果然还是很令人憧憬对吧？,translated,依恩,d5101576dd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#29#12,"純白の、ウエディングドレス……。
+わたしも、いつか着てみたいな。","纯白的婚纱……
+我也好想有朝一日能穿上呢。",translated,依恩,30ef7e8dfc,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#30#12,"やっぱり、ウエディングドレスは
+白いのが良いと思うの。","果然，我觉得婚纱
+还是白色的最好看。",translated,依恩,c929136d0a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#31#12,デザインは、シンプルなのがいいかな？,款式挑简洁大方的会比较好吗？,translated,依恩,411e5a4339,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#32#12,"でも、一生に一度なんだから、
+ちょっと派手なのも捨てがたいし……。","不过既然是一生只有一次的大事，
+华丽一点的也让人难以割舍呢……",translated,依恩,d81ba8a0d5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#33#12,……どっちが、わたしに似合うと思う？,……你觉得哪种更适合我呢？,translated,依恩,6884c40264,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#35#12,シンプルなのが似合う,简洁的款式更适合你,translated,,4729baf3a0,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#36#12,こういう時くらい、派手なのがいいよ,这种时候就要选华丽一点的才好呢,translated,,52dca41826,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#38#12,えへへ……あなたが言うなら間違いないね。,嘿嘿……既然你这么说那就准没错啦。,translated,依恩,f4e00564b5,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#42#12,う～ん……そうだね。,唔～……说得也是呢。,translated,依恩,59765608c7,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#43#12,"一生に一度の晴れ舞台の時くらい、
+着飾っても悪くはないよね。","至少在一生一次的闪耀舞台上，
+好好打扮一番也很不错呢。",translated,依恩,490847e007,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#45#12,それで、バージンロードを歩いて……。,然后，踩着红毯走向圣坛……,translated,依恩,187bf2aa79,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#46#12,"誰もいない状態でもこんなに
+ドキドキするんだから、
+本番だとどうなっちゃうんだろう？","明明现在一个人也没有，
+我都紧张得心跳加速成这样，
+真到了那天该怎么办才好呀？",translated,依恩,1b725f8e9c,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#47#12,"家族とか友達が沢山集まって、
+その人達の前でするんでしょ？","会有很多家人和朋友聚集过来，
+并在大家面前举行对吧？",translated,依恩,878954b958,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#48#12,……わたし、上手く喋る自信ないよ。,……我可没有能顺畅说话的自信呀。,translated,依恩,581fa5e0b3,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#50#12,キスの時はどうするの？,接吻的时候你打算怎么办？,translated,,35c578de04,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#52#12,っ！？,！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#53#12,う～、考えないようにしてたのに……。,呜～人家明明故意不去想这件事的……,translated,依恩,7e84b2d289,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#54#12,"わ、わかってる、わかってるよ？
+結婚式だもん、キスしないわけには
+いかないよね？","我、我知道，我知道的啦！
+毕竟是婚礼嘛，总不可能
+不去接吻对吧？",translated,依恩,e7b118a896,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#55#12,"もちろんするよ。
+恥ずかしいけど、しないで終わったら
+わたしが寂しいもん。","当然是要亲的啦。
+虽然很害羞，但要是不亲就结束的话，
+我自己也会觉得很寂寞的嘛。",translated,依恩,0bbf97de3c,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#56#12,"ウエディングドレス着て教会で挙げる
+式といったら、誓いの言葉とキスは
+譲れないよ。","说到穿着婚纱在教会举办的仪式，
+誓词与亲吻
+可是绝对不能让步的哦。",translated,依恩,0ad9775661,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#58#12,恥ずかしくてやれないように見える,我看你害羞得根本做不到嘛,translated,,668d808586,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#60#12,"で、できるよ！
+ちゃんとできます！","能、能做到的啦！
+我肯定能好好做到的！",translated,依恩,03bcc528d5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#61#12,"い、今はこんなだけど、わたし、
+本番に強いタイプだもん。","虽、虽然我现在是这副模样，但我其实
+可是能在关键大场面顶得住的类型哦。",translated,依恩,4b672e34dc,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#62#12,"だから、本番では絶対……た、多分……
+大丈夫なんじゃないかな、なんて……。","所以在正式仪式上绝对……大、大概……
+会没问题的吧，我想……",translated,依恩,f1f20d0570,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#64#12,心配過ぎる……,实在太让人担心了……,translated,,eec5015778,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#65#12,なんであれ、素敵な式にしようね,不管怎样，一起办一场美妙的婚礼吧,translated,,516a53b6fd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#67#12,い、いいもん、心配されちゃっても。,哼、被你担心就算了，没关系的。,translated,依恩,a2f8f2f4cd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#68#12,"本番では、あなたにちゃんとエスコートして
+もらうから……。","到了正式仪式上，
+你要好好护送引领我哦……",translated,依恩,142d3d1623,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#72#12,"えへへ……あなたとの式なら、
+心配はしてないよ。","嘿嘿……如果是和你的婚礼，
+我可是一点都不担心呢。",translated,依恩,3c39b1790d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#74#12,……って、は、話が発展し過ぎだよ！,……不对，话、话题也扯得太远了吧！,translated,依恩,1e21d01c04,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#75#12,"わたし達、まだお付き合いを始めた
+ばかりなのに、どうしてこんな話に
+なっちゃってるの？","我们明明才刚刚开始交往不久，
+怎么突然就聊到
+这种事情上去了呀？",translated,依恩,b605e7ee87,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#76#12,"……なんて、教会に来れば自然とこういう
+話になっちゃっても、仕方ないね。","……不过，一来到教会，
+自然而然会聊到这种话题也是没办法呢。",translated,依恩,69898601a3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#77#12,はぁ……ちょっと落ち着かないと。,哈啊……得稍微冷静一下才行。,translated,依恩,6303b71d6a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#78#12,"わたし達に教会は、
+やっぱり少し早過ぎたみたいだね。","对现在的我们来说，
+来教会果然还是稍微太早了点呢。",translated,依恩,19e6582d67,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#79#12,"ねりこさんに悪いから、来ない、って
+わけにはいかないけど、来る回数は
+多くしない方がいいかも。","因为会觉得对不起妮莉库小姐，
+所以不来也是不行的，
+但来的次数还是不要太频繁为好呢。",translated,依恩,4be1128bdc,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#80#12,"今は、あなたと恋人になれた嬉しさで
+いっぱいだから、ここに来ると色々と
+抑えがきかなくなっちゃいそうだし。","现在我心里全都是能和你成为恋人的喜悦，
+一来到这里，感觉各种各样的感情
+都会变得有些控制不住了呢。",translated,依恩,a50850429b,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#81#12,"まずは、恋人の関係を深めていって、
+慣れることが先だね。","首先还是得进一步加深恋人关系，
+慢慢适应才行呢。",translated,依恩,0c709b4d6a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#82#12,……それじゃ、今日はそろそろ帰ろうか？,……那么，今天差不多该回去了吧？,translated,依恩,bba4da18c8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#84#12,もうちょっとだけいいかな？,可以再多待一会儿吗？,translated,,b5263d8016,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#85#12,うん、帰ろう,嗯，回去吧,translated,,1980046587,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s01.txt#91#12,"何だか、ずっとドキドキしっぱなしで、
+いつものデートの何倍も疲れちゃった。","总觉得心跳一直扑通扑通个不停，
+比平时的约会累了好几倍呢。",translated,依恩,463728574c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#92#12,"やっぱり、まだわたし達に教会は
+早過ぎるみたいだね。","看来对我们来说，
+现在来教会确实还为时尚早呢。",translated,依恩,72af43219a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s01.txt#97#14,"結婚式について沢山
+話しちゃった……
+すごく恥ずかしい。","聊了好多
+关于婚礼的事……
+真的好害羞。",translated,,c79a302daa,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s01.txt#98#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/church_s02.txt#1#12,"……えへへ、やっぱり緊張するね。
+ちょっと深呼吸しよっかな。","……嘿嘿，果然还是会紧张呢。
+我稍微深呼吸一下吧。",translated,依恩,663240873d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#2#12,すー……は～……。,呼……吸～……。,translated,依恩,57f360114f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#3#12,うんっ、出発しよ！,好，出发吧！,translated,依恩,6364914761,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#6#12,"そ、そういえば、前に来た時のこと
+覚えてる？","说、说起来，上次来这里时的事情
+你还记得吗？",translated,依恩,41b57ee734,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#7#12,"緊張して、何だか変な話ばっかり
+しちゃってたよね。","当时因为太紧张，
+不知不觉净聊了些奇怪的话题呢。",translated,依恩,40b12691a6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#8#12,"結婚式はどんなのがいいのか、
+なんて……。","什么样的婚礼比较好啦，
+之类的……",translated,依恩,47bbb5078d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#9#12,"わたしはね、やっぱりウエディングドレスを
+着てバージンロードを歩くのが夢なの。","我呀，果然梦想着能穿上婚纱
+在红毯上漫步走向圣坛呢。",translated,依恩,ae267b0738,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#10#12,"……って、結婚式の話は前に来たときに
+沢山したよね。","……不过，关于婚礼的话题，
+上次来的时候已经聊过很多了呢。",translated,依恩,4357f38828,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#12#12,何度でも付き合うよ,不管聊多少次我都乐意奉陪哦,translated,,f096d45b9a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#13#12,緊張してる？,你在紧张吗？,translated,,a9972b88b5,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#15#12,"そ、そう言ってもらえるのは嬉しいけど、
+せっかくのデートが同じ話で終わったら
+面白くないよ。","你、你能这么说我是很高兴啦，
+但难得约会一次如果以同样的话题收场，
+那可就太无趣了呀。",translated,依恩,b8ab7561a5,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#16#12,"やっぱり、何かこう、違う盛り上がれる
+話をしないともったいないし。","果然还是得聊些能炒热气氛的不同话题，
+不然就太可惜了嘛。",translated,依恩,7a3d84b7a1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#19#12,"……しないように頑張ろう、って
+思ってたんだけど、ダメだったみたい。","……我本来还想着努力克制一下的，
+看来还是不行呢。",translated,依恩,a53ce7799a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#20#12,"う～、頭の中、早くも真っ白に
+なりかけてるよ……。","呜～我的脑袋，这么快就已经
+快要变得一片空白了啦……",translated,依恩,941b35c475,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#22#12,"はぁ……やっぱり、ここに来るのは
+まだ早いみたいだし、今日はもう……。","哈啊……看来来这里果然还是太早了，
+今天就……",translated,依恩,6d05ecfae1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#23#12,まったく、見ていられんのぉ。,真是的，老身我都看不下去了呀。,translated,妮莉库,b7008caee9,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#24#12,えっ！？,诶！？,translated,依恩,d0266993ff,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#26#12,ぼんじゅ～る、じゃよ。,崩纠～尔是也。,translated,妮莉库,e67f45ae7f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#27#12,"ね、ねりこさん！？
+どうしてここにいるんですか？","妮、妮莉库小姐！？
+您为什么会在这里？",translated,依恩,d74d96340a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#29#12,一日神父じゃよ。,老身是客串的一日神父哦。,translated,妮莉库,76d7931e22,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#30#12,"そうだったんですか。
+ねりこさん、神父さんまでやっちゃうん
+ですね。","原来是这样啊。
+妮莉库小姐连神父
+都能兼任呢。",translated,依恩,302c56fd81,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#32#12,凄いね、ねりこさん,妮莉库小姐真厉害呢,translated,,bb22559a20,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#33#12,ウソだから信じちゃダメだよ,那是骗人的，可别相信哦,translated,,e66ca91c8a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#35#12,"……まさか二人とも信じるとは
+思わんかったぞ。","……没想到你们两个居然真信了，
+老身真是没想到啊。",translated,妮莉库,93905206a8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#36#12,"ウソじゃよ、ウソ。
+仮想世界で神父なぞするわけがなかろう？","骗你们的啦，骗你们的。
+老身怎会在虚拟世界里当什么神父嘛？",translated,妮莉库,2df6e83863,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#37#12,"そ、そっか……。
+言われてみればそうですね。","这、这样啊……
+经您这么一说确实是呢。",translated,依恩,d293ab49ce,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#38#12,でも、それなら何をしてたんですか？,不过，那您到底在这里做什么呢？,translated,依恩,a043c86c87,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#41#12,えっ、そうなの？,诶，是这样吗？,translated,依恩,dcbfd84a11,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#42#12,ねりこさん、ウソつくなんて酷いですよ。,妮莉库小姐，骗人也太过分了啦。,translated,依恩,eb6059ec23,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#43#12,んっふっふ、すまんすまん。,唔呵呵，抱歉抱歉。,translated,妮莉库,034dcff418,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#44#12,"とうだいもりは良い子じゃからの。
+ついからかいたくなるのじゃよ。","谁让守塔人是个乖孩子呢。
+老身忍不住就想捉弄你一番嘛。",translated,妮莉库,dd55e9f4a5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#45#12,"……もしかして、からかうために
+ここに来たんですか？","……难不成，您是为了捉弄我
+才特意来这里的吗？",translated,依恩,bb0231bdd9,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#47#12,"そう、そのことで我はお前さん達に
+言っておかねばならぬことがある。","正是，关于此事，老身有几句话
+不得不对你们两个好好说道说道。",translated,妮莉库,2c9dbcb68c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#48#12,"お前さん達……
+いい加減にしたらどうなんじゃ？","你们两个……
+差不多也该给我适可而止了吧？",translated,妮莉库,6f7b21a540,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#49#12,えっ……もしかして、怒られてる？,诶……难不成，我被训斥了？,translated,依恩,be3b53d83c,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#50#12,その通り、我はもう我慢の限界じゃ。,没错，老身已经忍无可忍了。,translated,妮莉库,770f7e71fb,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#51#12,"一体、我が何のためにこの教会の
+カードをくれてやったと思っておる？","你们以为老身到底是为了什么，
+才特意把这间教会的卡片赐予你们的？",translated,妮莉库,fb7d503be6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#52#12,"何のためって、デートするため……
+ですよね？","为了什么……是为了约会……
+对吧？",translated,依恩,8d3c5a71e5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#53#12,うむ、その通り。,嗯，正是如此。,translated,妮莉库,e71846ac26,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#54#12,だというのに、お前さん達はなんじゃ？,既然如此，你们两个这又是成何体统？,translated,妮莉库,596c757247,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#55#12,"初めての時ならまだしも、
+もう何度目にもなろうというのに、
+未だにモジモジしおって……。","头一次来倒也罢了，
+如今都不知道来过多少次了，
+竟然还在这里磨磨蹭蹭、扭扭捏捏的……",translated,妮莉库,401dade8df,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#56#12,焦れったいにも程があるぞ。,真是急死老身我也该有个限度啊。,translated,妮莉库,c989730a5d,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#57#12,ちょ、ちょっと待って、ねりこさん！,等、等等，妮莉库小姐！,translated,依恩,caf4bfbe1f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#58#12,"それって……もしかしてここでのデート、
+毎回見てたってことですか？","您那话的意思……难不成我们在这里的约会，
+您每一次都在旁边看着吗？",translated,依恩,629002405d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#59#12,"？
+そうじゃが、それがどうかしたかの？","？
+正是，那又如何呢？",translated,妮莉库,9dc7bfb37f,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#61#12,心配してくれたの？,您是在担心我们吗？,translated,,172525a78a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#62#12,暇なの？,您很闲吗？,translated,,7bd48bb442,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#64#12,ほぉ、察しがいいのぉ。,哦呀，观察力还挺敏锐嘛。,translated,妮莉库,33e858a1b3,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#65#12,"その通り、お前さん達のことが心配で、
+影から覗かせてもらっておったのじゃよ。","正是，老身放心不下你们两个，
+才特地在暗中窥视一番的。",translated,妮莉库,cb187b6e4a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#66#12,"どうせお前さん達のことじゃ。
+恥ずかしさに負けてまともに会話も
+できないであろうと思ってな。","反正依你们两个的性子，
+多半会耐不住害羞，
+连像样的对话都聊不起来吧。",translated,妮莉库,5b4ab55c99,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#67#12,……ご心配おかけします。,……让您操心了。,translated,依恩,b17c37fee7,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#70#12,暇ではない、我は毎日大忙しじゃ。,老身才不闲呢，我每天可是日理万机。,translated,妮莉库,673d049d95,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#71#12,"とはいえ、忙しい中にも余裕を見出すのが
+出来る女というものでのぉ。","话虽如此，能在百忙中抽出闲暇，
+方显干练女子的手腕嘛。",translated,妮莉库,c5b0d68feb,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#72#12,"こうして、時間を作って見ていたと
+いうわけじゃ。","所以老身才挤出时间，
+特地来关照你们的。",translated,妮莉库,c00f903611,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#73#12,"……そこまでして見に来てくれたことに、
+わたしはどう反応すればいいんですか？","……对于您费这么大工夫来看我们，
+我到底该作何反应才好啊？",translated,依恩,c3345482ad,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#75#12,"って、そうじゃなくて！
+酷いですよ、ねりこさん。","不对，不是这个意思啦！
+您太过分了，妮莉库小姐。",translated,依恩,3f687aec81,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#76#12,"人のデートをこっそりと覗くなんて、
+すごく恥ずかしいですし……。","偷偷摸摸地偷看别人约会，
+这实在太难为情了呀……",translated,依恩,69a9568db8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#77#12,"ここは神の家じゃ。
+常に神に見られておるのじゃから、
+我に見られても問題はなかろう？","此地乃神明之所。
+既然时刻都在神明注视之下，
+被老身看两眼又有何妨？",translated,妮莉库,080eb5e3da,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#78#12,"第一、見られても対して困らんじゃろ？
+大した会話もしておらんのだしな。","再者说，被看了也没什么损失吧？
+反正你们也没聊什么了不得的内容。",translated,妮莉库,e6caf595ca,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#79#12,"まったく、せっかく仲を急速に近づける
+ための場所として提供してやったと
+いうのに……。","真是的，老身特地给你们提供
+这处能让感情迅速升温的场所，
+结果你们倒好……",translated,妮莉库,fee24f25b4,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#80#12,うぅ、ごめんなさい……。,呜呜，对不起嘛……,translated,依恩,11ca2fd654,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#81#12,"……とはいえ、なんだかんだでお前さん達も
+恋人にまで発展したのは確かじゃ。","……不过话说回来，你们兜兜转转
+总算是进展到了恋人关系，这也是事实。",translated,妮莉库,c3b91c463e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#82#12,"そのことについては、我も心から
+祝福するぞぃ。","关于这件事，老身我也由衷地
+为你们送上祝福哦。",translated,妮莉库,182a016c3c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#83#12,え、えへへ……ありがとう、ねりこさん。,诶、嘿嘿……谢谢您，妮莉库小姐。,translated,依恩,1191a9d592,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#84#12,"うむ……なので、ついでにもう一歩、
+お互いの関係を深めてはどうじゃ？","嗯……所以嘛，顺便再更进一步，
+加深彼此的关系如何呀？",translated,妮莉库,54c2df67e3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#85#12,もう一歩……っていうと？,更进一步……是指？,translated,依恩,22d94bc119,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#86#12,"一発、式でも挙げてみたらどうか、と
+いうことじゃ。","老身的意思是，干脆一口气
+把婚礼办了如何？",translated,妮莉库,e5df42fc97,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#87#12,式って……え、えぇっ！？,仪式……诶、诶诶！？,translated,依恩,554c0b3996,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#88#12,"そ、それって、け、け……
+結婚式のことですか？","那、那难道是指，结、结……
+结婚典礼吗？",translated,依恩,0226613d38,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#89#12,"教会じゃからな。
+それが一般的であろう？","毕竟是在教会嘛。
+这不是很顺理成章的吗？",translated,妮莉库,7f98d97de2,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#90#12,"それに、お前さん達は恋人じゃ。
+お互い好意を持っておるから、
+そのような関係になったのであろう？","况且，你们两个如今已是恋人。
+正是因为彼此心存爱慕，
+才会发展成这般关系的吧？",translated,妮莉库,b35f6512bd,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#91#12,"ならば問題はないではないか。
+恋人が夫婦になるだけじゃ。
+ごく自然のことじゃぞぃ。","那不就毫无问题了吗。
+只不过是从恋人升级成夫妻而已。
+这可是再自然不过的事了哦。",translated,妮莉库,33eb8b3a21,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#92#12,"自然じゃないです！
+いくらなんでも早過ぎます！","才不自然呢！
+再怎么说这也未免太快了！",translated,依恩,b55b0a3ce3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#93#12,早い結婚は偽りと申すのか？,难道闪婚就代表虚情假意了吗？,translated,妮莉库,94438847a7,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#94#12,そ、そういうわけじゃなくて……。,我、我倒也不是那个意思啦……,translated,依恩,791377b979,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#95#12,"我からの祝いとして、指輪くらいは
+プレゼントしてやっても良いのじゃぞ？","作为老身的贺礼，赠予你们
+一枚戒指倒也未尝不可哦？",translated,妮莉库,ccf1ac808f,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#96#12,ただし、レシピじゃがな。,不过，给的只是配方就是了。,translated,妮莉库,cfd5cec0a6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#97#12,そ、そう言われても……。,您、您就算这么说……,translated,依恩,0acf6425e5,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#98#12,あ、あなたからも、何か言ってよ……。,你、你也快帮我说两句呀……,translated,依恩,a2c84b81fa,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#100#12,その時が来たらお願いします,等时候到了再拜托您吧,translated,,df1c6f2d40,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#101#12,せっかくだし、貰っておきます,难得您一片好意，那就收下吧,translated,,c5f63a9279,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#103#12,"ふむ……わかった。
+お前さんがそう言うのであれば、
+大人しく引くとしよう。","唔姆……老身明白了。
+既然你都这么说了，
+那老身就暂且乖乖退下吧。",translated,妮莉库,afe781d237,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#104#12,"それに今の言葉から察するに、
+いずれ必要になる日が来る
+みたいじゃからの。","而且听你刚才话里的意思，
+似乎有朝一日
+总是免不了要用上的嘛。",translated,妮莉库,779ac04910,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#106#12,"くふふ、とうだいもりも満更では
+なさそうな様子じゃの。
+結構結構。","库呼呼，看守塔人的样子
+好像也并不十分抗拒嘛。
+甚好，甚好。",translated,妮莉库,20392890eb,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#110#12,"せ、せっかくだからなんて理由で
+貰うものじゃないよ！","这、这哪能以“难得好意”
+这种理由随便收下呀！",translated,依恩,6b76de1b80,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#111#12,"ねりこさん、申し訳ないですけど
+今はいりません。","妮莉库小姐，非常抱歉，
+我们现在还用不上。",translated,依恩,3f009257b7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#112#12,"いずれ必要になった時に、
+またお願いします。","等将来哪天需要用到的时候，
+再拜托您吧。",translated,依恩,dee72abc91,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#113#12,おぉっ、さらっと大胆発言をしおった！？,哦哦，居然轻描淡写地语出惊人！？,translated,妮莉库,acc935f49f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#114#12,え……あっ！,诶……啊！,translated,依恩,464353b243,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#115#12,"一応、今後の予定に組み込まれては
+いるようじゃな。
+結構結構。","看来在今后的计划里
+确实是有这么一项的嘛。
+甚好，甚好。",translated,妮莉库,d5f357aa17,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#117#12,"さて、良い返事も聞けたことだし、
+我はそろそろ退散するとしようかの。","好啦，既然听到了满意的回答，
+老身也差不多该功成身退喽。",translated,妮莉库,47aa408893,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#118#12,"……ねりこさん、
+本当に何しに来たんですか？","……妮莉库小姐，
+您到底是来干什么的呀？",translated,依恩,8c4e69fc71,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#119#12,"最初に言った通り、お前さん達が
+あまりにも焦れったかったのでな。","正如老身开头所言，是因为你们两个
+实在太磨叽太急人了嘛。",translated,妮莉库,11940e4c06,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#120#12,"少々和ませに来ただけじゃよ。
+まあ、カードのアフターケアみたいな
+もんだと思ってくれて構わんぞぃ。","只是来帮你们活跃一下气氛而已。
+嘛，权当是老身赠送卡片后的
+售后关怀便好喽。",translated,妮莉库,d7ee096542,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#121#12,"では、後は若い者同士に任せるとしよう。
+いや、けして我が若くないというわけでは
+ないが……。","那么，接下来就交由你们年轻人自便吧。
+不，老身可绝非指自己
+已经上了年纪便是……",translated,妮莉库,ad27c38c02,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#122#12,しっかりラブを温めあわんといかんぞぃ。,你们可得好好增进恩爱之情才行哦。,translated,妮莉库,6bf9d4a2f6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#124#12,はぁ……びっくりしたね。,哈啊……吓了一大跳呢。,translated,依恩,964a537f9f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#125#12,"まさか、ずっとねりこさんに見られてた
+なんて、思いもしなかったよ。","我做梦也没想到，
+居然一直被妮莉库小姐看在眼里。",translated,依恩,41a2866bfb,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#126#12,"……でも、色々恥ずかしいお話を
+沢山したからかな？","……不过，也许是因为
+聊了好多难为情的话题吧？",translated,依恩,d2e07b4724,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#127#12,ちょっと、緊張がほぐれた気がするよ。,感觉紧张的心情稍微放松下来了呢。,translated,依恩,4868859702,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#129#12,"指輪のレシピ……
+貰っておけばよかったかな？","戒指的配方……
+要是收下其实也不错吗？",translated,依恩,9ed94838c6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#130#12,"な、なんてね！
+えへへ……。","开、开玩笑的啦！
+嘿嘿……",translated,依恩,c3ec03c6bd,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#131#12,"いつかは、とは思うけど……
+やっぱり、今は恋人としての付き合いを
+楽しみたいな。","虽然觉得将来总会有那么一天……
+但现在，果然还是想好好享受
+作为恋人交往的时光呢。",translated,依恩,234afb9a8c,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#132#12,"やっと恋人同士になったのに、この関係が
+あっという間に終わっちゃうのは、少し
+寂しい気がするし……。","好不容易才成为恋人，
+要是一眨眼就结束这段关系，
+总觉得稍微有些舍不得呢……",translated,依恩,77a3ff32f7,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#133#12,"先へ進むのは、あなたのことを今よりも、
+もっともっと好きになってからでも、
+遅くはないもん。","走向下一个阶段，等我比现在
+还要更加更加喜欢你之后，
+也完全来得及嘛。",translated,依恩,0c5ad39b7b,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#134#12,……これからも、沢山仲良くしようね。,……今后我们也要一直恩恩爱爱哦。,translated,依恩,f80150fb77,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#135#12,"えへへ……だいぶ長くいちゃったね。
+そろそろ帰ろっか？","嘿嘿……待了挺长时间了呢。
+差不多该回去了吧？",translated,依恩,a4c417a9ff,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#137#12,もう少しイオンを見ていたい,还想多看一会儿依恩,translated,,c3ef02c6b9,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#138#12,帰る,回去,translated,,3a9f9a5edc,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s02.txt#144#12,"今日は、前に教会でデートした時以上に
+ドキドキしちゃったね。","今天比起上次在教会约会时，
+还要更加心跳加速了呢。",translated,依恩,1b4a18ce2b,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#145#12,"でも……こういう気持ちになれるのって、
+わたしがそれだけあなたのことを、
+好きだから……なんだよね？","不过……之所以会产生这种心情，
+是因为我真的特别特别
+喜欢你……对吧？",translated,依恩,ca03a24563,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#146#12,"えへへ……今度来る時は、もっともっと
+ドキドキするようなデートをしたいね。","嘿嘿……下次再来的时候，
+真想来一次更加更加让人心动的约会呢。",translated,依恩,862dc06654,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s02.txt#151#14,"指輪のレシピ、
+やっぱり貰っておけば
+よかったかも……。","戒指的配方，
+果然当初要是收下
+就好了呢……",translated,,6864534a14,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s02.txt#152#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/church_s03.txt#2#12,"す～、は～……
+す～、は～……。","呼～，吸～……
+呼～，吸～……。",translated,依恩,cf4e4fb12b,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#3#12,"うん、これで緊張しないはず！
+それじゃ、行こっか。","嗯，这样应该就不会紧张了！
+那么，我们走吧。",translated,依恩,712dcd4fe1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#6#12,"え、えへへ……大丈夫だよ。
+ちょっと、ドキッとしちゃっただけだから。","诶、嘿嘿……我没事的啦。
+只是稍微有点心跳加速而已。",translated,依恩,8c92127ea5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#7#12,"来る前に深呼吸したけど、
+完全には効果なかったみたい……。","虽然来之前做过深呼吸，
+但看来并没有完全起作用呢……",translated,依恩,c9b43c7a31,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#8#12,やっぱり、教会は特別な場所だからかな？,果然是因为教会是个特别的地方吧？,translated,依恩,cc5563ac8e,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#9#12,"教会っていうと、どうしても、ほら……
+想像しちゃうでしょ？","说到教会，无论如何都会，你看……
+联想到那件事对吧？",translated,依恩,ed4c8e24ac,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#11#12,結婚式を？,结婚典礼吗？,translated,,4bc3d30531,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#12#12,懺悔室を？,忏悔室吗？,translated,,5a4cbc74c5,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#14#12,"えへへ……あなたも、わたしと同じことを
+想像しちゃってたんだ？","嘿嘿……原来你也跟我一样，
+联想到同一件事了呀？",translated,依恩,f395febf4d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#15#12,"一緒でよかった……。
+違ってたら、ちょっとガッカリしてたよ。","能想到一块儿去真好……
+要是想的不一样，我可就要有点小失落了。",translated,依恩,d347d69f66,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#19#12,"ま、まあ、確かに教会にしかないから、
+それを想像する人もいるかもしれないよ？","嘛、虽说确实是教会独有的设施，
+说不定真有人会联想到那个啦？",translated,依恩,b29ad3d3d3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#20#12,でも、今想像しちゃうのは結婚式だよ。,但我现在脑子里想的可是结婚典礼哦。,translated,依恩,3e0b4ebdd7,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#22#12,"ここに来たのも一回や二回じゃないのに、
+未だにこんなに緊張するんだもん。","明明来这里也不是一回两回了，
+我到现在却还是这么紧张嘛。",translated,依恩,9cd6ced97e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#23#12,"これじゃ、最初の頃にすごく緊張して、
+まともに話せなかったのも仕方ないよね？","这么看来，当初刚开始时紧张得
+连话都说不利索，也是没办法的对吧？",translated,依恩,334eb1d96a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#24#12,"やっぱり、もう少しお互いの関係を
+深めてから来た方がよかったのかも
+しれないよ。","果然，我们是不是应该等彼此的关系
+变得更深厚一些之后，
+再过来会比较好呢。",translated,依恩,1421e3911f,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#25#12,"もっともっと恋人関係が深まって、
+結婚式の下見をしよう、ってくらいに
+なってからとか……。","比如等恋人关系更加更加深厚，
+到了可以来“预先踩点婚礼场地”
+的阶段之类的……",translated,依恩,464d033859,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#26#12,"それくらいになってからなら、
+緊張しなくてすんだのかもしれないね。","到了那个时候再来的话，
+说不定就用不着这么紧张了呢。",translated,依恩,b0c43184e3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#27#12,"そうだ、それならせっかくだし、
+今日は下見を……。","对啦，既然如此难得来一次，
+今天就当成踩点……",translated,依恩,3b16775a83,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#28#12,"って、い、今のなし！
+聞かなかったことにして！","不对，刚、刚才的不算！
+你就当没听见！",translated,依恩,43f3a22b02,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#29#12,"さすがにまだ早過ぎるもん。
+もっと、順序を追ってかないと。","再怎么说现在也太早了嘛。
+还是得一步一步循序渐进才行。",translated,依恩,2eaf449232,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#30#12,"……でも、いつかはわたしも、
+ここを歩いてみたいな。","……不过，我也希望将来有一天，
+能亲自漫步在这里呢。",translated,依恩,cfbcc5d23e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#31#12,"ウエディングロードを歩くのは、
+やっぱり憧れるもん。","走在婚礼的红毯上，
+果然是让人无比憧憬的事嘛。",translated,依恩,c93e5ddcc9,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#33#12,イオンのドレス姿、見てみたい,真想看看依恩穿婚纱的样子,translated,,8c90ef43fe,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#34#12,そういうものなの？,女孩子都是这样的吗？,translated,,55aefe15bb,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#36#12,そう言ってもらえるとすごく嬉しいよ。,你能这么说我真的好高兴哦。,translated,依恩,ce68ecf287,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#37#12,わたしも、早くあなたの隣で……。,我也好想早点站在你的身边……,translated,依恩,61b069a514,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#41#12,"う～ん……絶対とは言えないけど、
+普通の女の子なら、みんな憧れてるんじゃ
+ないかな、って思うよ？","唔～……虽然不敢说绝对，
+但我想要是普通的女孩子，
+应该大家都会对此充满憧憬吧？",translated,依恩,f28b6fe763,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#42#12,わたしも、いつかあなたと……。,我也好想总有一天能和你……,translated,依恩,ad2e20fecf,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#44#12,"え、えへへ……まだ早過ぎる、って
+言ったばかりなのに、
+どうしても色々想像しちゃうよ。","诶、嘿嘿……明明刚才还说
+现在还为时尚早，
+可脑子里就是忍不住胡思乱想呢。",translated,依恩,c01d6fde43,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#45#12,"こうやって話してる今だって、
+頭の中ではその時のことを
+考えちゃってるし……。","哪怕是像现在这样聊着天，
+我脑海里也全都在琢磨着
+那个时候的事情……",translated,依恩,a8ae2f1f7f,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#46#12,"……浮かれちゃってる証拠だよね？
+うう、何だかちょっとみっともない
+気がするよ……。","……这就是得意忘形的证据对吧？
+呜呜，总觉得自己这样
+看起来有点难为情呢……",translated,依恩,d0af0fb6dd,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#47#12,"節操のない女の子、とか思われないか、
+ちょっと心配かも。","你会不会觉得我是个不矜持的女孩子呀，
+稍微有点担心呢。",translated,依恩,d606749412,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#49#12,そういうところが可愛い,你这种地方很可爱哦,translated,,753846147e,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#50#12,少し落ち着くべき,应该稍微冷静一下,translated,,4e3a0152cd,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#52#12,"浮かれてるところを見られて可愛いって
+言われても、喜んでいいのか微妙だよ。","被你看到得意忘形的样子还夸我可爱，
+真让人搞不懂到底该不该高兴呢。",translated,依恩,cb9b9367a3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#54#12,"えへへ……でも、やっぱり可愛いって
+言われるのは嬉しいかも……。","嘿嘿……不过，被你夸可爱
+果然还是挺开心的吧……",translated,依恩,13db8e042e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#55#12,わたしって、単純なのかな？,我是不是太好哄了呀？,translated,依恩,a5cc5f6dc1,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#59#12,"や、やっぱり、節操のない女の子に
+見えちゃってるかな？","果然、在你看来
+我显得很不矜持对吧？",translated,依恩,cc6657cb46,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#60#12,"わたしだって落ち着こうと
+頑張ってるんだよ？","其实我自己也有在努力
+试图冷静下来的呀？",translated,依恩,857a5d4bb0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#61#12,"でも、どうしても気持ちを
+落ち着かせられないの……。","但是，无论如何这股心情
+就是平复不下来嘛……",translated,依恩,cb65036311,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#63#12,"……でも、こういう気持ちを大切に
+するのが、いつまでも楽しく過ごせる
+秘訣なんじゃないかな？","……不过，好好珍惜这样的心意，
+说不定正是能永远快乐相处的
+秘诀所在吧？",translated,依恩,c053da93ff,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#64#12,"きっと、もっと時間が経って、
+沢山色んなデートをすれば、
+この気持ちも少しは落ち着くと思うの。","我想只要时间过得更久一些，
+一起去过许许多多不同的约会之后，
+这份心情应该也会稍微平复一些的吧。",translated,依恩,54f9849386,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#65#12,"もちろん、あなたへの気持ちが冷めるから
+落ち着く、ってわけじゃないよ？","当然了，并不是因为对你的感情变淡了
+才会平复下来的哦？",translated,依恩,de3701875d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#66#12,"それでも、今よりは一緒にいて
+ドキドキしなくなるような気がするの。","不过即便如此，我总觉得和现在相比，
+两人待在一起时可能就不会那么小鹿乱撞了。",translated,依恩,3626e2b334,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#67#12,それは、ちょっと寂しい気がするし……。,那样的话，总觉得稍微有点落寞呢……,translated,依恩,dbfebdcd8a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#68#12,"だから、あまり浮かれ過ぎない程度に、
+いつまでもドキドキしていられる状態のまま
+いけたら、それが一番いいよね。","所以，要是能在不过分得意忘形的前提下，
+一直保持着怦然心动的感觉走下去，
+那才是最理想的对吧。",translated,依恩,f683953114,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#69#12,"今のこの気持ち、枯らさないように
+気をつけなくちゃ。","现在的这份心情，我可得注意
+不让它枯竭凋零才行呢。",translated,依恩,7c931c7ce7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#71#12,不要な心配だとは思うけどね、えへへ……。,虽然我觉得是多虑了就是啦，嘿嘿……,translated,依恩,633425ac51,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#73#12,"あなたも、いつまでも今の気持ちを
+忘れないでいてね。","你也要永远都不要忘记
+现在这份心情哦。",translated,依恩,d1f4e13a71,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#75#12,ふぅ……何だか、疲れてきちゃった。,呼……总觉得有点累了呢。,translated,依恩,cb7e6e1d37,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#76#12,"少し緊張してる状態で、
+たくさんお話をしたからだね。","大概是因为在稍微紧张的状态下，
+聊了太多的缘故吧。",translated,依恩,7ebafdabc8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#77#12,そろそろ帰って休もっか？,差不多该回去休息了吧？,translated,依恩,c0109ae4f2,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#79#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#80#12,そうだね、帰ろう,说得也是，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#86#12,"今日も、ドキドキするお話を
+いっぱいしちゃったね。","今天也聊了好多好多
+让人心跳加速的话题呢。",translated,依恩,fcc2f1d22a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#87#12,今度の時も今日みたいに……。,下次再来时也能像今天这样……,translated,依恩,eebbd6da8b,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s03.txt#88#12,"ううん、今日以上にドキドキできたら
+嬉しいな。","不，要是能比今天更加让人心动，
+那就再好不过啦。",translated,依恩,acd4b2a4cc,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#89#12,"それじゃ、今日はありがと。
+今度の時を楽しみにしてるね。","那么，今天谢谢你啦。
+我很期待下一次的约会哦。",translated,依恩,928d2b4f47,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s03.txt#93#14,"ウエディングロード、
+歩ける日はまだ当分
+先の話かな？","能走上婚礼红毯的那一天，
+大概还相当
+遥远吧？",translated,,2123d461f5,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s03.txt#94#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/church_s04.txt#1#12,"夫婦の誓いをした場所でデートするなんて、
+ちょっとロマンチックな感じがするね。","在立下夫妻誓言的地方约会，
+感觉还挺浪漫的呢。",translated,依恩,76682a0b74,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#2#12,えへへ、それじゃ、しゅっぱーつ！,嘿嘿，那么这就出～发！,translated,依恩,226cb9cf8a,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#4#12,……ふふっ。,……呵呵。,translated,依恩,6e2baa06b1,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#5#12,"あっ、ごめんね。
+ちょっと、結婚式の時のことを
+思い出しちゃったの。","啊，抱歉抱歉。
+我不小心回想起
+当时举行婚礼的事情了。",translated,依恩,eb5999341c,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#6#12,"あなたと、本当に夫婦になれるんだな、って
+思ったら……すごく幸せで、嬉しい気持ちに
+なっちゃって……。","一想到真的能和你
+结为真正的夫妻……心里就涌现出
+满满的幸福感与喜悦……",translated,依恩,1d197996cc,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#7#12,"最初はね、幸せ過ぎて頭の中が真っ白に
+なるんじゃないか、って心配だったんだよ？","起初我还担心会不会因为太幸福，
+脑子里一下子变得一片空白呢。",translated,依恩,cf9bb5574e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#8#12,"でも、驚くほど落ち着いた気持ちになれて、
+この幸せな瞬間をしっかりと覚えておこう、
+って必死になってたの。","但实际上心情却平静得出奇，
+满脑子都在拼命想着
+一定要把这幸福的瞬间深深烙印在记忆里。",translated,依恩,8447011eed,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#9#12,……喜んでないように見えちゃってた？,……难道在你看上去像是不高兴吗？,translated,依恩,6c850fa5a1,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#11#12,ごめん、超緊張してて気づけなかった,抱歉，我超级紧张完全没注意到,translated,,06149d3f33,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#12#12,もっと照れて恥ずかしがってほしかった,真希望你表现得更害羞一点,translated,,d84bb62a4c,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#14#12,えっ、あなたも緊張してたの！？,诶，原来你当时也很紧张吗！？,translated,依恩,54483c4373,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#15#12,"そうだったんだ……
+ちょっと、ビックリかも。","原来是这样啊……
+稍微让我有点惊讶呢。",translated,依恩,2c08233abd,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#16#12,"なんていうか、あなたってわたしをいつも
+引っ張ってってくれるイメージがあるから
+なのかな？","怎么说呢，大概是因为你在我心中，
+一直都有着引领在前、
+格外可靠的形象吧？",translated,依恩,c09723d504,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#17#12,"だから、結婚式でも緊張しないで、
+自然体のままかと思ってたよ。","所以还以为你在婚礼上也毫不紧张，
+能够泰然自若呢。",translated,依恩,a22eadccfa,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#18#12,"ふふっ、新たな一面を知れちゃった。
+あの時、もっと声をかけて、緊張してる
+あなたの様子に気づきたかったな。","呵呵，了解到了你的崭新一面呢。
+早知道那时就多跟你说说话，
+好好看看你紧张的样子啦。",translated,依恩,21a57dbb52,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#22#12,"ちょ、ちょっとくらいならまだしも、
+そこまで恥ずかしがるのを期待されても
+困るよぉ……。","稍微害羞一下也就罢了，
+你要是期待我害羞成那副模样，
+我也很为难啦……",translated,依恩,a0c050f6fc,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#23#12,"それに、結婚式は特別なものなんだから、
+緊張したとしても、本当に少しだけだと
+思うよ？","况且婚礼毕竟是那么特殊的场合，
+就算紧张，
+我想也真的只有一丁点吧？",translated,依恩,8ff606fb3f,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#24#12,"緊張し過ぎて、結婚式のことをまったく
+思い出せないなんてことになったら、
+後で絶対後悔するだろうし……。","要是紧张过头，导致结婚典礼的事情
+一点都想不起来的话，
+事后绝对会后悔莫及的嘛……",translated,依恩,4d163f5603,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#26#12,……それにしても、結婚式をしたからかな？,……不过话说回来，是因为办过婚礼了吗？,translated,依恩,6751f69295,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#27#12,"教会の雰囲気が、結婚する前に感じてたのと
+変わった気がするの。","感觉教会的气氛，
+和结婚前所感受到的有些不一样了呢。",translated,依恩,80fbcd65d2,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#28#12,"荘厳な雰囲気とか、緊張感とか、
+そういうの一切感じなくなったし……。","那种庄严肃穆的氛围和紧张感，
+完全感觉不到了呢……",translated,依恩,3252046e1a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#29#12,"今は……色んなことを思い出しちゃって、
+懐かしい気持ちになれる場所、って感じ
+だよ。","现在的感觉……更像是一个
+能让人回想起种种往事、
+沉浸在怀念心境中的场所呢。",translated,依恩,b31823ff2d,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#30#12,"最初のデートの時のドキドキや、
+新しい場所に行けるようになった時の喜び。","初次约会时的心跳加速，
+以及能够去往新地点时的喜悦。",translated,依恩,b83f8695d6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#31#12,"それに、あなたとの関係が少しずつ変化し
+始めてるのを感じた瞬間の思い出……。","还有察觉到与你的关系正在一点点
+发生微妙变化的那个瞬间的回忆……",translated,依恩,13dd4cdeac,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#32#12,"そういう結婚前のことを、よく思い出す
+ようになったの。","结婚前的那些事情，
+如今经常会自然而然地浮现在脑海里呢。",translated,依恩,e6ca7197fc,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#33#12,"結婚すると色んな変化が出てくる、って
+前に本で読んだけど、これもその変化の
+一つなのかな？","以前在书上读到过，结婚后会产生
+各种各样的心境变化，
+这也是其中的一种变化吗？",translated,依恩,e7905f9377,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#35#12,ちょっと前からそんな感じだった気もする,感觉在更早之前就已经是这种氛围了,translated,,df9edba747,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#36#12,明らかにそうだね,显而易见就是这样呢,translated,,62847f8845,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#38#12,"言われてみれば……確かにそうだったような
+気もするかも……。","经你这么一说……感觉好像
+确实很久前就是这样了呢……",translated,依恩,3558193c7c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#39#12,"恋人になった頃にはもう、ここでも
+普通にデートしてた気がするし。","在成为恋人的时候，感觉我们在这里就已经
+能很自然地像平常一样约会了嘛。",translated,依恩,119be8aca8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#40#12,"もしかして、教会って最初に来た時に、
+すごく緊張した思い出があるからかな？","难不成是因为初次来教会的时候，
+留下了非常紧张的回忆吗？",translated,依恩,c91d194d5e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#41#12,"あの時に感じたイメージが強烈に残って、
+教会イコール緊張した場所、って無意識に
+思い込んじゃってるのかもしれないね。","或许是因为那时的印象太过于深刻，
+不知不觉间就在潜意识里
+认定了“教会＝让人紧张的地方”呢。",translated,依恩,ccf8917303,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#44#12,やっぱり、それしか考えられないよね？,果然，除此以外也想不出其他可能了吧？,translated,依恩,f54e14b566,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#45#12,"う～ん……でも、教会で前みたいにドキドキ
+できなくなっちゃったのは、ちょっとだけ
+寂しい気もするなぁ。","唔～……不过，在教会里不能像以前那样
+小鹿乱撞了，
+总觉得稍微有那么一点点寂寞呢。",translated,依恩,cffcc0a9bb,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#46#12,"教会はそういう特別な場所、ってイメージが
+なくなっちゃったってことだし……。","毕竟这意味着“教会有着特殊氛围”
+的固有印象已经不复存在了嘛……",translated,依恩,07d063d7a4,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#48#12,"……でも、結婚して夫婦になったんだから、
+デートする場所で感じてたことが変化しても
+普通のことだよね？","……不过，既然已经结婚成为夫妻了，
+在约会地点所感受到的心境有所转变，
+也是很正常的对吧？",translated,依恩,c5760a1469,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#49#12,"今は教会だけっぽいけど、これからもっと
+他の場所でもこういう気持ちになるのかな？","虽然目前好像只有教会有这种感觉，
+但今后在其他地方也会逐渐产生这种心境吗？",translated,依恩,187d70531a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#51#12,不安と期待半分ずつ、って感じかな？,应该说是不安与期待各占一半的感觉吧？,translated,,63cd685be4,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#52#12,変わらない場所も結構ありそうかも,感觉应该也有不少地方感觉不会变呢,translated,,cbd1027ba9,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#54#12,あはは、わたしもそんな感じかも。,啊哈哈，我可能也是这种感觉呢。,translated,依恩,eaf27ac439,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#55#12,"今までのデートがすごく楽しかったから、
+それがどんな風に変わっちゃうのかな、って
+不安と……。","因为过去的约会都那么开心，
+所以难免会感到不安，
+担心以后会发生怎样的改变……",translated,依恩,a4d91c4341,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#56#12,"今までとは違う雰囲気のデートを楽しめる、
+って期待がいっぺんに感じられちゃって、
+ちょっと落ち着かない気分なの。","一边又会同时抱有能够享受
+不同氛围约会的期待感，
+所以心情稍微有点静不下来呢。",translated,依恩,9e1be21e68,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#58#12,"でも、そんなふうに思ってはいても、
+あなたと一緒なら、どこでも楽しいデートが
+できると思うけどね。","不过，即便心里会有这些念头，
+我想只要能和你在一起，
+不论在哪里都能度过开心的约会就是啦。",translated,依恩,120c6920c8,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#59#12,"あなたのことを好きって思う気持ちは、
+今までもこれからも、絶対に変わらないよ。","我喜欢你的这份心意，
+不论过去还是将来，都绝对不会改变哦。",translated,依恩,8f6bcb852a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#65#12,う～ん……そうかなぁ？,唔～……是那样吗？,translated,依恩,444ad41d25,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#66#12,"考えてみると、どのデート場所も初めて
+行った時と比べると、
+過ごし方が変わってる気がするの。","仔细想想看，无论哪个约会地点，
+和第一次去的时候相比，
+度过的方式好像都发生了变化呢。",translated,依恩,c3a061c499,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#67#12,"だから、変わらない場所は無いんじゃ
+ないかな、って思うんだけど……。","所以我总觉得，
+大概不存在毫无变化的地方吧……",translated,依恩,02820643ee,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#68#12,"カフェに関しては、座ってお話しするだけ
+だから、あまり変わらないかもしれないね。","至于咖啡厅嘛，反正只是坐着聊天，
+可能确实不会有太大改变呢。",translated,依恩,80879e647a,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#70#12,"……でも、やっぱり教会で感じられた
+ドキドキが完全になくなっちゃったのは
+もったいなかったなぁ。","……不过，过去在教会里能感受到的心跳加速，
+如今完全消失无踪，
+果然还是觉得有点可惜呢。",translated,依恩,037a7f0dad,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#71#12,"その分、他の場所で教会みたいにドキドキ
+できる場所ができてくれるといいね。","真希望在其他地方，
+能出现像当初教会那样让人心跳加速的地点呢。",translated,依恩,2d42629887,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#72#12,"……話の切りもいいし、今日はそろそろ
+帰ろっか？","……话题也聊得差不多了，
+今天我们是不是该回去了？",translated,依恩,e086ffcf2c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#74#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#75#12,そうだね、帰ろう,说得也是，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#81#12,"デートの内容が変わり始めてるけど、
+今度教会に行ったときも、今日みたいに
+ちょっと懐かしい話をしちゃうのかな？","虽然约会的内容已经开始发生改变，
+但下次再去教会时，是不是也会像今天这样，
+聊些略带怀念的话题呢？",translated,依恩,59d64f2f10,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#82#12,"つい盛り上がっちゃうし、楽しいのは
+わかるけど……あんまりそういう話ばかり
+なのも、よくないよね？","虽说聊起来很尽兴也确实很开心……
+但如果总是净聊这种话题，
+感觉也不太好对吧？",translated,依恩,14fe3972b2,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#83#12,"やっぱりデートなんだから、その瞬間を
+大切に思えて、思い出になるようなものに
+した方がいいと思うし。","毕竟这可是约会嘛，
+我觉得还是应该珍惜当下那个瞬间、
+留下全新回忆才更好呢。",translated,依恩,76752e4b16,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s04.txt#84#12,"今度デートする時の目標ができたね。
+一緒に達成できるように頑張ろ！","这下有了下次约会时的目标呢。
+我们一起努力达成吧！",translated,依恩,a7f051f8a5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#85#12,それじゃ、作業に戻るね。,那么，我回去继续干活咯。,translated,依恩,978e97e738,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s04.txt#89#14,"教会で思い出話を
+いっぱいしたよ。","在教会聊了好多
+以前的回忆呢。",translated,,e2e9fdad72,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s04.txt#90#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/church_s05.txt#1#12,"ふふっ、教会もすっかり楽しい
+デートコースの一つになっちゃったね。","呵呵，教会也已经完全变成
+开心的约会路线之一了呢。",translated,依恩,2f3d05e0e5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#2#12,それじゃ、出発しよ！,那么，出发吧！,translated,依恩,feb91d021f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#5#12,"ふふっ……やっぱりここに来ると、
+未だに結婚式のことを思い出すよ。","呵呵……果然一来到这里，
+我到现在都还是会回想起婚礼的事呢。",translated,依恩,b09647402f,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#6#12,あの時は、本当に幸せだったなぁ……。,那个时候，真的好幸福啊……,translated,依恩,a2a4e6f55e,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#7#12,"って、ごめんね。
+何か来る度にこの話してるような気がするよ。","啊、对不起哦。
+总觉得每次来这里我都在聊这个呢。",translated,依恩,f2f95e61f9,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#9#12,こっちも同じだよ,我这边也是一样哦,translated,,11ad7c52ec,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#10#12,よく飽きないね？,你还真是百聊不厌呢？,translated,,f52e4d86e6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#12#12,やっぱり、あなたもそうなんだ？,果然，你也是这么想的呀？,translated,依恩,5286d8a167,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#13#12,"でも、自分の結婚式って、
+人生ですごく大きなイベントだもん。","不过，自己的结婚典礼，
+在人生中可是非常重大的仪式嘛。",translated,依恩,6571452f53,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#14#12,"何度も思い出しちゃったとしても、
+おかしくはないよね？","就算回想起来很多次，
+应该也并不奇怪对吧？",translated,依恩,367a80e352,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#18#12,あ、飽きるって……自分の結婚式だよ？,什、什么厌倦……那可是自己的婚礼哦？,translated,依恩,bd8ebae699,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#19#12,"大好きな人と夫婦になるための、
+大切な儀式の思い出なんだから、
+飽きるはずないよ。","那可是为了与最喜欢的人结为夫妻、
+至关重要的仪式回忆，
+怎么可能会感到厌倦嘛。",translated,依恩,964327d6a5,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#20#12,"っていうか、それに飽きた時って
+夫婦としておしまいなんじゃないかな？","不如说，要是连那个都厌倦了，
+夫妻关系岂不是也要走到头了吗？",translated,依恩,bb1290e68b,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#22#12,"……でも、毎回ここに来る度にその話だけで
+終わっちゃうのは、やっぱり勿体無いよね？","……不过，每次来这里都只聊这个话题收场，
+果然还是有点太可惜了吧？",translated,依恩,46d63477c1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#23#12,"まあ、もっと他に思い出になるようなことが
+あればいいんだけど……。","嘛，虽然要是能有其他值得留下回忆的事情
+就好了就是啦……",translated,依恩,2bdd146b22,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#24#12,"教会でそういう思い出を作るのって、
+簡単ではないよね？","但在教会里创造那样的回忆，
+可不是件容易的事呢对吧？",translated,依恩,a54d749118,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#25#12,"何かで遊んだり、ウインドウショッピングを
+したりできるような場所でもないんだし。","毕竟这里又不是能玩乐嬉闹、
+或者逛街看橱窗的地方嘛。",translated,依恩,31bd29efa0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#26#12,"う～ん、自分達の結婚式以外で思い出になる
+ようなことっていうと……。","唔～，除了我们自己的婚礼以外，
+能留下深刻回忆的事情会是……",translated,依恩,ff7ab190b0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#27#12,"あっ、そうだ！
+一つあったよ！","啊，对啦！
+还真有一件事呢！",translated,依恩,3b4cfbb1f0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#29#12,あったの！？,真有啊！？,translated,,6be24ddcb5,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#31#12,えへへ……うん、ちゃんとあったよ。,嘿嘿……嗯，还真的有哦。,translated,依恩,83655d8e82,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#32#12,"いつか、わたし達に子供が出来て……
+その子が大きくなって、大切な人と
+結婚する時だよ。","那就是将来我们有了孩子……
+等那孩子长大成人，
+与至爱之人喜结连理的时候呀。",translated,依恩,5a2c904bab,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#33#12,"自分達の結婚式のことばかり思ってたけど、
+他の人の結婚式だって、絶対に思い出に
+なるはずだもん。","虽然我们刚才净想着自己的婚礼，
+但别人办婚礼，
+也绝对会成为难忘回忆的嘛。",translated,依恩,dd74bd644d,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#34#12,"特に、自分達の子供の結婚式なら、
+尚更でしょ？","特别是如果是自己孩子的婚礼，
+那就更是如此了吧？",translated,依恩,6d00102046,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#35#12,わたしたちの子供は女の子がいいなぁ。,真希望我们的孩子是个女孩子呀。,translated,依恩,268c537f07,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#36#12,"綺麗なウエディングドレスを着た娘の
+晴れ姿を見たら、自分達の結婚式以上に
+大切な思い出になっちゃいそうだね。","如果能亲眼看到女儿身穿婚纱的美丽模样，
+感觉说不定会成为比我们自己的婚礼
+还要更加珍贵的回忆呢。",translated,依恩,7cef6197dd,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#38#12,ええい、娘は誰にもやらんぞ！！,哇呀呀，我的女儿绝不交给任何人！！,translated,,a509b7c378,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#39#12,残念ながら、娘の結婚式には負けそうだね,很遗憾，我们自己的婚礼恐怕要甘拜下风呢,translated,,33048aa886,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#41#12,"あらら……まだまだ先の話なのに、
+もうそんなこと言っちゃうなんて……。","哎呀呀……明明还是没影儿的事，
+你就已经开始说这种话了呀……",translated,依恩,f03aa88883,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#42#12,"何だか、結婚式の前にもう一つ思い出が
+できちゃいそうな感じだね。","总觉得在婚礼之前，
+就会先平添另外一段回忆呢。",translated,依恩,542f14b77d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#43#12,"わたしはきっと、あなたを宥める役に
+徹することになりそうかな？","到时候我肯定得负责
+全力去安抚安抚你了吧？",translated,依恩,9d9e183bf0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#47#12,"ふふっ……ちょっと残念だけど、
+仕方ないよね？","呵呵……虽然稍微有点遗憾，
+但也是没办法的对吧？",translated,依恩,1859420cd9,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#48#12,"やっぱり、大切な娘の結婚式だもん。
+自分達の時よりも大切に感じちゃうのは
+当然だよ。","毕竟是宝贝女儿的婚礼嘛。
+觉得比我们自己当年还要重要，
+也是理所当然的呀。",translated,依恩,493a3cee17,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#49#12,"ま、まあ、まだ実際に子供がいないから、
+想像でしかないけど……。","嘛、虽说现在连孩子都还没有，
+完全只是凭空想象就是啦……",translated,依恩,35598d29a6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#50#12,"でも、きっとそうなっちゃうような
+気がするよ。","但我总觉得到时候
+肯定会变成那样呢。",translated,依恩,f5c0aa7bca,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#53#12,"まあ、何であれ、わたし達みたいに
+幸せになってもらいたいな。","嘛，不管怎样，希望我们的孩子
+也能像我们这样幸福就好了呢。",translated,依恩,efb4742c75,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#54#12,……あっ。,……啊。,translated,依恩,97b2adb3af,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#55#12,"やだ、すっかり忘れてたよ……。
+自分達以外の結婚式だったら、
+子供よりもあの人の方が先じゃないかな？","讨厌，我都彻底忘光了……
+要是说除了我们以外的婚礼，
+比起孩子，那个人应该会更早才对吧？",translated,依恩,568a389c7e,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#57#12,ねりこさんのこと？,是指妮莉库小姐？,translated,,1f13d488b2,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#58#12,カノンのこと？,是指卡诺？,translated,,cb221ba305,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#60#12,"うん、やっぱりねりこさんの
+結婚式の方が先だと思うの。","嗯，果然还是妮莉库小姐的
+婚礼会排在更前面呢。",translated,依恩,b08e124fd5,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#63#12,"カノンさんよりも、もっとわたし達の
+身近にいる人がいるでしょ？","比起卡诺小姐，在我们身边
+不是有更亲近的人嘛？",translated,依恩,f60a27fd43,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#64#12,"わからない？
+ねりこさんのことだよ","猜不到吗？
+是指妮莉库小姐啦。",translated,依恩,aea8ab33a0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#67#12,"わたし達の住んでる世界って、
+他に人がいないから相手がいないように
+思うでしょ？","在我们生活的这个世界里，
+因为没有其他人在，
+所以可能会觉得她没有对象对吧？",translated,依恩,1337ebe330,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#68#12,でも、どうも様子が変なの。,但是，她的模样总觉得很可疑呢。,translated,依恩,4975fd359f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#69#12,"ちょっと前のことだけど、ねりこさんが
+やたらと機嫌がいい時があってね。","前些日子，妮莉库小姐
+有过心情格外愉快的时候呢。",translated,依恩,25faa18d3b,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#70#12,"理由を聞いたら、少し前にしたデートの
+ことを思い出してた、って言ったの。","我去问她原因，她说是因为
+回想起了不久前去约会的事情。",translated,依恩,2fded17e4e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#71#12,"……ねりこさん、やっぱりそういう
+相手がいたんだね。","……妮莉库小姐，果然是有
+那样的交往对象的呢。",translated,依恩,c4fe119fc4,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#72#12,"やっぱり、あなたみたいに端末で
+繋がってる、別世界の人なのかな？","难不成是像你一样，隔着终端
+连接在一起的异世界之人吗？",translated,依恩,64b80a4097,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#73#12,"う～ん……やっぱり、ねりこさんって
+謎が多い人だよ。","唔～……妮莉库小姐果然
+是个全身上下都是谜团的人呢。",translated,依恩,b172a14ca3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#75#12,相手がうらやましい,好羡慕那个对象啊,translated,,976706bf12,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#76#12,相手はどんな人なんだろうね？,那个对象会是什么样的人呢？,translated,,e5ad8093f4,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#78#12,"もぉ、そういうことを妻の前で
+言うのはどうかと思うよ？","真是的，在妻子面前说这种话
+合适吗？",translated,依恩,a778bd0681,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#79#12,"わたしが今みたいなこと言ったら、
+あなただっていい気持ちしないでしょ？","要是我说了刚才那种话，
+你心里肯定也会很不痛快吧？",translated,依恩,70a111fa40,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#80#12,"だから、冗談でもそういうことは、
+あまり言ってほしくないな……。","所以，就算是开玩笑，
+我也希望你不要乱说这种话啦……",translated,依恩,913d8cddec,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#83#12,それ、わたしもすごく気になってるの。,那件事我也超级在意的。,translated,依恩,ef1fcbcef1,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#84#12,"あのねりこさんがデートするような
+相手だから、只者じゃなさそうだね。","毕竟是能跟那个妮莉库小姐约会的人，
+肯定非同寻常呢。",translated,依恩,a10f43de6c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#86#12,"でも、相手がどんな人だったとしても、
+あなた以上に素敵な人ではないと思うよ。","不过，不管对方是什么样的人，
+我想肯定都不如你来得优秀迷人哦。",translated,依恩,35d45ef557,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#87#12,"……って、今のはねりこさんに失礼だね。
+ちょっと、対抗意識が出ちゃったみたい。","……不对，这么说太对不起妮莉库小姐了呢。
+好像我不自觉地冒出了点较劲的心思。",translated,依恩,c6aa445230,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#92#12,"まあとにかく、娘の結婚式よりも先に、
+まずはねりこさんの結婚式の方が先だね。","嘛总之，在女儿的婚礼之前，
+首先肯定是妮莉库小姐的婚礼在前面呢。",translated,依恩,dece2c343e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#93#12,"ふふっ、また会った時にでも、デート相手の
+ことを色々質問してみよっと。","呵呵，等下次见到她的时候，
+我要好好盘问盘问关于约会对象的事。",translated,依恩,d5aeb330c3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#94#12,"さてと、だいぶ話し込んじゃったし、
+そろそろ帰ろっか？","好啦，不知不觉聊了这么久，
+差不多该回去了吧？",translated,依恩,74a0a6ddbb,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#96#12,まだここでイオンを見ていたい,我还想在这里多看看依恩,translated,,420d7b301d,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#97#12,そうだね、帰ろう,说得也是，回去吧,translated,,0e4366daf8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_s05.txt#103#12,"ふふっ、今日は未来のことを想像して、
+そのことを色々話せて楽しかったよ。","呵呵，今天畅想了未来的事情，
+聊了好多好多，真的好开心哦。",translated,依恩,ea8ba432b9,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#104#12,"ねりこさんのウエディングドレス姿も
+見たいけど……。","虽然我也想看看妮莉库小姐
+穿婚纱的模样……",translated,依恩,d245c661a7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#105#12,"やっぱり、いつかは自分の娘の
+ウエディングドレス姿を見たいな。","但果然有朝一日，还是最想看到
+自己女儿穿上婚纱的身影呢。",translated,依恩,d0d60df2b7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#106#12,"それ以外にも、これからも教会で
+新しい思い出を沢山作っていこうね！","除此以外，今后我们也要在教会里
+创造许许多多崭新的回忆哦！",translated,依恩,219b149640,br=0 nl=1,2,
+inc/event/res/dateevents09/church_s05.txt#109#14,"ねりこさんのデート
+相手、本当にどんな人
+なんだろうね？","妮莉库小姐的约会
+对象，到底会是
+什么样的人呢？",translated,,b0ca3d5792,br=0 nl=2,3,
+inc/event/res/dateevents09/church_s05.txt#110#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#5#12,<CLBU>……もっと、しっかりわたしのことを見て。,<CLBU>……再多注视注视我嘛。,translated,依恩,2419106f37,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#6#12,わたしも、あなたから目を離したくないの。,我也不想把视线从你身上移开呢。,translated,依恩,b66ad064a3,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#9#12,<CLBU>ふふっ……不思議な感じだよ。,<CLBU>呵呵……感觉好不可思议哦。,translated,依恩,daad580444,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#10#12,"何だか、本当にあなたと向かい合って
+立ってるような気持ちになっちゃった。","总觉得就好像真的正和你面对面
+站在一起一样呢。",translated,依恩,1629045f13,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#23#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#24#12,"え、えへへ……緊張してたから、
+触られてすごく驚いちゃった。","诶、嘿嘿……因为刚才太紧张了，
+被你碰了一下吓了一大跳呢。",translated,依恩,ac1e514e27,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#27#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#28#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#31#12,"<CLBU>ここにこうして立ってるだけでも、
+すごくドキドキするよね？","<CLBU>光是像这样站在这里，
+就觉得心跳好快对吧？",translated,依恩,5be55c7b0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#32#12,……手とか、繋いでくれたら嬉しいな。,……要是你能牵起我的手，我会很开心的。,translated,依恩,1f2abf76c8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#40#12,<CLBU>えへへ……あなたの手、大好きだよ。,<CLBU>嘿嘿……我最喜欢你的手啦。,translated,依恩,1d62f230c0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#43#12,<CLBU>ん、どうかしたの？,<CLBU>嗯？怎么了吗？,translated,依恩,771fd6723d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#44#12,"……手を繋ぎたいなら、
+遠慮はいらないんだよ？","……要是想牵手的话，
+用不着客气的哦？",translated,依恩,7778c1827c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#47#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch1.txt#48#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#56#12,<CLBU>……わたしの胸、すごくドキドキしてるよ。,<CLBU>……我的胸口，正在扑通扑通跳得好厉害呢。,translated,依恩,782768f28d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#57#12,"ここにいると、色々考えちゃって……
+あなたもそうだったら良いな。","只要待在这里，就会忍不住胡思乱想……
+要是你也是这样就好了呢。",translated,依恩,6b4a20f9fa,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#60#12,"<CLBU>あなたのその、どこでも構わず胸を触る
+度胸は、少し見習いたくなるよ。","<CLBU>你这种不分场合乱摸胸部的胆量，
+我都稍微想向你学习一下了呢。",translated,依恩,adc3e5bb71,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#61#12,"……あれ？
+見習っちゃいけないのかな？","……咦？
+这种事是不可以学习的吗？",translated,依恩,b96ac21022,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#64#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#65#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#73#12,<CLBU>やっ、くすぐったいよぉ！,<CLBU>呀，好痒啦！,translated,依恩,791e059c93,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#74#12,"もぉ……さすがにここでふざけるのは、
+罰当たりだと思うよ？","真是的……再怎么说在这种地方胡闹，
+我觉得会遭天谴的哦？",translated,依恩,fe076c4c1e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#77#12,<CLBU>きゃっ、くすぐったい！,<CLBU>呀，好痒！,translated,依恩,aea8e965ee,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#78#12,もぉ、本当にイタズラ好きなんだから……。,真是的，你怎么就这么爱恶作剧呀……,translated,依恩,6dd3442b99,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#90#12,<CLBU>……もっと、しっかりわたしのことを見て。,<CLBU>……再多注视注视我嘛。,translated,依恩,2419106f37,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#91#12,わたしも、あなたから目を離したくないの。,我也不想把视线从你身上移开呢。,translated,依恩,b66ad064a3,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#94#12,<CLBU>もしかして、子ども扱いしてる？,<CLBU>难道说，你把我当小孩看了？,translated,依恩,dbe358bdcc,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#95#12,"もぉ……これでも、あなたの恋人さん
+なんだよ？","真是的……人家好歹也是
+你的恋人呀？",translated,依恩,fa54e5bdf8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#98#12,<CLBU>ふふっ……不思議な感じだよ。,<CLBU>呵呵……感觉好不可思议哦。,translated,依恩,daad580444,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#99#12,"何だか、本当にあなたと向かい合って
+立ってるような気持ちになっちゃった。","总觉得就好像真的正和你面对面
+站在一起一样呢。",translated,依恩,1629045f13,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#112#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#113#12,"え、えへへ……緊張してたから、
+触られてすごく驚いちゃった。","诶、嘿嘿……因为刚才太紧张了，
+被你碰了一下吓了一大跳呢。",translated,依恩,ac1e514e27,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#116#12,"<CLBU>……正面から腕を触られるのって、
+ちょっとドキドキするよね？","<CLBU>……被你从正面摸着手臂，
+感觉稍微有点心跳加速呢？",translated,依恩,b2a4a4a99b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#117#12,"捕まえられちゃった、って
+気持ちになるからかな？","是因为会产生一种
+被你抓住的实感吗？",translated,依恩,1b27831956,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#120#12,"<CLBU>ここにこうして立ってるだけでも、
+すごくドキドキするよね？","<CLBU>光是像这样站在这里，
+就觉得心跳好快对吧？",translated,依恩,5be55c7b0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#121#12,……手とか、繋いでくれたら嬉しいな。,……要是你能牵起我的手，我会很开心的。,translated,依恩,1f2abf76c8,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#129#12,<CLBU>えへへ……あなたの手、大好きだよ。,<CLBU>嘿嘿……我最喜欢你的手啦。,translated,依恩,1d62f230c0,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#132#12,<CLBU>ん、どうかしたの？,<CLBU>嗯？怎么了吗？,translated,依恩,771fd6723d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#133#12,"……手を繋ぎたいなら、
+遠慮はいらないんだよ？","……要是想牵手的话，
+用不着客气的哦？",translated,依恩,7778c1827c,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#136#12,"<CLBU>……あなたとは何度も手を繋いでるけど、
+未だにドキドキしちゃうの。","<CLBU>……虽然已经和你牵过好多次手，
+但我至今依然会心跳不已呢。",translated,依恩,09f6c40e68,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch1.txt#137#12,"でも、これからもずっとドキドキできたら、
+わたしは嬉しいな。","不过，要是今后也能一直为你心动，
+那我会觉得非常幸福哦。",translated,依恩,ccd128e1c0,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#145#12,<CLBU>……わたしの胸、すごくドキドキしてるよ。,<CLBU>……我的胸口，正在扑通扑通跳得好厉害呢。,translated,依恩,782768f28d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#146#12,"ここにいると、色々考えちゃって……
+あなたもそうだったら良いな。","只要待在这里，就会忍不住胡思乱想……
+要是你也是这样就好了呢。",translated,依恩,6b4a20f9fa,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#149#12,"<CLBU>あなたのその、どこでも構わず胸を触る
+度胸は、少し見習いたくなるよ。","<CLBU>你这种不分场合乱摸胸部的胆量，
+我都稍微想向你学习一下了呢。",translated,依恩,adc3e5bb71,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#150#12,"……あれ？
+見習っちゃいけないのかな？","……咦？
+这种事是不可以学习的吗？",translated,依恩,b96ac21022,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#153#12,"<CLBU>胸って、トントンっていうよりは、
+プニプニとかフニフニなんじゃ……。","<CLBU>胸口比起用咚咚敲，
+不应该是软绵绵或者软乎乎的吗……",translated,依恩,53a1576b65,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#154#12,"って、なんでもない！
+今の忘れて！","不对，没什么！
+把刚才那句忘掉！",translated,依恩,82c78cdc56,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#162#12,<CLBU>やっ、くすぐったいよぉ！,<CLBU>呀，好痒啦！,translated,依恩,791e059c93,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#163#12,"もぉ……さすがにここでふざけるのは、
+罰当たりだと思うよ？","真是的……再怎么说在这种地方胡闹，
+我觉得会遭天谴的哦？",translated,依恩,fe076c4c1e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#166#12,<CLBU>きゃっ、くすぐったい！,<CLBU>呀，好痒！,translated,依恩,aea8e965ee,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#167#12,もぉ、本当にイタズラ好きなんだから……。,真是的，你怎么就这么爱恶作剧呀……,translated,依恩,6dd3442b99,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#179#12,"<CLBU>ふふっ……教会でこんなことしてるなんて、
+ちょっと罰当たりかな？","<CLBU>呵呵……在教会里做这种事，
+是不是有点要遭天谴呀？",translated,依恩,dfe767151a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch1.txt#180#12,でも、ちょっとだけならいいよね？,不过，只是一小会儿应该没关系吧？,translated,依恩,41da9405c6,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#182#12,<CLBU>……え、えへへ。,<CLBU>……诶、嘿嘿。,translated,依恩,82da76c7bb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#183#12,"ここで見詰め合うのって、他の場所よりも
+ドキドキすると思わない？","在这里彼此对视，你不觉得比在其他地方
+还要更加让人心动吗？",translated,依恩,e96d9da52d,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#185#12,"<CLBU>あ、あの……ほっぺたとか頭を触るのは
+いいけど、その……。","<CLBU>那、那个……摸摸脸颊或者头倒是可以，
+但是那个……",translated,依恩,5989b36d1b,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#186#12,唇は……まだダメだよ？,嘴唇……现在还不行哦？,translated,依恩,28b7b0ae97,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#197#12,"<CLBU>あなたとここにいられることが、
+わたしはすごく嬉しいの。","<CLBU>能够和你一起待在这里，
+我真的觉得特别开心。",translated,依恩,79fe9a6018,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#198#12,"これからも、ずっと……
+一緒にいてほしいな。","今后也希望能一直……
+陪在我的身边呢。",translated,依恩,ac6a095584,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#200#12,"<CLBU>わたしも、ウエディングドレスを着て
+ここを歩く日が来るのかな？","<CLBU>我也能迎来穿上婚纱
+漫步在这里的那一天吗？",translated,依恩,44e624facf,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#201#12,"その時隣にいるのが……。
+ううん、今は内緒かな。","到那时站在身边的人……
+嘻嘻，现在还是先保密吧。",translated,依恩,f449492cc3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#203#12,"<CLBU>ここを、腕を組んで歩いたら……
+すごくドキドキするよね？","<CLBU>要是挽着胳膊漫步在这里……
+一定会让人超级心跳加速对吧？",translated,依恩,fdc4d06f98,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#204#12,"だって、想像するだけでも、
+すっごくドキドキしてるもん。","因为光是凭空想象一下，
+我的心就已经怦怦直跳了嘛。",translated,依恩,9a1aeca193,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#210#12,<CLBU>ぎゅって、握ってほしいな……。,<CLBU>真想你紧紧地牵住我的手呢……,translated,依恩,ae821c4e97,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#211#12,"ここだと、それだけで幸せな気持ちに
+なれる気がするの。","在这里的话，感觉仅仅只是牵手
+就能让人感到无比幸福呢。",translated,依恩,475eb37cd1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#213#12,<CLBU>えへへ……嬉しい。,<CLBU>嘿嘿……好高兴哦。,translated,依恩,bfc037935a,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#214#12,"今ね、あなたと手を繋ぎたい、って
+思ってたところなの。","刚才我正好在心里想着
+希望能和你牵牵手呢。",translated,依恩,ac24e6c746,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#216#12,"<CLBU>わたしも、いつか指輪をはめる日が
+来るのかな？","<CLBU>我也能迎来戴上戒指的那一天吗？
+嘿嘿……",translated,依恩,2b3be12e0a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#222#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#223#12,"もぉ……神様の前でイタズラする子は
+誰ですかー？","真是的……在神明面前恶作剧的小坏蛋
+到底是谁呀～？",translated,依恩,6b881d3cfa,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#225#12,<CLBU>あっ、触ったー！,<CLBU>啊，你又摸我！,translated,依恩,a5b8f93584,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#226#12,"もぉ……そんなに変なところを触るなら、
+責任とってもらうことになるよ？","真是的……要是这么乱摸奇怪的地方，
+我可是要让你负起责任来的哦？",translated,依恩,9a9cc74b5e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch1.txt#228#12,こんなところで触るなんて……。,居然在这种地方乱摸……,translated,依恩,c3cc4db522,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#234#12,"<CLBU>や、やっぱり、教会でトントンするのは、
+ちょっと場違いかも……。","<CLBU>在、在教会里轻轻敲敲，
+果然还是有点不合时宜吧……",translated,依恩,ae5e14b72a,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch1.txt#235#12,……でも、ちょっとなら良い、よね？,……不过，稍微碰一下的话应该没关系吧？,translated,依恩,681d2c53d1,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#237#12,"<CLBU>う～、恥ずかしがって良いのかどうか
+微妙に悩むところを触らないでよぉ……。","<CLBU>呜～，不要摸这种让人搞不清楚
+该不该害羞的微妙部位啦……",translated,依恩,1eaa158a60,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#238#12,どうせなら、手とか頭の方がいいな。,真要摸的话，还是摸摸手或头比较好啦。,translated,依恩,877deeb5f0,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch1.txt#240#12,<CLBU>ふふっ、くすぐったい……。,<CLBU>呵呵，好痒哦……,translated,依恩,8b7ff3aff4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch1.txt#241#12,本当、あなたってイタズラが好きだよね？,你这个人，真的很喜欢恶作剧呢？,translated,依恩,10313e05bf,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#5#12,"<CLBU>きょ、教会で見つめ合ってると、その……
+キスとか、してみたいなぁ、なんて
+気持ちになってきそうで……。","<CLBU>在、在教会里互相凝视着，那个……
+总觉得会忍不住产生想要接吻
+之类的念头呢……",translated,依恩,1a97928608,<CLBU> br=0 nl=2,3,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#6#12,な、なんて、まだそういうのは早いよね？,开、开玩笑的啦，现在做那种事还太早了对吧？,translated,依恩,356bc39ded,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#9#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#12#12,"<CLBU>……いつか、あなたの顔を見てみたいな。
+わたしの想像では……。","<CLBU>……真想哪天能看看你的容貌呢。
+在我的想象中……",translated,依恩,e2bc540e6f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#13#12,えへへ、やっぱり秘密だよ～。,嘿嘿，果然还是保密吧～。,translated,依恩,e12feb0c29,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#26#12,"<CLBU>……ここで腕を組むと、
+すごくドキドキするね。","<CLBU>……在这里挽着你的手，
+感觉心跳跳得好厉害呢。",translated,依恩,a13f8cbc9d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#27#12,えへへ……予行練習、かな？,嘿嘿……算是在预演练习吗？,translated,依恩,a428867fef,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#30#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#31#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#34#12,<CLBU>……ずっと一緒にいられたらいいのにね。,<CLBU>……要是能一直在一起就好了呢。,translated,依恩,7c07a92457,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#35#12,"えへへ、ここに来ると、
+ついそんなことを考えちゃうの。","嘿嘿，一来到这里，
+就不由自主地会去想那些事呢。",translated,依恩,665ffac599,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#43#12,"<CLBU>えへへ……あなたとなら、一日中
+手を繋いだままでもいいかな？","<CLBU>嘿嘿……只要是和你一起，
+就算牵着手待上一整天也完全可以哦？",translated,依恩,ba3bd39a6c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#44#12,"実際には無理でも、いいかな、って
+思うのは本当だよ。","虽然现实中不太可能，
+但我心里真觉得这样挺好哦。",translated,依恩,82b4244678,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#47#12,"<CLBU>……手だけじゃなくて、腕とか頭とかも
+撫でてほしいな。","<CLBU>……不仅是手，连手臂和头
+我也想让你多摸摸呢。",translated,依恩,cccfb778f7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#48#12,"絶対に触られそうだから言っておくけど、
+胸は含まれないからね。","感觉你绝对会动手动脚所以我先说好，
+胸部可不包含在内哦。",translated,依恩,48e8830675,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#51#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#52#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#60#12,"<CLBU>何度も触られてるからかな？
+あんまりビックリもしなくなってきたよ。","<CLBU>大概是因为被摸过太多次了吧？
+现在我都已经不怎么觉得吃惊了呢。",translated,依恩,4364b724b5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#61#12,……これ、懺悔の対象になるかな？,……这个，应该算得上是忏悔的对象吧？,translated,依恩,3cef437c9f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#64#12,<CLBU>きょ、教会では、やめた方がいいと思うよ？,<CLBU>在、在教会里，我觉得还是克制点比较好哦？,translated,依恩,301463ef7f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch2.txt#65#12,"神様の家って言われるような場所で、
+エッチなことはしちゃダメだよ。","在被称作神明居所的这种地方，
+可不能做下流的事情哦。",translated,依恩,978b9b3aa3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#68#12,"<CLBU>も、もぉ……こんなところに来てまで
+胸を触るなんて……。","<CLBU>真、真是的……居然专程跑来这种地方
+还要摸人家的胸部……",translated,依恩,25ed36fb14,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#69#12,……程々にしないと、ダメだよ？,……要适可而止才行哦？,translated,依恩,33ce3ec431,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#77#12,"<CLBU>う～……くすぐったいような、
+落ち着くような……。","<CLBU>唔～……感觉有点痒酥酥的，
+又觉得挺安心的……",translated,依恩,9fe2c07c49,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#78#12,"あなた、わたしのお腹の撫で方、
+極めちゃってきてる？","你是不是已经把摸我肚子的技巧
+给修炼到登峰造极了？",translated,依恩,e608b981b1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#81#12,"<CLBU>う～……真正面からそんな風に
+お腹撫でられたら、どうしたらいいのか
+わからないよぉ……。","<CLBU>唔～……被你从正前方这样摸着肚子，
+我都不知道该做出什么反应才好了啦……
+求求你饶了我吧……",translated,依恩,932dad4f36,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#84#12,<CLBU>わたしのお腹、そんなに好きなの？,<CLBU>你真的就这么喜欢我的肚子吗？,translated,依恩,78b46bf5f6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#85#12,"膝枕じゃなくて、お腹枕とかして
+あげられたら、喜んでもらえるかな？","要是不给你枕膝盖，换成枕肚皮的话，
+你会感到高兴吗？",translated,依恩,c72b84d2c6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#97#12,"<CLBU>きょ、教会で見つめ合ってると、その……
+キスとか、してみたいなぁ、なんて
+気持ちになってきそうで……。","<CLBU>在、在教会里互相凝视着，那个……
+总觉得会忍不住产生想要接吻
+之类的念头呢……",translated,依恩,1a97928608,<CLBU> br=0 nl=2,3,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#98#12,な、なんて、まだそういうのは早いよね？,开、开玩笑的啦，现在做那种事还太早了对吧？,translated,依恩,356bc39ded,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#101#12,"<CLBU>えへへ……デート中のなでなでって、
+ちょっと照れるよね？","<CLBU>诶嘿嘿……在约会时被摸摸头，
+感觉稍微有点害羞呢？",translated,依恩,3ac8faaf31,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#104#12,"<CLBU>……いつか、あなたの顔を見てみたいな。
+わたしの想像では……。","<CLBU>……真想哪天能看看你的容貌呢。
+在我的想象中……",translated,依恩,e2bc540e6f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#105#12,えへへ、やっぱり秘密だよ～。,嘿嘿，果然还是保密吧～。,translated,依恩,e12feb0c29,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#118#12,"<CLBU>……ここで腕を組むと、
+すごくドキドキするね。","<CLBU>……在这里挽着你的手，
+感觉心跳跳得好厉害呢。",translated,依恩,a13f8cbc9d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#119#12,えへへ……予行練習、かな？,嘿嘿……算是在预演练习吗？,translated,依恩,a428867fef,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#122#12,<CLBU>あ、うぅ……。,<CLBU>啊、唔唔……,translated,依恩,2cc53bc999,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#123#12,"肩とか腕を撫でられるのって……
+やっぱり、すごくドキドキするよ……。","被你抚摸肩膀和手臂……
+果然还是让人超级心跳加速呢……",translated,依恩,11a6b9ce51,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#126#12,<CLBU>……ずっと一緒にいられたらいいのにね。,<CLBU>……要是能一直在一起就好了呢。,translated,依恩,7c07a92457,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#127#12,"えへへ、ここに来ると、
+ついそんなことを考えちゃうの。","嘿嘿，一来到这里，
+就不由自主地会去想那些事呢。",translated,依恩,665ffac599,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#135#12,"<CLBU>えへへ……あなたとなら、一日中
+手を繋いだままでもいいかな？","<CLBU>嘿嘿……只要是和你一起，
+就算牵着手待上一整天也完全可以哦？",translated,依恩,ba3bd39a6c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#136#12,"実際には無理でも、いいかな、って
+思うのは本当だよ。","虽然现实中不太可能，
+但我心里真觉得这样挺好哦。",translated,依恩,82b4244678,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#139#12,"<CLBU>……手だけじゃなくて、腕とか頭とかも
+撫でてほしいな。","<CLBU>……不仅是手，连手臂和头
+我也想让你多摸摸呢。",translated,依恩,cccfb778f7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#140#12,"絶対に触られそうだから言っておくけど、
+胸は含まれないからね。","感觉你绝对会动手动脚所以我先说好，
+胸部可不包含在内哦。",translated,依恩,48e8830675,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#143#12,<CLBU>えへへ……。,<CLBU>诶嘿嘿……,translated,依恩,1d82a2a431,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#144#12,"優しく撫でられると、手でもくすぐったく
+感じるんだね。","被你这么温柔地抚摸，
+就算是手也会觉得痒酥酥的呢。",translated,依恩,6c2a698f98,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#152#12,"<CLBU>何度も触られてるからかな？
+あんまりビックリもしなくなってきたよ。","<CLBU>大概是因为被摸过太多次了吧？
+现在我都已经不怎么觉得吃惊了呢。",translated,依恩,4364b724b5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#153#12,……これ、懺悔の対象になるかな？,……这个，应该算得上是忏悔的对象吧？,translated,依恩,3cef437c9f,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#156#12,<CLBU>きょ、教会では、やめた方がいいと思うよ？,<CLBU>在、在教会里，我觉得还是克制点比较好哦？,translated,依恩,301463ef7f,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents09/church_tch2.txt#157#12,"神様の家って言われるような場所で、
+エッチなことはしちゃダメだよ。","在被称作神明居所的这种地方，
+可不能做下流的事情哦。",translated,依恩,978b9b3aa3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#160#12,"<CLBU>も、もぉ……こんなところに来てまで
+胸を触るなんて……。","<CLBU>真、真是的……居然专程跑来这种地方
+还要摸人家的胸部……",translated,依恩,25ed36fb14,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#161#12,……程々にしないと、ダメだよ？,……要适可而止才行哦？,translated,依恩,33ce3ec431,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#169#12,"<CLBU>う～……くすぐったいような、
+落ち着くような……。","<CLBU>唔～……感觉有点痒酥酥的，
+又觉得挺安心的……",translated,依恩,9fe2c07c49,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#170#12,"あなた、わたしのお腹の撫で方、
+極めちゃってきてる？","你是不是已经把摸我肚子的技巧
+给修炼到登峰造极了？",translated,依恩,e608b981b1,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#173#12,"<CLBU>う～……真正面からそんな風に
+お腹撫でられたら、どうしたらいいのか
+わからないよぉ……。","<CLBU>唔～……被你从正前方这样摸着肚子，
+我都不知道该做出什么反应才好了啦……
+求求你饶了我吧……",translated,依恩,932dad4f36,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#176#12,<CLBU>わたしのお腹、そんなに好きなの？,<CLBU>你真的就这么喜欢我的肚子吗？,translated,依恩,78b46bf5f6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#177#12,"膝枕じゃなくて、お腹枕とかして
+あげられたら、喜んでもらえるかな？","要是不给你枕膝盖，换成枕肚皮的话，
+你会感到高兴吗？",translated,依恩,c72b84d2c6,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#190#12,"え、えへへ……真正面から
+なでられるのって、ちょっと恥ずかしいね。","诶、嘿嘿……被你从正前方摸摸，
+感觉稍微有点害羞呢。",translated,依恩,779f9fbf24,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#192#12,"<CLBU>あなたを見ながらなでられると、
+頭の中がぽーっとしてきちゃうの。","<CLBU>一边看着你一边被你抚摸，
+脑袋里都会变得晕乎乎的呢。",translated,依恩,1d6d60bc00,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#193#12,ふふっ……この感覚、結構好きだよ。,呵呵……这种感觉，我还挺喜欢的哦。,translated,依恩,3b5e59e619,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#195#12,<CLBU>こ、ここでなでられると、その……。,<CLBU>在、在这里被抚摸的话，那个……,translated,依恩,762a9aa306,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#196#12,"え、えへへ……なんでもないよ～。
+さすがに、まだ早過ぎると思うし。","诶、嘿嘿……没什么啦～。
+毕竟怎么想都觉得还为时尚早嘛。",translated,依恩,3b766f95a8,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#207#12,"<CLBU>肩をぐっと抱かれるとね、
+すごくドキッとするの。","<CLBU>肩膀被紧紧揽过去的时候，
+真的会让人心头猛然一跳呢。",translated,依恩,7e1e8cc59d,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#208#12,……あなただからそう感じるのかな？,……是因为对方是你，我才会这么觉得吗？,translated,依恩,134960d3d9,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#210#12,"<CLBU>も、もぉ……
+触り方、ちょっといやらしいよ……。","<CLBU>真、真是的……
+你的摸法有点太下流了啦……",translated,依恩,fb5691812f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#212#12,"<CLBU>お、落ち着かせようとしてくれてるの？
+えへへ、ありがと……。","<CLBU>你、你是想让我冷静下来吗？
+嘿嘿，谢谢你哦……",translated,依恩,6ac2575440,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#213#12,でも、逆効果かも……。,不过，可能适得其反了呢……,translated,依恩,dd35332365,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#219#12,<CLBU>きゃっ！？,<CLBU>呀啊！？,translated,依恩,41af10753c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#220#12,"え、えへへ……ごめんね。
+ここだと、つい緊張しちゃって……。","诶、嘿嘿……抱歉抱歉。
+待在这里总是不知不觉就紧张起来了……",translated,依恩,b9f2b6e034,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#222#12,"<CLBU>ここであなたと手を繋いでると、
+色んなことを想像しちゃうの。","<CLBU>在这里和你牵着手，
+就会忍不住联想到许许多多的事情呢。",translated,依恩,02b44f89ab,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#224#12,"<CLBU>えへへ……ドキドキしてるのに、
+すごく安心する気がするよ。","<CLBU>嘿嘿……明明心跳得这么厉害，
+却又觉得特别安心呢。",translated,依恩,a8b90f62be,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#225#12,"変かもしれないけど、
+本当にそういう気持ちなの。","虽然听起来可能很奇怪，
+但我心里真的是这么想的哦。",translated,依恩,3bb27434b7,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#231#12,"<CLBU>こ、ここでそういうことするのは、
+罰当たりだよ……。","<CLBU>在、在这种地方做那种事，
+可是会遭天谴的哦……",translated,依恩,4bde204834,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#233#12,"<CLBU>も、もぉ……どこでもエッチなこと
+するんだから……。","<CLBU>真、真是的……你怎么到哪里
+都想着做下流的事情呀……",translated,依恩,3abf4b38e7,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#234#12,神様に怒られちゃっても、知らないよ？,要是惹神明大人生气了，我可不管你哦？,translated,依恩,ecb0bc7ed4,br=0 nl=0,1,
+inc/event/res/dateevents09/church_tch2.txt#236#12,<CLBU>だ、ダメだってば、もぉ……。,<CLBU>都、都说了不行啦，真是的……,translated,依恩,2fb8ca5f50,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/church_tch2.txt#237#12,"こういうことは順番を守って、
+そういう関係になってからじゃなきゃ……。","这种事要讲究先后顺序，
+必须得等成了那种关系之后才行……",translated,依恩,8f5e1d91e3,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#244#12,"お、お腹なでられるのって、
+結構恥ずかしいんだよ？","被、被你抚摸肚子，
+其实还挺难为情的哦？",translated,依恩,dae51f7b4e,br=0 nl=1,2,
+inc/event/res/dateevents09/church_tch2.txt#246#12,<CLBU>あなたのなで方って、すごく優しいよね？,<CLBU>你的抚摸方式，真的好温柔呢？,translated,依恩,9aee409f06,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/dateevents09/church_tch2.txt#248#12,"<CLBU>優しくなでられると……
+な、なんかちょっと変な感じ……。","<CLBU>被你这么温柔地抚摸……
+总、总觉得有种奇怪的感觉……",translated,依恩,9343f881a0,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents09/date_bonus02_church.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents09/date_bonus02_church.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents09/date_bonus02_church.txt#14#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents09/date_bonus02_church.txt#16#12,まだ！！,还没好呢！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents09/date_bonus02_church.txt#17#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents09/date_bonus02_church.txt#19#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents09/date_bonus02_church.txt#25#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents09/date_bonus02_church.txt#27#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents09/date_initm_church.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents09/date_initm_church.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents09/date_initm_church.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents09/date_initm_church.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#14#12,お待たせ。教会に行こう。,久等了。我们去教会吧。,translated,,1524daeb29,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#16#12,いますぐ行こう,现在马上就出发吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents09/date_initm_church.txt#21#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents09/date_initm_church.txt#79#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents09/date_initm_church.txt#81#12,<CLY2>イオンと教会に行く約束をしました。,<CLY2>与依恩约好了去教会。,translated,系统文本,48b3bfea6a,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/date_initt_church.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents09/date_init_church.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/date_init_church.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents09/date_init_church.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/date_init_church.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents09/date_init_church.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/date_init_church.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents09/date_init_church.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/date_init_church.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents09/date_init_church.txt#34#12,イオンと教会に行く,和依恩去教会,translated,,ceea706d1e,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#35#12,やっぱりやめる,还是算了吧,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#39#12,"ああっ！
+来た～っ♪","啊啊！
+你来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents09/date_init_church.txt#45#12,ねえねえ、いる？,喂喂，在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#48#12,あ・な・た～♪,亲・爱・的～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents09/date_init_church.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#1#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#3#12,"えへへ……教会のこの独特の雰囲気って、
+結構気に入ってるの。","嘿嘿……教会这种独特的氛围，
+我还挺中意的呢。",translated,依恩,d1b654c158,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#4#12,"最初に来た頃は、恥ずかしくて全然お話も
+できない感じだったけど……。","虽说刚开始来的时候，害羞得
+连话都快说不出来了就是啦……",translated,依恩,af125d7e3d,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#5#12,"でも、あの頃からずっと
+気に入ってたんだよ？","但是从那个时候开始，
+我就一直很喜欢这里哦？",translated,依恩,0ac19e7ec9,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#6#12,"ここに来るようになったってことは、
+そのうち……。","既然我们开始常来这里，
+也就意味着迟早……",translated,依恩,b57d00e4e4,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#7#12,"……えへへ、わかるかな？
+あれを作ることになるんじゃないかな、
+って思っちゃって……。","……嘿嘿，你能猜到吗？
+我在想，我们是不是迟早
+会制作出那个东西呢……",translated,依恩,44ee552548,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#9#12,ミサの準備？,弥撒的准备？,translated,,d10ab71fdb,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#10#12,結婚式の準備？,婚礼的准备？,translated,,576d09ccb7,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#12#12,"ミサは、一度出てみたいなぁ、とは
+思ってるけど、自分で準備したりは
+したくないかも。","虽然我确实想去参加一次弥撒看看，
+但如果要自己去筹备的话，
+感觉还是有点吃不消呢。",translated,依恩,a36f412dbf,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#13#12,"それに、わたしが作ることになるんじゃ
+ないかな、って言ったのは、そういう物の
+ことじゃなくて……。","而且，我刚才说的
+“迟早会做出来”的，
+并不是指那种东西啦……",translated,依恩,4d9757bdf9,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#16#12,"え、えぇっ！？
+違うよ！","诶、诶诶！？
+才不是呢！",translated,依恩,114f4a19fc,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#17#12,"あ、ううん、考えたことがないか、って
+聞かれると、もちろんそんなこともない
+けど……。","啊，不对，要是被你问到
+以前有没有想过的话，
+那当然也不是完全没想过啦……",translated,依恩,1f59f2b89c,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#18#12,"でも、それは作るっていうよりは
+準備だから、ちょっと違うよ。","但是比起制作，那个应该叫筹备，
+所以稍微有点不一样哦。",translated,依恩,dbe165de67,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#21#12,"わたしが思ったのは……い、いつかは
+指輪なんか、作ることになるんじゃない
+かなって……。","我想到的是……将、将来有朝一日，
+说不定会去制作
+戒指之类的东西吧……",translated,依恩,57efbc8893,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#22#12,"それで、その……。
+そろそろ……欲しいかな、なんて……。","所以，那个……
+我在想……是不是差不多该收下一枚了呢……",translated,依恩,6daa47ad0c,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#24#12,今この場でプロポーズしてほしい、と？,你的意思是，希望我在此刻当场求婚？,translated,,b00783c23e,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#26#12,え、えぇっ！？,诶、诶诶！？,translated,依恩,d25407a3cf,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#27#12,"そういう意味で言ったんじゃなくて……
+あっ、もちろんしてもらえるのは
+嬉しいと思ってるよ？","我并不是那个意思啦……
+啊，当然要是你向我求婚的话，
+我肯定会很高兴就是了？",translated,依恩,c695904ab9,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#28#12,"……でも、さすがにこのタイミングで、
+っていうのは、ちょっと……。","……不过在这个节骨眼上求婚，
+未免也稍微有点……",translated,依恩,aa90027090,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#29#12,"やっぱり、もう少し雰囲気のいい時に
+してもらいたいなぁ、って思うし。","果然还是希望你能挑个气氛更好的时候
+再向我求婚嘛。",translated,依恩,10787a6748,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#30#12,"ま、まあ、プロポーズの話は置いておくと
+して、恋人同士でもお揃いの指輪くらい
+つけててもおかしくないでしょ？","嘛、求婚的事先放一边不提，
+就算是恋人之间，
+戴上一对情侣戒指也不奇怪对吧？",translated,依恩,4d52a174ce,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#31#12,"ペアリングとか、恋愛小説とかでは
+定番のアイテムだから、読んでて、
+ちょっと憧れるところもあったし……。","情侣戒指在言情小说里
+也是经常出现的标配道具，
+我读的时候就稍微有点向往呢……",translated,依恩,55b4dc4097,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#32#12,"ただ、作ったとしても端末の向こうにいる
+あなたには、付けてもらえないけど……。","只是就算做出来了，身在终端另一端的你
+也没法戴在手上就是了……",translated,依恩,f19d1b204b,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#34#12,イオンだけでも付けてもらいたい,哪怕只有依恩一个人戴我也很满足了,translated,,30556f9e6c,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#35#12,それじゃ、ペアリングにはならないね,那样的话就成不了对戒了呢,translated,,d77ad14b69,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#37#12,"ふふっ、それだとペアリングに
+ならないよ。","呵呵，那样可就算不上是
+情侣对戒了哦。",translated,依恩,2692d49011,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#38#12,"やっぱり、指輪がないとあなたと一緒って
+感じがしないと思うし……。","果然要是没有戒指，
+可能就不会有和你形影不离的感觉呢……",translated,依恩,d4fd080cca,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#39#12,"……ううん。
+指輪のあるなしで、そんな風に思うのは
+間違いだね。","……不对。
+用有没有戒指来衡量彼此的关系，
+是不对的呢。",translated,依恩,0cba10cdac,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#40#12,"指輪は付けてもらえないけど、わたし達の
+心が繋がってることは間違いないもん。","虽然你戴不上戒指，但我们两颗心
+紧紧相连是绝对毋庸置疑的嘛。",translated,依恩,340b33435d,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#41#12,"それじゃ、帰ったら早速レシピを
+作っちゃうね。","那么，回去之后我马上就
+着手制作配方哦。",translated,依恩,e8f0845d42,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#45#12,"うん……どうにかしてあなたにも付けて
+もらえたら嬉しいんだけどなぁ……。","嗯……要是能想办法让你也戴上，
+那就太好了呢……",translated,依恩,f336fa8a25,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#46#12,"……でも、せっかく作ろうって気に
+なったんだから、レシピだけは作って
+みようかな？","……不过，难得我提起了干劲想做，
+先把配方给做出来看看吧？
+说不定会有什么好主意呢。",translated,依恩,3adeb9b50e,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#48#12,それじゃ、今日はもう帰ろっか。,那么，今天就差不多该回去了吧。,translated,依恩,443422d319,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#50#12,ふぅ……ただいまー。,呼……我回来啦。,translated,依恩,1b2b7c5a0b,br=0 nl=0,1,
+inc/event/res/dateevents09/ring01.txt#51#12,"っと、ため息なんかついてる
+場合じゃないよね？","哎呀，现在可不是
+唉声叹气的时候对吧？",translated,依恩,0eb26c407c,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#52#12,"忘れないうちに、ささっとレシピを
+作っちゃわないと。","趁着还没忘记，
+得赶紧把配方给制作出来才行。",translated,依恩,22dd77af81,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#53#12,"今度行く時には、完成した指輪を
+持っていけたらいいね。","下次再去的时候，
+要是能把做好的戒指带过去就好了呢。",translated,依恩,b927dd1944,br=0 nl=1,2,
+inc/event/res/dateevents09/ring01.txt#55#12,<CLY2>レシピ【指輪？】が追加されました。,<CLY2>已追加配方【戒指？】。,translated,系统文本,8b00c9f95d,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents09/ring01.txt#59#14,"ずっと憧れてた指輪の
+レシピを思いついた。
+早く作りたいな。","想出了憧憬已久的
+戒指配方。
+真想快点制作出来呀。",translated,,830e6f7196,br=0 nl=2,3,
+inc/event/res/dateevents09/ring01.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevents09/rosario01.txt#2#12,それじゃ、早速行こう。,那么，这就出发吧。,translated,依恩,adc88c9c00,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#4#12,"考えてみたらわたし達、教会に来ても
+お祈りをしたことがなかったでしょ？","仔细想想看，我们以前哪怕来到教会，
+也从来没有祈祷过对吧？",translated,依恩,fb20d03b84,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#5#12,"それに気付いたら、やっぱり一回は
+やっておいた方がいいんじゃないかな、
+って思ったの。","意识到这一点之后，
+我觉得果然还是至少做一次祈祷
+会比较好吧。",translated,依恩,2f4138a15c,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#6#12,"デートで来てるのはわかるけど、
+それでも、教会に来てる以上は
+一度はやらないとね。","虽然我知道我们是来约会的，
+但既然来到了教会，
+怎么说也得祈祷一次呢。",translated,依恩,964bc2094e,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#7#12,ちょっと、罰当たりな感じもするし……。,否则总觉得稍微有点对神不敬呢……,translated,依恩,d5f98d968f,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#9#12,お祈りしよう,来祈祷吧,translated,,c304300062,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#10#12,懺悔しよう,来忏悔吧,translated,,45578ce65a,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#12#12,うん、あなたも一緒にしてね。,嗯，你也要和我一起哦。,translated,依恩,3f55ae2362,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#13#12,"あなたとわたしのデートなんだから、
+一緒に神様にお祈りしよ。","因为这是你和我的约会嘛，
+一起向神明大人祈祷吧。",translated,依恩,2b9b830fa1,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#17#12,で、できれば、お祈りにしない？,可、可以的话，换成祈祷好不好？,translated,依恩,7ea80fb488,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#18#12,"やっぱり、一応デートで来てるんだから、
+懺悔はちょっと……。","毕竟不管怎么说也是在约会，
+去忏悔未免有点……",translated,依恩,870214d4ca,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#19#12,"それに、懺悔室に入らないといけないから、
+別れなくちゃいけなくなるでしょ？","而且因为必须得进忏悔室，
+那我们两个不就得分开了吗？",translated,依恩,74ac6402b9,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#20#12,"それだとデートっぽくなくなっちゃうから、
+ちょっと嫌だもん。","那样就完全不像是在约会了，
+我才不要呢。",translated,依恩,524adfe9eb,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#22#12,"……あれ？
+でもお祈りって、どういう風にすれば
+いいのかな？","……奇怪？
+可是祈祷这回事，
+到底应该怎么做才对呢？",translated,依恩,7287ccedf7,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#23#12,"考えてみたらわたし、お祈りって
+一度もしたことがなかったかも……。","仔细一想，祈祷这种事
+我好像一次都没有做过呢……",translated,依恩,9a033da62c,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#24#12,"あなたはどう？
+教会でお祈りをしたことある？","你呢？
+你在教会里祈祷过吗？",translated,依恩,7671eb1401,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#26#12,あるよ,祈祷过哦,translated,,13924bb01d,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#27#12,ないよ,没有呢,translated,,e225297ce5,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#29#12,"そうなんだ……。
+もしかして、よく教会に通ったりとか
+してる人なのかな？","这样啊……
+难不成你是那种经常
+去教会做礼拜的人吗？",translated,依恩,051eee145f,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#30#12,"あっ、でもお祈りの仕方を教えて、って
+聞くのも、ちょっと変な気がするかも……。","啊，不过要是向你请教怎么祈祷，
+总觉得稍微有点奇怪呢……",translated,依恩,2d76d5e668,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#33#12,そっか……でも、普通はそうだよね？,这样啊……不过，平常人确实都是这样的吧？,translated,依恩,5d136bd825,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#34#12,"日頃から教会に通ってる人でもない限り、
+お祈りってあまり縁がないと思うし……。","除非平时就经常去教会，
+否则应该很少有机会接触到祈祷吧……",translated,依恩,4f2bf3eb8e,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#36#12,"……あんまり、深く考えなくても
+いいのかな？","……是不是不用想得
+太复杂也行呢？",translated,依恩,7af165987a,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#37#12,"神様に対してするものなんだから、
+一番大切なのは、聞いてほしい、って
+気持ちだと思うし。","既然是面向神明的祈祷，
+我想最关键的，就是那份希望神明
+能聆听自己心声的心意嘛。",translated,依恩,facf6f9c42,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#38#12,"それに、熱心な信者でもないから、
+きっと神様も許してくれるよ。","而且我又不是狂热的信徒，
+我想神明大人肯定也会宽恕我的啦。",translated,依恩,48834ab05f,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#39#12,それじゃあ、早速……。,那么，这就开始吧……,translated,依恩,3fbf0e95dc,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#40#12,"神様……どうかわたしのお願いを
+聞いてください……。","神明大人……请无论如何
+倾听我的心愿吧……",translated,依恩,8c26ac1118,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#41#12,"これからも、たくさん練習するので、
+もっともっと美味しい料理を作れるように
+なりたいです。","今后我也会多多练习，
+希望能做出更加更加
+美味可口的饭菜。",translated,依恩,d9077f3014,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#42#12,"あと、面白い機械のレシピも
+沢山手に入れたいです。","还有，希望能收集到更多
+有趣的机械配方。",translated,依恩,4ee87aece2,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#44#12,こ、こんな感じで、大丈夫かな？,像、像这样应该可以吧？,translated,依恩,d8bfba9eb0,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#46#12,祈りと言うより、願い事だね,与其说是祈祷，不如说是许愿呢,translated,,a480cdb5d0,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#48#12,"え、えへへ……
+ちょっと、間違っちゃったかな？","诶、嘿嘿……
+我是不是有点搞错了呀？",translated,依恩,f3ca9e2259,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#49#12,"でも、叶う叶わないは別にしても、
+聞いてもらえたら嬉しいな……。","不过，先不论能否实现，
+只要神明能听到我就很开心啦……",translated,依恩,83ab47cefd,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#50#12,"……あっ、そういえば教会でお祈りを
+する人って、ロザリオを持ってしている
+イメージがあるよね？","……啊，说起来在教会里祈祷的人，
+给人的印象通常都是
+手里拿着念珠祈祷的对吧？",translated,依恩,78624c59c1,br=0 nl=2,3,
+inc/event/res/dateevents09/rosario01.txt#51#12,"もしかして、お祈りの時って
+ロザリオを持ってないといけないのかな？","难不成在祈祷的时候，
+非得手拿念珠不可吗？",translated,依恩,111a83bae6,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#53#12,ないよりはあった方がいいのかも,有总比没有好吧,translated,,6eaaadc3a2,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#55#12,そっか……。,这样啊……,translated,依恩,72f774d7f9,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#56#12,"……じゃあ、これからもお祈りをするなら、
+一応作っておいた方が良いかもしれないね。","……那么，要是今后也打算祈祷的话，
+姑且先制作一个备着可能比较好呢。",translated,依恩,0c543bdc6b,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#57#12,"熱心な信者になりたいわけじゃないけど、
+その方が聞いてもらえそうな気もするし。","虽然我并不是想成为狂热的信徒，
+但总觉得那样祈愿更容易被神明听见呢。",translated,依恩,db155ec3a5,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#58#12,"それじゃあ、レシピも作らないと
+いけないし、今日はもう帰ろっか？","好啦，既然还得回去制作配方，
+今天就差不多该回去了吧？",translated,依恩,a4aa3f3d6d,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#60#12,ただいまー。,我回来啦～。,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents09/rosario01.txt#61#12,"それにしても、まさかお祈りの仕方を
+よく知らなかったなんて……。","不过话说回来，真没想到自己
+居然连祈祷的方法都一无所知呢……",translated,依恩,b38011e9da,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#62#12,"でも、神様に聞いてもらいたいことを
+言えたから、わたしとしては大満足だよ。","不过，能把想让神明听见的心愿说出来，
+我个人已经大为满足啦。",translated,依恩,fe909fe778,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#63#12,"今度行くときは、ちゃんとロザリオを
+持ってお祈りできたら良いな。","下次再去的时候，要是能带着
+做好的念珠去祈祷就好了呢。",translated,依恩,f914b80335,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#64#12,"今日は急なお願いを聞いてくれてありがと。
+またデートしようね。","今天谢谢你陪我任性祈祷哦。
+下次还要一起约会呢。",translated,依恩,4da5384b2d,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#65#12,"<CLY2>レシピ【アクセサリ？】が
+追加されました。","<CLY2>配方【饰品？】
+已追加。",translated,系统文本,7289de5148,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents09/rosario01.txt#70#14,"お祈りって意外と
+難しいんだね。","祈祷这回事，
+意外地挺难的呢。",translated,,1ad4e72036,br=0 nl=1,2,
+inc/event/res/dateevents09/rosario01.txt#71#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26

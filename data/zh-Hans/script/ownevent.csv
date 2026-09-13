@@ -1,0 +1,2292 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/ownevent/ownevent_01.txt#1#12,上司,上司,translated,,323450745c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#2#12,部下,下属,translated,,f6f43bfb4e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#3#12,同僚,同事,translated,,42c9687840,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#4#12,取引先,客户,translated,,bb38f4c12b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#14#12,仕事,工作,translated,,5dc4a4fa47,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#15#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#16#12,食事,用餐,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#24#12,仕事,工作,translated,,5dc4a4fa47,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#25#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#26#12,食事,用餐,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#34#12,仕事,工作,translated,,5dc4a4fa47,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#35#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#36#12,食事,用餐,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#44#12,商談,商务洽谈,translated,,7562b6e46e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#45#12,接待,应酬接待,translated,,0b75e90b12,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#46#12,食事,用餐,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#54#12,色々な仕事を任されるようになった,开始被托付各种各样的工作了,translated,,3dc7c87e13,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#55#12,任されてた仕事がうまくいった,交代给我的工作顺利完成了,translated,,ace1e0c99c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#56#12,仕事多すぎる……,工作实在太多了……,translated,,d695356663,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#57#12,失敗して怒られた,搞砸了挨了一顿训,translated,,97c579609d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#60#12,ふふっ、何だか忙しいみたいだね。,呵呵，感觉你好像挺忙碌的呢。,translated,依恩,64d095d8a3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#61#12,"プレッシャーも掛かるかもしれないけど、
+それだけ上司さんがあなたに期待してる、
+って証拠だよ。","虽然压力可能也会随之而来，
+但这正是上司器重你、
+对你抱有期待的证明哦。",translated,依恩,b0f6ab3171,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#63#12,"色んな仕事を任されるのは嬉しいけど、
+ちょっと大変そうだね。","被托付各种工作固然令人高兴，
+但感觉也会相当辛苦呢。",translated,依恩,3d39901253,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#64#12,"けど、頑張ったら、上司さんが
+褒めてくれるかもしれないよ。","不过只要好好努力，
+说不定上司就会好好夸奖你一番哦。",translated,依恩,6476510fd7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#65#12,大変だとは思うけど頑張って！,虽然很辛苦，但加油哦！,translated,依恩,1b876965fc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#70#12,"わぁ、おめでとう！
+上司さんにも褒められたのかな？","哇，恭喜你！
+上司肯定也好好夸赞你了吧？",translated,依恩,db628cde9e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#71#12,"お仕事って大変だと思うけど、
+上手くいった時の気持ちよさは
+言葉に表せないよね。","虽然工作总是很辛苦，
+但顺利做成时的那份爽快感
+简直无法用言语来形容对吧。",translated,依恩,4822604ea8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#72#12,"次の仕事も、絶対成功させようね！
+ファイトー、あなたー！","下一项工作也一定要顺利搞定哦！
+加油啊，亲爱的――！",translated,依恩,5816a97fd1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#74#12,"任された仕事を完璧にこなす人って、
+すごくかっこいいと思うよ。","把交代下来的工作完美搞定的人，
+我认为真的很帅气哦。",translated,依恩,2a4c5a0d55,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#75#12,"これからも、上司さんに任された
+仕事を完璧にこなして、頼れる存在を
+目指そ！","今后也要把上司交代的工作
+完美地完成，
+以成为令人信赖的顶梁柱为目标吧！",translated,依恩,29ab57ea80,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#79#12,"あらら……そんなに大変なんだ？
+もしかして、すごく疲れちゃってる？","哎呀呀……有那么繁重吗？
+难不成你现在已经非常累了？",translated,依恩,0bb0133f13,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#80#12,"わたしには、こうしてあなたのお話を
+聞くことしかできないけど……。","虽然我能做的，
+也只有像这样听你倾诉而已……。",translated,依恩,6a100d93ea,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#81#12,"もしそれで、少しでもあなたの疲れを
+取ってあげられるなら、
+いつでもお話しするよ。","但如果哪怕能稍微为你消除一些疲惫，
+我随时都愿意陪你聊天的哦。",translated,依恩,7d0502a342,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#82#12,"だから、今だけでもお仕事のことは忘れて、
+ゆっくり休んでね。","所以至少现在暂且把工作忘掉，
+舒舒服服地好好歇一歇吧。",translated,依恩,be743ed8a4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#85#12,そっか……でも、そういうこともあるよ。,这样啊……不过，难免也会有这种时候的啦。,translated,依恩,edb4d0c520,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#86#12,"大切なのはそこで落ち込まないで、
+今度は失敗しないぞ、って向上心を
+持つことだよ。","最重要的是不要因此而气馁，
+抱着“下次绝不搞砸”的进取心
+才是最关键的哦。",translated,依恩,7587335f4e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#87#12,"わたしは、いつでもあなたのことを
+応援してるから……負けないでね！","我无论何时都会在背后为你加油的……
+千万不要认输哦！",translated,依恩,8bdade6ca9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#90#12,息抜きに上司と遊んできた,和上司出去玩放松了一下,translated,,4ce2d8f12e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#91#12,実は趣味が合うらしい,意外地和上司挺志趣相投的,translated,,1a69d01cbc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#92#12,他愛のない話で盛り上がった,聊了些闲话聊得特别投机,translated,,11b1ee486c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#93#12,思いつきに付き合わされて大変,陪他折腾一时兴起的事累死人了,translated,,41ae0875db,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#95#12,"ふふっ、あなたは上司さんと
+仲がいいみたいだね。","呵呵，看来你和上司的关系
+相处得挺融洽的呢。",translated,依恩,d61aeb3272,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#96#12,"普通、自分より偉い人が一緒だと、
+中々息抜きなんてできないと思うし……。","一般来说和比自己地位高的人在一起，
+根本很难真正放松得下来嘛……。",translated,依恩,2cb510fac5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#97#12,"きっと、すごく信頼できる人なんだろうね。
+わたしも、社会人になって偉くなったら、
+そんな人になりたいなぁ……。","那肯定是一位非常值得信赖的人吧。
+我要是以后步入社会当了领导，
+也想成为那样的人呢……。",translated,依恩,a996ab97c2,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#100#12,意外なところで仲間発見だね。,在意想不到的地方找到同好了呢。,translated,依恩,6283d3190d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#101#12,"ふふっ、でも上司さんが自分と同じ
+趣味だったなんて、ビックリしたでしょ？","呵呵，不过发现上司和自己有着相同的
+兴趣爱好时，你也很吃惊吧？",translated,依恩,07d84b3651,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#102#12,"これをきっかけに、今よりももっと
+仲良くなれるといいね。","借着这个契机，
+要是能比现在关系更好就太棒啦。",translated,依恩,854ca3a0de,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#105#12,ふふっ……何だかいいなぁ、そういう職場。,呵呵……那种职场氛围感觉真好呢。,translated,依恩,8d24ac7bff,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#106#12,"お仕事の話しかしない上司さんよりも、
+他愛ない話ができて盛り上がれる方が、
+仕事もやりやすいと思うし。","比起只聊公事的上司，
+能像这样天南海北聊闲话聊得起劲，
+工作起来肯定也会更顺心舒畅嘛。",translated,依恩,a0c3d5474a,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#107#12,"きっと、すごくいい職場なんだろうなぁ。
+わたしも就職するなら、そういうところが
+いいな。","那肯定是个非常棒的职场吧。
+我将来要是找工作就职，
+也想去那样的地方呢。",translated,依恩,90dcc8d731,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#110#12,"あらら……それは確かに大変かも。
+自分より上の人だから、文句も言えないと
+思うし……。","哎呀呀……那确实挺不容易的呢。
+毕竟是自己的上级，
+也没办法当面抱怨嘛……。",translated,依恩,e6354da60d,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#111#12,"でも、あんまり無理に付き合って、
+身体を壊さないように気をつけてね。","不过可别硬着头皮太勉强配合，
+千万注意别累坏了身体哦。",translated,依恩,02c23348a6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#114#12,美味しい店を教えてもらった,经人推荐知道了好吃的餐馆,translated,,4e47b050d6,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#115#12,食事をしながら色々な話を聞いた,一边吃饭一边听他聊了好多事情,translated,,851404f8ef,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#116#12,食事を奢ってもらった,被上司请客吃了一顿,translated,,fb4b0d158b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#117#12,食事を奢らされた……,居然被迫请上司吃了一顿……,translated,,df047a539e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#119#12,そういうのって、ちょっと嬉しいよね。,遇到那种事，确实会挺开心的呢。,translated,依恩,c6e88e3c06,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#120#12,"家族や友達と食事に行った時に、
+美味しいお店知ってるんだ、って
+今度はあなたが紹介することができるし。","等以后和家人或朋友出去聚餐时，
+你就能主动向大家推荐说：
+“我知道一家很好吃的餐馆哦”。",translated,依恩,f5aef56716,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#121#12,"また美味しいお店を教えて
+もらえたらいいね。","要是以后还能被多推荐一些
+美味的餐馆就好啦。",translated,依恩,b7bc589f35,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#124#12,"食事をしながらのお話って、
+普通に話すよりも盛り上がるよね。","一边用餐一边聊天，
+感觉会比平时交谈聊得更热烈起劲呢。",translated,依恩,77dfb50a41,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#125#12,"それに、お仕事だけじゃなくて、
+プライベートのお話とかもしやすい
+感じがするし……。","而且感觉不仅是工作上的事，
+连私底下的个人话题
+也更容易聊得开嘛……。",translated,依恩,3f4520bea1,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#126#12,"まあ、ちょっと緊張するとは思うけど、
+たまには上司さんと食事に行くことも
+大切だよね。","嘛，虽然可能会稍微有点紧张，
+但偶尔和上司一起去吃个饭
+也是很重要的社交呢。",translated,依恩,22cf0451f8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#130#12,わぁ……かっこいい上司さんだね。,哇……真是帅气大方的上司呢。,translated,依恩,ec229164d2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#131#12,"わたしね、お仕事の時にご飯を奢ってくれる
+上司さんって、ちょっと憧れてるの。","工作时愿意主动请客吃饭的上司，
+我其实一直挺憧憬向往的呢。",translated,依恩,ad7826236d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#132#12,"わたしも、もし偉い人になって部下を
+持つような立場になったら、ご飯を
+奢れるような人になりたいなぁ……。","我要是以后成了大人物、手底下有了下属，
+也想成为能大方请他们吃饭的
+好长官呀……。",translated,依恩,789b3e6f4d,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#134#12,"上司さんにご飯を奢ってもらえると、
+またこれからもお仕事頑張ろう、って
+気持ちになるよね。","被上司请客吃顿好的，
+就会产生“接下来也要继续努力工作！”
+的满满干劲对吧。",translated,依恩,8afcaaa63f,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#135#12,"きっと、上司さんも若い頃は、
+そういうことがあったんだろうなぁ……。","那位上司在年轻的时候，
+肯定也有过类似的经历吧……。",translated,依恩,121da5015a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#139#12,えぇっ！？　上司さんに奢らされたの！？,诶诶！？居然被迫请上司吃了饭！？,translated,依恩,6c3c1819e5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#140#12,"う～ん、自分の方が多くお給料貰ってる
+上司さんが、部下に食事を奢らせるなんて、
+ちょっと変だよね？","唔～明明拿的薪水比下属多，
+做上司的居然让下属请客，
+这怎么想都挺离谱的吧？",translated,依恩,2907ac4190,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#141#12,"でも、今度は上司さんにうんと高い物を
+奢ってもらっちゃお！","不过，下次你可一定要让上司
+狠狠请你吃一顿超级贵的大餐！",translated,依恩,cba97d656b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#144#12,任せられる仕事が増えてきた,能够交给下属的工作变多了,translated,,ce47adbad0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#145#12,色々と手伝ってくれて助かってる,他帮了我很多忙帮了大忙了,translated,,2293d3570f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#146#12,居眠りが多い。疲れてるのかも……,经常打瞌睡。可能太累了吧……,translated,,81baae600e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#147#12,最近、やる気が感じられない,最近感觉他完全没有干劲,translated,,cd93209e11,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#149#12,"ふふっ、そっか……。
+いつの間にか成長した、ってことだね。","呵呵，这样呀……。
+说明他在不知不觉中成长了呢。",translated,依恩,48b69ebf43,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#150#12,"きっと、上司のあなたの教育が
+良かったおかげだよ。","这肯定都多亏了身为上司的你
+悉心栽培指导的好成果哦。",translated,依恩,d2c2583afb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#151#12,"あなたみたいな上司さんの下で、
+わたしもいつか働いてみたいなぁ。","我也好想将来哪天
+能在你这样的好上司手下工作呀。",translated,依恩,33814a3d5b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#155#12,頼りになる部下に恵まれてるみたいだね。,看来你遇到了非常可靠得力的下属呢。,translated,依恩,8b878ab75e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#156#12,"でも、頼りになるからって部下にばかり
+お仕事振ったらダメだよ。","不过就算再能干，
+也不能一股脑把工作全甩给下属哦。",translated,依恩,d05a9940af,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#157#12,"たまにはすごい仕事をあなた一人でやって、
+上司としてのすごさを見せないと。","偶尔你也得凭一己之力搞定硬仗，
+展现一下身为上司的魄力与威严嘛。",translated,依恩,ae0aebe8fd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#158#12,"やっぱり、かっこよくて頼りになる
+上司だと、下で働く人は安心できる
+と思うの。","毕竟如果是既帅气又可靠的上司，
+手底下干活的人也会觉得
+格外安心踏实嘛。",translated,依恩,f3bf8f2925,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#160#12,ふふっ、すごく助けられてるみたいだね。,呵呵，看来他真的帮了你大忙呢。,translated,依恩,b66da31c2e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#161#12,"助けてもらったらお礼にご飯とか
+奢ってあげてね。","既然帮了你那么多忙，
+作为答谢记得请人家吃顿饭哦。",translated,依恩,1e0702e598,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#165#12,あらら……それはちょっと困るね。,哎呀呀……那确实有点让人头疼呢。,translated,依恩,8c938d094b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#166#12,"もしかして、少しオーバーワークで
+参っちゃってるのかもしれないよ。","说不定是因为工作负荷过重，
+有些吃不消被累垮了呢。",translated,依恩,6213d32567,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#167#12,"仕事の量がどうなってるのかを、
+上司のあなたが確認してあげてみたら
+どうかな？","身为上司的你，
+要不要去了解确认一下
+他的工作量到底合不合理呢？",translated,依恩,ca71c7cf50,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#168#12,"でも、部下の体調のことを気遣って
+あげられるなんて、素敵だね。","不过你能主动体谅关心下属的身体状况，
+真的很体贴呢。",translated,依恩,b5eb76d90e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#172#12,"そうなんだ……
+それはちょっと問題かもだね。","这样呀……
+那确实稍微有点问题呢。",translated,依恩,0aa1de5ed9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#173#12,"調子が出なかったりすることはあっても、
+お仕事なんだからやる気が見えないのは
+困るよね？","就算偶尔会有状态不佳的时候，
+但既然是工作，
+完全看不出干劲也确实很让人头疼对吧？",translated,依恩,265e934ebf,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#174#12,"一度、ちゃんと注意した方がいいかも。
+でも、心を折るような怒り方はしないでね。","最好找个机会好好提醒他一下。
+不过可千万别用打击人自尊心的方式训斥哦。",translated,依恩,625d323dbe,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#176#12,"どうしちゃったんだろう……。
+ちょっと気になるね。","他到底是怎么了呢……。
+稍微有点让人挂心呢。",translated,依恩,370132cb67,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#177#12,"もしかしたら、何か悩みがあるのかも。
+一度、お話をする機会を作ってみた方が
+いいんじゃないかな？","搞不好是他遇到了什么心事烦恼呢。
+要不要试着创造一个机会，
+跟他促膝长谈一次呢？",translated,依恩,ad02cedfb2,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#181#12,何人か誘って遊んできた,叫上几个人一起出去玩了,translated,,4b35c83836,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#182#12,面白い趣味を持った奴がいる,有个家伙的爱好特别有意思,translated,,8e60b00924,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#183#12,部下からよく遊びに誘われる,经常被下属邀请出去玩,translated,,4e7c64088c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#184#12,ちょっとハメをはずしすぎ……,有点玩得太嗨过头了……,translated,,c298bbd742,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#186#12,ふふっ、仲の良い部下がいるみたいだね。,呵呵，看来你和下属的关系挺要好的呢。,translated,依恩,13831d1c73,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#187#12,"でも、あんまり頻繁にお誘いするのは
+控えた方がいいかも……。","不过太频繁邀请人家的话，
+或许还是稍微克制一下比较好哦……。",translated,依恩,e81f06bee0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#188#12,"やっぱり、上司からの誘いっていうのは、
+部下にとってはプレッシャーだと思うもん。","毕竟来自上司的邀约，
+对下属来说多多少少都会变成一种心理压力嘛。",translated,依恩,0a9e803027,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#191#12,"そうなんだ……ふふっ、面白い趣味を
+持った人がいるんだね。","这样呀……呵呵，
+原来手下还有兴趣这么奇特有趣的人呢。",translated,依恩,39af46e30e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#192#12,"もし興味があるなら、あなたもそれを
+始めてみたらどうかな？","要是感兴趣的话，
+你要不要也尝试去接触体验看看呀？",translated,依恩,63d4d7fba9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#193#12,"同じ趣味をきっかけに、今まで以上に
+部下の人と仲良くなれるかもしれないよ。","以相同的爱好为契机，
+说不定能比以往更加深入地打成一片呢。",translated,依恩,82b2f1e808,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#196#12,部下の人から遊びに誘われるの！？,居然会被下属主动约出去玩！？,translated,依恩,d84a2b5411,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#197#12,"それ、すごいかも……。
+普通は会社の上司を遊びになんて
+誘えないんじゃないかな？","那可真挺了不起的……。
+一般来说，普通职员
+可不敢随便邀请公司上司出去玩的吧？",translated,依恩,18f29f1f57,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#198#12,"きっと、部下から慕われる
+良い上司さんなんだね。
+見直しちゃった！","你肯定是一位深得下属爱戴的好上司呢。
+我对你刮目相看啦！",translated,依恩,d507f7f7d8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#201#12,"そっか……それは上司として、
+一度注意してあげた方が
+良いんじゃないかな。","这样啊……既然作为上司，
+我觉得还是好好提醒警告他一次
+比较好哦。",translated,依恩,ac8ac51b7b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#202#12,親しき仲にも礼儀ありだもん。,毕竟俗话说熟归熟，礼数不能丢嘛。,translated,依恩,a6e4ea4749,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#203#12,"他の会社の人と会うこともあると思うし、
+なるべく早いうちに解決した方がいいよ。","以后难免也会接触到外单位的人，
+还是尽量尽早把这毛病纠正过来比较好哦。",translated,依恩,92ce2fb843,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#206#12,行き着けの店を紹介した,把我常去的常客店介绍给了他,translated,,760de2c6d8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#207#12,新人歓迎会をしてきた,举办了新人欢迎会,translated,,58f0108dcf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#208#12,食事を奢りすぎて金欠に……,请客吃饭请得太狠导致钱包空空……,translated,,81cd6d09a0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#209#12,無礼講とはいえもう少し……,虽说是放下身份不拘小节但也太放肆了……,translated,,6a0b4a0ce2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#212#12,"行きつけのお店がある
+あなたにビックリだよ！","居然有常去的熟客小店，
+你可真让我刮目相看呢！",translated,依恩,e3bb104ee3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#213#12,"なんか、かっこいいなぁ……。
+デキる社会人、って感じがすごくするよ。","总觉得好帅气呀……。
+超有成熟干练的职场精英范儿呢。",translated,依恩,f5badd9e5e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#214#12,"こういう上司の背中を見て、部下の人達も
+自分の行きつけのお店を探して行くんだろう
+なぁ……。","看着这样成熟潇洒的上司背影，
+下属们肯定也会学着去寻找
+属于自己的熟客小店吧……。",translated,依恩,8914365954,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#216#12,"むぅ……
+その部下さん、ちょっと羨ましいかも。","唔……
+我还真有点羡慕那位下属了呢。",translated,依恩,6ba0da6610,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#217#12,"わたしも知らないあなたの行きつけの
+店を知ってるなんて……。","居然能知道连我都不知道的、
+你常去的那家熟客小店……。",translated,依恩,ca5ffdb446,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#218#12,"いつか、あなたの行きつけのお店に
+あなたと行けたらいいのになぁ……。","要是将来有朝一日，
+我也能和你一起去你常去的那家店就好了呀……。",translated,依恩,bf8248be57,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#222#12,"新人さんとの初めての飲み会だね。
+あなたもちゃんと楽しめた？","是和新员工的第一次聚餐小酌呢。
+你也有好好乐在其中吗？",translated,依恩,0a73464464,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#223#12,"こうやって、少しずつ社員同士の絆を
+強めていくんだね。","原来就是通过这种方式，
+一点一滴加深同事之间的感情纽带呢。",translated,依恩,ac33699e6f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#224#12,社会人って、かっこいいなぁ。,社会人感觉真帅气呀。,translated,依恩,389a8ab735,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#227#12,あ、あはは……上司って、大変なんだね。,啊、啊哈哈……当上司也挺不容易的呢。,translated,依恩,30c30a1544,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#228#12,"でも、そこまで奢る必要はないんじゃ
+ないのかな？","不过，感觉也没必要
+打肿脸充胖子请客请到那种地步吧？",translated,依恩,f217b81d85,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#229#12,"部下とはいっても、同じ社会人で、
+お給料だって貰ってるんだし。","虽说是下属，但大家同为打工人，
+也都是拿工资领薪水的嘛。",translated,依恩,51f63f65a0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#230#12,"だから、食事を奢るのは時々くらいで
+いいんじゃないかな？","所以请客吃饭这种事，
+偶尔来上那么一两次不就行啦？",translated,依恩,9d96f6bccd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#233#12,"う～ん……それだけあなたに対して
+心を許してる証拠なのかもしれないよ？","唔～……那或许也正是他
+对你敞开心扉不设防的证据哦？",translated,依恩,6ee3627014,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#234#12,"けど、やっぱり上司と部下である以上は、
+最低限のマナーはあるよね。","不过只要彼此依然是上下级关系，
+起码的礼节分寸还是得讲究的呢。",translated,依恩,4050c5a910,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#235#12,"それは一度、しっかりと伝えた方がいいよ。
+他の会社の人と一緒の時だったりしたら、
+大問題になっちゃうもん。","那最好认真严肃地跟他说清楚一次哦。
+要是和外单位的人在一起时也这样，
+那可就成大问题了嘛。",translated,依恩,5a455fd396,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#238#12,一緒にやっていた仕事がうまくいった,一起合作的工作顺利完成了,translated,,4b4b07b853,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#239#12,互いにサポートしながら頑張ってる,互相支持协助一起努力,translated,,54c80202cc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#240#12,今度息抜きに誘おうと思う,打算下次约他出去散心,translated,,7dc4a4dae5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#241#12,失敗して一緒に怒られた,搞砸了一起挨了批,translated,,2e3f27c905,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#243#12,"わぁ、おめでとう！
+チームワークの勝利だね！","哇，恭喜你们！
+这是团队合作的胜利呢！",translated,依恩,aec71a222e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#244#12,"やっぱりこういう時は、仕事成功を祝って
+食事に行ったりするのかな？","果然这种时候，
+大家会一起聚餐庆祝工作成功吧？",translated,依恩,4353591cc1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#245#12,"ふふっ、何だか楽しそう。
+こういう話を聞くと、わたしも社会人に
+なりたい、って思えてくるよ。","呵呵，感觉好开心呀。
+一听到这种事情，
+我都忍不住想要步入社会当职场人啦。",translated,依恩,328c90e14e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#248#12,"ふふっ、チームワーク抜群の証拠だね。
+そういうの、すごく素敵だと思う。","呵呵，这是团队默契极佳的证明呢。
+能有这样的关系，我觉得超棒的。",translated,依恩,2a6d1f05b6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#249#12,"お互いをサポートできるような人が
+一緒なら、どんな仕事が来たとしても
+怖くないね！","要是有能相互支撑互帮互助的伙伴在，
+无论面对怎样艰难的工作
+也都不用害怕了呢！",translated,依恩,1c7cab6f86,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#252#12,うん、良い考えだと思うよ。,嗯，我觉得是个好主意哦。,translated,依恩,6b475ea6dd,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#253#12,"同じ職場で働く同僚だからこそ、
+お仕事の大変さとか、疲れとかも
+よくわかってるだうし……。","正因为是同在一个职场共事的同事，
+才最能深刻体会彼此工作的辛劳与不易嘛……。",translated,依恩,b273dfe867,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#254#12,"一緒に遊んだり、のんびりしたり、
+ちょっと愚痴なんかも言ったりして
+リフレッシュしてきてね。","一起去玩一玩、放松一下、
+互相倒倒苦水发泄发泄，
+好好给心情充个电吧。",translated,依恩,75cf8013a4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#257#12,"お仕事、失敗しちゃったんだ？
+それは災難だったね。","工作搞砸了呀？
+那可真是一场无妄之灾呢。",translated,依恩,9132ee546b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#258#12,"けど、同僚と一緒なら一人で怒られるよりは
+ちょっとだけ気持ちがラクになるよね。","不过有同事作伴，比起一个人挨训，
+心里多多少少也能好受那么一点点对吧。",translated,依恩,993ff9e2f0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#259#12,"でも、次こそは成功するように
+祈ってるね。","不过，我会为你祈祷
+下一次一定要大获成功的哦。",translated,依恩,a904e69e7d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#262#12,同僚と遠出してみた,和同事出远门转了转,translated,,408ec58088,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#263#12,趣味が合う同僚がいる,有个志趣相投的同事,translated,,369e7398dc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#264#12,自宅に集まってゲーム三昧,聚在家里痛痛快快打游戏,translated,,72e46a1aee,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#265#12,ボロボロになるまで遊び尽くした,玩到精疲力竭彻底虚脱,translated,,7bb140a242,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#267#12,"わぁ、どこにお出かけしたんだろ？
+旅行とかに行ったのかな？","哇，是去哪里玩了呀？
+该不会是去旅游了吧？",translated,依恩,7a6e87fca3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#268#12,"何だか仲が良いみたいで羨ましいよ。
+きっと、同僚っていうよりお友達って
+感じなのかもしれないね。","看你们关系这么融洽真让人羡慕。
+比起单纯的同事，
+感觉更像是交情深厚的好朋友呢。",translated,依恩,bea6859092,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#271#12,"趣味が合う人が身近にいると、
+すごく嬉しいよね。","身边能有志同道合的人在，
+真的会让人特别开心呢。",translated,依恩,08cb43160d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#272#12,"仕事の休み時間とかは、お互いの趣味の話で
+盛り上がってるのかな？","在工作休息的间隙，
+你们是不是都在聊彼此感兴趣的话题聊得起劲呀？",translated,依恩,cac71feecd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#276#12,"ふふっ、ゲーム好きな人が多い
+職場なのかな？","呵呵，你们单位是喜欢打游戏的人
+很多的职场吗？",translated,依恩,c9c2c16476,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#277#12,"そのうち、社内ゲーム大会、とか
+やってみるのもいいかもしれないね。","改天办个“公司内部游戏大赛”之类的，
+感觉或许也会很有意思呢。",translated,依恩,1d78bea9f9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#279#12,"プライベートでも仲良くすごせる
+同僚がいるのは、結構羨ましいかも。","在私底下也能融洽玩耍的同事，
+真的还挺让人羡慕的呢。",translated,依恩,9657198dd6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#280#12,"そういう人がいれば、会社での仕事も、
+ちょっとだけ楽しくなりそうだね。","有这样的人在身边，
+在公司上班感觉也能变得更有趣一点呢。",translated,依恩,8b127678e0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#284#12,"す、すごい……ボロボロになるほど
+遊べる大人が集まった職場なんだね。","好、好厉害……居然是一帮
+能玩到彻底瘫倒的大人聚在一起的职场呢。",translated,依恩,3911bb6860,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#285#12,"でも、そういう大人の人ってかっこいい
+なぁ。仕事も遊びも全力で取り組む感じ、
+ちょっと憧れるもん。","不过那样的大人真的很帅气呢。
+无论工作还是玩乐都全力以赴的姿态，
+让人忍不住心生憧憬呢。",translated,依恩,c104e6d4ed,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#288#12,同僚と美味い店探しをした,和同事一起探寻美食小店,translated,,1e5b2522d9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#289#12,同僚と不味い店探しをした,和同事一起探寻难吃的黑店,translated,,72a4e67f8d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#290#12,食事をしながら愚痴をこぼした,一边吃饭一边发牢骚倒苦水,translated,,26f1261db4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#291#12,勢いで食べ過ぎた……,一时兴起吃太撑了……,translated,,7a57b3cc57,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#293#12,わぁ、なんだか楽しそう！,哇，感觉好好玩的样子！,translated,依恩,76bc94f672,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#294#12,"美味しいお店を知ってれば、
+プライベートでもお仕事でも使えるから、
+知っていて損はないよね。","只要掌握了好吃的餐厅信息，
+不论私下聚会还是工作应酬都能派上用场，
+多知道几家绝对没坏处呢。",translated,依恩,d8f00422f1,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#297#12,"えっ……美味しいお店じゃなくて、
+わざわざ不味いお店を探したの？","诶……不是找好吃的，
+而是特意去找难吃的小店吗？",translated,依恩,71fa5035f4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#298#12,"う～ん、どうせなら美味しいお店を
+探した方が良いと思うけど……。","唔～虽然我觉得反正都要找，
+还不如找好吃的呢……。",translated,依恩,aad7911ad7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#299#12,"でも、そんな変わったことを一緒に
+してくれる同僚さんは、すごく貴重だね。","不过肯陪你一起做这种奇葩事的同事，
+真的算得上是超级难得的宝藏伙伴呢。",translated,依恩,8618358f6f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#302#12,"うんうん、同じ職場で働く者同士だから、
+愚痴りやすいんだね。","嗯嗯，毕竟大家同在一处共事，
+才更容易互相吐苦水嘛。",translated,依恩,6ba35ce449,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#303#12,"それに、お互いの抱えている不満が
+どういうものなのかもちゃんと理解して
+あげられると思うし。","而且彼此心中到底积压了怎样的不满与委屈，
+想必也最能感同身受、互相体谅吧。",translated,依恩,ac3a5ffa7b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#304#12,"時々愚痴ってガス抜きするのも、
+働く上ではきっと大切だよね。","偶尔发发牢骚排解一下郁气，
+在职场中也绝对是很有必要的呢。",translated,依恩,f139763625,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#307#12,"ふふっ、それだけ美味しいお店を
+見つけられたのかな？","呵呵，说明你们找到的餐馆
+是真的超级美味吧？",translated,依恩,02c7282db0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#308#12,"けど、食べ過ぎて動けなくなったりして、
+同僚さんに迷惑をかけるようなことは
+しないように気をつけてね。","不过可要注意别吃得太撑动弹不得，
+给身边的同事添麻烦哦。",translated,依恩,1d20fc45f3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#311#12,進めていた話がまとまった,推进的谈判顺利谈成了,translated,,d785971e89,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#312#12,新しい企画を持ち込んでみる,打算拿新策划案去推销试试,translated,,2b1b0364d7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#313#12,思いがけない商談が舞い込んできた,意外天降一笔商务合作,translated,,b41f7b254a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#314#12,なかなか話が進まなくて大変,进展卡住推进不下去好头疼,translated,,d411ad2747,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#316#12,"わぁ、おめでとう！
+あなたが頑張った証拠だね！","哇，恭喜你！
+这是你辛勤付出的最好回报呢！",translated,依恩,2c55c141ae,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#317#12,"こういう時はちゃんとお祝いしないと
+ダメだよ。",这种时候一定要好好庆祝一番才行哦。,translated,依恩,c8d329f605,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#320#12,わわっ、なんだかやる気満々だね。,哇哇，感觉干劲满满呢。,translated,依恩,9637dd30ab,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#321#12,"どんな企画かはわからないけど、
+通ることを祈ってるよ。","虽然不知道是什么策划案，
+但我会为你祈祷顺利通过的。",translated,依恩,3354fef2c3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#324#12,わぁ、それって大チャンスだよ！,哇，那可是一个绝佳的大好机会呢！,translated,依恩,b438884313,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#325#12,"その商談、絶対成功させてね。
+大丈夫、あなただったらできるよ！","那次合作，一定要全力拿下哦。
+没事的，换作是你一定能做到的！",translated,依恩,a5f840f7f2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#329#12,"そっか……相手の方がかなり慎重に
+なってるのかな？","这样啊……难道是对方态度
+相当审慎谨慎吗？",translated,依恩,2476e6ccc6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#330#12,"こういう時は焦っちゃダメだよね。
+じっくり時間をかけてみて、上手く話を
+まとめられたらいいね。","这种时候切忌心浮气躁。
+稳扎稳打多花些时间，
+希望能顺顺利利谈妥达成协议呢。",translated,依恩,1034190986,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#332#12,"もしかして、結構不利な条件が
+多いのかな？","难不成，是对你们相当不利的条件
+太多了吗？",translated,依恩,e64a7e9406,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#333#12,"それなら、あまり無茶はしないほうが
+いいと思う……。","要是那样的话，
+我觉得还是别太逞强勉强为好……。",translated,依恩,421b14c92d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#334#12,会社のためにも、あなたのためにもね。,这既是为了公司，也是为了你自己哦。,translated,依恩,dabf327f2b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#338#12,一緒に楽しむことも大切,陪着客户一起尽兴也很重要,translated,,f06a77510e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#339#12,相手の好みを調べるのが大変,摸清对方的喜好真不容易,translated,,a77cf70b50,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#340#12,コネの大切さが身にしみる,深切体会到人脉关系的重要性,translated,,278f9ad5c1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#341#12,接待って何をすれば……,应酬到底该做些什么啊……,translated,,7198c24f03,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#343#12,"うん、接待されてる側だって、
+してくれてる人がつまらなさそうにしてたら
+きっと気分が悪くなっちゃうよね。","嗯，即便是被宴请招待的一方，
+如果看到招待自己的人一脸无聊寡欢，
+心情肯定也会跟着变差对吧。",translated,依恩,713a516ba8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#344#12,"取引先の人が楽しめると同時に、
+あなた自身が楽しめるような接待を
+するのが一番だよね。","能让客户尽兴而归的同时，
+你自己也能乐在其中的应酬招待，
+才是最理想不过的呢。",translated,依恩,601a69aeee,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#345#12,"……言うのは簡単だけど、
+結構難しいかな？","……说起来容易，
+做起来其实相当考验人吧？",translated,依恩,2f209fc208,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#348#12,"そうだね。接待をするにしても、
+相手が嫌だったり、苦手なところで
+接待しても逆効果だもん。","确实呢。哪怕要招待应酬，
+要是选了对方讨厌或不擅长的场所，
+反而会适得其反嘛。",translated,依恩,79d46ef1d0,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#349#12,"ちゃんと相手のことをリサーチして、
+それからどんな接待をするか
+決めてみたらどうかな。","好好调查清楚对方的喜好，
+然后再决定安排怎样的招待应酬，
+你觉得这样怎么样呢？",translated,依恩,8d579a7fed,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#353#12,"確かに、コネがあると無いのでは
+全然違うんだろうね。","确实，有关系人脉和没有关系，
+待遇差距肯定天壤之别呢。",translated,依恩,29a2781f43,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#354#12,"やっぱり、仕事をする上ではコネが
+あった方がやりやすいのかな……。","在职场中摸爬滚打，
+果然还是有人脉靠山更好办事吧……。",translated,依恩,d349378d0e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#355#12,"接待って、そういうのを作るためにも
+必要なものなんだね。
+ちょっと勉強になったよ。","原来应酬招待，
+也是为了开拓建立这种人脉呀。
+我又长了点见识呢。",translated,依恩,677c310a74,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#357#12,"コネって、知り合いからのお墨付きって
+ことでもあるから、ある意味安心保障と
+同じ役割があるんだって。","所谓的人脉背景，代表着熟人的背书担保，
+据说在某种意义上起到了定心丸的作用呢。",translated,依恩,2362db1ba9,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#358#12,"だから、やっぱりコネがあると無いとでは
+結構差が出ちゃうんだって。","所以据说有背景和没背景，
+往往真的会拉开不小的差距呢。",translated,依恩,5145502a85,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#359#12,"お仕事でもたくさんの人と
+仲良くなれるといいね。","希望你在工作中
+也能和很多人成为好朋友呢。",translated,依恩,e8ee9ed4a9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#363#12,"えぇっ！？
+社会人じゃないわたしに聞かれても
+困るよぉ……。","诶诶！？
+问我这个还没踏入社会的学生，
+我也很头大呀……。",translated,依恩,4166b56a53,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#364#12,"う～ん……でも、前に読んだ本には、
+ゴルフでわざと勝たせたり、可愛い子が
+沢山いる飲み屋に連れて行ったり……。","唔～……不过我以前看过的书里写着，
+打高尔夫时故意放水让对方赢、
+或者带去有漂亮妹子的居酒屋……。",translated,依恩,fd216ffbed,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#365#12,"と、とりあえず、相手が楽しめるような
+ことをすればいいんじゃないかな、って
+思うよ。","总之我觉得，先做一些
+能让对方开心享受的事情，
+应该就错不了吧。",translated,依恩,5a0aeac6e1,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#368#12,食事を通して仲良くなれたと思う,感觉通过聚餐关系拉近了不少,translated,,23ddf78e34,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#369#12,パーティで色々な人と知り合った,在酒会上结识了各种各样的人,translated,,751ec0e4fe,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#370#12,なぜか珍味の話で盛り上がった,不知为何聊珍稀野味聊得超嗨,translated,,5087583846,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#371#12,少しハメをはずしすぎたので心配,玩得有点太忘乎所以了有点担心,translated,,cf20ef7816,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_01.txt#374#12,"ふふっ、取引先の人と仲が良くなれば、
+仕事が今以上にしやすくなりそうだね。","呵呵，和客户打好关系的话，
+之后工作对接起来肯定会比现在顺畅多啦。",translated,依恩,e2d32c40e6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#376#12,"ふふっ、仲良くなればこれからの仕事も、
+今まで以上にやりやすくなるね。","呵呵，只要交情深了，今后的工作
+也能比以往都更加得心应手呢。",translated,依恩,d533c5289f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#377#12,"ずっと仲良しでいられるように、
+これからも食事に行ったりして、
+縁を深めて行けたらいいね。","为了能一直保持良好的交情，
+以后也多约着聚聚餐，
+进一步加深彼此的情谊就好啦。",translated,依恩,ccf20c8414,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#381#12,"社会人にとってのパーティーは、
+仕事の繋がりを作る場所でもあるんだよね。","对于成年人来说，社交宴会
+也是拓展人脉资源与业务合作的场所呢。",translated,依恩,36e6af605c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#382#12,"今回お話した人の中から、
+一緒に仕事をする人が出てきてくれると
+いいね。","希望这次跟你交谈过的人里面，
+将来能涌现出并肩合作的商业伙伴就好啦。",translated,依恩,78810d919d,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#385#12,"……と、取引先の人と珍味の話で盛り上がる
+状況って、謎過ぎるよ。","……和、和合作客户聊珍味聊得热火朝天，
+这场景未免也太迷了吧。",translated,依恩,7d072a4c6d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#386#12,"もしかして、珍味を食べられるお店で
+食事をしたのかな？","难道说，你们是在能吃到特色野味的名店里
+一起吃的那顿饭吗？",translated,依恩,98e3cf076b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_01.txt#387#12,"取引先との食事って、もっと普通のお店で
+するものだと思ってたんだけど……
+社会人って、大変なんだね。","我还以为和客户聚餐，
+都是在更正统规矩的餐馆里吃呢……
+大人的世界还真不容易呀。",translated,依恩,3429b92274,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#390#12,"あらら……それはちょっとマズいかも。
+早いうちに謝っておいた方がいいんじゃ
+ないかな？","哎呀呀……那可有点不妙呢。
+趁早登门致歉解释一下
+会不会比较好呀？",translated,依恩,634da9ded5,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_01.txt#391#12,"楽しくてハメをはずしてしまいました、
+って言えば、きっと向こうも悪い気は
+しないよ。","只要如实说“因为太开心一时失态放肆了”，
+对方想必也不会心存芥蒂怪罪你的啦。",translated,依恩,19fdd0fffa,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#1#12,テスト,考试,translated,,63b560db88,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#2#12,授業,上课,translated,,8259b1bcb8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#3#12,部活,社团活动,translated,,692d8367c6,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#4#12,先生,老师,translated,,a6e9f6d970,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#14#12,勉強,复习,translated,,a709b05c38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#15#12,本番,考场实战,translated,,5ede695b38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#16#12,結果,成绩结果,translated,,a77c4c0857,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#24#12,勉強,听讲,translated,,a709b05c38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#25#12,補習,补课,translated,,da9b00ed47,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#26#12,居眠り,打瞌睡,translated,,76b85a344a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#34#12,練習,训练,translated,,2ff4a6f70b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#35#12,大会,大赛,translated,,97ff78ea3b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#36#12,仲間,伙伴,translated,,fcc04173f9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#44#12,勉強,请教,translated,,a709b05c38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#45#12,食事,用餐,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#46#12,近況,闲聊近况,translated,,e6799377aa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#54#12,計画的にやっている,在按部就班有计划地复习,translated,,6a33cffa40,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#55#12,一夜漬けで大丈夫,临阵磨枪通宵突击就搞定了,translated,,42095fa18f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#56#12,やってはいるけど捗らない,在学是在学但效率很低,translated,,7a45b8fe05,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#57#12,まったくやってない,完全没动过笔,translated,,25a58ad0db,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#60#12,ふふっ、それなら安心だね。,呵呵，那就放心啦。,translated,依恩,a5158ab319,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#61#12,この調子で、本番までがんばろー！,保持这个势头，坚持到正式考试那天吧――！,translated,依恩,a9bd934ef5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#63#12,"勉強を計画的にできる人っていうのは、
+すごくしっかりした人なんだと思うの。","能够按部就班有计划学习的人，
+我觉得一定是非常踏实沉稳的人哦。",translated,依恩,104e1e26db,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#64#12,"だから、きっとあなたはすごくしっかりした
+素敵な人なんだね。","所以，你一定是一个非常靠谱且优秀的
+大好青年呢。",translated,依恩,f27e4e340e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#65#12,"ふふっ、ちょっと見直しちゃった。
+本番まで、この調子で頑張ってね！","呵呵，我对你有点刮目相看了呢。
+到正式考前，都要保持这股劲头加油哦！",translated,依恩,53f4ddfaf7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#70#12,"あ、あはは……こういったら失礼かも
+しれないけど、なんとなくオチが見えてる
+ような……。","啊、啊哈哈……这么说可能有点失礼，
+但我仿佛已经预见到结局了……。",translated,依恩,d86f1b270c,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#71#12,"まだテストまで余裕があるなら、
+一日一時間でいいから勉強した方が
+いいと思うよ？","要是距离考试还有富余时间的话，
+就算每天只学一个小时，
+也还是按部就班学一点比较好哦？",translated,依恩,5ec8453690,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#73#12,"……わ、わたしから言えるのは、
+この一言だけかな？","……我、我能说的，
+大概也只有这一句话了吧？",translated,依恩,9939137463,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#74#12,全然大丈夫じゃないよ！,根本就一点都不稳好吧！,translated,依恩,5ca1d240f1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#78#12,あらら……ちょっとスランプ気味なのかな？,哎呀呀……难道是进入低谷瓶颈期了吗？,translated,依恩,c1cb8af864,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#79#12,"こういう時は思い切って、一日おもいっきり
+遊んでリフレッシュすることも大切だよ。","这种时候下定决心痛快玩上一整天，
+好好换换心情也同样重要哦。",translated,依恩,04afb436bf,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#80#12,"気持ちを一度切り替えて、
+前回よりもいい点数を目指そ！","转换一下心情，
+争取考出比上次更棒的成绩吧！",translated,依恩,90fdf493e1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#83#12,……ど、どう受け取ればいいのかな？,……我、我该作何感想才好呢？,translated,依恩,85c2c437e9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#84#12,"やらなくてもいい点数を取れる自信が
+あるのか、最初から諦めてるのか……。","是胸有成竹不复习也能拿高分呢，
+还是从一开始就彻底破罐破摔放弃了呢……。",translated,依恩,4022de87c2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#85#12,前者であることを信じてるよ。,我坚信肯定是前者！,translated,依恩,8ce3d91d2c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#88#12,自信がある,很有信心,translated,,9a73a4cae2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#89#12,少し不安,有点不安,translated,,cb57e914e0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#90#12,ダメかもしれない……,感觉可能要完……,translated,,ac00194baa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#91#12,勘で勝負,全凭第六感直觉赌一把,translated,,2998de1db1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#93#12,ふふっ、準備万端みたいだね。,呵呵，看来你准备得很充分呢。,translated,依恩,e4cf1444af,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#94#12,テストの結果、期待しているよ！,我很期待你的考试成绩哦！,translated,依恩,6514063818,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#98#12,本番前はどうしても不安になっちゃうよね。,正式考试前无论如何都会感到不安的呢。,translated,依恩,1db75641f5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#99#12,"けど、ここまで来たら不安になっても
+仕方ないよ。","不过事已至此，
+光是不安也无济于事嘛。",translated,依恩,035d5924c6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#100#12,持てる力を全て出し切ろう！,把全部的实力都发挥出来吧！,translated,依恩,b6c54c47b8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#102#12,"やっぱり、本番前になるとどうしても
+不安になっちゃうよね？","果然一到正式开考前，
+无论怎样都会忍不住心里打鼓对吧？",translated,依恩,0b47380333,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#103#12,"けど、ちょっとくらい不安を感じてる方が
+緊張感を保てると思うの。","不过我觉得稍微抱有一点不安，
+反而更能维持住应有的紧张专注度哦。",translated,依恩,31fb6dc206,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#104#12,"それに、わたしはあなたのこと信じてる。
+だから、おもいっきり頑張って！","而且，我相信你一定行的。
+所以，放手去拼搏吧！",translated,依恩,029e4bda33,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#108#12,は、始まる前から諦めちゃダメだよ！,考、考前就放弃绝对不行哦！,translated,依恩,ebe4d48fa1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#109#12,"そんな弱気でいると、本番の時に
+実力のほとんどを出せなくなっちゃうよ？","那么消极退缩的话，
+考场上连大半的实力都发挥不出来的哦？",translated,依恩,fe6a6cea62,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#112#12,それ、勝負以前に負け戦だよ！,那根本不用比就已经是必败无疑了嘛！,translated,依恩,5655b93cdb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#113#12,"お願いだから、テストが始まる前に
+一度だけでもいいから教科書を見直してね。","拜托你啦，在开考之前，
+哪怕只看一遍也请好好翻一遍课本哦。",translated,依恩,10edf3493d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#116#12,いい点が取れた,考了个好成绩,translated,,ca0d182cf2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#117#12,まぁまぁだった,成绩马马虎虎吧,translated,,eb3e330923,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#118#12,ダメだった……,彻底考砸了……,translated,,b4515dd2f9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#119#12,ヤマが外れた,押题全押歪了,translated,,ecbc393a59,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#121#12,"わぁ、おめでとう！
+しっかり勉強した結果が出たね。","哇，恭喜你！
+认真复习的汗水终于换来回报了呢。",translated,依恩,13e6c4dcb2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#122#12,次のテストもこの調子で頑張ろうね。,下次考试也要保持这个势头继续加油哦。,translated,依恩,75ac75981b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#123#12,"けど、今はとりあえず一息つこう。
+本当にお疲れ様でした。","不过现在暂且松一口气歇歇吧。
+真的辛苦你啦。",translated,依恩,183bc6cb60,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#126#12,"う～ん、思ったよりいい点数は
+取れなかったみたいだね。","唔～看来没能考出
+预想中那么好的分数呢。",translated,依恩,545c32f647,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#127#12,"けど、とりあえず終わったんだから
+今は一息入れよう。","不过既然总算是考完了，
+现在就先喘口气好好歇一歇吧。",translated,依恩,f79b841db1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#128#12,"それで、次のテストではいい結果を
+目指そうね。","然后争取在下次考试中，
+拿下理想的好成绩哦。",translated,依恩,c7f033ff5d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#131#12,そっか……ちょっとガッカリだね。,这样啊……那还真有点让人失落呢。,translated,依恩,7a720c507a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#132#12,けど、まだ次があるよ！,不过，我们还有下一次呢！,translated,依恩,a36526a89b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#135#12,"あらら……あまり詳しく聞かない方が
+よさそうだね。","哎呀呀……看来还是不要
+打破砂锅问到底比较好呢。",translated,依恩,dfe80022dd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#136#12,で、でも、こういうこともあるよ！,不、不过，这种事情也是在所难免的嘛！,translated,依恩,c2686c14f8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#137#12,"気を落とさずに、次のテストこそ
+いい点目指そ！","别灰心丧气，
+下次考试一定要以高分为目标冲刺！",translated,依恩,ddec044993,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#140#12,勉強は大好き,超喜欢学习,translated,,942ec5b56b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#141#12,真面目に受けている,听课很认真,translated,,c24c5c411c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#142#12,苦手な科目がある,有不擅长的科目,translated,,ca9d7e5dec,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#143#12,午後からの授業は眠い,下午的课好困,translated,,99230809b4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#145#12,ふふっ、勉強はわたしも大好きだよ。,呵呵，学习也是我的最爱哦。,translated,依恩,6314b8b966,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#146#12,"自分の知らない知識を得るのって、
+すごく楽しくなってくるよね！","获取自己未知的知识，
+真的会让人觉得超级快乐对吧！",translated,依恩,b58e30b38f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#147#12,"ま、まあ、苦手な科目もあるから、
+それに関してはあまり好きとは
+言えないけど……。","嘛、虽说我也有偏科不擅长的科目，
+对那些就谈不上有多喜欢了就是啦……。",translated,依恩,2917d23b74,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#150#12,ふふっ、優秀な生徒なんだね。,呵呵，原来你是个好学生呢。,translated,依恩,ffe585fd2b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#151#12,"あなたみたいな生徒がいてくれたら、
+きっと先生も教え甲斐があるんだろうなぁ。","有你这样认真听讲的学生，
+老师教起书来肯定也很有成就感吧。",translated,依恩,051282fc5c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#154#12,そういうのはあるのが当然だよ。,有弱项科目也是理所当然的啦。,translated,依恩,5a23792c8a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#155#12,"わたしだって、勉強は好きだけど
+苦手な科目はあるし……。","就连我自己虽然喜欢读书，
+也一样有不擅长的科目嘛……。",translated,依恩,4531e99e8f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#156#12,"でも、苦手でも投げ出さずに、
+できる限り頑張ることが大切なんだと
+わたしは思うな。","不过我认为哪怕不擅长也不轻言放弃、
+尽己所能去努力才是最重要的哦。",translated,依恩,10ec8005f3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#159#12,"ご飯を食べた後って、
+どうしても眠くなっちゃうよね？","吃饱饭之后，
+无论如何都会犯困的对吧？",translated,依恩,a1a5936f9a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#160#12,"そういう時って、無理やり起きてても
+授業の内容がまったく頭に入らないから、
+正直寝ちゃった方がいい気もするけど……。","那种时候强撑着不睡也是半个字都听不进去，
+说实话感觉倒不如干脆睡一觉算了……。",translated,依恩,599d04032d,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#161#12,"でも、そうすると先生に怒られちゃうし、
+結局どうするのが一番いいんだろうね？","可是睡着了又会被老师训斥，
+到底怎么做才是最好的办法呢？",translated,依恩,110c8efc5b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#164#12,補習を受けることになった,被罚去参加补课了,translated,,8159758abb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#165#12,補習に慣れてしまった,已经对补课习以为常了,translated,,401c626a04,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#166#12,受けたことがない,从没被叫去补过课,translated,,63f5f8e9fb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#167#12,正直めんどくさい,说实话真嫌麻烦,translated,,795b597d9b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#170#12,あらら……テストの点数が悪かったのかな？,哎呀呀……是考试考砸了吗？,translated,依恩,e21d3751b7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#171#12,"でも、補修は足りない箇所を補うために
+あるものだから、無駄にはならないよ。","不过，补课本来就是为了查漏补缺而设立的，
+绝不会白白浪费时间哦。",translated,依恩,e38358df50,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#172#12,"この際だから、マジメに受けてしっかりと
+身につけてきてね。","趁这个机会，老老实实好好听课，
+把知识点扎扎实实掌握牢靠吧。",translated,依恩,9e125a818b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#174#12,補修って、自主的に受ける補修のことかな？,补课是指你自主自愿去听的课业辅导吗？,translated,依恩,163d06bb75,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#175#12,"もしそうだとしたら、あなたのことを
+尊敬するよ。","如果真是那样的话，
+那我可真要好好敬佩你一番了呢。",translated,依恩,3a001072fe,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#176#12,"勉強に対しての向上心がある人って、
+すごく素敵だと思う。","对学业抱有上进心的人，
+我认为真的非常有魅力。",translated,依恩,d9d399b5e3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#177#12,わたしも、あなたを見習わないと。,我也得好好向你学习才行呢。,translated,依恩,487784d96e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#181#12,そ、そんなに補修に出てるの？,你、你居然去过那么多次补课吗？,translated,依恩,9602637a23,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#182#12,"う～ん、どういう理由で補修を受けてるか
+わからないから、何て言えばいいのか
+悩むけど……。","唔～因为不知道你是因何缘故去补课的，
+一时间我都不知道该怎么说才好了……。",translated,依恩,8859450c00,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#183#12,"もしテストの点数が悪くて補修を
+受けてるんだとしたら、普段から
+勉強するようにした方がいいよ。","如果是因为考分太低才被迫去补课的话，
+平时还是得养成好好读书的习惯比较好哦。",translated,依恩,3c0dba57d1,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#186#12,"うん、補修は受けないで済むなら
+それが一番だと思うよ。","嗯，要是能不用去补课，
+那肯定是最理想的啦。",translated,依恩,97738fe78c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#187#12,"もちろん、もっと勉強していい学校や
+いい会社に入りたい、っていう目標が
+あるなら受けるべきだと思うけど……。","当然，如果你是为了考进好学校、进入好公司
+而主动深造，那自然应该去上辅导课……。",translated,依恩,352cdf20f4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#188#12,"そうじゃないなら、悪い点数とかを
+取った時以外は受けなくていいんじゃない
+かな？","如果不是那样的话，
+只要没考砸，平时也就没必要专门去补课了吧？",translated,依恩,a6242ca1a4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#191#12,もぉ、そんなこと言ったらダメだよ。,真是的，可不许说这种话哦。,translated,依恩,1994214216,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#192#12,"補習っていうのは、身についていない箇所を
+補うためにするものなんだから、面倒なんて
+言っていたらみんなに置いてかれちゃうよ。","补课本来就是为了填补掌握不牢的知识，
+要是光嫌麻烦的话，
+很快就会被大家远远甩在身后的哦。",translated,依恩,c67179a7f9,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#193#12,"まあ、気持ちはわからなくはないけど、
+それならもう補修に出なくてもいいように、
+これからは頑張ろ！","嘛，虽然我也不是不能理解你的心情，
+不过既然如此，为了以后不再被抓去补课，
+从现在开始加油吧！",translated,依恩,65a01d2e14,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#196#12,居眠りしたことはない,从没在课堂上打过瞌睡,translated,,4d3f6ef390,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#197#12,実は結構してる,其实睡得还挺频繁的,translated,,027ed87c85,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#198#12,怒られてからしなくなった,挨了一顿骂后就不敢睡了,translated,,c55382c7d3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#199#12,たまに……,偶尔会睡……,translated,,fbb4d2beec,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#201#12,えぇっ！？　それって、結構すごいかも。,诶诶！？那其实还挺厉害的呢。,translated,依恩,ed81c3bf93,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#202#12,"あっ、もちろん居眠りするのは
+いけないことだよ？","啊，上课打瞌睡
+当然是不对的哦？",translated,依恩,461a24a19e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#203#12,"けど、ご飯の後とかも居眠りしないで
+いられるのは、ちょっと尊敬しちゃうな。","不过就连吃过午饭也能保持不打瞌睡，
+我都有点佩服你了呢。",translated,依恩,96e98573d2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#206#12,"ちょっとならまだしも、結構っていうのは
+問題だと思うよ？","偶尔打个盹也就算了，
+经常睡的话可就是大问题了哦？",translated,依恩,963e125264,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#207#12,"先生からも目を付けられちゃうと思うし、
+少し気をつけた方がいいよ。","而且肯定会被老师盯上的，
+你还是多注意一点比较好哦。",translated,依恩,ab6d8d2831,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#210#12,あらら……結構強く怒られちゃったのかな？,哎呀呀……难道被训得相当狠吗？,translated,依恩,fe2182ea8a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#211#12,"でも、そのおかげで居眠りしないように
+なったなら、怒ってくれた先生に感謝だね。","不过如果能因此改掉上课打瞌睡的毛病，
+倒真得好好感谢训斥你的老师呢。",translated,依恩,e3a9feeeb5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#214#12,"ふふっ、たまになら仕方がないと思うよ。
+午後の授業とかはどうしても眠くなっちゃう
+と思うし……。","呵呵，偶尔睡一下也无可厚非啦。
+毕竟下午的课无论如何都会犯困的嘛……。",translated,依恩,b4c4d6436e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#215#12,"でも、先生に目を付けられないように
+気をつけてね。",不过可要小心别被老师盯上哦。,translated,依恩,2af17ef91a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#218#12,練習は楽しい,训练很有意思,translated,,a78a43c905,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#219#12,毎日の積み重ねが大事,每天的积累最为关键,translated,,8ac71b43c3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#220#12,大会が近いから頑張る,大赛将近要加倍努力,translated,,2fb8cd87f4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#221#12,練習がキツイ……,训练太苦太累了……,translated,,4bccef04fb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#224#12,ふふっ、部活が大好きな証拠だね。,呵呵，说明你真心热爱社团活动呢。,translated,依恩,b16897d965,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#225#12,"あなたみたいな人が一緒の部活にいたら、
+他の人もやる気が出そうだね。","社团里要是有你这样的人在，
+其他人肯定也会跟着干劲十足呢。",translated,依恩,4eb7266e90,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#227#12,"ふふっ、楽しみながら打ち込めるのって、
+素敵だと思うよ。","呵呵，能乐在其中全身心投入，
+我觉得是一件超棒的事哦。",translated,依恩,c36d3d3acb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#228#12,"わたしも学校に行ってた時には、
+そういう部活に所属していたのかな？","我以前在学校读书的时候，
+是不是也参加过这种社团呢？",translated,依恩,d1ead95e77,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#232#12,うん、わたしもそう思うよ。,嗯，我也这么觉得哦。,translated,依恩,18766eb308,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#233#12,"毎日練習をして、その成果を実感できた時の
+瞬間って、すごく嬉しいよね。","日复一日刻苦训练，
+真切体会到训练成果的那一瞬间，
+真的会超级开心对吧。",translated,依恩,511ac0dfe8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#236#12,わっ、大会がある部活なんだ！？,哇，原来是会去参加大赛的社团呀！？,translated,依恩,c48f60f4ed,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#237#12,"それなら、いつも以上に練習に力を
+入れないといけないね。","既然如此，那就必须比以往
+更加投入刻苦训练才行呢。",translated,依恩,be965122dc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#241#12,"練習がキツいと、ちょっとだけ
+部活に行くのが億劫になるよね。","训练太艰苦的话，
+有时确实会让人对去社团心生退意呢。",translated,依恩,85982f97f1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#242#12,"でも、それでも続けてるってことは、
+それだけ部活が大好き、って証拠だと
+思うし……。","不过即便是那样你依然在坚持，
+正好证明你是发自内心深爱着社团的嘛……。",translated,依恩,b3bf9da0d4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#243#12,"それに、練習がキツい分、大会とかで
+結果が出た時の嬉しさは倍増するはずだよ！","而且平时的训练越是辛苦，
+在大赛上取得战果时的喜悦就越是加倍哦！",translated,依恩,c3f7d23fb9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#245#12,"やっぱり、練習はどうしてもキツいって
+感じちゃうものだよね。","面对日复一日的高强度训练，
+会觉得吃不消也是在所难免的呢。",translated,依恩,4632acbffc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#246#12,"わたしの前では、いくらでも弱音を
+吐いてくれていいよ。","在我面前，
+你想怎么示弱泄气都没关系哦。",translated,依恩,993fa858ed,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#247#12,"その代わり、キツいから辞める、っていう
+選択だけはしないでね。","作为交换，可千万不要因为辛苦
+就做出退团放弃的决定哦。",translated,依恩,787d520171,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#251#12,緊張する,好紧张,translated,,dcb1283960,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#252#12,頑張ろうと思う,打算全力以赴,translated,,812dfec9f7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#253#12,練習の成果を出したい,想发挥出平时的训练水平,translated,,c4933abf02,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#254#12,応援してほしい,希望你能为我加油,translated,,3da0d7ac16,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#256#12,"ふふっ、やっぱり大会本番は
+緊張しちゃうよね。","呵呵，到了大赛正赛
+难免还是会紧张的呢。",translated,依恩,acf4eb76d7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#257#12,"けど、今まで頑張ってきたんだから
+大丈夫だよ。","不过既然一直以来都那么刻苦拼搏，
+就一定没问题的。",translated,依恩,a7cc0ca227,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#258#12,"緊張しないで、練習の成果を
+フルに発揮してきてね。","放平心态别紧张，
+去把平时的训练成果百分百发挥出来吧。",translated,依恩,56e4839cde,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#261#12,"うん、頑張って練習した成果を
+おもいっきり出してきてね。","嗯，痛痛快快把苦练的成果
+全部施展出来吧。",translated,依恩,baf2a4a0f9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#262#12,"見に行くことはできないけど、
+ここでずっとあなたのことを
+応援してるよ。","虽然我没办法去现场观赛，
+但我会在这里一直一直
+为你祈祷加油的哦。",translated,依恩,cf132b2ba0,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#266#12,"この日のために、毎日頑張って
+練習してきたんだね。","为了迎接这一天的到来，
+你每天都在全力以赴刻苦训练呢。",translated,依恩,43f0096bbc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#267#12,"頑張って、いい結果を出してきてね。
+目指せ優勝、おーっ！","加油，去拼出一个好成绩来吧。
+目标是夺冠，噢――！",translated,依恩,2277dde184,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#269#12,"うん、勝ち負けも大切だけど、
+まずは練習の成果をおもいっきり
+出すことが大切だよ。","嗯，输赢虽然重要，
+但首先最关键的，是把自己平时的
+训练成果毫无保留地打出来哦。",translated,依恩,8eeb3bc7b5,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#270#12,"わたしも、ここから応援してるね。
+頑張って！","我也会在这里为你加油打气的。
+冲呀！",translated,依恩,ea08b8f79c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#274#12,"ファイト、ファイト、あーなーたー！
+優勝目指して、えいえいおーっ！","加油、加油、亲――爱――的！
+以夺冠为目标，冲冲冲――！",translated,依恩,1be2dcec74,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#275#12,えへへ……結果、楽しみにしてるね。,嘿嘿……我很期待你的比赛成绩哦。,translated,依恩,fd04328e20,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#278#12,みんな楽しくやってる,大家都在开开心心地活动,translated,,1f6f3479db,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#279#12,新しい仲間が増えた,迎来了新的社团伙伴,translated,,27981c8d59,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#280#12,喧嘩するときもある,有时也会起冲突吵架,translated,,8ffb300afe,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#281#12,帰りに買い食いするのが楽しい,训练完回家的路上买零食吃超开心,translated,,d322bd61d3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#284#12,"ふふっ、みんな部活が大好きな
+人達なんだね。","呵呵，大家都是真心热爱
+社团活动的人呢。",translated,依恩,2acbd92e0d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#285#12,"そんな仲間が一緒なら、部活も楽しくて
+仕方ないんだろうなぁ……。","有这样一帮志同道合的同伴在一起，
+参加社团活动肯定会开心得不得了吧……。",translated,依恩,6e01ad75b8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#287#12,部活内の人間関係は大切だね。,社团内部的人际关系真的很关键呢。,translated,依恩,46e59742d1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#288#12,"部員同士の仲が悪いと、部活をサボる
+人も出てくると思うし、部活そのものも
+楽しいと思えなくなっちゃうもん。","要是部员之间关系僵硬，
+肯定会有人开始偷懒旷课，
+社团活动本身也会变得毫无乐趣了嘛。",translated,依恩,b874700df0,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#292#12,新入部員が入ってきたんだ？,有新部员加入进来了呀？,translated,依恩,6cdad79b80,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#293#12,"ふふっ、仲間が増えるのって嬉しいよね。
+新人さんに、色々教えてあげてね。","呵呵，伙伴增多真令人高兴。
+要多教教新来的后辈哦。",translated,依恩,b428b56e1d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#296#12,"いつも喧嘩してたとしたら問題だけど、
+時々ならそれもいいんじゃないかな、って
+思うの。","要是天天吵架确实是个问题，
+但偶尔磕磕绊绊也是挺好的嘛。",translated,依恩,64f1b97970,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#297#12,"それに、喧嘩する時もある、ってことは、
+喧嘩しても毎回ちゃんと仲直りしてる、
+ってことでしょ？","而且既然只是“有时会吵”，
+说明每次吵完架之后
+大家都会好好重归于好对吧？",translated,依恩,294e38b7e9,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#298#12,"喧嘩するほど仲がいい。
+その言葉がピッタリだね。","打是亲骂是爱越吵感情越深，
+这句话用在你们身上再贴切不过啦。",translated,依恩,3440e9e835,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#301#12,ふふっ、帰り道もみんなと一緒なんだね。,呵呵，放学回家的路上也是大家结伴同行呀。,translated,依恩,4b350d3ed9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#302#12,"部活の仲間と一緒に食べる物なら、
+どんな物でもすごく美味しく感じるん
+だろうなぁ……。","只要是和社团的伙伴们凑在一起吃东西，
+不管吃什么肯定都会觉得超级美味吧……。",translated,依恩,69838591a2,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#305#12,丁寧に教えてくれる,耐心细致地教我,translated,,e4621f0df2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#306#12,怖いから苦手,太凶了有点害怕他,translated,,8fc054a24d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#307#12,授業が分かりやすい,课讲得通俗易懂,translated,,ff8fcdb6ed,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#308#12,話を聞いてなくて怒られた,没认真听讲挨了顿批,translated,,6b14f59343,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#311#12,"わからないところがあっても、
+丁寧に教えてくれる先生がいると
+安心できるよね。","即使遇到不懂的地方，
+只要有能悉心耐心解答的老师在，
+就会感到特别安心对吧。",translated,依恩,fea9c1030c,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#312#12,"生徒を見離さない先生、って感じがして、
+ちょっと尊敬しちゃうよ。","总觉得那是位绝不放弃任何学生的负责好老师，
+真让人肃然起敬呢。",translated,依恩,5f0d3b5493,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#314#12,ふふっ、良い先生だね。,呵呵，真是位好老师呢。,translated,依恩,3b9669f7c5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#315#12,"一つ一つ丁寧に教えてくれる先生が
+いてくれたら、こっちも頑張ろう、って
+気持ちになるよね。","有愿意一点一滴耐心指导的老师在，
+自己也会情不自禁地
+涌现出“一定要好好努力”的冲劲呢。",translated,依恩,d3b2250fdc,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#319#12,怖い先生はいるよね。,严厉凶悍的老师确实是有的呢。,translated,依恩,5a5bfcc368,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#320#12,"すぐ怒ったり、授業についてこれない
+生徒は置いていく、みたいな先生だと、
+近寄りがたいものがあるもん。","要是动不动就发脾气、
+直接抛下跟不上进度的学生不管，
+这种老师确实会让人敬而远之呢。",translated,依恩,57523a227c,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#321#12,"でも、生徒達のことを想って怖い先生を
+演じてる場合もあるから、そこは勘違い
+しないようにね。","不过有时老师也是为了学生着想
+才故意扮演严师的，
+这一点可不要误解了人家哦。",translated,依恩,1c85df5cd7,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#324#12,"わかりやすい授業をしてくれる先生って、
+すっごく頭がいいんだろうなぁ、って
+尊敬するよね。","能把课讲得深入浅出通俗易懂的老师，
+头脑肯定超级聪明吧，
+真让人心生崇敬呢。",translated,依恩,800b604af2,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#325#12,"すごく複雑な問題とかを、ビックリする
+くらい簡単に説明できたりするんだもん。","明明是极其复杂深奥的难题，
+却能举重若轻地解释得一清二楚呢。",translated,依恩,269791fc78,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#326#12,"わたしも、人にモノを教えられるような
+人に、いつかはなりたいなぁ……。","我也希望将来有朝一日，
+能成为足以向别人传授知识的人才呀……。",translated,依恩,bc56132053,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#329#12,"あはは、誰しも一回は経験あるよね。
+よくあることだから、気にしなくて
+大丈夫だよ。","啊哈哈，谁都有过那么一两次这种经历啦。
+大家常犯这种小毛病，
+不用太放在心上哦。",translated,依恩,f7c28af5df,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#330#12,"でも、今度からは気をつけてね。
+何度もやってると目を付けられちゃうよ。","不过下次可要注意啦。
+要是老犯的话可是会被老师盯上重点关照的哦。",translated,依恩,75561b89f1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#333#12,みんなで食事に連れて行ってもらった,老师带大家一起去聚餐了,translated,,698afe2684,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#334#12,食事の席でいつもと違う話が聞けた,聚餐时听到了平时不一样的故事,translated,,ec88755b6c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#335#12,たまには一緒に食事したい,偶尔也想和老师一起吃个饭,translated,,e69a19150f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#336#12,先生の好き嫌いが分かった,摸清了老师的喜好偏食,translated,,0ef352245b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#338#12,"み、みんなに奢ったの！？
+先生、お財布大丈夫かなぁ？","给、给大家全员请客了吗！？
+老师的钱包真的撑得住吗？",translated,依恩,c7bbc7c398,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#339#12,ちゃんとお礼を言っておかないとダメだよ。,可一定要好好向老师道谢才行哦。,translated,依恩,543c1f1413,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#340#12,"それと、また連れて行ってくださいね、
+も忘れずにね、えへへ……。","还有，“下次请务必再带我们去哦”，
+这句话也别忘了说，嘿嘿……。",translated,依恩,155ce1262a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#343#12,"授業以外の先生の話って、
+ちょっと不思議で新鮮な感じがするよね。","课堂之外听老师讲闲话，
+总觉得有种奇妙又新奇的特别感触呢。",translated,依恩,e98bedbd88,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#344#12,"時々は、先生と雑談をする時間を
+作ってもらうといいかもしれないね。","偶尔抽空找老师闲聊拉拉家常，
+感觉或许也挺不错的呢。",translated,依恩,800352712c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#347#12,"何か先生に相談したいことでも
+あるのかな？","难道是有什么事情
+想找老师请教商量吗？",translated,依恩,29c8816cb3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#348#12,"お願いすれば、食事の時間くらい
+喜んで取ってくれると思うよ。","只要你诚恳拜托，
+腾出一顿饭的时间老师肯定很乐意的哦。",translated,依恩,35a75f453b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#351#12,先生の好き嫌い？,老师的喜好偏食？,translated,依恩,bb06fe797f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#352#12,"もしかして、何かプレゼントでも
+計画してるのかな？","难道说，你是在策划
+要给老师送什么礼物吗？",translated,依恩,6815595cb3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#355#12,面白くて人気がある,风趣幽默很受欢迎,translated,,ada8bd7f42,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#356#12,最近仲良くなった,最近和老师混得很熟,translated,,cdb7f39d11,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#357#12,忙しくて大変そう,天天忙得脚不沾地好辛苦,translated,,9dc0a8e8e2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#358#12,意外な秘密を知った,撞破了老师意想不到的秘密,translated,,9745303a5f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#360#12,"生徒と同じで、先生も面白い人だと
+人気があるよね。","和学生一样，
+风趣幽默的老师也很有人气呢。",translated,依恩,b08ca498b5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#361#12,"休み時間も生徒達に囲まれて
+言葉攻めにあってたりするし……。","课间休息时经常被学生们团团围住
+问个不停吵吵嚷嚷的……。",translated,依恩,17d09fbf28,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#362#12,"授業の質問とかがある時、
+ちょっと困りそうだね……。","要想正经请教课堂疑问时，
+感觉还会稍微有点犯难呢……。",translated,依恩,9f4039eb2f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#365#12,"先生と仲良くなると、面白いお話とか
+聞けたりするのがいいよね。","和老师搞好关系之后，
+能听到很多好玩的事情，真挺不错的呢。",translated,依恩,a42a8399a8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#366#12,"運がよければ、テストのヒントとかも
+教えてもらえたりするし。","运气好的话，
+说不定还能套出考试的答题小提示呢。",translated,依恩,824ca51b63,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#367#12,"……ただ、色んなお手伝いをお願いされる
+確率が上がるから、そこは気をつけないと
+いけないけど。","……只是被抓去帮忙打杂的概率
+也会直线上升，这一点可必须多加注意就是啦。",translated,依恩,82ced0f047,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#370#12,"授業だけじゃなくて、テストを作ったり、
+部活の顧問をやったり、先生の仕事って
+色々あるもんね。","不仅要备课讲课，还得命题出卷、
+担任社团指导顾问，老师的工作
+真的有好多好多呢。",translated,依恩,ec7c126c42,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_02.txt#371#12,"もしあなたに余裕があるなら、
+できることは手伝ってあげてね。","要是你手头还有富余精力，
+能帮得上的忙就多搭把手帮帮老师吧。",translated,依恩,33f2cd24f5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_02.txt#374#12,せ、先生の意外な秘密を！？,撞、撞破了老师意料之外的秘密！？,translated,依恩,2d0732fd2f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_02.txt#375#12,"……言いふらしちゃダメだよ？
+先生はイメージも大切だと思うし。","……可绝对不能到处张扬乱讲哦？
+老师也是很注重自身公众形象的嘛。",translated,依恩,e73ee34f46,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#1#12,就職活動,求职应聘,translated,,86e611aad3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#2#12,受験勉強,备考升学,translated,,036198d45b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#3#12,家事,家务劳动,translated,,4a45cba086,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#4#12,その他,其他事情,translated,,7c2281ce71,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#14#12,会社探し,搜寻意向企业,translated,,84df5f7667,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#15#12,履歴書,个人简历,translated,,6ae6a63efc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#16#12,試験勉強,笔试复习,translated,,a6b04e1872,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#24#12,将来の夢,未来的梦想,translated,,2314373bad,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#25#12,参考書,教学辅导书,translated,,fd15e7796e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#26#12,息抜き,劳逸结合放松,translated,,510ec83b5f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#34#12,掃除・洗濯,打扫与洗衣服,translated,,4c71bdd45b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#35#12,料理,下厨做饭,translated,,df2144b498,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#36#12,整理整頓,整理收纳,translated,,1f13ec9b70,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#44#12,会話,找人聊天,translated,,a21911e56f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#45#12,遊び,休闲玩耍,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#46#12,特に何もしていない,没干什么特别的事,translated,,53ee069f34,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#54#12,決まった！,拿到录用offer了！,translated,,bc856d56b9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#55#12,これから頑張る,接下来要全力以赴,translated,,3c2d0470db,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#56#12,まだ探す気がない……,暂时还没心思去找……,translated,,ce2701a020,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#57#12,落ちた……,被刷掉了……,translated,,a1ae71b437,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#59#12,"やったぁ、おめでとう！
+とうとうあなたも社会人デビューだね。","太好啦，恭喜你！
+你终于也要正式步入社会啦。",translated,依恩,459e44e7b7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#60#12,"入社したら大変になるとは思うけど、
+負けずに頑張ってね！","入职之后想必会面临诸多挑战，
+可要毫不气馁地加油哦！",translated,依恩,2b73222319,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#63#12,うん、その意気だよ。,嗯，就是要有这股劲头！,translated,依恩,ac3dbf624e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#64#12,"頑張ろう、って気持ちがあれば、
+きっと結果に結びつくよ。","只要怀揣着拼搏向上的决心，
+一定能收获丰硕的成果哦。",translated,依恩,b73a4ddd03,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#67#12,"う～ん……会社探しは早くするに
+越したことないと思うんだけど……。","唔～……找工作我觉得
+还是宜早不宜迟比较好呢……。",translated,依恩,efe4c65258,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#68#12,"でも、それがあなたのペースって言うなら、
+わたしは静かに見守るね。","不过既然那是你自己的生活节奏，
+我就会静静地在身旁守望着你哦。",translated,依恩,347e2b54c5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#71#12,そっか……やっぱり、ショックだよね。,这样啊……确实很受打击呢。,translated,依恩,1754a47b53,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#72#12,"でも、会社はまだまだ沢山あるんだから、
+ここで諦めたりしたらダメだよ。","不过外面还有大把的公司在招人呢，
+绝对不能在这里就灰心放弃哦。",translated,依恩,a2cdd3077e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#73#12,わたし、あなたならやれるって信じてるよ！,我相信换作是你一定能够做到的！,translated,依恩,161e77b2b8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#76#12,うまい書き方がわからない,不知道怎么写才能出彩,translated,,3ad56ca59f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#77#12,手書きとプリントで工夫,在手写和打印排版上下了功夫,translated,,65565c5188,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#78#12,いい写真がとれない……,拍不出满意的证件照……,translated,,12a7cb27c7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#79#12,まだ書いていない,还没动笔写呢,translated,,35e7f1ba2a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#81#12,"うまい書き方を知りたいなら、
+ハウツー本の通りに書くのが
+一番じゃないかな？","如果想知道怎么写才能出彩，
+照着求职指导工具书的范本去写
+不就是最好的办法嘛？",translated,依恩,d45fbe39b8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#82#12,"一度、就職活動関係の本を買って、
+読んでみたらいいと思うよ。","不妨去买一本求职攻略相关的书，
+翻看研读一下试试看吧。",translated,依恩,d0cf297ed2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#85#12,"ず、随分凝った履歴書を作ろうとしてる
+みたいだね。","看来你打算制作一份
+相、相当讲究精致的简历呢。",translated,依恩,31d29e207f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#86#12,"ふふっ、でもそんな履歴書だったら、
+きっと他の人のよりも目立って印象に
+残りそうだね。","呵呵，不过做成那样的个性简历，
+肯定能从一堆求职者中脱颖而出、
+给人留下极其深刻的印象呢。",translated,依恩,0851f38bfc,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#89#12,"う～ん……確かに写真も大切だけど、
+そこまで気を使う必要あるのかな？","唔～……照片固然重要，
+但真的有必要纠结到那个地步吗？",translated,依恩,37a6823414,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#90#12,"芸能事務所とかに入るならまだしも、
+そうじゃないならちゃんと正面を向いてる
+写真さえ撮れてればいいと思うよ。","要进演艺经纪公司倒还另当别论，
+若非如此，只要拍张端正规矩的正脸照
+应该就足够过关了哦。",translated,依恩,c12e7e5ed8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#93#12,"履歴書は、できれば早いうちに
+書いておいた方がいいと思うよ？","简历的话，可以的话
+还是尽早写完比较妥当哦？",translated,依恩,58548d7c1f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#94#12,"後になると面倒くさくなっちゃったりも
+するし……。",拖到后头往往就会越来越嫌麻烦嘛……。,translated,依恩,78e3b33b2d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#95#12,"全部じゃなくても、書けるところだけでも
+書いておいた方がいいんじゃないかな？","哪怕没法一次填完，
+把能写的部分先写好也是极好的嘛？",translated,依恩,4226bef779,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#98#12,面接の練習してる,正在做面试模拟练习,translated,,ca212bb5ec,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#99#12,筆記の勉強,笔试备考,translated,,9f5068b6f8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#100#12,提出物の作成中,正在制作递交的作品材料,translated,,62f0d44f3f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#101#12,まだやっていない,还没开始准备,translated,,b9462901b8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#103#12,面接かぁ……あれって、怖いんだよね？,面试呀……那个据说超级吓人的对吧？,translated,依恩,cccd7408d8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#104#12,"人間性を否定する圧迫面接をしてくる
+会社とかもあったりするみたいだし……。","听说甚至有些公司还会进行
+全方位打击自尊心的压力面试呢……。",translated,依恩,003ccb7225,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#105#12,"どんな面接官に当たっても大丈夫なように、
+しっかり準備していってね。","为了遇到什么刁钻的面试官都能应对自如，
+一定要做好充分的准备去应考哦。",translated,依恩,92151c09f4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#108#12,筆記試験があるところって、大変だよね。,要考笔试的公司，真的挺折磨人的呢。,translated,依恩,a36fbceb0d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#109#12,"普通に数学や国語の試験なんかが
+出るところもあるみたいだし、
+何だか受験生みたい……。","听说有些企业还会正儿八经考数学语文，
+搞得简直跟中高考考生一样……。",translated,依恩,68a785c72b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#110#12,"大変だとは思うけど、そのスキルが必要な
+仕事なんだと思うから、勉強頑張ってね。","虽然很不容易，但这也是该工作必备的素养，
+要打起精神好好复习哦。",translated,依恩,ef04756cf7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#113#12,"提出物の課題があるんだ？
+あれって、筆記試験とはまた違う
+難しさがあるよね","原来还有递交作品作业的要求呀？
+那种考法和普通的纸面笔试相比，
+又有着另一种截然不同的难度呢。",translated,依恩,4390da2fb4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#114#12,"指示通りのモノにはなってるけど、
+クオリティとかはこれで平気なのか、
+みたいな不安も出てくるし……。","虽然形式上符合要求，
+但质量到底行不行、难免会让人心里打鼓呢……。",translated,依恩,c522935ba8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#115#12,"でも、とりあえずは完成させなくちゃ
+始まらないし、頑張って完成させちゃお！","不过总之不完成就无从谈起，
+鼓足干劲一口气把它做出来吧！",translated,依恩,b8f43fe112,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#118#12,えっと、余裕……と思っていいのかな？,呃，这算是……胸有成竹游刃有余吗？,translated,依恩,b6b2e2fb45,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#119#12,"それでも、少しは対策をしておいた方が
+いいと思うよ？","即便如此，
+多多少少提前做点应对准备也是好的哦？",translated,依恩,cd2f4e4b75,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#122#12,明確なビジョンが見えている,眼中有着清晰明确的未来蓝图,translated,,e34f7d35e0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#123#12,色々とやりたいことが多くて迷ってる,想做的事情太多了正在纠结,translated,,dcdf04fb7d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#124#12,お金を稼ぎたい！,想发大财赚大钱！,translated,,6f711faca8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#125#12,まだ今しか見えてない……,眼前只顾得上过好当下……,translated,,21335e4c5b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#127#12,"ふふっ、それなら今の自分が何を
+するべきなのか、ちゃんとわかってる
+みたいだね。","呵呵，看来你对自己当下
+到底该做些什么，
+心里非常有谱呢。",translated,依恩,55c03e9434,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#128#12,"あとはそのビジョンを現実にするために、
+おもいっきり頑張ろ！","接下来为了把那张蓝图化为现实，
+放手去全力以赴吧！",translated,依恩,7a0efd4553,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#131#12,"やりたいことがないのも困るけど、
+多過ぎるのも問題だね。","没有想做的事很苦恼，
+但目标太多也同样让人伤脑筋呢。",translated,依恩,bf084eb1b6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#132#12,"でも、選択肢が多いっていうのは、
+わたしからしたら羨ましいよ。","不过在我看来，
+拥有丰富的选择权真的很让人羡慕呢。",translated,依恩,8a87d1297b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#135#12,"う～ん……何だか、あなたってすごい
+大物になりそうな気がするよ。","唔～……我总觉得你将来
+肯定会成为一个了不起的大人物呢。",translated,依恩,cb7f503953,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#136#12,"稼ぎたい、ってことは、稼げるような
+仕事をしたい、ってことでしょ？","既然想赚大钱，意思就是
+想去挑战那些高回报的高难度工作对吧？",translated,依恩,ac8dd32855,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#137#12,"こういう人ほど、お金のためならどんなに
+難しい仕事でも引き受けて、大物への道を
+突き進みそうに思えるの。","越是这样的人，往往越能为了目标
+迎难而上啃下硬骨头，
+一路迈向通往大人物的康庄大道呢。",translated,依恩,555ad00cd8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#140#12,"そっか……あなたはまだ、自分の夢を
+見つけていないんだね。","这样呀……看来你还没有找到
+属于自己的真正梦想呢。",translated,依恩,e057ae3879,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#141#12,"でも、だからこそ今をしっかり見て、
+あなた自身の夢を見つけられるといいね。","不过正因如此，脚踏实地走好当下的路，
+愿你终能探寻到属于你自己的梦想哦。",translated,依恩,c26b9121f2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#144#12,参考書って高いよね,辅导教材真贵啊,translated,,4a0791380b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#145#12,色々とあって、どれがいいのか悩む,品种太多了不知道挑哪本好,translated,,8ab5234b4c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#146#12,先輩から参考書をもらった,从学长那里拿到了参考书,translated,,6d24dd665c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#147#12,参考書なんていらない,根本不需要什么参考书,translated,,3e89a4bc4c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#149#12,"うん、簡単に手を出せない値段のものも
+結構あるよね。","嗯，确实有不少价格高昂、
+让人不敢轻易下手的辅导书呢。",translated,依恩,bc807be797,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#150#12,"でも、高い参考書を買っても、自分には
+合わなかったりする場合もあるし……。","而且就算花大价钱买了贵的参考书，
+也不一定适合自己的节奏嘛……。",translated,依恩,31f0632783,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#151#12,参考書選びも、大変だよね。,挑选参考书也是一门苦差事呢。,translated,依恩,1e291cb112,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#154#12,"確かに、売れてる、とか書いてあっても、
+中身を見てみないと自分に合ってるか
+わからないよね。","确实，哪怕书封上写着“畅销热卖”，
+不亲自翻看内容也很难知道
+适不适合自己嘛。",translated,依恩,e896cd35d6,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#155#12,"買う前に、軽く中身を確かめてから
+選んだ方がいいよ。","买之前最好先大略翻翻里面的内容
+再做定夺哦。",translated,依恩,77a84b5298,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#158#12,"先輩が使ってた参考書なら、
+心強い味方になってくれそうだね。","前辈用过的参考书，
+一定会成为无比坚实的得力臂助呢。",translated,依恩,13cba50460,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#159#12,"それに、わからないところがあっても
+先輩に聞きに行ったりもできるし。","而且遇到看不懂弄不明白的地方，
+还能随时跑去向前辈请教。",translated,依恩,a4abf61fc7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#160#12,優しい先輩がいて羨ましいなぁ。,有这么温柔的前辈罩着真叫人羡慕呀。,translated,依恩,2037bd4921,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#163#12,教科書だけで勝負するタイプなのかな？,原来你是单凭课本教材就能决胜的学霸型吗？,translated,依恩,2676054dcb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#164#12,"まあ、参考書にも当たりハズレがあるから、
+教科書だけでどうにかできるなら、それが
+一番いいのかもしれないね。","嘛，辅导书本来就良莠不齐容易踩雷，
+光凭课本就能完全搞定的话，
+那或许才是最理想的境界呢。",translated,依恩,65b3328c6b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#167#12,息抜きに散歩してきた,出去散步换了换心情,translated,,0b1911e08e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#168#12,息抜きにゲームしてた,打打游戏放松了一下,translated,,846e461687,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#169#12,美味しいもの食べてきた,去吃了顿好吃的,translated,,f1cc9e6806,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#170#12,試験が近いから休めない,考试近了没法休息,translated,,f70887367a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#172#12,"お散歩って、短い時間で気持ちを切り替え
+られるのがいいよね。","散步能在短时间内转换好心情，
+真的很棒呢。",translated,依恩,5985837d0b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#173#12,"わたしも息抜きの時は散歩をする、って
+決めてるんだ。","我自己也决定了，
+想放松休息的时候就去散散步呢。",translated,依恩,f7fc91b464,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#176#12,勉強の息抜きはゲームに限るよね！,学累了放松一下，果然还是打游戏最过瘾呢！,translated,依恩,2a9d89eb38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#177#12,"……ただ、気をつけないと息抜きのつもりが
+何時間も経ってました、ってことになりかね
+ないけど。","……只是如果不留神的话，
+本打算稍稍放松一下，
+回过神来往往几个小时都过去了呢。",translated,依恩,ce1a265402,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#180#12,"ふふっ、息抜きにもなるし栄養補給にも
+なるし、一石二鳥だね。","呵呵，既能换换心情又能补充营养，
+真是一举两得呢。",translated,依恩,894265f17f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#181#12,"でも、食べた後ですぐ勉強開始だと
+眠くなっちゃうから、食後の休憩は
+ちゃんと取らないとダメだよ。","不过吃饱后马上开始学习容易犯困，
+饭后的休息时间
+可一定要好好留足才行哦。",translated,依恩,5f80427a95,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#184#12,そっか、もう追い込みシーズンなんだ。,这样啊，已经到了冲刺阶段了呢。,translated,依恩,276cf88eaf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#185#12,"けど、本番で体調を崩したりしないように、
+無理だけはしないでね。","不过为了不在正考时把身体搞垮，
+千万不要太勉强硬撑哦。",translated,依恩,3bbf9b3906,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#188#12,干し立ての匂いが好き,喜欢刚晒好的衣物的气味,translated,,16308a4b10,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#189#12,掃除する時に限って本読んだりしちゃう,偏偏在大扫除时容易沉迷看书,translated,,233fa7b6bc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#190#12,洗濯物が溜まってきてる,脏衣服越积越多了,translated,,8985c31579,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#191#12,あんまり掃除しない,平时不太爱打扫,translated,,f495f7f63f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#193#12,ふふっ、わたしも好きだよ。,呵呵，我也很喜欢那个味道哦。,translated,依恩,c87d29ca4d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#194#12,"暖かくて柔らかい匂い、って言うのかな？
+何だか落ち着いちゃうんだよね。","该说是暖洋洋又柔软的气味吗？
+总觉得闻着心里特别踏实安宁呢。",translated,依恩,9c978d0ff0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#197#12,"うんうん、掃除する時に限って、普段は
+あまり読まない本とかに集中しちゃうん
+だよね。","嗯嗯，偏偏在打扫卫生的时候，
+总会对着平时不怎么看的书
+看得入迷对吧。",translated,依恩,7530b8826c,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#198#12,"あれって、無意識のうちに掃除っていう
+現実から心が逃避しようとしてるから
+起きるのかな？","那是不是因为潜意识里，
+心灵在试图逃避“必须打扫”这一现实
+才会导致的呀？",translated,依恩,890ac7a6c7,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#201#12,"洗濯が面倒で溜め込んじゃう気持ち、
+何となくわかるよ。","因为嫌洗衣服太麻烦而堆积起来的心情，
+我多少也能理解呢。",translated,依恩,8b38aee3bb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#202#12,"わたしも時々、何日か分貯めてから
+一気に洗濯すればいいんじゃないかな、
+って気持ちになるし……。","我有时也会忍不住想，
+把好几天的衣服攒在一起
+然后一口气全洗了不也挺好的嘛……。",translated,依恩,9725a9fcde,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#203#12,"め、面倒だからじゃないよ！？
+水を節約するためだよ！","才、才不是因为嫌麻烦呢！？
+是为了节约用水哦！",translated,依恩,4ed49385ec,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#206#12,"う～ん……面倒なのはわかるけど、
+数日に一度でいいから軽く掃除を
+した方が良いと思うよ。","唔～……虽然我理解嫌麻烦的心情，
+但哪怕几天简单收拾一次，
+稍微扫一扫也是很有必要的哦。",translated,依恩,04daed3dde,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#207#12,"じゃなきゃ、どんどん掃除するのが
+嫌になって、気づいたらゴミ屋敷みたいに
+なっちゃうよ？","要不然的话，打扫只会越来越抗拒，
+回过神来房间就会变得像垃圾屋一样了哦？",translated,依恩,0be82c9513,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#210#12,料理のレパートリーを増やしたい,想多学几道拿手菜,translated,,b77d4ba15f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#211#12,味付けって親から受け継いでいくよね,口味调味果然会传承自父母呢,translated,,633dc7384a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#212#12,作りだめするから毎日同じ‥‥,一次做一大堆所以天天吃一样的……,translated,,af29e624ff,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#213#12,あんまりやらない,平时不太下厨,translated,,9cadf011d0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#215#12,"作れるものが増えると、
+お料理をするのがどんどん楽しくなるよ。","能做的菜品变多之后，
+下厨做饭也会变得越来越有意思哦。",translated,依恩,4c105f96d0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#216#12,"それに、何かあった時にささっと作れれば、
+みんなを驚かせたりできるのもいいよね。","而且遇到情况能信手拈来露一手，
+把大家惊艳一把的感觉也很棒呢。",translated,依恩,351ed89ce9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#219#12,"子供の頃から慣れ親しんだ味が、
+自分の中の普通になるからだろうね。","从小吃惯了熟悉的家常味，
+不知不觉就会成为自己心中的标准基准吧。",translated,依恩,289f29887b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#220#12,"わたしの味付けの好みも、無意識のうちに
+親から受け継いだものなのかな？","我对调味咸淡的偏好，
+难道也是潜移默化继承自父母的吗？",translated,依恩,8e9ec2bd28,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#223#12,料理によってはそれも便利だと思うよ。,视菜品种类而定，那样其实也很方便哦。,translated,依恩,8937f0062a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#224#12,"毎日料理をする暇がない人なんかは、
+そうでもしないと無理だと思うし。","对于平时没空天天开火的人来说，
+不那样备餐也确实顾不过来嘛。",translated,依恩,1bd369568e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#225#12,"けど、作りだめする時は悪くなり難い
+料理を作るようにしようね。","不过批量做好的时候，
+记得做一些不容易变质变坏的菜肴哦。",translated,依恩,788aef74f0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#228#12,もしかして、作ってくれる人がいるのかな？,难不成，是有人负责天天做给你吃吗？,translated,依恩,f56dc9c481,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#229#12,"でも、たまには自分で作ってみるのも
+楽しいと思うよ。","不过偶尔自己动手试着做一做，
+我觉得也会很有意思的哦。",translated,依恩,ebdad5d671,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#230#12,"たまにはレシピ片手に挑戦してみるのも
+いいんじゃないかな？","偶尔照着菜谱尝试挑战一番，
+感觉不也挺不错的嘛？",translated,依恩,9c21d9855a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#233#12,使ってないのがいっぱいでてきた,翻出来好多一直没用的东西,translated,,7b350464ad,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#234#12,整理してもすぐ散らかる,刚整理好很快又乱套了,translated,,77ebae8869,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#235#12,整理しても閉まった場所を忘れてしまう,收纳整齐后却忘了放哪了,translated,,f1a6bdc30b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#236#12,最近、全然片付けてない,最近完全没怎么收拾过,translated,,47d09f4033,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#238#12,"ふふっ、部屋を整理するとそういう物が
+決まって沢山出てくるよね。","呵呵，一收拾屋子
+肯定都会翻出一大堆那种用不上的东西呢。",translated,依恩,367a704356,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#239#12,"この際、思い切って捨てちゃった方が
+いいと思うよ。","趁这个机会，
+我觉得索性下定决心扔掉比较好哦。",translated,依恩,b62ea07f8a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#240#12,"何かに使うかも、ってその時は思っても、
+そういう物に限ってほぼ間違いなく使わない
+ものだよ。","当时哪怕觉得“以后可能会用到”，
+那种东西到头来基本十有八九
+是绝对不会再拿出来用的。",translated,依恩,e3e97c8ef6,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#243#12,"使った物はすぐに片付けるようにしないと、
+どれだけ整理してもそうなっちゃうよ。","用完的东西要是不立刻物归原位，
+不管整理多少次也终究还是会乱套的哦。",translated,依恩,248726c9ee,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#244#12,"まずは、毎日ちゃんとお片づけをする、
+っていうのを日課にするところからだね。","首先得从把“每天随手整理”
+当成日常习惯开始做起呢。",translated,依恩,d6c260a1bb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#247#12,"どこにどういう物をしまっておくのかを、
+あらかじめ決めておかないとそうなっちゃう
+よね。","要是不事先规划好
+什么东西收纳在什么固定位置，
+确实很容易找不着呢。",translated,依恩,80a1ee0fa6,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#248#12,"小物なんかは特にそうだよ。
+だから、しまう時にはある程度分類して、
+どこにしまうかを決めた方がいいよ。","小物件之类尤其如此。
+所以收纳的时候做好分类、
+规定好存放位置比较好哦。",translated,依恩,98e78e1d2c,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#251#12,"あ、あはは……あなたの部屋の様子を
+想像するのが、ちょっと怖いよ……。","啊、啊哈哈……去想象你的房间现状，
+稍微让我有点害怕呢……。",translated,依恩,59a4f486d4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#252#12,"いきなり全部やれとは言わないから、
+一日十分ずつでいいから、少しずつ
+片付けていこ。","我也不强求你一口气全整理完，
+哪怕每天只抽十分钟，
+一点一点逐步收拾起来吧。",translated,依恩,6ce63624c4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#255#12,家でゴロゴロしちゃった,在家懒洋洋瘫了一整天,translated,,8180b72fa0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#256#12,趣味の時間に費やしてたよ,全花在个人兴趣爱好了,translated,,7f829a089a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#257#12,外にお出かけしたいなぁ,好想出门去转转呀,translated,,cddbc9ee06,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#258#12,買い物に行って来たよ,上街购物买东西去了,translated,,69cc85b2a0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#260#12,"何もやる気が起きなくて、
+一日中ゴロゴロしちゃう時ってあるよね。","什么干劲都提不起来、
+只想在家瘫上一整天的时候确实常有呢。",translated,依恩,a8cb62f3e3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#261#12,"ただ、その時は幸せなんだけど、
+後になってからすごく後悔するの……。","虽然瘫着的那一刻很幸福，
+但事后往往会超级后悔的……。",translated,依恩,4032190295,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#264#12,"ふふっ、充実した時間を
+過ごせたみたいだね。","呵呵，看来你度过了
+一段非常充实的时光呢。",translated,依恩,e0ce16e9cb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#265#12,"わたしも、たまには自分の趣味に
+一日使ってみたいなぁ……。","我也好想偶尔能有一整天时间，
+全心全意沉浸在自己的爱好里呀……。",translated,依恩,697b744f57,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#268#12,"そういう時は、思い切って準備をして、
+とりあえず家から出てみるといいよ。","那种时候，索性麻利收拾妥当，
+总之先踏出家门看看比较好哦。",translated,依恩,0d22494c2f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#269#12,"そうすると、ここまで準備したんだから
+どこかに行ってみるか、って気持ちに
+なれるんじゃないかな？","这样一来，就会产生
+“既然都准备妥当了就顺道去哪里逛逛吧”
+的出门兴致了对吧？",translated,依恩,bec4c838be,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_03.txt#272#12,"お買い物かぁ、楽しそうだなぁ。
+目的のものはちゃんと買えた？","去购物呀，听起来好开心呢。
+想买的目标物品都有好好买到吗？",translated,依恩,32274c1a28,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#273#12,"わたしも、パーツ屋に行って
+色々お買い物したいよ……。","我也好想去零件商店
+大肆采购一番呀……。",translated,依恩,d93f2fbf92,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#276#12,家にこもってる,一直宅在家里,translated,,b7799d6965,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#277#12,パソコンでネットしてる,用电脑在网上冲浪,translated,,7ce8b7d8b1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#278#12,友達と連絡とってたり,和朋友联络聊聊天,translated,,e2a1361b44,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#279#12,断然アウトドア！,绝对是户外活动派！,translated,,9c476d75af,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#281#12,"わたしも、外で遊ぶよりは家の中で
+遊ぶのが好きだから、気持ちはわかるよ。","比起外出玩耍我也更喜欢待在室内，
+所以很理解你的心情哦。",translated,依恩,89edab5218,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#282#12,"家にこもって機械造り……
+至福の時間だよ。","足不出户闷头制作机械……
+这对我来说简直是至福的时光呢。",translated,依恩,dc9dd46148,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#285#12,"それって、色んな情報を簡単に調べられる
+機械だよね？",那是能轻松检索查阅各种信息的机器对吧？,translated,依恩,f9baff6c19,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#286#12,"わたしも、そんなものがあったら
+一日中離れられないかも。","我要是也有那种东西，
+恐怕一整天都舍不得离开呢。",translated,依恩,544a3cd144,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#287#12,"けど、時々外に出たりしないと
+身体に悪いよ？","不过偶尔不出去走走活动一下的话，
+对身体可不好哦？",translated,依恩,83073fbf93,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#290#12,"ふふっ、あなたって友達多そうだから、
+誰に連絡するか考えるのが大変そうだね。","呵呵，感觉你的朋友很多，
+光是考虑找谁联系都很伤脑筋吧。",translated,依恩,bdd4becfcf,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#291#12,"でも、みんなでわいわい遊ぶのって、
+楽しいんだろうなぁ……。","不过大家热热闹闹聚在一起玩，
+一定超级开心的吧……。",translated,依恩,3e437dc756,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#294#12,"ふふっ、健康的だね。
+身体を動かすのが好きなのかな？","呵呵，真健康呀。
+你很喜欢运动流汗吧？",translated,依恩,54b1a5df02,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#295#12,"わたしも部屋にこもってばかりいないで、
+もっと外に出た方がいいのかな……。","我是不是也不该老窝在房间里，
+多往户外走走比较好呢……。",translated,依恩,c2a39e3167,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_03.txt#298#12,そっか……。,这样啊……,translated,依恩,72f774d7f9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_03.txt#299#12,また何かあったら、その時は教えてね。,以后要是有了什么新鲜事，记得再告诉我哦。,translated,依恩,0234bd1240,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#1#12,祖父母,祖父母,translated,,a4a08660e9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#2#12,両親,父母,translated,,1c1894b697,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#3#12,兄弟・姉妹,兄弟姐妹,translated,,f6c3b251f0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#4#12,ペット,宠物,translated,,36454dc981,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#14#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#15#12,金銭,金钱,translated,,6b14f4a681,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#16#12,健康,健康,translated,,28ff5ffe95,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#24#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#25#12,仕事,工作,translated,,5dc4a4fa47,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#26#12,手伝い,帮忙,translated,,d37b1b8506,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#34#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#35#12,勉強,学业,translated,,a709b05c38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#36#12,外出,外出,translated,,605280392b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#44#12,遊び,玩乐,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#45#12,散歩,散步,translated,,2be528e3d8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#46#12,食事,进食,translated,,f0ddd1ecf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#54#12,家に遊びに行って来た,去祖父母家玩了一趟,translated,,ce1d22d167,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#55#12,祖父母を連れて旅行に行った,带祖父母出去旅游了一趟,translated,,b926f2ffd7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#56#12,のんびり話をした,悠闲地陪他们聊了聊天,translated,,b2b5680109,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#57#12,昔の遊びを教えてもらった,让他们教了我过去的传统游戏,translated,,81dbd4e68a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#59#12,二人とも、すごく喜んでくれたでしょ？,他们两位一定都开心得不得了吧？,translated,依恩,56e9cfc47e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#60#12,"頻繁には無理でも、長期のお休みの時は
+これからも遊びに行ってあげてね。","就算平时没办法常去，
+长假期间今后也多去探望探望他们哦。",translated,依恩,3ed4b51346,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#63#12,"おじいちゃんとおばあちゃんのこと、
+大切にしてるんだね。",你真的很孝顺很珍惜爷爷奶奶呢。,translated,依恩,13c29d2a43,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#64#12,"どんなところへ連れて行ってあげたのかな？
+きっと、二人とも喜んでくれたよね。","是带他们去了什么样的地方呢？
+两位老人家肯定都高兴坏了吧。",translated,依恩,0234396169,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#67#12,"おじいちゃん達のお話って、
+時々ビックリする内容の時があるよね。","听老人家讲以前的故事，
+有时真会听到令人瞠目结舌的内容呢。",translated,依恩,9099bcab59,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#68#12,"昔話なんかは特にね。
+カルチャーショックってやつかな？","特别是当年的老旧往事。
+大概这就是所谓的代沟文化冲击吧？",translated,依恩,717bb5a620,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#71#12,"おじいちゃん達が昔していた遊びって、
+どんなのなんだろ？","老人家小时候玩过的传统游戏，
+到底是什么样子的呢？",translated,依恩,0deded7b6e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#72#12,わたしも、教えてもらいたいなぁ。,我也好想让他们教教我呀。,translated,依恩,8aa9be1a72,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#75#12,お小遣いをもらった,拿到了零花钱,translated,,d48f80d687,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#76#12,祖父母から仕送りされてきた,祖父母寄生活费过来了,translated,,4a49ff81c0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#77#12,生活費を援助した,资助了老人的生活费,translated,,0f481f39b2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#78#12,健康グッズをプレゼントした,送了健康养生保健用品当礼物,translated,,1aaa3e5852,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#80#12,"おじいちゃん達、奮発して
+結構多くくれたりしたのかな？","老人家是不是出手阔绰、
+给了你相当厚厚一叠呀？",translated,依恩,95df96e689,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#81#12,"いくら貰ったのかはわからないけど、
+無駄遣いはしちゃダメだよ。","虽然不知道拿到了多少，
+但可绝对不能乱花钱挥霍哦。",translated,依恩,c744f63cf0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#84#12,"離れていても、あなたのことを
+思ってくれてる証拠だね。","哪怕相隔甚远，
+也是老人家一直牵挂关怀着你的最好证明呢。",translated,依恩,f19816f291,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#85#12,"仕送りのお礼は、お手紙で伝えてあげたら
+喜ばれると思うよ","收到生活费的答谢，
+写封家信寄回去他们肯定会超高兴的哦。",translated,依恩,8c0e1d4363,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#88#12,"ふふっ、あなたはおじいちゃん達が
+大好きなんだね。",呵呵，你真的很喜欢祖父母呢。,translated,依恩,568b8cf60f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#89#12,"年金だけだと厳しいだろうし、
+時々でいいからこれからも援助して
+あげてね。","光靠养老金生活确实可能会比较拮据，
+偶尔帮衬一下，
+今后也多去资助体贴他们吧。",translated,依恩,59ceb89249,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#92#12,わぁ、それはすごく喜ばれそうだね！,哇，那礼物肯定能让他们乐开花呢！,translated,依恩,93696fa263,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#93#12,"これからも健康で、元気でいてください、
+って気持ちがすごく伝わるプレゼントだと
+思うよ。","“希望您二老今后也身体硬朗健健康康”，
+这份心意想必通过礼物完完全全传递给他们了呢。",translated,依恩,6c0b3fce46,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#96#12,健康のため、散歩するようになった,为了身体健康开始坚持散步了,translated,,877de5e4da,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#97#12,食生活を改善しようと思う,打算改善饮食生活习惯,translated,,cae7e455e0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#98#12,物忘れが増えてきた,记性变差健忘变多了,translated,,ba1c773869,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#99#12,最近、あまり体調が良くない……,最近身体不太舒服……,translated,,09b08cbe4c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#101#12,"お年寄りの人は動かないでいると、
+すぐに身体が動かなくなっちゃうんだって。","听说老年人要是老不动弹，
+身体很快就会变得僵硬不听使唤呢。",translated,依恩,1d258e82e9,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#102#12,"だから健康のためにお散歩を始めたのは、
+すごくいいことだと思うよ。","所以为了身体健康开始坚持散步，
+我觉得真是一件非常好的事哦。",translated,依恩,9f13cdec51,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#103#12,"時々でいいから、あなたもお散歩に
+付き合ってあげたら喜ばれるんじゃ
+ないかな？","偶尔抽空也好，
+要是你也能陪着一起去散散步，
+老人家一定会很高兴的吧？",translated,依恩,3a7b3289c3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#106#12,"お年寄りは、若い人とは食べられる物も、
+食べられる量も違うから、それに合わせた
+食事にするのは大切だよね。","老年人和年轻人在能吃的东西以及饭量上
+都大不相同，配合老人的身体状况
+调整饮食真的很重要呢。",translated,依恩,e1b2a6fc8e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#107#12,"健康を考えたメニューに変えて、
+これからも元気でいてもらお！","换成兼顾健康的营养食谱，
+让他们今后也能一直健健康康的吧！",translated,依恩,690af2a1be,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#110#12,"……今までそんなことがなかったとしたら、
+ちょっと不安になるよね。","……如果以前从没有过这种情况，
+确实会让人有点惴惴不安呢。",translated,依恩,672f01315d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#111#12,"一度、病院に診察を受けに行った方が
+いいんじゃないかな？","要不要趁早带去医院
+做一次全面的检查诊断呢？",translated,依恩,356e5c5320,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#114#12,"それは心配だね……。
+もう病院には連れて行ったの？","那可真让人担心呢……。
+已经带去医院看过了吗？",translated,依恩,3b6d49368d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#115#12,"もしまだなら、早いうちに連れて行って
+診察を受けた方がいいよ。","如果还没有的话，
+尽早带去让医生好好诊治一下比较好哦。",translated,依恩,61a1050257,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#118#12,一緒に室内で遊んだ,在室内一起玩耍,translated,,8a64170774,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#119#12,一緒にゲームで遊んだ,一起打游戏玩乐,translated,,9ad979d71a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#120#12,外で一緒に運動してきた,去户外一起做了运动,translated,,d691e48181,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#121#12,家族で旅行に行った,全家一起去旅游了,translated,,5605c8716c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#123#12,ふふっ、仲良し親子なんだね。,呵呵，你们亲子关系真融洽呢。,translated,依恩,e1edfe1cc3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#124#12,"どんな遊びをしたのか、
+ちょっと気になるよ。","你们都玩了些什么，
+我稍微有点好奇呢。",translated,依恩,1924f01e0a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#127#12,"ふふっ、もしかしてあなたのご両親って、
+ゲーム好きなのかな？","呵呵，难不成你的父母
+也很喜欢打游戏吗？",translated,依恩,6133c9b516,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#128#12,"何だか素敵な人達だね。
+わたしも、その輪の中に入りたいな……。","总觉得真是一对很棒的父母呢。
+我也好想加入你们的圈子呀……。",translated,依恩,1e84b75111,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#131#12,ふふっ、健康的なご両親なんだね。,呵呵，真是充满活力的健康父母呢。,translated,依恩,861d1bc01b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#132#12,"わたしも、ちょっとは見習って
+運動した方がいいかな？","我是不是也该向他们好好看齐、
+多运动运动比较好呢？",translated,依恩,74181b4cca,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#135#12,"家族旅行って、旅行中も楽しいけど、
+帰ってきた後も楽しみが続くよね。","全家旅游不仅旅途中很开心，
+旅行归来之后那份快乐也依然在延续呢。",translated,依恩,05de00ce0f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#136#12,"思い出話を家族で話しながら、
+またどこかに行きたいね、って
+計画も立てられるし。","一家人一边回味旅途趣事，
+一边还能商量着“下次再去哪里玩呢”
+制定新的旅行计划嘛。",translated,依恩,04f133c993,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#137#12,"……わたしも、家族で旅行に行ったこと
+あるのかなぁ？","……我以前是不是也和家人
+一起去旅游过呢？",translated,依恩,feeea6dfe5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#140#12,基本的に家で仕事をしている,基本上都是在家办公,translated,,60bc2d36ef,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#141#12,いつも仕事で帰りが遅い,总是因为加班很晚才回家,translated,,1c915772fa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#142#12,家族の時間を大切にしてくれてる,很珍惜陪伴家人的时光,translated,,fd7a522c82,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#143#12,仕事の愚痴を言われても困る,听他们发工作牢骚很让人为难,translated,,2df40d66f1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#145#12,"在宅業かぁ……出勤しなくても仕事できる
+って、便利でよさそうだね。","居家办公呀……不用通勤挤车就能工作，
+感觉既方便又舒服呢。",translated,依恩,2fd2e45a6f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#146#12,"暑い日も寒い日も、それに雨や台風の日
+なんかに出勤しなくていいのは、
+やっぱりあこがれるよ","酷暑严寒、亦或是刮风暴雨的天气
+都完全不必出门通勤，
+果然很让人向往羡慕呢。",translated,依恩,08e7422e66,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#149#12,"家族のために、お仕事を頑張ってる
+証拠だね。","这正是父母为了家庭
+而在拼命努力工作的证明呢。",translated,依恩,cbf540e6dc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#150#12,"でも、ちょっと心配かも……。
+ご両親のこと、ちゃんとサポートして
+あげてね。","不过也难免会让人有点担心……。
+你可要在生活上好好体贴照顾父母哦。",translated,依恩,2b6f5648d7,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#153#12,ふふっ、素敵なご両親だね。,呵呵，真是温柔优秀的好父母呢。,translated,依恩,bfccbb50e3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#154#12,"わたしも、将来は家族の時間を大切にする
+親になりたいなぁ……。","我将来要是做了母亲，
+也想成为珍惜家庭时光的家长呀……。",translated,依恩,db17304167,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#157#12,"あはは、気持ちはわかるよ。
+仕事の愚痴なんか言われても、
+どうしようもないよね？","啊哈哈，我很理解你的心情。
+被硬塞一堆工作上的抱怨牢骚，
+自己根本无能为力对吧？",translated,依恩,fe3c6b7998,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#158#12,"ある程度までは我慢して聞いてあげて、
+我慢できなくなったら自分の部屋に
+逃げた方がいいかも。","在一定限度内先耐着性子听听，
+实在忍不下去的时候
+赶紧溜回自己房间比较好哦。",translated,依恩,ac5f695293,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#159#12,"あなたもそんな話ばかり聞かされてたら、
+ストレス溜まっちゃうもんね。","要是整天被灌输那种负能量，
+你自己也会积攒很多压力的嘛。",translated,依恩,3657eb4bd6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#162#12,家事を手伝った,帮家里分担了家务,translated,,06c3846f43,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#163#12,マッサージをしてあげた,给父母揉肩捶背按摩了一下,translated,,1c99d4890c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#164#12,家の仕事を手伝った,帮家里打理了生意,translated,,c1881b6e34,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#165#12,壊れた物を修理した,把坏掉的物件给修好了,translated,,af3979561d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#167#12,"家事はお手伝いの意味もあるけど、
+将来一人暮らしをした時に役立つ経験に
+なるはずだよ。","做家务不仅能帮父母分担辛劳，
+也是在为你将来独立独居时
+积累宝贵的生活经验哦。",translated,依恩,74831c0968,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#168#12,"一人暮らしのお勉強を兼ねて、
+これからもお手伝いは続けてね。","权当为了以后的独立生活做预习，
+今后也要继续坚持帮忙做家务哦。",translated,依恩,6e56927c3c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#171#12,ふふっ、ちゃんと親孝行してるみたいだね。,呵呵，看来你很懂事有好好尽孝呢。,translated,依恩,5d13799582,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#172#12,"ご両親、喜んでくれた？
+また時々やってあげてね。","父母是不是很开心呀？
+以后也要偶尔给他们按一按哦。",translated,依恩,522d039369,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#175#12,"家は家族みんなのものなんだから、
+あなたもちゃんとお手伝いしないとね。","家是属于所有家庭成员的，
+你也得自觉好好帮忙打理才行呢。",translated,依恩,a92b9cba46,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#176#12,"これからも、ご両親をサポート
+してあげてね。",今后也要多去体谅帮扶父母哦。,translated,依恩,fb528fe9fa,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#179#12,"すごい！
+あなたって修理とかできる人なんだ！？","好厉害！
+原来你居然还会动手修理东西吗！？",translated,依恩,e425a7c8e8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#180#12,わたしも修理は得意だから、一緒だね。,我也很擅长维修修理，我们一样呢。,translated,依恩,78ace3afda,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#181#12,"やっぱり、家族に一人はこういう
+特技を持った人は必要だよ、うん！","家里果然必须得有一个拥有这种技能的
+顶梁柱在才行呢，嗯！",translated,依恩,322d6433fb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#184#12,一緒に室内で遊んだ,和兄弟姐妹在屋里玩了,translated,,8a64170774,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#185#12,一緒にゲームで遊んだ,和兄弟姐妹一起打了游戏,translated,,9ad979d71a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#186#12,新しい遊びを考えてみた,自创了全新的游戏玩法,translated,,45ed67cd3a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#187#12,少し喧嘩をしてしまった,稍微起了点小口角吵了一架,translated,,abb3d0eb00,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#189#12,"兄弟がいると、遊び相手に困らないのが
+嬉しいよね。","有兄弟姐妹在，
+就不用愁找不到玩伴，真好呢。",translated,依恩,ef45c5e04f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#190#12,"友達とさよならした後も、寝るまでずっと
+遊び相手になってもらえるし。","哪怕和外面的朋友告别道别后，
+直到睡觉前也一直有人陪着一起玩嘛。",translated,依恩,26fa858f60,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#193#12,"兄弟がいれば、いつでもゲームで
+対戦できるのがいいよね。","有兄弟姐妹在身边，
+随时都能在游戏里对战，真让人羡慕呢。",translated,依恩,5205c7cd0a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#194#12,"……けど、熱くなり過ぎて喧嘩しないように
+気をつけてね。","……不过可要注意别玩得太上头
+导致大打出手吵起架来哦。",translated,依恩,b5f7b87300,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#197#12,"兄弟でオリジナルの遊びを考えるのって、
+何だか楽しそうだね。","兄弟姐妹一起琢磨自创奇妙的新玩法，
+听起来好有趣呀。",translated,依恩,3ddd8ab785,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#198#12,わたしもやっていたいなぁ……。,我也好想体验一次呀……。,translated,依恩,cbc1bd5110,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#201#12,"兄弟がいるなら、喧嘩しちゃうことも
+あるよね。","同住一个屋檐下，
+闹点小别扭也是常有的事嘛。",translated,依恩,af3465b6ec,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#202#12,"けど、一つ屋根の下で暮らしてるんだもん。
+すぐに仲直りできるよね？","不过大家既然朝夕相处，
+很快就能重归于好的对吧？",translated,依恩,261b2dc9cd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#205#12,一緒に勉強をした,一起并肩复习功课,translated,,aa8236f345,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#206#12,学校や塾の宿題が大変らしい,学校和补习班的作业好像多得吓人,translated,,d9a973e6fb,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#207#12,成績で勝負して勝った,比拼成绩赢过了对方,translated,,8a4cfdc8c4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#208#12,成績で勝負して負けた,比拼成绩输给了对方,translated,,266028f6b0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#210#12,"一緒に勉強をする人がいてくれれば、
+自分もやらなきゃ、って気持ちになるよね。","身边要是有一起看书学习的人在，
+自己也会产生“我也得加油”的动力呢。",translated,依恩,09d1dd1809,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#211#12,"それに、兄弟ならわからないところを
+教えたり、教わったりもできるし。","而且是手足至亲的话，
+遇到不懂的地方还能互相请教指点嘛。",translated,依恩,c0b0fbb18c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#212#12,"あなたは教える方と教わる方、
+どっちなのかな？","你是负责教导的那一方，
+还是被辅导的那一方呢？",translated,依恩,e22210cc84,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#215#12,"学校の宿題だけでも大変なのに、
+塾の宿題まであるなんて、大変だね。","光是应付学校的功课就已经够呛了，
+居然还有补习班的作业，真不容易呢。",translated,依恩,260727776e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#216#12,"一緒にやってあげて、とは言わないけど、
+本当に大変そうな時は手伝ってあげてね。","虽说不至于让你全代劳，
+但看他实在吃不消时也可以搭把手帮帮他哦。",translated,依恩,9954b75225,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#219#12,"ふふっ、兄弟で成績の勝負するのは
+いい考えかもしれないね。","呵呵，手足之间比拼学业成绩，
+倒真是一个促进彼此的好法子呢。",translated,依恩,71fa83c5c1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#220#12,"相手が一番身近な存在だから、
+絶対に負けないぞ、って気持ちに
+なれると思うし。","正因为对手是身边最亲近的人，
+才会萌生出“绝对不能输给他”的
+昂扬斗志嘛。",translated,依恩,ddb26fef43,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#221#12,次も負けずに、頑張ろ！,下一次也不要认输，继续加油！,translated,依恩,3091e5d838,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#224#12,あらら……それはちょっと悔しいね。,哎呀呀……那确实让人有些不甘心呢。,translated,依恩,4ab339dfac,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#225#12,"でも、その悔しさをバネにして、
+次こそは勝つぞ、って気持ちで勉強しよ。","不过把这份不甘化作前行的动力，
+抱着“下次我必胜”的决心好好读书吧。",translated,依恩,344524e851,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#226#12,"あなたなら、絶対に勝てるよ。
+フレー、フレー、あーなーたー！","换作是你，绝对能赢回来的。
+加油、加油、亲――爱――的！",translated,依恩,002eb987f1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#229#12,一緒に買い物をしてきた,和兄弟姐妹一起去购物了,translated,,3aba79a128,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#230#12,一緒に映画を見てきた,和兄弟姐妹一起看了场电影,translated,,88857c1c15,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#231#12,一緒にレジャー施設で遊んできた,和兄弟姐妹一起去休闲乐园玩了,translated,,c94e9f9841,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#232#12,一緒に外で運動をしてきた,和兄弟姐妹一起去户外做了运动,translated,,a9597a3435,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#234#12,兄弟でお買い物に行けるのは楽しそうだね。,兄弟姐妹能结伴上街购物，感觉好惬意呀。,translated,依恩,a765dbadf8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#235#12,"お互いの洋服をコーディネートしたりも
+するのかな？","你们会不会还会互相帮对方
+挑选穿搭衣服呢？",translated,依恩,7b93051354,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#238#12,ふふっ、どんな映画を見たんだろ？,呵呵，你们看了什么电影呀？,translated,依恩,05e6258092,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#239#12,"やっぱり兄弟で見に行くんだから、
+アクションとかコメディとかかな？","既然是兄弟姐妹一起结伴去看，
+应该会是动作片或者搞笑喜剧片吧？",translated,依恩,324023cca2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#242#12,ふふっ、遊園地にでも行ってきたのかな？,呵呵，是去游乐园之类的地方玩了吗？,translated,依恩,6539d02adf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#243#12,"仲良し兄弟なんだね。
+ちょっと羨ましいなぁ。","你们手足之间感情真好呢。
+真让我有点羡慕呀。",translated,依恩,e129adf3ca,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#246#12,兄弟でスポーツ好きなのかな？,你们一家都很喜欢体育运动吧？,translated,依恩,c1358d31c3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#247#12,"二人とも健康的でいいね。
+爽やかな兄弟なんだろうなぁ……。","两个人身体都很健康充满活力，真棒。
+肯定是一对非常阳光爽朗的手足吧……。",translated,依恩,26c2ba3bc8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#250#12,最近、芸を覚えてきた,最近宠物学会新才艺了,translated,,996075c178,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#251#12,遊び道具を使って遊んだ,拿着逗宠玩具陪它玩耍,translated,,486bd8f51d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#252#12,一緒にお昼寝をした,和宠物依偎在一起睡了午觉,translated,,263706bca4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#253#12,全然言うことを聞かない,完全不听主人的话,translated,,1f27e3bde7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#255#12,"わぁ、どんな芸を覚えたんだろ！？
+見てみたいなぁ……。","哇，学会了什么样的新才艺呢！？
+好想亲眼看一看呀……。",translated,依恩,7c37d4aa26,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#256#12,"わたしも、可愛い芸のできるペットを
+飼ってみたいよ。","我也好想养一只
+会表演可爱才艺的宠物呀。",translated,依恩,926627585f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#259#12,"玩具を使ってあげると、
+すごく嬉しそうに遊んでくれるよね。","只要拿出逗弄的小玩具，
+小家伙就会超级兴奋开心地扑上来呢。",translated,依恩,f9f53c3893,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#260#12,"ただ、中々やめさせてくれなくなるから、
+遊んであげてるこっちもかなり疲れると
+思うけど……。","只是往往玩到兴头上怎么都不肯停下，
+负责陪玩的我们也会累得够呛就是了……。",translated,依恩,6ed25e2358,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#261#12,"でも、楽しそうに遊んでる姿を見ると、
+もっと遊んであげたいな、って気持ちに
+なっちゃうよね。","不过看着它玩得那么兴高采烈的模样，
+又忍不住想多陪它再玩一会儿对吧。",translated,依恩,e2d11a510b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#264#12,"寝る時に、ペットの方から寄ってくる姿を
+見ちゃうと、愛しさがグンと上がるよね。","准备睡觉时看到宠物主动依偎蹭过来的样子，
+心中的怜爱之情瞬间就会拉满呢。",translated,依恩,f845b83411,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#265#12,"頼りにしてもらえてるんだなぁ、って
+気持ちになるからかな？","大概是因为切实体会到
+自己被它全心全意信赖着的感觉吧？",translated,依恩,0f885dc8fc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#268#12,"ペットは言うことを聞かせようとしても、
+中々聞いてくれなくて困ることもあるよね。","虽然想好好训练管教宠物，
+但它老是不听话也确实挺伤脑筋的呢。",translated,依恩,5cc14d2972,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#269#12,"まあ、そういうちょっとワガママなところも
+愛らしくて、ぎゅーってしたくなっちゃうん
+だけど。","嘛，不过它那任性顽皮的小模样也超级可爱，
+让人忍不住想要一把紧紧搂进怀里呢。",translated,依恩,0d968e0e61,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#272#12,散歩の距離が伸びてきた,遛弯散步的距离越拉越长了,translated,,9605c5a8fa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#273#12,散歩に行くの忘れてた,彻底忘了带它出门遛弯了,translated,,21ffc47fe1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#274#12,そろそろ散歩の時間,差不多该到遛弯时间了,translated,,fa0b547768,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#275#12,散歩に行くのが面倒くさい,去遛弯感觉好麻烦啊,translated,,708ab54127,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#277#12,ふふっ、お散歩が大好きなんだね。,呵呵，看来小家伙超级喜欢散步呢。,translated,依恩,426822df0d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#278#12,"あなたに時間がある時でいいから、
+一度、おもいっきり長い時間、
+自由にお散歩させてあげてね。","等你有空闲的时候，
+一定要痛痛快快带它在外面
+尽情溜达个够哦。",translated,依恩,83172a11ff,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#281#12,"うっかりお散歩を忘れちゃうことって、
+やっぱりあるよね。","一时大意忘了去遛弯，
+确实也是在所难免的呢。",translated,依恩,164d5eb177,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#282#12,"けど、それに気づいたなら今からでも
+お散歩に連れて行ってあげよ。","不过既然现在想起来了，
+就赶紧带它出去转转吧。",translated,依恩,54c47d5640,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#283#12,"きっと、いつお散歩に連れてってくれ
+るんだろ、って待ってるはずだもん。","小家伙此刻肯定眼巴巴等着你
+什么时候带它出门呢。",translated,依恩,2ad01f3abf,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#286#12,それじゃあ、早く行ってあげて。,既然如此，那就快带它去吧。,translated,依恩,625542d2db,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#287#12,"きっと今頃、イオンとお話ししてないで
+早くお散歩行こうよ、って
+あなたのこと呼んでるよ。","它现在肯定在心急如焚地催你：
+“别跟依恩聊啦，快带我出门散步呀！”呢。",translated,依恩,991f47c856,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#290#12,そういうこと言ったらダメだよ。,可不许说这种丧气话哦。,translated,依恩,fe216560fa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#291#12,"ペットは自分から外に出ることが
+できないんだから、あなたが連れ出して
+あげないと散歩にも行けないんだよ？","宠物自己又没办法开门出去，
+要是你不主动带它，
+它可就根本没法出门散心了呀？",translated,依恩,06d1b7d463,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#292#12,"今日中にお散歩に連れて行くこと。
+約束だよ。","今天之内一定要带它出门散步哦。
+说好了拉勾勾。",translated,依恩,2ace7dd7d3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#295#12,エサの量を増やしてみた,试着增加了喂食口粮的分量,translated,,38b3f083af,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#296#12,エサの量を減らしてみた,试着减少了喂食口粮的分量,translated,,42ec94f386,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#297#12,たまには少し高いものを？,偶尔也喂点高档名贵粮？,translated,,aba9e059ec,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#298#12,エサのランクを落とそうと思う,打算降低一下口粮的档次规格,translated,,38120009c0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#300#12,ふふっ、食欲旺盛なのかな？,呵呵，是胃口食欲大开吗？,translated,依恩,2d040f79b7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#301#12,"けど、あまり食べさせると太っちゃうから、
+その辺りは飼い主のあなたがちゃんと見て、
+量を決めてあげてね。","不过喂太多容易发胖走形，
+这方面身为饲主的你可要细心把关，
+好好控制好分量哦。",translated,依恩,55754bae02,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#304#12,う～ん……調子でも悪いのかな？,唔～……是身体哪里不舒服吗？,translated,依恩,f2318a2b78,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#305#12,"もしお年寄りになって食べる量が
+減った場合は、エサの量は減らしても、
+あげる回数を増やしてみてね。","如果是因为年纪大了食量变少的话，
+就算减少每餐的分量，
+也可以试着多增加几次喂食次数哦。",translated,依恩,cd568138f1,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#306#12,"一度に食べれる量が減った、っていう
+だけで、少し休んだらまた食べよう、って
+気になる場合もあるから。","因为有时它们只是单次吃下的分量变少了，
+稍微休息一会儿之后，
+就又会有胃口想再吃一点的。",translated,依恩,5718c26e7a,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#309#12,"それも良いと思うけど、動物って意外と
+味にうるさいから、慣れてない物を出すと
+高くても食べない時があるの。","那样做虽好，但动物对口味意外地挑剔，
+要是端出平时吃不惯的食物，
+哪怕再贵它有时也不肯赏脸吃呢。",translated,依恩,e3781f5175,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#310#12,"だから、缶詰とかなら一缶くらいにして、
+ちゃんと食べるかどうか確認してみてね。","所以要是买罐头之类的先买一罐试试，
+好好确认一下它愿不愿意吃吧。",translated,依恩,7963daeb5c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_04.txt#313#12,そ、それは……結構勇気がいると思うよ？,那、那样……感觉需要相当大的勇气哦？,translated,依恩,f90ed20093,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_04.txt#314#12,"動物によってはランクの低いエサを出すと、
+すごく避難がましい目で見てくること
+あるし……。","有的动物要是给它换成低档口粮，
+可是会用极其鄙视怨念的眼神
+死死盯着你看的哦……。",translated,依恩,9d900ccfdb,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_04.txt#315#12,"せめて、ランクの落ちるエサと混ぜる
+くらいにした方がいいんじゃないかな？","我觉得，至少也该跟降档前的口粮混在一起
+掺着喂比较好吧？",translated,依恩,0e1d14bd9d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#1#12,幼馴染,青梅竹马,translated,,17ff3fea94,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#2#12,親しい友達,好朋友,translated,,7919dad12a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#3#12,クラスメイト,同班同学,translated,,fd59fa948a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#4#12,ライバル,竞争对手,translated,,98b9eb5270,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#14#12,昔話,昔日往事,translated,,9784828eb9,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#15#12,現在,近况,translated,,a3eaf71626,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#16#12,遊び,游玩,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#24#12,雑談,闲聊,translated,,90b29d5fa1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#25#12,旅行,旅行,translated,,92c1b6c8fd,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#26#12,遊び,游玩,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#34#12,噂話,传闻,translated,,9cb85a03d8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#35#12,成績,成绩,translated,,b65af422f0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#36#12,遊び,游玩,translated,,b38da944bf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#44#12,分野,领域,translated,,740d81e589,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#45#12,調査,调查,translated,,197536648b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#46#12,勝負,较量,translated,,c54b3ffb38,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#54#12,懐かしい話で盛り上がった,聊起往事聊得很起劲,translated,,8b81621d92,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#55#12,トラウマを抉られた,被揭了童年阴影,translated,,354956e5fe,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#56#12,昔に戻りたい,好想回到过去,translated,,9ecf12c132,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#57#12,昔には戻りたくない,不想回到过去,translated,,b1c08aba4f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#59#12,"幼馴染だから、きっとすごく小さい頃の
+お話で盛り上がったんだろうね。","既然是青梅竹马，
+肯定是聊了许多小时候的趣事吧。",translated,依恩,493dd4e6cc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#60#12,"どんなお話なんだろ？
+わたしも、あなたの小さい頃のお話を
+聞いてみたいな。","会是些什么样的话题呢？
+我也好想听一听
+你小时候的故事呀。",translated,依恩,9ca8952f1a,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#63#12,"あはは、小さい頃からお互いのことを
+知ってる同士だから、できることだよね。","啊哈哈，正因为是从小知根知底的青梅竹马，
+才做得到这种事对吧。",translated,依恩,73bdc64a3e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#64#12,"けど、あなたのトラウマかぁ……。
+ふふっ、どんなのかちょっと気になるかも。","不过，居然是你的心理阴影啊……。
+呵呵，到底是什么事，我稍微有点好奇呢。",translated,依恩,49c8308114,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#67#12,昔が懐かしくなっちゃったのかな？,是突然开始怀念过去了吗？,translated,依恩,27b640aa4d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#68#12,"けど、昔があったから今のあなたがいて、
+わたしもあなたに出会えたんだよ。","不过，正因为有了过去的经历才有现在的你，
+我也才能与你相遇呀。",translated,依恩,88c4328131,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#69#12,"だから、ワガママになっちゃうけど……
+わたしはあなたに、昔に戻ってもらいたく
+ないな……。","所以虽然这么说有点任性……
+但我可不希望你回到过去呀……。",translated,依恩,8a6f20e4cd,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#72#12,"昔よりも、今の生活の方が
+充実してるのかな？","看来比起过去，
+现在的日常生活更加充实对吧？",translated,依恩,72cbb908a1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#73#12,"それなら、これからももっともっと
+そういう気持ちになれるように頑張ろ！","要是这样的话，今后也要继续努力，
+让每一天都变得更加充实美好吧！",translated,依恩,7dd1181b1f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#76#12,普段から会っている,平时经常见面,translated,,ae2ad2f993,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#77#12,いまでもたまに会う,如今偶尔也会见,translated,,52f6a47f68,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#78#12,最近会っていない,最近没怎么见面,translated,,e5ccca5d91,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#79#12,何をしてるかも分からない,连对方在干什么都不知道,translated,,67f8c4c2f1,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#81#12,小さい頃からずっと一緒なんだね。,从小到大一直都在一起呢。,translated,依恩,1d8b04efd8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#82#12,"幼馴染で親友、って感じかな？
+そういうの、素敵だと思うよ。","既是青梅竹马又是挚友对吧？
+这种关系真的很美好呢。",translated,依恩,011836983c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#85#12,"会わない期間が長いと、
+なんとなく落ち着かなくなるのかな？","太久不见面的话，
+总觉得心里有些静不下来吧？",translated,依恩,e45d590330,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#86#12,"わたしも、そういう風に思える
+幼馴染がいてくれたらいいのに……。","我要是也能有一个
+让我如此挂念的青梅竹马就好了呢……。",translated,依恩,245d54a003,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#89#12,そっか……ちょっと寂しいね。,这样啊……感觉稍微有点寂寞呢。,translated,依恩,c32380d965,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#90#12,"たまには連絡して、ご飯でも一緒に
+食べに行こう、って誘ってみようよ。","偶尔主动联络一下，
+试着约对方出来吃个饭吧。",translated,依恩,088653f434,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#93#12,悲しいけど、そういうことだってあるよ。,虽然很令人难过，但也是人之常情呢。,translated,依恩,5d29fd529d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#94#12,"幼馴染だからずっと一緒にいられる、
+なんて保証はどこにも無いんだもん。","毕竟并没有哪里规定过，
+只要是青梅竹马就一定能永远在一起嘛。",translated,依恩,87ed25c12d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#95#12,"けど、もし再会するようなことがあったら、
+ちゃんとお互いの連絡先を交換するのを
+忘れないでね。","不过，以后要是碰巧重逢相聚的话，
+可千万别忘了互相交换联系方式哦。",translated,依恩,94291b743b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#98#12,久々に一緒に遊んだ,难得聚在一起玩了一阵,translated,,b2a10042bd,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#99#12,昔、一緒に遊んだ場所に行ってきた,去了以前一起玩过的地方,translated,,09d00add25,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#100#12,子供の頃の遊びを思い出した,想起了小时候玩的游戏,translated,,b9245ebd2f,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#101#12,借り物を返し忘れてるのに思い出した,想起借了对方东西还没还,translated,,df8658ed96,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#103#12,"久々ってことは、最近はあまり遊ぶ機会が
+なかったのかな？","说是难得，看来最近没什么机会
+一起聚在一起玩耍对吧？",translated,依恩,0b1f161fcb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#104#12,"やっぱり、小さい頃みたいに毎日遊ぶのは
+難しくなってくるよね……。","果然，想要像小时候那样天天一起玩，
+长大后就很难办到了呢……。",translated,依恩,4a605081cb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#107#12,"何年も前に遊んでた場所に戻ってみると、
+周りの景色が違うように見えるよね。","重回多年前经常玩耍的地方，
+周围的风景看起来也会大不一样呢。",translated,依恩,ad808803ed,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#108#12,"成長して、視点が変わるからかな？
+広いと思ってた公園とかが、
+すごく狭く感じたり……。","大概是因为长高长大后视线视角变了吧？
+以前觉得很大的公园，
+现在却会觉得特别小……。",translated,依恩,c020351f27,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#109#12,ちょっとだけ、寂しくなるよね。,总会觉得有那么一点点寂寞呢。,translated,依恩,d5ff328b39,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#112#12,"小さい頃は楽しくて毎日遊んでたのに、
+いつの間にかしなくなって、
+忘れちゃってた遊びってあるよね。","小时候明明每天都玩得不亦乐乎，
+不知不觉间却再也没碰过、
+渐渐遗忘的游戏也是有的呢。",translated,依恩,1ebde6abd3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#113#12,わたしにも、そういうのあるのかな？,对于我来说，也会有那样的事物吗？,translated,依恩,f1fe4bd1b5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#116#12,"貸し借りをすると、どうしても返すのを
+忘れたり、忘れられたりしちゃうことって
+あるよね。","互相借东西的时候，难免会遇到
+忘了还或者被对方忘掉的情况呢。",translated,依恩,5281e4ad64,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#117#12,"思い出したなら、また忘れちゃわないうちに
+返しに行った方がいいよ。","既然想起来了，趁着还没再次忘掉，
+赶紧去还给人家比较好哦。",translated,依恩,8f7640d587,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#120#12,くだらない話で盛り上がった,聊无聊琐事聊得很起劲,translated,,15c5b9ed8d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#121#12,遊びに行く計画を立てた,制定了出去玩的计划,translated,,84b1d274c2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#122#12,無言のやり取りに友情を感じた,在无言的默契中感受到了友情,translated,,e98ac12caf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#123#12,イオンのことを話した,跟朋友聊到了依恩的事,translated,,5d915913d4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#125#12,"ふふっ、お友達と盛り上がったお話って、
+後で考えてみるとすごくくだらなかったり
+するよね。","呵呵，和朋友热烈讨论的话题，
+事后回想起来往往特别无聊呢。",translated,依恩,3a0d25d062,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#126#12,"でも、そう思っててもまたあった時に
+同じ話で盛り上がれたりするのは、
+仲がいいからできることなのかな？","但哪怕心里这么觉得，下次见面时
+又依然能就着同一个话题聊得很开心，
+这正是关系足够要好才能做到的吧？",translated,依恩,e5a7b0e1db,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#129#12,"わぁ、楽しそう！
+どこに遊びに行くんだろ？","哇，听起来真棒！
+你们打算去哪里玩呀？",translated,依恩,c0d1c9a80a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#130#12,"どうせ遊びに行くなら、
+おもいっきり楽しんできてね。","既然难得出去玩一次，
+那就痛痛快快玩个尽兴哦。",translated,依恩,f6382390b6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#133#12,わっ、何かかっこいい！,哇，感觉好帅气呀！,translated,依恩,a5559af74a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#134#12,"そういう友情を感じられるのは、
+お互いを心から信用してるからだね。","能体会到那样的深厚友情，
+是因为彼此打心底里充分信任着对方呢。",translated,依恩,71f01534e5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#137#12,"えぇっ！？
+わ、わたしのことを話したの？","诶诶！？
+你、你跟朋友聊起我的事了吗？",translated,依恩,277c675ba1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#138#12,"ちょっと、恥ずかしいかも……。
+あっ、恥ずかしいこととか言ってないよね？","总觉得稍微有点不好意思呢……。
+啊，你没跟人家说我什么丢脸的丑事吧？",translated,依恩,88ecb425fd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#139#12,"わたしがよろしく言ってたって、
+そのお友達に伝えておいてね。","记得帮我转达一声，
+向你的那位朋友问个好哦。",translated,依恩,b16b0153b0,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#142#12,友達と旅行に行ってみたい,想和朋友去旅行,translated,,148a141cff,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#143#12,友達と旅行に行って来た,和朋友去旅行回来了,translated,,2813068ea8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#144#12,海外に行きたい,好想去海外旅游,translated,,4359003acf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#145#12,家の中が一番,还是待在家里最好,translated,,3420cea09c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#147#12,"わぁ、それいい考えだね！
+絶対に楽しいよ！","哇，这真是个好主意！
+绝对会超级开心的！",translated,依恩,c4a87a6b5b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#148#12,"観光地を回って色んな物を見たり、
+美味しいものを食べたり……。","逛逛景点欣赏各种风景，
+尝尝各地的特色美食……。",translated,依恩,cb81372eed,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#149#12,友達となら、何倍も楽しめるはずだよ。,只要是和朋友一起，快乐肯定能翻倍呢。,translated,依恩,9caeae4750,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#152#12,"お帰りなさい！
+旅行、楽しかった？","欢迎回来！
+旅行玩得还开心吗？",translated,依恩,3fc7c3f0e2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#153#12,"友達とあった時は、しばらくは旅行の
+思い出話だけで盛り上がれそうだね。","等下次再和朋友聚在一起时，
+光是聊旅行时的回忆就能聊得很热闹呢。",translated,依恩,ccd9a4af0b,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#156#12,"言葉のわからない海外旅行も、
+仲のいいお友達となら不安はないよね。","哪怕去语言不通的海外旅行，
+只要有好友相伴也会安心很多呢。",translated,依恩,8abe37d8bf,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#157#12,"どこに行くかは置いておくとして、
+とりあえず友達に声をかけてみようよ。","先不管具体去哪里，
+总之先试着跟朋友提一提探探口风吧。",translated,依恩,a950e2c067,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#160#12,"旅行に行くよりも、落ち着ける家で
+のんびり過ごす方が好きなのかな？","比起出门旅行，
+你更喜欢待在安心舒适的家里悠闲放松吗？",translated,依恩,b3a9cd6962,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#161#12,"まあ、旅行となると行くのも帰ってくるのも
+大変だと思うから、家の中でのんびりと
+過ごしたくなる気持ち、わからなくないよ。","嘛，毕竟出门旅行来回奔波都很累，
+想留在家里惬意度日的心情，
+我也不是不能理解呢。",translated,依恩,9fffbdae16,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#162#12,"数日旅行に行くつもりで、友達集めて
+お泊りパーティーするのも楽しそうだね。","权当去旅行几天，把朋友叫来家里
+办个过夜聚会感觉也挺有意思呢。",translated,依恩,3c97fc62d5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#165#12,部屋でゲームして遊んだ,在房间里一起打游戏了,translated,,819033effa,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#166#12,休日に少し遠出して遊んできた,休息日出远门玩了一趟,translated,,a66264968e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#167#12,アウトドアを満喫してきた,痛快享受了户外活动,translated,,4ad3e4c71d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#168#12,一緒にだらだらしてた,两个人一起懒洋洋地消磨时间,translated,,acdefc1a64,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#170#12,"ゲームは一人でも遊べるけど、
+お友達が一緒だと盛り上がれるから、
+一人の時よりももっと楽しめるよね。","打游戏虽然一个人也能玩，
+但有朋友在就能一起热热闹闹的，
+肯定比一个人玩有意思得多呢。",translated,依恩,44dd50f235,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#171#12,"対戦プレイ、協力プレイ、
+どっちもいいよね。","无论是联机对战还是合作通关，
+都各有趣味呢。",translated,依恩,896d3ccac6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#174#12,"普段とは違う場所へ行って遊ぶのも、
+新鮮な気持ちになれていいよね。","去平时不常去的地方游玩，
+也能换换心情收获新鲜感，挺好的呢。",translated,依恩,b39b4a566d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#175#12,"今度はもう少し遠いところに、
+お泊りで遊びに行くのも楽しいかも
+しれないよ。","下次试着去更远一点的地方、
+在外留宿一晚玩个痛快或许也挺不错哦。",translated,依恩,ff556e8b4e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#178#12,アウトドア好きなお友達がいるんだね。,看来你有个热爱户外活动的朋友呢。,translated,依恩,f6bd7fa2c7,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#179#12,"わたしも、そういうお友達を作って
+家から引っ張り出してほしいなぁ。","我也好想交个这样的朋友，
+把我也从家里硬拉出去走走呀。",translated,依恩,8340cb3aaa,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#182#12,"友達と一緒にだらだら過ごすのって、
+中々すごいことかも……。","能和朋友一起无所事事地闲待着，
+某种意义上其实也挺厉害的……。",translated,依恩,e7c58c72d6,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#183#12,"せっかくお友達と一緒にいるんだから、
+今度からは何かして遊ぶようにしようよ。","难得和朋友聚在一起，
+下次开始还是找点正经事情一起玩吧。",translated,依恩,0180a3d037,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#186#12,好印象の噂が流れて少し照れる,传出了关于我的好名声有点害羞,translated,,e0b0b68d01,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#187#12,悪い噂が流れてるようで心配,好像有坏名声在流传很让人担心,translated,,1768407a06,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#188#12,恋人ができたと噂されてるらしい,听说有人造谣说我有恋人了,translated,,7a73e839a3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#189#12,特に噂されるようなことがない,根本没什么值得被八卦议论的,translated,,0585c9e52c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#191#12,ふふっ、どんな噂なんだろ？,呵呵，会是什么样的传闻呀？,translated,依恩,94c9923b82,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#192#12,"けど、あなたみたいな素敵な人なら、
+いい噂の一つや二つ流れてても
+不思議じゃないよね。","不过像你这么优秀出色的人，
+有一两条夸你的好传闻
+也完全不奇怪嘛。",translated,依恩,bc0f6de726,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#195#12,そうなんだ……誰かの嫌がらせかな？,这样啊……难道是有人故意恶作剧吗？,translated,依恩,9f04e05be6,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#196#12,"根も葉もないウソだったとしても、
+噂好きな人はイタズラに信じるから、
+できるだけ早く対処した方がいいよ。","即便纯属子虚乌有毫无根据，
+爱嚼舌根的人也会听风就是雨，
+最好尽早处理解决掉哦。",translated,依恩,7b838551e9,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#199#12,そっか、恋人ができたんだ……。,这样啊，你有恋人了啊……。,translated,依恩,d266238086,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#200#12,ちょっと、わたしにとっては複雑かも。,对现在的我来说，心情稍微有点复杂呢。,translated,依恩,ba142ce458,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#203#12,あはは、普通はそんなものだよ。,啊哈哈，普通人一般都是这样的啦。,translated,依恩,e963b35099,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#204#12,"普通に生活してるのに、噂が立つ人の方が
+珍しいもん。","明明平时安安稳稳过日子
+却老被传各种闲话的人，才比较少见嘛。",translated,依恩,8d94451d6c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#207#12,成績で勝負して勝った,比拼学业成绩我赢了,translated,,8a4cfdc8c4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#208#12,成績で勝負して負けた,比拼学业成绩我输了,translated,,266028f6b0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#209#12,どっちも大差なかった,两个人成绩拉不开多大差距,translated,,a784321e3c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#210#12,あまり意識してない,平时不太在意这个,translated,,a089e0ce67,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#212#12,"ふふっ、負けないように頑張って
+勉強したのかな？","呵呵，是为了不输给对方
+而拼命用功读书了吗？",translated,依恩,c76c9ce2eb,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#213#12,次も負けないように、しっかり勉強してね。,下次为了保持胜势，也要继续好好用功哦。,translated,依恩,eb311af960,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#216#12,うわっ、それって悔しいよね……。,哇啊，那肯定很不甘心吧……。,translated,依恩,c4caa2d0c8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#217#12,"次の勝負では負けないように、
+今から勉強してリベンジしよ！","为了下次较量不再输掉，
+从现在起好好复习重新扳回一城吧！",translated,依恩,2c062f2dd1,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#220#12,ふふっ、接戦だったみたいだね。,呵呵，看来双方势均力敌呢。,translated,依恩,2993f13f94,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#221#12,"でも、今のうちからこっそり勉強して、
+今度の時はちょっと差をつけて
+驚かしちゃおうよ。","不过，趁现在悄悄用功学习，
+下次拉开一点差距惊艳对方一把吧。",translated,依恩,a2596e30c8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#224#12,"いくらクラスメイトとはいっても、
+必要以上に成績を意識する必要は
+ないよね。","就算大家是同班同学，
+也没必要在成绩上过分较劲对吧。",translated,依恩,dd0d1146f9,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#225#12,"けど、自分がどれくらいなのかを
+知っておくのは、大切だと思うよ。","不过，清楚把握自己目前的水平
+也是很重要的哦。",translated,依恩,702cfdc14e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#228#12,放課後の学校で遊んでから帰る,放学后在学校玩一阵再回家,translated,,02e98345a2,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#229#12,一緒に寄り道をして帰るのが楽しい,一起在回家路上四处闲逛很有趣,translated,,422e499b14,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#230#12,掃除のときに遊んでて怒られた,大扫除时嬉戏打闹挨批评了,translated,,89cae02d82,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#231#12,最近は遊んでいない,最近没怎么一起玩了,translated,,d692f04072,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#233#12,"休み時間に遊ぶのと放課後に遊ぶのだと、
+何でか放課後の方が楽しく感じるよね。","课间休息时玩和放学之后玩，
+不知为何总觉得放学后玩起来更开心呢。",translated,依恩,fee9413c3f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#234#12,"休み時間みたいに短い時間しか
+遊べないわけじゃないからかな？","大概是因为不像课间那样
+只能玩短短一会儿吧？",translated,依恩,47bdb0cce8,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#235#12,"学校だからゲームとかがあるわけじゃ
+ないのに、不思議だよね。","明明是在学校又没有什么电子游戏，
+却还是觉得很有意思，真不可思议呢。",translated,依恩,073de2ffd5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#238#12,"お茶したり、買い物をしたりしながら
+帰るのって、学校がない日にするのと
+比べて楽しい気がするよね。","喝喝奶茶、买买零食结伴回家，
+感觉比在放假的日子里逛街还要开心呢。",translated,依恩,12ae887dc8,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#239#12,"けど、先生に見つからないように
+気をつけてね。",不过，可要多留心别被老师抓到哦。,translated,依恩,efe2cd21ef,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#240#12,"進路指導室に連れてかれたりするの、
+あなただって嫌でしょ？","被叫去教导处训话谈心什么的，
+你肯定也不想经历对吧？",translated,依恩,096a809524,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#243#12,"掃除の時間って、何故か遊びたく
+なっちゃうよね。","不知为什么，一到打扫卫生的时候
+总会忍不住想要嬉闹玩耍呢。",translated,依恩,0490bca800,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#244#12,"部屋の掃除をしてると、無性に本を読みたく
+なっちゃうのと同じ感じなのかな？","这大概就跟打扫自己房间时
+总是莫名其妙特别想看书一样吧？",translated,依恩,d22fbf086d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#247#12,"学校の勉強が忙しくて、
+あまり遊んでる暇がないのかな？","是因为学校学业太忙碌，
+所以抽不出什么空闲去玩吗？",translated,依恩,25e446c8f7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#248#12,"でも、たまには放課後に寄り道して
+帰ったりするくらいの時間は、
+作った方がいいと思うよ。","不过，偶尔在放学后顺路逛逛再回家，
+抽出这么一点时间放松一下也很不错哦。",translated,依恩,42a04729cb,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#251#12,勉強のライバルがいる,我有学业上的竞争对手,translated,,68450ce393,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#252#12,スポーツのライバルがいる,我有体育运动上的竞争对手,translated,,a82bf8c862,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#253#12,仕事のライバルがいる,我有工作上的竞争对手,translated,,4f86a2ecdc,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#254#12,どの分野にもライバルがいない,我在任何领域都没有竞争对手,translated,,60726b7d2a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#256#12,べ、勉強のライバル！？,学、学业上的竞争对手！？,translated,依恩,d51a364f60,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#257#12,"す、すごいね、勉強で競い合える
+ライバルがいるなんて……。","好、好厉害呀，
+居然有能在学业上彼此竞争的对手……。",translated,依恩,37683861a7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#258#12,"もしかして、あなたって成績優秀だったり
+するのかな？",难不成，你的成绩其实非常优秀拔尖吗？,translated,依恩,51dbd2ba3f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#261#12,わわっ、スポ根マンガみたい！,哇哇，感觉好有热血运动漫画的氛围！,translated,依恩,6a9dc25dbf,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#262#12,"それならわたしは、あなた専属の
+応援団になるよ。",既然这样，那我就来当你的专属应援团吧。,translated,依恩,fd03bb086d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#263#12,"ライバルに負けるなー！
+フレッフレッ、あなたっ！","绝对不能输给对手哦――！
+加油、加油、亲――爱――的！",translated,依恩,9ddf03c695,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#266#12,"仕事上のライバルには、
+絶対に負けたくないよね。","在职场上的竞争对手，
+无论如何都不想输给对方呢。",translated,依恩,b72f48373e,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#267#12,あなたの未来の為にも、頑張ってね！,为了你自己的光明未来，也要加油哦！,translated,依恩,112f125492,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#270#12,"それって、ライバルになるような相手が
+いないくらい、あなたが優秀、ってこと
+なのかな？","难道是因为你太优秀出众了，
+优秀到甚至找不出能做你对手的人吗？",translated,依恩,2e42758de3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#271#12,"だとしたら、あなたってすごい人だよ。
+ちょっと尊敬しちゃうなぁ。","要是这样的话，你可真是个了不起的人呢。
+让我都有点由衷敬佩你了呢。",translated,依恩,afbe005380,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#274#12,いま勝っているけど油断できない,目前领先但绝不能掉以轻心,translated,,f99e047644,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#275#12,僅差で負けている。もう少し頑張ろう,稍逊一筹处于劣势。再加把劲吧,translated,,87279bb8df,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#276#12,最近、差をつけられてやる気が出ない,最近差距被拉大了提不起干劲,translated,,823ee13d49,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#277#12,あまり調子が良くないようで心配,对方状态似乎不佳很让人担心,translated,,d130ca13d5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#279#12,"ライバルって、相手に負けた時の
+追い上げが怖いよね。","身为对手，输掉之后奋起直追的
+那股反扑劲头可是很惊人的呢。",translated,依恩,fe46ec0e1d,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#280#12,"絶対に負けてたまるか、って思えるような
+相手のことをライバルって言うんだし。","毕竟能让自己产生“绝对不能输”的念头，
+这样的人才配称得上是竞争对手嘛。",translated,依恩,4d94cba219,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#281#12,"これからしばらくは大変だと思うけど、
+負けないように頑張ってね。","接下来的日子大概会很辛苦，
+为了不输给对方，加油坚持住哦。",translated,依恩,1c79cfc761,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#284#12,うん、その意気だよ。,嗯，就该保持这股劲头哦。,translated,依恩,ac3dbf624e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#285#12,"僅差でも負けて悔しいって気持ちがあれば、
+それをバネにして一気に追い抜いちゃおう！","哪怕只输了一点点，只要心里有一股不甘心，
+就能化作动力一口气反超过去！",translated,依恩,52b537a297,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#288#12,そんなこと言ったらダメだよ。,可不能说这种丧气话哦。,translated,依恩,b0d727d379,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#289#12,"負けて悔しい、って思えなくなったら、
+もうその相手はライバルじゃなくなっちゃ
+うんだよ？","要是输了都觉得无所谓不再不甘心的话，
+那个人可就再也不算你的竞争对手了哦？",translated,依恩,f90b5b76e3,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#290#12,"少しずつでも追いついて、絶対に勝つぞ、
+って気持ちを持とう！","哪怕一点一点追赶，
+也要抱持着“我一定要赢”的信念！",translated,依恩,0c3dbd7bd7,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#293#12,"調子が良くない時は、声を掛けてあげるのも
+ライバルとしての役目だよ。","在对方状态不佳时主动去关心问候，
+也是身为对手的一份职责哦。",translated,依恩,c923e58c24,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#294#12,"最大の敵であり、友であり、理解者。
+それがライバルなんじゃないかな？","既是最大的宿敌，也是挚友与知己。
+这就是所谓的竞争对手吧？",translated,依恩,0c62aa40b3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#297#12,ライバルとの勝負に勝った,在和对手的较量中赢了,translated,,70943ab883,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#298#12,ライバルとの勝負に負けた,在和对手的较量中输了,translated,,a40d657da8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#299#12,結局、引き分けに終わった,结果以平局收场了,translated,,42b46bbb51,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#300#12,勝負は次の機会ということになった,较量被推迟到了下一次,translated,,71a18b1b89,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#302#12,やったぁ、おめでとう！,太好了，恭喜你呀！,translated,依恩,aab48bf399,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_05.txt#303#12,"友達との勝負に勝つのに比べて、
+ライバルとの勝負に勝ったときの喜びは、
+比べ物にならないくらい大きいよね？","比起赢了普通朋友，
+战胜宿敌时的那份喜悦与成就感，
+肯定完全不可同日而语对吧？",translated,依恩,bcf88bc203,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#304#12,"でも、負けたライバルがこのまま黙って
+引き下がるとは思えないから、引き続き、
+気を引き締めて頑張ろ！","不过输掉的对手肯定不会善罢甘休，
+接下来也要继续保持专注好好加油哦！",translated,依恩,d40ec7a3d5,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#307#12,"そっか……でも、まだ落ち込んでちゃ
+ダメだよ！",这样啊……不过，现在可不能灰心丧气哦！,translated,依恩,16ee9f11c3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#308#12,"勝負で負けても、まだまだ諦めずに
+自分を磨き上げていかなくちゃ！","就算较量输了一回，也绝不能放弃，
+要继续打磨提升自己才行！",translated,依恩,6ed1ec7850,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#309#12,"それで、もう二度と負けないくらいに
+なろう！","努力让自己成长到
+再也不会输给任何人的地步吧！",translated,依恩,68091c251f,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#312#12,"う～ん……何となくモヤモヤした気持ちが
+残る結果になっちゃったね。",唔～……结果总觉得心里有点憋闷疙瘩呢。,translated,依恩,1e10f90028,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#313#12,"やっぱりライバルとの勝負なら、
+勝ちか負けかはっきりした結果がでないと、
+落ち着かないもん。","毕竟是宿敌之间的较量，
+要是分不出个胜负输赢来，
+心里总归是静不下来的嘛。",translated,依恩,155ec56f64,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_05.txt#314#12,"いつか、ちゃんと勝ち負けを
+決められる日がくるといいね。","希望有朝一日，
+能迎来一场真正决出胜负的比拼呢。",translated,依恩,f102b175ec,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#317#12,"あらら……何か次に持ち越さなくちゃ
+ならないトラブルでもあったのかな？","哎呀……是遇到了什么突发意外
+导致不得不延期到下一次吗？",translated,依恩,4769af9fe4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_05.txt#318#12,"まだまだ気の抜けない日が続くけど、
+ライバルに負けないように頑張ろ！","接下来依然不能掉以轻心，
+为了不输给对手，打起精神加油吧！",translated,依恩,5ba74cb95a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#2#12,学校に入り直した,重新回学校念书了,translated,,6107afef00,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#3#12,自分探しをすることにした,决定去寻找自我,translated,,09622461d4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#4#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#6#12,就職した,找到工作上班了,translated,,be4778de1c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#7#12,学校を卒業した,从学校毕业了,translated,,cae508a4f0,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#8#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#10#12,就職した,找到工作上班了,translated,,be4778de1c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#11#12,学校で勉強することにした,决定去学校进修学习,translated,,bc0228919d,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#12#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#16#12,"えっ、それって会社を辞めたってこと！？
+随分思い切ったね……。","诶，这意思是把工作给辞了吗！？
+真是做了一个很有魄力的决定呢……。",translated,依恩,b28b3bacf3,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#17#12,"けど、それだけやってみたいことが
+見つかったってことだよね。
+わたし、応援してるよ！","不过，这也说明你找到了
+自己真正想去尝试的事对吧。
+我会一直支持你的！",translated,依恩,6c0937ba09,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#19#12,"えぇっ！？　会社に入ってたのに、
+学校に入りなおしたの？","诶诶！？明明都上班工作了，
+又重新回学校念书了吗？",translated,依恩,f7299ec523,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#20#12,そっか……。応援するね！,这样啊……。我会为你加油的！,translated,依恩,9f566206ad,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#26#12,……何か、悩み事でもあるのかな？,……心里是有什么烦恼困惑吗？,translated,依恩,833408299a,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#27#12,"すぐには見つからないとは思うけど、
+わたしは応援してるよ。","虽然感觉不会那么轻易就找到，
+但我会全力支持你的哦。",translated,依恩,e2875d50b2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#28#12,早く答えが見つかるといいね。,希望你能早日找到属于自己的答案呢。,translated,依恩,2f025f4a16,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#30#12,自分探し……う～ん、よくわからないかも。,寻找自我……唔～，我有点不太懂呢。,translated,依恩,e95cd6a7e8,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#31#12,"だってわたしにとって、
+あなたはあなただもん。","因为对我来说，
+你一直就是独一无二的你嘛。",translated,依恩,29b1f4a486,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#32#12,"だから、今から無理に探さなくても、
+今までのあなたのままでいいと思う
+けどなぁ……。","所以我觉得，就算不用刻意去寻找什么，
+保持一直以来的你就已经很好了呀……。",translated,依恩,bd52b8d455,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#38#12,"わぁ、おめでとう！
+とうとうあなたも社会人だね！","哇，恭喜你！
+你终于也步入社会成为上班族了呢！",translated,依恩,e81e6f45dd,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#39#12,"学生の時とはまったく違った生活に
+なると思うけど、あなたなら大丈夫！","生活方式肯定会和学生时代截然不同，
+但我相信你一定没问题的！",translated,依恩,c056b6f009,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#40#12,"これからは立派な社会人として
+頑張ってね！",今后要作为一名优秀的社会人好好加油哦！,translated,依恩,8122085023,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#42#12,ほ、本当！？　おめでとう！,真、真的吗！？太恭喜你了！,translated,依恩,c9e547c458,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#43#12,"どんな会社に就職したんだろ？
+やっぱり、入るまで大変だった？","是一家什么样的公司呀？
+果然入职前经历了不少波折考验吧？",translated,依恩,a46a798bf5,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#44#12,"これからは今まで以上に忙しくなると
+思うから、しばらくゆっくりお話しするのは
+無理かな？","今后想必会比以往都要忙碌呢，
+短时间内大概很难像以前那样
+安安心心坐下来长聊了吧？",translated,依恩,f59d043331,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#50#12,"卒業おめでとう！
+それじゃあ今日はお祝いしないと
+いけないね。","恭喜毕业！
+那今天必须得好好庆祝一番才行呢。",translated,依恩,1bc8d7698b,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#51#12,"あなたは家でケーキとか食べるのかな？
+それとも、お友達と集まってお食事を
+するのかな","你是在家里吃蛋糕庆祝呢，
+还是和朋友们聚在一起聚餐呢？",translated,依恩,aa1b326c9e,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#53#12,"学校生活、お疲れ様でした。
+よく卒業まで頑張ったね。","学生生涯辛苦啦。
+一直坚持努力到顺利毕业真了不起呢。",translated,依恩,fc2ce6fe17,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#54#12,"明日からはまた、今日とは違う毎日が
+始まるけど、変わらずに頑張ろうね！","明天开始又将迎来截然不同的新生活，
+但我们也要像往常一样继续加油哦！",translated,依恩,9da3b2d585,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#60#12,"勉強したいものができた時には、
+やっぱり学校に入るのが正解だね。","有了真正想深入学习的知识，
+去学校系统进修果然是最正确的选择呢。",translated,依恩,e09971b377,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#61#12,"どんな学校に入ったのかな？
+ふふっ、何であれ勉強頑張ってね。","是进了一所什么样的学校呀？
+呵呵，不管学什么都要好好用功哦。",translated,依恩,04f98cea0a,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#63#12,"ふふっ、何か新しいことを勉強して、
+始めたいことでもできたのかな？","呵呵，是想学习一些崭新的知识技能，
+有了什么想要开展的新方向吗？",translated,依恩,dbaae3b6dc,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_06.txt#64#12,"それがどんなことであっても、勉強しよう、
+って気持ちになることは素敵なことだよ。
+わたし、ずっと応援してるね！","无论是什么领域，只要萌生出想要学习的念头，
+本身就是一件非常美好的事哦。
+我会一直一直为你加油的！",translated,依恩,66095387e4,br=0 nl=2,3,
+inc/event/res/ownevent/ownevent_06.txt#70#12,あらら……楽しみだったのに……。,哎呀……明明我还很期待的呢……。,translated,依恩,61d60d526b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#71#12,気が変わったら、またお話してね。,要是改变心意了，记得再跟我聊聊哦。,translated,依恩,8b52830a11,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#73#12,むぅ……聞きたかったなぁ……。,唔……本来很想听你说说的嘛……。,translated,依恩,5349406fb6,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#75#12,気が変わっちゃったのかな？,是突然改变想法了吗？,translated,依恩,a140b7bd40,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_06.txt#76#12,"またお話したくなったら、
+いつでも声をかけてね。",什么时候又想聊了，随时欢迎来叫我哦。,translated,依恩,a3f1abaa1c,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_root.txt#2#12,…むにゃ……。,……唔喵……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#6#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#10#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#14#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#21#12,"<CLY2>いまお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行对话。
+请等待依恩切换行动状态。",translated,系统文本,007958f6bc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/ownevent/ownevent_root.txt#27#12,"わぁ、あなたのことを聞かせて
+もらえるの！？",哇，愿意跟我讲讲关于你的事情吗！？,translated,依恩,e2facae930,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_root.txt#29#12,あなたのことを話してくれるの？,愿意跟我聊聊你的事情吗？,translated,依恩,0a08b1c026,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#30#12,"ふふっ、楽しみだなぁ。
+どんなことを話してくれるんだろ。","呵呵，好期待呀。
+你会跟我聊些什么样的话题呢。",translated,依恩,9a9bb670e2,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_root.txt#32#12,"うん、いいよ。
+わたしもあなたのお話聞きたい。","嗯，好呀。
+我也很想听听关于你的事呢。",translated,依恩,2548dc98e4,br=0 nl=1,2,
+inc/event/res/ownevent/ownevent_root.txt#33#12,どんなお話をしてくれるの？,要跟我聊些什么呢？,translated,依恩,7431633823,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#37#12,仕事について,聊聊工作的事,translated,,a5c213ec84,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#38#12,家族について,聊聊家人的事,translated,,cff81bad49,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#39#12,友達について,聊聊朋友的事,translated,,be0ec37a63,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#40#12,いまやっている事について,聊聊现在正在忙的事,translated,,591489f31c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#41#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#43#12,学校について,聊聊学校的事,translated,,dbb1cce9c4,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#44#12,家族について,聊聊家人的事,translated,,cff81bad49,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#45#12,友達について,聊聊朋友的事,translated,,be0ec37a63,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#46#12,いまやっている事について,聊聊现在正在忙的事,translated,,591489f31c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#47#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#49#12,普段やってることについて,聊聊平时做的事,translated,,93047e1ca3,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#50#12,家族について,聊聊家人的事,translated,,cff81bad49,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#51#12,友達について,聊聊朋友的事,translated,,be0ec37a63,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#52#12,いまやっている事について,聊聊现在正在忙的事,translated,,591489f31c,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#53#12,なんでもない,没什么,translated,,397f298da5,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#69#12,あらら……楽しみだったのに……。,哎呀……明明我还很期待的呢……。,translated,依恩,61d60d526b,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#70#12,気が変わったら、またお話してね。,要是改变心意了，记得再跟我聊聊哦。,translated,依恩,8b52830a11,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#72#12,むぅ……聞きたかったなぁ……。,唔……本来很想听你说说的嘛……。,translated,依恩,5349406fb6,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#74#12,気が変わっちゃったのかな？,是突然改变想法了吗？,translated,依恩,a140b7bd40,br=0 nl=0,1,
+inc/event/res/ownevent/ownevent_root.txt#75#12,"またお話したくなったら、
+いつでも声をかけてね。",什么时候又想聊了，随时欢迎来叫我哦。,translated,依恩,a3f1abaa1c,br=0 nl=1,2,

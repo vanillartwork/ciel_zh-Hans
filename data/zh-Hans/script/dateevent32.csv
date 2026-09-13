@@ -1,0 +1,369 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent32/piyo02.txt#1#12,"温泉ひよこを使うなら、やっぱり温泉に
+行かないとダメだよね？","既然要用温泉小鸡，果然还是
+非得去温泉不可呢？",translated,依恩,f8c9e11abf,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#2#12,"どうしよっか？
+今から行ってみる？","怎么办呢？
+现在要去看看吗？",translated,依恩,1ab44d60c8,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#4#12,日を改めよう,改天再去吧,translated,,f064ad2024,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#6#12,"今日は忙しいのかな？
+それじゃあ、また別の日にね。","今天很忙吗？
+那么，就改天再去吧。",translated,依恩,5016fd8342,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#11#12,"やった！
+丁度温泉に入りたいかも、って思ってた
+ところでもあったの。","太好啦！
+我刚好也觉得
+差不多想去泡个温泉了呢。",translated,依恩,c90d3ca535,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#12#12,それじゃ、早速行こっか？,那么，这就立刻出发吧？,translated,依恩,9731dda150,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#14#12,はふ～……相変わらず良いお湯だよぉ。,哈呼～……还是一如既往的舒适温泉呢。,translated,依恩,77e569261c,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#15#12,"……でも、今日はいつもと比べると、
+ちょっと違う感じがするかも。","……不过，和往常相比，
+今天总觉得感觉有些不太一样呢。",translated,依恩,70f51449f6,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#16#12,"やっぱり、お湯に温泉ひよこを
+浮かべてるからかな？","果然是因为把温泉小鸡
+漂浮在水面上的缘故吧？",translated,依恩,c4aaa3a062,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#17#12,"何となくだけど、家のお風呂にゆっくり
+浸かってる時と同じ感じがするの。","总觉得跟在家里慢悠悠地
+泡澡时的感觉一模一样呢。",translated,依恩,b2366c454b,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#18#12,"こんな風に、ひよこを突きながら入ってれば
+そういう気持ちになるのも当然かな？","像这样一边戳着小鸡一边泡澡，
+会产生这种心情也是理所当然的吧？",translated,依恩,2b6256cbe5,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#20#12,お風呂で使うのはあひるだけどね,不过泡澡时一般用的都是小鸭就是了,translated,,0a2ca1a9e6,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#22#12,あっ、そういえばそうだね。,啊，说起来确实是那样呢。,translated,依恩,0f4d1a648c,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#23#12,"どっちも見た目が黄色い鳥だから、
+一緒になっちゃってたみたい。","因为两者看起来都是黄色的小鸟，
+好像就不知不觉混为一谈了。",translated,依恩,457442f9d2,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#24#12,……でも、どうしてあひるにしたのかな？,……不过，为什么会选用小鸭呢？,translated,依恩,2beab8383e,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#25#12,"水に浮く鳥なら、あひる以外にも
+色々いるはずなのに……。","要是能浮在水上的鸟，除了小鸭以外
+明明应该还有很多才对呀……",translated,依恩,1da1a6503e,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#27#12,誰でも知ってる鳥だからじゃない？,不是因为这是谁都认识的鸟吗？,translated,,5c352252da,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#28#12,何であれひよこよりはマシだよ,无论怎么说都比小鸡要强吧,translated,,36a05ed0ed,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#30#12,そっか……言われてみれば確かにそうかも。,这样啊……经你这么一说确实很有可能呢。,translated,依恩,2eb755a013,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#31#12,"それに、大人ならまだしも、子供だと
+身近な鳥くらいしか知らない場合も
+考えられるし……。","而且大人暂且不说，要是小孩子的话，
+可能也只认得这种
+身边常见的小鸟……",translated,依恩,8c57bf0544,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#32#12,"かといって、白鳥とかにしちゃうと
+今度は大きくなり過ぎちゃうし。","可要是换成天鹅之类的话，
+体型又未免太庞大了些。",translated,依恩,4246fde988,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#33#12,"事実かどうかはわからないけど、
+なるほど、って思える答えだね。","虽然不知道是不是事实，
+但确实是一个让人深以为然的回答呢。",translated,依恩,dfaadaf025,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#37#12,"ま、マシって……せっかく作ったのに
+そういうこと言わないでよぉ……。","什、什么叫要强啊……明明是我好不容易做的，
+别说那种话嘛……",translated,依恩,c9777fac38,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#38#12,"あひるだとお風呂と一緒になっちゃうから、
+何となく似てるひよこにしたのに……。","做成小鸭就跟普通泡澡一样了，
+所以我才特意选了长得很像的小鸡的说……",translated,依恩,190a11e0a3,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#39#12,"もう少し言い方を気をつけてくれないと、
+わたしだって気分悪くなっちゃうよ。","你说话要是再不注意点分寸的话，
+我也是会生气的哦。",translated,依恩,80e0fd87b2,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#41#12,"……でも、これの正しい遊び方って、
+どうすればいいのかな？","……不过，这个东西的正统玩法，
+到底该怎么玩呢？",translated,依恩,d527a35fe8,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#42#12,"わたしはただ突いたり、沈めて手を離す
+くらいしか遊び方知らないの。","我除了戳一戳它，或者把它按进水里再松手，
+就不知道别的玩法了呢。",translated,依恩,25ab5edd73,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#43#12,"っていうか、それ以外に遊び方があるとは
+思えないけど……。","话说回来，我也很难想象
+它还会有别的玩法就是了……",translated,依恩,d78e073e47,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#44#12,あなたはこれの正しい遊び方って知ってる？,你知道这个东西的正统玩法吗？,translated,依恩,3c8095d7b9,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#46#12,長風呂の暇潰しになればいいと思う,能给长时间泡澡打发时间就行了,translated,,b8aba7a3f5,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#47#12,知らないけど、あるだけで楽しくなる,虽然不知道，但只要有它就变开心了,translated,,7bff3b0429,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#49#12,そっか……でも、確かにそうだね。,这样啊……不过，确实是那样呢。,translated,依恩,2b5ee53b36,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#50#12,"いくらゆったりしたくても、長く入ってると
+どうしても暇になってきちゃうし。","就算再怎么想放松，泡太久的话
+无论如何也还是会变得无聊起来嘛。",translated,依恩,e4b9c3ede5,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#51#12,"そんな時に、ちょっと突いたり沈めたり
+できるおもちゃがあるだけでも、暇潰しには
+十分だもんね。","在那种时候，哪怕只是有能够
+戳一戳、按进水里的玩具在，
+拿来打发时间也完全足够了呢。",translated,依恩,b778bc5043,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#54#12,うん、それは確かにそうかも。,嗯，那确实很有道理呢。,translated,依恩,c2047e2459,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#55#12,"何でかわからないけど、これがお湯に
+浮いてるだけで、ワクワクした気持ちに
+なるよね？","虽然不知道为什么，
+但光是看着它漂浮在热水里，
+心情就会变得雀跃起来对吧？",translated,依恩,1613d420d4,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#56#12,"あるだけで楽しくなる……。
+もしかしたらこれは、そういう気持ちに
+なるためにあるのかもしれないね。","光是有它在就能变开心……
+说不定它就是为了
+带给人这种心情而存在的呢。",translated,依恩,4338f726ff,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#58#12,"ふぅ……さてと、あまりおもちゃに
+夢中になってると、のぼせちゃうかも
+しれないし……。","呼……好啦，要是玩玩具
+玩得太入迷的话，
+说不定会泡到头晕目眩的……",translated,依恩,cabb6df6b2,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#59#12,そろそろ戻ろっか？,差不多该回去了吧？,translated,依恩,f3ea268879,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#61#12,あ～、さっぱりしたぁ。,啊～神清气爽啦。,translated,依恩,d6173e5c41,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo02.txt#62#12,"実際に入ったわけじゃないけど、
+やっぱり温泉に行くと気持ちが
+さっぱりするよ。","虽然我并不是真正泡进去了，
+但果然只要去温泉，
+心情就会变得非常舒畅呢。",translated,依恩,02bc1d9342,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#63#12,"それに、温泉ひよこもあったから、
+いつもと違った楽しさもあったし。","而且还有温泉小鸡在，
+也有着不同于以往的乐趣呢。",translated,依恩,ba3e2dc853,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#64#12,"今度行く時も、また温泉ひよこを
+持って行こうね。","下次去的时候，我们也要
+带上温泉小鸡一起去哦。",translated,依恩,bb0a4b486c,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#65#12,"それじゃ、そろそろ戻るよ。
+今日は付き合ってくれてありがと。","那么，我差不多该回去啦。
+今天谢谢你能陪我。",translated,依恩,e654eb306c,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo02.txt#68#14,"温泉でおもちゃで
+遊ぶのって、新鮮で
+楽しかったなぁ。","在温泉里玩玩具，
+这种感觉既新鲜
+又有趣呢。",translated,,0be639d3ad,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo02.txt#69#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent32/piyo03.txt#1#12,"温泉ひよこなら、温泉に行かないと
+使えないよ。","温泉小鸡的话，
+不去温泉可是用不了的哦。",translated,依恩,31a97916aa,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#2#12,"どうする？
+今からちょっと行ってみる？","怎么办呢？
+现在要稍微去一趟看看吗？",translated,依恩,185d76191d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#3#12,行ってみよう,去看看吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#4#12,今はまだいいや,现在还是算了吧,translated,,534438941d,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#6#12,うん、それじゃまた今度ね。,嗯，那就下次再说吧。,translated,依恩,090ce22e86,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#11#12,"決まりだね。
+それじゃあ、早速しゅっぱーつ！","说定啦。
+那么，这就立刻出～发！",translated,依恩,e55c7f70b4,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#13#12,ふぅ～……。,呼～……,translated,依恩,05f9ccd4f4,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#14#12,"何度来ても思うけど、温泉ってとっても
+気持ちがいいよ。","不论来多少次我都觉得，
+温泉真的让人身心舒畅呢。",translated,依恩,dde824ce95,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#15#12,"何だか、わたしだけ温泉に入っちゃって、
+ちょっと申し訳ない気持ちかも。","总觉得只有我一个人在泡温泉，
+稍微有点过意不去呢。",translated,依恩,53d741e72e,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#16#12,"それに、温泉ひよこでの遊び方も
+段々慣れてきて、楽しくなってきたし。","而且我也渐渐掌握了玩温泉小鸡的诀窍，
+越来越觉得有意思了呢。",translated,依恩,7bb5a7109d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#17#12,"……せめて、おもちゃで遊ぶのだけは
+控えた方がいいかな？","……至少我光玩玩具这一点，
+是不是稍微克制一下比较好呀？",translated,依恩,a19d2d591a,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#18#12,"じゃないと、本当にあなたのことを
+置いてきぼりにしちゃってそうだし……。","不然的话，感觉就真的像是
+把你一个人冷落在一边了嘛……",translated,依恩,3b92c515f5,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#20#12,せっかく作ったんだから遊ばないと勿体無い,难得做出来了不玩多可惜呀,translated,,1dc9f95818,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#22#12,"……あなたがそう言ってくれるなら、
+お言葉に甘えちゃおうかな？","……既然你都这么说了，
+那我就不跟你客气啦？",translated,依恩,b56cec4c3d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#23#12,"えへへ……進めー、温泉ひよこー！
+つんつん！","诶嘿嘿……前进吧～温泉小鸡～！
+戳戳！",translated,依恩,43e51deced,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#24#12,"うん、本当に泳いでるみたいに、
+スーッて進んでるよ。","嗯，就像真的在游泳一样，
+嗖嗖地往前游呢。",translated,依恩,a5c4a27121,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#25#12,"当然のように思えるかもしれないけど、
+ちょっと大きさとかバランスが狂うと、
+まっすぐ進まなくなっちゃうの。","虽然这看起来像是理所当然的，
+但只要稍微有一点大小或重心失衡，
+它就没办法笔直前进了哦。",translated,依恩,83df81e1f3,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#26#12,"つまり今回作ったのは、文句なしの
+大成功の一品、ってことだね。","也就是说这次做出来的，
+毫无疑问是一件大成功的极品呢。",translated,依恩,4654254953,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#27#12,"他にも、こうやって沈めて、
+手を離すと……。","还有还有，像这样按进水里，
+然后再松开手的话……",translated,依恩,42ae25532a,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#28#12,"……ひゃわっ！
+と、飛んだ！？","……呀哇！
+飞、飞起来了！？",translated,依恩,3a68832acf,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#29#12,"う～ん、すごいことに違いはないけど、
+ちょっと勢いがあり過ぎるから、子供が
+遊ぶおもちゃには向いてないかも……。","唔～嗯，虽然确实挺厉害的，
+但冲劲有点太猛了，
+感觉可能不太适合当小孩子的玩具呢……",translated,依恩,e191e77890,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#30#12,"ここは改良点だね。
+ちゃんと覚えておかないと。","这里是个改良点呢。
+我得好好记下来才行。",translated,依恩,73c813fdcd,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#31#12,"……って、ごめんなさい。
+さすがに一人で遊び過ぎだよね？","……等等，对不起。
+我好像确实有点只顾着自己玩了对吧？",translated,依恩,7610b1d051,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#32#12,"思ったよりもちゃんと作れてたから、
+つい夢中になっちゃった、えへへ……。","因为做得比想象中还要好，
+就不知不觉玩入迷了，诶嘿嘿……",translated,依恩,e53ce7e253,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#34#12,楽しそうなイオンを見てるだけで十分,光是看着开开心心的依欧就很满足了,translated,,e59398da0e,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#35#12,入浴中のイオンを見てるだけで十分,光是看着入浴中的依欧就很满足了,translated,,90546809b4,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#37#12,"う～、何だか子供扱いされてるような
+気がする……。","唔～总觉得好像
+被当成小孩子对待了呢……",translated,依恩,aa94b0c0ab,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#38#12,"でも、温泉ひよこで楽しむわたしを見て、
+あなたも楽しいと思ってくれてるんだよね？","不过，看到我玩温泉小鸡那么开心，
+你也同样觉得很开心对吧？",translated,依恩,17fd6db236,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#39#12,"それって、間接的にあなたも温泉ひよこで
+遊んでる、ってことになると思わない？","你不觉得这其实就等同于
+你也间接地在玩温泉小鸡吗？",translated,依恩,327d85538d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#40#12,"そう考えると、この温泉ひよこって、
+わたしが思ってる以上に大成功の一品に
+なってるのかもしれないね。","这么一想，这个温泉小鸡
+说不定比我想象中
+还要更加算得上一件大成功的作品呢。",translated,依恩,b2983ca248,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#44#12,"も、もぉ……またそういうエッチなこと
+言うんだから……。","真、真是的……你又在说
+这种色色的话啦……",translated,依恩,c48f4fcfa1,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#45#12,でも、今回だけは怒らないよ。,不过，只有这次我不生你的气哦。,translated,依恩,a69e28ec57,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#46#12,"温泉ひよこに夢中になり過ぎちゃってた
+わたしも悪いんだし……。","毕竟玩温泉小鸡玩得太入迷的我
+也有不对的地方嘛……",translated,依恩,cb816e89e4,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#49#12,……でも、今日はもうそろそろ限界かも。,……不过，今天差不多到极限了呢。,translated,依恩,90d37041c4,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#50#12,"温泉で身体が温まってるのに、そこで更に
+はしゃいじゃったから、ちょっと眩暈が
+してきたよ……。","明明身体已经被温泉泡得暖烘烘的，
+我还那样疯玩打闹，
+感觉都有点发晕了呢……",translated,依恩,5eb8d074a4,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#51#12,のぼせちゃう前に帰った方がよさそうだね。,在彻底头晕目眩之前还是快回去比较好呢。,translated,依恩,4ff9bfee91,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#53#12,ふぅ……気持ちよかったぁ。,呼……真舒服呀。,translated,依恩,4d056bf6c9,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo03.txt#54#12,"戻ってきちゃうと身体の火照りとかも
+消えちゃうけど、気分的にさっぱりした
+感じが残るのは嬉しいよね？","虽然一回来身体的温热感就消退了，
+但心情上留下的那份清爽舒畅感，
+还是让人很开心对吧？",translated,依恩,08a70aa904,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#55#12,"また今度行った時も、温泉ひよこを持って
+少し長く入りたいな。","下次再去的时候，我也想带着温泉小鸡
+稍微多泡一会儿呢。",translated,依恩,4201b309cc,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#56#12,"それじゃ、今日はありがと。
+また何かあったら声かけてね。","那么，今天谢谢你啦。
+要是还有什么事的话就叫我哦。",translated,依恩,82a9e3f3ca,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo03.txt#59#14,"シンプルな玩具なのに
+温泉ひよこはつい夢中
+になる楽しさがある。","虽然只是个简单的玩具，
+但温泉小鸡却有着
+让人不知不觉入迷的乐趣。",translated,,a440e17dd4,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo03.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent32/piyo04.txt#1#12,"温泉ひよこを使うなら、
+やっぱり温泉に行かないとね。","既然要用温泉小鸡，
+果然还是得去温泉呢。",translated,依恩,5df6f65c0f,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#2#12,"ちょっとさっぱりしたい気分だし、
+今から行ってみない？","我也想稍微清爽一下心情，
+现在要不要去一趟？",translated,依恩,edde7ccd5c,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#3#12,是非行こう！！,一定要去！！,translated,,4638cf08ed,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#4#12,今はちょっと……,现在稍微有点……,translated,,3f7ea60b6b,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#6#12,あらら……それじゃあ、また今度ね。,哎呀呀……那么，就下次再说吧。,translated,依恩,66020a2098,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#11#12,うん、それじゃ早速、入浴ターイム！,嗯，那么事不宜迟，入浴时间到～！,translated,依恩,bdb0b3bff5,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#13#12,はふぅ……やっぱり温泉は広いからいいよ。,哈呼……果然还是温泉宽敞舒服呀。,translated,依恩,966f2a0ed5,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#14#12,"こうやってお湯の中で足を伸ばしながら
+浸かってると、家のお風呂じゃ
+ちょっと物足りなく感じられるもん。","像这样在热水里舒舒服服伸展开双腿泡着，
+就会让人觉得家里的浴缸
+稍微有点不够满足了嘛。",translated,依恩,3952eb8892,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#15#12,"まあ、お風呂にはお風呂の良さがあるのも
+事実だけど、やっぱりね……。","虽说浴缸也有浴缸的好处确实不假，
+但果然还是……",translated,依恩,55489a0004,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#16#12,"それに、広いところで遊ぶからこそ、
+温泉ひよこも楽しめるんじゃないかな？","而且正因为是在宽敞的地方玩耍，
+温泉小鸡才能发挥出全部的乐趣不是吗？",translated,依恩,5ec5fe2f58,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#17#12,"ふふっ、軽く突いてどこまで進むかを
+観察するのとか、意外とハマるよ。","呵呵，轻轻戳一下观察它能漂多远什么的，
+意外地很让人上瘾哦。",translated,依恩,5fc746b3bd,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#18#12,"……って、いけないいけない。
+せっかく二人で来てるんだから、
+遊んでばかりじゃもったいないよね？","……等等，不行不行。
+难得我们两个人一起来，
+光顾着玩可太浪费了对吧？",translated,依恩,4b0f8f8282,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#19#12,"プチデートでも、デートに変わりないもん。
+やっぱり雰囲気のいい会話とか……。","就算是小约会，但也依然是约会嘛。
+果然还是应该聊些气氛浪漫的话题……",translated,依恩,7989325e93,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#20#12,"……む、無理だね。
+温泉ひよこ持ってきてる時点で、
+いい雰囲気になるとは思えないし。","……不、不可能呢。
+光是带着温泉小鸡过来这一点，
+感觉气氛就浪漫不起来嘛。",translated,依恩,2650b19bbd,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#22#12,子供っぽい会話になりそう,感觉会变成充满童心的小孩对话呢,translated,,2a3dae4961,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#23#12,それでも楽しい会話はできそう,即便如此感觉也能聊得很开心哦,translated,,089a91c80b,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#25#12,あ、あはは……やっぱり、そうだよね？,啊、啊哈哈……果然是那样对吧？,translated,依恩,842b4c9c5b,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#26#12,"遊び方を相談しあったり、それこそ
+どこまで泳がせられるかを試して盛り上がる
+くらいしかできなさそうだし……。","感觉顶多也就是互相商量怎么玩，
+或者试着比赛看它能游多远
+然后自顾自地兴奋起来罢了……",translated,依恩,d49057a408,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#29#12,ふふっ、確かにそうだね。,呵呵，确实是这样呢。,translated,依恩,fd5cdfffe2,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#30#12,"一緒にこれの遊び方とか、どこまで泳ぐかを
+試して盛り上がるのも楽しそうかも。","一起琢磨这个的玩法、
+或是比比看能游多远来热闹一下，似乎也挺好玩的。",translated,依恩,c0513c5422,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#31#12,"……でも、やっぱりデートって感じがしない
+のは、ちょっと寂しいかな？","……不过，果然完全没有约会的感觉，
+还是稍微有点寂寞吧？",translated,依恩,e63595c227,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#33#12,"まあ、今更無理に雰囲気のいい会話をする
+必要もないと思うけど。","嘛，虽然事到如今我也觉得
+没必要硬去聊浪漫气氛的话题就是了。",translated,依恩,770656bc3d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#34#12,"恋人の時ならまだしも、
+今は結婚して夫婦なんだもん。","谈恋爱的时候倒还罢了，
+现在我们都已经结婚成为夫妻了嘛。",translated,依恩,07d8ca3149,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#35#12,"ただその場所を一緒に楽しむ、っていう
+落ち着いたデートも、いいと思わない？","单纯一起享受这个地方，
+这种平静从容的约会，你不觉得也挺好的吗？",translated,依恩,f2c231e56e,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#36#12,"それに、結婚した後まで無理に雰囲気のいい
+会話をしようって焦るのは、
+ちょっとだけかっこ悪い気もするし……。","而且结婚之后还急着
+去强行聊什么浪漫话题，
+总觉得也稍微有点不够成熟呢……",translated,依恩,2dbdd834dc,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#38#12,好き合ってるのはわかってるしね,反正我们都知道彼此深爱着对方嘛,translated,,3bb7b34004,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#39#12,そういう会話苦手だから安心したかも,我本来就不擅长那种对话，倒是安心了,translated,,36a3459879,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#41#12,えへへ……そうだね。,诶嘿嘿……是呢。,translated,依恩,31687c250f,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#42#12,"お互いの気持ちはわかってるんだから、
+これからは一緒にいる時間をのんびりと
+楽しむデートができるようになりたいね。","既然彼此的心意都已经心照不宣，
+从今往后要是能学会
+享受悠闲共处时光的约会就好啦。",translated,依恩,8dfa285fb1,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#43#12,"そういうのって、ちょっと大人っぽくて
+かっこいいと思うし……。","那种相处模式，我觉得既很有大人的感觉，
+又很帅气呢……",translated,依恩,d549e91861,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#44#12,"……でも、たまにはドキッとさせてくれる
+言葉を言ってくれたら、やっぱり嬉しいな。","……不过，要是偶尔能对我说些
+让我心跳加速的话，我果然还是会很开心的哦。",translated,依恩,e84dd8d430,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#48#12,えぇっ、そうだったの！？,诶诶，原来是这样吗！？,translated,依恩,7131fb91ba,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#49#12,"……な、何か、今更過ぎる衝撃の事実に、
+どう返答するべきか困るよ。","……总、总觉得事到如今才得知这冲击性的事实，
+我都不知道该怎么回答你了啦。",translated,依恩,3cfbf74c8c,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#50#12,"でも、今までのデートを振り返ってみると、
+そんなに苦手そうには見えなかったよ？","但是回顾以往的约会，
+你看上去并没有那么不擅长呀？",translated,依恩,01e31d0950,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#51#12,"だから、時々でいいからまた、
+わたしをドキッとさせてくれる言葉、
+言ってくれたら嬉しいな……。","所以偶尔一次也行，
+要是能再对我说些让我心跳加速的话，
+我就会很开心哦……",translated,依恩,bb17b54b30,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#53#12,"ふぅ……さてと、体も温まったし、
+温泉ひよこでも十分遊んだし……。","呼……好啦，身体也暖和起来了，
+温泉小鸡也玩得相当尽兴了……",translated,依恩,2f6138018d,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#54#12,"あまり遅くなってもいけないから、
+そろそろ戻ろっか。","太晚了可不好，
+我们差不多该回去了吧。",translated,依恩,007a1710d2,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#56#12,ただいまー。,我回来了～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo04.txt#57#12,"ふぅ……仮想空間とはいえ、
+温泉から戻ると冷たいジュースを
+飲みたくなるね。","呼……虽说是虚拟空间，
+但泡完温泉回来后，
+果然就很想喝杯冰凉的果汁呢。",translated,依恩,d4c2a79da4,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#58#12,"今度温泉に行った時のために、何か美味しい
+ジュースを用意しておこうかな？","为了下次去温泉，
+我要不要准备一些美味的果汁呢？",translated,依恩,4df44f0465,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#59#12,"それじゃ、付き合ってくれてありがと。
+今度のデートも楽しみにしてるよ。","那么，谢谢你陪我。
+我也很期待下一次的约会哦。",translated,依恩,49a3aa79c0,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo04.txt#62#14,"今更だけど、やっぱり
+温泉ひよこでデート
+気分は無理があるね。","虽然事到如今才说，
+但拿着温泉小鸡搞约会气氛
+果然还是太勉强了呢。",translated,,81d3a037e5,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo04.txt#63#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent32/piyo_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo_int.txt#6#12,"温泉に行きたいの？
+んー………どうしようかな…","想去泡温泉吗？
+唔――……该怎么办好呢……",translated,依恩,58afdb68c9,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent32/piyo_int.txt#9#12,"それを出してきたってことは、
+温泉に行きたいってことだね？","你既然把那个拿出来了，
+就说明你想去泡温泉吧？",translated,依恩,86de68d3d1,br=0 nl=1,2,
+inc/event/res/dateevent32/piyo_int.txt#10#12,"もー、そうやって何かにつけて
+温泉に誘うなんて。
+エッチなんだから……。","真是的，动不动就借机
+邀请我去泡温泉。
+真是个色狼……",translated,依恩,859a85d0e2,br=0 nl=2,3,
+inc/event/res/dateevent32/piyo_int.txt#11#12,"でも、今日は気分じゃないからダメ。
+また今度行こうね。","不过，今天我没那个心情所以不行。
+下次再去吧。",translated,依恩,c09ffc301a,br=0 nl=1,2,

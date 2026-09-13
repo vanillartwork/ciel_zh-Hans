@@ -1,0 +1,67 @@
+name: 翻译问题
+description: 译文有错、别扭、或者前后不一致
+title: "[翻译] "
+labels: ["翻译"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。**请务必附上截图** —— 有截图才能准确定位到是哪一行。
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截图
+      description: 直接把图片拖进这个框即可。
+      placeholder: 把截图拖到这里
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: 出现在哪里
+      description: 越具体越好。比如"第 7 章，和妮莉库对话时"、"道具说明：红宝石草"、"存档菜单"。
+      placeholder: 例：第 3 章开头，依恩在升降梯里
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 现在的译文
+      description: 把截图里那句话打出来，方便搜索。
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 你觉得应该怎么译
+      description: 没有把握也没关系，说说哪里读着别扭就很有用。
+    validations:
+      required: false
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 属于哪种问题
+      options:
+        - 意思译错了
+        - 读着别扭、不像中文
+        - 人名/术语前后不一致
+        - 错别字、标点问题
+        - 语气不对（该用敬语的地方没用，等等）
+        - 漏译，还是日文
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: 补丁版本
+      description: 在「应用和功能」里能看到。
+      placeholder: 例：v0.9.0
+    validations:
+      required: false

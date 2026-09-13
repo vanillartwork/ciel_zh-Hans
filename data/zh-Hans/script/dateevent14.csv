@@ -1,0 +1,472 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent14/jkyoku02.txt#1#12,"えっ！？
+もしかして、わたしに使ってほしいの？","诶！？
+难道说，你想让我用用看吗？",translated,依恩,18754dc372,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#2#12,デートに行きたいだけ,只是想去约会而已,translated,,63d0929884,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#3#12,ただ差し出しただけ,只是拿出来给你看看而已,translated,,d16a4107c8,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#5#12,"そ、そっか……。
+それなら良いんだけど……。","这、这样啊……。
+那就好……。",translated,依恩,54530e1e2b,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#10#12,"あっ、そ、そっか、デートね……。
+ほっ……。","啊，这、这样啊，约会对吧……
+松了一口气……。",translated,依恩,fe6682eae7,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#11#12,"う、ううん、なんでもない！
+いいよ、すぐに出発しよ！","没、没什么，什么事都没有！
+好呀，我们马上出发吧！",translated,依恩,ec9f2adedd,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#13#12,"う～ん……。
+今日は、何か良い出会いがある、って
+感じがしないみたい。","唔～嗯……
+感觉今天好像不太会
+遇到什么好事呢。",translated,依恩,a0e1f7ad9e,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#14#12,"でも、のんびり歩いてれば何か
+見つかるかもしれないよね？","不过，悠闲地漫步走走，
+说不定也会发现什么对吧？",translated,依恩,c912661526,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#16#12,"……それにしても、さっきは本当に
+ビックリしちゃったよ。","……话说回来，刚才我真的
+被吓了一大跳呢。",translated,依恩,b39e4def14,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#17#12,"急に磁精記体を出されたから、
+わたしに使えって言ってるのかと
+思っちゃって……。","因为你突然拿出磁精储介，
+我还以为你是想
+让我用在自己身上呢……",translated,依恩,b9e35611d1,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#18#12,作ったのはわたしだよ？,做出它的可是我哦？,translated,依恩,d795cc0e24,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#19#12,"だから、わたしがこんなこと言うのは、
+色々矛盾してると思うけど……。","所以由我说出这种话来，
+虽然感觉处处充满矛盾就是了……",translated,依恩,1ba604e2e5,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#20#12,"わたしね、磁精記体を使いたいとは、
+どうしても思えないの。","但是我啊，无论如何
+都不想去使用磁精储介呢。",translated,依恩,e4b0c53da7,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#21#12,"わたし自信はもちろん、
+あなたにだって使いたいとは思わないよ。","不仅是我自己，
+我也完全不想用在你身上哦。",translated,依恩,474a6f3f65,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#22#12,"とは言っても、端末のあなたには
+使いたくても使えないんだけど……。","虽说隔着终端的你，
+就算我想用也用不上就是了……",translated,依恩,f280234070,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#24#12,本当に使えないか試してみようよ,试试看是不是真的用不上嘛,translated,,48ae2cac35,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#25#12,自分も出来れば使いたくない,我其实也尽可能不想用,translated,,d12368d146,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#27#12,"……あなたは、この機械がどれだけ
+問題のある機械か、わかってないの？","……你难道不知道，这台机器
+到底有多么危险吗？",translated,依恩,c6d0739aec,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#28#12,"使いようによっては、誰にも知られたくない
+ような秘密だって、簡単に引き出せちゃう
+危険な機械なんだから。","因为根据使用方式的不同，
+它甚至能轻易挖出谁都不想透露的秘密，
+是非常危险的机械啊。",translated,依恩,4f6b5e913f,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#29#12,"そんな軽々しく試そうなんて言っちゃ
+ダメだよ。","绝对不能这么轻率地说出
+拿来试用看看这种话哦。",translated,依恩,2cfc1ec27d,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#32#12,よかった……あなたもそう言ってくれて。,太好了……你也愿意这么说。,translated,依恩,6b0dc786c7,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#33#12,"もしあなたが、使ってみたい、って言ったら
+どうしようって、不安だったの。","如果你说想用用看的话，
+我都不知道该怎么办才好，刚才很不安呢。",translated,依恩,e906d7d1a3,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#36#12,"ただ、使いたくないって理由を上手く
+説明できるか、ちょっと自信ないな。","不过，能不能把不想用的理由
+好好解释清楚，我稍微有点没信心呢。",translated,依恩,ade251bb2f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#37#12,"倫理的問題……とはちょっと違うかな？
+関係はあるけど、もっと単純な理由……。","伦理问题……感觉也不太贴切呢？
+虽然有关联，但其实是更单纯的理由……",translated,依恩,f3fb4a25d7,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#38#12,"相手の気持ちを確かめる時に機械を使うのって、
+寂しい気がするから……かな？","在确认对方心意的时候借助机械，
+总觉得有些凄凉……大概是这样吧？",translated,依恩,9d15c850b1,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#39#12,"それに、これを使うってことは簡単に
+相手を試したりもできるの。","而且，要是用了这个，
+就能轻易试探对方的心思了。",translated,依恩,6f22c24a03,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#40#12,"例えば、あなたは本当にわたしを好きなのか、
+とか、浮気していないのか、とか……。","比如，问你是不是真的喜欢我，
+或是问你有没有出轨之类的问题……",translated,依恩,088c3e639d,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#41#12,"そんな質問をして、相手の自分への気持ちを
+確かめたりもできちゃうの。","只要问这种问题，就能确认
+对方对待自己的真实心意了。",translated,依恩,ce0f6e3e4f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#42#12,"だから、わたしは使えたとしても、
+あなたに対しては使いたいとは
+思わないよ。","所以，就算真的能用，
+我也完全不想
+用在你的身上哦。",translated,依恩,8cdf49a1dc,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#44#12,"恋人同士ならこんな機械に
+頼らなくても、相手の本音を
+感じられるようになりたいし……。","如果是恋人的话，
+我希望就算不依赖这种机械，
+也能切身感受到对方的真心话……",translated,依恩,072e9d8acb,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#46#12,"機械を使わないと相手の気持ちを
+信じられないような人には、
+なりたくないもん。","因为我可不想成为一个
+不靠机械就无法信任
+对方心意的人嘛。",translated,依恩,acd1723fc3,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#48#12,"相手の言葉を信じるか信じないかは、
+機械じゃなくて自分で判断しないと
+いけないって……そう思うの。","选择相信还是怀疑对方的话语，
+应该由自己来判断，而不是交由机械……
+我是这么认为的。",translated,依恩,f4891e2466,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#50#12,別のもっと役に立つ使い道を探そう,去找找其他更有价值的用途吧,translated,,7f1694420f,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#51#12,でも、一回くらいは……,不过，就用一次的话……,translated,,7c104cd064,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#53#12,うん、わたしもそれが良いと思う。,嗯，我也觉得那样做最好。,translated,依恩,88fb8a9011,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#54#12,"それに、正直言うとこれって、
+作るのがすごく楽しいの。","而且说实话，制作这件道具
+过程真的很开心。",translated,依恩,6dd2c38b84,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#55#12,"だから、もう作らない、っていうのは
+ちょっと嫌かも、って思ってて……。","所以一想到以后再也不做它了，
+心里就会觉得有点不太情愿……",translated,依恩,164a575466,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#56#12,えへへ……自分にウソはつけないみたい。,嘿嘿……看来我对自己也撒不了谎呢。,translated,依恩,5fa9da9ae8,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#60#12,"……まあ、確かにせっかく作った物だから、
+そう思う気持ちもわかるよ？","……嘛，确实难得做出来的东西，
+我也能理解你那种想法啦？",translated,依恩,1297a21b56,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#61#12,"わたしだって、使えるものなら使いたい、
+って思ってるし……。","毕竟要是真能用得上，
+其实我也很想用用看就是了……",translated,依恩,9af5bc876b,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#62#12,"でも、少なくとも相手の本音を探る目的で
+使ったりはしたくないな。","但是，至少我绝不想为了
+探究对方的心意而去使用它呢。",translated,依恩,b9a73fa223,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#63#12,"人としての大切なものを失くしちゃう
+ような気がするし……。","总觉得那样会丢失作为人
+最宝贵的东西……",translated,依恩,805117802a,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#65#12,"けど、この機械が悪いってことじゃ
+ないのは覚えておいてね。","但是，也请你记住，
+错并不在于这台机械本身哦。",translated,依恩,3eacfed8e6,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#66#12,"そういうことが出来ちゃう機械なのは
+事実だけど……。","虽然它确实是一台
+能做到那种事的机械……",translated,依恩,033a3775b6,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#67#12,"使い方次第では、すごく便利なものに
+なるのも事実だもん。","但只要使用得当，
+能派上巨大用场也是事实嘛。",translated,依恩,b99544ebf3,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#69#12,"ふぅ……何だか今日は結構歩いた
+気がするよ。","呼……总觉得今天
+好像走了挺多路呢。",translated,依恩,4c0b97fd32,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#70#12,"ちょっと疲れてきちゃったし、
+今日はこれくらいにして帰ろっか？","感觉稍微有点累了，
+今天就到此为止差不多回去吧？",translated,依恩,e1d1e0f983,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#72#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#73#12,"今日は、デートなのにちょっと暗いお話に
+なっちゃったかもしれないね。","今天明明是约会，
+话题可能稍微变得有些沉重了呢。",translated,依恩,c6182bfc88,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#74#12,今更だけど、ちょっと後悔してるよ……。,虽然事到如今才说，但稍微有点后悔了呢……,translated,依恩,5a2cc8dcbd,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku02.txt#75#12,"で、でも、今度デートした時は、
+もっと恋人っぽく、その……。","不、不过，下次约会的时候，
+要更加像恋人那样，那个……",translated,依恩,f8c8e870da,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#76#12,"仲良く……ら、ラブラブな感じの
+お話とかもしたいな。","亲亲密密地……聊、聊些亲热恩爱
+之类的话题呢。",translated,依恩,c15d811bd7,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#77#12,"えへへ……それじゃ、今日はありがと。
+次のデート、楽しみにしてるね！","嘿嘿……那么，今天谢谢你啦。
+下次的约会我也很期待哦！",translated,依恩,a960595d74,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku02.txt#80#14,"機械を使って相手の
+心を知るのって、
+なんか寂しいよね。","用机械去窥探
+对方的心意，
+总觉得有些凄凉呢。",translated,,afa22457d8,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku02.txt#81#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent14/jkyoku03.txt#1#12,"え、えっと……パーツ屋に行きたい、
+ってことだよね？","诶、那个……你的意思是
+想去零件店对吧？",translated,依恩,bc899d7bc9,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#2#12,そうだよ,是啊,translated,,c963842df9,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#3#12,今日はそういう気分じゃない,今天没有那个心情,translated,,8dc1719e93,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#5#12,"それなら、あまりそれを出さないで
+もらいたいな……。","既然那样的话，
+希望你不要太经常拿出来呀……",translated,依恩,10e50f902a,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#10#12,"ほっ……やっぱりそれを出されると、
+ちょっとドキッとしちゃうよ。","松了一口气……一被你拿出来，
+心里还是会忍不住心中一惊呢。",translated,依恩,765e2e5452,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#11#12,とにかく、出発しよっか？,总之，我们出发吧？,translated,依恩,e9233cca33,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#13#12,さてと、今日も何か見つかるかな？,好啦，今天也能找到什么东西吗？,translated,依恩,e60482bbab,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#15#12,"……それにしても、その磁精記体って、
+未だにドキッとしちゃうよ。","……话说回来，一看到那个磁精储介，
+到现在还是会让我心中一惊呢。",translated,依恩,94a72f514f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#16#12,"前に、これは作りはするけど使わない、
+って話したのに……。","明明之前都说好了，
+虽然会做它但绝不会拿来用……",translated,依恩,a038addaee,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#17#12,"それでもドキッとしちゃうっていうのは、
+それだけこの機械に問題がある、って
+ことだね。","即便如此还是会心中一惊，
+就说明这台机械
+确实存在很大的问题呢。",translated,依恩,c61f088e1c,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#18#12,"やっぱり、人の心の中がわかっちゃうような
+物は、作らない方がいいのかな？","果然能看透人心的东西，
+还是不要做出来比较好吗？",translated,依恩,0e46fe011d,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#19#12,機械に罪はない,机械是无罪的,translated,,0874b607a8,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#20#12,作れなくなっても平気なの？,就算以后做不了也无所谓吗？,translated,,331f89060f,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#23#12,"あっ、ご、ごめんなさい！
+感激し過ぎて、ボーッとしちゃった。","啊，对、对不起！
+我太感动了，一时发起呆来了。",translated,依恩,3a34cc054f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#24#12,"うん、あなたの言う通り。
+機械に罪はないよね？","嗯，正如你所说的那样。
+机械本身并没有罪过对吧？",translated,依恩,56da1097f7,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#25#12,"それなのに、作っておきながら危険とか
+怖いとか言っちゃうなんて……。","明明是我自己做出来的，
+却说什么危险啊害怕啊这种话……",translated,依恩,a09a1a7383,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#26#12,わたし、機械好き失格だね。,我真是不配做一个机械爱好者呢。,translated,依恩,20e44abbeb,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#27#12,"でも、あなたの言葉で大切なことに
+気づくことができたよ。","不过，多亏了你的这句话，
+让我注意到了非常重要的事情哦。",translated,依恩,0f65ab16b8,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#28#12,"本当にありがと……
+それと、すごくかっこよかったよ。","真的很谢谢你……
+还有，刚才的你真的太帅气了。",translated,依恩,3b97593e43,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#32#12,そう、それが問題なの！,没错，那才是最大的问题呀！,translated,依恩,36d861aa17,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#33#12,"倫理的に問題がある効果があるのは
+もちろんわかってるよ？","它的效果在伦理上存在问题，
+这点我当然非常清楚哦？",translated,依恩,4dd5a6e78e,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#34#12,"でも、それでも作りたいって思うくらい、
+作業工程が楽し過ぎるの。","但即便如此也依然想做，
+就是因为制作过程实在太有趣了嘛。",translated,依恩,0339af45fd,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#35#12,"多分、普通の人ならわからないと思うけど、
+機械好きならみんなわかるんじゃないかな？","我想普通人大概无法理解，
+但只要是喜欢机械的人应该都能懂吧？",translated,依恩,e12f605dd5,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#36#12,内部構造も見とれるほど芸術的で……。,内部构造也精美得让人叹为观止……,translated,依恩,1b45051c64,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#37#12,"だ、ダメダメ……
+語りだしたら、余計に自分を
+止められなくなっちゃう……。","不、不行不行……
+一旦打开了话匣子，
+我可就越来越刹不住车了……",translated,依恩,2b0cf80490,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#39#12,……あれ？,……咦？,translated,依恩,7400bc39fd,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#40#12,"考えてみると、磁精記体の一番の問題って、
+高性能なウソ発見器、ってところだよね？","仔细想来，磁精储介最大的问题，
+就在于它是个高性能的测谎仪对吧？",translated,依恩,2c39446fdb,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#41#12,"それじゃあ、ウソ以外の物に反応する
+機械に改造すればいいんじゃない？","既然如此，把它改造成对谎言以外
+的东西产生反应的机械不就好了吗？",translated,依恩,9946898697,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#42#12,例えば、えっと……。,比如，那个……,translated,依恩,e5121fb4e3,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#43#12,あっ、ラブラブ発見器、なんてどうかな？,啊，改造成亲亲密密探测仪怎么样？,translated,依恩,7bd26cc8f6,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#44#12,"ほら、恋人同士になっても、面と向かって
+好きって言うのは恥ずかしいでしょ？","你看嘛，就算成为了恋人，当面
+说出“喜欢你”也是很害羞的吧？",translated,依恩,7e7b9da831,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#45#12,"も、もちろん、恥ずかしいからって
+言わないわけじゃないよ？","当、当然，我也不是因为害羞
+就绝对不说出口哦？",translated,依恩,08e195cd20,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#46#12,"恥ずかしいけど、あなたのことは
+ちゃんと、その……。","虽然很害羞，但我对你
+也是好好地，那个……",translated,依恩,3add05aef4,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#48#12,……す、好きだもん。,……很、很喜欢的嘛。,translated,依恩,accfb5218f,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#49#12,え、えへへ……やっぱり、恥ずかしいね。,诶、嘿嘿……果然，还是好难为情呢。,translated,依恩,803f2b65ed,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#52#12,え、えへへ……やっぱり、恥ずかしいね。,诶、嘿嘿……果然，还是好难为情呢。,translated,依恩,803f2b65ed,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#54#12,"と、とにかく、恋人同士でも好きって
+言うのは恥ずかしいものでしょ？","总、总之，就算是恋人之间，
+说喜欢也是一件很令人害羞的事对吧？",translated,依恩,945048f3ce,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#55#12,"だから、どうしても言いたい時に
+恥ずかしくて言えなくなっちゃって、
+言いそびれちゃうこともあると思うの。","所以，在无论如何都想说出口的时候，
+有时也会因为太害羞而说不出来，
+结果错失了良机呢。",translated,依恩,53a3593588,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#56#12,"そんな時に、好きって気持ちに反応して
+音が鳴る機械に改造したらどうかな？","如果在那种时候，把它改造成会对
+“喜欢”的心情产生反应而发出声音的机械，",translated,依恩,24f401cee5,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#57#12,"それなら、恥ずかしいと思ってる自分の
+背中を押してくれる、
+頼もしい機械として使えるでしょ？","那样的话，它就能成为一台
+在自己感到害羞时在背后推自己一把的
+可靠机械了吧？",translated,依恩,d3d9750ff6,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#58#12,そういう機械なら一台欲しいかも,那样的机械我也想来一台呢,translated,,ce539fe3b4,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#59#12,恋人に恥ずかしく感じるのはおかしい,面对恋人还会感到害羞太奇怪了,translated,,8dc4fbe293,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#61#12,えへへ、そうでしょ？,嘿嘿，对吧？,translated,依恩,b1a10ce8a7,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#62#12,"特にわたし達みたいに、まだ付き合い始めて
+間もない人には必要だと思うの。","特别是像我们这样才刚交往
+没多久的情侣，我觉得非常需要呢。",translated,依恩,664c094ba8,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#63#12,"恥ずかしさに負けないで、ちゃんと好きって
+気持ちを言葉にして伝える……。","不输给害羞的情绪，好好将“喜欢”
+的心意用语言传达出来……",translated,依恩,c3910fe965,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#64#12,"その大切さをしっかりと身につけられる
+手助けになるはずだよ。","它一定能成为帮助我们
+深刻体会到这份重要性的好帮手哦。",translated,依恩,213feb234f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#68#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#69#12,"確かに恋人なんだから好きあっているのは
+当然だと思うけど……。","确实既然是恋人，彼此相爱
+是理所当然的事情就是了……",translated,依恩,e9cab99940,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#70#12,"でも、思うことと、言葉にして言うのじゃ、
+全然違うはずだよ。","但是，心里怎么想，和用语言表达出来，
+可是完全两码事哦。",translated,依恩,a52eb296b4,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#71#12,"特にわたし達みたいな付き合い始めて
+間もない人には、必要な機械になると
+思うよ。","特别是像我们这样刚交往
+没多久的人，
+我觉得会是一台不可或缺的机械哦。",translated,依恩,baabdb7af6,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#73#12,"う～ん……でも、ウソじゃなくて
+好きって気持ちに反応させるには、
+どういう改造をすればいいのかな？","唔～嗯……不过，要让它
+不对谎言、而是对喜欢的心情产生反应，
+究竟该怎么改造才好呢？",translated,依恩,acfa55d4cc,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#74#12,"……できるかどうかはわからないけど、
+今度じっくりとレシピを見直してみるね。","……虽然不知道能不能做得到，
+下次我会好好重新研究一下配方的。",translated,依恩,b72a7de28b,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#76#12,さてと、そろそろ帰ろうか？,好啦，我们差不多该回去了吧？,translated,依恩,7d47b57504,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#77#12,"ここに長い時間いると、また欲しい物が
+見つかっちゃうかもしれないしね。","要是长期待在这里，
+说不定又会发现想买的东西了呢。",translated,依恩,eb5e3d1e7d,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#79#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku03.txt#80#12,"今日は磁精記体の新しい使い道に
+気づけて、すごく嬉しかったよ。","今天能发现磁精储介的新用途，
+我真的超级开心的哦。",translated,依恩,e74c7b0a64,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#81#12,"ラブラブ発見器……本当に作れるか
+どうかはわからないけど、
+レシピを見直してみるね。","亲亲密密探测仪……虽然不知道
+究竟能不能真的做出来，
+但我会重新研究配方的呢。",translated,依恩,9d4dcd1b81,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#82#12,"それじゃ、今度のデートも
+楽しみにしてるよ！","那么，下次的约会
+我也很期待哦！",translated,依恩,43532c6ac6,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku03.txt#85#14,"磁精記体の改良……
+その工程もすごく
+面白そうだよ！","磁精储介的改良……
+那道工序感觉
+也超级有趣哦！",translated,,87fe713dc7,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku03.txt#86#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent14/jkyoku04.txt#1#12,"磁精記体みたいに複雑な機械を見てると、
+もっと色んな機械を見たくなってくるの。","看着像磁精储介这么复杂的机械，
+就会忍不住想看更多各种各样的机械呢。",translated,依恩,2613100485,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#2#12,"そうだ！
+時間があるなら、パーツ屋に行ってみない？","对了！
+要是有时间的话，我们要不要去零件店逛逛？",translated,依恩,98382eed32,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#3#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#4#12,今は無理,现在去不了,translated,,89380bfddb,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#6#12,あらら……がっくり……。,哎呀呀……垂头丧气……,translated,依恩,b4003fe5d5,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#11#12,"やったぁ！
+それじゃ、早速出発だよ！","太好了！
+那么，我们马上出发吧！",translated,依恩,67b3cffc60,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#13#12,"さてと、何か面白そうな機械は
+置いてあるかなー？","好啦，不知道有没有
+摆着什么有趣的机械呢――？",translated,依恩,0641c58ab6,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#15#12,ここって、本当に楽しいよね？,这里真的超级有趣的对吧？,translated,依恩,157da32287,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#16#12,"機械の小さいパーツはもちろん、
+かなりマニアックな機械も、
+普通に置いてあるんだもん。","不仅有机械的小零件，
+就连非常小众硬核的机械，
+也随处摆放在这里嘛。",translated,依恩,7d6c44bca0,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#17#12,"マニアにとっては、聖地、と呼ぶに
+相応しいパーツ屋街じゃないかな？","对狂热爱好者来说，这可真是不折不扣、
+足以被称为“圣地”的零件街呢。",translated,依恩,9d5180f011,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#19#12,楽しそうなイオンを見てればわかる,看着开心的依恩就全明白了,translated,,e215abc3fa,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#20#12,スクラップ置き場、って感じもする,感觉也挺像废品回收场的,translated,,1ad0da4be0,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#22#12,えへへ、そうかな？,嘿嘿，是吗？,translated,依恩,efbbef8d7f,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#23#12,"でも、あなたの言う通りで、
+ここに来ると本当に楽しくて仕方がないの。","不过，正如你所说的那样，
+一来到这里我就开心得不得了呢。",translated,依恩,f2fe02160f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#24#12,"もう何度も来てるのに、
+少しも飽きたとは思わないもん。","明明都已经来过好多次了，
+但我一点都不觉得腻嘛。",translated,依恩,76d9b905af,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#28#12,"う～ん……まあ、当たらずとも遠からず、
+って感じかな？","唔～嗯……嘛，感觉也算
+虽不中亦不远矣吧？",translated,依恩,93ac72330a,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#29#12,"確かに、明らかに壊れてるものまで
+売ってる店はあるけど、スクラップとは
+程遠いものばかりなんだよ？","虽然确实有些店连明显坏掉的东西
+都在卖，但那些东西
+和废品可是相去甚远哦？",translated,依恩,49e2c6dd64,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#30#12,"機械は大抵、きちんと修理すれば
+また使えるようになるもん。","因为机械这种东西，只要好好修理，
+大抵都是能重新派上用场的嘛。",translated,依恩,c3bccefce3,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#31#12,"まあ、修理できない人からは、
+スクラップとして見られても
+仕方がないのかもしれないけど……。","嘛，对于不会修理的人来说，
+会被当作废品来看待
+或许也是没办法的事就是了……",translated,依恩,71c0becd69,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#33#12,"……でも、ここで色んな機械を見てると、
+思うことがあるの。","……不过，在这里看着形形色色的机械，
+我有时也会有所思考呢。",translated,依恩,5362772bd0,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#34#12,"あなたの端末についてなんだけど……
+驚くほど複雑な構造をしてるよね？","关于你的终端……
+它的构造复杂得令人吃惊对吧？",translated,依恩,6a8bdd4502,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#35#12,"そっちからは見えないかもしれないけど、
+このパーツ屋でも見たことがないくらい
+複雑な、すごい構造なの。","从你那边或许看不出来，
+但它却有着连在这家零件店都没见过的、
+极其复杂而惊人的内部构造哦。",translated,依恩,faae3520b4,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#36#12,"正直、磁精記体なんか足元にも及ばない
+技術で作られたものだよ。","说实话，那可是用磁精储介之流
+根本望尘莫及的技术制造出来的东西哦。",translated,依恩,1dfb9e3fac,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#37#12,"……それだけ複雑に作られてるんだから、
+もっと色んな機能があってもいいのに……。","……既然制作得那么精妙复杂，
+明明多加点各种功能也没关系嘛……",translated,依恩,e06caa58bb,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#38#12,"っていうか、材料は色々あるんだから、
+できることならわたしが改造したいくらい
+だよ。","话说回来，反正材料应有尽有，
+如果可以的话
+我都想亲自去给它改造一番了呢。",translated,依恩,f8839c1079,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#39#12,"あなたには、トントンとなでなで以外にも、
+もっと色んなことができるようになって
+もらいたいし……。","因为我也希望你能除了咚咚敲敲和摸摸头之外，
+还能做到
+更多各种各样的事情嘛……",translated,依恩,de5f9820a0,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#40#12,"例えばだけど、もしも何か機能を
+付けることができるとしたら、
+あなたはどんなものがいい？","打个比方，要是能够
+添加某种功能的话，
+你希望是什么样的功能呢？",translated,依恩,98ef7c30f5,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#42#12,一緒に料理できる機能が欲しい,想要能一起做料理的功能,translated,,90b022e063,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#43#12,わし掴みできる機能が欲しい,想要能一把抓摸的功能,translated,,83bbe6340d,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#45#12,あっ、それいいかも！,啊，那个听起来挺不错的！,translated,依恩,67905057c9,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#46#12,"あなたと一緒に料理できるなら、
+わたしも今より料理が好きになれそうだよ。","要是能和你一起做料理的话，
+感觉我也会比现在更加喜欢做饭呢。",translated,依恩,8f8616e237,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#47#12,"あと、たまにはあなたの手作り料理を
+ご馳走してもらったりもできるし。","而且，偶尔还能让你
+亲手做顿饭犒劳我一下。",translated,依恩,e5e9482c08,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#48#12,"うわー、いいないいなー。
+話してたら本当にそういう機能を
+付けたくなってきちゃったよ……。","哇啊，真好呀真好呀――
+听你这么一说，
+我都真心想给你加上这种功能了啦……",translated,依恩,ff287bf587,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#51#12,"……な、何だろう？
+何でか、すごくよからぬことのために
+使われそうな機能なんだけど……。","……怎、怎么回事？
+不知为何，总觉得这是一种
+会被用在非常不健康用途上的功能呢……",translated,依恩,d5d63698ca,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#52#12,"まさかとは思うけど、エッチなこと目的で
+そういう機能が欲しいとか思ってる？","虽然我觉得应该不至于，但你该不会是为了
+做下流的事情才想要这种功能的吧？",translated,依恩,1de2ef921f,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#54#12,純粋な気持ちから欲しいと願ってるんだ！,我可是出于纯洁的心愿才想要的！,translated,,4ecd06b902,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#55#12,……そういうこと以外の目的にも使うよ,……也会用在除那以外的正经目的上啦,translated,,dff9faffe1,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#57#12,……何だか、すごく疑わしいよ。,……总觉得，超级可疑哦。,translated,依恩,c1e60635c3,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#58#12,"磁精記体、こういう時には使っても
+いい気がするのはわたしだけ？","难道只有我一个人觉得，
+在唯独这种时候可以使用磁精储介吗？",translated,依恩,320ef9ddc8,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#61#12,"つまり、そういうことに使うのがメイン、
+ってことだね？","也就是说，用来做那种事才是主要目的，
+对吧？",translated,依恩,464a8d2529,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#62#12,"……正直に言ったのは偉いと思うけど、
+褒めていいのかすごく困るよ。","……虽然如实招来值得表扬，
+但我还真不知道该不该夸你呢。",translated,依恩,48accccd24,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#64#12,"まあ、どんな機能を付けるにしても、
+まずは端末の構造を理解する必要が
+でてくるんだけど……。","嘛，不管要添加什么样的功能，
+首先都必须去弄懂
+那台终端的内部构造就是了……",translated,依恩,c862257d67,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#65#12,"……分解するのは怖いから、
+やっぱり無理かな。","……不过拆解它太吓人了，
+果然还是行不通吧。",translated,依恩,fd68c57cb1,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#66#12,"そんな理由であなたと離れ離れに
+なりたくないもん。","我可不想因为那种理由
+就和你彻底失联分开了嘛。",translated,依恩,33114ed50a,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#67#12,"まあ、トントンとなでなでができる
+だけでも、ありがたいと思わなくちゃ
+いけないね。","嘛，光是能够
+咚咚敲敲和摸摸头，
+就必须知足感恩才行呢。",translated,依恩,a181dca79f,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#69#12,"さーてと、パーツ屋も十分に堪能できたし、
+そろそろ帰ろっか？","好――啦，零件店也逛得心满意足了，
+我们差不多该回去了吧？",translated,依恩,673598e36c,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#71#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku04.txt#72#12,"ふふっ、今日も色んな機械を見れて、
+すごく楽しかったよ。","呵呵，今天也看了各种各样的机械，
+真的超级开心的哦。",translated,依恩,e15ea7cee1,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#73#12,"パーツ屋を見てると、もっと色んな機械を
+作ってみたい、って気持ちになるよね？","看着零件店，就会涌起想要做出
+更多各种各样机械的冲动对吧？",translated,依恩,d0fb567e8c,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#74#12,"また近いうちに、パーツ屋に連れてってね。
+約束だよー！","近期记得还要再带我来零件店哦。
+拉钩说好啦――！",translated,依恩,6d42caa883,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku04.txt#77#14,"やっぱり、トントンと
+なでなで以外もできる
+機能が欲しいな……。","果然，还是想要拥有
+咚咚敲敲和摸摸头之外
+的其他功能呀……",translated,,6237a134ca,br=0 nl=2,3,
+inc/event/res/dateevent14/jkyoku04.txt#78#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent14/jkyoku_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku_int.txt#6#12,"パーツ屋に行きたいの？
+んー………どうしようかな。","想去零件屋吗？
+嗯～……该怎么办呢。",translated,依恩,30950f94de,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku_int.txt#9#12,パーツ屋にはまた今度行こうよ。,零件屋还是等下次再去吧。,translated,依恩,2ac631ba40,br=0 nl=0,1,
+inc/event/res/dateevent14/jkyoku_int.txt#10#12,"今日はちょっとゆっくりと見ていられる
+時間がないから、行っても楽しめなさそう。","今天没有足够的时间慢慢逛，
+就算去了感觉也没法尽兴呢。",translated,依恩,c347199956,br=0 nl=1,2,
+inc/event/res/dateevent14/jkyoku_int.txt#11#12,"やっぱりパーツ屋に行く以上は、
+じっくり見て楽しめる余裕がないと、
+つまらないもん。","毕竟既然要特意去零件屋，
+要是没有能从容细细游览的心情，
+那就太无趣了嘛。",translated,依恩,b5878e4ae0,br=0 nl=2,3,

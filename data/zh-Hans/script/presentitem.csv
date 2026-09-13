@@ -1,0 +1,23 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/presentitem/presentarbgm.txt#2#12,"<CLY2>アルノサージュBGMパックのインストールに
+成功しました！　「部屋の音楽を変更」で
+視聴することが可能です。","<CLY2>Ar nosurge BGM包已安装成功！
+可在“更换房间音乐”中
+进行试听。",translated,系统文本,fa2a004831,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/presentitem/seasonrecipes_relief02.txt#2#12,"<CLY2>「Cielnosurge ～失われた星へ捧ぐ詩～」を
+ご愛顧いただきありがとうございます。","<CLY2>非常感谢您一直以来对
+“Cielnosurge ～献给失落之星的诗篇”的厚爱。",translated,系统文本,21b63aa2ea,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=32
+inc/event/res/presentitem/seasonrecipes_relief02.txt#3#12,"<CLY2>オンライン版からデータを引き継ぐことで
+季節限定イベントに対応する一部の衣装が
+追加されます。","<CLY2>通过从在线版继承数据，
+已追加了对应于季节限定事件的
+部分服装。",translated,系统文本,55f9b1065e,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/presentitem/seasonrecipes_relief02.txt#5#12,"<CLY2>衣装【サンタ服】、【サンタ帽子】、
+【サンタヒゲ】が追加されました。","<CLY2>已追加服装【圣诞服】、【圣诞帽】、
+【圣诞胡须】。",translated,系统文本,427f6d7d7d,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/presentitem/seasonrecipes_relief02.txt#11#12,"<CLY2>レシピ【かわいいエプロン？】が
+追加されました。","<CLY2>配方【可爱围裙？】
+已追加。",translated,系统文本,15da64dc95,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/presentitem/seasonrecipes_relief02.txt#15#12,"<CLY2>衣装【ねこらんたん】、【こうもりハット】が
+追加されました。","<CLY2>已追加服装【猫咪南瓜灯】、
+【蝙蝠帽子】。",translated,系统文本,31b12aa737,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=27

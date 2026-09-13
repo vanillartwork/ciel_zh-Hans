@@ -1,0 +1,609 @@
+id,jp,zh,status,max_bytes,src,ctl,occurrences,note
+exe:8f754d89,"
+このセーブデータをロードしますか？
+
+","
+要读取这个存档吗？
+
+",translated,54,8f754d89e1,br=0 nl=3,1,多行
+exe:3b8b824e,"
+このセーブデータを上書きしますか？
+
+","
+要覆盖这个存档吗？
+
+",translated,54,3b8b824ef4,br=0 nl=3,1,多行
+exe:7483321c,"
+エラー内容","
+错误内容",translated,16,7483321cd0,br=0 nl=1,1,多行
+exe:925369a3,"
+セーブ中です。
+
+","
+正在保存。
+
+",translated,24,925369a3be,br=0 nl=3,1,多行
+exe:514c0054,"
+新しくセーブデータを作成しますか？
+
+","
+要新建存档吗？
+
+",translated,54,514c005426,br=0 nl=3,1,多行
+exe:afcd5279,(原因コード:い-1),(原因代码:い-1),translated,23,afcd5279ea,br=0 nl=0,1,
+exe:810ce40d,(原因コード:ち-8),(原因代码:ち-8),translated,23,810ce40d9c,br=0 nl=0,1,
+exe:792b44ad,(原因コード:と-7),(原因代码:と-7),translated,23,792b44ad8d,br=0 nl=0,1,
+exe:58b8eba3,(原因コード:に-4),(原因代码:に-4),translated,23,58b8eba3ac,br=0 nl=0,1,
+exe:4919ed26,(原因コード:は-3),(原因代码:は-3),translated,23,4919ed26e6,br=0 nl=0,1,
+exe:057cf6f2,(原因コード:へ-6),(原因代码:へ-6),translated,23,057cf6f232,br=0 nl=0,1,
+exe:b1dec171,(原因コード:ほ-5),(原因代码:ほ-5),translated,23,b1dec171b0,br=0 nl=0,1,
+exe:bcfe531f,(原因コード:ろ-2),(原因代码:ろ-2),translated,23,bcfe531f1e,br=0 nl=0,1,
+exe:6394539f,<CR>このイベントは現在見れません。<CR>先に別の廃墟を修復する必要があります。,<CR>当前无法观看该事件。<CR>需要先修复其他废墟。,translated,110,6394539f73,<CR> <CR> br=0 nl=0,1,
+exe:c3b50666,<CR>修復作業を中断しました。,<CR>已中断修复作业。,translated,40,c3b5066664,<CR> br=0 nl=0,1,
+exe:3a250291,ACUIDataBaseがありませんでした。,,skip,42,3a250291b0,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:dffcf18f,HymPが足りません。,HymP不足。,translated,25,dffcf18f02,br=0 nl=0,1,
+exe:21c2170d,"HymPを消費して時間を進めます。
+よろしいですか？","将消耗HymP推进时间。
+确定吗？",translated,68,21c2170db4,br=0 nl=1,1,多行
+exe:905b2d37,"HymPを追加しました。
+
+※注意※
+HymP追加後、バッテリー切れ等の不慮の電源
+停止等が原因で追加したHymPが消えてしまう
+可能性もございますので、                          
+セーブすることをお勧めいたします。            ","已追加HymP。
+
+※注意※
+追加HymP后，可能因电池耗尽等意外
+断电导致已追加的HymP消失，
+因此建议
+先进行存档。",translated,287,905b2d37f9,br=0 nl=6,1,多行
+exe:231a53f1,MyGustIDとシェルノサージュの<CR>連携を解除しました。,已解除 MyGustID 与本作的<CR>关联。,translated,72,231a53f1e3,<CR> br=0 nl=0,1,
+exe:dc9efe09,MyGustIDをシェルノサージュに<CR>連携しました！,MyGustID已与本作<CR>完成关联！,translated,63,dc9efe093a,<CR> br=0 nl=0,1,
+exe:337dd302,Popタスクが一致しない,,skip,30,337dd30299,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:68a17da7,Pt.と 経験値を,Pt.与经验值,translated,19,68a17da73c,br=0 nl=0,1,
+exe:6d610bbf,finalizeが２重呼び出しされました。,,skip,47,6d610bbfe7,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:6d7af292,★システムのセーブデータです。,★这是系统存档数据。,translated,45,6d7af2921a,br=0 nl=0,1,
+exe:791a817b,"「はい」を選択すると、ゲーム内と
+ネットワーク、両方のセーブデータが
+全て消えますが、本当によろしいですか？","选择“是”之后，游戏内与网络上的
+存档都将全部消失，
+确定要继续吗？",translated,158,791a817bea,br=0 nl=2,1,多行
+exe:b9e7f906,『7次元通信』への投稿,向『7次元通信』投稿,translated,31,b9e7f9066d,br=0 nl=0,1,
+exe:c04868de,』が達成されました！　HymPを,』已达成！　获得HymP,translated,40,c04868de76,br=0 nl=0,1,
+exe:a504ed99,【BGM】アルノBGMパック,【BGM】Ar nosurge BGM包,translated,30,a504ed99ed,br=0 nl=0,1,
+exe:08eb4e8a,【C&A】カフェ・デ・コモ,【C&A】科莫咖啡馆,translated,33,08eb4e8aab,br=0 nl=0,1,
+exe:4e39ec2f,【D-SPOT】プラネタリウム,【D-SPOT】天象仪馆,translated,33,4e39ec2f1e,br=0 nl=0,1,
+exe:d213fb96,"【Notice】
+このコンテンツは一部補助機能において、
+ネットワーク接続を必要とする場合があります。
+
+","【Notice】
+本作的部分辅助功能
+可能需要连接网络。
+
+",translated,139,d213fb9671,br=0 nl=4,1,多行
+exe:9174b05d,】のウィッシュ『,】的愿望『,translated,24,9174b05d87,br=0 nl=0,1,
+exe:88cf78a8,あいうえお順(昇),按五十音(升),translated,23,88cf78a8bf,br=0 nl=0,1,
+exe:d52fa618,あいうえお順(降),按五十音(降),translated,23,d52fa618c4,br=0 nl=0,1,
+exe:91cb5276,あなた,你,translated,9,91cb527661,br=0 nl=0,1,
+exe:a219702e,あなたのランキングは        --位,您的排名是        --位,translated,43,a219702ee6,br=0 nl=0,1,
+exe:15b26fd0,あなたのランキングは   %5d位,您的排名是   %5d位,translated,39,15b26fd08f,br=0 nl=0,1,
+exe:f9015853,いいえ,否,translated,9,f901585367,br=0 nl=0,1,
+exe:d3106c72,おおらか,随和,translated,12,d3106c7261,br=0 nl=0,1,
+exe:42c12d63,お昼寝中,午睡中,translated,12,42c12d6382,br=0 nl=0,1,
+exe:365c3fe6,お片付け,收拾,translated,12,365c3fe66b,br=0 nl=0,1,
+exe:5e46a296,お絵かき（暇）,,skip,21,5e46a29690,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:4afe5823,お腹が空いています,肚子饿了,translated,27,4afe5823e3,br=0 nl=0,1,
+exe:7943fc36,かなり地味,相当朴素,translated,15,7943fc3688,br=0 nl=0,1,
+exe:2c464a61,かなり派手,相当华丽,translated,15,2c464a61b5,br=0 nl=0,1,
+exe:46bd5faf,かまって,撒娇,translated,12,46bd5faf6b,br=0 nl=0,1,
+exe:7f503da7,かまって系,撒娇类,translated,15,7f503da702,br=0 nl=0,1,
+exe:07697baf,かわいさ,,skip,12,07697baf98,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:507f77e6,けもけも,毛茸茸,translated,12,507f77e66a,br=0 nl=0,1,
+exe:b3880b9f,"このアカウントは現在停止中であり
+サインアップを行うことはできません
+
+ガストユーザーサポートまで
+お問い合わせください","该账号当前处于停用状态
+无法进行注册
+
+请联系
+GUST用户支持",translated,172,b3880b9fb5,br=0 nl=4,1,多行
+exe:9b1e5e34,"このゲームを遊ぶには
+PlayStation®Networkへの
+サインインが必要です。","游玩本游戏需要登录
+ PlayStation®Network
+的账号。",translated,91,9b1e5e3454,br=0 nl=2,1,多行
+exe:d1f7bc95,"このシステムの利用を
+運営により禁止されています。
+禁止期間は運営メールをご確認ください。","您对本系统的使用
+已被运营方禁止。
+禁用期限请查看运营邮件。",translated,131,d1f7bc952f,br=0 nl=2,1,多行
+exe:d6621a0f,このシャールとお別れしますか？,要与这只夏尔告别吗？,translated,45,d6621a0f38,br=0 nl=0,1,
+exe:4a2370a5,"このシャールとお別れしますか？
+お別れすると、入手したスキルや
+装備品はリセットされます。","要与这只夏尔告别吗？
+告别之后，已获得的技能与
+装备都将被重置。",translated,131,4a2370a587,br=0 nl=2,1,多行
+exe:80c608a9,このシャールは休憩中です。,该夏尔正在休息。,translated,39,80c608a919,br=0 nl=0,1,
+exe:c7c0eea6,このシャールは休養中です。,该夏尔正在休养。,translated,39,c7c0eea6e6,br=0 nl=0,1,
+exe:bbcb6879,このシャールは作業中です。,该夏尔正在作业。,translated,39,bbcb68799a,br=0 nl=0,1,
+exe:7888866d,"このシャールは修復中のため、
+お別れはできません。","该夏尔正在修复中，
+无法进行告别。",translated,73,7888866d24,br=0 nl=1,1,多行
+exe:60c06175,このシャールは廃墟修復中です。,该夏尔正在修复废墟。,translated,45,60c061754c,br=0 nl=0,1,
+exe:29ec164e,"このスキルを
+セットしてもよろしいですか？","确定要装备
+这个技能吗？",translated,61,29ec164ea3,br=0 nl=1,1,多行
+exe:1f8b85b2,"このスキルを
+外してもよろしいですか？","确定要卸下
+这个技能吗？",translated,55,1f8b85b246,br=0 nl=1,1,多行
+exe:bbc8d522,"このセーブデータは古い可能性があります。
+古いセーブデータを使用すると、サーバーとの
+整合性が取れなくなる危険性があります。
+続けますか？","这份存档可能是旧的。
+使用旧存档可能导致与服务器
+之间的数据不一致。
+要继续吗？",translated,201,bbc8d52238,br=0 nl=3,1,多行
+exe:655e7407,"このメッセージを
+送信しても良いですか？","确定要发送
+这条留言吗？",translated,58,655e740774,br=0 nl=1,1,多行
+exe:22f3e885,"このユーザーの
+フォローを解除しますか？","要取消关注
+这位用户吗？",translated,58,22f3e885b3,br=0 nl=1,1,多行
+exe:0b4054f8,"このユーザーは
+禁止リストに追加されています。","该用户已被
+加入屏蔽列表。",translated,67,0b4054f827,br=0 nl=1,1,多行
+exe:5e08da16,"このユーザーを
+フォローしますか？","要关注
+这位用户吗？",translated,49,5e08da169c,br=0 nl=1,1,多行
+exe:65b5f7b1,"このユーザーを
+禁止リストに追加しますか？","要将这位用户
+加入屏蔽列表吗？",translated,61,65b5f7b12c,br=0 nl=1,1,多行
+exe:1c210ccc,"この装備品に
+変更してもよろしいですか？","确定要更换为
+这件装备吗？",translated,58,1c210ccc89,br=0 nl=1,1,多行
+exe:baa0d455,"この装備品を
+外してもよろしいですか？","确定要卸下
+这件装备吗？",translated,55,baa0d455ba,br=0 nl=1,1,多行
+exe:4dc3846b,これ以上シャールは選択できません。,无法选择更多夏尔。,translated,51,4dc3846b92,br=0 nl=0,1,
+exe:84da01bc,ちょっと歌っちゃってたり♪,稍微唱了一下歌♪,translated,39,84da01bca4,br=0 nl=0,1,
+exe:ad30ee6a,とても上機嫌です,心情非常好,translated,24,ad30ee6ade,br=0 nl=0,1,
+exe:abc64a67,とても疲れています,非常疲惫,translated,27,abc64a670d,br=0 nl=0,1,
+exe:89b50863,ねりこ,妮莉库,translated,9,89b50863af,br=0 nl=0,1,
+exe:c92b4cda,はい,是,translated,6,c92b4cda8b,br=0 nl=0,1,
+exe:fdccf853,ぼー…,发呆…,translated,9,fdccf853b4,br=0 nl=0,1,
+exe:682948f8,ぼーっとしている,正在发呆,translated,24,682948f844,br=0 nl=0,1,
+exe:a5d98c68,ぼー中,发呆中,translated,9,a5d98c6896,br=0 nl=0,1,
+exe:b7d5f146,まだＢＯＸは空です,ＢＯＸ还是空的,translated,27,b7d5f146e9,br=0 nl=0,1,
+exe:87232583,もじもじしています,坐立不安,translated,27,872325839e,br=0 nl=0,1,
+exe:b8020da0,わたし,我,translated,9,b8020da03a,br=0 nl=0,1,
+exe:9d78ea32,を閉じますか？,要关闭吗？,translated,21,9d78ea32e5,br=0 nl=0,1,
+exe:8467315b,"アカウントを確認中です。
+しばらくお待ちください","正在确认账号。
+请稍候",translated,70,8467315ba1,br=0 nl=1,1,多行
+exe:ca0e1a6f,"アカウントエラーが発生しました。
+再度ネットワーク登録を行います。","发生账号错误。
+将重新进行网络注册。",translated,97,ca0e1a6fec,br=0 nl=1,1,多行
+exe:ae9c112a,アクティブ,主动,translated,15,ae9c112a0d,br=0 nl=0,1,
+exe:90d4718c,イオン,依恩,translated,9,90d4718c90,br=0 nl=0,1,
+exe:eb81ad07,イオンと連絡が取れませんでした。,无法与依恩取得联系。,translated,48,eb81ad07ee,br=0 nl=0,1,
+exe:0738ef8d,イオンの状態,依恩的状态,translated,18,0738ef8d0e,br=0 nl=0,1,
+exe:df3eaabf,イオンの部屋のBGMが追加されました！,已追加依恩房间的BGM！,translated,51,df3eaabff0,br=0 nl=0,1,
+exe:e18b1ea1,イベント,事件,translated,12,e18b1ea15d,br=0 nl=0,1,
+exe:6462718b,イベントを中断しますか？,要中断事件吗？,translated,36,6462718b2b,br=0 nl=0,1,
+exe:dcba8d9c,インストールが完了しました。,安装完成。,translated,42,dcba8d9ca4,br=0 nl=0,1,
+exe:e7ef5172,インストールをキャンセルしました。,已取消安装。,translated,51,e7ef517262,br=0 nl=0,1,
+exe:586bc1d7,インデックス,,skip,18,586bc1d728,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:a8693244,オブジェクト名,,skip,21,a86932447f,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:90fb1c6e,"オンライン版【シェルノサージュ】
+からのデータ移行が完了しました！","已完成从在线版
+【Ciel nosurge】迁移数据！",translated,97,90fb1c6e36,br=0 nl=1,1,多行
+exe:184be622,カソード,阴极,translated,12,184be6220e,br=0 nl=0,1,
+exe:f50e96e8,カテゴリタグ,,skip,18,f50e96e8d6,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:fb6e4872,カメラ,镜头,translated,9,fb6e4872b7,br=0 nl=0,1,
+exe:269b0f92,キャンセル,取消,translated,15,269b0f92e4,br=0 nl=0,1,
+exe:b2094516,クエーサー情報,类星体信息,translated,21,b2094516b3,br=0 nl=0,1,
+exe:4a49ab01,クエーサー情報を閉じますか？,要关闭类星体信息吗？,translated,42,4a49ab019b,br=0 nl=0,1,
+exe:3e6355d0,ケース外の処理が呼ばれました。,,skip,45,3e6355d074,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:c2d5a46f,ケース外の処理です。,,skip,30,c2d5a46fc6,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:52e70403,ゲットしました。,已获得。,translated,24,52e70403e3,br=0 nl=0,1,
+exe:ff02c488,ゲームデータを削除しました。<CR>タイトル画面に戻ります。,已删除游戏数据。<CR>将返回标题画面。,translated,82,ff02c488a6,<CR> br=0 nl=0,1,
+exe:b9d03597,コッテリ,偏浓郁,translated,12,b9d03597bf,br=0 nl=0,1,
+exe:6394b42f,サッパリ,偏清淡,translated,12,6394b42fa9,br=0 nl=0,1,
+exe:4f49517d,"サポーターシャールの選択は
+１体のみ可能です。","支援夏尔
+只能选择一只。",translated,67,4f49517dc5,br=0 nl=1,1,多行
+exe:88b9442e,サラダ,沙拉,translated,9,88b9442e2d,br=0 nl=0,1,
+exe:a2ac41e1,シェルノサージュ ,Ciel nosurge ,translated,25,a2ac41e19e,br=0 nl=0,1,
+exe:b39fc7f8,システムデータ,系统数据,translated,21,b39fc7f844,br=0 nl=0,1,
+exe:4a8d8c96,"システムデータが破損しています
+システムデータを初期化します","系统数据已损坏
+将初始化系统数据",translated,88,4a8d8c966b,br=0 nl=1,1,多行
+exe:c7012444,システムデータをセーブしています...,正在保存系统数据…,translated,51,c70124449e,br=0 nl=0,1,
+exe:d9260252,"システムデータをチェックしています...
+","正在检查系统数据…
+",translated,55,d92602525b,br=0 nl=1,1,多行
+exe:2aaf82e4,"システムデータを作成しています...
+","正在创建系统数据…
+",translated,49,2aaf82e44f,br=0 nl=1,1,多行
+exe:6e8bf18a,システム文,系统文本,translated,15,6e8bf18aac,br=0 nl=0,1,
+exe:6b53eeac,シャワー中,淋浴中,translated,15,6b53eeac61,br=0 nl=0,1,
+exe:aba0da7d,シャール,夏尔,translated,12,aba0da7de3,br=0 nl=0,1,
+exe:2c61c44e,シャールANNEX,夏尔ANNEX,translated,17,2c61c44e7a,br=0 nl=0,1,
+exe:edd9d2c2,シャール【,夏尔【,translated,15,edd9d2c28a,br=0 nl=0,1,
+exe:703eaca0,"シャールが１体しかいません
+他のシャールが居ないと
+お別れはできません。","只有一只夏尔
+没有其他夏尔时
+无法进行告别。",translated,104,703eaca0c0,br=0 nl=2,1,多行
+exe:dd190754,シャールと契約,与夏尔签约,translated,21,dd19075491,br=0 nl=0,1,
+exe:34480c9f,シャールのスキルが解禁されました！,夏尔的技能已解锁！,translated,51,34480c9fc1,br=0 nl=0,1,
+exe:3924b8ea,シャールのステータスへ,前往夏尔的状态,translated,33,3924b8eaf4,br=0 nl=0,1,
+exe:4fa43165,シャールの巣,夏尔的巢,translated,18,4fa43165a7,br=0 nl=0,1,
+exe:ac80625e,シャールの巣へ入りますか？,要进入夏尔的巢吗？,translated,39,ac80625ec2,br=0 nl=0,1,
+exe:eea363f9,"シャールの種族変更が
+解禁されました！","夏尔的种族变更
+已解锁！",translated,55,eea363f954,br=0 nl=1,1,多行
+exe:6bfac37b,シャールの装備品が解禁されました！,夏尔的装备已解锁！,translated,51,6bfac37b6d,br=0 nl=0,1,
+exe:36f3daf3,"シャールは
+最低１体は巣に出ている必要があります。","夏尔
+至少要有１只处于巢外。",translated,73,36f3daf38a,br=0 nl=1,1,多行
+exe:1f0d42cf,シャールを巣に出せるのは最大６体です。,巢外最多只能放置６只夏尔。,translated,57,1f0d42cf4b,br=0 nl=0,1,
+exe:5f91d68d,シャールウィッシュが更新されました。,夏尔的愿望已更新。,translated,54,5f91d68d3e,br=0 nl=0,1,
+exe:8721c107,シャール情報,夏尔信息,translated,18,8721c10708,br=0 nl=0,1,
+exe:3c67c202,シャール情報 》スキル変更,夏尔信息 》变更技能,translated,37,3c67c202a5,br=0 nl=0,1,
+exe:7960761d,シャール情報 》容姿変更,夏尔信息 》变更容貌,translated,34,7960761d30,br=0 nl=0,1,
+exe:52f80f98,シャール情報 》装備＆スキル取得,夏尔信息 》装备＆技能获取,translated,46,52f80f98ed,br=0 nl=0,1,
+exe:34649909,シャール無料券を取得しました！,已获得夏尔免费券！,translated,45,3464990975,br=0 nl=0,1,
+exe:567e4b28,ジェノミリンク,杰诺米链接,translated,21,567e4b286b,br=0 nl=0,1,
+exe:8801fb4d,ジェノミリンクTOP,杰诺米链接TOP,translated,24,8801fb4d26,br=0 nl=0,1,
+exe:a91a8a6a,スキップ,跳过,translated,12,a91a8a6ac7,br=0 nl=0,1,
+exe:30539389,スキルが追加されました。,技能已追加。,translated,36,305393897f,br=0 nl=0,1,
+exe:f2064fd4,スキルを外す,卸下技能,translated,18,f2064fd41a,br=0 nl=0,1,
+exe:fff56ed0,スキルバンクＡ,技能库Ａ,translated,21,fff56ed05b,br=0 nl=0,1,
+exe:5e43f447,スキルバンクＢ,技能库Ｂ,translated,21,5e43f44796,br=0 nl=0,1,
+exe:ba7f810b,スキルバンクＣ,技能库Ｃ,translated,21,ba7f810b63,br=0 nl=0,1,
+exe:bf847a8d,スキルバンクＤ,技能库Ｄ,translated,21,bf847a8d2c,br=0 nl=0,1,
+exe:522c60c8,スキルバンクＥ,技能库Ｅ,translated,21,522c60c831,br=0 nl=0,1,
+exe:ae050755,スキルバンクＦ,技能库Ｆ,translated,21,ae050755dd,br=0 nl=0,1,
+exe:70315695,スキル追加,追加技能,translated,15,7031569564,br=0 nl=0,1,
+exe:0ce5fa1f,スタッフへのメッセージ,给制作组的留言,translated,33,0ce5fa1fb8,br=0 nl=0,1,
+exe:ce13958d,スタッフへメール,给制作组发邮件,translated,24,ce13958df5,br=0 nl=0,1,
+exe:56229655,スープ,汤,translated,9,5622965548,br=0 nl=0,1,
+exe:ed5e8db7,ズボラ,懒散,translated,9,ed5e8db74d,br=0 nl=0,1,
+exe:246a7408,セカイリンク,世界链接,translated,18,246a7408ea,br=0 nl=0,1,
+exe:6684ea51,"セカイリンクが成功しました！
+【アルノサージュDX】との
+連携が正常に行われました。","世界链接成功！
+与【Ar nosurge DX】的
+联动已正常完成。",translated,118,6684ea5177,br=0 nl=2,1,多行
+exe:d2518dab,"セカイリンクは既に行われました。
+やり直すには一旦ジェノミリンクを抜けて下さい。","世界链接已经执行过了。
+如需重来请先退出杰诺米链接。",translated,118,d2518dab22,br=0 nl=1,1,多行
+exe:ec554200,セカイリンクセーブが成功しました！,世界链接存档成功！,translated,51,ec554200e6,br=0 nl=0,1,
+exe:2a3b36dd,セクシーさ,,skip,15,2a3b36dd6c,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:05c06867,セーブ,存档,translated,9,05c0686726,br=0 nl=0,1,
+exe:d67c3c71,"セーブデータと同様に、
+サーバーデータの初期化も必要です。
+
+サーバーのデータを削除して継続しますか？","与存档一样，
+服务器数据也需要初始化。
+
+要删除服务器数据并继续吗？",translated,147,d67c3c7109,br=0 nl=3,1,多行
+exe:024d663d,"セーブ時から経過した実時間分の
+時間を進めますか？","要推进与存档时相差的
+现实时间吗？",translated,73,024d663d71,br=0 nl=1,1,多行
+exe:9d96f504,タイトルに戻りますか？,要返回标题吗？,translated,33,9d96f504c5,br=0 nl=0,1,
+exe:5970bddd,タイトルに戻る,返回标题,translated,21,5970bddd12,br=0 nl=0,1,
+exe:20946a36,タイトルへ,返回标题,translated,15,20946a3648,br=0 nl=0,1,
+exe:26fff73d,タグ,,skip,6,26fff73dfc,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:9de252c7,"ダイブゲートに戻ります。
+よろしいですか？","将返回潜入之门。
+确定吗？",translated,61,9de252c7e0,br=0 nl=1,1,多行
+exe:3b6316d6,"データがありません
+","没有数据
+",translated,28,3b6316d6d3,br=0 nl=1,1,多行  不修改：调试与断言文本，玩家看不到
+exe:5be9ec94,"データサイズが大きいため、
+3G回線ではダウンロードできません","由于数据体积较大，
+3G网络下无法下载",translated,87,5be9ec944f,br=0 nl=1,1,多行
+exe:4bdd080a,トイレ,厕所,translated,9,4bdd080a82,br=0 nl=0,1,
+exe:a1e7b62a,ネットワークにアクセスしています...,正在访问网络…,translated,51,a1e7b62aae,br=0 nl=0,1,
+exe:4ea7b740,ネットワークに接続できません<CR><CR>オフラインではゲームの初期登録が出来ない為<CR>これ以上進行できません,无法连接网络<CR><CR>离线状态下无法完成游戏初始注册<CR>因此无法继续进行,translated,150,4ea7b740e2,<CR> <CR> <CR> br=0 nl=0,1,
+exe:64268f7d,"ネットワークアカウントエラーが発生しました。
+ゲームを続行することが出来ません。
+ガストユーザーサポートまでご連絡下さい。","发生网络账号错误。
+无法继续游戏。
+请联系GUST用户支持。",translated,179,64268f7d5f,br=0 nl=2,1,多行
+exe:0e1044fc,ネットワークエラーが発生しました,发生网络错误,translated,48,0e1044fc36,br=0 nl=0,1,
+exe:bf04d4e5,ネットワークジョブが２重登録されました。finalize忘れ？,,skip,77,bf04d4e5e4,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:143b615a,バスタオル,浴巾,translated,15,143b615a01,br=0 nl=0,1,
+exe:1b08ef09,バスタオルに着替えた,换上了浴巾,translated,30,1b08ef0979,br=0 nl=0,1,
+exe:64c5c255,パジャマ,睡衣,translated,12,64c5c255b8,br=0 nl=0,1,
+exe:1fe30fe4,パジャマに着替えた,换上了睡衣,translated,27,1fe30fe471,br=0 nl=0,1,
+exe:62b0536f,パッシブ,被动,translated,12,62b0536fc3,br=0 nl=0,1,
+exe:58eb9b7e,パラメーターがありません。,,skip,39,58eb9b7e34,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:7fc267f6,パン,面包,translated,6,7fc267f6fb,br=0 nl=0,1,
+exe:cabf58b2,ファイル名,,skip,15,cabf58b242,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:9409cfc1,フェイスアクセ,脸部饰品,translated,21,9409cfc120,br=0 nl=0,1,
+exe:1d39ce71,"フォロワーが1人もいません。
+","一个关注者都没有。
+",translated,41,1d39ce71d1,br=0 nl=1,1,多行
+exe:c0952dfe,フレンドメール,好友邮件,translated,21,c0952dfe76,br=0 nl=0,1,
+exe:989daf1a,プラグイン,插件,translated,15,989daf1a98,br=0 nl=0,1,
+exe:b4de6ac9,プロフィール編集,编辑个人资料,translated,24,b4de6ac9a4,br=0 nl=0,1,
+exe:e94d2e0a,ヘッドアクセ,头部饰品,translated,18,e94d2e0a8a,br=0 nl=0,1,
+exe:df2b01b0,ボタン設定,按键设置,translated,15,df2b01b08c,br=0 nl=0,1,
+exe:cbdd8d51,ボードカテゴリ,板块分类,translated,21,cbdd8d519e,br=0 nl=0,1,
+exe:a8161b53,"マイクロクエーサーの
+ボーナスタイムが開始されました！","微类星体的
+奖励时间开始了！",translated,79,a8161b5389,br=0 nl=1,1,多行
+exe:9f98bd97,マイクロクエーサー画面トップへ,返回微类星体画面顶部,translated,45,9f98bd97d6,br=0 nl=0,1,
+exe:cac6af85,マメ,勤快,translated,6,cac6af8527,br=0 nl=0,1,
+exe:230bc890,メッセージを入力する場合は,如需输入留言,translated,39,230bc89033,br=0 nl=0,1,
+exe:cddf9a90,メッセージを入力する場合は<CR>タップしてください,如需输入留言<CR>请点击此处,translated,70,cddf9a903e,<CR> br=0 nl=0,1,
+exe:f28f5a8e,メッセージボード,留言板,translated,24,f28f5a8e47,br=0 nl=0,1,
+exe:442ac749,メッセージ削除,删除留言,translated,21,442ac74916,br=0 nl=0,1,
+exe:8f99b5f7,メニュー,菜单,translated,12,8f99b5f7c5,br=0 nl=0,1,
+exe:32ed60ff,メール,邮件,translated,9,32ed60ff9f,br=0 nl=0,1,
+exe:9ce03476,"メールの送信は、
+フォローしたユーザーのみ可能です。","邮件仅可发送给
+已关注的用户。",translated,76,9ce03476d2,br=0 nl=1,1,多行
+exe:a08cf4c0,メールを送信しました。,邮件已发送。,translated,33,a08cf4c033,br=0 nl=0,1,
+exe:7df8a9dc,メール作成,写邮件,translated,15,7df8a9dc90,br=0 nl=0,1,
+exe:7d243016,メール削除,删除邮件,translated,15,7d243016a5,br=0 nl=0,1,
+exe:f2771d12,モデルがありません。,,skip,30,f2771d1209,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:ee491bdb,ユーザーのプロフィールへ,前往用户的个人资料,translated,36,ee491bdba8,br=0 nl=0,1,
+exe:72413da0,ユーザー名の長さが規定外です,用户名长度不符合规定,translated,42,72413da0ec,br=0 nl=0,1,
+exe:f577892b,ユーザー情報,用户信息,translated,18,f577892bf5,br=0 nl=0,1,
+exe:68e169d5,ユーザー情報を見ますか？,要查看用户信息吗？,translated,36,68e169d5db,br=0 nl=0,1,
+exe:25a6fbfc,ラクさ,,skip,9,25a6fbfcef,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:94f62026,ラブラブ閾値,,skip,18,94f6202663,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:50552289,ランキング,排行榜,translated,15,50552289d3,br=0 nl=0,1,
+exe:a79e9b98,ランキング状況,排行榜状况,translated,21,a79e9b9826,br=0 nl=0,1,
+exe:4b5b1306,ランキング画面トップへ,返回排行榜顶部,translated,33,4b5b130635,br=0 nl=0,1,
+exe:8077cd24,レストアパックVol.10【皇帝編 ２】,复刻包Vol.10【皇帝篇 ２】,translated,46,8077cd24d0,br=0 nl=0,1,
+exe:d2d51df7,レストアパックVol.11【皇帝編 ３】,复刻包Vol.11【皇帝篇 ３】,translated,46,d2d51df7a8,br=0 nl=0,1,
+exe:1d67b180,レストアパックVol.12【皇帝編 終】,复刻包Vol.12【皇帝篇 终】,translated,46,1d67b18071,br=0 nl=0,1,
+exe:a305c803,レストアパックVol.13【終端編】,复刻包Vol.13【终端篇】,translated,42,a305c8039d,br=0 nl=0,1,
+exe:c11a8a94,レストアパックVol.1【試練編 １】,复刻包Vol.1【试炼篇 １】,translated,45,c11a8a9423,br=0 nl=0,1,
+exe:446cb67a,レストアパックVol.2【試練編 ２】,复刻包Vol.2【试炼篇 ２】,translated,45,446cb67a24,br=0 nl=0,1,
+exe:877bafea,レストアパックVol.3【試練編 ３】,复刻包Vol.3【试炼篇 ３】,translated,45,877bafea7d,br=0 nl=0,1,
+exe:a0cb8785,レストアパックVol.4【試練編 終】,复刻包Vol.4【试炼篇 终】,translated,45,a0cb8785f4,br=0 nl=0,1,
+exe:f5f17309,レストアパックVol.5【崩壊編 １】,复刻包Vol.5【崩坏篇 １】,translated,45,f5f17309b3,br=0 nl=0,1,
+exe:74aae638,レストアパックVol.6【崩壊編 ２】,复刻包Vol.6【崩坏篇 ２】,translated,45,74aae638c4,br=0 nl=0,1,
+exe:372297b3,レストアパックVol.7【崩壊編 ３】,复刻包Vol.7【崩坏篇 ３】,translated,45,372297b3c2,br=0 nl=0,1,
+exe:1d0fcd41,レストアパックVol.8【崩壊編 終】,复刻包Vol.8【崩坏篇 终】,translated,45,1d0fcd41cb,br=0 nl=0,1,
+exe:199f7ff4,レストアパックVol.9【皇帝編 １】,复刻包Vol.9【皇帝篇 １】,translated,45,199f7ff4e6,br=0 nl=0,1,
+exe:35bb0c6b,ログ表示,显示日志,translated,12,35bb0c6b7d,br=0 nl=0,1,
+exe:c8382099,ロード,读档,translated,9,c83820992b,br=0 nl=0,1,
+exe:0507ff4b,"一度前の画面に戻り
+再度この画面に入ってください。","请先返回上一画面
+再重新进入本画面。",translated,73,0507ff4b0b,br=0 nl=1,1,多行
+exe:64ceb06f,一緒に作りました,一起制作完成了,translated,24,64ceb06f12,br=0 nl=0,1,
+exe:2adbde09,一行テスト,,skip,15,2adbde09a5,br=0 nl=0,1,不修改：开发期测试字符串
+exe:39bb9100,"一行テスト
+二行てすと",,todo,31,39bb91005a,br=0 nl=1,1,多行  不修改：开发期测试字符串  不修改：开发期测试字符串
+exe:e4fe8a66,"一行テスト
+二行てすと
+3行てすと",,todo,45,e4fe8a6644,br=0 nl=2,1,多行  不修改：开发期测试字符串  不修改：开发期测试字符串
+exe:ff100024,世界の壁,世界之壁,translated,12,ff10002492,br=0 nl=0,1,
+exe:77e61f48,今にも寝そうです,马上就要睡着,translated,24,77e61f48b0,br=0 nl=0,1,
+exe:80e651b3,今はちょっとぼーっとしてるかな,现在大概有点发呆吧,translated,45,80e651b35f,br=0 nl=0,1,
+exe:277bbfbb,今はちょっと離れてるけどね。,现在稍微离开了一下呢。,translated,42,277bbfbb06,br=0 nl=0,1,
+exe:8c85e314,"以下のパックがインストールされていません。
+PlayStation®Storeでダウンロードして下さい
+「","以下数据包尚未安装。
+请在PlayStation®Store下载
+「",translated,122,8c85e314e7,br=0 nl=2,1,多行
+exe:d0c42fe9,"以下のパックがインストールされました。
+
+「","已安装以下数据包。
+
+「",translated,62,d0c42fe91a,br=0 nl=2,1,多行
+exe:f5255a35,件名を入力する場合は,如需输入标题,translated,30,f5255a352b,br=0 nl=0,1,
+exe:8c88d69f,件名を入力する場合はタップしてください,如需输入标题请点击此处,translated,57,8c88d69f80,br=0 nl=0,1,
+exe:315690f5,位置オブジェクト名,,skip,27,315690f595,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:08b5e993,何もありません,什么都没有,translated,21,08b5e99335,br=0 nl=0,1,
+exe:26fc7037,何もお願いしていません,没有拜托任何事,translated,33,26fc703760,br=0 nl=0,1,
+exe:5a860c21,作成個数が0以下になってしまっています。,,skip,58,5a860c21d6,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:2cbfa539,"作業中、休養中のシャールは
+出し入れする事ができません。","作业中、休养中的夏尔
+无法放入或取出。",translated,82,2cbfa5399d,br=0 nl=1,1,多行
+exe:e29993d1,修復作業を中断します。<CR>現時点まで修復した分は保存されます。<CR>本当に中断して良いですか？,将中断修复作业。<CR>目前已修复的部分会被保存。<CR>确定要中断吗？,translated,134,e29993d116,<CR> <CR> br=0 nl=0,1,
+exe:8f0bf6c9,候補アイテムの数が0です。,,skip,37,8f0bf6c9df,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:3e15bebe,値がnullです。,,skip,19,3e15bebe5e,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:c0a72034,元気にしています,精神很好,translated,24,c0a72034df,br=0 nl=0,1,
+exe:768d6e1f,先頭になるプロセスがありません。,,skip,48,768d6e1ffc,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:37ba794b,全てのシャールが力尽きています。<CR>修復を中断しますか？<CR>（現在までの修復成果は保存されます）,所有夏尔都已精疲力尽。<CR>要中断修复吗？<CR>（目前的修复成果会被保存）,translated,140,37ba794b0b,<CR> <CR> br=0 nl=0,1,
+exe:6631571f,判定処理が作成されませんでした。,,skip,48,6631571fb3,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:587e14a9,削除するメールを選択してください,请选择要删除的邮件,translated,48,587e14a950,br=0 nl=0,1,
+exe:44949d52,削除できるメールがありません。,没有可删除的邮件。,translated,45,44949d5228,br=0 nl=0,1,
+exe:551efe26,削除できる記事がありません。,没有可删除的条目。,translated,42,551efe26ee,br=0 nl=0,1,
+exe:d175876d,助けて系,求助类,translated,12,d175876d75,br=0 nl=0,1,
+exe:eb9ee0b8,動きやすさ,,skip,15,eb9ee0b847,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:a230bff6,取り出し,取出,translated,12,a230bff64b,br=0 nl=0,1,
+exe:6e6eaf1a,取り出し中,取出中,translated,15,6e6eaf1a14,br=0 nl=0,1,
+exe:08d10334,"受信箱、送信箱のメールを
+すべて削除します。","收件箱与发件箱的邮件
+将全部删除。",translated,64,08d1033439,br=0 nl=1,1,多行
+exe:e48e0648,呆ける(暇),,skip,14,e48e0648ec,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:48b4672e,喉が渇いています,口渴了,translated,24,48b4672efb,br=0 nl=0,1,
+exe:95941733,外出だるい,懒得外出,translated,15,95941733bf,br=0 nl=0,1,
+exe:6cb7ac62,"契約のために
+シャール無料券を消費しますか？","要消耗夏尔免费券
+来签约吗？",translated,64,6cb7ac62bd,br=0 nl=1,1,多行
+exe:28f4c355,嫁の移動位置,,skip,18,28f4c355c0,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:96249d6a,完全就寝。寝ている,,skip,27,96249d6aa1,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:eb432743,寧の状態,,skip,12,eb432743a2,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:7a39c09f,少し地味,略显朴素,translated,12,7a39c09f77,br=0 nl=0,1,
+exe:ced4fb00,少し派手,略显华丽,translated,12,ced4fb005b,br=0 nl=0,1,
+exe:81f5181f,就寝。ベッドに入る,,skip,27,81f5181fdc,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:6b2c6098,就寝。寝ている,,skip,21,6b2c6098e0,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:69e7693c,就寝。待機状態になる,,skip,30,69e7693c96,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:d306a8d8,崩壊編ボイスパック,崩坏篇语音包,translated,27,d306a8d8d8,br=0 nl=0,1,
+exe:34a7656d,巣へ行った時間（古）,,skip,30,34a7656d8f,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:e23582dc,巣へ行った時間（新）,,skip,30,e23582dc21,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:1cad1129,床入り,就寝,translated,9,1cad112950,br=0 nl=0,1,
+exe:b7f3ce5f,廃墟修復を開始しますか？,要开始修复废墟吗？,translated,36,b7f3ce5f88,br=0 nl=0,1,
+exe:7f18d9c5,必要な時間が経過していません。,尚未经过所需时间。,translated,45,7f18d9c530,br=0 nl=0,1,
+exe:fb4ebf5f,思い出,回忆,translated,9,fb4ebf5f91,br=0 nl=0,1,
+exe:d249108f,悪そうです,心情不佳,translated,15,d249108f7d,br=0 nl=0,1,
+exe:a29ab04a,情報を見る,查看信息,translated,15,a29ab04a59,br=0 nl=0,1,
+exe:60a1005b,戻る,返回,translated,6,60a1005be6,br=0 nl=0,1,
+exe:d045d137,所持数が多い順,按持有数降序,translated,21,d045d13796,br=0 nl=0,1,
+exe:0ae0a67d,所持数が少ない順,按持有数升序,translated,24,0ae0a67d5a,br=0 nl=0,1,
+exe:eeab2d53,扉を閉じて、ダイブゲートに戻ります。<CR>よろしいですか？,关上门，返回潜入之门。<CR>确定吗？,translated,82,eeab2d5384,<CR> br=0 nl=0,1,
+exe:709985c4,手洗い中,洗手中,translated,12,709985c49b,br=0 nl=0,1,
+exe:514cc975,採取できないアイテム,无法采集的道具,translated,30,514cc97560,br=0 nl=0,1,
+exe:b4a82291,撫でた回数（多）,,skip,24,b4a82291a7,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:9e4af7f4,撫でた回数（少）,,skip,24,9e4af7f4e0,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:d5094e86,撫でられた時間（古）,,skip,30,d5094e863b,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:decd75f1,撫でられた時間（新）,,skip,30,decd75f126,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:332e39c4,文字数が許容量を超過しています。,字数超出上限。,translated,48,332e39c4a1,br=0 nl=0,1,
+exe:c2bb57fd,"新しい仮想世界を
+ねりこさんが持ってきてくれるようです！","妮莉库小姐好像
+带来了新的虚拟世界！",translated,82,c2bb57fdaa,br=0 nl=1,1,多行
+exe:7940bc4b,新着メール,新邮件,translated,15,7940bc4bb2,br=0 nl=0,1,
+exe:c39d2264,"既にシェルノサージュのアカウントが
+存在します。「はい」を選択すると過去の
+アカウント情報が全て消えますが、
+よろしいですか？","本作的账号已经存在。
+选择“是”之后，过去的账号信息
+将全部消失，
+确定吗？",translated,183,c39d226434,br=0 nl=3,1,多行
+exe:b39bd940,"既にセーブデータが存在します。
+セーブデータは１つしか保存できません。
+「はい」を選択すると、セーブデータを
+消去しますが、よろしいですか？","存档已经存在。
+存档只能保存一份。
+选择“是”之后，将删除现有存档，
+确定吗？",translated,204,b39bd94069,br=0 nl=3,1,多行
+exe:602aa1c5,時間を決める,决定时间,translated,18,602aa1c5d9,br=0 nl=0,1,
+exe:f6e027d0,時間を設定してください。,请设定时间。,translated,36,f6e027d0b9,br=0 nl=0,1,
+exe:e36e7458,普通にしています,心情平常,translated,24,e36e74589b,br=0 nl=0,1,
+exe:61412789,書き物,书写,translated,9,6141278968,br=0 nl=0,1,
+exe:88549dac,書き物中,书写中,translated,12,88549dacfa,br=0 nl=0,1,
+exe:6285c901,最大レベルです,已是最大等级,translated,21,6285c9018a,br=0 nl=0,1,
+exe:e3ea4274,"最終チェック中です。
+しばらくお待ちください","正在进行最终检查。
+请稍候",translated,64,e3ea42741a,br=0 nl=1,1,多行
+exe:606ef9ca,服に着替えた,换上了衣服,translated,18,606ef9ca56,br=0 nl=0,1,
+exe:7fb43ad7,本当に採取を中止しますか？,确定要中止采集吗？,translated,39,7fb43ad747,br=0 nl=0,1,
+exe:e2f064de,材料調達。待機状態になる,,skip,36,e2f064de23,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:ffd16f6f,材料調達。立ち止まる,,skip,30,ffd16f6f3b,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:dd78b84a,検索条件が入力されていません,尚未输入检索条件,translated,42,dd78b84a46,br=0 nl=0,1,
+exe:6da0637f,歌っている,正在歌唱,translated,15,6da0637f64,br=0 nl=0,1,
+exe:330ced29,汎用メニューが限界に達しました,通用菜单已达上限,translated,45,330ced2921,br=0 nl=0,1,
+exe:27c31c36,派手さ,,skip,9,27c31c36ff,br=0 nl=0,1,不修改：同名字符串是 haircategory_data.bin / position_data.bin 的表头列名，引擎可能按列名查找
+exe:aba4d302,渇き我慢中,忍耐口渴中,translated,15,aba4d30279,br=0 nl=0,1,
+exe:45bda9df,無限ループに陥りました。,,skip,36,45bda9df0b,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:7bf9951f,片付け中,收拾中,translated,12,7bf9951f0d,br=0 nl=0,1,
+exe:991c1e17,状態が作成されませんでした。,,skip,42,991c1e176e,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:b50599d3,献立思考。待機状態になる,,skip,36,b50599d314,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:870da1cd,"現在オフラインです。
+
+オフラインではゲームの初期登録が出来ない為
+オープニングイベント後、進行できなくなります。","当前处于离线状态。
+
+离线状态下无法完成初始注册
+开场事件之后将无法继续进行。",translated,165,870da1cde9,br=0 nl=3,1,多行
+exe:8acfccf6,"現在オフラインです。
+
+ネットワークに接続されていない場合、
+「NEWGAME」でゲームを開始する事は出来ません。
+「CONTINUE」で開始の場合は、プレイ中に接続が
+確立すれば、ネットワークを利用した機能も
+遊べる様になります。
+","当前处于离线状态。
+
+未连接网络时，
+无法通过“NEWGAME”开始游戏。
+若以“CONTINUE”开始，游戏过程中
+一旦建立连接，也可以使用
+需要联网的功能。
+",translated,307,8acfccf65f,br=0 nl=7,1,多行
+exe:8000dcd9,"現在時刻を取得するために、
+ネットワークへ接続する必要があります。
+
+現在ネットワークに接続できない場合、
+ネットワークに接続できる場所で
+再試行してください。","为获取当前时间，
+需要连接网络。
+
+若当前无法连接网络，
+请移动到可以联网的地方
+后重试。",translated,230,8000dcd945,br=0 nl=5,1,多行
+exe:da2a4ddb,現在閲覧できるHISTORYはありません,当前没有可查阅的HISTORY,translated,46,da2a4ddb34,br=0 nl=0,1,
+exe:6640cf65,疲れています,有些疲惫,translated,18,6640cf658b,br=0 nl=0,1,
+exe:6d4e6e09,疲れている,正在疲惫,translated,15,6d4e6e09f0,br=0 nl=0,1,
+exe:42563b19,"登録が完了しました。
+彼女と二人のセカイを心ゆくまで
+お楽しみください。","注册已完成。
+愿您尽情享受
+与她二人的世界。",translated,104,42563b19ac,br=0 nl=2,1,多行
+exe:e707deff,"登録中です。
+しばらくお待ちください","正在注册。
+请稍候",translated,52,e707deff62,br=0 nl=1,1,多行
+exe:88483cb1,皇帝編ボイスパック,皇帝篇语音包,translated,27,88483cb1ee,br=0 nl=0,1,
+exe:9c0ce029,眠い,困倦,translated,6,9c0ce029cd,br=0 nl=0,1,
+exe:17a51885,眠そうにしています,有些困倦,translated,27,17a51885af,br=0 nl=0,1,
+exe:9dba9d2f,着替え,换装,translated,9,9dba9d2fbd,br=0 nl=0,1,
+exe:77587098,着替え中,换装中,translated,12,77587098d9,br=0 nl=0,1,
+exe:71a49ab4,着替え思考中,正在考虑换装,translated,18,71a49ab419,br=0 nl=0,1,
+exe:e0a3cedb,禁止を解除しますか？,要解除屏蔽吗？,translated,30,e0a3cedb73,br=0 nl=0,1,
+exe:ab6834de,"種族変更は
+レベル１０以上のシャールのみ可能です。","变更种族
+仅限等级１０以上的夏尔。",translated,73,ab6834dea8,br=0 nl=1,1,多行
+exe:a5842fb2,空きボックス,空置的箱子,translated,18,a5842fb2e9,br=0 nl=0,1,
+exe:43b850ca,端末の操作位置,,skip,21,43b850ca57,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:890ebc45,端末の設置位置,,skip,21,890ebc4580,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:c373354e,自分の巣へ,回自己的巢,translated,15,c373354ec2,br=0 nl=0,1,
+exe:023a7669,良さそうです,心情不错,translated,18,023a766954,br=0 nl=0,1,
+exe:421f144f,装備(着替え),装备(换装),translated,17,421f144fdc,br=0 nl=0,1,
+exe:d939e8dd,装備を外す,卸下装备,translated,15,d939e8dd3c,br=0 nl=0,1,
+exe:15de8e18,装備＆スキル取得 》スキル習得,装备＆技能获取 》习得技能,translated,43,15de8e1804,br=0 nl=0,1,
+exe:6b400f90,装備＆スキル取得 》装備品取得,装备＆技能获取 》获取装备,translated,43,6b400f9098,br=0 nl=0,1,
+exe:e52ed221,親情報がありません。,,skip,30,e52ed2213b,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:edd43922,設定しました。,设置完成。,translated,21,edd43922b6,br=0 nl=0,1,
+exe:d6570fef,試練編ボイスパック,试炼篇语音包,translated,27,d6570fef86,br=0 nl=0,1,
+exe:b8164ad7,起床。待機状態になる,,skip,30,b8164ad70e,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:917be8e5,起床。起き上がる,起床。起身,translated,24,917be8e54b,br=0 nl=0,1,
+exe:dece1c9c,超コッテリ,极浓郁,translated,15,dece1c9ce1,br=0 nl=0,1,
+exe:c3992815,超サッパリ,极清淡,translated,15,c399281521,br=0 nl=0,1,
+exe:508b0941,超最悪です,心情糟透,translated,15,508b094171,br=0 nl=0,1,
+exe:9ca64902,近くの庭,附近庭院,translated,12,9ca649029c,br=0 nl=0,1,
+exe:28b49824,追加するHymPを入力してください。,请输入要追加的 HymP。,translated,46,28b4982472,br=0 nl=0,1,
+exe:1e150d6e,追加できるHymPがありません。,没有可追加的HymP。,translated,40,1e150d6ed5,br=0 nl=0,1,
+exe:652ded92,追加可能なHymPを越えています。,超出可追加的 HymP 上限。,translated,43,652ded9222,br=0 nl=0,1,
+exe:37bf30d8,"送信先がありません。
+メールの送信は、
+フォローしたユーザーのみ可能です。","没有可发送的对象。
+邮件仅可发送给
+已关注的用户。",translated,107,37bf30d809,br=0 nl=2,1,多行
+exe:c5f2f17c,送信先を指定してください,请指定收件人,translated,36,c5f2f17c94,br=0 nl=0,1,
+exe:256c77ce,週間ランキング,周排行榜,translated,21,256c77ce4a,br=0 nl=0,1,
+exe:02d73b42,運営:シャール情報,运营:夏尔信息,translated,25,02d73b42ff,br=0 nl=0,1,
+exe:65257670,運営:フレンド情報,运营:好友信息,translated,25,652576704e,br=0 nl=0,1,
+exe:19dc621c,"選択されたメッセージを
+削除しても良いですか？","确定要删除
+所选的留言吗？",translated,67,19dc621c7e,br=0 nl=1,1,多行
+exe:cc10f0bd,部屋に戻る,回到房间,translated,15,cc10f0bd59,br=0 nl=0,1,
+exe:9ef677fb,配列の数が0です。,,skip,25,9ef677fb0c,br=0 nl=0,1,不修改：调试与断言文本，玩家看不到
+exe:ef35db92,長さタグ,,skip,12,ef35db9274,br=0 nl=0,1,不修改：数据表字段名，非界面文本
+exe:3da5c185,閉じる,关闭,translated,9,3da5c18551,br=0 nl=0,1,
+exe:14748a4a,"関連WEBページへアクセスします。
+よろしいですか？","将访问相关的WEB页面。
+确定吗？",translated,70,14748a4a8d,br=0 nl=1,1,多行
+exe:a00525b8,雑貨屋ねりこ,杂货店妮莉库,translated,18,a00525b841,br=0 nl=0,1,
+exe:aa4528b9,離席から復帰,从离席返回,translated,18,aa4528b9c0,br=0 nl=0,1,
+exe:33982421,風呂。シャワー中,,skip,24,33982421fd,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:fc8066ef,風呂。シャワー浴び始め,,skip,33,fc8066ef8d,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:5e7135eb,風呂。シャワー浴び終わり,,skip,36,5e7135ebb4,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:3d7cbf40,風呂。待機状態になる,,skip,30,3d7cbf40a6,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:1781cfe2,風呂。浴槽から出る,,skip,27,1781cfe289,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:02c57836,風呂。浴槽に入る,,skip,24,02c5783624,br=0 nl=0,1,不修改：行为/动作计时标签名，非界面文本
+exe:ffb6fc81,食器洗い,洗碗,translated,12,ffb6fc8135,br=0 nl=0,1,
+exe:4630a7dd,飲み物,饮料,translated,9,4630a7dd90,br=0 nl=0,1,
+exe:dd61ef98,７通投稿フォーム,７通投稿表单,translated,24,dd61ef984c,br=0 nl=0,1,

@@ -1,0 +1,39 @@
+name: 功能建议
+description: 对工具链、安装程序、工作流程的改进想法
+title: "[建议] "
+labels: ["建议"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > 与 DRM、授权验证、防盗版、访问控制相关的请求不予受理，
+        > 会直接关闭。详见 [NOTICE.md](/NOTICE.md)。
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你遇到的实际问题
+      description: 先说问题，再说方案——有时候会有更简单的解法。
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你设想的做法
+    validations:
+      required: false
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 涉及哪部分
+      options:
+        - 安装程序
+        - 翻译流程 / 工具
+        - 自动校验
+        - 文档
+        - 其他语言支持
+        - 其他
+    validations:
+      required: true

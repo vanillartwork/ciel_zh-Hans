@@ -1,0 +1,5 @@
+version_id,label,platform,file,bytes,sha256,status,note
+steam-2025-07,Ciel nosurge DX (Steam),windows-x64,CielnosurgeDX.exe,14226760,04b755ab2eb26f26f79df9d2a24d9dcc62f5adca43bdb4871a137866d5d60b90,supported,主程序，未打补丁的原始文件
+steam-2025-07,Ciel nosurge DX (Steam),windows-x64,Res_x64/PACK01.PAK,33781160,4089c93a99b323b85bd96aa09da822baa1e1ff8778d08c7f5f4256abb2a06086,supported,脚本与界面数据
+steam-2025-07,Ciel nosurge DX (Steam),windows-x64,Res_x64/PACK00_01.PAK,1765906612,60df678db62674e73cbc80afb7c11e8e125385c2d4f0e1dde44aec91c614c851,supported,字体图集所在封包
+steam-2025-07,Ciel nosurge DX (Steam),windows-x64,CielnosurgeDX_Launcher.exe,4311368,4c3963191d57d426b0f3e1197f7eaad7a9678d2d12498cabfbe86261dc04acec,reference,启动器，补丁不修改

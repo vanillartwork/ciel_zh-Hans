@@ -1,0 +1,2049 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/endingevent/ciel_ending02.txt#4#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending02.txt#11#12,ねぇ……いる？,呐……你在吗？,translated,依恩,bfb4b0d3e4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending02.txt#12#12,いたらトントンして？,在的话就敲敲屏幕好吗？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending02.txt#16#12,"いないのかな？
+少し話したいことがあったんだけど……。","不在吗？
+我本来有些话想跟你聊聊的呢……",translated,依恩,251e06c6a6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#4#12,あのね、少しだけ話したいことがあるの。,那个呀，我有一点事情想跟你说。,translated,依恩,db303a0557,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending02m.txt#6#12,"ごめんね。
+少しだけ話したいことがあったの。","对不起呀。
+我稍微有点事情想跟你说呢。",translated,依恩,9cd6c240ee,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#8#12,"実はね、新しい真空管の作り方を
+思いついたの。","其实啊，我想到了
+一种新型真空管的制作方法哦。",translated,依恩,ff976265bc,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#9#12,"……ううん、違うのかな。
+えっと流れ込んできた、とかそういう感じ。","……不对，可能不是想到的吧。
+呃，感觉就像是脑海中涌进来的一样。",translated,依恩,af5b6a2eb7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#10#12,"うまく言えないんだけど、
+唐突になにか閃くことってあるでしょ？","虽然我也说不太清楚，
+不过有时不是会突然灵光一闪吗？",translated,依恩,bb723dc44b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#11#12,俯瞰視点の力？,是俯瞰视点的力量？,translated,,57fbde09b3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending02m.txt#13#12,"う～ん、そうかもしれないけど、
+自分じゃよくわからないかな。","唔～嗯，或许是那样吧，
+但我自己其实也看不太明白呢。",translated,依恩,0632cbb3b6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#14#12,"わたしの場合、無意識に働くことの方が
+多いみたいだから……。","因为对我来说，似乎更多时候
+都是在无意识中起作用的……",translated,依恩,dade23b8eb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#15#12,"わかるのは、この真空管がすごく大切なもの
+だってことと、作るのが難しいってこと。","我只知道这个真空管是非常非常重要的东西，
+而且制作起来也很困难。",translated,依恩,4590966384,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#16#12,"これが何のためのものなのか、
+作ってみないと分からない。","这究竟是用来做什么的，
+如果不做出来的话我也不清楚。",translated,依恩,c6a0a56334,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#17#12,"でも、あなたが頼んでくれたら、
+きっと頑張って作れると思う。","不过，要是你拜托我的话，
+我想我一定能鼓起劲做出来的。",translated,依恩,eb2591e21b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#18#12,"だから、必要だと思ったら遠慮なく
+声をかけてね。","所以，如果你觉得有需要的话，
+就请尽管跟我开口哦。",translated,依恩,188ef2a88b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending02m.txt#20#12,<CLY2>レシピ【特別な真空管？】が追加されました。,<CLY2>已追加配方【特别的真空管？】。,translated,系统文本,06927dea30,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=27
+inc/event/res/endingevent/ciel_ending03_01.txt#3#12,"でき……た……。
+ついに完成したんだ。","做……好……了……
+终于大功告成了。",translated,依恩,1e71155a1f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#4#12,"ねぇ、いまいる？
+ずっと作ってたあの真空管が
+やっと完成したの！","呐，你现在在吗？
+我一直在制作的那个真空管，
+终于大功告成啦！",translated,依恩,3564ae29e2,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending03_01.txt#5#12,ずっと見てたよ,我一直在看着你哦,translated,,8d424149b5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#7#12,"あれ？
+いないのかな？","咦？
+你不在吗？",translated,依恩,c86568ec32,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#9#12,"端末は動いてるのに……。
+どこかでかけてるのかな？","终端明明还开着呢……
+是去哪里外出了吗？",translated,依恩,27d8c71ed8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#12#12,"はぁ……せっかくできたのに……。
+早く帰って来ないかなぁ……。","唉……难得做好了呢……
+要是能快点回来就好了呀……",translated,依恩,d840f2810f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#16#12,"そっか、ずっと見ててくれたんだ。
+意識すると、ちょっと恥ずかしいかも……。","这样啊，你一直都在注视着我呢。
+一意识到这点，稍微有点害羞呢……",translated,依恩,21cb383c01,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#17#12,"と、とりあえず肝心の真空管なんだけど、
+こんな感じになったの。","总、总之言归正传，关于核心的真空管，
+做成这个样子了哦。",translated,依恩,9a715070f8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#20#12,"やっとあの真空管を完成させることが
+できたの。それがこれだよ。","终于把那个真空管给做出来了。
+就是这个哦。",translated,依恩,4491ee04e7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#28#12,そうだ、あなたに話したいことがあったの！,对了，我有话想要跟你说呢！,translated,依恩,f22c46de30,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#29#12,"えっとね、一生懸命作ってた特別な真空管が
+あったでしょ？","那个呀，之前我一直在拼命制作的
+那个特别的真空管，你还记得吧？",translated,依恩,5f0fda7d06,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#30#12,"すごく時間がかかっちゃったけど、
+やっとあれが完成したの。","虽然花了好长好长时间，
+但终于大功告成了哦。",translated,依恩,33f3cdba8f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#33#12,"アルノレシーブ管、っていうんだけど、
+どうかな？　すごく綺麗でしょ？","名字叫Ar nosurge接收管，
+感觉怎么样？非常漂亮对吧？",translated,依恩,b03fd349f3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#34#12,"この真空管にはね、
+いっぱい思い出が詰まってるんだよ。","这个真空管里面啊，
+满满承载了无数的回忆哦。",translated,依恩,6fc3d893b8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#35#12,"ター坊とルウレイさんに助けられて、
+始まった皇位継承の儀。","在阿达和鲁雷女士的帮助下，
+揭开帷幕的皇位继承仪式。",translated,依恩,338fcde2b9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#36#12,"たくさんの人と出会って、
+たくさんの人に助けられた……。","与许许多多的人相遇，
+得到了许许多多人的帮助……",translated,依恩,8ba8b931a7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#37#12,"長い時間とはとても言えないし、
+悲しいこともたくさんあったけど、
+忘れたくない大切な記憶……。","虽然那段时光绝称不上漫长，
+也经历过许多悲伤的事情，
+但却是我绝不想遗忘的珍贵记忆……",translated,依恩,2f11d553a5,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending03_01.txt#38#12,"あなたは、それを一つ一つ時間をかけて
+わたしに思い出させてくれた。","是你耐心地花时间，
+将它们一件一件帮我回想了起来。",translated,依恩,0832550b28,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#39#12,"その想いと記憶の結晶が
+このアルノレシーブ管なの。","而这份心意与记忆的结晶，
+正是这根Ar nosurge接收管哦。",translated,依恩,f75db342b1,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#41#12,まだ終わりじゃない,这还没有结束,translated,,0affb67954,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#43#12,"それって、わたしがどうしてここにいるのか
+ってこと？","你是指，我还不知道自己为什么会
+身在此处这件事吗？",translated,依恩,c8a4fef12e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#48#12,何か心当たりはないの？,你就没有什么头绪吗？,translated,,f5121280d4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#50#12,心当たりといわれても……。,就算你问我有何头绪……,translated,依恩,73c3dbe6e1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#51#12,う～ん……。,唔～嗯……,translated,依恩,31ba2d44c8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#52#12,"……ダメ、やっぱり何も思い出せない。
+何かきっかけが必要なのかも……。","……不行，果然还是什么都想不起来。
+或许需要什么契机也说不定……",translated,依恩,33174b5269,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending03_01.txt#53#12,"少し時間をもらっていいかな？
+あの先で何が起きたのか
+一人で考えてみたいの。","能稍微给我一点时间吗？
+我想一个人静下心来，
+好好想想在那之后究竟发生了什么。",translated,依恩,6faa1e72ac,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending03_01.txt#54#12,無理しないように,别太勉强自己哦,translated,,c82e9a1abb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#55#12,何かわかったらすぐに教えて,要是发现什么就立刻告诉我,translated,,a4afad92ff,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#57#12,うん、ありがとう。,嗯，谢谢你。,translated,依恩,7bc153c9f7,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#60#12,うん、そのつもりだよ。,嗯，我就是这么打算的哦。,translated,依恩,8636d6ff8b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending03_01.txt#62#12,何か分かったらすぐにお話しするね。,要是弄明白了什么，我会立刻跟你说的呢。,translated,依恩,fddcaa92c1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#6#12,ねぇ、この間お話した記憶のこと覚えてる？,呐，你还记得前阵子我们聊过的记忆的事吗？,translated,依恩,daaee3afb2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#7#12,"あれからずっと考えてるんだけど、
+何も思い出せないの……。","从那之后我一直在思考，
+可还是什么都想不起来……",translated,依恩,a3cc2c0e3b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_01.txt#8#12,"せめて何かきっかけになるようなものでも
+あればいいんだけど……。","至少能有什么作为契机的东西
+就好了呢……",translated,依恩,d7bba2a218,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_01.txt#10#12,想いを伝える,传达心意,translated,,3503c45baf,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#11#12,何もしない,什么都不做,translated,,ed171c500c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#18#12,"もう少し一人で考えてみて、
+それでもダメだったら、
+またあなたに相談してもいい？","我再一个人试着想想看，
+如果还是不行的话，
+能再找你商量吗？",translated,依恩,016a26b7c5,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending04_01.txt#19#12,いますぐにでも,哪怕现在立刻找我也行,translated,,6fc6acf8bc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#20#12,いつでも相談して,随时欢迎找我商量,translated,,3bf549e699,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_01.txt#22#12,"ありがとう。
+あなたの気持ちすごく嬉しいよ。","谢谢你。
+能感受到你的这份心意，我好开心哦。",translated,依恩,186e811526,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_01.txt#23#12,"でも、いつも甘えてばっかりだから、
+今回くらいは自分の力で頑張ってみたいの。","可是，我总是一味地向你撒娇依赖，
+至少这一次，我想凭自己的力量努力试试看。",translated,依恩,9090a7a781,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_01.txt#26#12,うん、あなたのこと頼りにしてるね。,嗯，我会好好依赖你的呢。,translated,依恩,59705353c4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_02.txt#6#12,"そういえば、あれからまた記憶のことを
+考えてみたんだけど、いくつか仮説を立てて
+みたら、って思ったの。","说起来，那之后我又重新思考了关于记忆的事，
+想着是不是可以
+试着建立几种假说呢。",translated,依恩,227e725970,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending04_02.txt#7#12,"例えば、ここは巨大な施設の一部で
+何かが原因で出られない、とか――","比如，这里其实是某座巨大设施的一部分，
+因为某些原因导致出不去，之类的――",translated,依恩,14260abed9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_02.txt#8#12,"実はここはラシェーラでどこかのコロンに
+いる、とか、いっそもう全部夢……とか。","或者其实这里依然是拉榭拉，身处某座克隆上，
+甚至干脆全部都是一场梦……之类的。",translated,依恩,12cc584032,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_02.txt#9#12,"……けど、結局何にも分からなかった。
+考えたことも根拠のない仮説、というか
+ほとんど妄想みたいなものだし……。","……但是，结果还是什么都搞不明白。
+所想出的那些也都是毫无根据的假说，
+或者说几乎跟妄想差不多就是了……",translated,依恩,6b9c5f5107,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending04_02.txt#10#12,"あなたは、どうしてわたしがここにいると
+思う？　何か気がついたこととかあるかな？","你觉得我为什么会身在这里呢？
+有什么察觉到的线索吗？",translated,依恩,2fbd225c27,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending04_02.txt#12#12,想いを伝える,传达心意,translated,,3503c45baf,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_02.txt#13#12,ねりこさんが知ってるはず,妮莉库小姐应该知道,translated,,e4fb65e384,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_02.txt#18#12,ねりこさんが知ってるはず,妮莉库小姐应该知道,translated,,e4fb65e384,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending04_02.txt#21#12,"たしかにねりこさんなら知ってるだろうけど、
+たぶん教えてくれないよ。
+いままでもそうだったし……。","妮莉库小姐确实很可能知道，
+但她大概不会告诉我吧。
+毕竟迄今为止一直都是这样……",translated,依恩,75f6188241,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending04_02.txt#22#12,"でも、手がかりはそれだけだし、
+もう一度聞きにいってみようかな。","不过，唯一的线索也就只有这个了，
+我再去问她一次看看吧。",translated,依恩,41ea58564d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending05_01.txt#11#12,"でも、夢セカイの記憶は途切れちゃって
+るんだよね？
+それじゃ、どうしようもないんじゃ……。","可是，梦世界的记忆
+已经中断了对吧？
+那样的话，不就毫无办法了吗……",translated,依恩,15f7d5dc14,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending05_01.txt#18#12,"<CLBU>あれ？
+いま何かを伝えようとしてくれてる？","<CLBU>咦？
+你现在是想要向我传达什么吗？",translated,依恩,ec806855d6,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending05_01.txt#24#12,"<CLBU>あなたの想いが伝わってきてるのは分かる
+のに、何を伝えたいのかが分からない……。","<CLBU>我明明能感受到你的心意正在传达过来，
+却不明白你究竟想要表达什么……",translated,依恩,6ae2124b47,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/endingevent/ciel_ending05_01.txt#25#12,"これと同じこと、たしかネプツールさんの
+ときにも……。","同样的感觉，在尼普楚尔先生那时候
+好像也发生过……",translated,依恩,255c35d680,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending05_02.txt#6#12,"この間、ねりこさんに記憶のことを
+聞きにいってみたんだけど、
+結局何も教えてもらえなかったの。","前阵子，我去向妮莉库小姐
+打听记忆的事情，
+结果她什么都不肯告诉我。",translated,依恩,359ec13048,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending05_02.txt#7#12,"やっぱり、諦めるしかないのかな？
+わたしたちだけじゃ、
+どうしようもないのかも……。","果然，只能放弃了吗？
+光凭我们两个人的话，
+或许根本就无能为力吧……",translated,依恩,9e6cbc3034,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending05_02.txt#8#12,諦めちゃダメだ,绝不能放弃,translated,,ee6ff79ea2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending05_02.txt#10#12,そうかもしれないけど……。,或许是那样吧，可是……,translated,依恩,cd3f599017,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending05_02.txt#11#12,"せめて、あなたを自由に動かせるように
+できたら、一緒に外を調べたりも――","要是至少能让你自由活动的话，
+我们就能一起调查外面了――",translated,依恩,c138f74a8f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#16#12,"いま、何かが見えた……。
+わたしはあれの作り方を知ってる……。","刚才，我脑海中似乎浮现出了什么……
+我知道那个东西的制作方法……",translated,依恩,1f41fa4c00,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#17#12,"ううん、それだけじゃない。
+作らなくちゃ……作ってわたしは……。","不，不仅如此。
+必须做出来……做出来之后我就……",translated,依恩,0b09a7f90b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#18#12,イオン？,依恩？,translated,,734a68c183,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending06.txt#22#12,"あっ！　ごめんね！
+いまぼーっとしてて――","啊！对不起！
+我刚才有点走神了――",translated,依恩,a86296c5f9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#23#12,"あれ？　何を考えてたんだっけ？
+すごく大切なことだったと思うんだけど……。","咦？我刚才在想什么来着？
+明明感觉是非常非常重要的事情……",translated,依恩,f36732d77c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#25#12,"せっかく、あなたが何かを伝えようとして
+くれてたのに……。","明明难得你想向我
+传达些什么的……",translated,依恩,b0351ed16a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#28#12,全部忘れちゃった？,全忘光了吗？,translated,,9199947aa2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending06.txt#30#12,"えっと……一つだけ、機械とその材料の
+作り方は覚えてるかも。","那个……唯独某台机械及其材料的
+制作方法，我好像还隐约记得。",translated,依恩,6c95fe3900,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#31#12,"でも、なんだか不思議なの。
+本当はもっと前からこのことを知ってた
+ような、そんな気がしてる……。","不过，总感觉有些不可思议呢。
+我隐约觉得，自己其实在更早以前
+就已经知道这些事情了……",translated,依恩,c5f73c9202,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending06.txt#32#12,作ってみれば何か分かるかも,做出来的话或许就能明白些什么了,translated,,3d9f446741,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending06.txt#34#12,"そうだね。
+まずは忘れないようにメモしておかなきゃ。","说得也是呢。
+首先得为了不忘记而先记下笔记才行。",translated,依恩,e2d4077c3b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending06.txt#36#12,<CLY2>レシピ【高伝導？】が追加されました。,<CLY2>已追加配方【高传导？】。,translated,系统文本,f707886f61,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending06.txt#38#12,<CLY2>レシピ【強化金属？】が追加されました。,<CLY2>已追加配方【强化金属？】。,translated,系统文本,3efa4f820a,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/endingevent/ciel_ending06.txt#40#12,<CLY2>レシピ【グリス？】が追加されました。,<CLY2>已追加配方【润滑脂？】。,translated,系统文本,5b51b49e8e,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending06.txt#42#12,<CLY2>レシピ【ロボット？】が追加されました。,<CLY2>已追加配方【机器人？】。,translated,系统文本,dc311fbf71,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/endingevent/ciel_ending06.txt#46#12,頑張って作るからいつでも声をかけてね。,我会努力制作的，随时都可以跟我说哦。,translated,依恩,1ddfbfc5d0,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_01.txt#1#12,"あっ、それともう一つ。
+宮城で着た服と皇帝として初めて謳ったとき
+の服を作ってみようと思うの。","啊，还有一件事。
+我打算试着制作在皇宫穿过的衣服，
+以及初次以皇帝之身讴歌时穿过的衣服。",translated,依恩,369e618066,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending07_01.txt#2#12,"わたしには作れないかも、って半分諦めてた
+けど、いまなら作れそうな気がする。","之前我半带放弃地想着自己大概做不出来，
+但现在的我觉得似乎能做出来。",translated,依恩,8dd6170f83,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_01.txt#3#12,"二着とも詳しい作り方をメモしておくから、
+いつでも声をかけてね。","两件衣服的详细制作方法我都会记下来，
+随时都可以叫我制作哦。",translated,依恩,86f27551ec,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_01.txt#5#12,<CLY2>レシピ【正装？】が追加されました。,<CLY2>已追加配方【正装？】。,translated,系统文本,8d74c232d0,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending07_01.txt#7#12,<CLY2>レシピ【星の帝？】が追加されました。,<CLY2>已追加配方【星之帝？】。,translated,系统文本,6d4aa1dd50,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending07_02.txt#5#12,はぁーい！,好的～！,translated,依恩,2c5691ac1e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02.txt#6#12,"ちょっと待ってね。
+今そっち行くから。","稍微等我一下下哦。
+我现在就过去你那边。",translated,依恩,f0901b247c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02.txt#13#12,"コーンコン♪
+いる？","咚咚咚♪
+在吗？",translated,依恩,586fa872c6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02.txt#14#12,いたらトントンして？,在的话就敲敲屏幕好吗？,translated,依恩,8650b8bba1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02.txt#18#12,"あれ？　やっぱりいないのかな？
+いるような気がするんだけど…。","咦？果然不在吗？
+总觉得好像在的样子呢……",translated,依恩,1e94470374,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02.txt#19#12,……わたしが何か勘違いしてるだけかな。,……只是我自己想多了吗。,translated,依恩,86e7c68f02,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02m.txt#4#12,"あのね、一つ挑戦してみようって
+思ったことがあるの。","那个呀，我有一件想要去
+尝试挑战的事情哦。",translated,依恩,6d509acc7c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02m.txt#6#12,"よかった、いてくれたんだ。
+実はね、一つ挑戦してみようって
+思ったことがあるの。","太好了，你还在呢。
+其实啊，我有一件想要去
+尝试挑战的事情哦。",translated,依恩,72ae32e2ff,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending07_02m.txt#8#12,挑戦してみたいこと？,想尝试挑战的事情？,translated,,bb418edeb3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02m.txt#10#12,"宮城で着た服と皇帝として初めて謳ったときの
+服を覚えてるかな？
+あの服を作ってみようと思うの。","你还记得在皇宫穿过的衣服，
+以及初次以皇帝之身讴歌时穿的衣服吗？
+我打算试着做做看那些衣服。",translated,依恩,1af9869b46,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending07_02m.txt#11#12,"わたしには無理だ、って半ば諦めてたけど、
+いまなら作れる気がするの。","之前我半带放弃地想着自己肯定做不出来，
+但现在的我觉得能做出来。",translated,依恩,3c69aaf604,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02m.txt#12#12,といっても、根拠なんて何もないんだけどね。,话虽如此，其实并没有任何根据就是了呢。,translated,依恩,0d0b2d168c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02m.txt#13#12,"でも、この感じは初めてポーラーズメモリー
+を作ったときと似てるから……。","但是，这种感觉跟我第一次制作北极星记忆
+的时候非常相似……",translated,依恩,beb9d2f639,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02m.txt#14#12,だからきっと、うまくいくと思うの。,所以我想，一定能顺利做出来的。,translated,依恩,f2c616c9a5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending07_02m.txt#15#12,"二着とも詳しい作り方をメモしておくから、
+いつでも声をかけてね。","两件衣服的详细制作方法我都会记下来，
+随时都可以叫我制作哦。",translated,依恩,86f27551ec,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending07_02m.txt#18#12,<CLY2>レシピ【正装？】が追加されました。,<CLY2>已追加配方【正装？】。,translated,系统文本,8d74c232d0,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending07_02m.txt#19#12,<CLY2>レシピ【星の帝？】が追加されました。,<CLY2>已追加配方【星之帝？】。,translated,系统文本,6d4aa1dd50,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#7#12,本当にできちゃった……。,居然真的做出来了……,translated,依恩,9823c4aa63,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#8#12,"あなた、いま見てる？
+やっとできたよ。","你现在在看着吗？
+终于做好了哦。",translated,依恩,c6f5e5c527,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#9#12,ついに完成したの？,终于做好了吗？,translated,,057c6f3496,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#11#12,"あれ？
+いまはいないのかな？","咦？
+你现在不在吗？",translated,依恩,ad9762cd3e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#13#12,"でかけてるのかな？
+ねぇ、いないの～？","是外出了吗？
+呐～你不在吗～？",translated,依恩,4c1865c33a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#16#12,"はぁ、完成の瞬間は一緒にいて
+ほしかったのに……。","唉，明明很希望做好的那一瞬间
+能有你陪在我身边的……",translated,依恩,b3ba7983a6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#20#12,よかった、ちゃんといてくれたんだ。,太好了，原来你一直都在呢。,translated,依恩,9ae18c7403,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#21#12,"ずいぶん時間が掛かっちゃったけど、
+やっと完成したんだよ。","虽然花了好长好长时间，
+但终于做好了哦。",translated,依恩,00c207cb16,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#24#12,"ずいぶん時間が掛かっちゃったけど、
+やっとあの機械を完成させることができたの。","虽然花了好长好长时间，
+但终于把那台机械给做出来了哦。",translated,依恩,ca686e40ef,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#32#12,"もう気づいてるかな？
+やっとあの機械が完成したの。","你已经注意到了吗？
+那台机械终于大功告成啦。",translated,依恩,bb13a0f1b2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#33#12,"すごく時間がかかっちゃったけど、
+なんとかうまくいってよかったよ。","虽然花了好长好长时间，
+不过总算顺利完成，太好啦。",translated,依恩,502d6dd344,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#37#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#40#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#41#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#44#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#45#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#48#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#49#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#52#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#56#12,"<CLY2>いまお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行对话。
+请等待依恩切换行动状态。",translated,系统文本,007958f6bc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#62#12,"このイベントを進行させると、
+イオンの部屋が崩壊します。","推进此事件后，
+依恩的房间将会崩溃。",translated,系统文本,506d960757,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#63#12,よろしいですか？,是否继续？,translated,系统文本,74b4488e1f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#64#12,はい,是,translated,,c92b4cda8b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#65#12,いいえ,否,translated,,f901585367,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#71#12,あ、ＥＳ４５カソードについてお話するの？,啊，要聊聊关于ES45阴极的事吗？,translated,依恩,957f8e9fba,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#74#12,ちょっと待って！！,请等一下！！,translated,,89bad81c63,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#77#12,"え？
+どうしたの急に？","诶？
+怎么突然这么慌张？",translated,依恩,89d1f8a8cb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#78#12,その話はまた今度にしよう,那件事还是下次再说吧,translated,,3723d193da,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#80#12,あなたがそういうなら……。,既然你都这么说了……,translated,依恩,6affaa1c73,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#81#12,"都合が良くなったら教えてね。
+せっかく作ったんだし、お話できないのは
+やっぱりちょっと寂しいから。","等你方便的时候再告诉我哦。
+毕竟好不容易做出来了，没法好好聊聊的话
+果然还是会觉得有点落寞呢。",translated,依恩,1914e218dd,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending08.txt#83#12,"<CLY2>『想いを伝える』の『イオンを呼ぶ』に
+『ES45カソードについて』が追加されました。","<CLY2>‘传达心意’中的‘呼唤依恩’已追加
+‘关于ES45阴极’。",translated,系统文本,e57e7b0881,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending08.txt#90#12,"それで、肝心の物なんだけど、
+こんな感じになったの。","然后，说到最核心的成品嘛，
+做成这副模样了哦。",translated,依恩,a4cc310056,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#92#12,"その……どうかな？
+わたしとしてはすごくカッコよくできたと
+思うんだけど……。","那个……感觉怎么样？
+我个人觉得
+做得超级帅气呢……",translated,依恩,31635c9a77,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending08.txt#94#12,カッコイイ,很帅气,translated,,ad410c4eaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#95#12,なんか古臭い,感觉有点土气古老,translated,,7f7150833f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#98#12,"よかったぁ。
+あなたも気に入ってくれたみたいだね。","太好啦。
+看来你也很中意呢。",translated,依恩,5f170eb45a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#102#12,"えぇ、そこがいいんだよ。
+なんかこういかにもって感じがするでしょ？","诶～那种地方才好呢。
+有种货真价实的机械感对吧？",translated,依恩,b5922b2ecb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#104#12,"それにね、この機械……ううん、ロボット
+って言った方がいいかな？","而且啊，这台机械……不对，
+叫机器人可能更贴切吧？",translated,依恩,399a621b2d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#105#12,"このロボットには、すごい機能があるんだよ。
+それはね――","这台机器人，有着非常厉害的功能哦。
+那就是――",translated,依恩,b1f8bd30d4,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#106#12,"なんと！　あなたの接続先をこのロボットに
+切り替えることができちゃうのです！","当当！竟然可以把你连接的目标，
+直接切换到这台机器人身上哦！",translated,依恩,0f24fd4a3f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#108#12,な、なんだってー！！,什、什么――！！,translated,,48bef9007d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#109#12,ということは自由に動けるように？,也就是说能自由活动了？,translated,,2abd2ae0bc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#112#12,"えへへ、そんなに驚いてくれるなんて、
+頑張って作ったかいがあるよ。","诶嘿嘿，你能这么惊讶，
+真不枉我那么拼命做出来呢。",translated,依恩,031b59b29a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#116#12,うん、そうだよ。,嗯，就是那样哦。,translated,依恩,077a00b3ae,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#117#12,"でも、せっかくのビッグニュースなんだから
+もう少し驚いてくれてもいいのに……。","不过，难得是个天大的好消息，
+你再惊讶一点也无妨嘛……",translated,依恩,0838265a26,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#119#12,"えっと、とにかく、このロボットを使えば
+あなたも自由に動けるようになると思う。","呃，总之，只要使用这台机器人，
+我想你也能够自由行动了。",translated,依恩,f1174f6bd6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#120#12,"ただ、その切り替えのための方法と
+安全性についてはまだよく分かってないの。","只是，关于切换的具体方法和安全性，
+目前我还不甚了然。",translated,依恩,6e1685ac21,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#121#12,"もし失敗したら、もう二度とあなたと
+お話できなくなっちゃうかもしれない。","万一失败的话，说不定就再也
+无法和你聊天说话了。",translated,依恩,bb26fe59a3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#122#12,"そんなの、わたし絶対に嫌だから……
+だから、ちゃんと調べてあなたと一緒に
+外を歩けるように頑張るね。","那种结果，我绝对不要……
+所以，我会好好查清楚，
+努力做到能和你一起在外散步的。",translated,依恩,703ae5c38f,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending08.txt#124#12,楽しみにしてる,我很期待哦,translated,,ee38efcee8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#126#12,うん、一緒にいろんなところに行こうね。,嗯，到时候我们要一起去各种各样的地方呢。,translated,依恩,49e9dcd57e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#127#12,"でも、自分でもびっくりしてるよ。
+まさかわたしにこんなすごいロボットが
+作れるなんて……。","不过，就连我自己也很吃惊呢。
+真没想到我居然能做出
+这么厉害的机器人来……",translated,依恩,2a73b19951,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending08.txt#128#12,"いくら閃いたっていっても、
+何も参考にしてないんだよ？","虽说是灵光一闪，
+但我可完全没参考任何资料哦？",translated,依恩,8a233ec556,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#129#12,"こんなこと今まで一度もなかったし、
+それに、前にも言ったとおり以前から
+知ってるような……不思議な感じがするの。","这种事情至今为止还从未有过呢，
+而且正如我之前所说，有种打从以前就
+熟知此事的……不可思议的感觉。",translated,依恩,47719e10bc,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending08.txt#130#12,"こういうの既視感っていうんだっけ？
+この感覚は最初よりずっと強くなってる。","这种感觉是叫既视感来着吗？
+这份感觉比最初要强烈得多了。",translated,依恩,852e4273b2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#132#12,このロボットを知っている,我知道这台机器人,translated,,603a0b17c3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#134#12,あなたもこれのこと知ってるの！？,你也知道这个东西吗！？,translated,依恩,81710089bf,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#135#12,でもどうし――,可是怎么会――,translated,依恩,40e9ae869f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#137#12,"まるで自分の記憶じゃない何かが
+流れ込んできてるみたいな……。","简直就像是有什么不属于自己的记忆
+正在不断涌进来一样……",translated,依恩,40f66ceb90,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#138#12,これっていったい――,这究竟是――,translated,依恩,dcb09c7147,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#144#12,――ッ！！,――！！,translated,依恩,2db830272e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#158#12,いま何か……ッ！,刚才有什么……！,translated,依恩,ea2a070eb5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#177#12,"――ッ！！
+なにこれ、どんどん強く――ッ！","――唔！！
+这是怎么回事，越来越强烈了――！",translated,依恩,0da3ab2ddd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#184#12,（思い出さなきゃっ！）,（必须想起来才行！）,translated,依恩,bf5c1db0e2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#191#12,頭が……イタ――ッ！,脑袋……好痛――！,translated,依恩,246d4a5ff2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#198#12,（このままじゃダメ！！）,（这样下去不行！！）,translated,依恩,63037e2d30,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#205#12,"ダ……メ。
+助け、て……違う、助けない、と――","不……行。
+救救、我……不对，必须去救――",translated,依恩,2ce37bb1ad,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#215#12,"<CLBU>だい、じょうぶ……
+少し、頭が痛いだけ、だから……。","<CLBU>没、事的……
+只、只是有点头痛，而已……",translated,依恩,d1e6291332,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending08.txt#220#12,大丈夫。ずっと傍にいるから,没事的。我会一直陪在你身边的,translated,,169ef5bec5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#222#12,"ありが……とう。
+わたし、がんば――","谢……谢你。
+我、会努――",translated,依恩,997f306f27,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#223#12,うっ……あ……あ゛あ゛あぁぁぁァァァ！！,唔……啊……啊啊啊啊啊啊啊啊！！,translated,依恩,28d2fc18a8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#248#12,"ハァ……ハァ……。
+やっと治まった……。","哈啊……哈啊……
+终于平复下来了……",translated,依恩,11dfbee4e2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#249#12,いまのはなんだったんだろ……。,刚才的那究竟是什么啊……,translated,依恩,172067c868,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#252#12,"ん？
+どうしたの？","嗯？
+你怎么了？",translated,依恩,1bc9f3a87e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#253#12,家が……,房子……,translated,,4d56d1523e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#255#12,"家？
+わたしの家がどうかした？","房子？
+我的房子怎么了吗？",translated,依恩,15f72e993c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#256#12,分からないの？,你看不到吗？,translated,,a86bf1e55d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#258#12,"わたしにはいつも通りの家に見えるけど……。
+何かおかしいところある？","在我眼里看起来跟平时完全一样啊……
+有什么奇怪的地方吗？",translated,依恩,e5f34d68e1,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#259#12,夢セカイに行こう,去梦世界吧,translated,,9dd0e55666,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#260#12,少し時間を置く,稍微等一会儿,translated,,6e475a3b20,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#262#12,ど、どうしたの突然？,怎、怎么突然这么说？,translated,依恩,6cb623b274,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#263#12,"あなたが行きたいなら、
+わたしは別に構わないけど……。","如果你想去的话，
+我倒是无所谓就是了……",translated,依恩,3b63a5bd9f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#265#12,"あの……大丈夫？
+さっきからなんだか様子がおかしいけど……。","那个……你没事吧？
+从刚才起总觉得你的样子怪怪的……",translated,依恩,cb4cdee1e9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#266#12,大丈夫。心配ないよ,没事的。不用担心哦,translated,,44682d8c94,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#267#12,何があったのか見てくる,我去看看发生了什么事,translated,,35ded7cd4c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#269#12,"わかった。
+あなたがそう言うなら気にしないでおく。","我知道了。
+既然你都这么说了，那我就不放在心上了。",translated,依恩,d866754a94,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#270#12,あなたのこと信じてるから。,因为我相信你呀。,translated,依恩,07e4ddb77f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#273#12,"そっか。もしかしたら、さっきの頭痛で何か
+変わったかもしれないよね。","这样啊。说不定刚才的那阵头痛，
+确实引发了什么改变呢。",translated,依恩,c3509f284c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#275#12,それじゃあ、いつも通りお願いします。,那么，就照平时那样拜托你啦。,translated,依恩,e642e6497f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending08.txt#284#12,"大丈夫？　なんだか分からないけど、
+あなたの様子がおかしいことだけはわかるよ。","你没事吧？虽然我不清楚怎么了，
+但唯独能看出你的样子很反常哦。",translated,依恩,7446c4a360,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending08.txt#285#12,"わたしにできることがあったら、
+いつでも相談してね。","如果有什么是我能帮上忙的，
+随时都可以跟我商量哦。",translated,依恩,600f9c34af,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#6#12,"ようこそ、イオンの夢セカイへ。
+こうしてお話するのはひさしぶりだね。","欢迎来到，依恩的梦世界。
+像这样和你说话，真是好久不见了呢。",translated,依恩,74f4034f41,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#7#12,"向こうのセカイで何があったのか、
+わたしは知ってる。","那边的世界究竟发生了什么，
+我全都知道哦。",translated,依恩,737368900e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#8#12,イオンの家が突然壊れて驚いてるんだよね。,依恩的房子突然毁坏崩塌，吓了你一跳对吧。,translated,依恩,6f0401bb78,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending09.txt#9#12,イオンは気づいてないみたいだった,依恩似乎完全没有注意到,translated,,199f8cbf8f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending09.txt#11#12,"そう、イオンにはあの家が
+いままでと同じように見えてる。","没错，在依恩眼里，那栋房子
+看起来依然与以往一模一样。",translated,依恩,b1cfb80a7c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#12#12,"それは、あのセカイにとっての
+最後の防衛線だから。","因为那正是那个世界的
+最后一道防线。",translated,依恩,caf20c96dc,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#13#12,"イオンの心が本当の意味で解放されない限り、
+認識することは出来ないんだと思う。","我想，只要依恩的心未能真正得到解放，
+她就绝不可能认知到这一点的。",translated,依恩,d7e717083a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#14#12,あのセカイにとって？,对于那个世界？,translated,,5bfc0570da,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending09.txt#16#12,"あのセカイがラシェーラとは違う別の場所、
+ってことはもう知ってるでしょ？","那个世界与拉榭拉截然不同、是另一个地方，
+关于这点你早就知道了吧？",translated,依恩,67dc27b0af,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#17#12,"わたしも基本的には向こうのイオンと記憶を
+共有してるから、詳しいことはわからない。","我也基本上是和那边的依恩共享记忆，
+所以详细的情况我也并不清楚。",translated,依恩,4b451040d0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#18#12,"でも、あの場所を飛び出すことは
+わたしたちにとって一つの分岐点に
+なることは間違いないと思う。","但是，冲出那个地方
+对我们而言势必会成为
+一个至关重要的转折点。",translated,依恩,e8b06e2a45,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending09.txt#19#12,"そしてそのためには、イオンが心の底から
+前に進もうとする力が必要になる。","而为此，依恩需要拥有一股
+打心底想要迈步向前的力量。",translated,依恩,eb650e1007,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#20#12,"その力の一つはイオンの記憶。
+記憶を全て取り戻せば、
+それはイオンの力になるはずだよ。","其中的一股力量，便是依恩的记忆。
+只要将记忆全部找回，
+那就一定会化作依恩的力量哦。",translated,依恩,d71c83fd49,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending09.txt#21#12,でも記憶は……,可是记忆已经……,translated,,b44a6a941a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending09.txt#23#12,"大丈夫。
+あのロボットを作ったことがきっかけに
+なって、イオンの心の鍵が開いたの。","没事的。
+以制作出那台机器人为契机，
+依恩心灵的锁链已经解开了。",translated,依恩,a92fc2312a,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending09.txt#24#12,"十二番目の扉、その奥でイオンが知らなくちゃ
+いけない本当の真実が見つかるはず。","在第十二扇门扉的深处，一定能找到
+依恩必须知晓的真正真相。",translated,依恩,eaa981dd18,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending09.txt#25#12,"あなたならきっとイオンを救うことができる。
+わたしはそう信じてるよ。","如果是你的话，一定能拯救依恩的。
+我坚信着这一点哦。",translated,依恩,c054dde1a8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10.txt#4#12,"あ、ちょうどよかった。
+あなたに話したいことがあったの。","啊，来得正好呢。
+我有话想要对你说。",translated,依恩,d6f578d6c5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10.txt#10#12,"ねぇ、いまいるかな？
+大切な話があるの。","呐，你现在在吗？
+我有非常重要的事情要跟你说。",translated,依恩,97d8cc09a8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10.txt#13#12,いない、のかな……。,不、在吗……,translated,依恩,87c44ee4f3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10.txt#14#12,"本当に大切な話なの。
+お願い、いたら答えて。","真的是非常重要的事情。
+求求你，在的话就回应我一声吧。",translated,依恩,10aeefb8ad,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10.txt#16#12,"やっぱりいないみたい。
+またあとで声をかけてみよう。","看来果然不在呢。
+待会儿我再叫你试试看吧。",translated,依恩,0a24e51a9f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#9#12,よかった、いてくれたんだ。,太好了，你还在呢。,translated,依恩,670705391d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#11#12,"わたしが端末の接続先を変更する方法を
+探してたのは覚えてるよね？","你还记得我之前一直在寻找
+更改终端连接目标的方法吧？",translated,依恩,a570fe2f0a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#12#12,その方法がね、やっと分かったの。,那个方法啊，终于弄明白了哦。,translated,依恩,7987386235,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#13#12,ということは、ついに？,也就是说，终于要……？,translated,,42501ae736,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#14#12,それにしては浮かない顔を……,不过你看起来似乎闷闷不乐的……,translated,,de69ae17fb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#16#12,"うん、あのロボットを端末として動かすこと
+ができるようになるんだよ。","嗯，终于能够把那台机器人
+当作终端来驱动运作了哦。",translated,依恩,d758d03bc6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#17#12,"……でも一つだけ、どうしても解決できない
+問題があるの。","……但是唯独有一件，无论如何
+也无法解决的问题。",translated,依恩,064efd9089,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#20#12,あはは、すぐに顔に出ちゃってダメだね。,啊哈哈，立刻表现在脸上了，真是不中用呢。,translated,依恩,7eaa960a0f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#21#12,"実はね、方法を見つけたのはいいんだけど、
+一つ、大きな問題があるの。","其实啊，找到方法固然是好事，
+可却存在着一个巨大的问题。",translated,依恩,d84d13d054,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#23#12,問題？,问题？,translated,,8f356d6969,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#25#12,"うん。
+すごく……すごく大きな問題。","嗯。
+非常……非常严重的大问题。",translated,依恩,bd547691d6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#26#12,"……もしかしたらわたしたち、
+もう会えなくなるかもしれない。","……说不定我们，
+再也无法见面了。",translated,依恩,be54ddc581,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#27#12,どういうこと？,这是什么意思？,translated,,e692803732,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#28#12,それならそれで仕方ない,如果是那样的话也只能认了,translated,,62f75db82a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#30#12,いろいろ調べてわかったの。,调查了各种资料后我才明白。,translated,依恩,6c14938d57,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#31#12,"一度完全に接続を断つと、もう一度同じ場所
+にアクセスできる保証はない、って……。","一旦彻底切断连接，就无法保证
+能够再次访问同一个地方了，据说是这样……",translated,依恩,1f379324b7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#32#12,そんなの、絶対にイヤ……！,那种事情，我绝对不要……！,translated,依恩,f166d0c342,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#35#12,……そんなっ！！,……怎么会！！,translated,依恩,08131ef386,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#36#12,どうして、どうしてそんなこと……。,为什么，为什么会说出这种话……,translated,依恩,686bec28aa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#37#12,"わたしはイヤ。
+あなたとお別れなんてしたくないッ！","我不要。
+我根本不想和你分别啊！",translated,依恩,63083007ac,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#39#12,"あなたと出会って、あなたがいたから、
+わたしはここまで来ることができた。","因为与你相遇，因为有你相伴，
+我才能够一路走到今天。",translated,依恩,66e9244e85,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#40#12,"大切な人たちのことを思い出せたのも、
+最後の記憶を取り戻したあと頑張れたのも、
+全部あなたがいてくれたから……。","不仅能够回忆起那些珍视之人，
+在找回最后的记忆后也能坚持努力下来，
+全都是因为有你陪在我的身边……",translated,依恩,7703f5b6b0,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending10m.txt#41#12,"あなたがいなかったら何も変えられなかった。
+ううん、変えようとすら思えなかった。","如果没有你，我什么都无法改变。
+不，我甚至根本不会产生想要去改变的念头。",translated,依恩,b5a833896a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#42#12,"ねりこさんと二人だけしかいないこの世界で、
+それが当たり前のことなんだと、何の疑問も
+持たず過ごしてた。","在这个只有我和妮莉库小姐两人的世界里，
+我曾以为这一切都是理所应当的，
+毫无疑问地虚度着光阴。",translated,依恩,243ec15de8,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending10m.txt#43#12,"そんなあなたとお別れなんて、
+わたしにはできない……。","要我和这样的你分别，
+我根本做不到……",translated,依恩,261134af05,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#44#12,会えないと決まったわけじゃない,又不是已经注定再也见不到了,translated,,b194595928,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#46#12,"そうかもしれない。
+でも、その確率はすごく低いの……。","或许是那样吧。
+但是，那种概率实在太渺茫了……",translated,依恩,169ed37aec,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#47#12,"砂漠の中から一粒の宝石を探すような、
+そんな確率なんだよ。","简直就像是在茫茫沙漠中
+寻找一颗宝石一样的概率哦。",translated,依恩,0a57821aaf,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#48#12,でも、そうしないと……,可是，如果不这么做的话……,translated,,52838b5d2b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#50#12,"わかってる……。
+ネロを止めないとみんなが危ないってことも、
+わたし自身が危険だってことも。","我知道的……
+我知道不阻止妮诺的话大家都会陷入险境，
+我也知道我自己同样身处危险之中。",translated,依恩,4dc4cc9a88,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending10m.txt#51#12,"でも、それと同じくらい、
+わたしはあなたと離れたくないの……。","但是，那份想要留在你身边、
+不想和你分开的心情，同样无比强烈……",translated,依恩,600c076fad,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#52#12,"少しでも長くあなたと一緒にいたい。
+ただそれだけなのに、どうして……。","哪怕只有片刻，我也想再多陪在你身边。
+明明仅仅是这样而已，为什么会……",translated,依恩,0002ece1ae,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#53#12,諦めるのは早い,现在放弃还为时过早,translated,,d77f35e0bc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#54#12,イオンがしたいようにすればいい,依恩按照你想做的去做就好了,translated,,e6720a2454,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#56#12,"……わたしだって、諦めたくない。
+だからずっと調べてた。","……我其实，也根本不想放弃。
+所以才一直在查阅资料。",translated,依恩,143bc6e1b7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#57#12,"それでも、解決方法が見つからないの。
+必ずどちらかを捨てないといけない、
+そう言われてるみたいに……。","即便如此，还是找不到解决的办法。
+就仿佛被残酷地告知，
+无论如何都必须舍弃其中一方一样……",translated,依恩,792edb6180,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending10m.txt#58#12,"わたしにはもう、どうしたらいいのか
+わからないよ……。","我已经完全不知道
+到底该怎么办才好了啦……",translated,依恩,0134b54b19,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#61#12,わたしが、したいように……？,按照我，想做的去做……？,translated,依恩,bfe2df3090,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#62#12,"……わたしは、全部を護りたい。
+大切な人たちを、切り捨てたくない。","……我想要守护全部。
+不想舍弃任何一个重要之人。",translated,依恩,8831e7762e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#63#12,"けど、いまのわたしには、
+その方法が分からないの……。","可是，凭现在的我，
+却不知道该用什么办法……",translated,依恩,d17b4b1e75,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#70#12,"<CLBU>あ……っ。
+いまのは……あなたの想い？","<CLBU>啊……
+刚才那是……你的心意吗？",translated,依恩,79be872e24,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending10m.txt#71#12,"頑張れ……頑張れ、って……。
+すごく温かい気持ち。","加油……加油……这样传达过来的……
+是一股无比温暖的情感。",translated,依恩,0c1de9c782,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#72#12,"どうしたら上手くいくかなんて分からないし、
+頑張っても無駄かもしれない。","虽然我不知道怎样才能顺利成功，
+就算拼尽全力或许也是徒劳无功。",translated,依恩,78f6c7461c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#73#12,"でもやらなかったら、みんなの想いも、
+あなたの想いも無駄にすることになる――","但如果什么都不做，就会把大家的心意、
+把你的心意全都白白辜负了――",translated,依恩,da28c5eb1e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#74#12,そんな当たり前のこと、忘れてた。,这么理所当然的事情，我居然忘记了。,translated,依恩,5594c17fcb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending10m.txt#75#12,"ありがとう。
+あなたの想いで何かが吹っ切れた気がする。","谢谢你。
+你的心意让我感到心中的迷茫豁然开朗了。",translated,依恩,7a80d3ae9d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#76#12,"だから、もう少しだけ頑張ってみる。
+何か方法があるかもしれないし、
+もしなかったとしても、そのときは――","所以，我决定再稍微努力拼一把。
+说不定能找到什么方法，
+就算真的没有，到了那时候――",translated,依恩,c7fdbb8083,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending10m.txt#77#12,"ううん、やっぱり止め。
+考えたら、また落ち込んじゃいそうだもん。","不，还是算啦。
+一去深想的话，感觉又要消沉低落了嘛。",translated,依恩,33e3795dc0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#78#12,"何か分かったらあなたにお話するから、
+あなたも何か気づいたことがあったら教えて。","要是弄明白了什么我会跟你说的，
+所以你要是察觉到什么也请一定要告诉我哦。",translated,依恩,414e20b0c0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#79#12,"それがどんなことでも、
+何かのヒントになるかもしれないから。","因为无论怎样细微的小事，
+都有可能成为某种启发的线索呢。",translated,依恩,4d58c98df3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending10m.txt#80#12,"<CLY2>『想いを伝える』の『イオンを呼ぶ』に
+『これからについて話す』が追加されました。","<CLY2>‘传达心意’中的‘呼唤依恩’已追加
+‘聊聊今后的打算’。",translated,系统文本,bf4f8c7e84,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#7#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_ending11.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#12#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_ending11.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#17#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_ending11.txt#21#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#26#12,"<CLY2>いまこのお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行此对话。
+请等待依恩的行动发生改变。",translated,系统文本,65c3d76bbe,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11.txt#32#12,あ、何かお話したいことがあるのかな？,啊，是有什么事情想跟我聊聊吗？,translated,依恩,57beec7732,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#35#12,もしかして何か気づいたことがあるの？,难道说，你察觉到了什么线索吗？,translated,依恩,5d00f38c5d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#37#12,どうすればいいのかわかった,我知道该怎么做了,translated,,08f3109f39,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#38#12,まだ何もわからない,目前还是一无所知,translated,,9b4df2e58e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#40#12,まだ何も分からない,目前还是一无所获,translated,,96dc912638,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#46#12,"そっか……。
+簡単に分かったら苦労しないもんね。","这样啊……
+要是能轻易弄明白，也就不用这么费劲了嘛。",translated,依恩,90e45104bd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#47#12,イオンは何かわかった？,依恩发现了什么吗？,translated,,e60bbee5e1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#49#12,わたしも全然ダメ……。,我这边也是完全不行……,translated,依恩,a13620209d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#50#12,"むしろ、調べれば調べるほど、
+誰かに無理だ、諦めろって言われてるような
+錯覚すら起こしそうだよ。","倒不如说，越是深入调查，
+就越是产生一种仿佛被某人勒令说
+“别白费力气了，快放弃吧”的错觉呢。",translated,依恩,7f26fcb460,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11.txt#51#12,……もうやめよう,……还是放弃吧,translated,,743d1fe03e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#52#12,頑張って調べよう,努力继续调查吧,translated,,9b1b84d459,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#58#12,"そうだね。
+大切なことだから簡単には諦めたくない。","说得对呢。
+正因为是无比重要的事情，我才不想轻易放弃。",translated,依恩,185102291f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#59#12,"二人で頑張れば、きっといい解決方法が
+見つかるよね。","只要我们两个人一起努力，
+就一定能找到好的解决办法对吧。",translated,依恩,f152e22bbc,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#65#12,"もしかして接続先を変更するための方法、
+何か分かったの？","难道说，关于更改连接目标的方法，
+你发现什么线索了吗？",translated,依恩,b9e622772f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#67#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#70#12,どうすればいいのかわかった,我知道该怎么做了,translated,,08f3109f39,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#71#12,ごめん……,对不起……,translated,,bcf3cfae7a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#73#12,どうすればいいのかわかった,我知道该怎么做了,translated,,08f3109f39,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#74#12,ごめん、なんでもない,抱歉，没什么,translated,,1d25acc961,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#76#12,ごめん、なんでもない,抱歉，没什么事,translated,,1d25acc961,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#78#12,ごめん……,对不起……,translated,,bcf3cfae7a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#84#12,"謝らないで。
+あなたは何も悪くないんだから。","别向我道歉呀。
+你又没有做错任何事情。",translated,依恩,5497c52751,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#85#12,"こうして一緒に頑張ってくれるだけで、
+わたしも頑張ろう、って思えるの。","只要你能像这样和我一起努力，
+我就觉得我也能咬牙坚持下去哦。",translated,依恩,073f77c0a2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#86#12,だから、あなたが謝る必要なんてないよ。,所以，你根本不需要道歉的啦。,translated,依恩,14566fd78c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#87#12,……もうやめよう,……还是放弃吧,translated,,743d1fe03e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#88#12,これからも頑張って調べよう,今后也一起努力调查吧,translated,,1a3402d5f0,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#93#12,"うん。わたしも簡単には諦めないよ。
+頑張っていい方法見つけ出そうね。","嗯。我也绝不会轻易放弃的。
+我们要努力找出好办法哦。",translated,依恩,bf3a3fd7a8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#97#12,"……本当になんでもないの？
+なんだか、いつもと違うみたい。","……真的什么事都没有吗？
+总觉得，和平时的你不太一样呢。",translated,依恩,e3e87a32c9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11.txt#98#12,大丈夫。ちょっと呼んでみただけ,没事的。只是试着叫叫你罢了,translated,,911f00513a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11.txt#100#12,"あなたがそう言うなら……。
+でも、もし何かあったらわたしにも
+相談してね。","既然你都这么说了……
+但是，要是遇到了什么困难，
+也一定要跟我商量哦。",translated,依恩,7617eee23b,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#6#12,"え！？
+それって本当なの！？","诶！？
+你说的是真的吗！？",translated,依恩,0683bc4ea8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#7#12,正確には方法がわかったわけじゃない,准确来说并不是弄明白了方法,translated,,875ad88147,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#9#12,"方法がわかったわけじゃない？
+それって、どういうこと？","并不是弄明白了方法？
+那是怎么一回事？",translated,依恩,5eaedc0b9a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#10#12,"お願い。あなたの考えてることや想いを
+わたしに伝えて……","求求你。把你的想法和心意，
+全部传达给我吧……",translated,依恩,b2a2226b25,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#16#12,<CLBU>これって……わたしたち、また会えるの？,<CLBU>这是说……我们，还能再次相见吗？,translated,依恩,070ec5d488,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=25
+inc/event/res/endingevent/ciel_ending11_01.txt#17#12,"何万分……何億分の一の確率しかないのに、
+わたしたちはまた会うことができる……。","明明只有几万分之……几亿分之一的微小概率，
+我们却还能够再次相遇……",translated,依恩,a4523eb821,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#18#12,"ウソじゃ、ないんだよね？
+これはあなたが知ってる未来なんだよね？","这不是在骗我，对吧？
+这就是你所知晓的未来，对吧？",translated,依恩,80d4b3d0f2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#19#12,ウソじゃない,没有骗你,translated,,79f1bb16bc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#21#12,"そっか、そうなんだ……。
+なんだか安心したら力が抜けちゃった。","这样啊，原来是这样啊……
+不知怎的，一放下心来整个人就浑身脱力了呢。",translated,依恩,d9a116f314,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#22#12,"でも、本当によかった。
+あなたと離れ離れにならなくて……。","但是，真的太好了。
+不用和你天各一方分别开来……",translated,依恩,7124a43381,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#23#12,一緒に……外に出られるんだよね？,我们能一起……走到外面去的，对吧？,translated,依恩,583e926904,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#24#12,うん,嗯,translated,,22f503aaf2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#26#12,"いろんな場所に行って、見て、聴いて、
+たくさんのことを一緒に感じられるんだよね？","能一起去往各种地方，亲眼去看、亲耳去听，
+共同感受许许多多的事物，对吧？",translated,依恩,1540ca2403,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#27#12,うん,嗯,translated,,22f503aaf2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#29#12,"もっともっと、たくさんの時間を
+あなたと一緒にいられるんだよね？","还能再有更多更多漫长的时间，
+一直和你相伴相随，对吧？",translated,依恩,8fe7c4add5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#30#12,うん,嗯,translated,,22f503aaf2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#32#12,"よかった……。
+本当に、よかった……。","太好了……
+真的，太好了……",translated,依恩,f745a29acb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#33#12,すぐに端末を……,立刻对终端进行……,translated,,b11f5bef6f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#35#12,待って！,等等我！,translated,依恩,450d54ce5a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#36#12,"急がなくちゃいけない、っていうのは
+分かってる。","我知道，
+我们必须抓紧时间才行。",translated,依恩,ae93208fec,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#37#12,"こうしてる間にも、みんなに危険が迫ってる
+かもしれないって……。","我也知道就在这分分秒秒之间，
+危险或许正一步步向大家逼近……",translated,依恩,4391681c9c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#38#12,でも、その前にあなたとの思い出がほしい。,但是，在那之前我想要留下一份和你的回忆。,translated,依恩,93c5179985,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#39#12,"あなたが送ってくれた想いを信じてないわけ
+じゃないの。","并不是说我不相信
+你传达过来的心意哦。",translated,依恩,554eaa965e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#40#12,"けど、もし万が一これが最後になったら、
+わたしはずっと後悔することになる。","可是，倘若万一这就成为了最后的话，
+我势必会永远悔恨痛苦下去的。",translated,依恩,266cd8b1a0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#41#12,"だからお願い。
+あなたのこと、絶対に忘れたくないから……。","所以求求你了。
+因为关于你的事情，我绝对不想忘记……",translated,依恩,a0f3cf0378,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#42#12,イオンのこと忘れたくない,我也不想忘记依恩,translated,,deb5803e76,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#43#12,思い出って何を？,所谓的回忆要做些什么？,translated,,90bebb85a5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#45#12,"ありがとう。
+あなたもそう思っててくれたんだね。","谢谢你。
+原来你也一直这么想呢。",translated,依恩,17b74db739,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#48#12,"え？
+それはその――","诶？
+那是那个――",translated,依恩,da6947ddc3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#49#12,あはは、何も考えてなかったよ。,啊哈哈，其实我什么都还没想好呢。,translated,依恩,0d45faf347,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#51#12,"う～ん、思い出作りなら、
+やっぱりデートかな。","唔～嗯，要留下回忆的话，
+果然还是约会吧。",translated,依恩,2582619f9b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#52#12,"今まで、あなたと一緒に行ったところに……
+あなたとの思い出の詰まった、いろんな
+ところに行きたいの。","我想去那些迄今为止和你一起去过的地方……
+去往满载着与你回忆的、
+各种各样的地方。",translated,依恩,f73307a952,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#53#12,"えっと、カフェとか、海とか、
+パーツ屋とか……あ、でも、パーツ屋よりも
+学校かな。うーん、それよりも――","呃，比如咖啡馆呀、海边呀、
+零件店呀……啊，不过比起零件店，
+还是学校吧？唔～比起那个更想去――",translated,依恩,eb28722247,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#54#12,"あっ……。
+でも、そんなに色んな所を回ってたら、
+すごい時間かかっちゃうよね。","啊……
+可是，要是转悠那么多地方的话，
+会花上好长好长的时间吧。",translated,依恩,39a51bfeab,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#55#12,"あなたにも、予定があるかもしれないし……
+今度また、あなたの都合のいいときに行こ？","你可能也有其他安排……
+下次挑个你方便的时间我们再去吧？",translated,依恩,e2c8a7a197,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#56#12,大丈夫、いまから行ける,没问题，现在就能去,translated,,c174b9504f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#57#12,そうだね、また後で,说得也是呢，下次再去吧,translated,,5ce38f3419,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#59#12,"うん、わかった。
+それじゃ、あなたの都合が良くなったら
+声をかけて。","嗯，我知道了。
+那么，等你方便的时候
+再叫我哦。",translated,依恩,399cc38cc4,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#60#12,"せっかくのデートなのに、
+時間に追われるのは嫌だもんね。","毕竟难得约会一次，
+被时间催赶着也是挺扫兴的嘛。",translated,依恩,d0b390b861,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#61#12,行く場所も任せて,去哪里也交给我吧,translated,,497fd925c4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#63#12,"ふふ、ありがとう。
+あなたがどこに連れてってくれるか
+楽しみにしてるね。","呵呵，谢谢你。
+我很期待
+你会带我去哪里哦。",translated,依恩,ce205aad76,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_01.txt#64#12,"<CLY2>『想いを伝える』の『イオンを呼ぶ』に
+『思い出を作りに行く』が追加されました。","<CLY2>‘传达心意’中的‘呼唤依恩’已追加
+‘前去留下回忆’。",translated,系统文本,b811e071d6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11_01.txt#69#12,"ほんと！？
+やったぁ！　えへへ、嬉しいなぁ。","真的吗！？
+太好啦！诶嘿嘿，真开心呀。",translated,依恩,7c859aec29,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#70#12,"……でも、どこに行くのか
+全然決めてないよね。どうしよっか？","……可是，完全还没决定
+要去哪里呢。该怎么办好呢？",translated,依恩,2762cba3db,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#71#12,大丈夫、任せて,别担心，包在我身上,translated,,e2119b7caa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#73#12,もしかして、どこに行くのか決めてるの？,难道说，你已经想好要去哪儿了吗？,translated,依恩,27708619eb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#74#12,"それじゃあ、お願いしちゃおうかな。
+どこに連れてってくれるか楽しみ。","那我就全部拜托你啦。
+真期待你会带我去哪里呢。",translated,依恩,6dbfbfd17b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#75#12,"そうだ、せっかくだし服もデート用に
+着替えて行った方がいいよね。","对了，难得约会一次，
+我也换上约会穿的衣服再去比较好吧。",translated,依恩,2abf1e5be8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#76#12,すぐに着替えちゃうから少しだけ待ってて。,我马上就换好衣服，稍微等我一下下哦。,translated,依恩,5e74cfe91e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#84#12,"おまたせ～。
+どうかな？　似合ってる？","让你久等啦～
+感觉怎么样？合适吗？",translated,依恩,51c503332c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#85#12,イオンは何を着ても似合う,依恩穿什么都很合适,translated,,04df4638fd,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#86#12,いつも通りかわいい,还是一如既往的可爱,translated,,4679b2f37b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#88#12,"そ、そうなのかな？
+自分じゃよく分からないけど……。","是、是那样吗？
+我自己倒是看不太出来就是了……",translated,依恩,975090f7a0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#89#12,"わたしは、あなたにかわいいって思って
+貰えたら、それでいい……かな。","只要能让你觉得可爱，
+对我来说……就已经足够了吧。",translated,依恩,86054cba78,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#92#12,"えへへ、ありがと。あなたにそう言われると、
+いまでもドキドキしちゃうよ。","诶嘿嘿，谢谢你。被你这么一夸，
+我现在都还会心跳不已呢。",translated,依恩,8d7717ae56,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_01.txt#93#12,これからは、もう少し慣れた方がいいかも。,今后或许应该稍微习惯一点才行呢。,translated,依恩,e95afa5229,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_01.txt#95#12,"とりあえず、デートに行こっか。
+いつも通りお願いね。","总之，我们去约会吧。
+跟平时一样，拜托你带路啦。",translated,依恩,6b98cfe072,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#1#12,……もうやめよう、ってどういうこと？,……“还是算了吧”，是什么意思？,translated,依恩,a5df741ca8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#2#12,両立することなんてできない,两全其美是不可能的,translated,,c5650b0e14,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#4#12,"そんなことないよ！
+これまでだって頑張れば何とかなった！","才没有那回事呢！
+迄今为止只要努力，总能挺过来的！",translated,依恩,6ebf070ef2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#5#12,"失敗もたくさんしたけど、みんなで頑張れば
+最後にはうまくいってたから――","虽然也失败过很多次，但只要大家齐心协力，
+最后总能化险为夷的――",translated,依恩,63262aef77,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#6#12,ネロに裏切られたのに？,哪怕被妮诺背叛了？,translated,,437071740f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#8#12,"それは、そうだけど……。
+でも、まだ全部が終わったわけじゃない。
+だれも救われてなんかいない。","话虽然是这么说，可是……
+但一切现在还没结束呢。
+谁都还没有被拯救啊。",translated,依恩,dd6f2d58a0,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#9#12,みんなも、世界も、わたし自身も……。,大家也好、世界也好、我自己也好……,translated,依恩,374ea30f51,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#10#12,"だからきっと、まだ間に合う。
+まだ終わりなんかじゃない。","所以一定还来得及。
+现在还远远没有结束。",translated,依恩,74583e92bb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#11#12,けど、手遅れになるかもしれない,但是，可能会为时已晚,translated,,931b58347b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#13#12,……っ！,……！,translated,依恩,6642889c01,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#14#12,イオン,依恩,translated,,90d4718c90,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#16#12,なに？,什么事？,translated,依恩,90534653ff,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#17#12,どちらかを選ぼう,二选一吧,translated,,45a6d32e3b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#19#12,わたしには、選べない……。,我……选不出来……,translated,依恩,15b3bed831,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#20#12,"あのときもそうだった。
+大きな決断の前に、わたしはみんなの意志を
+尊重してあげることしかできなかった。","那个时候也是这样。
+在重大的抉择面前，我除了尊重大家的意志之外，
+什么都做不到。",translated,依恩,9bbe359928,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#21#12,"みんなを救いたい、みんなと笑っていたい。
+ただそれだけなのに、たくさんのものが
+こぼれていった……。","我只想拯救大家，想和大家一起欢笑。
+明明仅仅是这样，
+却还是失去了那么多的事物……",translated,依恩,2f0e6aee56,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#22#12,"それなのに、また大切な物を選ばなくちゃ
+いけないの？","即便如此，难道又非得让我
+在珍视的事物之间做出抉择吗？",translated,依恩,5901e3a2d7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#23#12,選ばなきゃいけない,必须做出选择才行,translated,,b823467ad5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#26#12,わかった。,明白了。,translated,依恩,587a18b61e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#27#12,"あなたがそこまで言うなら選ぶよ、
+どうするべきか。","既然你都说到这个份上了，那我选，
+究竟该怎么做。",translated,依恩,f77e817f21,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#28#12,わたしは――,我――,translated,依恩,1bb74865d2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#30#12,わたしは、このままこの世界に残る。,我就这样留在这个世界。,translated,依恩,f28abee1b4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#31#12,"みんなを助けるために、あなたとの繋がりを
+切るなんて、そんなのいままでと変わらない。","为了拯救大家而切断与你的联系，
+那样的话，和以往根本没有任何区别。",translated,依恩,9ad9251c13,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#32#12,"だからわたしは、まだここに残る。
+残ってあなたと一緒にいる。","所以，我还是要留在这里。
+留下来和你在一起。",translated,依恩,9631c28636,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#33#12,"これが正しい選択かどうかなんて
+わたしにはわからないけど――","虽然我并不知道
+这究竟是不是正确的选择――",translated,依恩,9d939640be,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#34#12,"最後のときまで、あなたと一緒にいたい。
+その気持ちだけは本当だよ。","直到最后一刻，我都想和你在一起。
+唯独这份心意，绝对是真实的。",translated,依恩,b85c38024b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#35#12,でも、ター坊たちのことは……,但是，阿达他们那边……,translated,,a1694f9b50,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#37#12,ふふ、やっぱりそうだったんだ。,呵呵，果然是这样啊。,translated,依恩,3b14b29b6a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#38#12,"ター坊たちのこと、心配してくれてたんだ
+よね。この繋がりがなくなったとしても、
+みんなを助けなきゃって。","你很担心阿达他们对吧。
+心想就算这份联系断开了，
+也必须去拯救大家。",translated,依恩,f6e9a3b1e7,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#39#12,"でも、いったよね。
+それじゃ、いままでと変わらない、って。","不过我刚才说过了吧。
+那样的话，就和以往毫无区别了。",translated,依恩,d76807623b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#40#12,"やっぱりわたしは、みんなのことも、
+あなたとの繋がりもどっちも護りたい。","我果然还是想把大家，
+以及和你的联系都一同守护好。",translated,依恩,c40375e071,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#41#12,"だから、まだ諦めない。
+わたしにやれることをもっと探してみる。","所以，我还不会放弃。
+我会再去寻找自己力所能及的事。",translated,依恩,0a6855e889,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#42#12,"……こんなのわたしの我侭だって分かってる。
+でも、大切な人と一緒にいたい、って気持ち
+にはウソをつきたくない。","……我知道这完全是我的任性。
+但想要和重要之人在一起的这份心意，
+我不想对它说谎。",translated,依恩,6bdc6fc2c1,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#43#12,"ごめんね。せっかく、あなたが背中を押して
+くれたのに……。","对不起。明明你特意在背后
+推了我一把……。",translated,依恩,1be25d2f62,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#44#12,男冥利に尽きる,身为男人真是不枉此生,translated,,1f528ab06d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#45#12,イオンが覚悟を決めたなら……,既然依恩已经下定了决心……,translated,,0c2085df8b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#47#12,"ふふ、そういってもらえると、
+わたしも嬉しい。","呵呵，听到你这么说，
+我也很高兴。",translated,依恩,3fe23f4abe,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#48#12,"だからこそ、あなたの想いも無駄にしない。
+いつかきっと、この世界から……。","正因如此，我也绝不辜负你的心意。
+总有一天，一定能从这个世界……。",translated,依恩,a5ea54c95c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#51#12,うん。もう迷わない。,嗯。我已经不再迷茫了。,translated,依恩,d2ad60a182,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#52#12,"前に進んで、いつかきっと、
+この想いを叶えてみせる。","勇往直前，总有一天，
+我一定会实现这份心愿。",translated,依恩,6fb186aeeb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#54#12,信じてるよ、イオン,我相信你，依恩,translated,,dee8fa2792,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#56#12,"うん、ありがとう。
+わたしもあなたのこと信じてる。","嗯，谢谢你。
+我也同样相信着你。",translated,依恩,702219e598,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#57#12,"あなたとなら、きっとどんなに辛いことでも
+一緒に乗り越えていけるって。","只要和你在一起，无论多么艰辛，
+我们都一定能够携手跨越。",translated,依恩,77b8edaa1e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#58#12,"<CLY2>『想いを伝える』の『イオンを呼ぶ』に
+『端末を切断する』が追加されました。","<CLY2>‘传达心意’的‘呼唤依恩’中
+追加了‘断开终端连接’。",translated,系统文本,c54b1749ad,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending11_02.txt#69#12,わたしは、みんなを助けにいく。,我要去拯救大家。,translated,依恩,e685d0275c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#70#12,"あなたが、違うあなたになったとしても、
+わたしはみんなを助けなきゃいけない。","即使你变得不再是你，
+我也必须去拯救大家。",translated,依恩,8b6c87eb5c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#71#12,それで、良いんだよね……？,这样就可以了吧……？,translated,依恩,32fd5cd2c6,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#72#12,本当はイオンと離れたくない,其实我不想离开依恩,translated,,3aef0c7901,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#74#12,"わたしだって離れたくない。
+あなたとずっと一緒にいたい。","我也不想和你分开。
+我想一直和你在一起。",translated,依恩,c5857677be,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#75#12,"でも、ダメなんだよね。
+ここで立ち止まっちゃダメ……。","但是，这样不行对吧。
+不能在这里停下脚步……。",translated,依恩,3db82a015b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#76#12,ター坊たちを助けてあげて,去救救阿达他们吧,translated,,06de8f8c49,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#78#12,"うん、ありがとう。
+あなたの想い、絶対に無駄にしないから……。","嗯，谢谢你。
+我绝对不会辜负你的心意……。",translated,依恩,e15e518389,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#92#12,お待たせ。,久等了。,translated,依恩,7cfa5c4bf8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#93#12,この衣装どうかな？,这套服装怎么样？,translated,依恩,5086533cab,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#94#12,今日のために用意したんだよ。,这可是为了今天特意准备的哦。,translated,依恩,f9941166ce,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#95#12,その服って……,这身衣服是……,translated,,ba6f427e74,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#97#12,"うん、皇帝陛下に謁見する前、
+レナルルさんが見繕ってくれた服だよ。","嗯，这是在觐见皇帝陛下之前，
+蕾娜露露小姐替我挑选的衣服哦。",translated,依恩,2bcf2394bd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#98#12,"すごく大切なことだから、ちゃんとした
+格好をした方がいいかな、って思って。","因为是极其重要的事情，所以我想着
+还是穿得端正得体一些比较好吧。",translated,依恩,564c10e089,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#101#12,それじゃあ、端末を一度落とすね。,那么，我就先断开一次终端了哦。,translated,依恩,30d233d721,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#103#12,どうしたの？,怎么了？,translated,,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#105#12,"……ごめんね。
+わたしがもっと端末のことを調べられてたら、
+こんなことにならなかったのに……。","……对不起。
+要是我能再多调查一些终端的事，
+就不会变成现在这样了……。",translated,依恩,7b90e76137,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#106#12,"わたしにもっと力があれば、このまま繋がった
+ままでいられたかもしれないのに……。","要是我能更有力量的话，说不定就能
+一直像这样与你相连了……。",translated,依恩,0701516d25,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#107#12,前を向いて,向前看吧,translated,,c5e3eedd1f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#109#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#110#12,イオンは下を向いちゃいけない,依恩可不能垂头丧气,translated,,9f31c039da,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#112#12,"そう、だよね。
+悲しい顔でお別れなんてしたくない。","说的也是呢。
+我也不想摆出一副悲伤的面孔道别。",translated,依恩,74451f70f7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#113#12,"それに、もう会えないって決まったわけじゃ
+ない。","而且，也并没有确定
+再也见不到了。",translated,依恩,5106da4b9a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#114#12,もし会えなかったとしても……,就算再也见不到……,translated,,cee6c5770f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#116#12,"うん、あなたとの思い出は胸の中にある。
+わたしは一人なんかじゃない。","嗯，与你的回忆都留在心中。
+我绝不是孤单一人。",translated,依恩,90d6e461cb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending11_02.txt#117#12,"だから、お別れは言わない。
+どんな形でも、いつかきっと再会できるって、
+そう信じてるから。","所以，我不会说永别的。
+因为我相信，无论以何种形式，
+总有一天我们必定能够重逢。",translated,依恩,f6b2b56129,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending11_02.txt#118#12,またね、イオン,再见啦，依恩,translated,,f98f880cc1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#120#12,またね、わたしの大切なあなた。,再见啦，我最珍视的你。,translated,依恩,9b34e4f622,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending11_02.txt#122#12,また会えるときを、ずっと待ってるよ。,我一定会一直等待着与你重逢的那一刻。,translated,依恩,b15cd267e5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#3#12,…むにゃ……。,……唔喵……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#7#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#8#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#12#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#13#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#17#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#18#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#22#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#27#12,"<CLY2>いまお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行对话。
+请等待依恩切换行动状态。",translated,系统文本,007958f6bc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_01.txt#33#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#34#12,思い出を作りに行こう,一起去留下回忆吧,translated,,821172a824,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#36#12,"思い出ってことは……
+そっか、デートの準備ができたんだね。","留下回忆的话……
+这样啊，约会的准备已经做好了呢。",translated,依恩,fbaed32278,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#37#12,"それじゃあ、すぐに準備するね。
+ちょっとだけ待ってて。","那么，我马上就去准备。
+稍等我一下下哦。",translated,依恩,dd925439aa,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#45#12,"おまたせ～。
+どうかな？　似合ってる？","让你久等啦～
+感觉怎么样？合适吗？",translated,依恩,51c503332c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#46#12,イオンは何を着ても似合う,依恩穿什么都很合适,translated,,04df4638fd,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#47#12,いつも通りかわいい,一如既往的可爱,translated,,4679b2f37b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#49#12,"そ、そうなのかな？
+自分じゃよく分からないけど……。","是、是那样吗？
+我自己倒是看不太出来就是了……",translated,依恩,975090f7a0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#50#12,"わたしは、あなたにかわいいって思って
+貰えたら、それでいい……かな。","只要能让你觉得可爱，
+对我来说……就已经足够了吧。",translated,依恩,86054cba78,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#53#12,"えへへ、ありがと。あなたにそう言われると、
+いまでもドキドキしちゃうよ。","诶嘿嘿，谢谢你。被你这么一夸，
+我现在都还会心跳不已呢。",translated,依恩,8d7717ae56,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#54#12,これからは、もう少し慣れた方がいいかも。,今后或许应该稍微习惯一点才行呢。,translated,依恩,e95afa5229,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_01.txt#56#12,"とにかく、これで準備完了だね。
+いつも通りお願いします。","总之，这样就准备完毕了呢。
+那就和往常一样拜托你啦。",translated,依恩,ef0df8e856,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#74#12,"今日はわたしの我侭に付き合ってくれて
+ありがとう。
+あなたから貰った想いと勇気、忘れないよ。","今天谢谢你能由着我任性，
+真的非常感谢。
+你给予我的心意与勇气，我绝不忘记。",translated,依恩,5cef3875a8,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_01.txt#75#12,"わたしはもう大丈夫だから、
+あなたの準備が整ったら教えて。","我已经没事了，
+等你的准备也做好了就告诉我一声。",translated,依恩,53a3c8003a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#76#12,"……端末の切り替え、絶対に成功させて
+みせるよ。","……终端的切换，我绝对会让它
+顺利成功的。",translated,依恩,1dfa39355e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_01.txt#77#12,"<CLY2>『想いを伝える』の『イオンを呼ぶ』に
+『端末を切断する』が追加されました。","<CLY2>‘传达心意’的‘呼唤依恩’中
+追加了‘断开终端连接’。",translated,系统文本,c54b1749ad,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending12_02.txt#2#12,ここって……パーツ屋？,这里是……零件铺？,translated,依恩,ba07d77c9f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#4#12,イオンと来るならやっぱりここ,要和依恩来的话果然还是这里,translated,,311318614c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#5#12,デートっぽくなかったかな？,这样不太像是在约会吗？,translated,,c908a3f757,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#7#12,"そうだね。
+たしかに、わたしらしいかも。","也是呢。
+这确实很有我的风格呢。",translated,依恩,2f822bd441,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#10#12,ううん、そんなことないよ！,才没有那回事呢！,translated,依恩,bd699be736,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#12#12,"けど、良かったの？　
+わたし、ここで面白そうな物見つけると
+どうしても夢中になっちゃうし……。","可是，真的好吗？
+我只要在这里发现貌似有趣的东西，
+就无论如何都会彻底入迷的……。",translated,依恩,c047dd8354,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#14#12,夢中になってるイオンが好き,我就喜欢依恩入迷的样子,translated,,af7493b680,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#15#12,イオンが楽しく過ごせるのが一番,依恩能开心就是最重要的,translated,,4d1b7f6fb3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#17#12,そ、そうなんだ。,是、是这样啊。,translated,依恩,0b8a24fffd,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#18#12,それじゃあ、目一杯楽しんじゃおうかな。,那么，我就尽情地享受一番吧。,translated,依恩,0741666b0f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#21#12,"ありがとう。
+あなたの気持ち、すごく嬉しいよ。","谢谢你。
+你的这份心意，让我非常开心哦。",translated,依恩,524300a7c8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#22#12,"でも、せっかくのデートなんだし、
+あなたにも楽しんで欲しいな。","不过，难得是一次约会，
+我也希望你能够玩得开心呢。",translated,依恩,b6dcd3fd73,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#24#12,"とりあえず、少し歩いてみる？
+何か面白いものが見つかるといいな♪","总之，先随便逛逛看吧？
+要是能发现什么有趣的东西就好了♪",translated,依恩,4577d315b5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#26#12,"そういえば、わたしが元いた世界にも
+ここと似た場所があるんだよ。","说起来，在我原本所在的世界里，
+也有和这里类似的地方哦。",translated,依恩,f2f9e9e832,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#27#12,"細かいところは違うんだけど、
+なんていうか雰囲気……かな？","虽然细微之处有所不同，
+但该说是氛围很像……吗？",translated,依恩,d535f2b8ed,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#29#12,似たような場所はどこにでもあるのかも,类似的地方也许哪里都会有吧,translated,,30118aaa24,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#31#12,"そうだね。電気や機械が発達してたら、
+こういう街があっても不思議じゃないよね。","也是呢。如果电力和机械发达的话，
+有这样的街区也不足为奇呢。",translated,依恩,08ca1c9b30,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#32#12,"でも、この仮想世界がわたしとあなたの
+意識が混ざってできた場所なら――","但如果这个虚拟世界，是由我和你的
+意识混合在一起而诞生的地方――",translated,依恩,5380ebd50e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#33#12,"もしかすると、わたしとあなたの世界は
+同じなのかもしれない。","说不定，我和你所在的世界
+其实是同一个呢。",translated,依恩,636c20ff72,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#34#12,"そしたら、いつか直接お話したりもできる
+かもしれないね。","要是那样的话，说不定总有一天
+我们能够直接面对面交谈呢。",translated,依恩,c99993f74e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#36#12,まずはネロ止めて還らないとね,首先得阻止妮诺并回去才行呢,translated,,b56d3df1a0,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#37#12,いつかイオンと会いたい,好想有朝一日能与依恩相见,translated,,340d6863af,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#39#12,"うぅ、そうだよね。
+ネロを止めて、還る方法も見つけないと……。","呜呜，说的也是呢。
+必须阻止妮诺，找到回去的方法才行……。",translated,依恩,7d0bd07092,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#40#12,還ってからのことは、それまでお預けだね。,回去之后的事，就先留到那时再说吧。,translated,依恩,a200515aca,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#43#12,"よかった。
+あなたもそう思っててくれたんだ。","太好了。
+原来你也是这么想的啊。",translated,依恩,79867c125c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#44#12,"あなたに会えたら、また一緒にパーツ屋を
+回ったり、たくさんお話したりしたいな。","要是能见到你，我想再一起逛零件铺，
+还想和你聊很多很多的话呢。",translated,依恩,6074aea152,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#47#12,"あ、あそこのお店、なんだか面白そうな物を
+置いてそう。","啊，那边的店里，
+好像摆着很有趣的东西呢。",translated,依恩,b17a11cc7d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#49#12,見てないのに分かるの？,明明还没看怎么会知道？,translated,,67aae70129,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#52#12,"う～ん、それは長年の勘というか、
+そのお店から出る雰囲気がこう、
+ブワワって滲み出てるというか……。","唔～，该说是长年积累的直觉呢，
+还是说那家店散发出的氛围，
+就像这样一股脑地满溢出来呢……。",translated,依恩,c5c68748d1,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#54#12,分かんない,完全搞不懂,translated,,e2eb31581a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#55#12,好きな人だけが持つ直感だね,这是只有同道中人才有的直觉呢,translated,,af7d37c830,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#57#12,"あはは、そうだよね。
+わたしも自分で言ってて分かんないし。","啊哈哈，说的也是呢。
+连我自己说出来都觉得莫名其妙。",translated,依恩,00dfcd1f7a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#60#12,"そうだね。
+たぶん、そういうものなんだと思う。","是啊。
+我想大概就是这么一回事吧。",translated,依恩,313f3e1b3c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#62#12,"好きなことに打ち込んでると、
+普通じゃ気が付けないようなことにも
+自然と気が付くようになるでしょ？","只要全身心地沉浸在喜欢的事物中，
+自然就能察觉到
+普通情况下注意不到的事物对吧？",translated,依恩,bf7d9f8233,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#63#12,たぶん、そういうのに近いんだと思う。,我想大概就很接近那种感觉吧。,translated,依恩,90f1bcf132,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#65#12,お店見て行こうか,去店里看看吧,translated,,89c6223b24,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#67#12,"うん、行ってみたい。
+きっと面白い物がたくさんあるよ。","嗯，我想去看看。
+里面肯定有好多有趣的东西哦。",translated,依恩,9c3df73a1d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#73#12,"見て見て！　
+ここすごい商品がたくさん並んでるよ！
+店長オリジナル商品コーナーだって。","快看快看！
+这里摆了好多厉害的商品哦！
+说是店长原创商品专区呢。",translated,依恩,58a7f47dcc,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#74#12,"これなんかすごいよ。
+スリーウェイバーナー。三方向に火が出て、
+同時に三箇所の加熱が可能なんだって。","这个好厉害啊。
+三向喷灯。能朝三个方向喷火，
+说是可以同时对三处进行加热呢。",translated,依恩,865b542a41,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#75#12,あ、これも便利そう。,啊，这个好像也很方便。,translated,依恩,74d85c4ab4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#76#12,"超振動ハンマー。秒間千回以上の振動を
+与えて、叩いた物を粉々に！
+鉱物を粉砕するときに良さそうだね。","超震动锤。能施加每秒千次以上的震动，
+将被敲打的物品粉碎殆尽！
+拿来粉碎矿物的时候感觉挺不错的呢。",translated,依恩,bc3b1fdccb,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_02.txt#78#12,ぜひ買っていこう！,一定要买回去！,translated,,4c53ea46eb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#79#12,どっちも使うのが大変そう,感觉两样用起来都很费劲呢,translated,,81fda5065e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#81#12,"気持ち的にはそうしたいところだけど、
+ここ仮想世界だってこと忘れちゃってる？","虽然心情上很想这么做啦，
+但你是不是忘了这里是虚拟世界呀？",translated,依恩,eebfe58a6f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#82#12,"買っても持ち帰れないし、
+こればっかりは見て楽しむしかないよね。","就算买了也带不回去，
+这个就只能光看着过过眼瘾了呢。",translated,依恩,da3ddca00c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#83#12,"それに、ここに置いてあるのって、
+すごく扱いが難しそうな物ばかりなんだよ。","而且，这里摆放着的，
+全都是看起来极难驾驭的东西哦。",translated,依恩,5786540126,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#84#12,"持って帰れたとしても、わたしには上手く
+使えないかも……。","就算能带回去，
+说不定我也用不好它……。",translated,依恩,088d9b8f11,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#87#12,う～ん、言われてみるとたしかにそうかも。,唔～，听你这么一说确实很有可能呢。,translated,依恩,622e5ba5dc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#88#12,"スリーウェイバーナーは熱したくない箇所まで
+過熱しちゃいそうだし――","三向喷灯感觉连不想加热的地方
+都会一起过热――",translated,依恩,4636614594,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#89#12,"超振動ハンマーも、使い方を間違えると
+作業台まで粉々にしちゃうかも。","超震动锤也是，要是用法出了差错，
+说不定连工作台都会被砸得粉碎。",translated,依恩,9e17b82a0a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#90#12,"つまり、ここに置いてあるのは工作上級者の
+匠が使う道具ってことだね。","也就是说，这里摆放着的
+都是手工艺大师级巨匠专用的工具呢。",translated,依恩,0878419d3e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#93#12,イオンなら使いこなせそう,依恩的话感觉能驾驭得来,translated,,531ebeebfb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#95#12,えへへ、ありがとう。,诶嘿嘿，谢谢你。,translated,依恩,9414479893,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#96#12,"でも、買って帰れないことには変わりないし、
+いまは諦めるしかないよね。","不过，买不回去的事实并没有改变，
+现在也只能先放弃了呢。",translated,依恩,3c5b16a52a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#97#12,"いつか自分で同じようなものを
+作ってみようかな。","等哪天我自己也试着
+做一个类似的东西看看吧。",translated,依恩,74f33b7c9c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#98#12,"って、もうこんな時間。
+ここでけっこう時間使っちゃったね。","哎呀，不知不觉都这个时间了。
+在这里花了不少时间呢。",translated,依恩,345943f089,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#99#12,"今日は他のところも回るし、
+そろそろ別のところに行こっか。","今天还要逛别的地方，
+我们差不多该换个地方了吧。",translated,依恩,b77acf31af,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_02.txt#100#12,次に行く場所もお任せしていいかな？,下一个要去的地方也交给你决定可以吗？,translated,依恩,59405a5451,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#102#12,任せて,交给我吧,translated,,b5f1a16f12,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#104#12,ふふ、今日のあなた、いつもより頼もしいね。,呵呵，今天的你比平时更可靠呢。,translated,依恩,d420b13a0a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_02.txt#105#12,それじゃあ、お願いします。,那么，就拜托你啦。,translated,依恩,cee1307548,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#15#12,あ、ここはカフェだね。,啊，这里是咖啡厅呢。,translated,依恩,6e62a9cce3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#17#12,休憩には早かったかな？,来休息是不是稍微早了点？,translated,,bab1a1e4c7,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#19#12,"ううん、そんなことないよ。
+このカフェってすごく雰囲気がいいでしょ？","才没有那回事呢。
+这家咖啡厅的气氛不是特别好吗？",translated,依恩,180a3e8f14,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#20#12,"だから、もう一度あなたと来たいな、って
+思ってたの。","所以，我一直想着
+一定要再和你来一次呢。",translated,依恩,9fbbd356bc,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#22#12,夜にはバーになってそう,到了晚上感觉会变成酒吧,translated,,f00a5fac6f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#24#12,あ、言われてみるとそんな風にも見えるね。,啊，听你这么一说好像确实挺像呢。,translated,依恩,6e3df750cf,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#25#12,"薄暗い店内に、バーテンダーは渋くて
+お髭が似合う男の人。","在略显昏暗的店内，调酒师是位深沉帅气、
+留着很相衬胡须的男士。",translated,依恩,d5ff0cb2d2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#26#12,"カウンターの席には、良い感じの雰囲気に
+なったカップルが……。","在吧台的座位上，气氛融洽甜蜜的
+情侣正在……。",translated,依恩,025fcf4449,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#27#12,なんて、そんな感じの想像ができちゃうよ。,哎呀，忍不住就展开了这种联想呢。,translated,依恩,09d60c7a6a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#29#12,いつか二人で……,总有一天我们两个人也……,translated,,623890e026,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#31#12,"そうだね。いまはまだ無理だけど、
+わたしたちもいつかきっと。","说的也是呢。虽然现在还不行，
+但我们总有一天也一定会。",translated,依恩,b2cec53c5e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#34#12,イオン？,依恩？,translated,,734a68c183,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#36#12,"あ！
+ご、ごめんね！","啊！
+对、对不起！",translated,依恩,c76bc03867,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#37#12,"そうだ注文！
+そろそろ何か注文しよ！","对啦点单！
+差不多该点些什么了吧！",translated,依恩,3d4e7b7e70,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#38#12,すいませ～ん！,不好意思～！,translated,依恩,242e6ad058,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#43#12,ふぅ……。,呼……。,translated,依恩,a8365b834f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#45#12,落ち着いた？,冷静一些了吗？,translated,,24ad004a69,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#46#12,どこか調子悪いの？,哪里不舒服吗？,translated,,b82bee5a66,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#48#12,"う、うん。もう大丈夫。
+ごめんね、なんかドキドキしちゃって。","嗯、嗯。已经没事了。
+对不起哦，不知道为什么心跳得好厉害。",translated,依恩,fc038bb970,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#51#12,"大丈夫。体の調子が悪いわけじゃないの。
+なんだかドキドキしちゃって。","没事。不是身体哪里不舒服。
+只是心里莫名地小鹿乱撞。",translated,依恩,7b4a4a7ef0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#54#12,"改めて考えると、わたしたちここで
+結構大胆なことしちゃってたでしょ？
+それを思い出しちゃって……。","仔细一想，我们在这里
+不是做过相当大胆的事情吗？
+一不小心就回想起来了……。",translated,依恩,1f3958dc8d,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_03.txt#56#12,仮想世界なのに……,明明只是虚拟世界……,translated,,084d81b237,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#58#12,"そうだけど、わたしには本物にしか
+見えないし、一度意識しちゃうと
+なかなか落ち着かなくて……。","虽然是那样，但我看来就和真的一样，
+而且一旦开始在意，
+就怎么都冷静不下来了……。",translated,依恩,a9e68cf7c2,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_03.txt#60#12,またアラウンドフレイム飲みたい,想再喝一次环绕烈焰,translated,,62724ea9c1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#61#12,ＤＸジャンボパフェ食べたい,想吃DX特大芭菲,translated,,68ff71284c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#63#12,"うぅ、いまそれをいうのは反則だよ。
+また顔が赤くなっちゃう……。","呜呜，现在说那个太犯规啦。
+脸又要变红了……。",translated,依恩,b7eda2d72f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#66#12,"あ、あれをもう一度……。一人だと、
+量的にもカロリー的にも大変なことになるよ。","那、那个还要再吃一次吗……一个人的话，
+不论分量还是热量都会很不得了的哦。",translated,依恩,3d19c13b3a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#68#12,とにかく、このお話はもうおしまい！,总之，这个话题就到此为止！,translated,依恩,3063eec0d1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#69#12,"忘れたくないし、忘れられないけど、
+思い出すと恥ずかしくなっちゃうし……。","虽然不想忘掉，也忘不掉，
+但回想起来就觉得好害羞啊……。",translated,依恩,84ddc411fe,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#71#12,"もしここで、本当にあなたとお茶できたら
+って、想像したら、その……。","一想象如果能在这里真正和你一起喝茶，
+那个……。",translated,依恩,df9b9a24db,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#72#12,"……ひ、人前で、キス……とか。
+恥ずかしいこと想像しちゃって……。","……在大、大庭广众之下，接吻……之类的。
+就不由自主地想象了羞人的事……。",translated,依恩,37fab65ac9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#73#12,"きっと、大人の雰囲気とか、
+そういうお話をしてたせいだよね。","一定是因为刚才一直在聊成熟大人的氛围，
+才变成这样的对吧。",translated,依恩,6461d2f183,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#75#12,してみる？,要试试看吗？,translated,,292697ad91,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#76#12,イオンのエッチ,依恩是个小色女,translated,,e585bccdf9,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#78#12,し、しないよ！,才、才不要呢！,translated,依恩,448dec8c65,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#80#12,"いったでしょ？
+こんな人前でなんて恥ずかしいよ。","我刚才说过了吧？
+在大庭广众之下多让人害羞啊。",translated,依恩,6f700464e8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#82#12,"わ、わたしたちにはそういうのは
+まだ早いと思う！","我、我觉得这种事情
+对我们来说还太早了！",translated,依恩,67bd2a11b1,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#86#12,"え、エッチじゃないよ！
+普段はそんなこと全然考えたりしないんだ
+から！","我、我才不是色鬼呢！
+平时我根本就完全不会想这种事情
+好不好！",translated,依恩,cd79e0ddcc,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_03.txt#88#12,とにかく、このお話はもうおしまい！,总之，这个话题就到此为止！,translated,依恩,3063eec0d1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#89#12,"あんまり騒ぐと他のお客さんにも
+迷惑になるからね。","太闹腾的话也会给其他客人
+添麻烦的呢。",translated,依恩,eae263add8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#92#12,そろそろ行く？,差不多该出发了吗？,translated,,258d604712,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#94#12,"そうだね。
+そろそろ他のところに行こっか。","也是呢。
+我们差不多该换个地方了吧。",translated,依恩,47f6441e18,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#95#12,"十分休憩もできたし、ここにいると
+また恥ずかしいこと思い出しそうだし……。","休息也已经很充分了，而且一直在这里的话
+感觉又会想起害羞的事情来……。",translated,依恩,1da1eddd95,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#96#12,次に行くところももう決めてあるの？,下一个要去的地方你也已经决定好了吗？,translated,依恩,91d65143be,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#99#12,教会に行こうと思う,我想去教堂,translated,,33406783ec,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#101#12,教会？,教堂？,translated,依恩,f11802aaf9,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#102#12,"……そっか、そうだね。
+わたしたちが結婚した場所だもんね。","……这样啊，说的也是呢。
+毕竟是我们结婚的地方嘛。",translated,依恩,fe5593141d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#103#12,"この世界から出たらきっともう行けないし、
+最後に行っておこっか。","离开这个世界后肯定就再也去不了了，
+最后再去一次吧。",translated,依恩,a3306ea964,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#106#12,行ってからのお楽しみ,去了之后再揭晓哦,translated,,c2b7dbc8c4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#108#12,あ、そうやってまた意地悪するんだ。,啊，你又这样故意使坏啦。,translated,依恩,c874dfdf87,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#109#12,"でもいいよ。
+あなたのこと信じてるから。","不过也没关系。
+因为我相信着你。",translated,依恩,b1a3c35e71,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#110#12,"きっと楽しいところに連れて行ってくれる、
+って。","相信你一定会带我去好玩的地方，
+嗯。",translated,依恩,1783be2374,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_03.txt#111#12,それは卑怯だ,这也太狡猾了,translated,,d4eafc10f8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#113#12,あはは、お返しだよ♪,啊哈哈，这是回敬你的哦♪,translated,依恩,ac1f49b64d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_03.txt#115#12,"それじゃあ、いつも通りエスコート
+お願いします。","那么，就和往常一样，
+拜托你为我护航领路啦。",translated,依恩,83caf5d955,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#19#12,"ここは何度きても静かだよね。
+けど、嫌な感じじゃない……。","这里无论来多少次都好安静呢。
+不过，并不让人觉得讨厌……。",translated,依恩,f186f08821,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#20#12,"最初の頃は変な緊張感があったけど、
+温かくて優しい場所。","虽然最初来的时候有种莫名的紧张感，
+但却是个温暖而温存的地方。",translated,依恩,e2d02efd45,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#21#12,わたしたち、ここで結婚したんだよね。,我们，就是在这里结婚的呢。,translated,依恩,9901a2ab11,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#22#12,"教会に来たらいきなりねりこさんがいて、
+あなたからプロポーズされて……。","来到教堂后妮莉库小姐突然冒了出来，
+然后你向我求了婚……。",translated,依恩,7a7544a79c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#23#12,"期待してなかった、っていったら嘘になる
+けど、本当に結婚できるとも思ってなかった。","要是说没抱有期待那是骗人的，
+但也完全没想过居然真的能够结婚。",translated,依恩,013cfb99e8,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#24#12,"触れ合うこともできないわたしを、
+あなたは受け入れてくれた。","明明连触碰都做不到的我，
+你却毫无保留地接纳了。",translated,依恩,7207d80cc0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#25#12,"それがどれだけ嬉しかったか、
+わたしには上手く言葉にできない。","这让我感到多么的高兴，
+我真的无法用言语妥善表达。",translated,依恩,aaffe8e556,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#27#12,それは一緒だよ,这点我也一样哦,translated,,84f27fe1c3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#28#12,後悔してない？,后悔了吗？,translated,,dc0e6c250c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#30#12,一緒？,一样？,translated,依恩,627f93acbd,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#31#12,"……そっか。そうだよね。
+わたしたち、住む世界が違うだけで
+同じなんだよね。","……这样啊。说的也是呢。
+我们只是居住的世界不同，
+心情其实是一模一样的呢。",translated,依恩,ee578867a2,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_04.txt#32#12,"触れ合えないのも、それが不安なのも、
+そして、それでも大切な人と一緒にいたい、
+って気持ちも……。","无法触碰彼此，对此感到不安，
+以及即便如此也想和重要之人在一起的
+这份心意也是……。",translated,依恩,c1c9bf13d3,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_04.txt#35#12,"後悔なんてしてないよ。
+あなたはわたしとずっと一緒にいてくれた。","我怎么可能会后悔呢。
+你一直都陪伴在我的身边。",translated,依恩,28b4350a23,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#36#12,"そんなあなたと結ばれて、
+わたしはすっごく幸せだよ。","能与那样的你结为伴侣，
+我真的觉得好幸福哦。",translated,依恩,ab95412a45,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#37#12,"だから、絶対に後悔なんてしない。
+この先、何があったとしても……。","所以，我绝对不会后悔的。
+无论今后发生任何事情……。",translated,依恩,efb026008b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#38#12,"それはきっと、あなたとの出会い全部を
+否定することになると思うから。","因为如果后悔的话，就等同于
+将与你邂逅的一切全都否定了呢。",translated,依恩,470e26b5da,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#40#12,"ね？
+もう一度しよっか。","呐？
+我们再做一次吧。",translated,依恩,1295bd4efd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#42#12,もう一度？,再做一次？,translated,,1b72ac3aa2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#44#12,うん、もう一度……。,嗯，再来一次……。,translated,依恩,f1def23c28,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#45#12,"わたし、イオナサル・ククルル・プリシェール
+は、あなたを生涯夫とし、共にあり続けること
+を誓います。","我，依欧娜萨鲁・库库鲁鲁・普立薛尔，
+发誓视你为终身伴侣，
+永远与你同在。",translated,依恩,023a87ebea,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_04.txt#46#12,"……あはは、自分で言うと、
+ちょっと恥ずかしいね。","……啊哈哈，自己亲口说出来，
+还是觉得有点害羞呢。",translated,依恩,0760d6956f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#47#12,あなたの想いも、教えて。,你的心意，也请告诉我吧。,translated,依恩,45405010f5,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#53#12,"<CLBU>ありがとう。
+あなたの想い伝わったよ。","<CLBU>谢谢你。
+你的心意我已经确实收到了哦。",translated,依恩,bc8eb29aba,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending12_04.txt#54#12,"神様もきっと、愛を誓い直したばかりの夫婦を
+すぐに引き離すようなことはしないよね。","神明大人也一定不会残忍地
+立刻拆散刚重新许下誓言的夫妻吧。",translated,依恩,fcc8e191c7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#56#12,願掛けみたいなもの？,算是许愿祈福之类的吗？,translated,,701c6d3f8c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#58#12,"そんな感じかな。
+それに、あなたにもう一度愛してる、って
+伝えておきたかったから。","大概就是那种感觉吧。
+而且，我也想再向你亲口传达一次，
+我深爱着你呢。",translated,依恩,262b6cf719,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_04.txt#59#12,"あ、あとね、最後にもう一箇所、
+一緒に行きたいところがあるの。","啊，还有呢，最后还有一个地方，
+我想和你一起去。",translated,依恩,2eaa130798,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#60#12,"あなたと初めて行った場所、
+海に連れてって欲しい。","和你最初去过的那个地方，
+希望能带我去海边。",translated,依恩,4af6876d59,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#61#12,"あそこは、わたしたちにとって
+もう一つのスタート地点だと思うから。","因为我觉得那里，对我们而言
+可以说是另一个起点。",translated,依恩,123e9e4858,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#63#12,最後に行こうと思ってた,我本来也打算最后去那里,translated,,3d4e7753ba,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#64#12,けっこう時間経つけど大丈夫？,时间过得挺久了，没问题吗？,translated,,ad9142af1b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_04.txt#66#12,"よかった。
+あなたも同じ気持ちだったんだね。","太好了。
+原来你的想法也和我一样呢。",translated,依恩,4a600ab676,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#69#12,"うん、わたしは平気。
+あなたともっと一緒にいたい。","嗯，我没问题的。
+我想和你再多待一会儿。",translated,依恩,0022df3be5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_04.txt#71#12,それじゃあ、お願いするね。,那么，就拜托你啦。,translated,依恩,a48ec99a0d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#17#12,イオン？,依恩？,translated,,734a68c183,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#19#12,"ちょっと待ってね。目を瞑ったまま、
+ここがどこか当ててみるね。","稍等一下哦。我闭着眼睛，
+猜猜看这里是哪里吧。",translated,依恩,c26ddd0265,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#20#12,"えっと、音の反響とかすかに聞こえる人の声、
+それに空気の流れからすると――","唔，从声音的回响、隐约听见的人声，
+还有空气的流动来判断――",translated,依恩,2194179d6c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#21#12,ここは学校かな？,这里是学校吧？,translated,依恩,39d583e1d3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#23#12,正解、学校だよ,答对了，是学校哦,translated,,d8dc57411e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#24#12,残念、ショッピングセンターでした,很遗憾，是购物中心哦,translated,,4dc9f6195c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#26#12,やった、大正解♪,太棒了，完全答对♪,translated,依恩,c5ddf20190,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#29#12,"そっかぁ……。
+けっこう自信あったのに――","这样啊……。
+我明明还挺有自信的说――",translated,依恩,3cf59bc229,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#30#12,って、ここ学校だよ！？,不对，这里明明就是学校嘛！？,translated,依恩,ba7e795a97,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#31#12,"まったく、すぐにそうやって意地悪するんだ
+から……。","真是的，你动不动就故意使坏
+……。",translated,依恩,62667b5f3a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#33#12,"とにかく、このままここにいてもなんだし、
+少し歩こっか。","总之，一直呆在这儿也不是个事，
+我们稍微走走吧。",translated,依恩,0eb513972f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#35#12,なんだか、今日は静かだね。,总觉得今天格外安静呢。,translated,依恩,cd889d1479,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#36#12,"教室にもほとんど人が残ってないし、
+もう放課後なのかな？","教室里也几乎没人留下了，
+已经放学了吗？",translated,依恩,546cda7294,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#38#12,休日なのかも,也许是休息日吧,translated,,0062275659,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#39#12,時間が時間だし放課後かな,这个时间点的话，应该是放学了吧,translated,,7f1da6c6bb,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#41#12,そっか、その可能性もあるよね。,这样啊，也有那种可能呢。,translated,依恩,9ee47902a1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#42#12,"時間的にはまだ少し早いくらいだし、
+お休みなのかも。","从时间上来看现在还稍微有点早，
+说不定真的是休息日呢。",translated,依恩,ed4c9a7259,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#45#12,"あ、でも、放課後にしては時間が
+早い気がしない？
+もしかしたら、お休みなのかも。","啊，不过要是放学的话，
+感觉时间还有点早不是吗？
+说不定是放假休息呢。",translated,依恩,ef3edb7e55,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#47#12,なんだか、ちょっとドキドキするね。,总觉得有点心跳加速呢。,translated,依恩,48a0927a64,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#48#12,"放課後の学校って、なんだかんだで生徒が
+残ってたり、部活動をしてる人も多いでしょ？","放学后的学校，不管怎么说还是会有学生留着，
+参加社团活动的人也很多对吧？",translated,依恩,137f62ab84,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#49#12,"けど、お休みだと生徒だけじゃなくて、
+先生もほとんど学校に来ないし、
+ちょっとだけ悪いことしてるみたい。","但是，如果是放假的话，不仅是学生，
+老师也几乎不怎么来学校，
+感觉就好像是在做一点坏事一样呢。",translated,依恩,15c5a259a1,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#51#12,そもそも部外者だよ,我们本来就是局外人啊,translated,,3fbf1610a3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#52#12,ついにイオンが不良に……,依恩终于变不良少女了……,translated,,7676034166,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#54#12,"あはは、そういえばそうだね。
+いままでよく注意とかされなかったよね。","啊哈哈，说起来确实是呢。
+之前居然一直没有被别人训诫警告呢。",translated,依恩,2b99006236,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#57#12,"えぇ！？
+不良なんかじゃないよ！","诶诶！？
+我才不是不良少女呢！",translated,依恩,5fb27897ac,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#58#12,"それに、わたしが不良になったら、
+あなただって同罪なんだからね。","而且，要是我变成不良的话，
+你可也是同罪的哦。",translated,依恩,11015e0fa4,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#61#12,"そうそう、ここに来ると
+いつも思ってたことがあるの。","对啦对啦，每次来到这里，
+我总会想起一件事来。",translated,依恩,84b20acdf5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#62#12,"それは、あなたやみんなと極々当たり前の
+学校生活を送ってみたい……って。","那就是，好想和你还有大家一起，
+度过普普通通的校园生活啊……这样。",translated,依恩,cf404249f3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#63#12,"朝起きて、学校で授業を受けて、
+休み時間にはなんでもないお話をして、
+放課後にはみんなでお店に寄ったりするの。","早上起床，在学校上课，
+课间聊些无关紧要的话题，
+放学后大家一起去店里逛逛。",translated,依恩,4b80dc67ed,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#64#12,"もしそんな日常が送れたら、
+きっとすごく楽しいよね。","如果能度过那样平常的日子，
+一定超级开心的吧。",translated,依恩,11af5711dd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#66#12,それは……,那真的是……,translated,,24484b9441,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#68#12,"うん……。
+それは無理なんだって分かってる。","嗯……。
+我知道这是不可能的啦。",translated,依恩,cf896084f1,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#69#12,"でも、そんな世界がどこかにあるといいな、
+って。
+そう思うのは、きっと自由だよね。","但是，要是哪里真有那样一个世界就好了。
+仅仅是这样去畅想，
+也是完全自由的吧。",translated,依恩,d5786acf85,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#71#12,辛くない？,不觉得痛苦吗？,translated,,75c98f675e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#73#12,"ちょっと辛いかな。いまのわたしたちには、
+たぶんどう頑張っても手に入らないから……。","稍微有点难过吧。因为对现在的我们来说，
+无论怎么努力大概都无法实现……。",translated,依恩,7666869f82,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#74#12,"でもね、そういう世界がある、って思うと、
+辛いだけじゃなくて希望も湧いてくるんだよ。","但是呢，只要一想到也许有那样的世界存在，
+就不仅只有难过，心中还会涌起希望哦。",translated,依恩,a030475ec2,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#75#12,"可能性は一つじゃない。
+みんなが幸せになれる世界が
+きっとあるんだ、ってそう思えるから。","因为可能性并非只有一个。
+能让所有人都幸福的世界，
+一定在某处存在着――会让人这么坚信呢。",translated,依恩,ec19a059bc,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#77#12,そんな世界にできるように頑張ろう,为了能实现那样的世界而努力吧,translated,,7a8c60852a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#79#12,うん、一緒に頑張ろうね。,嗯，我们一起加油吧。,translated,依恩,5bb22da3f4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#80#12,"あ、そうだ。
+このあとどうするか、もう決めてるかな？
+最後に、一緒に行きたい場所があるの。","啊，对啦。
+这之后要做什么，你已经决定好了吗？
+最后，我有一个想和你一起去的地方。",translated,依恩,17d9f7ed76,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_05.txt#82#12,行きたい場所？,想去的地方？,translated,,a376d8685d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#84#12,"うん。
+海に行きたいな、って。","嗯。
+我想去海边呢。",translated,依恩,9cf8bf0aaf,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#85#12,"あそこは、わたしたちにとって
+もう一つのスタート地点だと思うから。","因为我觉得那里，对我们而言
+可以说是另一个起点。",translated,依恩,123e9e4858,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#87#12,最後に行こうと思ってた,我本来也打算最后去那里,translated,,3d4e7753ba,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#88#12,けっこう時間経つけど大丈夫？,时间过得挺久了，没问题吗？,translated,,ad9142af1b,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_05.txt#90#12,"よかった。
+あなたも同じ気持ちだったんだね。","太好了。
+原来你的想法也和我一样呢。",translated,依恩,4a600ab676,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#93#12,"うん、わたしは平気。
+あなたともっと一緒にいたい。","嗯，我没问题的。
+我想和你再多待一会儿。",translated,依恩,0022df3be5,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_05.txt#95#12,それじゃあ、お願いするね。,那么，就拜托你啦。,translated,依恩,a48ec99a0d,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#19#12,"到着ー。
+ここの海は何度来ても素敵だよね。","到达啦～。
+这片大海无论来多少次都好美呢。",translated,依恩,15aa1e7a06,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#23#12,"そうだ。せっかく海に来たんだし、
+涼しい服に着替えようかな。","对啦。难得来到海边，
+我换一套凉快的衣服吧。",translated,依恩,8fd2d6cf1d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#24#12,ちょっと待っててね。,稍等我一下哦。,translated,依恩,4c1314b466,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#63#12,"お待たせー。
+着替えも終わったし、少し歩こっか。","久等啦～。
+衣服也换好啦，稍微散散步吧。",translated,依恩,73ed417b74,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#67#12,"そうだ。せっかく海に来たんだし、
+涼しい服に着替えようかな。","对啦。难得来到海边，
+我换一套凉快的衣服吧。",translated,依恩,8fd2d6cf1d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#68#12,ちょっと待っててね。,稍等我一下哦。,translated,依恩,4c1314b466,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#80#12,"お待たせー。
+着替えも終わったし、少し歩こっか。","久等啦～。
+衣服也换好啦，稍微散散步吧。",translated,依恩,73ed417b74,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#85#12,"ここなんだよね。
+わたしたちが初めて二人で来た場所。","就是这里呢。
+我们两个人最初一起来到的地方。",translated,依恩,c840772c33,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#86#12,"ねりこさんにカードを貰って、
+あなたが作ってくれた最初の世界……。","从妮莉库小姐那里拿到卡片，
+由你为我创造的最初的世界……。",translated,依恩,8456600eb9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#87#12,"現実の世界じゃないけど、
+あの世界の外に出られなかった――","虽然并非现实的世界，
+但对于无法走出那个世界之外――",translated,依恩,1446ddab2a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#88#12,"ううん、出ようとも思ってなかったわたしに
+とって、ここは最初の一歩だった。","不，是对原本连走出一步都不曾想过的我而言，
+这里是最初迈出的一步。",translated,依恩,180ceb6dc1,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#89#12,"それから、いろんな場所に連れて行って
+もらって、それが嬉しくて何度もあなたを
+デートに誘ったりして……。","从那之后，你带我去了各种各样的地方，
+为此我满心欢喜，一次又一次地
+邀请你和我约会……。",translated,依恩,dacfdff547,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#91#12,ちょっと大変だった,当时确实有点累人,translated,,c27f20bff8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#92#12,デートできて嬉しかった,能和你约会我也很高兴,translated,,4c534487a6,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#94#12,"あはは、やっぱりそうだよね。
+我侭言ってごめんね。","啊哈哈，果然是那样啊。
+由着性子任性真是不好意思呀。",translated,依恩,cac75e324b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#97#12,"良かった。
+たくさん我侭言っちゃったから、
+ちょっと心配してたの。","太好了。
+因为我说了好多任性的话，
+之前还有点担心呢。",translated,依恩,617029f3dc,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#99#12,"でも、それだけあなたとお出かけするのが
+楽しかったんだよ。","不过，这也说明和你一起出门
+真的是太开心了哦。",translated,依恩,5d4b74560f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#101#12,もっといろんな場所に行こう,再去更多更多的地方吧,translated,,41a226fe0c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#105#12,"わたしも、もっとたくさんの場所に
+行ってみたい。","我也想去更多更多的地方
+看看。",translated,依恩,d8fa9c621f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#106#12,"いろんな場所、いろんな人たちと出会って、
+泣いたり、笑ったり、怒ったり……。","走过各种各样的地方，与各种各样的人相遇，
+一同哭泣、一同欢笑、一同生气……。",translated,依恩,93d1762c0c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#107#12,"あなたと一緒に、もっとたくさんの経験を
+したい。","好想和你一起，积累更多更多的
+经历。",translated,依恩,dd43ab28b0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#110#12,"だから……だからね……
+すごく恐いの……。","所以……所以啊……
+我真的好害怕……。",translated,依恩,ba8ea2bf2a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#111#12,"あなたを信じてないわけじゃない。
+でも、もしこれが最後になったらって思うと
+このまま立ち止まってしまいたくなる。","并不是我不信任你。
+可是一想到如果这就成了最后一次，
+我就会忍不住想要就这样驻足不前。",translated,依恩,26ccd24161,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#112#12,このままずっと、ここにいられたらって……。,甚至会想，要是能一直留在这里就好了……。,translated,依恩,e53911c5b2,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#113#12,"ごめんね。
+自分で決めたことなのに……。","对不起。
+明明是我自己做出的决定……。",translated,依恩,051d412049,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#115#12,何かできることはない？,有什么是我能为你做的吗？,translated,,e14508e7ca,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#117#12,……勇気が、欲しい。,……我想要，勇气。,translated,依恩,c7ceac8840,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#120#12,お願い……。,拜托你……。,translated,依恩,05f57a5a38,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#135#12,<CLBU>ん……。,<CLBU>唔……。,translated,依恩,0871fdde40,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending12_06.txt#140#12,<CLBU>あ……。,<CLBU>啊……。,translated,依恩,32ff0228ef,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending12_06.txt#142#12,"あなたの想い伝わったよ。
+少し元気でた……えへへ。","你的心意已经传达到了哦。
+稍微打起一点精神来了……诶嘿嘿。",translated,依恩,a8945f3b88,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#143#12,"あの……それでね、
+これからどうするか考えたんだけど――","那个……然后呢，
+我想了想接下来该怎么做――",translated,依恩,da1ee060d0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#144#12,"その……最後に……、
+もう一つ我侭言ってもいいかな？","那个……在最后……
+我可以再说一个小小的任性要求吗？",translated,依恩,06e12913f7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#146#12,もちろん,当然可以,translated,,8514001668,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#148#12,"あ、ありがと。
+それで、その、我侭っていうのはね……
+その――","谢、谢谢你。
+然后，那个，我所谓的任性要求呢……
+就是――",translated,依恩,75799f35fa,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#149#12,"あの、少しだけでいいの！
+本当に、少しだけ……。","那个，哪怕只要一会儿就好！
+真的只要一会儿……。",translated,依恩,28baf0a836,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#150#12,あの……。,那个……。,translated,依恩,946efb5f90,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#151#12,"おうちに戻って、
+あなたと一緒に……その……。","回到家里，
+和你一起……那个……。",translated,依恩,7be502c73f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#152#12,……寝たいかも……って……。,……我想……一起睡觉……这样……。,translated,依恩,1097feb16a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#153#12,"いや、そういう意味じゃなくて！
+その、あなたの温もりを、想いを、
+今日の思い出と一緒に覚えておきたくて！","不、不是那种意思啦！
+那个，我是想将你的温存、你的心意，
+和今天的回忆一起牢牢记住！",translated,依恩,32db5d2162,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#155#12,わかった,我知道了,translated,,b06cd9ea80,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#157#12,"え……？　……本当？
+本当にいいの……？","诶……？……真的吗？
+真的可以吗……？",translated,依恩,3d4b98a179,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#159#12,"良かった……初めてわたしからお誘いした
+から、すごくドキドキしちゃった。","太好了……因为是我第一次主动邀请，
+心里扑通扑通跳个不停呢。",translated,依恩,17c43f3432,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#160#12,"わたしから誘ってもいいのかな……とか、
+断られちゃったらどうしよう……とか。","会不会觉得由我主动邀请很不合适……
+要是被拒绝了该怎么办……之类的。",translated,依恩,e0268ec5a6,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#161#12,"こんなこと女の子から誘うなんて、
+やっぱり変……だよね。","这种事情居然由女孩子主动邀请，
+果然很奇怪……对吧。",translated,依恩,5aac98d0c3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#163#12,"良かった……すごくドキドキした。
+あなたにダメって言われたら、
+どうしようって。","太好了……刚才真的好紧张啊。
+心想着要是被你拒绝了，
+到底该怎么办呢。",translated,依恩,95f671c9ee,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#164#12,"だって、なんか、変なこと言っちゃってる
+自覚はあるし……その、あなたに、引かれ
+ちゃったりしたらどうしようって――","因为，我自己也有自觉说出了很奇怪的话……
+那个，心里一直担心要是被你
+嫌弃吓跑了该怎么办――",translated,依恩,231fd98181,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#166#12,でも！　それでもわたしは……っ！,但是！即使如此我也……！,translated,依恩,d5f7d0391f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#168#12,変じゃないよ。嬉しい。,一点也不奇怪。我很高兴。,translated,,b26e5836e3,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#169#12,変なこと言うのはいつものこと,你说奇怪的话又不是头一回了,translated,,0b97000878,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#171#12,"……っ！
+あなた……。","……！
+你这个人真是……。",translated,依恩,946c888f33,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#172#12,"……ありがとう。
+わたしも、嬉しい……すごく嬉しいよ……。","……谢谢你。
+我也好高兴……真的好高兴哦……。",translated,依恩,4e1bc2d74f,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#175#12,"ええええっ！
+もう！　酷いよぅ！！","诶诶诶诶！
+真是的！你好过分哦！！",translated,依恩,1ff955ee3b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#176#12,"……えへへ。でも、あなたのそういうところ、
+すごく好きだよ？","……诶嘿嘿。不过，你的这种地方，
+其实我也超级喜欢哦？",translated,依恩,7111da8ae3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_06.txt#177#12,"あなたはいつだって、そうやってわたしを
+元気づけてくれる。落ち込んでるときも、
+緊張してるときも――","你无论何时，都总是这样
+为我带来力量。不论在我消沉失落时，
+还是紧张不安时――",translated,依恩,094c7ace31,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_06.txt#178#12,だから、ありがとう。,所以，谢谢你。,translated,依恩,0adcbd068c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_06.txt#180#12,"……そ、それじゃ、
+そろそろ……戻ろっか。","……那、那么，
+差不多该……回去了吧。",translated,依恩,a66572fb4d,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#9#12,"えっと……それじゃあ、すぐに着替えて
+ベッドに行くね。少し待ってて。","那个……那么，我马上换好衣服
+去床上哦。稍等我一下。",translated,依恩,0b40b635ac,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#39#12,えへへ、温かいなぁ。,诶嘿嘿，好温暖啊。,translated,依恩,ecd3c089dc,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#40#12,"どうしてだろう。
+端末越しなのは、いつもと変わらないのに、
+こうしてるとあなたがすごく近くに感じる。","这是为什么呢。
+明明隔着终端，和往常并没有什么不同，
+但这样依偎着，就觉得你好贴近我。",translated,依恩,ce70d9c222,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_07.txt#41#12,"ねぇ、もっと強くあなたを感じたい。
+……手、繋いで。","呐，我想更加真切地感受到你。
+……把手，牵在一起吧。",translated,依恩,b3e5c81daa,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#50#12,<CLBU>あなたの手、温かいね。,<CLBU>你的手好温暖呀。,translated,依恩,6c5e9f7b44,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending12_07.txt#51#12,"改めて不思議だなって思う……。
+本当に触れ合ってるわけでもないのに、
+あなたの温もりを感じるんだから。","仔细一想真的好不可思议……。
+明明并没有真正触碰在一起，
+却能够真真切切地感受到你的温存。",translated,依恩,fb4070864e,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_07.txt#52#12,"端末にそういう機能があるのかもしれない。
+でも、それだけじゃない。","也许终端本身就具备那样的功能吧。
+但是，绝不仅仅只是那样。",translated,依恩,250524a7ed,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#53#12,"この温もりはあなただから……。
+あなたの想いの強さが、わたしに温もりを
+くれてるんだと思う。","正因为这份温暖来源于你……。
+我想，正是由于你的心意如此强烈，
+才赐予了我这份温存。",translated,依恩,a68afd6b37,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_07.txt#54#12,"この想いが、この温もりが、
+わたしに一人じゃないって気付かせてくれた。
+そして、先に進む勇気をくれた。","这份心意，这份温暖，
+让我深刻地意识到自己并非孤身一人。
+并且，赋予了我继续向前的勇气。",translated,依恩,52f7115947,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_07.txt#55#12,"こうやってあなたが支えててくれたから、
+わたしはここまで来ることができたんだよ。","正是因为有你这样一直支撑着我，
+我才能够一路走到了今天哦。",translated,依恩,4415226ec0,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#56#12,イオンの力になれてよかった,能成为依恩的力量真是太好了,translated,,e43a183d91,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#57#12,イオン自身の力だよ,那是依恩你自己的力量哦,translated,,39b2aa963c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#59#12,ふふ、あなたは変わらないね。,呵呵，你真是一点都没变呢。,translated,依恩,daea0d8b80,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#60#12,"意地悪でわたしをからかったりもするけど、
+強くて優しい……。","虽然偶尔会使坏捉弄我，
+但却坚强又温柔……。",translated,依恩,42e13c4722,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#63#12,そうなのかな？,真的是那样吗？,translated,依恩,4ddf857717,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#64#12,"でも、もしそうだったとして、
+その力を引き出してくれたのは、
+やっぱりあなたなんだよ。","但是，就算真的是那样，
+将那份力量引导发掘出来的，
+果然还是你呀。",translated,依恩,3fd96b6f62,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending12_07.txt#65#12,"だって、外に出ようなんて、
+わたし一人じゃ絶対に考えなかったもん。","因为，迈向外面的世界什么的，
+光靠我自己一个人绝对连想都不会想呢。",translated,依恩,d6877d8f62,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#67#12,"どんなに伝えても伝えたりないくらいの、
+たくさんの想いをあなたから貰った。","无论怎样传达都诉说不尽的、
+海量的心意，我全都是从你那里获得的。",translated,依恩,0bf9c7e66b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#68#12,"その想いに答えられるように頑張るよ。
+そして、いつかきっと……。","为了回应这份心意，我会全力以赴的。
+然后，总有一天必定会……。",translated,依恩,e853368225,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending12_07.txt#73#12,（　…　……　すぅ…）,（　…　……　呼…）,translated,依恩,7fca0b3772,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#79#12,（むにゃ…）,（唔喵…）,translated,依恩,e257beed1f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending12_07.txt#86#12,"<CLBU>あ、ご、ごめんね！
+わたし寝ちゃってたよね。","<CLBU>啊，对、对不起！
+我不知不觉睡着了呢。",translated,依恩,8abc5a2de5,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/endingevent/ciel_ending12_07.txt#87#12,"もう起きるね。最後の……ううん、新しい
+出発の準備をしなきゃ。","我这就起来啦。必须去准备最后的……
+不，是全新的出发才行。",translated,依恩,597fc4f437,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#2#12,…むにゃ……。,……唔喵……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#7#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#12#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#17#12,"<CLY2>お話をするためにはイオンが室内にいる
+必要があります。","<CLY2>想要与依恩对话，
+需要依恩在房间内。",translated,系统文本,9f796015ce,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#21#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#26#12,"<CLY2>いまお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行对话。
+请等待依恩切换行动状态。",translated,系统文本,007958f6bc,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_ending13.txt#33#12,……端末を切るんだね。,……要切断终端了呢。,translated,依恩,501a403e5c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#35#12,待たせてごめん,让你久等了，对不起,translated,,380bc7fbd7,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#37#12,"ううん、大丈夫。
+あなたの気持ち、わたしにもよく分かるから。","没有啦，没事的。
+因为你的心情，我也十分明白。",translated,依恩,bb6b6f7acd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#38#12,でも、ここで立ち止まっちゃ駄目なんだよね。,但是，我们不能在这里止步不前对吧。,translated,依恩,d995aa63d4,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#40#12,急いでネロを止めよう,快点去阻止妮诺吧,translated,,5157835b67,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#42#12,うん、少しでも早い方がいいよね。,嗯，哪怕能提早一点也是好的呢。,translated,依恩,6ba3eb4be7,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#44#12,ネロを止めて、みんなを助けなきゃ。,必须阻止妮诺，拯救大家才行。,translated,依恩,b73bdc701e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#47#12,すぐに準備するから、少しだけ待ってて。,我马上就去准备，稍微等我一下下哦。,translated,依恩,fcd7752da9,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#58#12,お待たせ。,久等了。,translated,依恩,7cfa5c4bf8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#59#12,その服って……,这身衣服是……,translated,,ba6f427e74,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#61#12,"うん、皇帝陛下に謁見する前、
+レナルルさんが見繕ってくれた服だよ。","嗯，这是在觐见皇帝陛下之前，
+蕾娜露露小姐替我挑选的衣服哦。",translated,依恩,2bcf2394bd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#62#12,"すごく大切なことだから、ちゃんとした
+格好をした方がいいかな、って思って。","因为是极其重要的事情，所以我想着
+还是穿得端正得体一些比较好吧。",translated,依恩,564c10e089,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#65#12,"……あのね、端末の電源を落とす前に
+一つ伝えておきたいことがあるの。","……那个啊，在关掉终端电源之前，
+有一件事我想先传达给你。",translated,依恩,67ac92d3c3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#66#12,"あなたの言葉を……想いを信じてないわけじゃ
+ない。でも、やっぱり不安はあるの。","并不是我不相信你的话语……你的心意。
+但是，心中果然还是有着不安。",translated,依恩,32ba7f3013,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#67#12,"もしかしたら、接続が上手くいかないかも
+しれない。上手くいったとしても、
+あなたじゃないかもしれない。","说不定，连接无法顺利建立。
+就算顺利建立了，
+屏幕对面的人说不定也不再是你。",translated,依恩,8bfed80657,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending13.txt#68#12,"どんなに大丈夫って思っても、
+心の隅ではそんな蟠りが残ってる。","无论我多么坚信没问题，
+在内心的角落里依然残留着这份芥蒂。",translated,依恩,e8f0060e9e,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#69#12,だからどうか、わたしの想いを聞いてほしい。,所以请你，务必倾听我的心愿。,translated,依恩,1af5158b60,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#72#12,わたし、結城寧はここに誓います。,我，结城宁在此立誓。,translated,依恩,e908833fa9,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#73#12,"このセカイを、大切な人たちを助けるまで、
+イオナサル・ククルル・プリシェールで
+あり続けることを……。","在拯救这个世界、拯救重要的人们之前，
+我将一如既往地
+作为依欧娜萨鲁・库库鲁鲁・普立薛尔而活……。",translated,依恩,a2d4265341,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_ending13.txt#74#12,"そして、どんなことがあったとしても
+前を向いて進み続けます。","并且，无论遭遇任何磨难，
+我都将昂首阔步、勇往直前。",translated,依恩,1943b37239,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#75#12,"それが、わたしを救ってくれた人たちへの
+恩返しであり――","因为这不仅是对拯救了我的大家
+做出的报恩――",translated,依恩,79123449ca,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#76#12,"何より、わたしを支えてくれたあなたの想いに
+応えることになるから。","最重要的是，这能够回应
+一直以来支撑着我的你的心意。",translated,依恩,831e4ba1f4,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#77#12,近いけど、遠いセカイにいる大切なあなた――,身处虽近在咫尺、却又遥远世界的重要之人――,translated,依恩,7cfd04a5e7,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#78#12,大好きだよ。ありがとう。,我最喜欢你了。谢谢你。,translated,依恩,d1e7dec499,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#79#12,イオン……,依恩……,translated,,2f09ada818,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#81#12,"ごめんね。こんなこといったら、
+お別れみたいで嫌だったかな？","对不起。说了这样的话，
+是不是听上去像是在道别，让你不舒服了？",translated,依恩,b8dce37782,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#82#12,"このセカイを出る前に、わたしの決意を
+あなたに聞いておいて欲しかったの。","在离开这个世界之前，
+我无论如何都想让你亲耳听听我的决意。",translated,依恩,1cd2923854,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#83#12,"そしたらきっと、この言葉の通り、
+前に進めると思うから……。","因为我觉得，这样一来必定能如誓言所说，
+坚定地向前迈进……。",translated,依恩,70c7c97efb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#84#12,一人になんてしない,我绝不会让你孤单一人,translated,,cc844cbc93,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_ending13.txt#86#12,"ありがとう。
+わたしも、そうなるって信じてるよ。","谢谢你。
+我也坚信一定会是那样的。",translated,依恩,4752742cd3,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_ending13.txt#88#12,また会おうね。,我们一定会再见的。,translated,依恩,8381dece92,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#2#12,…むにゃ……。,……唔喵……。,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#6#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_endingex11.txt#7#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_endingex11.txt#11#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_endingex11.txt#12#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_endingex11.txt#16#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_endingex11.txt#17#12,"<CLY2>このお話をするためにはイオンが室内にいる
+必要があります。","<CLY2>若要进行此对话，
+依恩必须身处室内。",translated,系统文本,b6e55ef407,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/endingevent/ciel_endingex11.txt#21#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_endingex11.txt#26#12,"<CLY2>いまこのお話をすることはできません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法进行此对话。
+请等待依恩的行动发生改变。",translated,系统文本,65c3d76bbe,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/endingevent/ciel_endingex11.txt#32#12,あ、何かお話したいことがあるのかな？,啊，是有什么事情想跟我聊聊吗？,translated,依恩,57beec7732,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#34#12,どうしたの？,怎么了？,translated,依恩,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#35#12,端末を切断しよう,切断终端连接吧,translated,,624d213ee9,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#36#12,ごめん、なんでもない,抱歉，没什么,translated,,1d25acc961,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#41#12,"……本当になんでもないの？
+なんだか、いつもと違うみたい。","……真的什么事都没有吗？
+总觉得，和平时的你不太一样呢。",translated,依恩,e3e87a32c9,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11.txt#42#12,大丈夫。ちょっと呼んでみただけ,没事的。只是试着叫叫你罢了,translated,,911f00513a,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11.txt#44#12,"あなたがそう言うなら……。
+でも、もし何かあったらわたしにも
+相談してね。","既然你都这么说了……
+但是，要是遇到了什么困难，
+也一定要跟我商量哦。",translated,依恩,7617eee23b,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_endingex11_01.txt#2#12,わかった。,明白了。,translated,依恩,587a18b61e,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#3#12,わたしは、みんなを助けにいく。,我要去拯救大家。,translated,依恩,e685d0275c,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#4#12,"あなたが、違うあなたになったとしても、
+わたしはみんなを助けなきゃいけない。","即使你变得不再是你，
+我也必须去拯救大家。",translated,依恩,8b6c87eb5c,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#5#12,それで、良いんだよね……？,这样就可以了吧……？,translated,依恩,32fd5cd2c6,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#6#12,本当はイオンと離れたくない,其实我不想离开依恩,translated,,3aef0c7901,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#8#12,"わたしだって離れたくない。
+あなたとずっと一緒にいたい。","我也不想和你分开。
+我想一直和你在一起。",translated,依恩,c5857677be,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#9#12,"でも、ダメなんだよね。
+ここで立ち止まっちゃダメ……。","但是，这样不行对吧。
+不能在这里停下脚步……。",translated,依恩,3db82a015b,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#10#12,ター坊たちを助けてあげて,去救救阿达他们吧,translated,,06de8f8c49,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#12#12,"うん、ありがとう。
+あなたの想い、絶対に無駄にしないから……。","嗯，谢谢你。
+我绝对不会辜负你的心意……。",translated,依恩,e15e518389,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#24#12,お待たせ。,久等了。,translated,依恩,7cfa5c4bf8,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#25#12,この衣装どうかな？,这套服装怎么样？,translated,依恩,5086533cab,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#26#12,今日のために用意したんだよ。,这可是为了今天特意准备的哦。,translated,依恩,f9941166ce,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#27#12,その服って……,这身衣服是……,translated,,ba6f427e74,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#29#12,"うん、皇帝陛下に謁見する前、
+レナルルさんが見繕ってくれた服だよ。","嗯，这是在觐见皇帝陛下之前，
+蕾娜露露小姐替我挑选的衣服哦。",translated,依恩,2bcf2394bd,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#30#12,"すごく大切なことだから、ちゃんとした
+格好をした方がいいかな、って思って。","因为是极其重要的事情，所以我想着
+还是穿得端正得体一些比较好吧。",translated,依恩,564c10e089,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#33#12,それじゃあ、端末を一度落とすね。,那么，我就先断开一次终端了哦。,translated,依恩,30d233d721,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#35#12,どうしたの？,怎么了？,translated,,6b13f9bdaa,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#37#12,"……ごめんね。
+わたしがもっと端末のことを調べられてたら、
+こんなことにならなかったのに……。","……对不起。
+要是我能再多调查一些终端的事，
+就不会变成现在这样了……。",translated,依恩,7b90e76137,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_endingex11_01.txt#38#12,"わたしにもっと力があれば、このまま繋がった
+ままでいられたかもしれないのに……。","要是我能更有力量的话，说不定就能
+一直像这样与你相连了……。",translated,依恩,0701516d25,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#39#12,前を向いて,向前看吧,translated,,c5e3eedd1f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#41#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#42#12,イオンは下を向いちゃいけない,依恩可不能垂头丧气,translated,,9f31c039da,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#44#12,"そう、だよね。
+悲しい顔でお別れなんてしたくない。","说的也是呢。
+我也不想摆出一副悲伤的面孔道别。",translated,依恩,74451f70f7,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#45#12,"それに、もう会えないって決まったわけじゃ
+ない。","而且，也并没有确定
+再也见不到了。",translated,依恩,5106da4b9a,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#46#12,もし会えなかったとしても……,就算再也见不到……,translated,,cee6c5770f,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#48#12,"うん、あなたとの思い出は胸の中にある。
+わたしは一人なんかじゃない。","嗯，与你的回忆都留在心中。
+我绝不是孤单一人。",translated,依恩,90d6e461cb,br=0 nl=1,2,
+inc/event/res/endingevent/ciel_endingex11_01.txt#49#12,"だから、お別れは言わない。
+どんな形でも、いつかきっと再会できるって、
+そう信じてるから。","所以，我不会说永别的。
+因为我相信，无论以何种形式，
+总有一天我们必定能够重逢。",translated,依恩,f6b2b56129,br=0 nl=2,3,
+inc/event/res/endingevent/ciel_endingex11_01.txt#50#12,またね、イオン,再见啦，依恩,translated,,f98f880cc1,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#52#12,またね、わたしの大切なあなた。,再见啦，我最珍视的你。,translated,依恩,9b34e4f622,br=0 nl=0,1,
+inc/event/res/endingevent/ciel_endingex11_01.txt#54#12,また会えるときを、ずっと待ってるよ。,我一定会一直等待着与你重逢的那一刻。,translated,依恩,b15cd267e5,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#3#12,"あ、そうだ。
+あなたにお話したいことがあったの。","啊，对啦。
+我有件事想要跟你说呢。",translated,依恩,dfdb553416,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#5#12,"えへへ、あのね……
+今日はね、あなたに改めてお礼を言いたくて。","诶嘿嘿，那个呀……
+今天呢，我想郑重地向你道一声谢。",translated,依恩,7c667c0527,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#6#12,"偶然つながっただけのあなたとわたし。
+わたしは最初、自分が誰なのかも
+わからなかった。","仅仅因偶然才联系在一起的你和我。
+最初的时候，我甚至连自己是谁
+都完全搞不清楚。",translated,依恩,8a3b030721,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#7#12,"あなたは、そんなわたしとずっと一緒に
+いてくれて、わたしが誰なのかを思い出す
+手伝いをしてくれた。","而你，却一直陪伴着那样的我，
+帮助我一点一滴地
+回想起自己究竟是谁。",translated,依恩,1420f76840,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#8#12,"ずっと、ずっと……何があっても諦めないで、
+わたしが我が侭言ってつまづいても、
+いつもその先を見続けてくれた。","一直、一直……无论遇到什么都不曾放弃，
+即便我任性妄为摔了跟头，
+你也始终默默注视着未来的前方。",translated,依恩,a827678800,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#9#12,"だからわたしは、自分が誰なのかも、
+本当は何をしなければいけないのかも、
+全部、思い出すことができたの。","正因如此，我才能将自己是谁、
+真正必须去完成的事情究竟是什么，
+全部都回想了起来。",translated,依恩,ef66d79d56,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#10#12,"それだけじゃない。ひとりぼっちのわたしを、
+あなたはいつも支えてくれた。","不仅如此。面对孤苦伶仃的我，
+你一直都在身边支撑着我。",translated,依恩,badbeb2388,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#11#12,"わたしはもう、あなた無しの暮らしなんて
+考えられない、って思うくらいに、
+あなたの想いに支えられて生きてきた。","我已经完全无法想象没有你的生活了，
+我一直都是在你的心意支撑下
+努力生活至今的。",translated,依恩,5464e2134b,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#12#12,"本当にありがとう。
+わたしにとって、あなたは……
+世界一身近な存在、そして――","真的非常感谢你。
+对我而言，你就是……
+世界上最亲近的存在，而且――",translated,依恩,487b58400d,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#13#12,わたしの大切な……かけがえのない人。,是我最珍贵的……不可替代的人。,translated,依恩,9c3bcfd4e4,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#14#12,"……これから、わたしは端末のパワーを
+落として、新たなセカイへ旅立つことに
+なるんだけど……。","……虽然从现在起，
+我必须关掉终端电源，
+踏上前往全新世界的旅途……。",translated,依恩,706dc4dcee,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#15#12,"あなたと、あなたをここに連れてきてくれた
+端末との思い出を、失いたくない。","但与你、以及将你带来这里的终端的回忆，
+我无论如何都不想失去。",translated,依恩,abc47b9f03,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#16#12,"だから、わたし……あなたに、
+あなたとわたしだけの、
+思い出の記憶を送りたいって思ってるの。","所以，我……想要将只属于
+你和我两个人的回忆与记忆，
+全都送给你。",translated,依恩,746e5fa758,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#17#12,"これは、わたしとあなたが一緒に育んできた、
+わたしとあなただけの物語。","这是我和你一同孕育栽培的、
+独属于你和我的故事。",translated,依恩,004a2fc7ca,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#18#12,"だから、あなたとわたし、二人だけの
+宝物にできたらなって……","所以，要是能成为属于你和我两个人的
+珍贵宝物就好了……",translated,依恩,3ac4e4190d,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#19#12,素敵だね！,真棒呢！,translated,,991e026aea,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#20#12,また何か送ってくるの？,又要送什么东西过来了吗？,translated,,1e16f12aa5,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#22#12,本当？　良かった！,真的吗？太好了！,translated,依恩,5f1bd9b8f0,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#23#12,"それでね、わたし、いつもボイスメールって
+いうのを、端末で送っていたと思うんだけど、
+今回は円盤で送りたいなって思ってて。","然后呢，我平时总是通过终端
+给你发送语音邮件对吧，
+这次我想用光盘的形式寄送给你呢。",translated,依恩,0016c1aaf2,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#25#12,"前に、絵本やレシピブックをあなたの世界に
+送ったことがあったよね。
+あれと同じ方法で……","以前我也曾往你的世界寄送过
+绘本和配方书对吧。
+我想用同样的方法……",translated,依恩,63fa3d7536,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#27#12,"あっ、でも、それってもしかして、
+あなたにとっては迷惑だったりする？
+もしそうだったら、ごめんね。","啊，不过，那该不会
+其实对你造成了困扰吧？
+要是那样的话，对不起哦。",translated,依恩,7c168f9b2e,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#30#12,あっ……もしかして、迷惑だった？,啊……该不会，给你添麻烦了吗？,translated,依恩,9512258c47,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#32#12,"前にも絵本やレシピブックを送ったことが
+あったけど、そういえば、あなたが喜んで
+くれているとは限らなかったよね。","以前我也寄送过绘本和配方书，
+但仔细一想，
+也并不代表你一定会为此感到高兴呢。",translated,依恩,f260a24db9,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#34#12,"ごめんね、わたし、勝手に喜んでくれてるって
+思ってたけど、そんなの分からないよね。","对不起哦，我一直擅自以为你会很高兴，
+但那种事情根本无法确知呢。",translated,依恩,54218cc7bc,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#36#12,"だけど、わたし……今回のは、どうしても
+作りたいの。それは、わたしのためでも
+あって――","但是，我……这一次的东西，
+无论如何都想要做出来。
+这也是为了我自己――",translated,依恩,9eb162f2ce,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#37#12,"わたしとあなたが過ごしてきたこの時間を、
+どうしても、残る形で留めておきたいの。","因为我和你一起度过的这段时光，
+我无论如何都想以能够留存的形式铭记下来。",translated,依恩,bc0c048b9c,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#38#12,"だから、もし難しかったら、無理はしないで
+欲しいし、このことは気にしないで欲しいの。","所以，如果觉得为难的话，请不要勉强自己，
+完全不用把这件事放在心上哦。",translated,依恩,bed20ddfbb,br=0 nl=1,2,
+inc/event/res/endingevent/thankscd.txt#39#12,楽しみにしてる,我很期待哦,translated,,ee38efcee8,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#40#12,イオンがやりたいようにすればいい,依恩想怎么做就怎么做吧,translated,,87749f7357,br=0 nl=0,1,
+inc/event/res/endingevent/thankscd.txt#42#12,"えへへ、ありがとう！
+あなたとわたしの、最高の思い出に
+なるように、がんばるからね！","诶嘿嘿，谢谢你！
+为了让它成为属于你和我最棒的回忆，
+我会全力以赴去努力的！",translated,依恩,1a4394206e,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#45#12,"うん、ありがとう。
+あなたとの思い出を、ずっと残しておける
+ように、がんばるからね。","嗯，谢谢你。
+为了能永远留存与你的回忆，
+我会好好努力的哦。",translated,依恩,7e148419b6,br=0 nl=2,3,
+inc/event/res/endingevent/thankscd.txt#47#12,"<CLY2>『７次元INFO』の『イベント情報』に
+『ありがとうCD』が追加されました。","<CLY2>‘7次元INFO’的‘事件信息’中
+追加了‘感谢CD’。",translated,系统文本,a6d4c8daef,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25

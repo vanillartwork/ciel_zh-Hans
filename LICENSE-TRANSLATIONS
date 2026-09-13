@@ -1,0 +1,49 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+WHAT THIS COVERS
+================
+
+  data/zh-Hans/**      the Chinese translations
+  data/glossary/**     the glossary
+  docs/**              the documentation
+  README.md and the other prose files in this repository
+
+You are free to share and adapt this material, for noncommercial
+purposes, as long as you give credit and license what you build
+from it under these same terms.
+
+The software in this repository -- tools/ and installer/ --
+is covered by LICENSE (PolyForm Noncommercial 1.0.0) instead.
+
+
+WHAT THIS DOES NOT COVER
+========================
+
+This license applies only to what this project's contributors
+wrote.  It grants no rights whatsoever in Ciel nosurge DX itself.
+
+In particular:
+
+  * The Japanese source text of the game is not licensed here and
+    is not distributed by this project.  It stays where it is, in
+    the game files, and the tools read it out of the copy you own.
+
+  * The translations are a derivative work of that source text.
+    This project can license its own translation of it; it cannot
+    and does not license the original.  Rights in the original
+    belong to GUST CO., LTD. and KOEI TECMO GAMES CO., LTD.
+
+  * Nothing here grants any right to use the game's art, audio,
+    fonts, code, characters, or trademarks.
+
+  * "Noncommercial" is not the only limit that applies to you.
+    Using this material still requires that you have whatever
+    rights you need in the underlying work.
+
+If the rights holders ask this project to take the translations
+down, it will comply.  See NOTICE.md.

@@ -1,0 +1,566 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevents07/back_kigae_planet.txt#2#12,"それじゃ、服着替えちゃうから、
+ちょっとごめんね。","那我这就去换衣服啦，
+稍等我一下哦。",translated,依恩,c013755ff6,br=0 nl=1,2,
+inc/event/res/dateevents07/back_kigae_planet.txt#8#12,"えへへ。
+いつものわたしに戻っちゃった。","诶嘿嘿。
+变回平时的我啦。",translated,依恩,d1dd68ecd7,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#7#12,"え、ええっ！？
+わたし！？","诶、诶诶！？
+看我吗！？",translated,依恩,f1e68796e9,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#8#12,"そ、そんな…わたしなんて見ても
+全然楽しくないよぅ…？","怎、怎么会……看我这种人
+根本一点意思都没有呀……？",translated,依恩,92a47c9f7e,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#10#12,もっとよく見せて欲しい,想让你再多展示给我看一些,translated,,ee5c0d7719,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#12#12,"…も、もっとって…
+えっと、どんな感じかな？","……再、再仔细看是……
+呃，是要摆成什么姿势呢？",translated,依恩,b819257ad2,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#13#12,こうしてみた方がいい？,这样看会比较好吗？,translated,依恩,b16f2cb577,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#16#12,少しはよく見えるようになったかな…？,这样有没有看得更清楚一些了呢……？,translated,依恩,56dc2d395e,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#17#12,でも、色々操作しにくかったりする？,不过，操作起来会不会不太方便呢？,translated,依恩,502606b454,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#22#12,えっと、そろそろいい…かな？,那个，差不多可以了……吧？,translated,依恩,5e14993759,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#24#12,まだ！！,还要看！！,translated,,9abb7e808c,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#25#12,とても可愛かったよ,非常可爱哦,translated,,8c9b46a2ee,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#27#12,"ええっ……ま、まだ見るの？
+はずかしいってばぁ……。","诶诶……还、还要看吗？
+真的好害羞啦……",translated,依恩,a1b4ac7a2b,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#33#12,それじゃ、元に戻すね。,那么，我就变回原样咯。,translated,依恩,6866eb0001,br=0 nl=0,1,
+inc/event/res/dateevents07/date_bonus_planet.txt#38#12,"ふぅ。
+なんか、すごく恥ずかしかったよぅ？","呼。
+总觉得超级害羞的呀？",translated,依恩,135a06603a,br=0 nl=1,2,
+inc/event/res/dateevents07/date_bonus_planet.txt#40#12,"でも、あなたと長い時間一緒にいられて
+ちょっと幸せだったかも。","不过，能和你在一起待这么久，
+感觉稍微有点幸福呢。",translated,依恩,43e647054d,br=0 nl=1,2,
+inc/event/res/dateevents07/date_initm_planet.txt#5#12,"えへへ…ごめんね、何度も呼んじゃって。
+まだ忙しい感じかな？","诶嘿嘿……抱歉哦，叫了你好多次。
+你现在还是挺忙的吗？",translated,依恩,8680e7dd73,br=0 nl=1,2,
+inc/event/res/dateevents07/date_initm_planet.txt#6#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents07/date_initm_planet.txt#7#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#8#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#10#12,"えっと…良かったら、そろそろ…行かない？
+…デート。","那个……如果可以的话，差不多该……去了吗？
+……去约会。",translated,依恩,6579c9c094,br=0 nl=1,2,
+inc/event/res/dateevents07/date_initm_planet.txt#11#12,行こう,走吧,translated,,c3e9e3017a,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#12#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#14#12,お待たせ。プラネタリウムに行こう。,久等了。我们去天文馆吧。,translated,,060db72f81,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#16#12,いますぐ行こう,现在就走吧,translated,,63627d8fa2,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#17#12,もうちょっと後でもいいかな？,再稍微等一会儿可以吗？,translated,,27681ab4c1,br=0 nl=0,1,
+inc/event/res/dateevents07/date_initm_planet.txt#22#12,"やったぁ♪
+それじゃ、今から支度するから
+ちょっと待っててね！","太好啦♪
+那我这就去准备一下，
+稍微等我一会儿哦！",translated,依恩,069f0a3417,br=0 nl=2,3,
+inc/event/res/dateevents07/date_initm_planet.txt#45#12,"あ、今忙しかったんだ。
+それじゃあ、また誘ってみるね。","啊，现在很忙呀。
+那等晚点我再来约你哦。",translated,依恩,7676a528bd,br=0 nl=1,2,
+inc/event/res/dateevents07/date_initm_planet.txt#47#12,"<CLY2>イオンとプラネタリウムに行く約束を
+しました。","<CLY2>和依恩约好了
+一起去天文馆。",translated,系统文本,0710144044,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents07/date_initt_planet.txt#1#12,<CLBU>…あっ！　いたいた♪,<CLBU>……啊！你在呀♪,translated,依恩,578125f733,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/date_init_planet.txt#2#12,…むにゃ……。,……唔喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#5#12,<CLY2>イオンは現在お出かけ中です。,<CLY2>依恩目前正在外出中。,translated,系统文本,1194137fe4,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents07/date_init_planet.txt#6#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents07/date_init_planet.txt#9#12,<CLY2>イオンは現在入浴中です。,<CLY2>依恩目前正在入浴中。,translated,系统文本,7823b43700,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents07/date_init_planet.txt#10#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents07/date_init_planet.txt#13#12,<CLY2>イオンは現在お手洗いです。,<CLY2>依恩目前正在洗手间。,translated,系统文本,ebf1e157a1,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents07/date_init_planet.txt#14#12,"<CLY2>デートに行くためにはイオンが室内にいる
+必要があります。","<CLY2>若要前去约会，依恩必须
+身处室内。",translated,系统文本,3ce5b3c66f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
+inc/event/res/dateevents07/date_init_planet.txt#17#12,<CLY2>イオンは現在着替え中です。,<CLY2>依恩目前正在换衣服。,translated,系统文本,14f32834ab,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/dateevents07/date_init_planet.txt#21#12,"<CLY2>いまはデートに行くことができません。
+イオンの行動が切り替わるまで待ちましょう。","<CLY2>当前无法前去约会。
+请等待依恩切换行动状态。",translated,系统文本,78fa135304,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
+inc/event/res/dateevents07/date_init_planet.txt#34#12,イオンとプラネタリウムに行く,和依恩去天文馆,translated,,fd4deb64aa,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#35#12,やっぱりやめる,还是不去了,translated,,1c6ecf5e26,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#39#12,"ああっ！
+来た～っ♪","啊！
+来啦～♪",translated,依恩,ed618f726e,br=0 nl=1,2,
+inc/event/res/dateevents07/date_init_planet.txt#45#12,ねえねえ、いる？,呐呐，你在吗？,translated,依恩,51dc8454a9,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#47#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#48#12,あ・な・た～♪,你～♪,translated,依恩,4535f4c308,br=0 nl=0,1,
+inc/event/res/dateevents07/date_init_planet.txt#50#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego01.txt#6#12,"あっ！
+丁度いいところに！","啊！
+你来得正好！",translated,依恩,5d9e1364ab,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_datego01.txt#8#12,えへへ♪　お待たせ～。,诶嘿嘿♪ 久等啦～,translated,依恩,569d7bf936,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego02.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego02.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_datego02.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego02.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego02.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego03.txt#6#12,…そうだ。,……对啦。,translated,依恩,bd190ed350,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego03.txt#8#12,"ねえねえ、あなた～？
+いる～？","喂喂，亲爱的～？
+你在吗～？",translated,依恩,8f8da343da,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_datego03.txt#10#12,いたらコンコン♪ってして～。,在的话就咚咚♪敲敲门嘛～,translated,依恩,470c4582f6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego03.txt#12#12,…いないかな？,……不在吗？,translated,依恩,9eaa66183f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_datego03.txt#14#12,残念。また後で呼んでみよっと。,真遗憾。等会儿再试着叫叫看吧。,translated,依恩,e767bba30a,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#1#12,急に呼び出しちゃってごめんね。,突然叫你过来，不好意思哦。,translated,依恩,4e2df243d3,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#2#12,"あのね、その…
+大した用事じゃ無いんだけど…","那个呢，其实……
+虽然不是什么要紧的事……",translated,依恩,b94d416c6a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_dategom.txt#3#12,その、ね…ほら……えっと…,那个，你看……就是……那个……,translated,依恩,16a24a569b,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#4#12,"また、デートしたいな～とか
+思っちゃったりして…その……","我又有点想去约会了呢～
+这么想着……那个……",translated,依恩,2a85ff075b,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_dategom.txt#5#12,"ちょっと、プラネタリウムとか
+行ってみたくなっちゃって…えへへ……","我突然有点想去天文馆之类的地方……
+诶嘿嘿……",translated,依恩,ddbcc5181a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_dategom.txt#6#12,"あ、それで！
+予定…どうかな？","啊，所以说！
+你的安排……怎么样呀？",translated,依恩,b35d0d8293,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_dategom.txt#7#12,もちろん大丈夫,当然没问题,translated,,05b691bb77,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#8#12,ちょっと無理かも,现在可能有点不太方便,translated,,fe4e96fc38,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#10#12,"ほ、ほんと！？　嬉しい！！
+またあなたとプラネタリウムに
+行けるんだね！","真、真的吗！？太高兴了！！
+又能和你一起去
+天文馆了呢！",translated,依恩,52284e0f5a,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_dategom.txt#15#12,そっかぁ…残念。,这样啊……真可惜。,translated,依恩,c7350af13e,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_dategom.txt#16#12,"それじゃ、また良さそうになった頃に
+声かけるね。","那我等差不多方便的时候
+再来叫你哦。",translated,依恩,381bcd898e,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_dategot.txt#1#12,<CLBU>…あっ！　いたいた！,<CLBU>…啊！在呢在呢！,translated,依恩,3496a72c9c,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_kigae.txt#9#12,"さて、と。
+何を着ていこうかな～。","好――啦。
+穿什么衣服去好呢～",translated,依恩,8c94aa58af,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#10#12,"プラネタリウムってどんなものを
+着てったらいいんだろ……。","去天文馆应该穿
+什么样的衣服去才好呢……",translated,依恩,695cb56cc1,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#11#12,かわいい服で,穿可爱的衣服去,translated,,faa2398bd0,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#12#12,いつも通りのイオンで,像平时一样的依恩就好,translated,,40776a9403,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#14#12,…うーん………,……唔～……,translated,依恩,559821e472,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#17#12,"わたしが持っているので、
+かわいい服っていうと……。","我有的衣服里面，
+称得上可爱的衣服的话……",translated,依恩,657b8bf38d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#24#12,ポーラーズメモリーでいいかな。,穿北极星记忆应该挺好吧。,translated,依恩,7b95783da0,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#26#12,"ちょうど今着てるし、
+これならすぐに出られるもんね。","正好现在就穿着这件，
+这样的话立刻就能出门了呢。",translated,依恩,8b6b410099,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#37#12,かわいい服？,可爱的衣服？,translated,依恩,8bd71479c5,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#38#12,"わたしが持っているので、
+かわいい服っていうと……。","在我拥有的衣服里面，
+要说可爱风的话……",translated,依恩,657b8bf38d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#46#12,……う～ん、ちょうどいいのはないかも。,……唔～，可能没有正合适的呢。,translated,依恩,00876be403,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#47#12,"しかたないから、
+もうこのまま行っちゃおうか。","没办法啦，
+干脆就穿成这样直接去吧。",translated,依恩,30d5069724,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#51#12,"え？
+本当にそれでいいの？","诶？
+真的穿那样就可以了吗？",translated,依恩,8868108ba0,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#52#12,せっかくのデートなのに……。,难得出来约会一次呢……,translated,依恩,d1bd4d407f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#53#12,"そうだ！
+それならポーラーズメモリーにする。","对了！
+那就选北极星记忆吧。",translated,依恩,890ac7b7e0,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#55#12,"ちょうど今着てるし、
+これならすぐに出られるもんね。","正好现在就穿着这件，
+这样的话立刻就能出门了呢。",translated,依恩,8b6b410099,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#57#12,"あなたと出会って、初めて作れた服だし、
+ちょうどいいよね。","这也是和你相遇后做出的第一件衣服，
+穿它正好合适呢。",translated,依恩,fcc7e4c20c,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#66#12,おまたせ～♪,久等啦～♪,translated,依恩,a17ce62072,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#71#12,…こんな感じだけど、どうかな？,……大概是这种感觉，你觉得怎么样？,translated,依恩,125046c2a6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#72#12,とってもよく似合うよ,非常适合你哦,translated,,ac688ee6fd,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#73#12,かわいい！！,好可爱！！,translated,,7cda497341,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_kigae.txt#75#12,"えへへ…ありがと♪
+わたしもこの服好きだから、嬉しいな。","诶嘿嘿……谢谢你♪
+我也很喜欢这件衣服，好开心哦。",translated,依恩,93894dc723,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_kigae.txt#78#12,"そ、そうかな…？
+なんか、そんなダイレクトに言われたら
+はずかしい…かも…。","是、是吗……？
+被你这么直白地夸奖，
+感觉怪不好意思的……",translated,依恩,b5abbe481e,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_pt02.txt#2#12,ただいまー。,我回来啦～,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt02.txt#4#12,ふ～、ただいまー。,呼～我回来啦～,translated,依恩,997c37b120,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt02.txt#6#12,とうちゃーく。,顺～利抵达。,translated,依恩,0f66b14285,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt03.txt#2#12,プラネタリウム、また一緒に行こうね。,下次再一起去天文馆哦。,translated,依恩,46146056b0,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt03.txt#4#12,また一緒に、遊びに行こうね。,下次再一起去玩哦。,translated,依恩,363a50a402,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt03.txt#6#12,今日は付き合ってくれてありがと。,今天谢谢你陪我一起去。,translated,依恩,94535aaa49,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_pt03.txt#8#12,"今日は楽しかったよ。
+また一緒に行こうね。","今天玩得很开心哦。
+下次再一起去吧。",translated,依恩,f5f99ca764,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#2#12,"ドキドキしてきちゃった。
+ねぇねぇ、早く行こうよぉ。","心跳开始加速了呢。
+呐呐，快点走嘛。",translated,依恩,043504b4da,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#4#12,わぁ……。,哇啊……。,translated,依恩,86acbc5a1b,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#5#12,"あっ、ごめんね。
+つい魅入っちゃった。","啊，对不起哦。
+不知不觉看得入迷了。",translated,依恩,7804e734b9,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#6#12,"でも、こんなにたくさんの星に囲まれたら、
+そうなっちゃうよね？","不过被这么多繁星包围着，
+任谁都会看入迷的对吧？",translated,依恩,6af8edce5a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#7#12,あなたもそうでしょ？,你肯定也是这样吧？,translated,依恩,2ce25df588,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#8#12,星を見るイオンに魅入る,被看星星的依恩迷住了,translated,,cee9358ce6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#9#12,凄く素敵だよね,真的很棒呢,translated,,1e609c72cd,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#11#12,"や、やだ……またそういう恥ずかしいこと
+言うんだから……。","讨、讨厌啦……你又说这种
+让人害羞的话……",translated,依恩,6559085631,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#12#12,"凄く嬉しいけど……でも、せっかくだから
+星の方を見てほしいな。","我虽然很高兴……但难得来一次，
+我还是想让你多看看星星呢。",translated,依恩,24347fa07b,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#15#12,えへへ、やっぱりそう思うよね。,诶嘿嘿，你果然也是这么想的呢。,translated,依恩,774a37e10f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#16#12,"でも、せっかく二人で来たんだから、
+星ばかりに夢中にならないように
+気を付けるよ。","不过难得我们两个人一起来，
+我也会注意别光顾着看星星
+而把你晾在一边的。",translated,依恩,f080d84279,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s01.txt#19#12,"ここのいいところは、普段は見えない星も
+見れるところだよね。","这里的妙处，就在于能看到
+平时看不到的星星呢。",translated,依恩,3dc7402333,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#20#12,"朝の見えない星とか、夜になっても肉眼では
+見えない星とかが、全部わかるんだもん。","早晨看不见的星星，或是到了夜晚
+凭肉眼也看不见的星辰，在这里全都能看清嘛。",translated,依恩,21ea6b0db7,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#21#12,何だか、凄く贅沢な気持ちになれるよ。,总觉得，能体会到一种极其奢侈的心情呢。,translated,依恩,d3d201c6db,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#22#12,"でも、できれば音声解説とかあったら、
+もっと良かったんだけどなぁ……。","不过如果可以的话，要是有语音解说
+那就更棒了呢……",translated,依恩,cf4478f40f,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#23#12,"わたし、星を見るのが好きってだけで、
+星座とかは一つも知らないの。","我只是单纯喜欢看星星，
+关于星座可是一个都不知道呢。",translated,依恩,5baf69016b,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#24#12,"だから、ここで解説してもらって、
+夜に探してみるのも楽しいかなぁって
+思ったんだけど……。","所以我本来在想，要是在这里听了讲解，
+等到了夜晚再去天空中寻找，
+应该也会很有趣吧……",translated,依恩,08dd706851,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s01.txt#25#12,"そういえば、あなたの住んでる世界には、
+どんな星座があるの？","说起来，在你生活的那个世界里，
+都有什么样的星座呢？",translated,依恩,74a0fe545d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#26#12,しし座,狮子座,translated,,e096394221,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#27#12,おとめ座,处女座,translated,,94f8c7fbd8,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#29#12,わぁ、何だかかっこいいね！！,哇，听起来好帅气呢！！,translated,依恩,d04e1094ce,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#30#12,"どんなふうに星が並んでるのか、
+わたしも見てみたいなぁ……。","星星到底是怎样排列起来的，
+我也好想看一看啊……",translated,依恩,d119ef8d15,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#33#12,乙女、ってことは、人だよね？,处女，意思也就是人对吧？,translated,依恩,22f1ea6aab,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#34#12,"そっか、星座って人の形をした物も
+あるんだ？","这样啊，原来星座当中也有
+人形的图案呀？",translated,依恩,86239e7dd8,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#36#12,"あ～あ、こっちにもあなたの知ってる
+星座があればいいのに……。","啊～啊，要是我们这里也有
+你所熟知的星座就好了……",translated,依恩,2de24c15f1,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#37#12,……あっ、そうだ！,……啊，对啦！,translated,依恩,19f35125d3,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#38#12,"それなら、今からわたし達で星座を
+作るっていうのはどう？","既然这样，不如现在由我们自己
+来创造一个星座，你觉得怎么样？",translated,依恩,6e73eb0163,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#39#12,これだけ沢山の星があるんだもん。,毕竟有这么多繁星嘛。,translated,依恩,4160003ffd,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#40#12,"きっと、何かの形に見えるところが
+あるんじゃないかな？","肯定会有看起来
+像某种形状的地方吧？",translated,依恩,9747aeea8e,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#41#12,簡単に作れるものなの？,那是很容易就能创造出来的东西吗？,translated,,90de6feabf,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#43#12,"う～ん……まあ、こじつけみたいな形でも
+問題ないと思うよ？","嗯～……就算形状有点牵强附会，
+我觉得也没关系的哦？",translated,依恩,41a0dcced6,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#44#12,"星座って、どう見たらそうなるのか
+分からないものが多いし。","毕竟所谓的星座，大多也让人搞不懂
+到底怎么看才能看出那个形状的嘛。",translated,依恩,bb82329573,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#45#12,"それに、どんな形でも、あなたと一緒に
+作ってみたいと思ってたの。","而且不管是什么形状，
+我都想和你一起创造出来呢。",translated,依恩,95ca7d2448,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#46#12,"今は端末で繋がってお話してるけど、
+ずっとこうして繋がったままでいられる
+保証は、どこにもないでしょ？","虽然现在我们隔着终端连在一起聊天，
+但谁也没办法保证，
+我们能永远一直像这样连结在一起对吧？",translated,依恩,a28763193e,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s01.txt#47#12,"たぶんそうなったら、わたし……寂しくて
+耐えられないんじゃないかな、って思うの。","我想真到了那时，我……一定会寂寞到
+忍受不了的吧。",translated,依恩,3ae859a714,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#48#12,"だから、あなたと一緒に、
+何か思い出を作っておきたい。","所以，我想和你一起，
+留下些属于我们的回忆。",translated,依恩,1569c8e131,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#49#12,……こんなお話して、ごめんね。,……说了这种沉重的话，对不起哦。,translated,依恩,8c855f3c7b,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#50#12,"でも、どうしても何かしらの形で、
+思い出を残しておきたいの。","可是，无论如何我都想以某种形式，
+把这份回忆铭刻下来。",translated,依恩,4fe123f68d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#52#12,あなたはわたしの……。,因为你是我……,translated,依恩,aa06f621b6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#53#12,……わたしの、とっても大切な人だから。,……是我非常非常重要的人。,translated,依恩,08a80b8027,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#55#12,"大切な人がちゃんといたんだ、って、
+空を見れば思い出せるようにね。","这样一来，只要仰望夜空，就能想起
+曾经有那么一个至关重要的人陪伴着我。",translated,依恩,67a62104b1,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#57#12,"だから、お願い。
+一緒に星座を作って。","所以，拜托你了。
+和我一起创造属于我们的星座吧。",translated,依恩,3be14b69f5,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#58#12,星座に使いたい星はあるの？,有你想用来当星座的星星吗？,translated,,8e359bbdb0,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#59#12,沢山星を使った大作を作ろう,我们用很多星星来创造一部宏伟巨作吧,translated,,b5ead184cc,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#61#12,あっ……う、うん！,啊……嗯、嗯！,translated,依恩,ee22bc81aa,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#62#12,えっと……確かあの辺りに……。,那个……我记得应该在那个方向……,translated,依恩,834e2829f3,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#65#12,"そ、そこまでの大作を作るのは、
+難しいと思うけど……。","要、要做出那么宏伟的巨作，
+我觉得还是挺难的……",translated,依恩,759173d660,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#66#12,"でも、賛成してくれてる、ってことだよね？
+えへへ……それじゃあ……。","不过，这也代表你是赞同的对吧？
+诶嘿嘿……那么……",translated,依恩,90f10bac5f,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#69#12,"見つけた。
+あの大きな赤い星。","找到了。
+那颗大大的红色星星。",translated,依恩,1b073ce431,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#70#12,"わたしの知ってる星の中では、
+一番輝きの強い星なの。","在我认识的星星里面，
+那是光芒最耀眼的一颗哦。",translated,依恩,a554d2abfd,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#71#12,だから、それを中心にして形を作ろうよ。,所以，我们就以它为中心来勾勒形状吧。,translated,依恩,b70fc144bc,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#72#12,目印にもなるから、すぐに見つけやすいし。,也能作为地标，一眼就能找出来呢。,translated,依恩,155fb46b0d,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#73#12,"うん、決まりだね。
+それじゃあちょっと作ってみようか？","嗯，那就这么定啦。
+那么我们这就试着画画看吧？",translated,依恩,bb7b8017c2,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#74#12,そんなことよりイオンを見ていたい,比起那个我更想看着依恩,translated,,a6adbb51cb,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#75#12,早速作ろう,赶紧来创造吧,translated,,0dcdce66d6,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s01.txt#81#12,"えへへ、思ったよりもすごい星座を
+作れちゃったね。","诶嘿嘿，做出了一个
+比想象中还要棒的星座呢。",translated,依恩,fde7d833a0,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#82#12,"わたしもちょっとビックリしたよ。
+まさか周りの星と繋げると、
+あんなに素敵な形になるなんて……。","连我都稍微吓了一跳哦。
+真没想到和周围的星星连起来之后，
+居然会呈现出那么优美的形状……",translated,依恩,0a1a301404,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s01.txt#83#12,"それに、思い出としても、
+とっても素敵な形で残ってくれたよ。","而且作为回忆，
+也以非常美好的形式留存下来了呢。",translated,依恩,98815aa6fc,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#84#12,"……本当に、ありがと。
+わたし、今日のことは忘れないよ。","……真的，非常谢谢你。
+我今天的事绝对不会忘记的。",translated,依恩,4bebc4f71d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s01.txt#90#14,"一緒に星座を作った
+の。とっても素敵な
+形になったよ。","和你一起创造了星座。
+勾勒出了非常优美
+的图案哦。",translated,,a2fc18c20b,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s02.txt#2#12,"それじゃあ、準備はいい？
+出発しよ。","那么，准备好了吗？
+出发吧。",translated,依恩,fce35d7cde,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#4#12,はぁ……。,哈啊……,translated,依恩,1083486be2,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#5#12,"ここに来ると、それだけで心が少し
+軽くなったような気持ちになるよ。","只要来到这里，感觉心里
+好像一下子就轻松了许多呢。",translated,依恩,3a29c8a27b,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#6#12,"綺麗な物に囲まれると、
+自然とそうなっちゃうよね？","只要被美好的事物所包围，
+自然而然就会变成这样对吧？",translated,依恩,eb4943559d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#7#12,"もう少しじっと見ていたいけど、立ってる
+だけだと、手持無沙汰、っていうのかな？","虽然想再多看一会儿，但光是站着的话，
+怎么说呢，总觉得有点不知所措？",translated,依恩,02794bac5f,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#8#12,"そわそわして落ち着かない感じがしちゃう
+から、ちょっと歩こうか？","总觉得坐立不安静不下心来，
+我们稍微走走吧？",translated,依恩,11712ed8de,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#10#12,"こういう時、長椅子があればいいなぁって
+思うよね。","这种时候，总觉得要是有一条长椅
+就好了对吧。",translated,依恩,0174e6366f,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#11#12,"それなら立って見てる時と違って、
+そわそわした感じにならないと思うの。","那样的话比起站着看，
+应该就不会觉得坐立不安了呢。",translated,依恩,150a9d078a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#12#12,……そう思うのって、わたしだけかな？,……会这么想的，只有我一个人吗？,translated,依恩,7b1e03ee38,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#13#12,自分はあまり気にならない,我倒不是特别介意,translated,,01e1e8cc07,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#14#12,自分もそう思う,我也是这么觉得的,translated,,28b5104bdf,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#16#12,"そっか……。
+やっぱりわたしだけなのかな？","这样啊……
+果然只有我一个人这么觉得吗？",translated,依恩,d36ca90460,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#17#12,"でも、じっと見るなら座ってゆっくりと
+眺められた方が、落ち着くと思うけど。","不过要想静静欣赏的话，坐下来慢慢看
+果然还是更能静得下心来吧。",translated,依恩,00196256a5,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#20#12,"やっぱり、じっと見るなら、
+座ってゆっくり見られた方が落ち着くよね。","果然要想静静欣赏的话，
+能坐下来慢慢看会更加沉静放松呢。",translated,依恩,04a1b36155,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#21#12,"ん～……折り畳みのでいいから、
+用意してくれてればいいのに……。","嗯～……哪怕是折叠椅也好，
+要是能准备一把就好了呢……",translated,依恩,70a81f2d65,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#23#12,"あっ、もちろん、
+ここが嫌いってわけじゃないの。","啊，当然，
+我可不是讨厌这里哦。",translated,依恩,8421247a04,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#25#12,"わたしとあなただけに用意された、
+特別な場所だもん。","这可是只为了我和你而准备的、
+独一无二的特别场所嘛。",translated,依恩,abc65108d0,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#27#12,"ねりこさんが特別に用意してくれた
+場所だもん。","这可是妮莉库小姐特意
+为我们准备的场所嘛。",translated,依恩,e19a5b7960,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#29#12,"でも、だからこそもう少し快適に
+過ごしたいなぁ、って思ったの。","不过正因如此，我才希望能在这里
+呆得更加舒服一些嘛。",translated,依恩,48e8e9fb09,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#30#12,えへへ……わがままかな？,诶嘿嘿……我是不是很任性呀？,translated,依恩,76540990c4,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#31#12,それだけここを気に入ってる証拠,这正是你格外中意这里的证明哦,translated,,dcc127edf2,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#33#12,"えへへ、そう思ってもらえるなら
+よかった。","诶嘿嘿，你能这么想
+真是太好啦。",translated,依恩,f7343f76c5,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#34#12,ふぅ…………。,呼…………,translated,依恩,ac6d75282f,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#37#12,……えへへ。,……诶嘿嘿。,translated,依恩,d033e3880e,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#38#12,どうかしたの？,怎么了吗？,translated,,f0189e2263,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#40#12,"うん……こういうのも、悪くはないんじゃ
+ないかなぁ、って思ったの。","嗯……我在想，像这种感觉，
+应该也挺不错的吧。",translated,依恩,7dd91152f3,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#41#12,"賑やかな場所じゃないから、お互い言葉を
+交わさないデート、っていうのかな？","毕竟这里不是热闹的地方，
+该说是彼此一言不发的约会吗？",translated,依恩,37188ff5e7,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#42#12,"ただ星を眺めながら歩くだけのデートって
+いうのも、悪くないと思わない？","只是静静一边看着繁星一边散步的约会，
+你不觉得也很不错吗？",translated,依恩,aebfb3b7dc,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#43#12,"会話がないのは、ちょっとだけ寂しい感じが
+するかもしれない。","没有对话的话，
+或许会让人觉得稍微有那么一点寂寞。",translated,依恩,1248cdf11d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#44#12,でも、こんなに暗い場所だもん。,但是，这里可是这么昏暗的地方嘛。,translated,依恩,4ea5f15b61,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#45#12,"きっとお互いの存在を強く意識して、
+いつもよりドキドキできるんじゃないかな、
+なんて……。","一定会强烈地意识到彼此的存在，
+变得比平时更加心跳不已吧，
+我是这么想的……",translated,依恩,24c7406216,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s02.txt#46#12,"そんなデートも、悪くないと思うの。
+あなたはどう思う？","我觉得那样的约会也挺好的呢。
+你是怎么想的呢？",translated,依恩,609824b082,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#47#12,悪くはないと思う,我觉得挺好的,translated,,377cec46ec,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#48#12,イオンと話したい,我想和依恩说话,translated,,2bcbb7f2bd,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#50#12,やっぱり、あなたもそう思う？,果然你也这么觉得吗？,translated,依恩,35668af914,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#51#12,"他に行ける場所で、そんなデートが
+似合う場所ってないもんね。","毕竟在其他能去的地方里，
+可没有适合那种约会的场所嘛。",translated,依恩,c8410cfbd2,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#52#12,"ここでは他の場所ではできない、
+特別なデートをするのも……。","在这里来一场在其他地方无法实现的、
+特别的约会也很……",translated,依恩,2fc530dc6a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#53#12,"あ……でも、冷静に考えてみたら
+ちょっと難しいかな？","啊……不过冷静下来想想看的话，
+好像稍微有点难？",translated,依恩,2e1b68c38a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#54#12,"だって、ドキドキしちゃってたら、
+星を見ても落ち着かない気がするし。","毕竟要是心跳不已个不停的话，
+就算看着星星肯定也静不下心来呢。",translated,依恩,81e449bc4a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#55#12,"多分、その空気に我慢できなくなって、
+結局お話しちゃうかも。","大概我也会受不了那种安静的气氛，
+结果还是会忍不住开口说话吧。",translated,依恩,2a16f999ac,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#58#12,"お、お話なら、ここじゃないところでも
+いくらでもできると思うけど？","说、说话的话，在别的地方
+不是想要聊多少就能聊多少吗？",translated,依恩,b432fd580a,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#59#12,"わたしは、この場所でしかできないような
+特別なデートをしてみたいなぁ、って
+思うけど……。","我是觉得，很想尝试一下
+只有在这里才能体会的
+特别的约会呢，不过……",translated,依恩,00a17794bf,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s02.txt#60#12,"……でも、あんまり慣れてないことしても、
+居心地が悪くなっちゃうだけかな？","……不过做不习惯的事，
+到头来只会觉得浑身不自在吧？",translated,依恩,bfba2f6fff,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#61#12,"それに、ドキドキし過ぎて星を見てても
+頭に入ってこない気もするし。","而且要是太心跳不已，就算看着星星
+感觉也都完全看不进脑子里去呢。",translated,依恩,21e7229235,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#63#12,"やっぱり、しばらくは今のままの方が
+いいかもしれないね。","果然在一段时间内，
+还是保持现状比较好呢。",translated,依恩,65bc65345f,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#64#12,"それにそういうデートは、その時が来れば
+自然な流れでなると思うし。","而且那样的约会，只要时机成熟了，
+顺其自然就会变成那样了吧。",translated,依恩,85d3cb8914,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#65#12,"いつ来るのかはわからないっていうのも、
+楽しみな感じがしていいよね。","不知道什么时候会到来，
+反而有一种令人期待的新鲜感，很棒呢。",translated,依恩,b6a61ffdcd,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#67#12,"ふぅ……何だか、今日はいつも以上に
+お話しちゃった気がする。","呼……总觉得今天，
+聊了比平时还要多的话呢。",translated,依恩,23cd2f1b45,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#68#12,"のども疲れてきちゃったし、
+今日はそろそろ帰ろうか？","嗓子也觉得有点累了，
+今天我们差不多该回去了吧？",translated,依恩,0dc692f79d,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_s02.txt#69#12,もう少しここでイオンを見つめる,想在这里再多凝视一会儿依恩,translated,,f637009596,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#70#12,帰ろう,回去吧,translated,,b2f8e74c09,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#76#12,"プラネタリウムから帰ってくると、
+急に明るいところに戻ってくるから
+少し目が痛いかも。","从天文馆回来之后，
+因为突然回到明亮的地方，
+眼睛好像稍微有点酸痛呢。",translated,依恩,ff6f03a706,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_s02.txt#77#12,でも、また一緒に沢山の星を見に行こうね。,不过，下次再一起去看满天的繁星吧。,translated,依恩,a188b20ba5,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#78#12,あなたのお誘い、待ってるよ。,我会等着你的邀请哦。,translated,依恩,a38a6f892a,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_s02.txt#83#14,"わたし達には今の
+デートが一番合ってる
+みたい。","现在的约会方式
+似乎才是最适合
+我们的呢。",translated,,95ef75bfbf,br=0 nl=2,3,
+inc/event/res/dateevents07/planet_tch1.txt#4#12,"<CLBU>これだけすごい星空だと、
+今にも降って来そうだよね。","<CLBU>面对这么壮丽的星空，
+感觉星星随时都会坠落下来呢。",translated,依恩,c768332853,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#6#12,<CLBU>も、もし流れ星が頭にあたったら……。,<CLBU>要、要是流星砸到了头上可怎么办……,translated,依恩,4c7549b0e9,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#7#12,なんて、そんなことあるわけないよね。,开玩笑啦，怎么可能会有那种事嘛。,translated,依恩,b0be4a6716,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch1.txt#9#12,"<CLBU>いつか、あなたと本当の星空を
+見れたらいいな。","<CLBU>总有一天，要能和你一起看
+真正的星空就好了呢。",translated,依恩,090bc8c51e,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#10#12,"きっと今このときにも負けないくらい
+素敵な時間になると思うよ。","我想那一定会是一段
+丝毫不逊色于此时此刻的曼妙时光哦。",translated,依恩,6c8f6cefc0,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch1.txt#21#12,"<CLBU>ふふっ、こういう場所で寄り添って
+歩いてみたいね。","<CLBU>呵呵，真想在这样的地方
+依偎着漫步呢。",translated,依恩,ffe3f807b1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#23#12,<CLBU>星空の下ってすごくいい雰囲気だよね。,<CLBU>星空下的气氛真的特别棒呢。,translated,依恩,d8b5aad1a8,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#24#12,"こういうところで肩を抱かれたりしたら、
+ドキッてしちゃうかも。","要是在这种地方被你搂住肩膀，
+我可能会心中一惊呢。",translated,依恩,d7bb393cde,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch1.txt#26#12,<CLBU>腕をギュッてしてくれるの？,<CLBU>想紧紧抱住我的手臂吗？,translated,依恩,14d29c07c2,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#27#12,"ふふっ、嬉しいな。
+なんか……すごく温かい。","呵呵，真高兴。
+总觉得……好温暖。",translated,依恩,f3c90bce88,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch1.txt#33#12,<CLBU>ん？　もしかして手を繋いでみたいの？,<CLBU>嗯？难道说你想和我牵手吗？,translated,依恩,8b87c70dd3,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#35#12,<CLBU>手を繋いで満天の星空を見上げる二人……。,<CLBU>手牵着手仰望满天繁星的两个人……,translated,依恩,d720a1dbdb,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=26
+inc/event/res/dateevents07/planet_tch1.txt#36#12,そういうのって絵になると思わない？,不觉得那样特别像一幅画吗？,translated,依恩,94a8ed09db,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch1.txt#38#12,"<CLBU>あなたの手って大きいのかな？
+それとも小さい？","<CLBU>你的手会很大吗？
+还是比较小巧呢？",translated,依恩,1c439fa421,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#39#12,"いつかあなたと手を繋げるの
+楽しみにしてるね。","我很期待总有一天
+能和你手牵手呢。",translated,依恩,eb3efa69f1,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch1.txt#45#12,<CLBU>っ！？,<CLBU>！？,translated,依恩,751c5b4795,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#46#12,今、変なところ触らなかった？,刚才，你是不是摸了奇怪的地方？,translated,依恩,f3c64894c5,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch1.txt#48#12,<CLBU>きゃっ！,<CLBU>呀！,translated,依恩,5e4f3323dd,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#49#12,"も、もう！
+暗いからってエッチなことしちゃダメだよ！？","真是的！
+就算光线暗也不能做下流的事呀！？",translated,依恩,0358c7e52b,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch1.txt#51#12,<CLBU>なんか胸に視線を感じるんだけど……。,<CLBU>总觉得胸口感受到了视线……,translated,依恩,372ae26a81,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#52#12,もしかしてエッチなことしようとしてる？,难道说你正打算做下流的事吗？,translated,依恩,d4182687f7,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch1.txt#58#12,<CLBU>もう、なんでお腹なの？,<CLBU>真是的，为什么偏偏摸肚子呀？,translated,依恩,fcd2595bea,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch1.txt#59#12,なんかその……ううん、なんでもない。,总觉得那个……没，没什么。,translated,依恩,7bdafdf0a5,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch1.txt#61#12,"<CLBU>こら！
+女の子のお腹を気軽に触っちゃいけません！","<CLBU>不可以！
+怎么能随便摸女孩子的肚子呢！",translated,依恩,8e22c8cf51,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#4#12,"<CLBU>こういう暗い場所でなでてもらうのも
+悪くないかも……。","<CLBU>在这么昏暗的地方被你抚摸，
+感觉好像也不坏呢……",translated,依恩,0df4339ff2,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#6#12,"<CLBU>えへへ、あなたになでてもらうのは
+好きだけど、星空の下でっていうのも
+いつもと違っていいかも♪","<CLBU>诶嘿嘿，我虽然很喜欢被你摸摸，
+但在星空之下抚摸的感觉
+也有别于以往，挺不错的呢♪",translated,依恩,3515801a51,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#8#12,"プラネタリウムでなでてもらうと、
+子供に戻ったような気分になるかも……。","在天文馆里被你摸摸头，
+感觉就像回到了小时候一样呢……",translated,依恩,7d23479624,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch2.txt#19#12,"<CLBU>あはは、なんか肩をなでられると
+くすぐったいよ。","<CLBU>啊哈哈，被你抚摸肩膀
+感觉好痒哦。",translated,依恩,a98a7d790c,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#21#12,"<CLBU>もし暗くて怖くなっちゃったら、
+腕をギュッてしてほしいな。","<CLBU>要是这里太黑让我害怕的话，
+我希望你能紧紧抱住我的手臂呢。",translated,依恩,25df6cdb5f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#22#12,そしたらきっと安心できると思うから。,因为那样一来肯定就能安心了嘛。,translated,依恩,d7e050a40c,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch2.txt#24#12,<CLBU>なんか、ちょっと冷えちゃったね。,<CLBU>总觉得，好像稍微有点凉了呢。,translated,依恩,bb334982f4,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#25#12,"でも、なでてもらえたから
+ちょっと温かくなったかも……。","不过因为被你摸摸，
+感觉好像稍微暖和一点了呢……",translated,依恩,9d3e8c8728,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch2.txt#31#12,<CLBU>えへへ、温かいなぁ。,<CLBU>诶嘿嘿，好温暖啊。,translated,依恩,c529bf7886,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#32#12,"本当に握ってるわけじゃないのに、
+あなたのぬくもりが伝わってくるよ。","明明并没有真正握在一起，
+却能感受到你的体温传递过来呢。",translated,依恩,736cbd2324,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch2.txt#34#12,<CLBU>えへへ、ぎゅっぎゅ♪,<CLBU>诶嘿嘿，抱紧紧♪,translated,依恩,3c4059592d,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#35#12,いつか手を繋いで本当の星空を見ようね。,总有一天我们要手牵手去看真正的星空哦。,translated,依恩,f96ac91360,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch2.txt#37#12,"<CLBU>宇宙にいるみたいだから、
+寒くないか心配してくれてるの？","<CLBU>因为感觉像在宇宙里，
+所以你是在担心我会不会冷吗？",translated,依恩,bedbe0d541,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#38#12,"<CLBU>大丈夫。こうしてあなたが居てくれるだけで、
+十分温かいよ。","<CLBU>没事的。只要像这样有你在身边，
+就已经足够温暖了哦。",translated,依恩,68afe67f2f,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/dateevents07/planet_tch2.txt#44#12,"<CLBU>あっ！
+なんか手つきやらしいよ！","<CLBU>啊！
+你的手法总觉得好下流哦！",translated,依恩,8629fe9582,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#45#12,暗いからって変なことしたら怒るからね？,就算光线暗，你要是敢胡来我可要生气咯？,translated,依恩,f48c2c1987,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch2.txt#47#12,<CLBU>……もう、分かってるからね？,<CLBU>……真是的，我全都知道哦？,translated,依恩,938b0005ca,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#48#12,暗いからってドサクサ紛れに触ったでしょ？,你刚才趁黑趁乱摸了吧？,translated,依恩,6c61698860,br=0 nl=0,1,
+inc/event/res/dateevents07/planet_tch2.txt#50#12,"<CLBU>も、もう！
+そうやってすぐ触るんだから！","<CLBU>真是的！
+你怎么动不动就摸过来啦！",translated,依恩,23d4509952,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#51#12,"本当に触ってるわけじゃなくても
+恥ずかしいものは恥ずかしいんだからね？","就算并不是真的触碰到，
+害羞的事情终究还是会害羞的嘛！",translated,依恩,75b71d0452,br=0 nl=1,2,
+inc/event/res/dateevents07/planet_tch2.txt#57#12,<CLBU>も、もう、こんなところでお腹なでないでよ。,<CLBU>真是的，不要在这种地方摸我的肚子啦。,translated,依恩,d5fd934e27,<CLBU> br=0 nl=0,1,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/dateevents07/planet_tch2.txt#59#12,"<CLBU>せっかく星空綺麗なのにどうして上じゃなくて
+下を見てるの？","<CLBU>难得星空这么漂亮，为什么你不看上面
+反而一直在看下面呀？",translated,依恩,41a9bd7990,<CLBU> br=0 nl=1,2,keep-tags <CLBU>; src-longest-line=27
+inc/event/res/dateevents07/planet_tch2.txt#61#12,<CLBU>わ、わたしそんなに太ってないよ！,<CLBU>我、我又没有那么胖！,translated,依恩,87da2abd4b,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
+inc/event/res/dateevents07/planet_tch2.txt#62#12,暗くて分かり難いとかじゃないからね？,可不是因为天太黑不容易看清哦？,translated,依恩,27f9c99611,br=0 nl=0,1,

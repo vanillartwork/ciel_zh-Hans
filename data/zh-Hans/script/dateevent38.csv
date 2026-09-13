@@ -1,0 +1,453 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent38/apple02.txt#1#12,"そういえば、前に約束してたよね？
+りんご飴を作ったら、
+それを持って縁日デートしよう、って……。","话说回来，之前我们约定过对吧？
+要是做出了苹果糖，
+就带着它一起去逛庙会约会……",translated,依恩,e84926486b,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#2#12,急だけど、今からなんてどうかな？,虽然有点突然，现在去怎么样？,translated,依恩,c1fce449ea,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#3#12,いいよ～,好啊～,translated,,3bcffcac83,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#4#12,ごめん、急過ぎてちょっと……,抱歉，太突然了有点……,translated,,733728c7c2,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#6#12,"えへへ……やっぱり、急過ぎたよね？
+それじゃ、日を改めよっか。","嘿嘿……果然还是太突然了吧？
+那我们就改天再去吧。",translated,依恩,619f038759,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#11#12,"やった！
+急過ぎて断られると思ったから、
+すごく嬉しいよ！","太好啦！
+我还以为太突然会被你拒绝呢，
+真是太开心了！",translated,依恩,5f42fa178f,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#12#12,それじゃ、早速出発しよ。,那么，这就立刻出发吧。,translated,依恩,bd6755b2a0,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#14#12,えへへ、とうちゃーく。,嘿嘿，到――啦。,translated,依恩,50a1e28d5d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#16#12,それじゃ早速だけど……あむっ！,那事不宜迟，我开动啦……啊呜！,translated,依恩,97620d27af,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#17#12,……うん、甘くて美味しい！,……嗯，甜甜的真好吃！,translated,依恩,a4f40bc118,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#18#12,"りんごじゃなくてモロッカの実を使ってるから、
+微妙に味の違いはあるけど……。","因为用的不是苹果而是摩洛卡之实，
+味道上虽然有些许微妙的不同……",translated,依恩,c2678cfad5,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#19#12,"それでも、これはこれですごく美味しいよ。
+作ってよかった。","不过，这个也有这个的美味哦。
+做出来真是太好了。",translated,依恩,5314f08a8e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#21#12,りんご飴とどっちが美味しい？,和苹果糖比哪个更好吃？,translated,,b3927f6f9e,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#23#12,う～ん、どっちかなぁ？,唔～，哪边更好呢？,translated,依恩,6e257a8943,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#24#12,"正直、どっちもすごく美味しいし、
+味も微妙にしか違わないから比べられないよ。","说实话两边都超级好吃，
+味道也只有微小的差异，根本比不出高下嘛。",translated,依恩,82664f5227,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#25#12,"あっ、でもモロッカの実を使ってる方は、
+噛んだ時に果汁がジュワッて口の中に
+広がるの。","啊，不过用摩洛卡之实做出来的，
+在咬下去的时候会有果汁在嘴里
+瞬间溢出来哦。",translated,依恩,7f74945520,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#26#12,"りんごの方はそれがないから、
+甘さではモロッカの実の方が上かな？","苹果糖就没有那种多汁感，
+单论甜度的话，摩洛卡之实应该略胜一筹吧？",translated,依恩,9a51210c22,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#27#12,"でも、りんごの方はモロッカの実とは違った
+優しい甘さがあるから、
+そっちはそっちで美味しいし……。","不过，苹果糖有着不同于摩洛卡之实的
+柔和甜味，
+所以那一边也同样很好吃就是了……",translated,依恩,36bf6e1d53,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#28#12,えへへ……やっぱり、比べられないや。,嘿嘿……果然还是没法分出高下呀。,translated,依恩,b149759bcc,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#29#12,"……そういえば、りんご飴以外にも
+色んな食べ物が売ってるよね？","……话说回来，除了苹果糖之外，
+还有卖各种各样的吃食对吧？",translated,依恩,d7e008cc64,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#30#12,"あっ、食べ物って言っても、
+焼きそばとかフランクフルトみたいな、
+食事系のことじゃないよ？","啊，虽说是吃的，
+但可不是指炒面或者法兰克福香肠
+那种主食类的哦？",translated,依恩,28c2958cd0,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#31#12,"りんご飴みたいな、どちらかっていうと
+お菓子の部類に入る食べ物のことね。","而是像苹果糖那样，
+更偏向零食小吃类的食物啦。",translated,依恩,1a7c6f6f5d,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#32#12,"かき氷と綿飴が王道かもしれないけど、
+それ以外だとどんなのが美味しそうかな？","刨冰和棉花糖虽然可以说是王道，
+不过除此以外还有什么看起来好吃的呢？",translated,依恩,f88e657817,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#34#12,チョコバナナ,巧克力香蕉,translated,,5ed4d4b36e,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#35#12,あんず飴,杏子糖,translated,,8a5638027a,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#37#12,"あっ、そうそうチョコバナナ！
+すっかり忘れてたよ。","啊，对对，巧克力香蕉！
+我都完全忘了呢。",translated,依恩,5905becab3,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#38#12,"バナナをチョコでコーティングしただけ
+なのに、すごく美味しいんだよね。","明明只是把香蕉裹上一层巧克力，
+吃起来却超级美味呢。",translated,依恩,fbeae5dbeb,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#39#12,"色んなシロップや材料をトッピングした
+物とは違って、シンプルだからこその
+美味しさっていうのかな？","不同于那些加了各种糖浆和配料的甜点，
+该说是正因简单才具备的
+独特美味呢？",translated,依恩,127a3d0449,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#40#12,"ああいう食べ物のレシピも、
+もっと増えてくれたら嬉しいんだけど……。","那种小吃的配方，
+要是能再多增加一些就好了……",translated,依恩,45d198d3a2,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#41#12,"簡単に作れてしかも美味しい食べ物って、
+意外と少ないしね。","毕竟做起来简单又好吃的小吃，
+意外地挺少见呢。",translated,依恩,3ab84a91d6,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#44#12,"あんず飴？
+何だろう……それ、聞いたことないかも。","杏子糖？
+那是什么……我好像从没听过呢。",translated,依恩,e0848b4190,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#45#12,"でも、名前からしてりんご飴とほとんど
+変わらない食べ物みたいだね。","不过单听名字，感觉跟苹果糖
+好像没什么太大区别的样子呢。",translated,依恩,5c472938fc,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#46#12,"あんず、っていう果物を、りんご飴みたいに
+水飴で固めた食べ物でしょ？","就是把一种叫杏子的水果，像做苹果糖一样
+用水饴裹起来的食物吧？",translated,依恩,39ca5eb425,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#47#12,"あんず……どんな味がするのか、いつか
+食べれる日が来たら嬉しいな。","杏子……不知道是什么味道，要是哪天
+能够亲口尝尝就好了呢。",translated,依恩,09f52b0c24,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#49#12,"って、何か今日は食べ物の話ばかり
+しちゃってるね。","哎呀，总觉得今天净在聊
+吃的东西了呢。",translated,依恩,f59a87182e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#50#12,"でも、りんご飴がきっかけになって
+来たんだから、こういうのも悪くないかな？","不过，既然是以苹果糖为契机
+才过来的，这样其实也不坏吧？",translated,依恩,ca10c82061,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#51#12,"それに、縁日で売ってる食べ物って
+美味しいものばかりだし。","更何况，在庙会上卖的食物
+全都是美味的小吃呢。",translated,依恩,8ecb608147,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#53#12,高くて安っぽいから好きじゃない,又贵又廉价，我不怎么喜欢,translated,,5631bc343d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#54#12,つい色々食べたくなるよね,不知不觉就会想吃这吃那呢,translated,,6b1e96f619,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#56#12,そ、そんな風に思ってたの？,你、你是那样想的吗？,translated,依恩,36fc9bb1a0,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#57#12,"う～ん……確かに、縁日の食べ物って
+ちょっと高いイメージはあるかもしれないけど、
+安っぽいかな？","唔～……确实，庙会里卖的小吃
+可能多少给人一种偏贵的印象，
+但至于廉价吗？",translated,依恩,9bd94b29a9,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#58#12,"シンプルで具の少ない食べ物が多い、って
+イメージは確かにあるけど……。","确实给人一种简单、配料较少的印象啦，
+不过……",translated,依恩,53cd4a0fbf,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#59#12,"でも、外で食べるのが前提だから、
+食べやすさを考えてそうなってるんじゃ
+ないかな？","但毕竟是以在外面吃为前提的，
+我想也是为了方便食用
+才做成那样的吧？",translated,依恩,df89fa3f78,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#60#12,"まあ、イメージは人それぞれだから変とは
+思わないけど……あなたと一緒に縁日で
+食べ歩きするのは、無理みたいだね。","嘛，每个人看法不同倒也不奇怪啦……
+不过看来想和你一起在庙会上
+边走边吃，是行不通了呢。",translated,依恩,7165206192,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#63#12,うん、本当にその通りだよ。,嗯，真的正如你所说呢。,translated,依恩,b5dfcafacf,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#64#12,"お腹いっぱいでも、焼きそばとかの
+いい匂いを嗅ぐと、ついふらふらと
+屋台に引き寄せられちゃって……。","就算肚子已经饱了，闻到炒面之类的香味，
+还是会不由自主地
+被摊位吸引过去……",translated,依恩,15bc1c432c,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#65#12,"食べ終わると、今度はまたデザートに
+甘いものが欲しくなっちゃうし……。","等吃完之后，又会忍不住想要
+吃点甜品来当餐后甜点……",translated,依恩,678005cec9,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#66#12,"ここが仮想空間でよかったよ。
+現実だったら、縁日デートの度に、
+翌日の体重計を恐れてたはずだもん。","幸好这里是虚拟空间呢。
+要是现实里的话，每次庙会约会，
+第二天我肯定都害怕站上体重秤啦。",translated,依恩,56658e222c,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#69#12,"あっ……話に夢中になってるうちに、
+いつの間にかりんご飴、
+食べきっちゃってたみたい……。","啊……聊得太入迷，
+不知不觉间
+苹果糖好像都被我吃完了……",translated,依恩,a913e79cc9,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#70#12,"りんご飴の美味しさよりも、
+あなたとのお話の楽しさが勝ってたみたいだね。","比起苹果糖的美味，
+果然还是和你聊天的快乐更胜一筹呢。",translated,依恩,b21a9fc277,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#72#12,さてと、それじゃそろそろ帰ろっか。,好啦，那我们差不多该回去喽。,translated,依恩,a4a3ffe8c5,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#74#12,ふぅ、ただいまー。,呼，我回来啦――。,translated,依恩,9fea9aa297,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#75#12,りんご飴、すごく美味しくできててよかったよ。,苹果糖做得超级好吃，真是太好了。,translated,依恩,a0d2cee274,br=0 nl=0,1,
+inc/event/res/dateevent38/apple02.txt#76#12,"また今度作った時には、
+一緒に縁日を歩きにいこうね。","下次要是再做出来的话，
+再一起去逛庙会吧。",translated,依恩,77acfdddd3,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#77#12,"それじゃ、今日はありがと。
+次も楽しみにしてるよ。","那么，今天谢谢你啦。
+我也很期待下一次哦。",translated,依恩,930ef291c2,br=0 nl=1,2,
+inc/event/res/dateevent38/apple02.txt#80#14,"お話が楽しすぎて、
+りんご飴の味が
+わからなかったかも。","聊得太开心了，
+苹果糖是什么味道
+好像都完全没注意到。",translated,,370eb93b7e,br=0 nl=2,3,
+inc/event/res/dateevent38/apple02.txt#81#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent38/apple03.txt#1#12,"りんご飴なら、縁日に行って食べた方が
+美味しく感じられると思うの。","如果是苹果糖的话，我觉得去庙会吃
+会感觉更加美味呢。",translated,依恩,c9008d307e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#2#12,……せっかくだし、ちょっと行ってみない？,……难得做出来了，要不要去逛逛？,translated,依恩,3cbce5271b,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#3#12,行ってみよう,去逛逛吧,translated,,436a566eb7,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#4#12,疲れてるからパス,太累了，这次就算了,translated,,502a7e4ad9,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#6#12,もぉ、面倒くさがり屋さんなんだから……。,真是的，你这个人真怕麻烦呢……,translated,依恩,007464ab8d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#11#12,わがまま言っちゃってごめんね。,任性提要求，对不起哦。,translated,依恩,f0a561b6a8,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#12#12,"それじゃ、りんご飴を持って……
+しゅっぱーつ！","那就带着苹果糖……
+出――发！",translated,依恩,e12831c301,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#14#12,今日も色々見て回りながら食べようかな。,今天也一边四处转转一边吃吧。,translated,依恩,b286e760ad,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#16#12,あむっ……えへへ、甘くて美味しいよ。,啊呜……嘿嘿，甜甜的真好吃。,translated,依恩,57b58b2b9c,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#17#12,"でも、部屋で食べるよりも縁日で食べた方が
+美味しく感じるなんて、不思議だよね？","不过，在庙会吃居然比在房间里吃更美味，
+感觉真不可思议对吧？",translated,依恩,ba0b24a981,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#18#12,"見た目にしても、部屋で見る時よりも
+美味しそうに見えるし……。","而且单看外表，也比在房间里看的时候
+显得更加诱人呢……",translated,依恩,94ba9b716c,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#19#12,"水飴が屋台や提灯の灯りを反射して、
+光って見えるからかもしれないね。","大概是因为水饴反射了摊位和提灯的光芒，
+看起来闪闪发亮的缘故吧。",translated,依恩,ae90b67ef7,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#21#12,その場の雰囲気にあった食べ物だね,是很符合现场气氛的食物呢,translated,,6a7920f244,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#22#12,これならりんご飴の屋台もやれそうだね,这样都能去开苹果糖小摊了呢,translated,,291d036797,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#24#12,うん、まさにその通りだと思うよ。,嗯，我也觉得正如你所说呢。,translated,依恩,c80574ab2e,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#25#12,"逆に、もしこれを教会とか温泉とかで食べたら、
+きっと美味しいと感じられないと思うし。","反过来，要是在教会或者温泉之类的地方吃，
+肯定就不会觉得这么好吃了。",translated,依恩,4eb92ffa79,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#26#12,"場所にあった食べ物を選ぶのって、
+大切なんだね。","选择适合场合的食物，
+真的很重要呢。",translated,依恩,bdf324feb0,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#29#12,あはは、それ面白そうかも。,啊哈哈，听起来挺有意思的呢。,translated,依恩,4a189f0799,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#30#12,"縁日を見て回るのはいつもしてるから、
+今度は屋台で店番デートっていうのも
+いいかもしれないね。","平时都是在庙会到处逛，
+换成在摊位上看店约会
+感觉也挺不错的呢。",translated,依恩,b3917c3d60,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#31#12,"……でもこれ、正確にはりんご飴じゃなくて
+モロッカ飴だから、りんご飴の名前で屋台を
+出したら怒られちゃうかも。","……不过这个严格来说不是苹果糖，
+而是摩洛卡糖，要是用苹果糖的名义摆摊，
+说不定会被人骂的。",translated,依恩,1a5332c612,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#32#12,"とはいっても、今更変えられないし……
+う～ん、最初からモロッカ飴って名前に
+しておけばよかったかなぁ？","虽说如此，事到如今也没法改了……
+唔～，早知道一开始就起名叫
+摩洛卡糖是不是更好呢？",translated,依恩,67b2d51d29,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#34#12,……あっ、向こうに子供がたくさんいるよ。,……啊，那边有好多小孩子哦。,translated,依恩,babaabe4ab,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#35#12,"あはは、屋台で買った物を、
+みんなで食べさせっこしてるみたい。","啊哈哈，他们好像在互相分享
+从摊位上买来的小吃呢。",translated,依恩,87d9f85659,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#36#12,"そっかぁ、お友達が沢山いれば、
+それぞれが買った物を少しずつ
+食べ比べみたいにもできるんだよね？","这样啊，只要有很多朋友在，
+就可以把自己买的东西稍微分一点，
+互相尝尝味道了对吧？",translated,依恩,f11b81e8d1,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#37#12,"ふふっ、みんなにこにこ笑顔で、
+すごく楽しそうだよ。","呵呵，大家都有说有笑的，
+看起来真开心呀。",translated,依恩,082c83210c,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#38#12,……いいなぁ。,……真好啊。,translated,依恩,e0bf99aad4,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#40#12,色んな物を少しずつ食べられるから？,因为能一点点尝到各种好吃的？,translated,,e16f2ef055,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#41#12,友達が大勢いるから？,因为有好多朋友在身边吗？,translated,,750075031c,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#43#12,"ま、まあ、そう思われても仕方のない
+話の流れだったけど……。","嘛、虽说以刚才的话题，被你这么想
+也无可厚非啦……",translated,依恩,9f5c2e0fa2,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#44#12,"そうじゃなくて、お友達がいっぱいいるのが
+いいなぁ、って思ったの。","但不是啦，我是觉得有好多朋友在一起
+真好啊。",translated,依恩,c75b8d1b57,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#47#12,"うん……あんなに沢山のお友達と一緒に
+いられるなんて、すごく羨ましいよ。","嗯……能和那么多朋友聚在一起，
+真的好让人羡慕啊。",translated,依恩,a994dbf674,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#49#12,"わたしの世界には、友達って呼べる人は
+一人もいないから……。","因为在我的世界里，称得上是朋友的人
+连一个都没有呢……",translated,依恩,d9dd50426f,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#50#12,"ねりこさんはお友達っていうよりは、
+色々面倒を見てくれるお姉さんだし……。","奈莉子小姐比起说是朋友，
+更像是处处照顾我的大姐姐……",translated,依恩,1b0a84b945,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#51#12,あなたは、わたしの大切な人だから……。,而你，又是我最最重要的人……,translated,依恩,0883577777,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#52#12,そう考えると……ちょっと寂しいかも。,这么一想……多少有点落寞呢。,translated,依恩,a5df380391,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#53#12,わたしも、お友達欲しいなぁ。,我也好想交朋友啊。,translated,依恩,1bf515796d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#54#12,って、こんなこと言ったらダメだよね？,啊，我说这种话是不是不太好？,translated,依恩,cb16371f02,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#55#12,"ねりこさんとわたしだけの世界で、
+あなたに出会えることができた。","在这个只有奈莉子小姐和我的世界里，
+能够与你相遇。",translated,依恩,85ec1a9ca6,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#56#12,"それだけでもありがたいことなのに、
+更に友達を欲しがろうとするなんて、
+さすがに傲慢過ぎるよね？","明明光是这一点就足以令人感激涕零了，
+我居然还奢求更多的朋友，
+未免也太不知足了吧？",translated,依恩,8fe8a52c41,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#58#12,それが普通。もっと欲しがっても良いよ,这很正常，再贪心一点也可以哦,translated,,76f8ea93b7,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#59#12,自分だけじゃ物足りないんだ？,只有我陪着，你觉得不够吗？,translated,,51090ca2da,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#61#12,"そっか……やっぱり、お友達が欲しいって
+思うのは、悪いことじゃなかったんだ。","这样啊……果然，想交朋友这种想法，
+并不是什么坏事呢。",translated,依恩,55332b8757,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#62#12,"わたしとねりこさん、二人だけしかいない
+世界にずっと住んでるからかな？","大概是因为我一直生活在
+只有我和奈莉子小姐两个人的世界里吧？",translated,依恩,9106c8a9ed,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#63#12,"なんだか、お友達を作りたいって思うのが、
+ちょっといけないことみたいに思えて
+きちゃったの。","不知不觉间，我甚至觉得
+想要交朋友这件事情，
+好像是某种不该有的奢望一样。",translated,依恩,2050b8476c,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#64#12,"でも、あなたの言葉で目が覚めたよ。
+お友達は沢山作りたいって思うのが
+普通なんだね。","不过，你的这番话让我恍然大悟呢。
+想要交很多朋友，
+原来才是最平常不过的心情啊。",translated,依恩,59031dad6f,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#68#12,そ、そんなこと思ってないよ！,我、我绝没有那种意思哦！,translated,依恩,8b80cacc8d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#69#12,"あなたはわたしの大切な人だもん。
+あなたがいてくれなかったら、わたし、
+おかしくなっちゃう……。","你可是我最最重要的人呀。
+要是没有你陪在我身边，我真的
+会崩溃的……",translated,依恩,40e26cca50,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#70#12,"……友達が欲しいなんて言って、ごめんね。
+わたしには、あなたがいてくれれば……
+それで十分だよ。","……对不起，我居然说了想交朋友这种话。
+对我来说，只要有你在……
+这就已经足够了。",translated,依恩,c348854b2c,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#71#12,"あなたがいてくれるって幸せを、
+もっと大切にしないとダメだね。","有你陪伴我的这份幸福，
+我必须更加倍加珍惜才行呢。",translated,依恩,f3f5b74220,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#74#12,"ふぅ……話してる間に、またいつの間にか
+りんご飴を食べきっちゃってたみたい。","呼……聊着聊着，不知不觉间
+苹果糖好像又被我吃光了。",translated,依恩,f5466872f5,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#75#12,話も結構したし、今日はもう帰ろっか？,今天也聊了不少，我们差不多该回去了吧？,translated,依恩,49b3e7f1dc,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#77#12,ただいま～。,我回来啦～。,translated,依恩,c729b204d5,br=0 nl=0,1,
+inc/event/res/dateevent38/apple03.txt#78#12,"やっぱり、縁日で食べるりんご飴は、
+部屋で食べるのとは一味違ったね！","果然在庙会上吃的苹果糖，
+和在房间里吃别有一番不同呢！",translated,依恩,b3ba209202,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#79#12,"……って、わたししか食べてないんだから、
+あなたに同意を求めるのは変かな？","……不过，明明只有我一个人在吃，
+还要找你寻求共鸣是不是有点奇怪？",translated,依恩,be54a7aefd,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#80#12,"あなたにも送れたらいいんだけどなぁ……。
+無理なのはわかってるけど、どうしても
+そう思っちゃうよ。","要是能给你也送一份过去就好了呢……
+虽然我知道这不可能，
+但心里总会忍不住这么想。",translated,依恩,458245db63,br=0 nl=2,3,
+inc/event/res/dateevent38/apple03.txt#81#12,"今度はりんご飴を持たないで行く、
+普通のデートがしたいね。","下次希望能不带苹果糖，
+来一场普普通通的约会呢。",translated,依恩,1240668970,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#82#12,"それじゃ、今日はありがと。
+すごく楽しかったよ！","那么，今天谢谢你啦。
+玩得超级开心的！",translated,依恩,3cc8ecf151,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#85#14,"わたしも、できたら
+お友達が欲しいな。","如果可以的话，
+我也好想交朋友啊。",translated,,e1083dae4e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple03.txt#86#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent38/apple04.txt#1#12,"あっ、りんご飴！
+それを食べながら縁日を歩くのって、
+結構好きなんだ。","啊，苹果糖！
+边吃着那个边在庙会里漫步，
+我其实挺喜欢的呢。",translated,依恩,30f34c3362,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#2#12,ねぇねぇ、今から行ってみようよぉ。,呐呐，我们现在就去逛逛嘛。,translated,依恩,2ca2e70469,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#3#12,わがままな奥様の願いを聞こう,那就听听任性小娇妻的愿望吧,translated,,5f605dc080,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#4#12,日を改めてもらえるとありがたい,要是能改天再去就帮大忙了,translated,,6363b18b0d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#6#12,"何か予定があるのかな？
+それなら、また今度にしよ。","是有什么安排吗？
+既然这样，那就改天再去吧。",translated,依恩,f7014705f2,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#11#12,"もぉ、またそういうこと言って……。
+でも、美味しいりんご飴を食べられるから
+いいもーん。","真是的，你又说这种话……
+不过，反正能吃到美味的苹果糖，
+我才不管呢――",translated,依恩,0cd269f2ec,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#12#12,それじゃ出発しよ。,那我们出发吧。,translated,依恩,c4564cd3e5,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#14#12,"えへへ……早速食べよっと。
+いただきまーす！","嘿嘿……我马上就要吃喽。
+我开动啦――！",translated,依恩,a10e18f222,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#16#12,あむっ……。,啊呜……,translated,依恩,4cd1fad177,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#17#12,"んふふ、美味し～……。
+すごく幸せな甘さが口の中いっぱいに
+広がるよぉ。","唔呵呵，好好吃～……
+无比幸福的甜味
+在口中满满地蔓延开来了呢。",translated,依恩,aaf6cf8c91,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#18#12,"こういう美味しいお菓子、もっともっと
+たくさん作れるようになりたいな。","这样美味的点心，真希望能学会
+做出更多更多来呢。",translated,依恩,8c3910e7e4,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#19#12,"……って、ごめんね。
+わたしばっかり食べちゃってて……。","……啊，对不起哦。
+明明只有我一个人在大吃特吃……",translated,依恩,5c62327885,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#20#12,"食べさせてあげることができないからって、
+わたしばっかり食べてるのって、
+やっぱり少し申しわけない気がするよ。","虽然没法分给你吃，
+但只有我一个人在那里吃，
+总觉得心里有些过意不去呢。",translated,依恩,e686e3b29e,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#21#12,"……そういえば、わたしがこんなふうに
+何かを食べてる時って、あなたはそっちで
+どんなことしてるの？","……话说回来，每当我像这样
+吃着东西的时候，你在那边
+都在做些什么呢？",translated,依恩,b0ab660e23,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#23#12,こっちも何か食べるようにしてる,我这边也会尽量找点东西吃,translated,,7bb588884a,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#24#12,美味しそうに食べるイオンを見つめてる,看着依昂吃得很香的样子,translated,,2c7f33fdf8,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#26#12,"そっか……よかった。
+それを聞けて、少しだけ安心したよ。","这样啊……太好了。
+听你这么说，我稍微安心了一点呢。",translated,依恩,f0c55ccfc2,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#27#12,"でも、そうなるとこっちから見えないのが
+ちょっと残念かな？","不过，那样的话我看不到你那边，
+感觉有点遗憾呢？",translated,依恩,15caa483d6,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#28#12,"あなたの方は何を食べてるのか、
+やっぱり気になるもん。","因为你到底在吃些什么，
+我果然还是很好奇嘛。",translated,依恩,cdbb0ec32e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#31#12,"ま、まあ、仕方ないのはわかるけど……
+やっぱり、食べてるところを見られてると
+思うと、ちょっと恥ずかしいかも。","嘛、虽然我也明白这也是没办法的事……
+不过一想到自己吃东西的样子被你看着，
+还是觉得有点害羞呢。",translated,依恩,1b4666bee9,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#32#12,"あなたも何か食べながらの方が、
+一緒に縁日を見て回ってる、って
+気持ちになれると思うんだけどなぁ……。","感觉要是你也一边吃着什么的话，
+会更有两个人一起在逛庙会的氛围
+就是了呢……",translated,依恩,bf98ae360d,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#34#12,"でも、やっぱり一番いいのは、
+こっちの食べ物をあなたにも
+食べてもらえることだよね？","不过，果然最好的还是
+能让你也尝尝
+我这边的食物对吧？",translated,依恩,67a3510ea7,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#35#12,"それができたら、りんご飴をあなたにも
+一口、あーん、って食べさせてあげたり
+できるのに……。","要是能做到的话，我也能把苹果糖
+“啊――”地喂你吃上一口，
+就能像那样做了呢……",translated,依恩,da8ecc794e,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#36#12,"縁日で食べるりんご飴は美味しいけど、
+あなたと一緒に食べられたら、
+もっと美味しくなると思うの。","在庙会上吃苹果糖虽然很美味，
+但如果能和你一起吃的话，
+我想一定会更加美味的。",translated,依恩,b8353e2aaf,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#37#12,"……そう考えると、何だか今の味に
+満足できなくなってきちゃったかも……。","……这么一想，总觉得对现在的味道
+有点无法满足起来了呢……",translated,依恩,c07e8a6eba,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#39#12,食べ飽きただけじゃない？,纯粹只是吃腻了吧？,translated,,eae4b81b52,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#40#12,そう言わずに、もう一口齧ってみて,别这么说，再咬一口试试看嘛,translated,,7e254d9ebf,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#42#12,"そんな食べ飽きるほど食べてるつもりは
+ないんだけど……。","我可没有吃到会腻的程度哦……
+根本没有那种打算嘛。",translated,依恩,f041a192ce,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#43#12,"でも、そう言うってことは、あなたからは
+食べ飽きるほど食べてるように見える、
+ってことなのかな？","不过你既然这么说，难道在你看里，
+我已经吃得像是腻了一样，
+是这个意思吗？",translated,依恩,f34ec1c9c7,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#44#12,"だとしたら、もしかして本当に食べ飽きて
+そう感じるだけなのかも……。","要是那样的话，说不定真是我吃腻了
+才会有那种感觉呢……",translated,依恩,26527a9d10,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#45#12,"……もう少し、自分が普段何を食べてるのか
+ちゃんと注意するよ。","……以后我会多注意一下
+自己平时都在吃些什么的。",translated,依恩,9dc395a91e,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#48#12,う、うん……あむっ。,嗯、嗯……啊呜。,translated,依恩,f03996f0aa,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#49#12,……えへへ、やっぱり美味しいよ。,……嘿嘿，果然还是很好吃呀。,translated,依恩,efe9bedc36,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#50#12,"あなたと食べられないのは残念だけど、
+それでりんご飴の味に満足できないなんて
+言うのは、よくなかったね。","虽然不能和你一起吃很遗憾，
+但因此就说对苹果糖的味道不满意，
+确实是我不对呢。",translated,依恩,8041a821b3,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#51#12,"……でも、いつかはあなたにも食べさせて
+あげたいな。","……不过，总有一天我也想
+让你尝尝看呢。",translated,依恩,acac22680a,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#52#12,"ふふっ、きっと今よりももっともっと、
+デートしてるんだな、って気持ちに
+なれるんだろうね。","呵呵，到时候肯定会比现在更加
+真切地体会到
+我们是真的在约会了吧。",translated,依恩,8fb423ef97,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#56#12,"さてと、りんご飴も食べきっちゃったし、
+そろそろ戻ろっか？","好啦，苹果糖也吃完了，
+我们差不多该回去喽？",translated,依恩,507dced9b8,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#58#12,ごちそうさ……。,我吃饱……,translated,依恩,607704a80d,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#59#12,わわわ、じゃなくて、ただいまだね！,哇哇哇，不对，应该说我回来啦！,translated,依恩,1ad623dd49,br=0 nl=0,1,
+inc/event/res/dateevent38/apple04.txt#60#12,"りんご飴を食べながらだったせいか、
+ついごちそうさまって言いそうに
+なっちゃったよ、えへへ……。","可能是因为边吃着苹果糖边走路，
+差点就脱口而出说吃饱了呢，
+嘿嘿……",translated,依恩,3505e74045,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#61#12,"あなたと一緒に食べられないのは
+残念だけど、また何か食べながら
+縁日を見て回りたいな。","虽然不能和你一起吃有点遗憾，
+但下次还想一边吃着什么
+一边逛庙会呢。",translated,依恩,536c19f045,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#62#12,"それじゃ、今日はありがと。
+そろそろ戻るね。","那么，今天谢谢你啦。
+我差不多该回去了。",translated,依恩,385b22fe69,br=0 nl=1,2,
+inc/event/res/dateevent38/apple04.txt#65#14,"何度食べても、縁日で
+食べるりんご飴の味は
+最高だね！","无论吃多少次，在庙会上
+吃到的苹果糖味道
+都是最棒的呢！",translated,,39cca4eea5,br=0 nl=2,3,
+inc/event/res/dateevent38/apple04.txt#66#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent38/apple_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent38/apple_int.txt#6#12,"縁日に行きたいの？
+んー………どうしようかな…","想去逛庙会吗？
+嗯――……该怎么办好呢……",translated,依恩,85feae2fd3,br=0 nl=1,2,
+inc/event/res/dateevent38/apple_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent38/apple_int.txt#9#12,縁日に行くのはまた今度ね。,去庙会就留到下次吧。,translated,依恩,5665f32549,br=0 nl=0,1,
+inc/event/res/dateevent38/apple_int.txt#10#12,"今日はもうゆっくりと見ていられる
+時間がないから、行っても楽しめなさそう。","今天已经没有时间可以悠闲漫步了，
+就算去了大概也玩不尽兴。",translated,依恩,65ba704c58,br=0 nl=1,2,
+inc/event/res/dateevent38/apple_int.txt#11#12,"やっぱり縁日に行く以上は、
+余裕を持って楽しめるときに行きたいな。","既然要去庙会，果然还是想在
+时间充裕能好好享受的时候去呢。",translated,依恩,7581919092,br=0 nl=1,2,

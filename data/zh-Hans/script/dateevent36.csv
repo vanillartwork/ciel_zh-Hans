@@ -1,0 +1,485 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/dateevent36/mask02.txt#3#12,"うんうん、自分で言うのもなんだけど、
+中々の出来だと思わない？","嗯嗯，虽然由我自己来说有点那什么，
+但你不觉得做得很棒吗？",translated,依恩,0c5c9f63d9,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#4#12,"ちょっと難しかったけど、頑張って作った
+甲斐があったってもんだよ。","虽然稍微有点难度，但感觉真是
+没白费我一番苦心努力制作呢。",translated,依恩,aee58b5281,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#5#12,"っと、それはそうと、これを出してきたって
+ことは、縁日に行きたいってことだよね？","啊，话说回来，你既然把这个拿出来了，
+就说明你想去庙会了吧？",translated,依恩,72150c2073,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#6#12,すぐに行こう,马上出发吧,translated,,d1c325ba59,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#7#12,そういうわけじゃない,倒也不是那个意思,translated,,481fd23284,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#9#12,"そっか。それじゃ、また都合がよくなったら
+行こうね。","这样啊。那么等之后方便了，
+我们再去吧。",translated,依恩,1fd9a12def,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#14#12,"えへへ、もちろんいいよー。
+わたしも早くこれを着けて縁日に
+行きたいなぁ、って思ってたんだもん。","嘿嘿，当然可以啦――
+因为我也早就想着，想快点戴着这个
+去庙会逛逛了嘛。",translated,依恩,88788daf7d,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#15#12,"それじゃあ、早速出発しようよ！
+あ、もちろんお面を忘れたらダメだよ。","那么，我们马上就出发吧！
+啊，可千万不能忘了带面具哦。",translated,依恩,a6e7c0b447,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#17#12,とうちゃーく！,到――啦！,translated,依恩,c8c922f160,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#18#12,"えへへー、それじゃあ早速、縁日散策に
+しゅっぱーつ！","嘿嘿――那么事不宜迟，庙会漫步
+出――发！",translated,依恩,0a1257b9fe,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#21#12,"えへへ……
+ごめんね、いきなりテンション高くて。","嘿嘿……
+对不起哦，突然一下子兴致这么高。",translated,依恩,b6447cee7c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#22#12,"でも、今日は今までと違って、わたしも
+縁日に参加してるんだなぁ、って気になれて
+浮かれちゃってるの。","不过，今天和以往不同，让我觉得
+自己也真正参与进了庙会之中，
+所以有点得意忘形了呢。",translated,依恩,1a50e283d5,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#23#12,やっぱりお面を作ったのは正解だったね。,做这个面具果然是做对了呢。,translated,依恩,33dfec4e77,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#25#12,発想の勝利だね,这就是灵感的胜利呢,translated,,c104835049,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#26#12,大人でもお面をつけていいの？,大人也可以戴面具吗？,translated,,2542b7be8d,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#28#12,"ふふーん、機械弄りを趣味とするわたしは、
+人一倍発想力に優れているのだー！","哼哼～以摆弄机械为爱好的我，
+在创造力上可是常人的两倍哦――！",translated,依恩,01616f9ee4,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#29#12,"なんちゃって、えへへ。
+ちょっと調子に乗ってみましたー。","开玩笑的啦，嘿嘿。
+我稍微有点得意忘形了――",translated,依恩,d9c7ba38f2,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#30#12,"でも発想の勝利っていうよりかは、
+偶然お面屋さんが目に入ったおかげ
+なんだけどね。","不过比起灵感的胜利，
+其实主要是多亏了偶然间
+看到了面具摊呢。",translated,依恩,917a7cbc21,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#31#12,"もしあの時、りんご飴とかチョコバナナを
+見てたら、きっとそっちの方を作ってたと
+思うよ。","如果那时候，看到的是苹果糖或巧克力香蕉，
+我想自己肯定就会去做
+那些东西了吧。",translated,依恩,7d659159a4,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#32#12,"でも、料理は苦手だからレシピカードを
+作るのに苦労するだろうな……。","不过，因为我不擅长做料理，
+制作配方卡的时候大概会吃尽苦头吧……",translated,依恩,c1174d761f,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#33#12,"あっ、チョコバナナは作れるよ？
+バナナに溶かしたチョコをかけるくらい、
+わたしでも簡単にできるからね？","啊，巧克力香蕉我还是会做的哦？
+毕竟只是往香蕉上浇融化的巧克力，
+就连我也能轻松搞定嘛？",translated,依恩,d7ec564414,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#34#12,"いくら料理が苦手と言っても、
+それくらいはできるもん。","就算再怎么不擅长料理，
+那种程度我还是能做到的嘛。",translated,依恩,1fc902070c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#37#12,えっ、ダメなの！？,诶，不行吗！？,translated,依恩,dc0dd596f6,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#38#12,"そんなことないよ。
+だってお面は会場でも普通に
+売ってるんだよ？","没那种事啦。
+因为会场里也有正常在
+卖面具的呀？",translated,依恩,479659c53b,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#39#12,"それに子供しか着けたらいけない、なんて
+お面屋さんのどこにもそんな注意書きは
+見当たらなかったもん。","而且面具摊上也完全没写着
+类似“只有小孩才能戴”
+之类的注意事项嘛。",translated,依恩,0c9254b957,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#40#12,"それに、よくよく見てみると大人でも
+お面を着けてる人って結構いるんだよ？","况且，仔细看一看的话，戴着面具的大人
+其实也是相当多的哦？",translated,依恩,e0938a88ec,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#41#12,"さすがに子供みたいに顔を隠してる人は
+いないけど、ほら、わたしみたいに頭に
+着けてる人は沢山いるもん。","虽然确实没有像小孩子那样把脸遮住的人，
+但你看，像我这样戴在头侧的
+可是大有人在呢。",translated,依恩,a43b05c1ce,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#42#12,"だから、大人だから着けちゃダメ、
+なんてことはないんだよ。","所以，根本就没有什么
+“因为是大人所以不能戴”这回事哦。",translated,依恩,c4bcb3046c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#44#12,"あっ、見て見て！
+ほら、あそこのお店凄いよ！","啊，快看快看！
+你看，那家店好厉害啊！",translated,依恩,cc697a778b,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#45#12,"なんて言ったっけ、あのお菓子。
+雲みたいにフワフワしてて甘い……。","叫什么名字来着，那种点心。
+像云朵一样蓬松轻软、甜甜的……",translated,依恩,24919cb0a1,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#46#12,"そうだ、綿飴！
+美味しいんだけど、食べ終わる頃になると
+口の周りがベタベタになるんだよね～。","对啦，棉花糖！
+虽然很好吃，但每次快吃完的时候，
+嘴边总会变得黏糊糊的呢～",translated,依恩,cdd4362a84,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#47#12,あっ、型抜きだぁ！,啊，是雕糖耶！,translated,依恩,6697b8b7cc,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#48#12,"わたし、型抜きって凄く好きなの。
+精密作業、って感じられるところが
+最高だよね。","我超级喜欢雕糖的。
+能体会到精密作业的感觉，
+这点最棒了对吧。",translated,依恩,5732dcc5c2,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#49#12,"まあ、縁日ではやらないけどね。
+問屋から安く大量に買って、
+家でジックリやるのが好きなの。","不过，我不会在庙会上玩就是了。
+我更喜欢从批发商那里便宜地成批买来，
+在家里安下心来慢慢做呢。",translated,依恩,ebad610b98,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#50#12,"だって、ここでやったらチラッと見ただけで
+評価されちゃうでしょ？","因为在这里玩的话，人家随便看上一眼
+就会给你打分评价了吧？",translated,依恩,d18a9fd7c5,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#51#12,"わたし、精密作業をした後に、
+それを適当に評価されるのが
+許せない人間なの。","我是那种完成精密作业之后，
+要是被随随便便敷衍评价
+就绝对无法原谅的人。",translated,依恩,76536879f2,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#52#12,"その点、わたしはちゃんと顕微鏡を使って
+正確に確認してるもん。","在这一点上，我可是有用显微镜
+仔细准确地确认过的呢。",translated,依恩,5bb7146c33,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#53#12,"んふふ～、これも機械作りをもっと正確に
+行うための修行だよ。","唔呵呵～这也算是为了更精确地制作机械
+而进行的修行哦。",translated,依恩,afd58bba90,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#55#12,努力家だね,真是个努力的人呢,translated,,821c7eefc1,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#56#12,暇人だね,真是个闲人呢,translated,,d55de68218,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#58#12,"好きなもののために自分を磨くのは、
+当然のことだよ。","为了自己喜欢的事物而磨炼自己，
+这是理所当然的嘛。",translated,依恩,c805bcc071,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#59#12,でも、そう言ってもらえると嬉しいな。,不过，你能这么说我很高兴哦。,translated,依恩,1e8a618caa,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#60#12,"覚えてないから確かじゃないけど、
+こういう話をするといつも嫌なことを
+言われてたような気がするの。","虽然我不记得了所以不能确定，
+但总觉得只要一说起这类话题，
+好像总会挨别人难听的话呢。",translated,依恩,c4f85be1c4,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#61#12,バカみたい、とか、時間の無駄、とか。,像是“真傻”、“浪费时间”之类的。,translated,依恩,512e396c8b,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#62#12,"だからかな？
+努力家って言ってもらえたのが
+凄く嬉しく感じるよ。","或许正因如此吧？
+能被你说成是一个努力的人，
+我感到特别开心哦。",translated,依恩,120fd5f6f3,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#63#12,えへへ、あなたに話して正解だったよ。,嘿嘿，跟你说这些真是说对了。,translated,依恩,57e7f9380f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#66#12,……グサッとくること言うんだね？,……你说的话还真扎心呢？,translated,依恩,1b441a5121,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#67#12,"でも、何だか前にも同じようなことを
+言われた気がするよ。","不过，总觉得以前好像也曾被
+别人说过类似的话呢。",translated,依恩,a1bd5eea95,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#68#12,"わたしは暇だからやってたわけじゃ
+ないんだけどなぁ……。","我可不是因为闲得慌
+才去做的呀……",translated,依恩,15da37faa3,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#69#12,……こんな話、するんじゃなかったよ。,……真不该提这种话题呢。,translated,依恩,58ea7b5ba0,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#70#12,"いいや、今の話忘れて。
+せっかく縁日に来てるのに、嫌な思いを
+引きずるのは嫌だもん。","算了，刚才的话就忘了吧。
+难得来逛庙会，我可不想一直沉浸在
+不愉快的心情里嘛。",translated,依恩,109074a6ba,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#72#12,っ！？,唔！？,translated,依恩,8853903117,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#73#12,えへへ……聞こえてないよね？,嘿嘿……你没听到吧？,translated,依恩,beb01723c4,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#74#12,"ほら、あそこの焼きそばのお店から
+いい匂いがしてきて、ちょっとお腹が……。","你看，从那边炒面摊飘来好香的气味，
+肚子就稍微有点……",translated,依恩,cded6070c7,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#75#12,"具もほとんど入ってない焼きそばなのに、
+どうしてこういう場所だと美味しそうに
+思えちゃうんだろう？","明明是几乎没放配料的炒面，
+为什么在这种地方，
+就会觉得看起来格外诱人呢？",translated,依恩,f8b5ae4df2,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#76#12,"う～、ダメダメ、我慢我慢。
+今食べたら帰ってからご飯を食べる気が
+しなくなっちゃうもん。","呜～，不行不行，忍耐忍耐。
+现在吃的话，回去之后肯定就
+没有胃口吃正餐了嘛。",translated,依恩,584a077216,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#77#12,……あっ、そろそろ終わりみたいだね。,……啊，看来差不多快走到头了呢。,translated,依恩,a7b9da072f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#79#12,端から端まで見て歩いちゃったね。,我们从这一头一直逛到了那一头呢。,translated,依恩,cdfc392cce,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#80#12,"今日はいつもよりも縁日に参加してる、
+って気になれたからかな？
+凄く早く感じられたよ。","或许是因为今天比以往更能体会到
+融入庙会的气氛了吧？
+感觉时间过得特别快呢。",translated,依恩,10d9453dd7,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#81#12,"でも、色んなお店も見て周れたし、
+何だか楽しかったなぁ……。","不过，逛了形形色色的各种摊位，
+总觉得真的好开心啊……",translated,依恩,d03637b711,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#83#12,ねえ、やっぱりもう一回周ってみない？,呐，要不要再重新逛一圈看看？,translated,依恩,a1bda80820,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#84#12,"せっかく楽しい気分になってるのに、
+このまま帰るのは勿体無いよ。","难得心情这么好，
+就这样直接回去也太可惜了嘛。",translated,依恩,2b1da04276,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#85#12,"それに、奥まで歩いてきたんだから、
+帰りにまた戻るのは当然のことだしね。","况且，既然一路走到了最里面，
+回去时再原路走回去也是理所当然的嘛。",translated,依恩,72e34acd3a,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#86#12,"うん、決まり！
+それじゃ来た道を戻ろっか。","嗯，说定啦！
+那我们就原路返回吧。",translated,依恩,8a5bdfb575,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#87#12,"早く来ないとはぐれちゃうよ。
+でも、手は繋いであげないからねー。","不快点过来的话可是会走散的哦。
+不过，我可不会和你牵手就是啦――",translated,依恩,134a4f9af6,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#89#12,ふ～……沢山歩いたね～。,呼～……走了好多路呢～,translated,依恩,7ccfd78c7e,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#90#12,"帰りは人が多くてちょっと歩くのが
+大変だったけど、これも縁日の醍醐味だし、
+楽しかったよ。","回去时人很多走起来虽然有点费劲，
+但这也是庙会的精髓所在，
+真的很开心哦。",translated,依恩,dc57456d81,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#91#12,"これだけ楽しめたのは、お面とあなたが
+一緒にいてくれた効果かな？","能玩得这么尽兴，全靠面具和你
+一直陪在我身边的效果吧？",translated,依恩,5b019e7d99,br=0 nl=1,2,
+inc/event/res/dateevent36/mask02.txt#92#12,えへへ、また絶対に行こうね。,嘿嘿，下次一定要再去哦。,translated,依恩,0612dc7a91,br=0 nl=0,1,
+inc/event/res/dateevent36/mask02.txt#95#14,"縁日って楽しいね♪
+ちょっと歩きすぎ
+ちゃったかな？","庙会真开心呢♪
+我是不是走得太久了
+一点呀？",translated,,fe09125315,br=0 nl=2,3,
+inc/event/res/dateevent36/mask02.txt#96#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent36/mask03.txt#5#12,"それを見てると、縁日を見て歩きたく
+なってくるよね？","一看着那个，就忍不住想要
+去庙会逛逛了对吧？",translated,依恩,b9ab7fc4ef,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#6#12,"時間あるなら、今からちょっと
+行ってみようよ。","要是你有时间的话，
+我们现在稍微去一趟看看嘛。",translated,依恩,dbbdfd9070,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#7#12,賛成,赞成,translated,,0ebd8c6be7,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#8#12,ごめん、急用が……,抱歉，有急事……,translated,,edefe924eb,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#10#12,"それならしょうがないよ。
+また時間のある時に行こうね。","那样的话也没办法呢。
+等下次有空的时候再去吧。",translated,依恩,6466379590,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#15#12,それじゃ、出発しよ！,那么，出发吧！,translated,依恩,feb91d021f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#19#12,わわっ！？,哇哇！？,translated,依恩,df2b624710,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#20#12,"今日はいつも以上に騒がしいね。
+一番盛り上がってる時間なのかな？","今天比以往还要热闹呢。
+现在正是一天中最热闹的时段吗？",translated,依恩,ca7c2abda4,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#22#12,"えへへ、でも縁日は静かなのよりも、
+これくらい活気があった方がいいね。","嘿嘿，不过比起安安静静的庙会，
+还是像这样充满活力更好呢。",translated,依恩,618819a0f8,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#23#12,"見て歩いてるだけでも、
+十分楽しく感じられるよ。","光是这么一路看过去，
+就觉得足够开心的了。",translated,依恩,f5495efe05,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#24#12,"本当は、ちょっとお買い物とかも
+してみたい気はするけど……。","虽然其实心里也有点
+想买点东西什么的……",translated,依恩,97cef6121c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#25#12,ほら、買っても持って帰れないでしょ？,毕竟，就算买了也没法带回去对吧？,translated,依恩,80671cfb71,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#26#12,確かにそうだね,确实是这样呢,translated,,65f2165565,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#27#12,食事くらいは楽しめるよ,至少能享受一下美食嘛,translated,,bc3887d98f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#29#12,うん……きつねのお面、買いたかったな。,嗯……本来很想买那个狐狸面具的。,translated,依恩,1eb668d121,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#30#12,"わたしが作ったのは、現実に戻ったら
+消えちゃうんだもん。","因为我自己做的，一旦回到现实
+就会消失掉嘛。",translated,依恩,d2f3b30d79,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#31#12,"だから、代わりにここで買った物を
+持って帰れたらよかったのに……。","所以，要是能换成把这里买的东西
+带回去的话该多好啊……",translated,依恩,2a83d6d57b,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#34#12,"うん、物を持って帰れないなら、
+せめて食事だけは楽しもっか？","嗯，要是不能带东西回去的话，
+至少美食也要好好享受一下吧？",translated,依恩,97370ffcb7,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#35#12,屋台の焼きそばや綿飴は絶品だよ！,摊位上的炒面和棉花糖可是绝品哦！,translated,依恩,3ada510c8b,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#37#12,"……っていうか、何だかまともに歩けなく
+なって来てる気がするんだけど？","……话说回来，我怎么觉得
+好像根本没法正常走路了呢？",translated,依恩,1dd68f36cd,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#38#12,"人が多過ぎて、さっきから真っ直ぐ
+歩くことも出来ない状態だし。","人实在是太多了，从刚才起
+就连走直线都完全办不到了。",translated,依恩,7222de80af,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#40#12,……はぐれないようにした方がいいかな？,……我们是不是最好注意别走散了？,translated,依恩,baffb0245a,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#67#12,はぁ……やっぱり、今日は混み過ぎだよ。,唉……今天果然还是太拥挤了呀。,translated,依恩,131ff5db10,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#68#12,"はぐれちゃったらデートにならないし、
+今日はもう帰ろっか？","要是走散了那就不成约会了，
+今天我们还是先回去吧？",translated,依恩,bcae706982,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#70#12,……何だか、今日は疲れただけだったね。,……总觉得，今天光是觉得累人了呢。,translated,依恩,cf3917e7ff,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#71#12,"もし今度行った時も今日くらい混んでたら、
+その時は手を繋いでもらいたいな。","下次要是去的时候还像今天这么挤，
+到时候我想让你牵着我的手呢。",translated,依恩,46ec5d347b,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#72#12,それなら、はぐれる心配はないと思うし。,那样的话，我想就不用担心走散了。,translated,依恩,358ad57506,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#73#12,"忘れないでくれると嬉しいな。
+それじゃ、今日はありがと。","你要是能记着的话我会很高兴的。
+那么，今天谢谢你啦。",translated,依恩,497107d4bc,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#87#12,"これならどれだけ混んでても、
+はぐれる心配はないね。","这样的话就算再怎么拥挤，
+也不用担心会走散了呢。",translated,依恩,2feb3f2add,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#89#12,"あ、あのね……もうちょっと、
+キュッて握ってほしいかも……。","那、那个……我希望你，
+能稍微再握紧一点点……",translated,依恩,8cbed0c52f,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#90#12,少し力を入れる,稍微用点力,translated,,dec588b8bc,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#91#12,痛がりそうだから今のまま,怕弄疼她所以维持原状,translated,,2fe54b0a9a,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#93#12,んっ……。,嗯……,translated,依恩,564a9f74e2,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#94#12,"うん、これくらいがいいな。
+痛くないけど、しっかり繋がってる感じで、
+すごく安心できるよ。","嗯，这种力度刚刚好呢。
+既不会觉得疼，又能切实感受到相连，
+让人特别安心哦。",translated,依恩,011a608a9a,br=0 nl=2,3,
+inc/event/res/dateevent36/mask03.txt#95#12,"ちゃんと加減して握ってくれてありがと。
+わたしも、しっかり握っておくね。","谢谢你能适度掌握好力度握着我。
+我也会好好抓紧你的呢。",translated,依恩,ed97161e3a,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#98#12,"ちょっとくらい痛いくらいじゃないと、
+人にぶつかった時に離れちゃうと
+思うんだけど……。","我觉得如果不用力到稍微有点疼的程度，
+在撞到别人的时候
+就会被冲散开的呀……",translated,依恩,954774b26a,br=0 nl=2,3,
+inc/event/res/dateevent36/mask03.txt#99#12,"それじゃあ、わたしがぎゅっと
+握っちゃうからいいもん、えへへ……。","那就由我用力紧紧握住你
+就好啦，嘿嘿……",translated,依恩,a1e70c1468,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#101#12,"これでもう安心だね。
+それじゃ、早速何か食べに行こうよ！","这样一来就能安心了呢。
+那么，我们赶快去吃点什么吧！",translated,依恩,fd6b4f53cc,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#103#12,ん～、楽しかったぁ！,唔～，好开心呀！,translated,依恩,f2502062cc,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03.txt#104#12,"あなたが手を握っててくれたから、
+嬉しくてちょっとはしゃぎ過ぎちゃった
+かも……。","因为你一直紧紧牵着我的手，
+我太高兴了可能稍微
+闹得有点过头了……",translated,依恩,f657de52e2,br=0 nl=2,3,
+inc/event/res/dateevent36/mask03.txt#105#12,"色々食べ過ぎちゃって……
+帰ってきたのに、まだお腹の中に
+残っちゃってる感じがするよ。","吃了太多各种各样的东西……
+明明都已经回来了，
+却总感觉肚子里还胀胀的呢。",translated,依恩,3d405a01f0,br=0 nl=2,3,
+inc/event/res/dateevent36/mask03.txt#106#12,"……今度はもう少し空いてる時に、
+手を繋いでゆっくり歩きたいね。","……下次想选一个人没那么多的时候，
+牵着手慢慢散步呢。",translated,依恩,72291a25a5,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#107#12,"今日は本当にありがと。
+すごく楽しかったよ！","今天真的非常感谢你。
+我玩得特别开心哦！",translated,依恩,c0c02e2c21,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03.txt#110#14,"手を握るのって、
+どうしてあんなに
+安心できるのかな？","牵手这种事情，
+为什么会让人感到
+那么安心呢？",translated,,1a7fd0a423,br=0 nl=2,3,
+inc/event/res/dateevent36/mask03.txt#113#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent36/mask03_tch.txt#3#12,"ま、まさか、はぐれないように
+髪の毛を掴んでるの？","难、难道说，为了不走散
+你是在揪着我的头发吗？",translated,依恩,03c648f2b2,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03_tch.txt#4#12,"これだと、ちょっと距離が離れた時、
+すごく痛いことになるんだけど……。","这样的话，万一距离稍微拉开一点，
+可是会变得超级痛的呀……",translated,依恩,77d95d483e,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03_tch.txt#7#12,う～……人が多過ぎるせいだね。,呜～……都是因为人实在太多了呢。,translated,依恩,c9db4b259f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#8#12,あなたの顔、落ち着いて見ていられないよ。,我都没办法静下心来好好看着你的脸了。,translated,依恩,e1eef1bcc7,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#16#12,"えへへ……こうやって並んで歩けば、
+はぐれることは……。","嘿嘿……像这样并肩走着的话，
+就不会走散……",translated,依恩,51423e0928,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03_tch.txt#17#12,"で、でも、二列になって歩くのは
+みんなの邪魔になっちゃうよ。","但、但是两个人并排走的话，
+会挡到大家的去路哦。",translated,依恩,366bd8e242,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03_tch.txt#20#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#21#12,えへへ……手、握っててくれるんだ？,嘿嘿……你愿意牵着我的手吗？,translated,依恩,647673fd4f,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#24#12,"……お腹のお肉を掴んでるから、
+離れない、って言いたいのかな？","……你抓着我肚子上的肉，
+是想说这样就不会走散了吗？",translated,依恩,276dee2980,br=0 nl=1,2,
+inc/event/res/dateevent36/mask03_tch.txt#25#12,もぉ、そんなに太ってないもん！,真是的，我哪有那么胖嘛！,translated,依恩,f0b3cf4302,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#28#12,きゃぁっ！？,呀啊！？,translated,依恩,495713c2a7,br=0 nl=0,1,
+inc/event/res/dateevent36/mask03_tch.txt#29#12,む、胸を掴むなんて、何考えてるの！？,你、你怎么能抓我的胸部，在想什么呢！？,translated,依恩,439cba9ec9,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#5#12,"きつねのお面っていうと、前に縁日に
+行った時のことを思い出すよ。","一说起狐狸面具，我就想起
+之前去庙会时的事情呢。",translated,依恩,321e308f64,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#6#12,また行ってみたいなぁ……。,真想再去一次看看呀……,translated,依恩,2d69a0bee0,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#7#12,今から行ってみない？,现在要不要去看看？,translated,,92fbcfce1e,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#8#12,今度時間を作るよ,下次抽时间去吧,translated,,bfece701e9,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#10#12,うん、楽しみにしてるね。,嗯，我很期待哦。,translated,依恩,0c9c113d87,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#15#12,"いいの！？
+うん、わたしは大賛成だよ！","真的可以吗！？
+嗯，我举双手赞成！",translated,依恩,3f45c6521c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#16#12,それじゃ、早速行こっか。,那么，我们赶快走吧。,translated,依恩,62082524d0,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#20#12,"わわっ！？
+今日も沢山人がいるね。","哇哇！？
+今天也有好多人呢。",translated,依恩,142130bd8f,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#21#12,"それに、何だか人の流れもなんとなく
+早い気がするし……。","而且，总觉得人流的移动速度
+不知为何也挺快的……",translated,依恩,55f38830a2,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#22#12,"……はぐれないように、また前みたいに
+エスコートしてほしいな。","……为了不走散，我希望你能像之前一样
+好好护送我呢。",translated,依恩,51bca4299c,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#49#12,それじゃ、見て回ろっか。,那么，我们到处逛逛吧。,translated,依恩,dc155f4241,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#51#12,"ふふっ……こうやって手を繋いで縁日を
+歩いてると、前よりもドキドキして楽しい
+気持ちになれるよ。","呵呵……像这样牵着手在庙会里走着，
+比之前更加心跳不已，
+心情也格外开心哦。",translated,依恩,d08f95102a,br=0 nl=2,3,
+inc/event/res/dateevent36/mask04.txt#52#12,もっと早く気づければよかったのに……。,要是能早点察觉到这点就好了……,translated,依恩,28789141a8,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#53#12,"あ、でも手を繋ぐ前のデートはつまらな
+かった、って意味じゃないよ？","啊，但我可不是说牵手之前的约会
+很无聊的意思哦？",translated,依恩,2dfcf1b460,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#54#12,"ただ、やっぱりデートなんだから
+ドキドキできた方が、楽しいかなって
+思って……。","只是觉得既然是约会，
+能让人心跳不已的话肯定更开心，
+我是这么觉得的啦……",translated,依恩,71a22adad6,br=0 nl=2,3,
+inc/event/res/dateevent36/mask04.txt#55#12,"え、えへへ……ちょっと、恥ずかしくなって
+きちゃったかも。","诶、嘿嘿……感觉自己好像
+稍微有点害羞起来了呢。",translated,依恩,8a204cfc0d,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#56#12,"顔、赤くなってるかもしれないけど、
+からかったりしないでね？","我的脸可能已经红起来了，
+你可不要取笑我哦？",translated,依恩,7e90a3e4e3,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#58#12,お面で隠さないでね,可不要用面具遮住哦,translated,,fc4c287b29,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#59#12,からかわないけど可愛がるのは？,不取笑你，但是疼爱你可以吗？,translated,,acb8bcf488,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#61#12,ふふっ、大丈夫だよ。,呵呵，没事的啦。,translated,依恩,2289605857,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#62#12,"わたしも最初は、恥ずかしいからお面で
+顔を隠そうと思ってたの。","我一开始也因为太害羞，
+想要用面具把脸遮起来的。",translated,依恩,a14add05f8,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#63#12,"でも、それをするとあなたのことが
+見えにくくなっちゃうから……。","但是那样做的话，
+就会看不清你的样子了嘛……",translated,依恩,e7d662c231,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#64#12,"それなら、恥ずかしいのくらい
+我慢した方がいいもん。","既然这样，比起看不见你，
+稍微忍耐一下害羞反而更好嘛。",translated,依恩,252eba47ae,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#68#12,だ、だから、からかわないでよ。,所、所以说，你别取笑我啦。,translated,依恩,851e073287,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#69#12,"これ以上赤くなった顔を見られるの、
+本当に恥ずかしいんだから……。","要是被你看到脸变得比现在更红的样子，
+那可就真的太让人难为情了……",translated,依恩,8d99ce1272,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#71#12,"……それにしても、何だか人の流れが
+さっきよりも速くなってるような……。","……话说回来，总觉得人群的流动速度
+好像比刚才变得更快了呢……",translated,依恩,f820033a7d,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#72#12,……え？,……诶？,translated,依恩,4e48b2f03b,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#74#12,"……ごめんなさい。
+今日はもう、帰らない？","……对不起。
+今天我们差不多该回去了吧？",translated,依恩,675b6147ba,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#76#12,急にどうしたの？,突然怎么了？,translated,,fa2744d747,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#77#12,疲れちゃった？,是觉得累了吗？,translated,,435e89c933,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#79#12,"うん……今ね、隣を歩いてる人の
+話し声が聞こえてきたの。","嗯……刚才呢，我听到了
+旁边走过的人在说话。",translated,依恩,633e435527,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#82#12,ううん、そうじゃないの。,嗯，是啊。,translated,依恩,277b4ff179,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#83#12,"あのね、今、歩いてる人達の話し声が
+聞こえてきたんだけど……。","那个啊，刚才我听到了
+路上走着的人在闲聊……",translated,依恩,e4898a0cd2,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#85#12,"もうすぐ、打ち上げ花火が始まるんだって。
+縁日も終わり、ってことだね。","听说马上就要放烟花了。
+也就是说庙会快要结束了呢。",translated,依恩,debbb37198,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#86#12,"けど、わたしはその打ち上げ花火、
+見たくないの。","但是，那场烟花，
+我不太想去看呢。",translated,依恩,5b70f626dc,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#87#12,"それを見ちゃったら、本当にもう縁日は
+終わりって気がしちゃって……。","因为要是看了那个，就会真的觉得
+庙会已经彻底结束了……",translated,依恩,b66766ca45,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#88#12,"ここが仮想空間なのはわかってるけど、
+それでも、なんていうか……嫌だな、って。","虽然我知道这里只是虚拟空间，
+但即便如此，怎么说呢……还是很不舍得呢。",translated,依恩,4a51abe22f,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#89#12,そういうわけだから、今日はもう帰ろ。,所以说，今天我们就先回去吧。,translated,依恩,ff9d6bf172,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#91#12,ただいまー。,我回来了――,translated,依恩,c04e320cff,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04.txt#92#12,"今日はごめんね。
+わたしのわがままで、こんな終わり方に
+なっちゃって……。","今天对不起哦。
+都怪我任性，
+才以这种方式草草收场……",translated,依恩,296263f63d,br=0 nl=2,3,
+inc/event/res/dateevent36/mask04.txt#93#12,"でも、またあなたと手を繋いで縁日を
+見て回りたいから、今度は少し早めの
+時間に行けたらいいね。","不过，我还想再和你牵着手逛庙会，
+下次要是能在稍早一点的
+时间过去就好了呢。",translated,依恩,102047d495,br=0 nl=2,3,
+inc/event/res/dateevent36/mask04.txt#94#12,"また誘ってくれるの、楽しみにしてるよ。
+それじゃ、作業に戻るね。","我很期待你下次再邀请我哦。
+那么，我要回去继续干活啦。",translated,依恩,1849f2bf13,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04.txt#97#14,"打ち上げ花火は、
+終わりみたいで
+なんか寂しい。","燃放烟花的话，
+就好像宣告结束一样
+总觉得有点落寞。",translated,,c332244b52,br=0 nl=2,3,
+inc/event/res/dateevent36/mask04.txt#100#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/dateevent36/mask04_tch.txt#3#12,え、えぇっ！？,诶、诶诶！？,translated,依恩,d25407a3cf,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04_tch.txt#4#12,"頭を掴まれるエスコートなんて、
+聞いたことないよぉ……。","抓着人家的头来进行护送什么的，
+我可从来没听说过啊……",translated,依恩,b6f168995b,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#7#12,"ふふっ……そんなに見つめてきて、
+どうかしたの？","呵呵……你这么凝视着我，
+是有什么事吗？",translated,依恩,f7a6feaf34,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#8#12,"それより、早く前の時みたいに
+してほしいな。","比起那个，我希望能快点
+像上次那样对待我呢。",translated,依恩,43f17bed52,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#16#12,"人が一杯いるところでは、腕を組んで
+歩くのは逆に歩きにくいと思うよ？","在人这么多的地方，挽着胳膊
+走反而会很不方便走动的吧？",translated,依恩,3f96d3d782,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#17#12,前みたいなのがいいな。,还是像上次那样比较好呢。,translated,依恩,5667c34d35,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04_tch.txt#20#12,えへへ……うん、この前と一緒だね。,嘿嘿……嗯，和上次一样呢。,translated,依恩,8f23604a0b,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04_tch.txt#21#12,"しっかりと握ってるから、あなたも、
+絶対に離さないように握っててね。","我已经抓得很紧了，所以你也
+一定要抓紧、千万别放开哦。",translated,依恩,31d089b5db,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#24#12,"こ、これって……ダイエットしろ、って
+意味なのかな？","这、这难道是……叫我去节食的
+意思吗？",translated,依恩,b491a0b406,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#25#12,わたし、そんなに太ってないもん！,我才没有那么胖嘛！,translated,依恩,74929180da,br=0 nl=0,1,
+inc/event/res/dateevent36/mask04_tch.txt#28#12,"ちょっ！？
+い、今、胸掴もうとしたでしょ！？","等一下！？
+你、你刚才想抓我胸部对吧！？",translated,依恩,445b36d07e,br=0 nl=1,2,
+inc/event/res/dateevent36/mask04_tch.txt#29#12,"女の子の胸を乱暴に扱う人は
+嫌われちゃうよ？","粗暴对待女孩子胸部的人，
+可是会被讨厌的哦？",translated,依恩,a47c786363,br=0 nl=1,2,
+inc/event/res/dateevent36/mask_int.txt#2#12,…むにゃ……。,……唔咛……,translated,依恩,5eb020476e,br=0 nl=0,1,
+inc/event/res/dateevent36/mask_int.txt#6#12,"縁日に行きたいの？
+んー………どうしようかな…","想去逛庙会吗？
+嗯――……该怎么办好呢……",translated,依恩,85feae2fd3,br=0 nl=1,2,
+inc/event/res/dateevent36/mask_int.txt#7#12,やっぱりまた今度！　ね…？,果然还是下次吧！好…吗？,translated,依恩,28876491de,br=0 nl=0,1,
+inc/event/res/dateevent36/mask_int.txt#9#12,縁日に行くのはまた今度ね。,去庙会就留到下次吧。,translated,依恩,5665f32549,br=0 nl=0,1,
+inc/event/res/dateevent36/mask_int.txt#10#12,"今日はもうゆっくりと見ていられる
+時間がないから、行っても楽しめなさそう。","今天已经没有时间可以悠闲漫步了，
+就算去了大概也玩不尽兴。",translated,依恩,65ba704c58,br=0 nl=1,2,
+inc/event/res/dateevent36/mask_int.txt#11#12,"やっぱり縁日に行く以上は、
+余裕を持って楽しめるときに行きたいな。","既然要去庙会，果然还是想在
+时间充裕能好好享受的时候去呢。",translated,依恩,7581919092,br=0 nl=1,2,

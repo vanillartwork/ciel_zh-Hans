@@ -1,0 +1,1127 @@
+id,jp,zh,status,speaker,src,ctl,lines,note
+inc/event/res/linkarnosurge/linkarno_get01.txt#7#12,"おぉ、とうだいもりもおったか。
+これはちょうど良いときに来たかもしれんの。","哦，灯塔守也在啊。
+老身来得可真是时候呐。",translated,妮莉库,bbb97515ac,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#8#12,"いたも何も、わたしそんなに外に
+出たりしませんよ？","什么在不在的，
+我平时又不大往外跑好不好？",translated,依恩,355cf1b637,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#9#12,"そうは言うが、とうだいもり。
+我が顔を出すとき、お前さんはほとんど
+おらんじゃろうが。","虽说如此，灯塔守啊，
+老身露面的时候，
+你基本上都不在吧。",translated,妮莉库,507a35853f,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#10#12,う～ん、そう言われるとたしかに……。,唔～经你这么一说好像确实……,translated,依恩,4a9972acd9,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#11#12,"まぁ、そんな話はどうでも良いんじゃよ。
+今日はお前さんに見てもらいたい物があって
+来たんじゃ。","算了，那种事先搁一边。
+老身今天来，
+是有个东西想让你看看。",translated,妮莉库,54691dae71,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#12#12,見てもらいたい物、ですか？,想让我看的东西，吗？,translated,依恩,ea1ba40494,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#14#12,"この紙……書いてあるのは暗号文か
+何かですか？","这封纸……上面写的
+是密码文之类的吗？",translated,依恩,02906061f0,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#16#12,"さてのぅ。それがわからんからお前さんに
+見せに来たんじゃよ。","老身哪知道呢。就是因为看不懂，
+才特意拿来给你瞧瞧的呀。",translated,妮莉库,b0d619d6db,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#17#12,"我にはただのゴミにしか見えんが、
+とうだいもりならば、と思っての。","在老身看来不过就是张废纸，
+但想着要是灯塔守的话，或许能懂。",translated,妮莉库,cc36b8c1ba,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#18#12,"宝の地図や重要な資料である可能性も
+一応考えはしたが、読めんことには
+どうしようもないんじゃよ。","老身也考虑过可能是藏宝图
+或者重要资料，
+但读不懂的话就根本没辙呀。",translated,妮莉库,85417d6ebd,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#19#12,宝の地図！？,藏宝图！？,translated,,0a51b44ae7,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#20#12,重要な資料！？,重要资料！？,translated,,7077c56101,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#22#12,"お前さん、そこに食いつくのかの？
+意外とがめついんじゃなぁ。","你这家伙，对那个来劲了吗？
+没想到还挺贪心的嘛。",translated,妮莉库,f602ba98f4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#23#12,"しかし、これは我の例え話じゃ。
+そもそも、そんな物が我の店に放置されとる
+わけがなかろう。","不过，这只是老身打个比方。
+老身的店里怎么可能
+随便放着那种东西嘛。",translated,妮莉库,3cc74161e5,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#26#12,"あぁ、何を期待しておるか分からんが、
+これはあくまでも例えじゃぞ？","啊～虽然不知道你在期待些什么，
+但这终究只是打个比方哦？",translated,妮莉库,9615498cf6,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#27#12,"第一、どんなに重要な資料じゃろうと、
+読めなければ意味があるまい。","再说了，不管多么重要的资料，
+读不懂的话也毫无意义吧。",translated,妮莉库,8b35b88f1f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#32#12,"どうやら、さすがのとうだいもりにも
+何が書いてあるかまでは分からんようじゃな。","看来就算是灯塔守，
+似乎也弄不清上面写了些什么呢。",translated,妮莉库,419c3b708e,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#33#12,残しておいても何じゃし、捨てて――,留着也没什么用，干脆扔――,translated,妮莉库,4d0c859b87,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#35#12,"あの、ねりこさん、
+もしかしたら解読できるかもしれません。","那个，妮莉库小姐，
+我或许能够破译出来。",translated,依恩,3f38e4a724,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#36#12,なんじゃと？,你说什么？,translated,妮莉库,2a1a61f639,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#37#12,"上手く説明できないんですけど、
+じっくり見たら読めそうな気がするんです。","虽然我说不太清楚，
+但总觉得仔细看看的话，应该能读懂。",translated,依恩,66f1a075e2,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#39#12,"ふむ……。
+とうだいもりがそう言うのであれば、
+その紙切れはお前さんにやろう。","唔……
+既然灯塔守都这么说了，
+那张纸条就送给你吧。",translated,妮莉库,6a9e4de2c0,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#40#12,"まぁ、単なるラクガキという可能性も
+捨てきれんが、このままゴミにするのも
+もったいない気がするしの。","虽说也无法排除只是涂鸦的可能性，
+不过就这样当垃圾扔掉，
+总觉得也怪可惜的。",translated,妮莉库,c85d21d431,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#41#12,"ありがとうございます、ねりこさん。
+頑張って解読してみますね。","谢谢你，妮莉库小姐。
+我会努力破译看看的。",translated,依恩,a4e9808474,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#42#12,"礼を言うのはこちらじゃよ。
+我にはできぬことをとうだいもりに
+頼むわけじゃからな。","该道谢的是老身才对。
+毕竟是把老身做不到的事
+拜托给了灯塔守嘛。",translated,妮莉库,33d0280003,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#43#12,イオン頑張って,依恩加油,translated,,7cf0899d6a,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#44#12,他力本願か,指望别人吗,translated,,dfd445961d,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#47#12,"うん、わたし頑張るよ。なんだか、パズルを
+解くみたいでドキドキするんだ。","嗯，我会加油的。总觉得就像是在
+解谜题一样，让人好兴奋啊。",translated,依恩,6e5d258412,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#48#12,"一体、どんなことが書いてあるのか、
+いまから楽しみだよ。","上面究竟写了些什么内容，
+我现在就已经开始期待了呢。",translated,依恩,e45de362f9,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#49#12,"むふふ、気合十分といった様子じゃな。
+これは期待できそうじゃ。","哼哼哼，干劲十足嘛。
+这倒可以好好期待一番了。",translated,妮莉库,1331352bbd,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#52#12,なんじゃお前さん、機嫌でも悪いのか？,怎么了，你这家伙心情不好吗？,translated,妮莉库,44378c66a9,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#53#12,"それに、これは他力本願などではない。
+お前さんの世界の言葉でいうならば、
+適材適所、というやつじゃ。","而且这可不是依赖他人。
+用你们那个世界的话来说，
+这叫人尽其才、人各其位。",translated,妮莉库,326d8e3aea,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get01.txt#56#12,"さてと、目的は果たしたことじゃし、
+我はそろそろ店に戻るとするかの。","好啦，既然目的已经达成，
+老身也差不多该回店里了。",translated,妮莉库,e7b9c3ce34,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#59#12,"とうだいもりよ、何かわかったら
+我にもちゃんと報告するんじゃぞ。","灯塔守啊，要是弄懂了什么，
+可要好好向老身报告哦。",translated,妮莉库,1e64da05bf,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get01.txt#60#12,はい、楽しみにしててください。,好的，敬请期待吧。,translated,依恩,2eef1587a5,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get01.txt#61#12,"では、次もお前さんらの無事な姿が見れる
+ことを祈っておるよ。さらばじゃ。","那么，老身祈祷下次也能见到
+你们平安无事的身影。后会有期啦。",translated,妮莉库,8edf9ecbaa,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#7#12,ボンジュー、お前さんら元気にしとったか？,崩啾，你们俩最近还好吧？,translated,妮莉库,84f7015e75,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#8#12,"いらっしゃい、ねりこさん。
+今日はどうしました？","欢迎光临，妮莉库小姐。
+今天是有什么事吗？",translated,依恩,6fc6f3de10,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#9#12,"どうしたもこうしたもないじゃろう、
+とうだいもり。","还能有什么事啊，
+灯塔守。",translated,妮莉库,ae107f6520,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#10#12,え？,诶？,translated,依恩,5590ff8011,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#11#12,"お前さん、この前渡した紙の暗号は
+解けたのかの？","你这家伙，上次给你的那张纸上的密码
+解出来了吗？",translated,妮莉库,1abd570859,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#12#12,"解読できておったら、
+我にも話す約束じゃったろ？","要是破译出来了，
+说好也要告诉老身的吧？",translated,妮莉库,fa5d4eb36b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#13#12,そ、そうでした！,对、对哦！,translated,依恩,5378d82103,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#15#12,"ふむふむ、なるほどのぅ。
+これが解読できた文章か。","唔唔，原来如此呐。
+这就是破译出来的文章吗。",translated,妮莉库,414f86984b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#17#12,"すいません、ねりこさん。
+すっかり忘れてました。","对不起，妮莉库小姐。
+我给忘得一干二净了。",translated,依恩,f417a302a8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#19#12,"いやいや、構わぬよ。
+所詮、とうだいもりにとっての我は
+その程度じゃったということじゃからの……。","哎呀，无妨无妨。
+反正对灯塔守来说，老身也就是
+这种可有可无的存在罢了吧……",translated,妮莉库,c881166403,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#21#12,"そ、そういうわけじゃないんですっ！
+つい、その……解読できたことで
+安心しちゃってただけなんですっ！","不、不是那样的啦！
+只是破译出来之后，
+不小心就松了一口气而已啦！",translated,依恩,a97f3ffc23,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#23#12,"無理をする必要はないんじゃよ、
+とうだいもり……。","用不着勉强自己的，
+灯塔守……",translated,妮莉库,1f066dea03,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#24#12,うぅ、いじけないでくださいよ～。,唔～请不要闹别扭啦～。,translated,依恩,1dadf4d303,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#25#12,イオンをあまりいじめないで,别太欺负依恩了,translated,,6ea56bde93,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#26#12,イオン、ひどい奴だ,依恩，你这家伙真过分,translated,,ec0d21aa3d,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#28#12,"むふふ、すまんすまん。
+少々調子に乗りすぎたかの。","哼哼哼，抱歉抱歉。
+老身稍微有点得意忘形了呐。",translated,妮莉库,bea5eb002d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#29#12,"とうだいもりよ、いじけておったのは
+ただの冗談じゃ。気にしなくて良いからの。","灯塔守啊，刚才闹别扭
+纯属玩笑而已。不用放在心上哈。",translated,妮莉库,c180fdf11f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#33#12,"えぇっ！
+あなたまでそんな……！","哎！？
+怎么连你也这样……！",translated,依恩,21d803125a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#34#12,"……やれやれ、とうだいもりよ。
+我もあやつも冗談じゃ、冗談。","……哎呀呀，灯塔守啊。
+老身和那家伙都是开玩笑的啦，开玩笑。",translated,妮莉库,f5c4b03c79,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#37#12,"冗談……って、本当ですか？
+本当に怒ってないですか？","开玩笑……是真的吗？
+真的没有生气吗？",translated,依恩,fd47e0f4b5,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#38#12,"ホントじゃ、ホント。
+我を信用せい。","真的啦，真的。
+相信老身吧。",translated,妮莉库,7be924eb59,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#39#12,"何より、このままでは話が脱線したままに
+なってしまいそうじゃしの……。","更何况，再这样下去话题
+可就要彻底跑偏了呐……",translated,妮莉库,ff29baa89c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#40#12,"あっ、そうでした。
+解読した文、どうです？
+ねりこさんは何かわかりますか？","啊，对哦。
+破译出的内容，你觉得怎么样？
+妮莉库小姐有看出什么来吗？",translated,依恩,fb5570d3d1,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#41#12,わたしには心当たりのないことばかりで……。,上面尽是我毫无头绪的事情……,translated,依恩,e9a1d4a0d5,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#43#12,"いや、我にもさっぱり分からん。
+そもそも、所々解読できてないみたいじゃが？","不，老身也完全摸不着头脑。
+而且，看起来好像还有很多地方没破译出来？",translated,妮莉库,5cd887c9ca,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#44#12,"そうなんです。ほとんどのところは
+解けたんですけど、少し分からないところが
+あって……。","是这样的。大部分内容虽然
+都解开了，
+但还有少部分看不太懂……",translated,依恩,f7adea18cf,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#45#12,なるほどのぅ……。,原来如此呐……,translated,妮莉库,356c70cbf1,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#46#12,"しかし、これだけできれば十分じゃろ。
+解読してみてどうじゃった？
+面白かったかの？","不过，能做到这地步就足够了。
+尝试破译之后感觉如何？
+觉得有趣吗？",translated,妮莉库,f8d248bfc0,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#48#12,"はい、とっても楽しかったです。
+意味の分からない文字列が、ちゃんと読める
+ようになっていくのが面白くて。","嗯，非常开心。
+原本毫无意义的字符渐渐变得可以读懂，
+感觉特别有意思。",translated,依恩,2bfd1ab11d,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get02.txt#50#12,"むふふ、それは良かった。
+では、これもお前さんに渡しておくかの。","哼哼哼，那太好啦。
+那么，老身把这个也交给你吧。",translated,妮莉库,7d9b2b824c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#51#12,それって……この前のと同じ暗号ですか？,那个……是和上次一样的密码吗？,translated,依恩,b97ad515bd,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#52#12,見た感じそうみたいじゃな。,看样子似乎是呢。,translated,妮莉库,b91e856a07,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#53#12,"また何枚か見つけたんで、こいつを渡す
+ついでに様子も見に来た、というわけじゃ。","老身又找到了几张，
+所以顺便拿来给你，顺带瞧瞧你的近况。",translated,妮莉库,e2cac8e625,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#54#12,"そういうことだったんですね。
+それじゃあ、これも頑張って解読してみます。","原来是这样啊。
+那我也会努力把这些破译出来的。",translated,依恩,f14e7088c2,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get02.txt#55#12,むふふ、よろしく頼むぞ。,哼哼哼，那就拜托你啦。,translated,妮莉库,0e33867293,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get02.txt#58#12,"では二人とも、また会うときまで
+達者でおるんじゃぞ。","那么你们两个，
+在下次见面之前都要好好保重身体哦。",translated,妮莉库,9d68158e32,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#7#12,"むっふっふ、とうだいもりよ、
+元気にしておったか？","哼哼哼～灯塔守啊，
+最近过得还好吗？",translated,妮莉库,6373c7112a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#8#12,"あっ、ねりこさん。
+もしかして、また……ですか？","啊，妮莉库小姐。
+难道说，又是那个……？",translated,依恩,9cc7e3f31b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#9#12,どうやらとうだいもりも察したようじゃのぅ。,看来灯塔守也已经察觉到了呐。,translated,妮莉库,0fae1b4a4e,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#10#12,"ほれ、二度あることは三度ある。
+例の暗号文じゃ。","诺，有再一再二就有再三再四。
+就是那篇密码文哦。",translated,妮莉库,80fbff53f8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#12#12,"すごいっ……！
+２、３、４、５……今までのと合わせて、
+もう14枚ですよ。","好厉害……！
+２、３、４、５……加上之前的，
+都已经有１４张了哦。",translated,依恩,3b6c982b53,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get03.txt#13#12,やれやれ、一体何枚あるのかのぅ……。,哎呀呀，到底有多少张呢……,translated,妮莉库,1b55d6ca42,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#14#12,"もしかして、無限に湧いてくる……とか？
+そうだったら、ずっと楽しめるんだけどなぁ。","难道说，会无限涌现出来……什么的？
+要是那样的话，就能一直享受乐趣了呢。",translated,依恩,6662f46d1b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#16#12,"とうだいもりよ、お前さんは我の倉庫を
+なんじゃと思っとるんじゃ……。","灯塔守啊，你到底把老身的仓库
+当成什么地方了啊……",translated,妮莉库,196293d22e,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#18#12,"あれ……？
+この暗号……。","咦……？
+这个密码……",translated,依恩,5e3cc1bf01,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#19#12,"なんじゃ？
+何かおかしなところでもあったかのぅ？","怎么啦？
+有什么不对劲的地方吗？",translated,妮莉库,4a2f686e9b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#20#12,"いえなんだか、いままでのと違って
+シワが目立つなぁって。","没有，只是觉得跟之前的相比，
+上面的褶皱特别明显呢。",translated,依恩,1598223f26,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#21#12,"あ、あぁ、それはその……あれじゃ、
+途中で落としてしまったんじゃ。","啊、啊～那是、那个……对啦，
+是老身半路上不小心掉地上了。",translated,妮莉库,558adb4491,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#22#12,でも、濡れた跡みたいなのも……。,可是，上面好像还有弄湿的水渍……,translated,依恩,053fe0b575,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#24#12,もしかして……,难道说……,translated,,63db47aabd,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#26#12,"……くっ、なんじゃなんじゃ、
+その疑いの目はっ！","……咕，你们那怀疑的眼神
+到底是怎么回事啊！",translated,妮莉库,caa6c57bd3,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#29#12,"とにかく、暗号文はたしかに渡したぞ。
+我は超忙しいからの。もう帰るのじゃ。","总之，密码文老身确实交给你了。
+老身可是超忙的，这就回去了。",translated,妮莉库,5141329958,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#30#12,"とうだいもりよ、暗号文の解読、
+楽しみにしておるからの！","灯塔守啊，破译密码文的事，
+老身可期待着呢！",translated,妮莉库,08542ed6d9,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#31#12,は、はい、頑張ります！,好、好的，我会努力的！,translated,依恩,119fa992e9,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#37#12,"ねりこさん、どうしたんだろう？
+なんだか慌ててたよね？","妮莉库小姐怎么了呢？
+总觉得她好像很慌张的样子？",translated,依恩,717335287b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#39#12,きっとトイレだよ,肯定是想去洗手间了,translated,,0bda25c25b,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#40#12,暗号文の上で居眠りでもしたんでしょ,八成是趴在密码文上打瞌睡了吧,translated,,b490c69594,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#42#12,"え？
+そう……だったのかな？","咦？
+是……那样吗？",translated,依恩,f56383616d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#43#12,"もしそうなら、
+ここの使って良かったのに……。
+言うのが恥ずかしかったのかな？","如果是那样的话，
+用这里的就好了嘛……
+是不好意思开口吗？",translated,依恩,28194c42cd,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get03.txt#44#12,"でも、そういうのは気づいても
+黙っててあげた方がいいよね。
+ねりこさんだって女性なんだから。","不过，那种事就算注意到了，
+还是装作不知道比较好呢。
+毕竟妮莉库小姐也是女孩子嘛。",translated,依恩,f25d6cf24c,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get03.txt#47#12,あ、それでシワと濡れた跡が……。,啊，所以才会有褶皱和水渍……,translated,依恩,ed93442dda,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#48#12,"もしかして、ねりこさんも解読してみようと
+したのかな？","难道说，妮莉库小姐也曾经尝试过
+去破译它吗？",translated,依恩,556a36b132,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#49#12,それで途中で居眠りしたと……,然后就在中途睡着了……,translated,,e20de35208,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get03.txt#51#12,"たぶん、そうだね。
+ねりこさん、こういうの苦手そうだもん。","大概就是那样吧。
+妮莉库小姐看起来就不擅长这种事呢。",translated,依恩,996fe51441,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#53#12,"でも、そういうのを隠して慌てるねりこさん、
+ちょっとかわいかったね。","不过，隐瞒真相慌忙掩饰的妮莉库小姐，
+还挺可爱的呢。",translated,依恩,94d2e538f4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get03.txt#54#12,"少し不謹慎かもしれないけど、
+新しい一面が見られて嬉しい、
+って思っちゃった。","虽然可能有点不礼貌，
+但能够看到她新的一面，
+我心里其实还挺开心的。",translated,依恩,ed5c1e436c,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#7#12,"よぉ、とうだいもり、元気にしておるか。
+また暗号文を見つけて来たぞぃ。","哟，灯塔守，过得还好吗？
+老身又把密码文找来喽。",translated,妮莉库,704dcbcb36,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#8#12,"いつも思うんですけど、
+ねりこさんってすごいですよね。","我一直都觉得，
+妮莉库小姐真的很厉害呢。",translated,依恩,da5a417dd7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#9#12,"わたしなんて、外に出てもそういうの
+全然見つけられないですよ。
+どうやって探してるんですか？","换作是我，就算出门也根本
+找不到那种东西呢。
+你究竟是怎么找到的呀？",translated,依恩,ad06636665,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#10#12,"どうやって、とはまた難しいのぅ。
+我は普通に歩いたり、倉庫を整理したりしてる
+だけなんじゃが……。","怎么找到的，这问题可真不好回答呐。
+老身不过就是平常散散步、
+整理整理仓库而已嘛……",translated,妮莉库,0d5daf1368,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#11#12,しいて言うなら……偶然かの？,硬要说的话……纯属偶然吧？,translated,妮莉库,9b373bc57c,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#12#12,その強運が羨ましいです……。,真羡慕你的强运啊……,translated,依恩,d9880719f1,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#15#12,"で、今回のはどうじゃ？
+楽しめそうかの？","那么，这次的感觉如何？
+能从中找到乐趣吗？",translated,妮莉库,f1a0ba1246,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#16#12,はい、今回のも面白そうです。,嗯，这次的看起来也很有趣。,translated,依恩,79fefaa45c,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#17#12,"といっても、わたしは解く過程が
+楽しいだけで解いた中身を楽しむことは
+できないんですけど。","虽说如此，我也只是享受破译的过程，
+至于解出来的具体内容，
+我其实没办法乐在其中就是了。",translated,依恩,e45d53de0b,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#19#12,"まぁ、それは我も一緒じゃ。
+気にする必要はないんじゃないかの。","嘛，老身也是一样啦。
+用不着太放在心上吧。",translated,妮莉库,4086edf2a6,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#20#12,"我の場合、解きもせず、とうだいもりの様子
+を見て面白がってるだけじゃしの。
+楽しみ方は人それぞれ、というやつじゃ。","老身的话，根本没去解，
+只是看着灯塔守的样子觉得好玩罢了。
+这就是所谓的各得其乐嘛。",translated,妮莉库,047c47fac1,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#21#12,最近、解読する姿が板についてきた,最近你破译的架势越来越像模像样了,translated,,5614ea263d,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#23#12,"むふふ、なるほど。とうだいもりは、机に
+座って黙々と作業するのには慣れとるじゃろ
+うし、もしかすると天職かもしれんのぅ。","哼哼哼，也是呢。灯塔守本来就习惯
+坐在桌前默默埋头干活，
+搞不好这份差事正是你的天职呐。",translated,妮莉库,deb7478d0b,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#25#12,"そ、そんなことないですよ！
+今回、解読方法が分かったのだって
+本当にたまたまだと思うし……。","才、才没有那种事呢！
+这次能弄懂破译方法，
+我真的觉得纯属碰巧而已……",translated,依恩,9460ece912,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#26#12,"それに、もっといろんな真空管を作って、
+それを自分で作った機械に組み込んで
+みたいし――","而且，我还想做出更多种类的真空管，
+试着组装进自己亲手做的机器里，
+去尝试各种可能――",translated,依恩,7280476b10,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#27#12,"もっとたくさんお料理を覚えたり、
+本を読んだりもしてみたい。","还想学做更多的料理，
+读更多的书呢。",translated,依恩,3a3b348838,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#28#12,それに……。,而且……,translated,依恩,edf9c3758e,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#30#12,"むふふ、まぁそうじゃと思っておったよ。
+そもそも、この暗号もあといくつあるか
+わからんしの。","哼哼哼，老身早就猜到会是这样啦。
+反正这密码到底还剩多少张
+也根本不知道嘛。",translated,妮莉库,cdb65cc614,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#31#12,"何より、幸も不幸も選択一つで可能性が
+大きく変わるもんじゃ。","更何况，无论是福是祸，
+一个选择就能让可能性产生巨大改变呢。",translated,妮莉库,c3fe628c66,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#32#12,"大きな決断を迫られたとき、
+それが本当に正しいことなのか、
+立ち止まって考えるのは大切なことじゃ。","当面临重大决断的时候，
+停下脚步去思考这是否真的正确，
+是一件非常重要的事情。",translated,妮莉库,956fd987bc,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#33#12,ねりこさんがおかしい,妮莉库小姐好奇怪,translated,,516ac0eadb,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#34#12,即断即決こそが至高,当机立断才是王道,translated,,6fe7905678,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_get04.txt#36#12,"なんじゃ、失礼な。
+我のありがたい言葉ではないか。
+大人しく聞くのが礼儀というものじゃろ。","搞什么嘛，真失礼。
+这可是老身难能可贵的金玉良言啊。
+老老实实听着才叫讲礼貌吧。",translated,妮莉库,53b5843b83,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#37#12,"まぁ、一番大事なのは後悔しないこと
+じゃがな。","不过，最重要的还是
+不要让自己后悔就是了。",translated,妮莉库,1f2fc4cbb6,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#40#12,"むふふ、お前さんがそれで後悔しないという
+なら、それで良いんではないかの。","哼哼哼，要是你觉得那样不会后悔，
+那倒也挺好的嘛。",translated,妮莉库,375047c1f8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#42#12,"どんな可能性にも絶対安全なんてものは
+存在せん。危険が目の前に現れたとき、
+後悔せずに済むよう気をつけるんじゃな。","任何可能性都不存在绝对的安全。
+当危险出现在眼前之时，
+可要多加注意，莫要让自己留下悔恨呐。",translated,妮莉库,d2eb44d7ee,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_get04.txt#44#12,"そうですね。
+わたしも後悔はしたくないです。","是呢。
+我也不想让自己后悔。",translated,依恩,2bb582ea06,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#45#12,"これからのこと、
+もう少し真剣に考えてみようかな。","关于今后的事情，
+我也试着更认真地思考一下吧。",translated,依恩,24ebd3345d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#46#12,"まぁ一つ言えることは、いまのお前さんらは
+幸せ、ということじゃな。","不过有一点可以肯定，
+现在的你们两个很幸福呢。",translated,妮莉库,2e6f09e09d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#47#12,"そう、ですね。三人でこうしてお話できる
+のはすごく楽しいです。","是、是呢。能像这样三个人一起聊天，
+真的非常开心。",translated,依恩,36fa5e7e78,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#49#12,"むふふ、この幸せがいつまでも続くことを
+我は祈っておるよ。","哼哼哼，老身祈祷
+这份幸福能够一直持续下去哦。",translated,妮莉库,7fe466f586,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#52#12,"さて、届ける物も届けたしの。
+そろそろ我はお暇するのじゃ。","好啦，东西也送到了。
+老身也差不多该告辞了。",translated,妮莉库,5532fb95a3,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_get04.txt#53#12,"また次も、お前さんらの元気な姿が
+見られることを楽しみにしておるよ。","老身期待着下一次
+也能看到你们精神抖擞的样子哦。",translated,妮莉库,9a6ce40355,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main01.txt#15#12,"今回解読できたのは、誰かが間違った相手と
+チェインしてしまったときのことみたい。","这次破译出来的，好像是某个人
+和错误的对象建立了精神链接时的记录。",translated,依恩,808698f88a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main01.txt#16#12,"具体的に誰と誰が、っていうのは
+分からないんだけど……。","虽然具体是谁和谁，
+我并不清楚就是了……",translated,依恩,fddfa30c11,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main01.txt#17#12,"間違った人はすっごく慌ててチェインを
+切るんだけど、少しだけ相手に想いが
+伝わっちゃうの。","搞错的人慌忙切断了链接，
+但心意似乎还是
+有一点点传达给了对方。",translated,依恩,92ec9c8871,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main01.txt#18#12,"でも、どうしてそんなに慌てたのかな？
+それにチェインって勝手に繋がるような
+ものじゃなかったはずだけど……。","不过，为什么要那么慌张呢？
+而且链接这种东西，
+按理说不应该会擅自连上才对啊……",translated,依恩,f0b78b718a,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main01.txt#19#12,"とりあえず、書き起こしたものは
+あなたにも見られるように置いておくね。","总之，抄录下来的内容
+我已经放好，方便你也能查看哦。",translated,依恩,954d07ac9d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main01.txt#20#12,"せっかく解いたんだし、
+一度読んでみてくれると嬉しいな。","难得解开了，
+你要是能读一读的话我会很高兴的。",translated,依恩,66c2eede9b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main01.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書01：トロイの木馬』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档01：特洛伊木马’。",translated,系统文本,4ce919075b,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main02.txt#15#12,"この暗号は誰かの心理状態について
+書いたものみたい。","这份密码看起来
+像是记录了某个人的心理状态。",translated,依恩,27b3ea97d1,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main02.txt#16#12,"えっと……大切なものを奪われたから、
+プロテクタを使って襲う、とか
+そういうことが書いてあったの。","唔……上面写着因为被夺走了重要的东西，
+所以使用守护程序进行袭击，
+诸如此类的内容。",translated,依恩,d49ddf9a72,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main02.txt#17#12,"それに、最後には罠とか、おびき寄せる、
+って意味の言葉が書いてあって……。","而且，最后还写有陷阱、引诱
+之类含义的词汇……",translated,依恩,724676d1d4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main02.txt#18#12,"なんだか怖いよね。これが実際に起こったこと
+じゃなくて、小説か何かのメモとかだったら
+良いんだけど……。","总觉得有点可怕呢。要是这并非现实中
+发生的事，而是小说之类的构思笔记
+就好了呢……",translated,依恩,a2d4fceec9,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main02.txt#19#12,"あなたなら何か分かるかもしれないし、
+解読したものはいつでも読めるように
+置いておくね。","换作是你的话或许能看出什么，
+破译出的文书我已经放好了，
+随时都可以阅读哦。",translated,依恩,08f3652c14,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main02.txt#20#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書02：計画進行』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档02：计划推进’。",translated,系统文本,863eff045a,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main03.txt#15#12,"えっと、今回のは特別なシステムの
+所在と使い方について書いてあったの。","唔，这次上面写的是某个特殊系统的
+所在位置与使用方法。",translated,依恩,a5a7f9c73f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main03.txt#16#12,"所在って言っても、肝心のその場所が
+解読できてないんだけどね。","虽说是所在位置，
+但最关键的地点却没能破译出来就是了。",translated,依恩,3a6357a2cb,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main03.txt#17#12,特別なシステム？,特殊的系统？,translated,,b4cb8c185c,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main03.txt#19#12,"えっと、ＳＣＴ……
+サージュコンチェルトターミナル、って
+いうものらしいよ。","唔，ＳＣＴ……
+Surge Concerto Terminal，
+好像是叫这个名字哦。",translated,依恩,5a2952adf2,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main03.txt#20#12,"そのシステムの意外な利用方法と
+それによって得られる効果について
+書かれてるみたい。","上面好像记录了那个系统出人意料的使用方法，
+以及借此能够获得的
+效果呢。",translated,依恩,fdc90fadda,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main03.txt#21#12,"何かの研究論文の一部なのかな？
+でも、論文っていうには関係ないことも
+書かれてるし……。","是某篇研究论文的一部分吗？
+但要说是论文的话，
+又写着不少无关的内容……",translated,依恩,86bb6be0dc,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main03.txt#22#12,"わたしの解読、どこか間違ってるの
+かなぁ……。","我的破译，
+该不会有哪里搞错了吧……",translated,依恩,c6a6d2316c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main03.txt#23#12,"でも、せっかく書いたんだし、
+あなたが読めるようにはしておくね。","不过既然好不容易抄录下来了，
+我就放在那里让你也能阅读吧。",translated,依恩,ded2566b2f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main03.txt#24#12,もしかしたら、何かの役に立つかも。,说不定什么时候能派上用场呢。,translated,依恩,96c4bcf096,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main03.txt#25#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書03：ＳＣＴ』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档03：SCT’。",translated,系统文本,1937572f0a,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main04.txt#15#12,今回のは何かの物語の冒頭かな？,这次的内容是某个故事的开篇吗？,translated,依恩,cf5ba4acd5,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main04.txt#16#12,"えっと、すごく高い塔から飛び降りた人を
+助ける流れと、それが偶然じゃなくて必然
+だって理由が書いてあったの。","唔，上面写着救下从极高之塔跃下之人的始末，
+以及那并非偶然、
+而是必然的理由。",translated,依恩,50624dd763,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main04.txt#17#12,"なんだか説明っぽい文だから、
+物語というよりは、その設定かな？","总觉得行文像说明文一样，
+比起故事，倒更像是相关的设定？",translated,依恩,e572be14be,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main04.txt#18#12,"でも、塔から飛び降りるなんて、
+たとえ助かると分かってても怖いよね。","不过，从塔上跃下这种事，
+即便知道能得救，也会很害怕吧。",translated,依恩,b848d1b045,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main04.txt#19#12,"飛び降りた人は、きっとそうしないといけ
+ないだけの理由があったんだろうけど……。","跳下去的那个人，
+一定有着不得不那么做的理由吧……",translated,依恩,ab459a5293,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main04.txt#20#12,"いつでも見れるようにしておくから、
+興味があったら読んでみてね。","我已经放好让你随时都能看了，
+如果感兴趣的话就读读看吧。",translated,依恩,5cb815ec04,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main04.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書04：生みの親』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档04：造物之主’。",translated,系统文本,cbef21fa50,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main05.txt#15#12,"これには……えっと、蘇生術？
+みたいなことが書いてあったよ。","这上面……唔，记录了起死回生术？
+类似这种事情哦。",translated,依恩,f6b09133e8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main05.txt#16#12,"まず、たくさん復活するための存在を
+呼び起こして、そのあとある人に復活の
+儀式を繰り返させるみたい。","首先，唤醒大量为了复活而存在的实体，
+然后再让某个人
+反复进行复活的仪式。",translated,依恩,d1be0a0748,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main05.txt#17#12,"生き返らせる、っていうこと自体は
+すごいと思うんだけど、これじゃあ
+その生き返らせる人は操り人形みたい。","能让死者复生本身固然很厉害，
+但这样一来，
+那个执行复活的人岂不就像提线木偶一样了。",translated,依恩,16d50e001f,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main05.txt#18#12,"他の人たちを生き返らせるために、
+儀式を続けなくちゃいけないなんて……。","为了让其他人复活，
+就不得不一直持续进行仪式什么的……",translated,依恩,fd02574615,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main05.txt#19#12,何か考えがあるのかも,或许是有什么深意吧,translated,,e9480c7682,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main05.txt#21#12,"そうだね。
+もしかしたら、そこまでしないといけない
+理由が最初の人にあるのかも。","是呢。
+说不定最初的那个人，
+也有着不得不做到这种地步的苦衷吧。",translated,依恩,ef46a62ffd,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main05.txt#22#12,"けど、これはさすがに物語の設定だよね。
+死んだ人の蘇生なんてできるわけないし。","不过，这怎么想都是故事里的设定吧。
+人死复生什么的怎么可能做得到嘛。",translated,依恩,1a55bd120b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main05.txt#23#12,"断片的にしか書かれてないけど、
+良かったらあなたも読んでみてね。","虽然只记录了只言片语，
+但如果你愿意的话，也读读看吧。",translated,依恩,2909885942,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main05.txt#24#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書05：深層心理』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档05：深层心理’。",translated,系统文本,404d1a5f2d,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main06.txt#15#12,今回のは誰かの日記……かな。,这次的大概是……某个人的日记吧。,translated,依恩,f7c62fd1e4,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main06.txt#16#12,"自分の研究室がその場所にある理由や、
+何か目的をもって研究を進めてる、
+ってことが書いてあったの。","上面写了把自己的实验室设在该处的理由，
+以及怀揣着某种目的
+推进研究的事情。",translated,依恩,74c89341d7,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main06.txt#17#12,"よく分からないけど、この研究って
+すごく大切なものみたいだね。","虽然不太明白，
+但这分研究似乎至关重要呢。",translated,依恩,e310da05a0,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main06.txt#18#12,"だって、わざわざ人が寄り付かないところに
+研究室を作ったって書いてるんだもん。","毕竟上面写着，是特意把实验室建在
+人迹罕至的地方呢。",translated,依恩,c0e5f59e43,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main06.txt#19#12,"それだけ人に知られたくない
+重要な研究ってことだよね。","这说明是一项多么不想为人所知、
+多么重要的研究啊。",translated,依恩,3300c463ab,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main06.txt#20#12,ヤバイ研究なんじゃ……,该不会是危险的研究吧……,translated,,d537ba2673,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main06.txt#22#12,"……そっか、その可能性もあるんだね。
+う～ん、何事もないと良いんだけど……。","……这样啊，确实也有这种可能性呢。
+唔～希望不会出什么事才好……",translated,依恩,435d25a6ec,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main06.txt#23#12,"とりあえず、あなたも読めるようにだけは
+しておくから、興味があったら読んでみてね。","总之，我先放在能让你阅读的地方，
+如果感兴趣的话就读读看吧。",translated,依恩,c0a9bffec9,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main06.txt#24#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書06：研究日誌』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档06：研究日志’。",translated,系统文本,46892143eb,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main07.txt#15#12,"これには、一生懸命大地を作る想いが
+書かれていたの。けど、大地を作る、って
+どういうことだろう？","这上面写着为了创造大地而竭尽全力的心意。
+但是，创造大地什么的，
+到底是什么意思呢？",translated,依恩,041adf67d4,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main07.txt#16#12,"その方法が人の魂を浄化することって
+書いてあるから――","上面说其方法
+是通过净化人类的灵魂――",translated,依恩,a7cea2335b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main07.txt#17#12,"つまり、お花や自然を大切にして、
+心も身体も健やかになりましょう、
+ってことかな？","也就是说，要爱护花草与大自然，
+让身心都保持健康，
+大概是这个意思吗？",translated,依恩,f0e010dd71,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main07.txt#18#12,"けど、それにしてはずいぶん遠回しな
+書き方だよね。
+どこか解読を間違えちゃったのかな……。","不过，若真是这样，这写法也未免太拐弯抹角了。
+该不会是我在破译时
+有哪里弄错了吧……",translated,依恩,42480b14db,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main07.txt#19#12,"う～ん、せっかくだし、
+また今度最初からやってみよう。","唔～难得解到这一步，
+下次再从头重新试一次吧。",translated,依恩,f814403e3a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main07.txt#20#12,"一応、これはこれであなたも読めるように
+置いておくね。","姑且我也先把这个
+放在你能看到的地方哦。",translated,依恩,d44772f67f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main07.txt#21#12,"こうしておけば、あなたが間違えてる箇所に
+気づくかもしれないもんね。","这样一来，说不定你就能发现
+我译错的地方了呢。",translated,依恩,b1dbf986f4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main07.txt#22#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書07：想いの大地』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档07：心愿大地’。",translated,系统文本,0c680c22b8,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main08.txt#15#12,"これには薬品の効果と
+その副作用について書いてあったの。","这上面记录了某种药品的功效
+以及它的副作用。",translated,依恩,4eea2325ea,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main08.txt#16#12,"その効果は一度にたくさんの人と精神を
+繋げて、身体の感覚とかを共有できる
+ようになること。","其效果是可以同时与多人连接精神，
+从而变得能够共享
+身体的感觉之类的。",translated,依恩,4acd11131b,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main08.txt#17#12,"でも、共有してる相手の痛みも感じちゃう
+から、良いことばっかりじゃないみたい。","但是连共享对象的痛苦也会感同身受，
+看来并不全都是好事呢。",translated,依恩,6c446ae565,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main08.txt#18#12,"なんだか、便利なのか不便なのか、
+よく分からない薬だね。","总觉得，到底是方便还是不便，
+真是让人摸不着头脑的药呢。",translated,依恩,8721a01d38,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main08.txt#19#12,"あまり面白いものではないけど、
+一応いつでも読めるようにしておくね。
+気が向いたら読んでみて。","虽然算不上多有趣，
+不过我还是放在随时能看的地方啦。
+要是想看的话就读读看吧。",translated,依恩,0764ec1866,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main08.txt#20#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書08：統率の意味』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档08：统率的意义’。",translated,系统文本,7446790755,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main09.txt#15#12,"えっと、これに書いてあったのは
+二つの種族の特性についてだよ。","唔，这上面写着关于
+两个种族的特性哦。",translated,依恩,c0ef73808c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main09.txt#16#12,"正確には、同時に二つの種族の特性を
+持ってて、その特性が相反した場合の
+考察みたい。","准确地说，似乎是在探讨同时拥有
+两个种族的特性、
+且特性相互对立时的情形。",translated,依恩,3d8214e02a,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main09.txt#17#12,"生物に関する研究論文っぽいけど、
+二つの種族の特性を持つ生物、
+なんているのかな？","虽然感觉像是生物学的研究论文，
+但真的会存在
+兼具两个种族特性的生物吗？",translated,依恩,19db327de3,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main09.txt#18#12,合成生物の研究に違いない,一定是关于合成生物的研究,translated,,7be49806e6,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main09.txt#19#12,品種改良の研究に違いない,一定是关于品种改良的研究,translated,,ac786c31f0,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main09.txt#21#12,"もし本当に行われてたら、
+すっごく危険だよ、それ……。","如果现实中真有这种研究，
+那可就太危险了呀……",translated,依恩,99ec02ea7a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main09.txt#22#12,夢はあるんだけどなぁ……。,虽说确实很有梦想感就是了……,translated,依恩,fd0a3d6d2b,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main09.txt#25#12,"なるほど……
+より良い種を作るための研究だね。
+それなら辻褄が合うかも。","原来如此……
+是为了培养出更优秀的品种所做的研究呢。
+这么一说的话倒确实对得上号。",translated,依恩,7e5dfaa3fa,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main09.txt#26#12,"でも、眠りがどうこう、っていうのは
+何を意味してるんだろう？","但是，关于沉睡之类的内容，
+到底代表着什么意思呢？",translated,依恩,236e136eae,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main09.txt#28#12,"とりあえず、書き起こした物は、
+あなたが直接読めるようにしておくね。","总之，抄录下来的内容，
+我先放在你能直接阅读的地方哦。",translated,依恩,537ff6aaff,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main09.txt#29#12,"気が向いたときで良いから、
+一度読んでみて欲しいな。","等你有兴致的时候，
+希望能读读看呢。",translated,依恩,e60a0e8743,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main09.txt#30#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書09：種族特性』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档09：种族特性’。",translated,系统文本,465caa1703,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main10.txt#15#12,"これに書かれてたのは、
+統治者に対する民衆の怒りだったの。","这上面记录的，
+是民众对统治者的愤怒。",translated,依恩,ea24f8e04c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main10.txt#16#12,"その怒りは、恐れや悲しみ、
+それに貧困が積もりに積もった結果みたい。","那份愤怒，似乎是恐惧、悲伤
+以及贫困不断积聚而产生的结果。",translated,依恩,1fa2f97d08,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main10.txt#17#12,"人って辛くなっていくと、どこに気持ちを
+ぶつけて良いのか分からなくなるから……。","人一旦陷入痛苦，
+就会不知道该把情绪宣泄向何处……",translated,依恩,4ce71f591c,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main10.txt#18#12,"結果的に、一番ぶつけやすい人に
+怒りが向いちゃったみたい。","结果，怒火似乎就指向了
+最容易成为宣泄目标的人身上。",translated,依恩,d5658dc2d9,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main10.txt#19#12,"一応、あなたも読めるようにはしておくけど、
+あまり気持ちの良いものじゃないから、
+読むときは気をつけてね。","虽然我也放在了能让你阅读的地方，
+不过读起来可能会让人心情沉重，
+阅读的时候要注意心理准备哦。",translated,依恩,3c959a403d,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main10.txt#20#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書10：民の怒り』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档10：民众之怒’。",translated,系统文本,adfef133cf,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main11.txt#15#12,"う～んと、これは催眠術？
+じゃないなぁ、なんかもっと特別な力に
+関して書いてあるみたい。","唔～这个是催眠术？
+不对，看起来记录的
+似乎是某种更为特殊的力量呢。",translated,依恩,63f22f06e2,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main11.txt#16#12,"最初に催眠術って言ったのは、
+この力をかけられた相手を自分の思うように
+動かせる、って書いてあったから。","我一开始之所以说是催眠术，是因为上面写着
+被施加了这种力量的对象，
+可以任凭自己的意愿去操控。",translated,依恩,72455bad57,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main11.txt#17#12,"でも、この力で操られている相手は
+ちゃんと意識があって、しかも操作されてる
+ことを自分の意思として認識してしまうの。","但是，被这种力量操控的对象
+明明意识清晰，却会把受操控的行动
+当成是出于自己的意愿去接受。",translated,依恩,914f137950,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main11.txt#18#12,"催眠術ってそういうものじゃないし、
+それよりもずっと高度なものみたいだね。","催眠术可不是这样的，
+这感觉要比催眠术高明深奥得多呢。",translated,依恩,0feac4b03e,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main11.txt#19#12,"あなたも読めるようにしておくから、
+興味があったら読んでみて。","我也放在了你能阅读的地方，
+感兴趣的话就读读看吧。",translated,依恩,937af4b5c7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main11.txt#20#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書11：意識操作』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档11：意识操控’。",translated,系统文本,4a99d36b10,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main12.txt#15#12,"その中には、二人の研究者が過去の遺産を
+解明するために奮闘したって書かれてたの。","那里面写着两位研究者
+为了破解过去的遗产而奋力拼搏的经历。",translated,依恩,2b7aca1a67,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main12.txt#16#12,"二人のうち一人は、その遺産を残した人の
+一番弟子なんだけど、それでも難解なくらい
+複雑なものだったみたい。","两人中的一人虽是留下遗产之人的大弟子，
+但那遗产却复杂晦涩到
+连大弟子都觉得极其难解。",translated,依恩,581b50c300,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main12.txt#17#12,"けど意外なところからヒントを見つけて、
+それを元に一つの詩魔法を作りあげるの。","不过他们从意想不到的地方找到了线索，
+并以此为基础构筑出了一首诗魔法。",translated,依恩,0e2361cdf4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main12.txt#18#12,"もしかしたら、ラシェーラの詩魔法研究に
+貢献した人たちの伝記なのかも。","说不定，这是为拉榭拉的诗魔法研究
+做出贡献的先驱们的传记呢。",translated,依恩,6ddb2efb31,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main12.txt#19#12,"あなたにも読めるようにしておくから、
+一度読んでみてね。","我也放在了你能阅读的地方，
+去读一次看看吧。",translated,依恩,28de3e9a65,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main12.txt#20#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書12：過去の遺産』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档12：过去的遗产’。",translated,系统文本,5e7b512cb2,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main13.txt#15#12,"これは、ある人の心のジレンマを綴った
+ものみたいだね。","这看起来，
+像是记录了某个人内心的纠结与挣扎呢。",translated,依恩,707e5567e8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main13.txt#16#12,"本当は嫌いじゃないのに、周りの人が嫌うから
+自分も嫌いな振り……それどころか、
+中心になって戦わないといけない。","明明自己并不讨厌，却因为周围的人都讨厌，
+而不得不假装讨厌……甚至，
+还必须成为核心人物去战斗。",translated,依恩,58a1cbecff,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main13.txt#17#12,"やりたくないのに、やらないといけない。
+分かって欲しいのに、分かってもらえない。
+そんな苦しい気持ちが書かれてた。","明明不想做，却不得不去做。
+明明渴望被理解，却得不到任何人的理解。
+上面记录的尽是这般痛苦的心境。",translated,依恩,8039909ca3,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main13.txt#18#12,"暗号を解いていくのは楽しいけど、
+こういうのはやっぱり悲しい……。","虽然解开密码的过程很开心，
+但看到这样的内容还是好令人难过……",translated,依恩,b6bee4dcd8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main13.txt#19#12,"ここに書かれてることが現実じゃなくて、
+せめて物語の中の話だったら……。","要是这上面写的事情不是现实，
+而仅仅只是故事里的话该有多好……",translated,依恩,860ea824b9,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main13.txt#20#12,"とりあえず、いつでもあなたが読めるように
+だけはしておくね。","总之，我先放在
+随时都能让你阅读的地方哦。",translated,依恩,9cc4270a1b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main13.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書13：想いと使命』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档13：心愿与使命’。",translated,系统文本,9c22691ebf,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main14.txt#15#12,"ここに書かれてたのは、ちょっと怖いお話。
+その……なんていうか殺人予告、みたいな。","这里写的是一个有点吓人的故事。
+那个……怎么说呢，就宛如杀人预告一样。",translated,依恩,d62fdd1dab,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#16#12,これは、女の子かな？,这上面写的，是个女孩子吗？,translated,依恩,205fcae88a,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main14.txt#17#12,"その子が、自分の邪魔になる存在の片方を
+確実に壊すための方法を考え出すの。","那个女孩，想出了一个彻底破坏
+妨碍自己的两个存在其中之一的方法。",translated,依恩,3c19ad815d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#18#12,壊す？,破坏？,translated,,3d4b2cc61d,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main14.txt#20#12,"そういえば、殺人予告なら“壊す”って
+表現するのはおかしいよね。","说起来，如果是杀人预告的话，
+用“破坏”这种词就很奇怪了呢。",translated,依恩,7d14f7e688,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#21#12,もしかして、機械か何かのことなのかな？,难道说，指的是机器之类的东西吗？,translated,依恩,d1f99ab7e2,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main14.txt#22#12,"どうして、人のことだと思っちゃったん
+だろう？","为什么我一开始
+会下意识以为是在指人呢？",translated,依恩,1032b8d59f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#23#12,"う～ん、よく分かんないけど、とりあえず、
+あなたも読めるようにしておくね。","唔～虽然我搞不大懂，但总之
+我先放在能让你阅读的地方哦。",translated,依恩,2ea11b70d2,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#24#12,"もしかしたら、わたしじゃ気がつかないことも
+あなただったら気がつくかも。","说不定我没注意到的地方，
+换作是你的话就能发现呢。",translated,依恩,78485719aa,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main14.txt#25#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書14：チャンネル』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档14：频道’。",translated,系统文本,739b69f698,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main15.txt#15#12,"今回解読した文の中には、世界の繋がりを
+絶とうとしたのに邪魔された、ってことが
+書かれてたの。","这次破译出的文书中写着，有人试图
+切断世界之间的连接，
+却遭到了阻碍的事情。",translated,依恩,25ce19df91,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main15.txt#16#12,"世界の繋がりを絶つためには、特別な装置に
+アクセスしないといけないみたいで、その
+装置の場所が味方の失敗でバレちゃうんだ。","为了切断世界的连接，似乎必须访问特殊的装置，
+但那个装置的位置，
+却因为己方的失误而暴露了。",translated,依恩,006128bb29,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main15.txt#17#12,"もちろん、敵の妨害とかがあって失敗する
+ことになるんだけど、何事もなければ
+きっと上手くいってたんだよ。","当然，后来也因为敌人的妨碍而导致失败，
+但要是没有那些变故的话，
+本来肯定是能顺利成功的呢。",translated,依恩,40be0833b4,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main15.txt#18#12,"一つ気になるのは、世界の繋がりを絶つ、
+ってどういうことかな？","唯独有一点让我很在意，
+切断世界的连接，到底是指什么呢？",translated,依恩,f0f7fa2c96,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main15.txt#19#12,"例えるなら、あなたとお話できなくなる、
+ってこと？","打个比方的话，
+是指变得无法和你说话了吗？",translated,依恩,b86d975958,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main15.txt#20#12,"だとしたら、この子のことは
+応援できないかも……。","如果是那样的话，
+我可能就没办法支持那个孩子了……",translated,依恩,024d63401a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main15.txt#21#12,"まぁそもそも、現実なのか物語なのかすら
+分からないから、応援も何もないけどね。","嘛，不过本来就连是现实还是故事都弄不清，
+倒也谈不上什么支持不支持就是了。",translated,依恩,9ee651cb5f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main15.txt#22#12,"とりあえず、あなたがいつでも読めるよう
+にはしておくね。気が向いたら読んでみて。","总之，我先放在随时能让你阅读的地方哦。
+要是感兴趣的话就读读看吧。",translated,依恩,2dfe8dbd41,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main15.txt#23#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書15：世界の切断』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档15：切断世界’。",translated,系统文本,d6ce5a4c16,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main16.txt#15#12,"そこに書かれてたのは、たった一人で
+別の惑星に行く方法を開発してた人のお話。","那上面记录的，是某个人独自一人研发
+前往另一颗行星之方法的故事。",translated,依恩,e894ed6854,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main16.txt#16#12,"結局、それは叶わないまま敵に捕まってしま
+うんだけど、その前にエネルギーの流出から
+空間の歪みは見つけ出すの。","虽然结果还是未能如愿就被敌人抓获了，
+但在那之前，他从能量外泄中
+察觉到了空间的扭曲。",translated,依恩,e67b0cd098,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main16.txt#17#12,"そしてそれは、歪みの向こう側に
+移住可能な惑星があることを示してた。","而那正预示着在扭曲的另一端，
+存在着适合移居的行星。",translated,依恩,9906803988,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main16.txt#18#12,"このあとについては何も書かれてなかった
+けど、この人が持つ情報が後々、
+重要な鍵になるんだろうね。","关于那之后的事虽然什么也没写，
+不过想必这个人掌握的情报，
+在日后会成为至关重要的关键吧。",translated,依恩,712892b8b7,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main16.txt#19#12,概要はだいたいこんな感じかな。,概况大致就是这种感觉吧。,translated,依恩,aea446d429,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main16.txt#20#12,"いつでも読めるようにしておくから、
+詳しく知りたいときは読んでみてね。","我已经放好让你随时都能阅读了，
+想要深入了解的话就读读看吧。",translated,依恩,4c0d85121f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main16.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書16：繋がる世界』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档16：相连的世界’。",translated,系统文本,74567b3892,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main17.txt#15#12,"これに書かれてたのは、
+不思議なオルゴールのお話。","这上面记录的，
+是一个不可思议的八音盒的故事。",translated,依恩,0a77cea108,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main17.txt#16#12,"そのオルゴールは、偶然時空間の歪みを
+見つけて外宇宙のエネルギーを吸い続け
+てるの。","那个八音盒偶然发现了时空的扭曲，
+并在不断吸取着
+来自外宇宙的能量。",translated,依恩,f20ca40762,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main17.txt#17#12,"ただ、オルゴールの存在に気がついた
+一部の人が、そのエネルギーを兵器の
+エネルギー源として利用してしまう。","只是，察觉到八音盒存在的一部分人，
+把那股能量
+用作了兵器的动力源。",translated,依恩,ea89298e55,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main17.txt#18#12,"それだけのエネルギーがあれば、
+たくさんの人たちを幸せにできるはずなのに、
+もったいないよね。","明明拥有那么庞大的能量，
+本该可以让很多人获得幸福的，
+真可惜呢。",translated,依恩,cfd16783e9,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main17.txt#19#12,"とりあえず、書き起こしたものは
+いつでも読めるように置いておくね。","总之，抄录下来的内容
+我已经放在随时都能阅读的地方了哦。",translated,依恩,a92fb6f276,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main17.txt#20#12,"せっかく解読したんだし、時間があるときで
+良いから読んでみて欲しいな。","好不容易破译出来了，
+你有空的时候希望能读一读呢。",translated,依恩,5be2c48b20,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main17.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書17：オルゴール』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档17：八音盒’。",translated,系统文本,f2e0fd7309,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main18.txt#15#12,"そこには、生き続けるために
+どんなエネルギーでも吸収してしまう
+生命体のことが書かれてたの。","那里记录了一种为了活下去，
+会不择手段吸收任何能量的
+生命体。",translated,依恩,53ab035582,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main18.txt#16#12,でも、元々はそんな存在じゃなかったんだよ。,但是，它原本并不是那样的存在哦。,translated,依恩,7643143a85,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main18.txt#17#12,"一度、瀕死の重症を負ったことがあって、
+それでも生きるためにエネルギー源を変えて
+耐え続けたの。","曾经受过一次濒死的重伤，
+即便如此为了生存也改变了能量源，
+苦苦支撑着。",translated,依恩,72359ff163,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main18.txt#18#12,でも、それが仇になって、ついには……。,可是，那却招致了祸患，最终……,translated,依恩,f56a004d91,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main18.txt#19#12,"この生命体も誰かの願いがあって生まれて
+きたはずなのに、なんだか悲しいね……。","这只生命体本应也是寄托着某人的愿望而诞生的，
+总觉得好让人悲伤呢……",translated,依恩,4b2c21008f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main18.txt#20#12,"もう少し詳しいことは、たぶん直接見て貰っ
+た方が早いと思う。解読したものは、
+いつでも読めるようにしておくね。","更详细的情况，我想直接看文书会更快明了。
+破译出的内容，
+我先放在随时都能阅读的地方哦。",translated,依恩,79d89a844a,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_main18.txt#21#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書18：無限吸収』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档18：无限吸收’。",translated,系统文本,28ececeb8c,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_main19.txt#15#12,"ただ、今回のは他のと雰囲気が違ったかな。
+なんというか、予言めいた文章になってたの。","不过，这次的文书和以往氛围不太一样呢。
+怎么说呢，感觉就像预言般的文章。",translated,依恩,3a825ea944,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#16#12,"大いなる戦い……とか、
+魂を呼び戻す……とか、そういう感じの。","像是什么浩大的战争啦、
+唤回灵魂啦之类的感觉。",translated,依恩,c9d8835117,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#17#12,"せめて名前の部分が解読できれば、
+もう少し分かりそうなんだけど……。","要是至少能把名字的部分破译出来，
+或许就能明白更多了……",translated,依恩,156f3b921d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#18#12,"重要な……特に人の名前が入るんじゃないか
+ってところは、ほとんど分からないんだよね。","最重要的地方……尤其是看似写着人名的地方，
+基本上都看不太懂呢。",translated,依恩,fed3aec211,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#19#12,"どうしてこう、大事なところで抜けちゃって
+るのかなぁ……。","为什么总是在这种关键时刻
+偏偏漏掉最重要的部分呢……",translated,依恩,03b95c29dc,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#20#12,抜けてるイオンがかわいい,丢三落四的依恩真可爱,translated,,1d1bd88d3e,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main19.txt#21#12,そのうちきっと分かる,迟早肯定会弄明白的,translated,,12c47568e2,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main19.txt#23#12,そ、そうかな？,是、是这样吗？,translated,依恩,c57115fbbc,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main19.txt#24#12,って、それ全然ほめてないよね？,不对，这根本不是在夸我吧？,translated,依恩,6d6afed349,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_main19.txt#27#12,"うん。
+そうなるように、わたしも頑張る。","嗯。
+为了能做到那样，我也会努力的。",translated,依恩,4be9a5cded,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#28#12,"最初から理解できたのが変なんだし、
+ここから自分の力で……ね。","从一开始就能理解才比较奇怪呢，
+接下来就靠我自己的力量……嗯。",translated,依恩,f8c642a2db,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#30#12,"書き起こした文は、
+いつでも見れるようにしておくね。","抄录下来的文书，
+我先放在随时都能查看的地方哦。",translated,依恩,21496a3ab8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#31#12,"あなたならこの文が意味することを理解して、
+何かの役に立てられるかも。","换作是你的话，也许能理解这篇文书的含义，
+并在什么地方派上用场呢。",translated,依恩,acaee677f5,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_main19.txt#32#12,"<CLY2>『７次元INFO』→『謎の文書を読む』に
+『文書19：望む未来』が追加されました。","<CLY2>‘7次元INFO’→‘阅读神秘文书’中
+已追加‘文档19：期许未来’。",translated,系统文本,e6ca0b454a,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
+inc/event/res/linkarnosurge/linkarno_nelico01.txt#4#12,お～い、生きとるか～？,喂～还活着吗～？,translated,妮莉库,c72ef91a09,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01.txt#8#12,…ふむ。死んでおるかもしれんのぅ…。,……唔。说不定已经死掉了呢……。,translated,妮莉库,1f51e08162,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01.txt#10#12,おーーーい。,喂―――。,translated,妮莉库,240e8e829b,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01.txt#12#12,…少し５軸をずらしてみるかの…。,……稍微偏移一下第5轴看看吧……。,translated,妮莉库,d884287c1a,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#1#12,"<CLBU>なんじゃ、おるではないか。
+いまはとうだいもりもおらんし、
+ちょうど良いかもしれんの……。","<CLBU>什么嘛，这不是在嘛。
+现在灯塔守也不在，
+倒是正合适呐……",translated,妮莉库,a2b9d6dfa1,<CLBU> br=0 nl=2,3,keep-tags <CLBU>
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#4#12,"あぁ、いや、大したことじゃないんじゃよ。
+お前さんに一つ聞いてみたいことがあっての。","啊，不，也不是什么大事。
+老身只是有一件事想问问你罢了。",translated,妮莉库,e1329a5712,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#5#12,答えられることなら,如果是我能回答的话,translated,,7aefa3bc1c,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#6#12,スリーサイズ？,三围？,translated,,abe899e622,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#8#12,"むふふ、良い心がけじゃな。
+まぁ難しいことではない。","哼哼哼，态度不错嘛。
+倒也不是什么难事。",translated,妮莉库,6fb42d9f14,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#11#12,"一度、お前さんの中身をほじくり出して
+みたいものじゃな。カビとったりせんかの？","真想哪天把你的内部掏出来好好瞧瞧呐。
+没长霉吧？",translated,妮莉库,78f47c7e0f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#12#12,"そもそも、お前さんのスリーサイズを聞いて、
+何をしろというんじゃ……。","话说回来，打听你的三围
+能有什么用啊……",translated,妮莉库,f3f99122da,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#14#12,"我が聞きたいのはあの暗号文のことじゃ。
+お前さんなら何か気づいておるのではないか？","老身想问的是那篇密码文的事。
+要是你的话，是不是察觉到什么了？",translated,妮莉库,dd85900ded,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#15#12,"生憎と我は、すべてを見通すような目を
+もっておらん。","不巧的是，老身并没有
+能够看透一切的双眼。",translated,妮莉库,cdf7b925a7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#16#12,しかし、お前さんなら話は別じゃ。,但是，如果是你的话可就另当别论了。,translated,妮莉库,87449ec226,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#17#12,"暗号うんぬんは置いとくとしても、
+とうだいもりが解読した文の意味は
+わかっておるのではないか？","密码云云且先不论，
+灯塔守破译出的文书所代表的含义，
+你其实是明白的吧？",translated,妮莉库,f2ba5e9ae9,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#18#12,未解読部分に入る言葉もわかった,未破译部分填什么词我也知道了,translated,,2c14f4d768,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#19#12,未解読部分以外なら分かった,除了未破译部分我都懂了,translated,,2f0714396b,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#21#12,"なるほど。解読のために必要な最後の欠片は
+お前さんが持っておったということじゃな。","原来如此。也就是说破译所需的最后一块碎片，
+就在你手里咯。",translated,妮莉库,99f7810af1,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#24#12,"なんじゃ、お前さんなら分かると
+期待しておったんじゃがのう。","搞什么嘛，老身本来还期待着
+如果是你的话会全都知道呢。",translated,妮莉库,0a67d5c39d,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#25#12,"まぁ、それ以外の部分が何を意味するのか
+分かっただけでも十分かもしれんがの。","不过，能弄懂其他部分代表的含义，
+或许也已经足够了呐。",translated,妮莉库,90a05769df,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#27#12,"我ととうだいもりには、あの文が意味する
+ところが分からんのはもう話したじゃろ？","老身和灯塔守无法理解那些文书的真正含义，
+这件事之前已经跟你说过了吧？",translated,妮莉库,c13925eaa8,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#28#12,"そして、それをお前さんが伝えようとしても
+我らには伝わらんじゃろう。
+それは端末の限界のようなものじゃ。","而且，就算你试图把那些传达出来，
+我们也是无法理解的吧。
+那大概就相当于终端的极限呐。",translated,妮莉库,9439b1bc35,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#29#12,伝わる想いと伝わらぬ想い――,能传达的心意与无法传达的心意――,translated,妮莉库,44806fb220,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#30#12,"それはお前さんの良く知る現実と何も
+変わらんということじゃな。","那与你所熟知的现实，
+并没有任何区别呐。",translated,妮莉库,e7d188d62a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#31#12,どうしたら伝えられる？,要怎样才能传达？,translated,,d6b68bf6d8,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#33#12,"やれやれ、そんなことを我に
+聞かれてものぅ……。","哎呀呀，就算你向老身打听这种事
+老身也很为难呐……",translated,妮莉库,8d3cbe181f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#34#12,"たしかなことは我にも言えぬが……
+何事も地道に一歩ずつ進む、
+それが一番の近道じゃと我は思うぞ。","确切的事情老身也说不准……
+但老身认为，无论何事都脚踏实地一步步前进，
+才是最快的捷径哦。",translated,妮莉库,7b2148d1dc,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#35#12,"さて、お前さんがあれについて
+どこまで知っておるかも聞けたことじゃし、
+それそろ帰るとするかの。","好啦，既然已经打听清楚
+你对那些了解到了什么程度，
+老身也差不多该回去咯。",translated,妮莉库,586fbc51a0,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico01m.txt#36#12,"次に我が来るまで、お前さんが
+無事であるよう祈っておるよ。","老身祈祷在下次到来之前，
+你也能一切平安哦。",translated,妮莉库,cbf41a088f,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02.txt#4#12,お～い、生きとるか～？,喂～还活着吗～？,translated,妮莉库,c72ef91a09,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02.txt#8#12,…ふむ。死んでおるかもしれんのぅ…。,……唔。说不定已经死掉了呢……。,translated,妮莉库,1f51e08162,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02.txt#10#12,おーーーい。,喂―――。,translated,妮莉库,240e8e829b,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02.txt#12#12,…少し５軸をずらしてみるかの…。,……稍微偏移一下第5轴看看吧……。,translated,妮莉库,d884287c1a,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#1#12,"<CLBU>おっ、ちゃんとおったようじゃな。
+どうじゃ、元気にしておったか？","<CLBU>哦，看来好好呆着呢嘛。
+如何，最近过得还好吗？",translated,妮莉库,f51027db17,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#2#12,あれから暗号文は？,打那之后密码文怎么样了？,translated,,58ece9e0e3,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#4#12,"ん？
+あぁ、あれか？","嗯？
+啊，那个吗？",translated,妮莉库,fec9f9e504,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#5#12,"そういえば、トンと見かけなくなったのぅ。
+以前は我の倉庫だけでなく、けもけもや
+世界の壁なんぞにもあったんじゃがなぁ。","说起来，近来彻底不见踪影了呐。
+以前不仅在老身的仓库，连毛球兽身上
+或者世界之壁那边都找得到呢。",translated,妮莉库,e08e822163,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#6#12,"もしかすると、この前渡したので
+最後だったのかもしれんの。","搞不好，上次交给你的那些，
+就是最后的了呐。",translated,妮莉库,cb7089a77a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#7#12,もっと見てみたかった,我还想看更多呢,translated,,b067eaa9d2,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#8#12,ついに終わったか,总算是结束了吗,translated,,57ed952c6e,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#10#12,"その気持ちは我にも分かる。
+まったく読めなかった文が、
+自身の知る言語になる過程は面白かったのぅ。","那种心情老身也能体会。
+原本完全无法阅读的文字，
+逐渐转化为自己所知语言的过程确实很有趣呐。",translated,妮莉库,8dfb8181ed,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#11#12,"まぁ、書かれとる内容は
+さっぱりじゃったがの。","嘛，虽然上面写的具体内容
+老身还是完全搞不懂就是了。",translated,妮莉库,18e52650fa,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#14#12,"なんじゃなんじゃ、端末から妙な達成感が
+伝わってくるのぅ。","什么嘛什么嘛，从终端那边
+传来了好强烈的成就感呐。",translated,妮莉库,a63949288a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#15#12,"まぁたしかに、思っていたよりも
+量が多かったのには我も驚いたからの。","不过也确实，这数量比预想的要多得多，
+老身当初也吓了一跳呢。",translated,妮莉库,018a2df20a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#17#12,しかし、あれは一体どこから来たのかのぅ。,话说回来，那些到底是从哪里来的呢。,translated,妮莉库,87c70ab976,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#18#12,"暗号を解いていけば、どこから来たものか
+分かると思っておったんじゃが……。","老身本以为只要把密码都解开，
+就能明白它们来自何方了呢……",translated,妮莉库,5804634c70,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#19#12,"どこぞの人間が書こうとした小説のメモ書きや
+世界設定なのか、もしくは特異点的なものが
+作用でもしたのか……。","不知是哪里的人想要撰写的小说备忘录
+或是世界观设定呢，还是说受到了
+某种类似奇点的特殊影响呢……",translated,妮莉库,3c8c2a8f9e,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#20#12,イオンが楽しんでたからそれでいい,只要依恩开心就足够了,translated,,cb69ecb366,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#22#12,ふむ……それもそうじゃな。,唔……倒也是呐。,translated,妮莉库,c26610c55f,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#23#12,"とうだいもりが楽しんで、
+我がからかい、お前さんが見守る――","灯塔守乐在其中，
+老身在旁打趣，而你默默守护――",translated,妮莉库,21b70d65dd,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#24#12,それだけで十分かもしれんの。,光是这样，或许就已经足够了呐。,translated,妮莉库,07e6bc4d2f,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#25#12,"さて、お前さんの元気な様子も確認できた
+ことじゃし、我は仕事に戻るとするかの。","好啦，既然也确认了你精神饱满的样子，
+老身就回店里继续工作去咯。",translated,妮莉库,c38365ded7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_nelico02m.txt#26#12,"いつかまた、お前さんらとこんな面白イベント
+にめぐり合えることを祈っておるよ。","老身祈祷着有朝一日，还能与你们俩
+再次邂逅这般有趣的奇遇哦。",translated,妮莉库,b66f12a0dc,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_paper01_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper01_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper02_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper02_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper03_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper03_01.txt#10#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper03_01.txt#13#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper03_01.txt#16#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper03_01.txt#19#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper04_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper04_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper05_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper05_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper06_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper06_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper07_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper07_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper08_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper08_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper09_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper09_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper10_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper10_01.txt#10#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper10_01.txt#82#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper11_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper11_01.txt#10#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper11_01.txt#13#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper11_01.txt#16#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper12_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper12_01.txt#10#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper12_01.txt#13#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper13_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper13_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper14_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper14_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper15_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper15_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper16_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper16_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper17_01.txt#7#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper18_01.txt#7#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper19_01.txt#7#12,<CLY2>つづく,<CLY2>待续,translated,系统文本,20069f7d19,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_paper19_01.txt#10#12,<CLY2>おわり,<CLY2>完,translated,系统文本,fcb64efb16,<CLY2> br=0 nl=0,1,keep-tags <CLY2>
+inc/event/res/linkarnosurge/linkarno_sleep01.txt#15#12,"だめ、だよ。
+みんな……にげて……。","不、行……
+大家……快逃……",translated,依恩,baeedcde37,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_sleep02.txt#15#12,えへへ……空を飛んでるみたい……。,嘿嘿……感觉就像在天空中飞翔一样……,translated,依恩,e688def039,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_sleep03.txt#15#12,"みんな……無事でよかった……。
+お願い……話を……。","太好了……大家都平安无事……
+拜托了……听我说……",translated,依恩,873fbcf7b0,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_sleep04.txt#15#12,諦めないで……一緒に……。,不要放弃……一起……,translated,依恩,46982879f1,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_sleep05.txt#15#12,"ごめんね……。
+今度はわたしが……。","对不起……
+这次换我来……",translated,依恩,a36544189b,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_sleep06.txt#15#12,"きれい……。
+なんだか懐かしい……。","好美……
+总觉得好怀念……",translated,依恩,ec107334c6,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_sleep07.txt#15#12,"……ありがとう。
+大好きだよ……。","……谢谢你。
+最喜欢你了……",translated,依恩,65e945df6a,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#2#12,"早速ねりこさんから貰った暗号文の解読に
+挑戦してみたんだけど……。","我马上就尝试去破译
+从妮莉库小姐那里拿到的密码文了……",translated,依恩,4ce95a7dd7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#4#12,"この間ねりこさんから渡された暗号文のこと
+覚えてる？","你还记得前阵子
+妮莉库小姐给我的那封密码文吗？",translated,依恩,577f96aac4,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#6#12,"あれをずっと見てたら、一つ一つの言葉が
+何を意味してるのか分かるようになったの。
+なんでだろ？","我一直盯着它看，不知不觉就明白
+每个词汇所代表的意思了呢。
+为什么会这样呢？",translated,依恩,0c60c70bb2,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_start01.txt#7#12,どういうこと？,这是什么意思？,translated,,e692803732,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_start01.txt#9#12,"えっと……文字をそのままの意味で理解する
+って言えば良いのかな？","唔……应该说是直接理解了
+文字字面本身的意思吗？",translated,依恩,0a8742d429,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#10#12,"例えば“あ”って文字を読んだとして、
+それを“い”って認識することはないでしょ？","打个比方，如果读到“阿”这个字，
+总不可能误认成“伊”吧？",translated,依恩,36461275e5,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#11#12,"それと同じように、まるで当たり前のように
+頭で理解できちゃったの。","就像那样，几乎理所当然地
+在脑海中理解了呢。",translated,依恩,66243e0cb7,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#12#12,"あっ、でもね、それでも暗号の中で分から
+なかったところがいくつかあるんだ。","啊，但是呢，密码文里
+依然有好几处我弄不明白的地方。",translated,依恩,1bad53cc12,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#13#12,"たぶん人や物の名前が入ると思うんだけど、
+どうしても、そういうところだけ解けなく
+て……。","我想那里填的应该是人名或者物品名，
+可无论如何，
+就只有那些地方怎么也解不开……",translated,依恩,c119e9b820,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_start01.txt#14#12,"名前のことはともかく、それ以外のものは
+どこかで見たことがあるのかも……。","名字的事情暂且不论，其余的内容
+我搞不好曾经在什么地方见过呢……",translated,依恩,dddda91551,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start01.txt#15#12,ということは解読は？,这么说破译的结果是？,translated,,4f327c5466,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_start01.txt#17#12,えへへ、実はもう、一つだけ解読してあるの。,嘿嘿，其实我已经破译好其中一篇了哦。,translated,依恩,eba45dc67c,br=0 nl=0,1,
+inc/event/res/linkarnosurge/linkarno_start02.txt#2#12,"ねぇ、聞いて。
+ねりこさんから貰った暗号文、
+また一つ解読できたんだよ。","呐，快听我说。
+从妮莉库小姐那里拿到的密码文，
+我又破译出一篇了哦。",translated,依恩,b4205ec9aa,br=0 nl=2,3,
+inc/event/res/linkarnosurge/linkarno_start02.txt#4#12,"そうそう、また新しい暗号文を解読して
+書き起こしてみたんだ。","对啦对啦，我又破译出了新的密码文，
+并把它抄录下来了哦。",translated,依恩,7c899fcadd,br=0 nl=1,2,
+inc/event/res/linkarnosurge/linkarno_start02.txt#6#12,"あっ、ちょうど良かった。
+ついさっき、新しい暗号文を解読した
+ところなの。","啊，来得正好。
+我刚刚才把新的密码文
+给破译出来呢。",translated,依恩,f0204aec5d,br=0 nl=2,3,
