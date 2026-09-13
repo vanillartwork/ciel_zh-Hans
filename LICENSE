@@ -1,6 +1,28 @@
 PolyForm Noncommercial License 1.0.0
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+PROJECT APPLICATION
+
+This license applies only to original software material created by this
+project's contributors, including the tools, scripts, build system, installer,
+and software-support files in this repository, unless a file states otherwise.
+
+It does not apply to the Simplified Chinese translations, glossary,
+documentation, README, or other prose. Those materials are licensed separately
+under LICENSE-TRANSLATIONS.
+
+This project claims no rights in Ciel nosurge DX or in any third-party material.
+In particular, this license grants no rights in the game's code, text, art,
+audio, characters, trademarks, or other assets, and it grants no rights in any
+typeface used to build the font atlas. All such rights remain with their
+respective owners.
+
+REQUIRED NOTICE
+
+Copyright (c) 2025 the Ciel nosurge DX Simplified Chinese translation project
+contributors. This software is made available under the PolyForm
+Noncommercial License 1.0.0 as reproduced in full below.
+
+TERMS
 
 ## Acceptance
 
@@ -13,27 +35,29 @@ your licenses.
 The licensor grants you a copyright license for the
 software to do everything you might do with the software
 that would otherwise infringe the licensor's copyright
-in it for any permitted purpose, other than distributing
-the software or making changes or new works based on the
-software.
+in it for any permitted purpose.  However, you may
+only distribute the software according to [Distribution
+License](#distribution-license) and make changes or new works
+based on the software according to [Changes and New Works
+License](#changes-and-new-works-license).
 
 ## Distribution License
 
 The licensor grants you an additional copyright license
 to distribute copies of the software.  Your license
 to distribute covers distributing the software with
-changes and new works permitted by these terms.
+changes and new works permitted by [Changes and New Works
+License](#changes-and-new-works-license).
 
 ## Notices
 
 You must ensure that anyone who gets a copy of any part of
-the software from you also gets a copy of these terms,
-as well as the following copyright notice:
+the software from you also gets a copy of these terms, as well
+as copies of any plain-text lines beginning with
+`Required Notice:` that the licensor provided with the software.
 
-This software is Copyright (c) 2025 the Ciel nosurge DX
-Simplified Chinese translation project contributors.  It is
-made available under the PolyForm Noncommercial License
-1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0>.
+Required Notice: Copyright (c) 2025 the Ciel nosurge DX Simplified Chinese
+translation project contributors.
 
 ## Changes and New Works License
 
@@ -127,24 +151,3 @@ software under these terms.
 
 **Use** means anything you do with the software requiring one
 of your licenses.
-
-
-================================================================
-SCOPE -- please read
-================================================================
-
-This license covers only the original material in this
-repository: the tools, scripts, build system, installer and
-documentation written by this project's contributors.
-
-It does NOT cover, and this project claims no rights in:
-
-  * Ciel nosurge DX, its code, art, audio, script or any other
-    part of the game, all of which remain the property of GUST
-    CO., LTD. and KOEI TECMO GAMES CO., LTD.
-  * any typeface used when building the font atlas
-
-The Chinese translations and the documentation are covered
-separately by LICENSE-TRANSLATIONS (CC BY-NC-SA 4.0).
-
-See NOTICE.md for the full statement.
