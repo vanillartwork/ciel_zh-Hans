@@ -10,7 +10,7 @@
 
 > **非官方爱好者项目。** 本项目与 GUST、光荣特库摩不存在任何隶属、合作或授权关系。
 >
-> **本项目不提供游戏本体。** 使用本补丁前，请确保你已合法购买并安装游戏。
+> **本项目不提供游戏本体。** 使用本补丁前，请确保你已合法购买并安装游戏。游戏购买[前往此处](https://store.steampowered.com/app/1477480)
 >
 > **本汉化补丁完全免费**，仅供个人学习与交流使用。任何收费行为与本项目作者无关，请勿付款。如发现有人冒用本项目名义收费，欢迎向项目作者反馈。
 >
@@ -172,7 +172,7 @@ This project provides an unofficial Simplified Chinese localization patch for **
 
 > **Unofficial fan project.** This project is not affiliated with, endorsed by, or authorized by GUST or KOEI TECMO.
 >
-> **The game itself is not distributed with this project.** Please make sure that you legally own and have installed the game before using the patch.
+> **The game itself is not distributed with this project.** Please make sure that you legally own and have installed the game before using the patch. To buy game, go [here](https://store.steampowered.com/app/1477480).
 >
 > **This patch is entirely free of charge**, intended for personal study and exchange only. Nobody is authorized to sell it, and any charge made for it has nothing to do with this project — please do not pay. If you find someone charging for it in this project's name, please report it to the project authors.
 >
