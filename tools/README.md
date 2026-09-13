@@ -19,7 +19,9 @@
 
 | 工具 | 干什么 |
 |---|---|
-| `gamepath.py` | 找游戏、找未打补丁的封包 |
+| `gamepath.py` | 找游戏（优先读 Steam 注册表项）、找未打补丁的封包 |
+| `runlog.py` | 把工具输出同时写入日志文件 |
+| `env_strings.py` | 读写设置程序的界面文本 |
 | `export_text.py` | 从封包提取文本 |
 | `export_exe_text.py` | 从 exe 提取硬编码字符串 |
 | `merge_repo.py` | 把 `data/` 的译文合并进提取结果 |
@@ -45,6 +47,7 @@
 | 工具 | 干什么 |
 |---|---|
 | `selftest_validate.py` | 证明 `validate.py` 真的拦得住坏数据（19 项） |
+| `selftest_install.py` | 证明原地写入能被正确还原（10 项） |
 | `test_roundtrip.py` | 证明解包再打包逐字节相同（**需要游戏**） |
 | `check_exe_text.py` | 检查 exe 字符串译文（**需要游戏**） |
 

@@ -8,10 +8,13 @@
 *.yaml text eol=lf
 *.txt text eol=lf
 
-# Windows-only build inputs that genuinely want CRLF
+# Windows-only build inputs that genuinely want CRLF. The licence page is one
+# of them: the installer shows it in a Windows edit control, which runs the
+# lines together if they are separated by LF alone.
 *.nsi text eol=crlf
 *.ps1 text eol=crlf
 *.bat text eol=crlf
+NOTICE-INSTALLER.txt text eol=crlf
 
 # Never let git mangle these
 *.png binary

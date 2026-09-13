@@ -34,6 +34,7 @@ KINDS = {
     "packed": ["id", "jp", "zh", "status", "max_bytes", "src", "ctl", "occurrences", "note"],
     "exe": ["id", "jp", "zh", "status", "max_bytes", "src", "ctl", "occurrences", "note"],
     "glossary": ["id", "jp", "zh", "status", "kind", "src", "ctl", "occurrences", "note"],
+    "settings": ["id", "jp", "zh", "status", "max_chars", "src", "ctl", "kind", "note"],
 }
 
 TAG = re.compile(r"<[A-Za-z0-9_]{1,12}>")
@@ -93,7 +94,8 @@ def convert(rows, kind, id_field="key"):
             "status": status_of(r),
             "note": r.get("note", ""),
         }
-        for extra in ("speaker", "lines", "attr", "max_bytes", "occurrences", "kind"):
+        for extra in ("speaker", "lines", "attr", "max_bytes", "max_chars",
+                      "occurrences", "kind"):
             if extra in r:
                 rec[extra] = r[extra]
         # the speaker is published as the Chinese name: it is our own text and
@@ -129,6 +131,7 @@ def main(exportdir, datadir):
         ("item_text.csv", "items.csv", "packed"),
         ("global_text.csv", "global.csv", "packed"),
         ("exe_text.csv", "executable.csv", "exe"),
+        ("env_text.csv", "settings.csv", "settings"),
     ]
     for srcname, dstname, kind in simple:
         p = os.path.join(exportdir, srcname)

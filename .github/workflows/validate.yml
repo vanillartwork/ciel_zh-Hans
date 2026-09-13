@@ -125,3 +125,8 @@ jobs:
         # A checker that passes everything is worse than none, so prove that
         # each rule actually fires.
         run: python tools/selftest_validate.py
+
+      - name: 自检安装与还原
+        # The in-place patch keeps only the bytes it overwrites, so the undo
+        # path has to be tested rather than assumed.
+        run: python tools/selftest_install.py

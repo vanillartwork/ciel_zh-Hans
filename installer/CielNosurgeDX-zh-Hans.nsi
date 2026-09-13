@@ -1,22 +1,10 @@
 ﻿; Ciel nosurge DX -- Simplified Chinese patch installer
 ;
-; The installer carries no game data.  What it ships is this project's own
-; translations plus the tooling, and the patched archives are produced on the
-; player's machine from the copy of the game they already own.  That keeps the
-; download small and keeps game files out of the distribution entirely.
+; The installer carries no game data. It ships this project's translations
+; and tooling; the patched files are produced on the player's machine from
+; the copy of the game they already own.
 ;
-; What it does, in order:
-;   1. find the game, or ask
-;   2. check the files it is about to replace against the versions this patch
-;      was built for, and stop if they are not recognised
-;   3. check there is room for the work
-;   4. unpack the toolchain into a working folder outside the game
-;   5. build the patch there, from the player's own game files
-;   6. install it, keeping the originals in the game's Backup folder
-;   7. write an uninstaller that puts the originals back
-;
-; Build it with installer/build-installer.ps1, which assembles the payload
-; first.  See installer/README.md.
+; Build it with installer/build-installer.ps1. See installer/README.md.
 
 Unicode true
 ManifestDPIAware true
@@ -24,22 +12,27 @@ ManifestDPIAware true
 !include "MUI2.nsh"
 !include "LogicLib.nsh"
 !include "FileFunc.nsh"
+!include "WordFunc.nsh"
+!include "WinMessages.nsh"
 !include "x64.nsh"
 
 !ifndef PATCH_VERSION
   !define PATCH_VERSION "0.0.0-dev"
 !endif
-!ifndef GAME_VERSION
-  !define GAME_VERSION "Steam 2025-07"
+!ifndef GAME_BUILD
+  !define GAME_BUILD "6298523"
 !endif
 
-!define PRODUCT       "Ciel nosurge DX 简体中文补丁"
-!define PRODUCT_EN    "CielNosurgeDX-zh-Hans"
-!define PUBLISHER     "Ciel nosurge DX 简体中文计划"
-!define REGKEY        "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_EN}"
-!define WORKDIR       "$LOCALAPPDATA\${PRODUCT_EN}"
-; the build unpacks and repacks a 1.7 GB archive
-!define NEEDED_MB     6000
+!define PRODUCT     "Ciel nosurge DX 简体中文补丁"
+!define PRODUCT_EN  "CielNosurgeDX-zh-Hans"
+!define PUBLISHER   "Ciel nosurge DX 简体中文计划"
+!define REGKEY      "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_EN}"
+; Steam writes one of these for every installed game, and its
+; InstallLocation is the game folder itself -- no guessing at library paths.
+!define GAMEKEY     "Software\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 1477480"
+!define GAMEKEY32   "Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 1477480"
+; staging is ~160 MB and the backups ~70 MB; the rest is headroom
+!define NEEDED_MB   1200
 
 Name "${PRODUCT} ${PATCH_VERSION}"
 OutFile "..\..\dist\${PRODUCT_EN}-${PATCH_VERSION}-setup.exe"
@@ -51,43 +44,48 @@ SetCompressor /SOLID lzma
 
 Var GameDir
 Var PyExe
+Var LogFile
+Var ProgFile
+Var DoneFile
+Var Bar          ; our progress bar, the one that shows real progress
+Var Pct
+Var Phase
 
 !define MUI_ABORTWARNING
 !define MUI_ICON "assets\patch.ico"
 !define MUI_UNICON "assets\patch.ico"
+
+; Simplified Chinese only: every string here is written in it, so a language
+; choice would change a handful of built-in captions and nothing else.
+
 !define MUI_WELCOMEPAGE_TITLE "安装 ${PRODUCT}"
 !define MUI_WELCOMEPAGE_TEXT \
-"本补丁会把《シェルノサージュ DX》的界面与剧情文本替换为简体中文。$\r$\n$\r$\n\
-适用的游戏版本：${GAME_VERSION}$\r$\n\
+"适用的游戏版本：Steam build ${GAME_BUILD}$\r$\n\
 补丁版本：${PATCH_VERSION}$\r$\n$\r$\n\
-安装程序不包含任何游戏文件。它会读取你自己已购买、已安装的游戏，$\r$\n\
-在你的电脑上重新打包，因此需要约 6 GB 可用磁盘空间和几分钟时间。$\r$\n$\r$\n\
-安装前会自动把被替换的原始文件备份到游戏目录下的 Backup 文件夹，$\r$\n\
-随时可以通过卸载程序还原。$\r$\n$\r$\n\
-本补丁为非官方爱好者作品，与 GUST／光荣特库摩没有任何隶属关系。"
+安装前会自动把被替换的原始文件备份到游戏目录下的 Backup 文件夹，随时可以通过卸载程序还原。$\r$\n$\r$\n\
+本补丁为非官方爱好者作品，与 GUST／光荣特库摩没有任何隶属关系。本汉化补丁完全免费，仅供个人学习与交流使用。任何收费行为与本项目作者无关，请勿付款。如发现有人冒用本项目名义收费，欢迎向项目作者反馈。"
 
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_LICENSE "..\NOTICE-INSTALLER.txt"
 
-; --- the game folder ---------------------------------------------------------
 !define MUI_PAGE_HEADER_TEXT "选择游戏位置"
 !define MUI_PAGE_HEADER_SUBTEXT "请指向 Ciel nosurge DX 的安装文件夹"
 !define MUI_DIRECTORYPAGE_TEXT_TOP \
-"请选择游戏的安装文件夹，也就是包含 CielnosurgeDX.exe 和 Res_x64 的那个文件夹。$\r$\n\
-如果下面已经自动填好，通常直接点“下一步”即可。"
+"下面的位置是自动检测到的，通常直接点“下一步”即可。$\r$\n\
+如果不对，请选到包含 CielnosurgeDX.exe 和 Res_x64 的那个文件夹。"
 !define MUI_DIRECTORYPAGE_TEXT_DESTINATION "游戏文件夹"
 !define MUI_DIRECTORYPAGE_VARIABLE $GameDir
 !define MUI_PAGE_CUSTOMFUNCTION_LEAVE CheckGameDir
 !insertmacro MUI_PAGE_DIRECTORY
 
+!define MUI_PAGE_CUSTOMFUNCTION_SHOW InstFilesShow
 !insertmacro MUI_PAGE_INSTFILES
 
 !define MUI_FINISHPAGE_TITLE "安装完成"
 !define MUI_FINISHPAGE_TEXT \
-"补丁已安装。照常从启动器启动游戏即可。$\r$\n$\r$\n\
-如果想还原成日文原版，可以在“应用和功能”里卸载本补丁，$\r$\n\
-或者运行游戏目录下 Backup 文件夹旁的卸载程序。$\r$\n$\r$\n\
-翻译问题与错误反馈，欢迎到项目页面提交。"
+"补丁已安装，照常从启动器启动游戏即可。$\r$\n$\r$\n\
+要还原成日文原版，可以在“应用和功能”里卸载本补丁，或运行游戏目录下 Backup 文件夹里的卸载程序。$\r$\n$\r$\n\
+安装日志：$LogFile"
 !define MUI_FINISHPAGE_LINK "项目主页与问题反馈"
 !define MUI_FINISHPAGE_LINK_LOCATION "https://github.com/vanillartwork/ciel_zh-Hans"
 !insertmacro MUI_PAGE_FINISH
@@ -96,48 +94,164 @@ Var PyExe
 !insertmacro MUI_UNPAGE_INSTFILES
 
 !insertmacro MUI_LANGUAGE "SimpChinese"
-!insertmacro MUI_LANGUAGE "English"
 
 
-; =============================================================================
+; ===========================================================================
+; Progress
+;
+; NSIS owns the progress bar on the InstFiles page and rewrites its position
+; after every instruction it executes, so setting that control by hand does
+; not stick. Instead its bar is hidden and a second one is created in the
+; same place; NSIS goes on updating the hidden one, and this one shows the
+; percentage the tools report.
+;
+; The tools cannot report anything while NSIS blocks on them, so the long
+; steps are started detached and their progress is read from a file they
+; rewrite as they go. `--done` is how they hand back an exit status, since a
+; detached process does not give us one.
+
+Function InstFilesShow
+  FindWindow $0 "#32770" "" $HWNDPARENT     ; the inner dialog of the page
+  GetDlgItem $1 $0 1004                     ; the bar NSIS keeps rewriting
+  ; put ours exactly where that one is, in dialog coordinates
+  System::Call "*(i,i,i,i) i .r2"
+  System::Call "user32::GetWindowRect(i r1, i r2)"
+  System::Call "user32::MapWindowPoints(i 0, i r0, i r2, i 2)"
+  System::Call "*$2(i .r3, i .r4, i .r5, i .r6)"
+  System::Free $2
+  IntOp $5 $5 - $3                          ; width
+  IntOp $6 $6 - $4                          ; height
+  ShowWindow $1 0                           ; SW_HIDE
+  System::Call "user32::CreateWindowEx(i 0, t 'msctls_progress32', t '', i 0x50000001, i r3, i r4, i r5, i r6, i r0, i 0, i 0, i 0) i .s"
+  Pop $Bar
+  SendMessage $Bar ${PBM_SETRANGE32} 0 100
+  SendMessage $Bar ${PBM_SETPOS} 0 0
+FunctionEnd
+
+
+!macro SetPct v
+  SendMessage $Bar ${PBM_SETPOS} ${v} 0
+!macroend
+
+
+; Run one tool detached and watch its progress file until it writes --done.
+!macro RunWatched tag lo_guard cmdline fallback_label
+  Delete "$DoneFile"
+  Delete "$ProgFile"
+  Exec '${cmdline}'
+  StrCpy $Phase "${fallback_label}"
+  StrCpy $R7 0                              ; watchdog ticks of 200 ms
+  StrCpy $R6 ${lo_guard}                    ; highest percent shown so far
+  watch_${tag}:
+    Sleep 200
+    IntOp $R7 $R7 + 1
+    ${If} $R7 > 18000                        ; give up after an hour
+      StrCpy $0 "timeout"
+      Goto watched_done_${tag}
+    ${EndIf}
+    ${If} ${FileExists} "$DoneFile"
+      Goto watched_done_${tag}
+    ${EndIf}
+    ${IfNot} ${FileExists} "$ProgFile"
+      Goto watch_${tag}
+    ${EndIf}
+    ClearErrors
+    FileOpen $9 "$ProgFile" r
+    ${If} ${Errors}
+      Goto watch_${tag}
+    ${EndIf}
+    FileRead $9 $Pct
+    FileRead $9 $R8
+    FileClose $9
+    ${WordReplace} "$Pct" "$\r" "" "+" $Pct
+    ${WordReplace} "$Pct" "$\n" "" "+" $Pct
+    ${WordReplace} "$R8" "$\r" "" "+" $R8
+    ${WordReplace} "$R8" "$\n" "" "+" $R8
+    ${If} $R8 != ""
+    ${AndIf} $R8 != $Phase
+      StrCpy $Phase $R8
+      DetailPrint "$R8…"
+    ${EndIf}
+    ${If} $Pct > $R6                         ; ignore a torn or stale read
+      StrCpy $R6 $Pct
+      !insertmacro SetPct $Pct
+    ${EndIf}
+    Goto watch_${tag}
+  watched_done_${tag}:
+  FileOpen $9 "$DoneFile" r
+  FileRead $9 $0
+  FileClose $9
+  ${WordReplace} "$0" "$\r" "" "+" $0
+  ${WordReplace} "$0" "$\n" "" "+" $0
+!macroend
+
+
+!macro Phase name label lo hi
+  DetailPrint "${label}"
+  !insertmacro RunWatched ${name} ${lo} '"$PyExe" "$INSTDIR\tools\build.py" --game "$GameDir" --out "$INSTDIR\build" --version "${PATCH_VERSION}" --log "$LogFile" --progress "$ProgFile" --progress-range ${lo} ${hi} --done "$DoneFile" --phase ${name}' "${label}"
+  ${If} $0 != 0
+    !insertmacro Failed
+  ${EndIf}
+  !insertmacro SetPct ${hi}
+!macroend
+
+!macro Failed
+  MessageBox MB_ICONSTOP \
+    "生成补丁失败。$\r$\n$\r$\n\
+游戏文件没有被改动，可以正常游玩。$\r$\n$\r$\n\
+详细原因见日志：$\r$\n$LogFile"
+  Abort
+!macroend
+
+
 Function .onInit
   ${IfNot} ${RunningX64}
     MessageBox MB_ICONSTOP "本游戏与本补丁都只支持 64 位 Windows。"
     Abort
   ${EndIf}
-  !insertmacro MUI_LANGDLL_DISPLAY
   Call DetectGameDir
 FunctionEnd
 
 
-; Fill in the game folder from Steam if we can, so most people never have to
-; go looking for it.
+; Steam's own uninstall entry gives the folder outright. The Steam client's
+; own registry value is the fallback, and it stores the path with forward
+; slashes, which have to be turned round before Windows will take them.
 Function DetectGameDir
   StrCpy $GameDir ""
-  ReadRegStr $0 HKCU "Software\Valve\Steam" "SteamPath"
+  ReadRegStr $0 HKLM "${GAMEKEY}" "InstallLocation"
+  ${If} $0 == ""
+    ReadRegStr $0 HKLM "${GAMEKEY32}" "InstallLocation"
+  ${EndIf}
+  ${If} $0 == ""
+    ReadRegStr $0 HKCU "${GAMEKEY}" "InstallLocation"
+  ${EndIf}
   ${If} $0 != ""
-    StrCpy $1 "$0\steamapps\common\CielnosurgeDX"
-    ${If} ${FileExists} "$1\CielnosurgeDX.exe"
-      StrCpy $GameDir $1
+    ${WordReplace} "$0" "/" "\" "+" $0
+    ${If} ${FileExists} "$0\CielnosurgeDX.exe"
+      StrCpy $GameDir $0
       Return
     ${EndIf}
   ${EndIf}
-  ReadRegStr $0 HKLM "SOFTWARE\WOW6432Node\Valve\Steam" "InstallPath"
-  ${If} $0 != ""
-    StrCpy $1 "$0\steamapps\common\CielnosurgeDX"
-    ${If} ${FileExists} "$1\CielnosurgeDX.exe"
-      StrCpy $GameDir $1
+
+  ReadRegStr $1 HKCU "Software\Valve\Steam" "SteamPath"
+  ${If} $1 == ""
+    ReadRegStr $1 HKLM "Software\WOW6432Node\Valve\Steam" "InstallPath"
+  ${EndIf}
+  ${If} $1 != ""
+    ${WordReplace} "$1" "/" "\" "+" $1
+    StrCpy $2 "$1\steamapps\common\CielnosurgeDX"
+    ${If} ${FileExists} "$2\CielnosurgeDX.exe"
+      StrCpy $GameDir $2
       Return
     ${EndIf}
   ${EndIf}
-  ; Steam libraries on other drives are listed in libraryfolders.vdf, which
-  ; NSIS cannot parse comfortably.  The Python side handles that case; here we
-  ; just offer a likely default and let the player correct it.
+
   StrCpy $GameDir "$PROGRAMFILES32\Steam\steamapps\common\CielnosurgeDX"
 FunctionEnd
 
 
 Function CheckGameDir
+  ${WordReplace} "$GameDir" "/" "\" "+" $GameDir
   ${IfNot} ${FileExists} "$GameDir\CielnosurgeDX.exe"
     MessageBox MB_ICONEXCLAMATION \
       "在这个文件夹里找不到 CielnosurgeDX.exe。$\r$\n$\r$\n\
@@ -151,13 +265,11 @@ Function CheckGameDir
 请先在 Steam 里对游戏执行“验证游戏文件完整性”，然后重新运行本安装程序。"
     Abort
   ${EndIf}
-
-  ; The build needs room to unpack and rewrite a 1.7 GB archive.
   ${GetRoot} "$GameDir" $0
   ${DriveSpace} "$0" "/D=F /S=M" $1
   ${If} $1 < ${NEEDED_MB}
     MessageBox MB_ICONEXCLAMATION|MB_OKCANCEL \
-      "$0 上只剩 $1 MB 可用空间，重新打包大约需要 ${NEEDED_MB} MB。$\r$\n$\r$\n\
+      "$0 上只剩 $1 MB 可用空间，生成补丁大约需要 ${NEEDED_MB} MB。$\r$\n$\r$\n\
 空间不足时安装会失败。仍要继续吗？" IDOK +2
     Abort
   ${EndIf}
@@ -166,13 +278,19 @@ FunctionEnd
 
 Section "安装" SecMain
   SetOutPath "$INSTDIR"
+  StrCpy $LogFile "$INSTDIR\install.log"
+  StrCpy $ProgFile "$INSTDIR\progress.txt"
+  StrCpy $DoneFile "$INSTDIR\done.txt"
+  Delete "$LogFile"
+
   DetailPrint "正在释放工具与翻译数据…"
-  ; Payload assembled by build-installer.ps1: an embedded Python runtime, the
-  ; pipeline, and this project's translation data.  No game files.
+  ; Payload from build-installer.ps1: an embedded Python runtime, the
+  ; pipeline, and this project's translation data. No game files.
   File /r "payload\python\*.*"
   File /r "payload\tools"
   File /r "payload\data"
   File "payload\VERSION"
+  !insertmacro SetPct 10
 
   StrCpy $PyExe "$INSTDIR\python.exe"
   ${IfNot} ${FileExists} "$PyExe"
@@ -181,55 +299,59 @@ Section "安装" SecMain
   ${EndIf}
 
   DetailPrint "正在核对游戏版本…"
-  nsExec::ExecToLog '"$PyExe" "$INSTDIR\tools\preflight.py" --game "$GameDir" --data "$INSTDIR\data"'
-  Pop $0
+  !insertmacro RunWatched pre 10 '"$PyExe" "$INSTDIR\tools\preflight.py" --game "$GameDir" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 10 14 --done "$DoneFile"' "正在核对游戏版本"
   ${If} $0 != 0
-    DetailPrint "版本核对未通过。"
     MessageBox MB_ICONSTOP \
       "这个游戏版本不是本补丁所针对的版本，安装已中止，游戏文件没有被改动。$\r$\n$\r$\n\
-上方日志里写明了具体原因。如果游戏刚更新过，请到项目页面反馈。"
+详细原因见日志：$\r$\n$LogFile$\r$\n$\r$\n\
+如果游戏刚更新过，请到项目页面反馈。"
     Abort
   ${EndIf}
+  !insertmacro SetPct 14
 
-  DetailPrint "正在从你的游戏文件生成补丁，这一步需要几分钟，请不要关闭窗口…"
-  nsExec::ExecToLog '"$PyExe" "$INSTDIR\tools\build.py" --game "$GameDir" --out "$INSTDIR\build" --version "${PATCH_VERSION}"'
-  Pop $0
-  ${If} $0 != 0
-    MessageBox MB_ICONSTOP \
-      "生成补丁失败，安装已中止。$\r$\n$\r$\n\
-游戏文件没有被改动，可以正常游玩。上方日志里写明了失败的原因，$\r$\n\
-反馈问题时请把它一并附上。"
-    Abort
-  ${EndIf}
+  DetailPrint "接下来会用你自己的游戏文件生成补丁，大约需要 2~3 分钟。"
+  !insertmacro Phase check   "[1/5] 检查翻译数据"       14 18
+  !insertmacro Phase extract "[2/5] 提取原文并合并译文"   18 46
+  !insertmacro Phase font    "[3/5] 重建字库"           46 60
+  !insertmacro Phase inject  "[4/5] 写回译文并修改程序"   60 80
+  !insertmacro Phase repack  "[5/5] 重新打包"           80 92
 
   DetailPrint "正在备份原始文件并安装…"
-  nsExec::ExecToLog '"$PyExe" "$INSTDIR\tools\install.py" --game "$GameDir" --from "$INSTDIR\build" --data "$INSTDIR\data" --apply'
-  Pop $0
+  !insertmacro RunWatched inst 92 '"$PyExe" "$INSTDIR\tools\install.py" --game "$GameDir" --from "$INSTDIR\build" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 92 99 --done "$DoneFile" --apply' "正在备份原始文件并安装"
   ${If} $0 != 0
     MessageBox MB_ICONSTOP \
       "安装补丁文件时出错。$\r$\n$\r$\n\
 安装程序已经把改动过的文件还原回去了。如果游戏仍然不正常，$\r$\n\
-请在 Steam 里对游戏执行“验证游戏文件完整性”。"
+请在 Steam 里对游戏执行“验证游戏文件完整性”。$\r$\n$\r$\n\
+详细原因见日志：$\r$\n$LogFile"
     Abort
   ${EndIf}
 
-  ; The build tree is several gigabytes and is of no further use.
   DetailPrint "正在清理临时文件…"
   RMDir /r "$INSTDIR\build"
+  Delete "$ProgFile"
+  Delete "$DoneFile"
 
   WriteUninstaller "$INSTDIR\uninstall.exe"
+  ; a second copy beside the backups, because that is where someone looking
+  ; to undo this will look first
+  CreateDirectory "$GameDir\Backup"
+  CopyFiles /SILENT "$INSTDIR\uninstall.exe" "$GameDir\Backup\卸载简体中文补丁.exe"
+
   WriteRegStr HKLM "${REGKEY}" "DisplayName"     "${PRODUCT}"
   WriteRegStr HKLM "${REGKEY}" "DisplayVersion"  "${PATCH_VERSION}"
   WriteRegStr HKLM "${REGKEY}" "Publisher"       "${PUBLISHER}"
   WriteRegStr HKLM "${REGKEY}" "InstallLocation" "$INSTDIR"
   WriteRegStr HKLM "${REGKEY}" "GameDir"         "$GameDir"
+  WriteRegStr HKLM "${REGKEY}" "DisplayIcon"     "$INSTDIR\uninstall.exe"
   WriteRegStr HKLM "${REGKEY}" "UninstallString" '"$INSTDIR\uninstall.exe"'
   WriteRegDWORD HKLM "${REGKEY}" "NoModify" 1
   WriteRegDWORD HKLM "${REGKEY}" "NoRepair" 1
+  !insertmacro SetPct 100
 SectionEnd
 
 
-; =============================================================================
+; ===========================================================================
 Section "Uninstall"
   ReadRegStr $GameDir HKLM "${REGKEY}" "GameDir"
   ${If} $GameDir == ""
@@ -250,8 +372,9 @@ Section "Uninstall"
 原始文件应该还在：$GameDir\Backup$\r$\n\
 也可以在 Steam 里对游戏执行“验证游戏文件完整性”来取回干净的文件。"
     ${EndIf}
+    Delete "$GameDir\Backup\卸载简体中文补丁.exe"
   ${EndIf}
-
   RMDir /r "$INSTDIR"
   DeleteRegKey HKLM "${REGKEY}"
 SectionEnd
+

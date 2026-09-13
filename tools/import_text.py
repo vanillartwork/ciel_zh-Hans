@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gustpak import Pak, rebuild
 import csvspan
 from export_text import (JP, MAX_LINES, MAX_CHARS, ATTR_RE, COMMENT_RE,
-                         bin_fields, TAG_RE, TERM_RE)
+                         bin_fields, TAG_RE, TERM_RE, SPEAKER_COL)
 try:
     from normalize_cn import normalize, residual, SUSPECT
 except Exception:
@@ -35,6 +35,7 @@ def load_csv(path):
 
 def collect(exportdir):
     script, ui, binmap = {}, {}, {}
+    speakers = {}
     for root, _, files in os.walk(os.path.join(exportdir, "script")):
         for fn in sorted(files):
             if fn.endswith(".csv"):
@@ -52,7 +53,18 @@ def collect(exportdir):
             for r in load_csv(p):
                 if r["zh"].strip():
                     binmap[r["jp"]] = r
-    return script, ui, binmap
+    # The name plate above each line of dialogue is column 11 of the script,
+    # and it is not exported per row -- one name shows up tens of thousands of
+    # times, so it is translated once in the speaker glossary and applied from
+    # there. Without this the text is Chinese but the name above it stays
+    # Japanese, which is easy to miss for names that happen to be written the
+    # same in both languages (神官, 少年).
+    p = os.path.join(exportdir, "glossary_speakers.csv")
+    if os.path.exists(p):
+        for r in load_csv(p):
+            if r["zh"].strip() and r["zh"] != r["jp"]:
+                speakers[r["jp"]] = r["zh"]
+    return script, ui, binmap, speakers
 
 
 def check(script, ui, binmap, charset):
@@ -125,19 +137,30 @@ def font_charset(pak):
     return out
 
 
-def build(pak, script, ui, binmap):
+def build(pak, script, ui, binmap, speakers=None):
     """Return {archive path lower: new bytes}."""
     out = {}
     by_file = collections.defaultdict(list)
     for k, r in script.items():
         by_file[r["file"]].append(r)
-    for path, rows in by_file.items():
+    # every script file, not only the ones with translated dialogue: a file may
+    # have nothing but name plates left to do
+    paths = set(by_file)
+    if speakers:
+        paths |= {e.path.lower() for e in pak
+                  if e.path.lower().startswith("inc/event/res/")
+                  and e.path.lower().endswith(".txt")}
+    for path in sorted(paths):
+        rows = by_file.get(path, [])
         e = pak.get(path)
         if e is None:
             continue
         d = pak.read(e)
         bom = d.startswith(BOM)
-        t = (d[3:] if bom else d).decode("utf-8")
+        try:
+            t = (d[3:] if bom else d).decode("utf-8")
+        except UnicodeDecodeError:
+            continue
         spans = {}
         for row, col, s, en in csvspan.scan(t):
             spans[(row, col)] = (s, en)
@@ -147,6 +170,18 @@ def build(pak, script, ui, binmap):
             if sp is None:
                 continue
             edits.append((sp[0], sp[1], csvspan.quote(r["zh"])))
+        if speakers:
+            done = {(int(r["row"]), int(r["col"])) for r in rows}
+            for (row, col), sp in spans.items():
+                if col != SPEAKER_COL or (row, col) in done:
+                    continue
+                name = csvspan.unquote(t[sp[0]:sp[1]])
+                zh = speakers.get(name)
+                if zh:
+                    edits.append((sp[0], sp[1], csvspan.quote(zh)))
+        if not edits:
+            continue
+        edits.sort()
         out[path] = (BOM if bom else b"") + csvspan.splice(t, edits).encode("utf-8")
 
     by_file = collections.defaultdict(list)
@@ -190,7 +225,7 @@ def main(argv):
     res, exportdir, mode, target = argv[1], argv[2], argv[3], argv[4]
     force = "--force" in argv
     pak = Pak(os.path.join(res, "PACK01.PAK"))
-    script, ui, binmap = collect(exportdir)
+    script, ui, binmap, speakers = collect(exportdir)
     print("translated rows: script=%d ui=%d bin=%d" % (len(script), len(ui), len(binmap)))
     cs = font_charset(pak)
     errs, warns, missing = check(script, ui, binmap, cs)
@@ -208,7 +243,7 @@ def main(argv):
     if errs and not force:
         print("aborted (%d errors); pass --force to write anyway" % len(errs))
         return 1
-    files = build(pak, script, ui, binmap)
+    files = build(pak, script, ui, binmap, speakers)
     print("rewriting %d archive members" % len(files))
     if mode == "--loose":
         for p, data in files.items():

@@ -16,12 +16,15 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import gamepath
+import runlog
+import progress
 
 for _s in (sys.stdout, sys.stderr):
     if hasattr(_s, "reconfigure"):
         _s.reconfigure(encoding="utf-8", errors="replace")
 
-REQUIRED = ["CielnosurgeDX.exe", "Res_x64/PACK01.PAK", "Res_x64/PACK00_01.PAK"]
+REQUIRED = ["CielnosurgeDX.exe", "CielnosurgeDX_Env.exe",
+            "Res_x64/PACK01.PAK", "Res_x64/PACK00_01.PAK"]
 
 
 def sha256(path):
@@ -51,8 +54,14 @@ def main(argv=None):
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--game")
     ap.add_argument("--data", default=os.path.join(ROOT, "data"))
-    ap.add_argument("--need-mb", type=int, default=6000)
+    ap.add_argument("--need-mb", type=int, default=1200)
+    runlog.add_argument(ap)
+    progress.add_arguments(ap)
+    ap.add_argument("--done", help="write the exit code here when finished")
     a = ap.parse_args(argv)
+    runlog.start(a.log, "preflight.py")
+    progress.from_args(a)
+    progress.label("正在核对游戏版本")
 
     try:
         game = gamepath.resolve(a.game)
@@ -113,5 +122,29 @@ def main(argv=None):
     return 0
 
 
+def _run(argv=None):
+    """Entry point that always records its exit status for a waiting caller."""
+    import argparse as _ap
+    done = None
+    args = argv if argv is not None else sys.argv[1:]
+    if "--done" in args:
+        try:
+            done = args[args.index("--done") + 1]
+        except IndexError:
+            done = None
+    try:
+        code = main(argv)
+    except SystemExit as e:
+        code = e.code if isinstance(e.code, int) else (0 if e.code is None else 1)
+        if e.code and not isinstance(e.code, int):
+            print(e.code)
+    except Exception:
+        import traceback
+        traceback.print_exc()
+        code = 1
+    if done:
+        progress.finish(done, code or 0)
+    return code or 0
+
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(_run())

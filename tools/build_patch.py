@@ -15,6 +15,8 @@ import gamepath
 from gustpak import Pak
 import import_text
 import patch_exe_strings
+import env_strings
+import progress
 
 GAME = gamepath.resolve(os.environ.get("CIEL_NOSURGE_DX"))
 RES = GAME + "/Res_x64"
@@ -38,15 +40,17 @@ def main(exportdir, fontdir, patchdir):
 
     # 1. translated data, laid out under the archive paths
     pak = Pak(RES + "/PACK01.PAK")
-    script, ui, binmap = import_text.collect(exportdir)
-    files = import_text.build(pak, script, ui, binmap)
+    script, ui, binmap, speakers = import_text.collect(exportdir)
+    files = import_text.build(pak, script, ui, binmap, speakers)
     n = 0
+    tick = progress.over(len(files), every=25)
     for p, data in files.items():
         real = pak.get(p).name.strip("\\")
         dst = os.path.join(patchdir, real.replace("\\", os.sep))
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         open(dst, "wb").write(data)
         n += 1
+        tick(n)
     print("%d translated data files" % n)
 
     # 2. font atlas
@@ -75,6 +79,15 @@ def main(exportdir, fontdir, patchdir):
     open(exe_dst, "wb").write(data)
     print("patched exe  %.1f MB, %d hardcoded strings translated"
           % (os.path.getsize(exe_dst) / 1e6, done))
+
+    # 4. the settings program, whose UI lives in its own Win32 resources
+    env_csv = os.path.join(exportdir, "env_text.csv")
+    env_src = os.path.join(GAME, env_strings.EXE)
+    if os.path.exists(env_csv) and os.path.exists(env_src):
+        env_dst = os.path.join(patchdir, env_strings.EXE)
+        if env_strings.do_patch(env_src, env_dst, env_csv):
+            raise SystemExit("the settings program's translations do not fit")
+        print("settings exe %.1f MB" % (os.path.getsize(env_dst) / 1e6))
 
     readme = os.path.join(patchdir, "安装说明.txt")
     io.open(readme, "w", encoding="utf-8").write(INSTALL % (

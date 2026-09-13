@@ -8,6 +8,7 @@ import_text.py -- never change it, never reorder or delete rows.
 import sys, os, re, csv, io, collections, itertools
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gamepath
+import progress
 from gustpak import Pak
 import csvspan
 
@@ -60,6 +61,11 @@ def w(path, header, rows):
 def export_scripts(pak, outdir):
     groups = collections.defaultdict(list)
     speakers = collections.Counter()
+    scripts = [e for e in pak
+               if e.path.lower().startswith("inc/event/res/")
+               and e.path.lower().endswith(".txt")]
+    tick = progress.over(len(scripts), every=25)
+    seen = 0
     for e in pak:
         p = e.path.lower()
         if not (p.startswith("inc/event/res/") and p.endswith(".txt")):
@@ -70,6 +76,8 @@ def export_scripts(pak, outdir):
             t = (d[3:] if bom else d).decode("utf-8")
         except UnicodeDecodeError:
             continue
+        seen += 1
+        tick(seen)
         rel = p[len("inc/event/res/"):]
         grp = rel.split("/")[0] if "/" in rel else "_root"
         cells = collections.defaultdict(dict)

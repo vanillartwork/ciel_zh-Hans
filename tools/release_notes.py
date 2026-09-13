@@ -108,7 +108,7 @@ def main(argv=None):
     L.append("")
     L.append("- 64 位 Windows 10 或更高版本")
     L.append("- 已合法购买并安装的 Ciel nosurge DX")
-    L.append("- 约 6 GB 可用磁盘空间")
+    L.append("- 约 1 GB 可用磁盘空间")
     L.append("")
     L.append("安装程序**不包含任何游戏文件**。它会读取你自己的游戏，在本机重新")
     L.append("打包，所以需要那么多磁盘空间，也需要几分钟时间。")

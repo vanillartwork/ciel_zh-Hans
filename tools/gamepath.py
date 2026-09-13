@@ -14,10 +14,21 @@ game could not be found beats a stack trace from open() three calls later.
 """
 import os, re, sys
 
-APP_ID = "3061360"          # Ciel nosurge DX on Steam
+APP_ID = "1477480"          # Ciel nosurge DX on Steam
 FOLDER = "CielnosurgeDX"
 EXE = "CielnosurgeDX.exe"
 ENV = "CIEL_NOSURGE_DX"
+# Steam writes an uninstall entry for every installed game, and its
+# InstallLocation is the folder itself -- no guessing at library layouts.
+UNINSTALL_KEYS = [
+    r"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App " + APP_ID,
+    r"SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App " + APP_ID,
+]
+
+
+def _clean(p):
+    """Steam stores its own path with forward slashes; Windows wants back."""
+    return os.path.normpath(p.replace("/", os.sep)) if p else p
 
 
 class NotFound(Exception):
@@ -27,6 +38,24 @@ class NotFound(Exception):
 def looks_right(path):
     return bool(path) and os.path.isfile(os.path.join(path, EXE)) \
         and os.path.isdir(os.path.join(path, "Res_x64"))
+
+
+def registered_location():
+    """Where Steam says this game is installed, straight from its own entry."""
+    try:
+        import winreg
+    except ImportError:
+        return None
+    for hive in (winreg.HKEY_LOCAL_MACHINE, winreg.HKEY_CURRENT_USER):
+        for key in UNINSTALL_KEYS:
+            try:
+                with winreg.OpenKey(hive, key) as k:
+                    loc = _clean(winreg.QueryValueEx(k, "InstallLocation")[0])
+                    if looks_right(loc):
+                        return loc
+            except OSError:
+                pass
+    return None
 
 
 def steam_roots():
@@ -39,7 +68,7 @@ def steam_roots():
                 with winreg.OpenKey(hive, key) as k:
                     for name in ("SteamPath", "InstallPath"):
                         try:
-                            roots.append(winreg.QueryValueEx(k, name)[0])
+                            roots.append(_clean(winreg.QueryValueEx(k, name)[0]))
                         except OSError:
                             pass
             except OSError:
@@ -62,7 +91,7 @@ def steam_roots():
             except OSError:
                 continue
             # "path"  "D:\\SteamLibrary"
-            libs += [p.replace("\\\\", "\\")
+            libs += [_clean(p.replace("\\\\", "\\"))
                      for p in re.findall(r'"path"\s+"([^"]+)"', text)]
     return libs
 
@@ -84,6 +113,9 @@ def resolve(explicit=None):
         if looks_right(path):
             return path
         tried.append(path)
+    found = registered_location()
+    if found:
+        return found
     for path in candidates():
         if looks_right(path):
             return os.path.abspath(path)

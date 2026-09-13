@@ -251,6 +251,13 @@ def check_rows(rows, rel, cols, charset, forbidden, allow, rep, strict,
                              % (len(line), MAX_DIALOGUE_LINE, line[:30]))
                     break
 
+        # the settings program's slots are a fixed number of UTF-16 units
+        cap_ch = r.get("max_chars")
+        if cap_ch:
+            if len(zh) > int(cap_ch):
+                rep.error(where, "translation is %d characters, the slot holds %d"
+                          % (len(zh), int(cap_ch)))
+
         cap = r.get("max_bytes")
         if cap:
             cap = int(cap)

@@ -19,12 +19,14 @@ import sys, os, io, csv, argparse, glob
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from repo_export import src_hash
+import progress
 
 PAIRS = [
     ("ui.csv", "ui_text.csv"),
     ("items.csv", "item_text.csv"),
     ("global.csv", "global_text.csv"),
     ("executable.csv", "exe_text.csv"),
+    ("settings.csv", "env_text.csv"),
     ("terms-in-text.csv", "glossary_terms.csv"),
     ("speakers.csv", "glossary_speakers.csv"),
 ]
@@ -96,7 +98,9 @@ def main(argv=None):
         if os.path.exists(rp) and os.path.exists(ep):
             jobs.append((rp, ep))
 
-    for rp, ep in jobs:
+    tick = progress.over(len(jobs))
+    for i, (rp, ep) in enumerate(jobs, 1):
+        tick(i)
         if not os.path.exists(ep):
             report.append("%s: your game produced no matching file"
                           % os.path.basename(rp))

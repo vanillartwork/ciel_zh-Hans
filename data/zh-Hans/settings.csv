@@ -1,0 +1,55 @@
+id,jp,zh,status,max_chars,src,ctl,kind,note
+env:1, ボタン, 按键,translated,4,de222b5c64,br=0 nl=0,dlg+str,出现9处
+env:2,Aボタンで決定・Bボタンでキャンセル,A键确定・B键取消,translated,18,a0c52b477f,br=0 nl=0,dlg+str,出现2处
+env:3,Bボタンで決定・Aボタンでキャンセル,B键确定・A键取消,translated,18,5a87541297,br=0 nl=0,dlg+str,出现2处
+env:4,DirectInputの初期化に失敗しました,DirectInput 初始化失败,translated,22,0cd5cdc2a7,br=0 nl=0,str,
+env:5,DirectXの初期化に失敗しました。DirectX11をインストールしてください。,DirectX 初始化失败。请安装 DirectX 11。,translated,42,1fec2c06f3,br=0 nl=0,str,
+env:6,『シェルノサージュ ～失われた星へ捧ぐ詩～ DX』　マウス設定,『Ciel nosurge DX』　鼠标设置,translated,31,0d4cc0cb94,br=0 nl=0,dlg,
+env:7,『シェルノサージュ ～失われた星へ捧ぐ詩～ DX』　移動/カメラ設定,『Ciel nosurge DX』　移动/镜头设置,translated,34,58079f5473,br=0 nl=0,dlg,
+env:8,『シェルノサージュ ～失われた星へ捧ぐ詩～ DX』　設定の初期化,『Ciel nosurge DX』　初始化设置,translated,32,dba13e9837,br=0 nl=0,dlg,
+env:9,『シェルノサージュ ～失われた星へ捧ぐ詩～ DX』　起動環境設定,『Ciel nosurge DX』　启动环境设置,translated,32,65d5ab23a6,br=0 nl=0,dlg+str,出现2处
+env:10,いいえ,否,translated,3,f901585367,br=0 nl=0,dlg,
+env:11,はい,是,translated,2,c92b4cda8b,br=0 nl=0,dlg,
+env:12,アナログカメラ確認,摇杆镜头确认,translated,9,b74c89d708,br=0 nl=0,str,
+env:13,アナログ入力設定,摇杆输入设置,translated,8,e295648cfa,br=0 nl=0,dlg+str,出现2处
+env:14,アナログ移動確認,摇杆移动确认,translated,8,f520f849bc,br=0 nl=0,str,
+env:15,カメラキーを上（↑）に倒してください。,请将镜头键向上（↑）推。,translated,19,978e6b4334,br=0 nl=0,str,
+env:16,カメラキーを下（↓）に倒してください。,请将镜头键向下（↓）推。,translated,19,c9b3f2763b,br=0 nl=0,str,
+env:17,カメラキーを右（→）に倒してください。,请将镜头键向右（→）推。,translated,19,443f759896,br=0 nl=0,str,
+env:18,カメラキーを左（←）に倒してください。,请将镜头键向左（←）推。,translated,19,53f899eaca,br=0 nl=0,str,
+env:19,カメラ操作,镜头操作,translated,5,3681f27a93,br=0 nl=0,dlg+str,出现3处
+env:20,キャンセル,取消,translated,5,269b0f92e4,br=0 nl=0,dlg+str,出现5处
+env:21,キーボード,键盘,translated,5,7ddbd7cde3,br=0 nl=0,dlg+str,出现4处
+env:22,キーボード設定,键盘设置,translated,7,40a3f6f940,br=0 nl=0,str,
+env:23,キー入力設定,按键设置,translated,6,f0b2becbd1,br=0 nl=0,dlg+str,出现2处
+env:24,ゲームパッド,手柄,translated,6,aed918fa76,br=0 nl=0,dlg+str,出现3处
+env:25,ゲームパッド設定,手柄设置,translated,8,bfe7ac6cac,br=0 nl=0,dlg+str,出现2处
+env:26,コントローラが認識できません,无法识别控制器,translated,14,c964c054e8,br=0 nl=0,dlg,
+env:27,コントローラーが認識できません,无法识别控制器,translated,15,c5acc9ed0b,br=0 nl=0,str,
+env:28,フルスクリーン,全屏,translated,7,ce2fa9994d,br=0 nl=0,dlg+str,出现2处
+env:29,ボタン入力設定,按键输入设置,translated,7,d70328f924,br=0 nl=0,dlg+str,出现2处
+env:30,マウスの各ボタンに、ゲームパッドの操作を割り振れます。,可以为鼠标的各个按键分配手柄操作。,translated,27,c846f4dab9,br=0 nl=0,dlg,
+env:31,マウス中クリック,鼠标中键,translated,8,5d7ac761d0,br=0 nl=0,dlg,
+env:32,マウス右クリック,鼠标右键,translated,8,f52db73f87,br=0 nl=0,dlg,
+env:33,マウス左クリック,鼠标左键,translated,8,70f589a54f,br=0 nl=0,dlg,
+env:34,マウス操作を有効にする,启用鼠标操作,translated,11,45274b1fe6,br=0 nl=0,dlg+str,出现2处
+env:35,マウス設定,鼠标设置,translated,5,a961fd445d,br=0 nl=0,dlg+str,出现2处
+env:36,初期化,初始化,translated,3,65fb0be053,br=0 nl=0,dlg+str,出现3处
+env:37,日本語,日语,translated,3,c12140a0ff,br=0 nl=0,str,
+env:38,決定,确定,translated,2,0f8e5b4de9,br=0 nl=0,dlg+str,出现6处
+env:39,画面解像度(&D),屏幕分辨率(&D),translated,9,6329450480,br=0 nl=0,dlg+str,出现2处
+env:40,画面設定,画面设置,translated,4,e63181982c,br=0 nl=0,dlg,
+env:41,移動/カメラ操作キー入力設定,移动/镜头操作按键设置,translated,14,501be81e06,br=0 nl=0,dlg,
+env:42,移動/カメラ設定,移动/镜头设置,translated,8,d711bcf42e,br=0 nl=0,dlg+str,出现2处
+env:43,移動/カーソル移動,移动/光标移动,translated,9,1da454e389,br=0 nl=0,dlg+str,出现2处
+env:44,移動キーを上（↑）に倒してください。,请将移动键向上（↑）推。,translated,18,e5da3de748,br=0 nl=0,str,
+env:45,移動キーを下（↓）に倒してください。,请将移动键向下（↓）推。,translated,18,188cacb801,br=0 nl=0,str,
+env:46,移動キーを右（→）に倒してください。,请将移动键向右（→）推。,translated,18,c26bb2e2a0,br=0 nl=0,str,
+env:47,移動キーを左（←）に倒してください。,请将移动键向左（←）推。,translated,18,9ae32144f7,br=0 nl=0,str,
+env:48,移動操作,移动操作,translated,4,fb1cfa4239,br=0 nl=0,dlg,
+env:49,言語,语言,translated,2,31eecb3ddc,br=0 nl=0,str,
+env:50,言語設定,语言设置,translated,4,848178ad72,br=0 nl=0,str,
+env:51,設定を初期化しますがよろしいですか？,确定要初始化设置吗？,translated,18,206cb395e9,br=0 nl=0,dlg,
+env:52,詳細設定,详细设置,translated,4,c451099704,br=0 nl=0,dlg+str,出现2处
+env:53,起動環境設定,启动环境设置,translated,6,27e636564a,br=0 nl=0,dlg+str,出现2处
+env:54,通常設定,常规设置,translated,4,e679a13a21,br=0 nl=0,str,
