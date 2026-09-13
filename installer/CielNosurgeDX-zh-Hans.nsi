@@ -160,8 +160,8 @@ FunctionEnd
     ${If} ${Errors}
       Goto watch_${tag}
     ${EndIf}
-    FileRead $9 $Pct
-    FileRead $9 $R8
+    FileReadUTF16LE $9 $Pct
+    FileReadUTF16LE $9 $R8
     FileClose $9
     ${WordReplace} "$Pct" "$\r" "" "+" $Pct
     ${WordReplace} "$Pct" "$\n" "" "+" $Pct
@@ -179,7 +179,7 @@ FunctionEnd
     Goto watch_${tag}
   watched_done_${tag}:
   FileOpen $9 "$DoneFile" r
-  FileRead $9 $0
+  FileReadUTF16LE $9 $0
   FileClose $9
   ${WordReplace} "$0" "$\r" "" "+" $0
   ${WordReplace} "$0" "$\n" "" "+" $0
@@ -292,10 +292,15 @@ Section "安装" SecMain
   File "payload\VERSION"
   !insertmacro SetPct 10
 
-  StrCpy $PyExe "$INSTDIR\python.exe"
+  ; pythonw, not python: Exec runs the child in its own window, and the
+  ; console one would flash up once for every phase.
+  StrCpy $PyExe "$INSTDIR\pythonw.exe"
+  ${IfNot} ${FileExists} "$PyExe"
+    StrCpy $PyExe "$INSTDIR\python.exe"
+  ${EndIf}
   ${IfNot} ${FileExists} "$PyExe"
     DetailPrint "未找到随附的 Python，改用系统 Python。"
-    StrCpy $PyExe "py"
+    StrCpy $PyExe "pyw"
   ${EndIf}
 
   DetailPrint "正在核对游戏版本…"

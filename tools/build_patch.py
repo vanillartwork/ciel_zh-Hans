@@ -82,7 +82,7 @@ def main(exportdir, fontdir, patchdir):
 
     # 4. the settings program, whose UI lives in its own Win32 resources
     env_csv = os.path.join(exportdir, "env_text.csv")
-    env_src = os.path.join(GAME, env_strings.EXE)
+    env_src = gamepath.source_file(GAME, env_strings.EXE)
     if os.path.exists(env_csv) and os.path.exists(env_src):
         env_dst = os.path.join(patchdir, env_strings.EXE)
         if env_strings.do_patch(env_src, env_dst, env_csv):

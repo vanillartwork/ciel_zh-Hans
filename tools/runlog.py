@@ -14,6 +14,33 @@ the installer's Chinese ones, saying everything twice.
 import sys, io, os, time
 
 
+class _Null:
+    """Stands in for a stream that is not there.
+
+    Under pythonw.exe -- which the installer uses so that no console window
+    appears -- sys.stdout and sys.stderr are None, and the first print() would
+    otherwise end the run before anything was logged.
+    """
+
+    def write(self, s):
+        return len(s)
+
+    def flush(self):
+        pass
+
+    def reconfigure(self, **kw):
+        pass
+
+    def isatty(self):
+        return False
+
+
+if sys.stdout is None:
+    sys.stdout = _Null()
+if sys.stderr is None:
+    sys.stderr = _Null()
+
+
 class Tee:
     def __init__(self, stream, fh):
         self.stream, self.fh = stream, fh

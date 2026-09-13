@@ -117,7 +117,8 @@ def main(argv=None):
         try:
             export_text.main(res, work)
             export_exe_text.main(work)
-            env_strings.do_export(work, os.path.join(game, env_strings.EXE))
+            env_strings.do_export(work,
+                                  gamepath.source_file(game, env_strings.EXE))
         except Exception as e:
             stop("Extraction", str(e))
 

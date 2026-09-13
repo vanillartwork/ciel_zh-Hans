@@ -14,9 +14,11 @@ arithmetic in one place and lets the phases be reordered or reweighted without
 any of them knowing about the others.
 
 Each write goes to a temporary file and is then renamed over the real one, so
-a reader polling it never sees half a line. The reader is expected to ignore a
-value it cannot parse anyway -- belt and braces, because this runs while an
-installer is watching.
+a reader polling it never sees half a line.
+
+The file is UTF-16LE without a BOM, because the reader is NSIS: its FileRead
+decodes with the system code page and would turn a UTF-8 label into mojibake,
+while FileReadUTF16LE reads this exactly.
 """
 import io, os, sys
 
@@ -78,9 +80,23 @@ def report(fraction):
     pct = _state["last"]
     if pct < 0:
         return
+    _atomic(path, "%d\n%s\n" % (int(round(pct)), _state["label"]))
+
+
+def _atomic(path, text):
+    """Replace the file in one step, and in the encoding the reader expects.
+
+    Two things the reader needs. It polls while we write, so the file is built
+    under a temporary name and renamed over the real one -- a rename is atomic,
+    so a poller never catches half a line. And the reader is NSIS, whose
+    FileRead decodes with the system code page: a UTF-8 label would arrive as
+    mojibake, while FileReadUTF16LE reads UTF-16LE without a BOM exactly.
+    """
+    tmp = path + ".tmp"
     try:
-        with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("%d\n%s\n" % (int(round(pct)), _state["label"]))
+        with io.open(tmp, "wb") as fh:
+            fh.write(text.encode("utf-16-le"))
+        os.replace(tmp, path)
     except OSError:
         pass                       # progress is never worth failing a build over
 
@@ -99,11 +115,11 @@ def over(total, every=1):
 
 
 def finish(path, code, label_text=""):
-    """Tell the caller this run is over, and with what exit status."""
+    """Tell the caller this run is over, and with what exit status.
+
+    A detached process gives its launcher no exit code, so this file is how it
+    comes back.
+    """
     if not path:
         return
-    try:
-        with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("%d\n%s\n" % (int(code), label_text))
-    except OSError:
-        pass
+    _atomic(path, "%d\n%s\n" % (int(code), label_text))

@@ -133,6 +133,19 @@ def res_dir(explicit=None):
     return os.path.join(resolve(explicit), "Res_x64")
 
 
+def source_file(game, name):
+    """A file from the game root that the patch has not already rewritten.
+
+    Same reasoning as source_pak: reading an already-patched executable would
+    take this project's own Chinese for the original Japanese, and every
+    source hash downstream would stop matching.
+    """
+    backup = os.path.join(game, "Backup", name)
+    if os.path.isfile(backup):
+        return backup
+    return os.path.join(game, name)
+
+
 def source_pak(res, name):
     """An archive the patch has not already been applied to.
 

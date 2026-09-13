@@ -156,7 +156,7 @@ def find_strings(d):
 
 
 def do_export(outdir, exe_path=None):
-    path = exe_path or os.path.join(gamepath.resolve(), EXE)
+    path = exe_path or gamepath.source_file(gamepath.resolve(), EXE)
     d = open(path, "rb").read()
     rows = find_strings(d)
     os.makedirs(outdir, exist_ok=True)
