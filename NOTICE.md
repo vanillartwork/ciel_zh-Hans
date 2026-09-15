@@ -1,112 +1,58 @@
 # 版权、授权与免责声明
 
-*[English below](#notice-english)*
+[English](#notice-english)
 
-## 这是什么
+## 项目性质
 
-本项目是《シェルノサージュ ～失われた星へ捧ぐ詩～ DX》（Ciel nosurge DX）的
-**非官方**简体中文化项目，由爱好者制作。
+本项目是《シェルノサージュ ～失われた星へ捧ぐ詩～ DX》（Ciel nosurge DX）的非官方简体中文本地化项目。
 
-## 与权利人的关系
+本项目与 GUST CO., LTD.、KOEI TECMO GAMES CO., LTD. 及其关联公司无隶属、合作、授权或认可关系。游戏程序、剧本、美术、音乐、语音、角色及其他内容的权利归各自权利人所有。相关名称和商标仅用于指称作品。
 
-- 本项目与 GUST CO., LTD.、KOEI TECMO GAMES CO., LTD. 及其任何关联公司
-  **没有任何隶属、合作、授权或认可关系**。
-- 游戏本体、以及游戏中的程序、剧本、美术、音乐、语音、角色、商标与其他一切
-  内容，权利均归其各自权利人所有。
-- "シェルノサージュ"、"Ciel nosurge"、"Ar nosurge"、"GUST"、"KOEI TECMO"
-  等名称与标识为其各自所有者的商标或注册商标，本项目仅在指称意义上使用。
+## 项目内容与使用前提
 
-## 本项目不提供游戏
+使用补丁须合法购买并安装游戏。仓库和发布内容不能替代游戏本体。
 
-**本仓库与 Release 都不包含、也不能替代正版游戏。**
+项目提供译文、术语表、工具与文档，不提供游戏可执行文件、封包、美术、音频、视频、模型或字体资源。补丁在安装时基于使用者本机的游戏文件生成。
 
-本项目刻意不上传下列内容：
-
-- 完整或部分的游戏可执行文件
-- 完整或部分的游戏封包（`.PAK`）与解包后的游戏资源
-- 游戏的美术、音频、视频、模型、字体文件
-
-仓库中保存的是本项目自己创作的译文、术语表、工具链与文档。
-补丁本身不是预先打包好的游戏文件，而是**安装时在使用者本地、
-用使用者自己的游戏文件重新打包生成**。
-
-使用本补丁的前提是：**你已经合法购买并安装了该游戏。**
-
-### 关于日文原文
-
-翻译数据中，每一行译文旁边附有对应的**日文原文**。
-
-这样做是为了让译者和校对者能够直接对照原文工作，
-也让每一次修改在 Pull Request 中都能看清改的究竟是哪一句——
-把原文单独抽走会让协作翻译变得非常困难。
-
-需要说明的是：
-
-- 这些原文是**为翻译与校对而收录的参照文本**，按行拆分、
-  与译文成对存放，**不构成可阅读的作品形态**，也不能替代游玩游戏；
-- 原文的著作权属于原权利人，本项目不对其主张任何权利，
-  也不以任何授权协议对外授予它；
-- 仓库中不含游戏的程序、美术、音频、视频，
-  **没有游戏本体，这些文本也无法让任何人玩到这部作品**；
-- 若权利人认为此种收录方式不妥，请通过 Issue 告知，
-  项目将配合调整或移除。
+翻译数据保留与译文对应的日文原文，供翻译、校对及变更审阅使用。原文版权归原权利人所有，不纳入本项目许可证的授权范围。权利人如对收录方式有异议，可联系项目要求调整或移除。
 
 ## 授权
 
-本仓库中的内容分两部分授权，各自只覆盖本项目原创的部分：
-
-| 部分 | 授权 |
+| 内容 | 许可证 |
 |---|---|
-| 代码：`tools/`、`installer/` | [PolyForm Noncommercial 1.0.0](LICENSE) |
-| 译文与文档：`data/`、`docs/`、各 `.md` | [CC BY-NC-SA 4.0](LICENSE-TRANSLATIONS) |
+| 工具、脚本及安装程序代码 | [PolyForm Noncommercial 1.0.0](LICENSE) |
+| 译文、术语表及文档 | [CC BY-NC-SA 4.0](LICENSE-TRANSLATIONS) |
 
-两份授权都**仅适用于本项目贡献者所创作的内容**，
-**不对原游戏的任何部分主张权利，也无法向你授予原游戏的任何权利。**
+许可证仅覆盖贡献者有权授权的原创内容，不授予原游戏或其他第三方内容的权利。
 
-### 禁止商业使用
+### 商业使用限制
 
-无论哪一部分，都**禁止任何未经授权的商业使用**，包括但不限于：
-
-- 出售本补丁，或对本补丁收费
-- 将本补丁与游戏打包出售，或随付费服务分发
-- 把本补丁用于付费代装、付费会员、广告变现等牟利行为
-- 将译文用于任何商业产品
+未经另行授权，不得商业使用，包括出售补丁、与游戏捆绑销售、付费代装、随付费服务分发、会员或广告变现，以及将译文用于商业产品。
 
 ### 贡献者授权
 
-向本项目提交内容（Pull Request、Issue 中的译文建议等）即表示你同意：
+提交 Pull Request、Issue 中的译文建议等内容，即表示同意：
 
-1. 你的贡献以上表中对应的授权协议发布；
-2. 你拥有提交这些内容所需的权利，且内容并非抄袭自其他汉化组、
-   机翻服务或任何未经授权的来源；
-3. 你保留自己贡献的著作权，署名记录在 Git 历史中；
-4. 若将来权利人愿意采纳本项目成果，项目维护者可与贡献者联系，
-   在**征得你另行同意**后，以其他条款授权你的贡献。
-   **本条不构成事先的自动改授权。**
+1. 贡献按上述对应许可证发布。
+2. 提交者拥有所需权利，未抄用其他汉化组、机翻服务或其他未经授权来源的内容。
+3. 提交者保留贡献的著作权，署名记录在 Git 历史中。
+4. 权利人拟采纳项目成果时，维护者可联系贡献者协商其他授权；变更条款须另行取得贡献者明确同意，本条不构成预先授权。
 
-## 逆向工程说明
+## 逆向工程范围
 
-`docs/reverse-engineering/` 中记录了封包格式、文本编码、字形表布局等信息，
-目的仅限于**让文本能够被提取、翻译并写回**，以及让其他语言的社区能复用同一套工具。
+`docs/reverse-engineering/` 仅记录文本提取、翻译、写回及其他语言移植所需的封包格式、文本编码和字形结构。
 
-本项目**不包含也不接受**与 DRM、授权验证、防盗版、访问控制等技术保护措施
-相关的分析、绕过或破解内容。此类 Issue 与 Pull Request 会被直接关闭。
+项目不包含或接受与 DRM、授权验证、防盗版、访问控制等技术保护措施相关的分析、绕过或破解内容。相关 Issue 与 Pull Request 将关闭。
 
 ## 免责声明
 
-本补丁按"现状"提供，不附带任何明示或默示的担保。
+本补丁按「现状」提供，不附带明示或默示担保。补丁会修改游戏文件，安装工具提供备份与还原功能，使用风险仍由使用者承担。
 
-补丁会替换游戏文件。安装程序会先把原始文件备份到游戏目录下的 `Backup`，
-并提供还原功能；即便如此，**使用风险由使用者自行承担**。
-对于因使用本补丁导致的存档损坏、游戏无法运行或其他任何损失，
-项目及其贡献者不承担责任。
-
-随时可以通过 Steam 的"验证游戏文件完整性"恢复为原版。
+对于因使用补丁导致的存档损坏、游戏无法运行或其他损失，项目及贡献者不承担责任。原始文件可通过 Steam「验证游戏文件完整性」恢复。
 
 ## 权利人通知
 
-若权利人认为本项目侵犯了其权益，请通过 Issue 或仓库中的联系方式告知，
-项目将配合处理，包括在必要时下架相关内容。
+权利人如认为项目侵犯其权益，请通过 Issue 或仓库中的联系方式告知。项目将配合处理，必要时移除相关内容。
 
 ---
 
@@ -114,61 +60,43 @@
 
 # Notice (English)
 
-This is an **unofficial**, fan-made Simplified Chinese localisation of
-*Ciel nosurge DX*.
+## Project Status
 
-**No affiliation.** This project is not affiliated with, endorsed by, or
-licensed by GUST CO., LTD., KOEI TECMO GAMES CO., LTD., or any of their
-affiliates. The game and everything in it remain the property of their
-respective owners. All trademarks belong to their owners and are used here
-only to refer to the work.
+This is an unofficial Simplified Chinese localization of *Ciel nosurge DX*. It is not affiliated with, endorsed by, or authorized by GUST CO., LTD., KOEI TECMO GAMES CO., LTD., or their affiliates.
 
-**This project does not provide the game.** Neither the repository nor its
-releases contain the game, and neither can substitute for owning it. No game
-executable, archive, unpacked asset, art, audio, video, model or font is
-uploaded here. The patch is built on your machine at install time, from the
-copy of the game you own. You must legally own the game to use this.
+The game, its code, script, artwork, audio, characters, and other content belong to their respective rights holders. Names and trademarks are used only to identify the work.
 
-**About the Japanese source text.** Each translation is stored next to the
-Japanese line it translates, so that translators and proofreaders can work
-against the source and so that a pull request shows which line actually
-changed. That text is included as reference material for translation: it is
-split line by line, paired with its translation, and is not a readable form of
-the work. Copyright in it belongs to the rights holders; this project claims
-no rights in it and licenses none of it to anyone. Without the game's code,
-art, audio and video — none of which is here — it does not let anyone play the
-work. If the rights holders consider this inclusion inappropriate, please open
-an issue and we will adjust or remove it.
+## Content and Requirements
 
-**Licensing.** Code (`tools/`, `installer/`) is under
-[PolyForm Noncommercial 1.0.0](LICENSE). Translations and documentation
-(`data/`, `docs/`, prose) are under
-[CC BY-NC-SA 4.0](LICENSE-TRANSLATIONS). Both cover **only** the original
-material contributed to this project. Neither claims any right in the game,
-and neither can grant you rights in it. **Unauthorised commercial use of any
-kind is prohibited** — selling the patch, bundling it with the game, charging
-for installation, or using the translations in a commercial product.
+You must legally own and install the game to use the patch. The repository and releases do not replace the game.
 
-**Contributions.** By contributing you agree your work is released under the
-licenses above, that you have the right to contribute it, and that it is not
-copied from another translation group, machine translation service, or other
-unauthorised source. You keep the copyright in your contribution. If rights
-holders ever wish to adopt this work, maintainers may approach contributors
-to relicense — **with your separate, explicit consent at that time**; nothing
-here relicenses your work in advance.
+The project provides translations, a glossary, tools, and documentation. It does not distribute game executables, archives, artwork, audio, video, models, or font assets. The patch is built locally from the user's installed game.
 
-**Reverse engineering.** `docs/reverse-engineering/` documents archive
-formats, text encodings and the glyph table only so far as is needed to get
-text out, translated, and back in, and so other language communities can
-reuse the same tooling. This project does **not** include or accept anything
-concerning DRM, licence checks, anti-piracy, copy protection or access
-control. Issues and pull requests of that kind are closed.
+Japanese source text is stored beside translations for translation, proofreading, and change review. Its copyright remains with the original rights holders, and it is excluded from the project's licenses. Rights holders may request adjustment or removal.
 
-**No warranty.** Provided as is. The patch replaces game files; the installer
-backs the originals up to `Backup/` in the game folder and can restore them,
-but you use it at your own risk. Steam's "verify integrity of game files"
-restores the original game at any time.
+## Licensing
 
-**Rights holders:** if you believe this project infringes your rights, please
-open an issue or use the contact in this repository. We will cooperate,
-including taking material down.
+Tool, script, and installer code uses [PolyForm Noncommercial 1.0.0](LICENSE). Translations, the glossary, and documentation use [CC BY-NC-SA 4.0](LICENSE-TRANSLATIONS).
+
+These licenses cover only original contributions that their authors are entitled to license. They grant no rights to the game or other third-party material.
+
+Unauthorized commercial use is prohibited, including selling or bundling the patch, paid installation, distribution through paid services, membership or advertising monetization, and use of translations in commercial products.
+
+## Contributions
+
+By submitting a Pull Request, a translation suggestion in an Issue, or other content, you agree that:
+
+1. Your contribution is released under the applicable license above.
+2. You hold the necessary rights and have not copied content from another translation group, machine translation service, or other unauthorized source.
+3. You retain copyright in your contribution, with attribution recorded in Git history.
+4. If a rights holder wishes to adopt the work, maintainers may discuss alternative licensing with you. Any change requires your separate, explicit consent; this notice does not authorize it in advance.
+
+## Reverse Engineering
+
+The format documentation covers only the archive, encoding, and glyph structures needed for localization and reuse by other language projects. The project does not include or accept analysis or circumvention of DRM, license checks, anti-piracy measures, or access controls. Related Issues and Pull Requests will be closed.
+
+## Disclaimer and Rights Holder Requests
+
+The patch is provided as is, without express or implied warranties. It modifies game files and includes backup and restoration tools, but use remains at the user's risk. The project and its contributors accept no liability for damaged saves, failure to run the game, or other losses arising from its use. Steam's file integrity verification can restore original files.
+
+Rights holders may contact the project through an Issue or the repository's contact details. The project will cooperate, including removing affected content where necessary.

@@ -1,41 +1,28 @@
-# 文档
+# 文档索引
 
-## 玩家
+## 使用与反馈
 
-| 文档 | 内容 |
-|---|---|
-| [install.md](install.md) | 安装、卸载、出问题怎么办 |
-| [known-issues.md](known-issues.md) | 已知问题 |
-| [not-translated.md](not-translated.md) | **还有哪些内容没汉化**，以及为什么 |
-| [supported-versions.md](supported-versions.md) | 支持哪些游戏版本，以及为什么卡得这么严 |
+- [安装与卸载](install.md)：安装要求、还原方法及故障排查
+- [已知问题](known-issues.md)：当前版本的限制
+- [未汉化内容](not-translated.md)：保留原文、待处理及范围外的内容
+- [支持的游戏版本](supported-versions.md)：版本核对与适配流程
 
-## 译者与校对
+## 翻译与校对
 
-| 文档 | 内容 |
-|---|---|
-| [../CONTRIBUTING.md](../CONTRIBUTING.md) | 从哪开始 |
-| [style-guide.md](style-guide.md) | **翻译规范**，包括不能改的技术内容 |
-| [glossary.md](glossary.md) | 术语表怎么用、怎么改 |
-| [editing-csv.md](editing-csv.md) | 用什么编辑器，怎么设置 |
-| [validation.md](validation.md) | 自动检查在查什么，怎么破例 |
+- [贡献指南](../CONTRIBUTING.md)
+- [翻译规范](style-guide.md)
+- [术语表](glossary.md)
+- [CSV 编辑说明](editing-csv.md)
+- [自动校验](validation.md)
 
-## 开发者
+## 开发与维护
 
-| 文档 | 内容 |
-|---|---|
-| [build.md](build.md) | 自己构建补丁 |
-| [pipeline.md](pipeline.md) | 从游戏文件到补丁的完整流程 |
-| [translation-data.md](translation-data.md) | 数据格式，以及为什么仓库里没有日文 |
-| [releasing.md](releasing.md) | 发布流程 |
-| [reverse-engineering/](reverse-engineering/) | 格式资料 |
+- [构建指南](build.md)
+- [构建流程](pipeline.md)
+- [翻译数据格式](translation-data.md)
+- [发布流程](releasing.md)
+- [文件格式资料](reverse-engineering/README.md)
+- [其他语言移植](porting-to-other-languages.md)
+- [工具索引](../tools/README.md)与[安装程序](../installer/README.md)
 
-## 其他语言的社区
-
-| 文档 | 内容 |
-|---|---|
-| [porting-to-other-languages.md](porting-to-other-languages.md) | 怎么复用这套工具链 |
-| [reverse-engineering/](reverse-engineering/) | 格式细节与踩过的坑 |
-
-## 版权
-
-见 [../NOTICE.md](../NOTICE.md)。
+版权与授权说明见 [NOTICE.md](../NOTICE.md)。
