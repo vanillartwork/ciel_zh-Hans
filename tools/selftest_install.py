@@ -115,11 +115,33 @@ def main():
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
+    # The installer deletes its build folder once it has finished, so by the
+    # time anyone uninstalls, the only copy of the plan is the one apply wrote
+    # into Backup/.  Without it the 16 MB range backup is unusable -- the bytes
+    # are there but nothing says where they go -- and the game stays patched.
+    root = tempfile.mkdtemp(prefix="cninst-gone-")
+    try:
+        game, staged, original, new_slice = build_case(root)
+        backup = os.path.join(game, "Backup")
+        archive = os.path.join(game, "Res_x64", "PACK00_01.PAK")
+        plan = install.load_plan(root)
+        install.apply_step(game, backup, plan[0], report=lambda *a: None)
+        install.save_plan(backup, plan)
+        shutil.rmtree(staged)                     # what the installer does
+
+        check("build 删除后仍能从 Backup 读回还原计划",
+              len(install.load_applied_plan(backup)) == len(plan))
+        rc = install.do_restore(game, backup, install.load_applied_plan(backup))
+        check("build 删除后卸载仍能还原原地写入的区间",
+              rc == 0 and io.open(archive, "rb").read() == original)
+    finally:
+        shutil.rmtree(root, ignore_errors=True)
+
     print()
     if failures:
         print("%d 项未通过" % len(failures))
         return 1
-    print("全部 10 项自检通过")
+    print("全部 12 项自检通过")
     return 0
 
 

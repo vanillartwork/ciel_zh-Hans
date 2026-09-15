@@ -39,18 +39,68 @@ def sha256(b):
     return hashlib.sha256(b).hexdigest()
 
 
+BUNDLE = "text.zip"
+
+
+class Staged:
+    """The patched members waiting to be folded back in.
+
+    Two layouts.  The translated text arrives as one uncompressed zip, because
+    writing it as 2,679 separate files and reading them straight back costs
+    around 50 seconds on a machine with on-access virus scanning -- the scanner
+    walks every new file the first time it is opened.  (Read them a second time
+    and it is a fifth of a second; that is what makes the cost easy to miss.)
+    Everything else -- the atlas, the executables -- stays a real file, since
+    there are only a handful and install.py copies them out directly.
+    """
+
+    def __init__(self, patchdir):
+        self.files = {}
+        self.zip = None
+        self.zipped = {}
+        bundle = os.path.join(patchdir, BUNDLE)
+        if os.path.isfile(bundle):
+            import zipfile
+            self.zip = zipfile.ZipFile(bundle)
+            for name in self.zip.namelist():
+                rel = name.replace("\\", "/").lstrip("/").lower()
+                if rel in self.zipped:
+                    raise ValueError("%s lists %s twice" % (BUNDLE, name))
+                self.zipped[rel] = name
+        for root, _, files in os.walk(patchdir):
+            for fn in files:
+                if root == patchdir and (fn.endswith(".txt") or fn == BUNDLE):
+                    continue                  # the install note, and the bundle
+                p = os.path.join(root, fn)
+                rel = os.path.relpath(p, patchdir).replace(os.sep, "/").lower()
+                if rel.endswith(".exe"):
+                    continue
+                if rel in self.zipped:
+                    raise ValueError("%s is both a loose file and in %s -- a "
+                                     "half-converted build would silently use "
+                                     "one of them" % (rel, BUNDLE))
+                self.files[rel] = p
+
+    def __contains__(self, rel):
+        return rel in self.zipped or rel in self.files
+
+    def __len__(self):
+        return len(self.zipped) + len(self.files)
+
+    def read(self, rel):
+        """The patched bytes.  A damaged bundle must stop the build, not look
+        like an entry that was never patched."""
+        name = self.zipped.get(rel)
+        if name is not None:
+            try:
+                return self.zip.read(name)    # ZipFile.read verifies the CRC
+            except Exception as e:
+                raise IOError("%s: could not read %s (%s)" % (BUNDLE, name, e))
+        return open(self.files[rel], "rb").read()
+
+
 def collect(patchdir):
-    out = {}
-    for root, _, files in os.walk(patchdir):
-        for fn in files:
-            if fn.endswith(".txt") and root == patchdir:
-                continue                      # the install note
-            p = os.path.join(root, fn)
-            rel = os.path.relpath(p, patchdir).replace(os.sep, "/").lower()
-            if rel.endswith(".exe"):
-                continue
-            out[rel] = p
-    return out
+    return Staged(patchdir)
 
 
 def can_patch_in_place(src, repl):
@@ -98,7 +148,7 @@ def main(patchdir, outdir):
             if not any(p.startswith(x) for x in prefixes):
                 continue
             if p in have:
-                repl[p] = open(have[p], "rb").read()
+                repl[p] = have.read(p)
         if not repl:
             print("%-16s nothing to change" % pakname)
             continue

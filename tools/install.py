@@ -75,6 +75,36 @@ def load_plan(build_dir):
     return []
 
 
+def save_plan(backup, plan):
+    """Keep the restore plan beside the bytes it describes.
+
+    The range backup in Backup/ is 16 MB of the archive's original bytes, and
+    nothing else says where in the archive they belong.  The plan used to live
+    only in the build folder, which the installer deletes once it has finished
+    -- so an uninstall later found the backup but no way to use it, and left
+    the game patched.  Writing the plan here makes Backup/ self-sufficient.
+    """
+    if not plan:
+        return
+    keep = [{k: v for k, v in st.items() if not k.startswith("_")} for st in plan]
+    p = os.path.join(backup, PLAN)
+    tmp = p + ".tmp"
+    io.open(tmp, "w", encoding="utf-8").write(json.dumps(keep, ensure_ascii=False,
+                                                         indent=2))
+    os.replace(tmp, p)
+
+
+def load_applied_plan(backup):
+    """What a previous install actually did to this game folder."""
+    p = os.path.join(backup, PLAN)
+    if not os.path.isfile(p):
+        return []
+    try:
+        return json.load(io.open(p, encoding="utf-8"))
+    except (ValueError, OSError):
+        return []
+
+
 def backup_name(backup, step):
     return os.path.join(backup, "%s.%d%s" % (os.path.basename(step["archive"]),
                                              step["offset"], BACKUP_SUFFIX))
@@ -281,6 +311,10 @@ def main(argv=None):
     known = known_versions(a.data)
     built = find_built(a.build)
     plan = load_plan(a.build)
+    # For undoing an install, what Backup/ records beats what a build tree
+    # happens to contain -- and after a real install the build tree is gone.
+    if a.restore or a.verify:
+        plan = load_applied_plan(backup) or plan
     # An archive covered by the in-place plan is not replaced wholesale.
     inplace_rel = {"Res_x64/" + os.path.basename(st["archive"]) for st in plan}
     payload = [(n, r) for n, r in PAYLOAD if r not in inplace_rel]
@@ -390,6 +424,9 @@ def main(argv=None):
             if os.path.isdir(p):
                 shutil.rmtree(p)
                 print("removed stale %s" % d)
+        # Written last, once everything above has succeeded: this is the file
+        # the uninstaller reads, and it must describe an install that happened.
+        save_plan(backup, plan)
     except Exception as e:
         print("\nSomething went wrong: %s" % e)
         print("Putting back what had already been replaced ...")

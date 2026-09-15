@@ -9,7 +9,7 @@ in loose rather than repacked: if the engine honours loose files this is all
 that is needed, and if it does not, repack_pak.py folds the same files back
 into the archives.
 """
-import sys, os, io, shutil, hashlib
+import sys, os, io, shutil, hashlib, zipfile
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gamepath
 from gustpak import Pak
@@ -17,6 +17,7 @@ import import_text
 import patch_exe_strings
 import env_strings
 import progress
+import repack_pak
 
 GAME = gamepath.resolve(os.environ.get("CIEL_NOSURGE_DX"))
 RES = GAME + "/Res_x64"
@@ -33,25 +34,54 @@ def sha(path, limit=None):
     return h.hexdigest()[:16]
 
 
-def main(exportdir, fontdir, patchdir):
+def main(exportdir, fontdir, patchdir, loose=False):
     if os.path.isdir(patchdir):
         shutil.rmtree(patchdir)
     os.makedirs(patchdir)
 
     # 1. translated data, laid out under the archive paths
-    pak = Pak(RES + "/PACK01.PAK")
+    # Read the archive the patch has *not* been applied to.  Reading the live
+    # one on a machine where the patch is installed makes every already-Chinese
+    # member look unchanged, so it is left out of the staging tree and the
+    # repacker keeps the original member instead -- quietly undoing part of the
+    # previous build.  Every other tool that needs an original already goes
+    # through source_pak; this one was missed.
+    pak = Pak(gamepath.source_pak(RES, "PACK01.PAK"))
     script, ui, binmap, speakers = import_text.collect(exportdir)
     files = import_text.build(pak, script, ui, binmap, speakers)
+    # One uncompressed zip rather than 2,679 loose files.  On a machine with
+    # on-access virus scanning, writing them loose and reading them straight
+    # back in the repack step costs about 50 seconds -- the scanner walks each
+    # new file the first time it is opened.  The bundle is read once, so it is
+    # scanned once: the same 22 MB moves in about a fifth of a second.
+    # --loose keeps the old layout for looking at the staged files by hand.
     n = 0
     tick = progress.over(len(files), every=25)
-    for p, data in files.items():
-        real = pak.get(p).name.strip("\\")
-        dst = os.path.join(patchdir, real.replace("\\", os.sep))
-        os.makedirs(os.path.dirname(dst), exist_ok=True)
-        open(dst, "wb").write(data)
-        n += 1
-        tick(n)
-    print("%d translated data files" % n)
+    if loose:
+        for p, data in files.items():
+            real = pak.get(p).name.strip("\\")
+            dst = os.path.join(patchdir, real.replace("\\", os.sep))
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            open(dst, "wb").write(data)
+            n += 1
+            tick(n)
+        print("%d translated data files" % n)
+    else:
+        bundle = os.path.join(patchdir, repack_pak.BUNDLE)
+        tmp = bundle + ".part"
+        seen = set()
+        with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_STORED) as z:
+            for p, data in files.items():
+                real = pak.get(p).name.strip("\\").replace("\\", "/")
+                if real.lower() in seen:
+                    raise SystemExit("two staged members normalise to %s" % real)
+                seen.add(real.lower())
+                z.writestr(real, data)
+                n += 1
+                tick(n)
+        os.replace(tmp, bundle)               # published only once it is whole
+        print("%d translated data files -> %s (%.1f MB)"
+              % (n, repack_pak.BUNDLE, os.path.getsize(bundle) / 1e6))
 
     # 2. font atlas
     dst = os.path.join(patchdir, "Res_x64", "font", "FOT-SKIPSTD-B_0.g1t")

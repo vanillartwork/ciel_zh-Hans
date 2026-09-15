@@ -9,13 +9,32 @@ data    : starts at 16 + nb_files*168 ; each file XOR'd with its 20-byte key
 """
 import struct, os
 
+try:
+    import numpy as _np
+except ImportError:                      # the reader still works without it
+    _np = None
+
 ENTRY_SIZE = 0xA8
 HDR_SIZE = 16
 
+# Below this, building the arrays costs more than the loop it saves.
+_NP_MIN = 4096
+
 
 def _xor(data, key):
+    """Undo (or redo) a member's obfuscation.  An all-zero key means plaintext.
+
+    Repacking an archive runs this over every byte of it, so the whole-archive
+    path matters: on PACK01 the loop below was the single largest cost in a
+    build.  NumPy does the same XOR a couple of orders of magnitude faster, and
+    falls back to the loop when it is missing or the member is tiny.
+    """
     if not any(key):
         return data
+    if _np is not None and len(data) >= _NP_MIN:
+        a = _np.frombuffer(data, _np.uint8)
+        k = _np.resize(_np.frombuffer(bytes(key), _np.uint8), len(a))
+        return (a ^ k).tobytes()
     k = bytes(key) * (len(data) // 20 + 2)
     return bytes(a ^ b for a, b in zip(data, k))
 

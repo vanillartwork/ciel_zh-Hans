@@ -66,6 +66,9 @@ def main(argv=None):
     ap.add_argument("--skip-font", action="store_true",
                     help="reuse the atlas already under --out")
     ap.add_argument("--skip-validate", action="store_true")
+    ap.add_argument("--loose", action="store_true",
+                    help="stage the translated files loose instead of in one "
+                         "bundle, for looking at them by hand")
     ap.add_argument("--no-repack", action="store_true",
                     help="stop after staging; leaves the loose files only")
     ap.add_argument("--phase", choices=["check", "extract", "font", "inject", "repack"],
@@ -148,7 +151,7 @@ def main(argv=None):
         if os.path.isdir(stage):
             shutil.rmtree(stage)
         try:
-            build_patch.main(work, fontdir, stage)
+            build_patch.main(work, fontdir, stage, loose=a.loose)
         except SystemExit as e:
             stop("Injection", str(e.code))
         except Exception as e:
