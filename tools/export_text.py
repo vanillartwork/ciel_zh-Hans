@@ -147,8 +147,32 @@ def export_ui(pak, outdir):
 
 STR_RE = re.compile(rb'[^\x00]{1,4000}')
 
+# Record layouts for files whose packer leaves rubbish behind.
+#
+# A field's budget is normally measured as the string plus the run of NULs after
+# it, which is right when the field is zero-padded.  The Sharl tables are not
+# always: writing a short name over a longer one leaves the tail of the old one
+# sitting there, so the NUL run stops early and the field looks far smaller than
+# it is -- `シャラ` measured 10 bytes inside a 32-byte field, because `ンス` was
+# left over from `アーキンス` in the record before it.  That would have held
+# every Sharl name to roughly the byte count of its Japanese.
+#
+#   file suffix: (record size, {field offset: field width})
+BIN_SCHEMA = {
+    "sharl_name_data.bin": (72, {0x00: 32}),
+    "sharl_npcrating_data.bin": (536, {0x1DC: 32}),
+}
 
-def bin_fields(data):
+
+def schema_for(path):
+    for suffix, spec in BIN_SCHEMA.items():
+        if path.endswith(suffix):
+            return spec
+    return None
+
+
+def bin_fields(data, schema=None):
+    stride, fields = schema or (0, {})
     for m in STR_RE.finditer(data):
         chunk = m.group()
         try:
@@ -156,6 +180,10 @@ def bin_fields(data):
         except UnicodeDecodeError:
             continue
         if not JP.search(s):
+            continue
+        width = fields.get(m.start() % stride) if stride else None
+        if width and len(chunk) < width:
+            yield m.start(), width, s
             continue
         end, cap = m.end(), len(chunk)
         while end < len(data) and data[end] == 0:
@@ -196,7 +224,7 @@ def export_bins(pak, outdir, prefixes, name, ns=None):
         if not p.endswith(".bin") or not any(p.startswith(x) for x in prefixes):
             continue
         data = pak.read(e)
-        for off, cap, s in bin_fields(data):
+        for off, cap, s in bin_fields(data, schema_for(p)):
             rec = uniq.get(s)
             if rec is None:
                 uniq[s] = [cap, 1, p]

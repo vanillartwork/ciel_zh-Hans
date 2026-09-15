@@ -7,8 +7,16 @@ and the glossary pages glo01-glo10.  The game itself was never localised, so
 this promotional material is the only publisher-sanctioned Chinese wording that
 exists.  It is Traditional Chinese; zh_cn below is the Simplified conversion.
 
-Columns: in-game Japanese form, official Traditional, Simplified, kind
+Columns: in-game Japanese form, official Traditional, Simplified, kind, and
+optionally a fifth field naming a different authority.  A handful of terms the
+publisher never printed in Chinese are settled here anyway, because leaving
+them unsettled is how the same word ends up written three ways; those carry the
+fifth field so the glossary does not claim the publisher's backing for them.
 """
+
+# authority labels for the optional fifth field
+PROJECT = "本项目约定"                 # this project decided it
+SEQUEL = "续作《Ars nova》官方译名"  # the sequel's official Chinese
 
 OFFICIAL = [
     # ---- characters (cha01-cha16) ----
@@ -51,7 +59,18 @@ OFFICIAL = [
     ("ベゼル",         "貝捷爾",          "贝捷尔",          "term"),
     ("ソレイル",        "太陽號",          "太阳号",          "term"),
     ("ジェノム",        "傑諾姆",          "杰诺姆",          "term"),
-    ("ジェノメトリクス",   "夢世界",          "梦世界",          "term"),
+    # 夢世界 is the published Chinese for 夢セカイ, not for ジェノメトリクス;
+    # pairing it with the wrong headword here collapsed two distinct terms into
+    # one translation across 119 rows.  The publisher printed no Chinese for
+    # ジェノメトリクス at all, so it is transliterated and marked as ours.
+    ("ジェノメトリクス",   "",             "杰诺梅特利库斯",      "term", PROJECT),
+    ("夢セカイ",        "夢世界",          "梦世界",          "term"),
+    # ダイブ likewise went unprinted here, but Ars nova -- the sequel, same
+    # publisher, same setting -- renders it 潜行, which also agrees with ダイバー
+    # 潜行者 above.  Following it keeps the two games reading as one series.
+    ("ダイブ",         "",              "潜行",            "term", SEQUEL),
+    ("ダイブゲート",     "",              "潜行之门",         "term", SEQUEL),
+    ("ダイブ用のスーツ",  "",              "潜行用防护服",       "term", SEQUEL),
     ("ジェノミライ",     "傑諾米萊伊",        "杰诺米莱伊",        "term"),
     ("アルメティカ",     "阿爾梅堤嘉",        "阿尔梅堤嘉",        "term"),
     ("ウェーブバースト",   "波動爆炸",         "波动爆炸",         "term"),

@@ -114,25 +114,25 @@ inc/event/res/mainscenarioevent/mea01_01.txt#65#12,"<CLY1>【一緒に何かす�
 が追加されました。","<CLY1>【一起做点什么】中已追加
 【去梦世界吧】。",translated,系统文本,d2775aa25d,<CLY1> br=0 nl=1,2,keep-tags <CLY1>; src-longest-line=26
 inc/event/res/mainscenarioevent/mea01_01.txt#70#12,"さあ、いよいよイオンの夢セカイに
-自由にダイブできるようになりました！","来吧，终于可以自由潜入
-依恩的梦世界了！",translated,【潜入心中吧！】,58ca80f719,br=0 nl=1,2,
+自由にダイブできるようになりました！","来吧，终于可以自由潜行至
+依恩的梦世界了！",translated,【潜行至心中吧！】,58ca80f719,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_01.txt#73#12,"イオンの心の傷を修復し、彼女の記憶を蘇
 らせることこそが、あなたの使命なのです。","修复依恩心灵的伤痕，唤醒她的记忆，
-正是你的使命所在。",translated,【潜入心中吧！】,31d43d3af5,br=0 nl=1,2,
+正是你的使命所在。",translated,【潜行至心中吧！】,31d43d3af5,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_01.txt#78#12,"ダイブは、イオンがあなたの目の前に
-来れる時なら、いつでも行うことが出来ます。","潜入只要在依恩能够来到你的面前时，
-随时都可以进行。",translated,【潜入心中吧！】,b95c0977d2,br=0 nl=1,2,
+来れる時なら、いつでも行うことが出来ます。","潜行只要在依恩能够来到你的面前时，
+随时都可以进行。",translated,【潜行至心中吧！】,b95c0977d2,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_01.txt#83#12,"ですから、採取に出掛けているときや、
 お風呂に入っているときなどはできません。","因此，当她出门采集或者在洗澡的时候
-是无法进行的。",translated,【潜入心中吧！】,0ef7528449,br=0 nl=1,2,
+是无法进行的。",translated,【潜行至心中吧！】,0ef7528449,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_01.txt#88#12,"ですが、実は寝ているときには
 ダイブできてしまったりします。","不过，其实在她睡觉的时候，
-也是可以潜入进去的。",translated,【潜入心中吧！】,13c6f6ab1c,br=0 nl=1,2,
+也是可以潜行进去的。",translated,【潜行至心中吧！】,13c6f6ab1c,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_01.txt#91#12,"早速、メニュー【一緒に何かする】から
 【夢セカイに行こう】を選択し、ダイブを
 してみましょう！","事不宜迟，快从菜单【一起做点什么】中
 选择【去梦世界吧】，
-试着潜入进去吧！",translated,【潜入心中吧！】,bf17aee53d,br=0 nl=2,3,
+试着潜行进去吧！",translated,【潜行至心中吧！】,bf17aee53d,br=0 nl=2,3,
 inc/event/res/mainscenarioevent/mea01_02.txt#5#12,"ねえねえ！
 また色んなこと、思い出したよ！","喂喂！
 我又回想起了各种各样的事呢！",translated,依恩,b6e98467c2,br=0 nl=1,2,
@@ -629,7 +629,7 @@ inc/event/res/mainscenarioevent/mea01_09.txt#5#12,"あのね、あのね！
 非常棒的事情哦！",translated,依恩,d88ca3e630,br=0 nl=2,3,
 inc/event/res/mainscenarioevent/mea01_09.txt#7#12,それで、その後素敵なことがあって…。,然后，在那之后发生了很棒的事……。,translated,依恩,0530d0d0d7,br=0 nl=0,1,
 inc/event/res/mainscenarioevent/mea01_09.txt#9#12,"わたし、ジェノメトリクスで
-詩を紡いだの。","我在梦世界里
+詩を紡いだの。","我在杰诺梅特利库斯里
 编织了诗篇。",translated,依恩,dbd3d248bd,br=0 nl=1,2,
 inc/event/res/mainscenarioevent/mea01_09.txt#10#12,"初めてってわけじゃなかったけど、
 でも、とっても興奮したよ！！","虽然并不是第一次，

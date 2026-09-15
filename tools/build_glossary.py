@@ -62,16 +62,24 @@ def main(exportdir, toolsdir, datadir):
 
     for r in read(os.path.join(exportdir, "official_glossary.csv")):
         jp, zh = r["jp"], r.get("zh_cn", "")
-        if not zh or jp in seen:
+        # The sheet also carries the game's titles, including one that is
+        # explicitly *not* the publisher's.  A title is reference, not a term
+        # to enforce, and publishing it here as settled wording would put a
+        # fan-made name in front of translators over the publisher's own.
+        if not zh or jp in seen or r.get("kind") == "title":
             continue
         seen.add(jp)
+        who = (r.get("authority") or "").strip() or "光荣特库摩台湾"
+        official = who == "光荣特库摩台湾"
         rows.append({
             "id": slug(jp, used), "source": jp, "zh": zh,
-            "kind": r.get("kind", ""), "category": "official",
+            "kind": r.get("kind", ""),
+            "category": "official" if official else "project-decision",
             "variants": r.get("zh_tw_as_published", ""),
             "forbidden": "|".join(sorted(forbidden.get(zh, []))),
             "context": "", "note": "",
-            "authority": "光荣特库摩台湾官方公开资料", "status": "fixed",
+            "authority": "光荣特库摩台湾官方公开资料" if official else who,
+            "status": "fixed" if official else "agreed",
         })
 
     for r in read(os.path.join(exportdir, "glossary_speakers.csv")):

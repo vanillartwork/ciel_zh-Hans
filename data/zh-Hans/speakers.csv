@@ -1,41 +1,41 @@
 id,jp,zh,status,kind,src,ctl,occurrences,note
-spk:0,イオン,依恩,translated,,90d4718c90,br=0 nl=0,44005,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:1,ねりこ,妮莉库,translated,,89b50863af,br=0 nl=0,4772,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:2,ネイ,妮伊,translated,,dd82b752f9,br=0 nl=0,4476,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:3,サーリ,莎丽,translated,,8a6ca8f186,br=0 nl=0,2897,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:4,キャス,凯斯,translated,,6f807afcb1,br=0 nl=0,2458,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:5,ター坊,阿达,translated,,be218a88e0,br=0 nl=0,2108,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:6,カノン,卡诺,translated,,5a6fa752cb,br=0 nl=0,2045,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:7,レナルル,蕾娜露露,translated,,b73a299dee,br=0 nl=0,1683,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:8,クラケット,库拉肯特,translated,,b470c4a07c,br=0 nl=0,1531,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:9,白鷹,白鹰,translated,,80f8839be9,br=0 nl=0,1439,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:10,ジル,吉鲁,translated,,56d6edb965,br=0 nl=0,1402,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:0,イオン,依恩,translated,,90d4718c90,br=0 nl=0,44005,官方译名(光荣特库摩台湾)
+spk:1,ねりこ,妮莉库,translated,,89b50863af,br=0 nl=0,4772,官方译名(光荣特库摩台湾)
+spk:2,ネイ,妮伊,translated,,dd82b752f9,br=0 nl=0,4476,官方译名(光荣特库摩台湾)
+spk:3,サーリ,莎丽,translated,,8a6ca8f186,br=0 nl=0,2897,官方译名(光荣特库摩台湾)
+spk:4,キャス,凯斯,translated,,6f807afcb1,br=0 nl=0,2458,官方译名(光荣特库摩台湾)
+spk:5,ター坊,阿达,translated,,be218a88e0,br=0 nl=0,2108,官方译名(光荣特库摩台湾)
+spk:6,カノン,卡诺,translated,,5a6fa752cb,br=0 nl=0,2045,官方译名(光荣特库摩台湾)
+spk:7,レナルル,蕾娜露露,translated,,b73a299dee,br=0 nl=0,1683,官方译名(光荣特库摩台湾)
+spk:8,クラケット,库拉肯特,translated,,b470c4a07c,br=0 nl=0,1531,官方译名(光荣特库摩台湾)
+spk:9,白鷹,白鹰,translated,,80f8839be9,br=0 nl=0,1439,官方译名(光荣特库摩台湾)
+spk:10,ジル,吉鲁,translated,,56d6edb965,br=0 nl=0,1402,官方译名(光荣特库摩台湾)
 spk:11,システム文,系统文本,translated,,6e8bf18aac,br=0 nl=0,1294,
-spk:12,テレフンケン,泰雷芬肯,translated,,ce98c0f0ab,br=0 nl=0,1027,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:12,テレフンケン,泰雷芬肯,translated,,ce98c0f0ab,br=0 nl=0,1027,官方译名(光荣特库摩台湾)
 spk:13,ネロ,妮诺,translated,,5ab7665c85,br=0 nl=0,864,官方译名(光荣特库摩台湾)
 spk:14,ネイ　,妮伊,translated,,852cc64b6f,br=0 nl=0,803,
-spk:15,グレイコフ,古雷柯夫,translated,,0bc2e5489e,br=0 nl=0,675,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:16,ネプツール,尼普楚尔,translated,,d29af0da13,br=0 nl=0,560,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:15,グレイコフ,古雷柯夫,translated,,0bc2e5489e,br=0 nl=0,675,官方译名(光荣特库摩台湾)
+spk:16,ネプツール,尼普楚尔,translated,,d29af0da13,br=0 nl=0,560,官方译名(光荣特库摩台湾)
 spk:17,ルウレイ,鲁雷,translated,,7b893749e6,br=0 nl=0,511,
 spk:18,クーリン,库琳,translated,,1c6f5779b8,br=0 nl=0,471,
 spk:19,エージェント,特工,translated,,b8d9e324ec,br=0 nl=0,451,
 spk:20,ウンドゥ　,温多,translated,,19c83044f5,br=0 nl=0,426,
 spk:21,パリー,帕里,translated,,9824179f52,br=0 nl=0,422,
-spk:22,リーヴェルト,利维尔特,translated,,23a3a84bfe,br=0 nl=0,342,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
-spk:23,シャール,夏尔,translated,,aba0da7de3,br=0 nl=0,288,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:22,リーヴェルト,利维尔特,translated,,23a3a84bfe,br=0 nl=0,342,官方译名(光荣特库摩台湾)
+spk:23,シャール,夏尔,translated,,aba0da7de3,br=0 nl=0,288,官方译名(光荣特库摩台湾)
 spk:24,男Ａ,男子Ａ,translated,,de6b984bda,br=0 nl=0,286,
 spk:25,イオン　,依恩,translated,,af3bbe9291,br=0 nl=0,241,
 spk:26,コーザル,考扎尔,translated,,add1deaef8,br=0 nl=0,207,
 spk:27,警備兵,警卫,translated,,b66e3f20eb,br=0 nl=0,205,
 spk:28,男Ｂ,男子Ｂ,translated,,2a7395800c,br=0 nl=0,185,
-spk:29,プラム,布拉姆,translated,,cda3f27071,br=0 nl=0,158,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:29,プラム,布拉姆,translated,,cda3f27071,br=0 nl=0,158,官方译名(光荣特库摩台湾)
 spk:30,神官,神官,translated,,f062bfd4ac,br=0 nl=0,154,
-spk:31,アルメティカ,阿尔梅堤嘉,translated,,0a2ae4f1ba,br=0 nl=0,147,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:31,アルメティカ,阿尔梅堤嘉,translated,,0a2ae4f1ba,br=0 nl=0,147,官方译名(光荣特库摩台湾)
 spk:32,司祭,祭司,translated,,8b96ac6811,br=0 nl=0,128,
 spk:33,にゅろきー,喵洛基,translated,,408b88f11d,br=0 nl=0,112,官方译名(光荣特库摩台湾)
 spk:34,リーヴェルト　　,利维尔特,translated,,ea7c54d258,br=0 nl=0,110,
 spk:35,女Ｂ,女子Ｂ,translated,,df18267f61,br=0 nl=0,106,
-spk:36,皇帝,皇帝,translated,,198d15ea13,br=0 nl=0,105,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:36,皇帝,皇帝,translated,,198d15ea13,br=0 nl=0,105,官方译名(光荣特库摩台湾)
 spk:37,男Ｄ,男子Ｄ,translated,,c0df75f38a,br=0 nl=0,96,
 spk:38,レオン,雷昂,translated,,3583d29291,br=0 nl=0,82,
 spk:39,エージェントＢ,特工Ｂ,translated,,2fbc9d82df,br=0 nl=0,79,
@@ -50,7 +50,7 @@ spk:47,男Ｃ,男子Ｃ,translated,,53100b041f,br=0 nl=0,48,
 spk:48,？？？,？？？,translated,,b7488b6cb7,br=0 nl=0,44,
 spk:49,本部,本部,translated,,5dc19390c8,br=0 nl=0,42,
 spk:50,ノエル,诺艾尔,translated,,f2ac0a913d,br=0 nl=0,39,
-spk:51,クオンタイズ,库翁泰兹,translated,,91873c6172,br=0 nl=0,38,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:51,クオンタイズ,库翁泰兹,translated,,91873c6172,br=0 nl=0,38,官方译名(光荣特库摩台湾)
 spk:52,変装カノン,变装卡诺,translated,,bd792706dc,br=0 nl=0,33,
 spk:53,男Ｅ,男子Ｅ,translated,,d974dd2790,br=0 nl=0,30,
 spk:54,お爺さん,老爷爷,translated,,e5c52a7a16,br=0 nl=0,28,
@@ -72,7 +72,7 @@ spk:69,シャールＢ,夏尔Ｂ,translated,,bef1404122,br=0 nl=0,13,
 spk:70,女,女子,translated,,26bc84961c,br=0 nl=0,12,
 spk:71,案内人,向导,translated,,5dcb4ede7e,br=0 nl=0,12,
 spk:72,ネロ　　,妮诺,translated,,99b335ccb8,br=0 nl=0,12,
-spk:73,【心の中にダイブしよう！】,【潜入心中吧！】,translated,,e6a4fd75e6,br=0 nl=0,12,
+spk:73,【心の中にダイブしよう！】,【潜行至心中吧！】,translated,,e6a4fd75e6,br=0 nl=0,12,
 spk:74,男Ｆ,男子Ｆ,translated,,8fb9aadbc2,br=0 nl=0,10,
 spk:75,側近,近臣,translated,,225bba496d,br=0 nl=0,10,
 spk:76,変装カノン　,变装卡诺,translated,,87b5909d11,br=0 nl=0,10,
@@ -159,7 +159,7 @@ spk:156,クラケット・キャス,库拉肯特・凯斯,translated,,48a9de3e1f
 spk:157,地文司教,地文主教,translated,,020ce75b01,br=0 nl=0,1,
 spk:158,男Ｅ・Ｆ,男子Ｅ・Ｆ,translated,,07e2273d0f,br=0 nl=0,1,
 spk:159,パリ―,帕里,translated,,1e2dedc707,br=0 nl=0,1,
-spk:160,ジェノム,杰诺姆,translated,,14abe46066,br=0 nl=0,1,官方译名(光荣特库摩台湾)官方译名(光荣特库摩台湾)
+spk:160,ジェノム,杰诺姆,translated,,14abe46066,br=0 nl=0,1,官方译名(光荣特库摩台湾)
 spk:161,男の声,男子的声音,translated,,faf407c6fd,br=0 nl=0,1,
 spk:162,クオンタイズＡ,库翁泰兹Ａ,translated,,f71e01fac6,br=0 nl=0,1,
 spk:163,司祭Ｄ,祭司Ｄ,translated,,b6ddfb22f4,br=0 nl=0,1,

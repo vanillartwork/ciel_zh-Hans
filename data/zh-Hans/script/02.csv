@@ -3676,4 +3676,4 @@ inc/event/res/02/me02_train02.txt#3#12,"<CLY2>「シェルノサージュ OFFLIN
 ～献给失落之星的诗篇～”，
 建议安装语音包。",translated,系统文本,155347e1bf,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=31
 inc/event/res/02/me02_train02.txt#4#12,「試練編 第二幕」へ進む,前往“试炼篇 第二幕”,translated,,93fcb0a019,br=0 nl=0,1,
-inc/event/res/02/me02_train02.txt#5#12,ダイブゲートに戻る,返回潜入之门,translated,,60c93a75a7,br=0 nl=0,1,
+inc/event/res/02/me02_train02.txt#5#12,ダイブゲートに戻る,返回潜行之门,translated,,60c93a75a7,br=0 nl=0,1,

@@ -294,7 +294,6 @@ id,source,zh,kind,category,variants,forbidden,context,note,authority,status
 8203bc8d,ガッカリ,失望,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，30 次,,本项目,agreed
 8443ae18,ワールドモデリング,世界建模,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，26 次,,本项目,agreed
 847a6758,キャラクターモデル,角色模型,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
-8529653f,ダイブゲート,潜入之门,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，17 次,,本项目,agreed
 854c88da,・ミドルウェア,・中间件,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，26 次,,本项目,agreed
 86567ad7,ショー,表演,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，17 次,,本项目,agreed
 8681ebad,アストロサイト･モジュラトリ・ウィルス,星形胶质细胞调节病毒,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
@@ -350,7 +349,6 @@ id,source,zh,kind,category,variants,forbidden,context,note,authority,status
 99e23b54,カンテレ,康特勒琴,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
 9a459cea,マナー,礼仪,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，14 次,,本项目,agreed
 9b561711,ソフトウェアマニュアル,软件手册,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
-9b8485a2,ダイブ用のスーツ,潜入用防护服,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 9c3aa8ee,メイド,女仆,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，16 次,,本项目,agreed
 9c3de3b9,プラネタリーメゾン,行星公馆,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 9c670269,デザイン・グラフィック,设计・平面,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，15 次,,本项目,agreed
@@ -403,6 +401,7 @@ adeab690,チューブ,管体,proper-noun,in-text-marker,,,游戏用 {} 标出的
 ae235464,いまはカノイール･ククルル･プリシェール,如今是卡诺伊尔・酷酷鲁鲁・普立薛尔,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 ae7bc3fc,クラスドライブ接続権限,级别驱动连接权限,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 ae91d457,謳う丘,鸣之丘,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
+af37bdc1,シェルノサージュ,Ciel nosurge,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，78 次,,本项目,agreed
 affe0ebd,ネリコポイントカード,妮莉库积分卡,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
 b02e5515,ニュロスティック,喵洛棒,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，16 次,,本项目,agreed
 b075a321,シンクロ,同步,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
@@ -464,7 +463,6 @@ c5d5c279,バーコード,条形码,proper-noun,in-text-marker,,,游戏用 {} 标
 c6653ec7,パフェ,芭菲,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，52 次,,本项目,agreed
 c6a46d64,メゾン・セントリア,中央公馆,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 c6a5665f,コスチューム,服装,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，13 次,,本项目,agreed
-c72e99fe,ダイブ,潜入,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 c77f8820,万寿沙羅区,万寿沙罗区,glossary-marker,in-text-marker,,,游戏用 {} 标出的术语，1 次,,本项目,agreed
 c78675af,ミソデココ,椰果味噌,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，14 次,,本项目,agreed
 c798f0fa,シチュエーション,情境,proper-noun,in-text-marker,,,游戏用 {} 标出的术语，12 次,,本项目,agreed
@@ -608,7 +606,6 @@ txbios,TxBIOS,TxBIOS,glossary-marker,in-text-marker,,,游戏用 {} 标出的术�
 2df43879,ベゼル,贝捷尔,term,official,貝捷爾,,,,光荣特库摩台湾官方公开资料,fixed
 3a0e08fc,ネプトロン,尼普特伦,term,official,尼普特倫,,,,光荣特库摩台湾官方公开资料,fixed
 408b88f1,にゅろきー,喵洛基,term,official,喵洛基,尼罗基|纽洛基|纽罗基,,,光荣特库摩台湾官方公开资料,fixed
-472bff30,ジェノメトリクス,梦世界,term,official,夢世界,,,,光荣特库摩台湾官方公开资料,fixed
 48b32303,ぱれす・にゅろきーる,喵洛基鲁・王宫,term,official,喵洛基魯・王宮,,,,光荣特库摩台湾官方公开资料,fixed
 4af4755e,ネプトロンタワー,尼普特伦塔,term,official,尼普特倫塔,,,,光荣特库摩台湾官方公开资料,fixed
 4f85667d,ウェーブバースト,波动爆炸,term,official,波動爆炸,波动爆发,,,光荣特库摩台湾官方公开资料,fixed
@@ -623,7 +620,7 @@ txbios,TxBIOS,TxBIOS,glossary-marker,in-text-marker,,,游戏用 {} 标出的术�
 79725f10,波動科学,波动科学,term,official,波動科學,,,,光荣特库摩台湾官方公开资料,fixed
 7b27ecf1,同調,同调,term,official,同調,,,,光荣特库摩台湾官方公开资料,fixed
 80f8839b,白鷹,白鹰,character,official,白鷹,,,,光荣特库摩台湾官方公开资料,fixed
-8665ec26,ジェノミライパンデミック,杰诺米莱伊瘟疫,term,official,傑諾米萊伊瘟疫,,,,光荣特库摩台湾官方公开资料,fixed
+8665ec26,ジェノミライパンデミック,杰诺米莱伊瘟疫,term,official,傑諾米萊伊瘟疫,杰诺未来大流行|杰诺米莱伊大流行,,,光荣特库摩台湾官方公开资料,fixed
 8884de35,地文,地文,term,official,地文,,,,光荣特库摩台湾官方公开资料,fixed
 89b50863,ねりこ,妮莉库,character,official,妮莉庫,内莉子|涅莉可,,,光荣特库摩台湾官方公开资料,fixed
 8a6ca8f1,サーリ,莎丽,character,official,莎麗,莎莉|萨里,,,光荣特库摩台湾官方公开资料,fixed
@@ -640,7 +637,7 @@ a4d6f4f1,シェルノトロン,榭鲁诺特伦,term,official,榭魯諾特倫,榭
 a63fca55,7次元俯瞰理論,7次元俯瞰理论,term,official,7次元俯瞰理論,,,,光荣特库摩台湾官方公开资料,fixed
 a91faf42,ルル,缕缕,term,official,縷縷,,,,光荣特库摩台湾官方公开资料,fixed
 aba0da7d,シャール,夏尔,term,official,夏爾,沙尔|莎尔,,,光荣特库摩台湾官方公开资料,fixed
-af37bdc1,シェルノサージュ,靜籟之空,静籁之空,official,"used by Bahamut / Wikipedia, NOT the publisher official title",,,,光荣特库摩台湾官方公开资料,fixed
+af2008d6,夢セカイ,梦世界,term,official,夢世界,,,,光荣特库摩台湾官方公开资料,fixed
 b46f0c42,大法要,大法要,term,official,大法要,,,,光荣特库摩台湾官方公开资料,fixed
 b470c4a0,クラケット,库拉肯特,character,official,庫拉肯特,库拉克特,,,光荣特库摩台湾官方公开资料,fixed
 b4c62704,ソレイル,太阳号,term,official,太陽號,索莱尔|索雷依尔,,,光荣特库摩台湾官方公开资料,fixed
@@ -662,10 +659,13 @@ d8d5ad60,ウンドゥ,温多,character,official,溫多,,,,光荣特库摩台湾�
 dd82b752,ネイ,妮伊,character,official,妮伊,,,,光荣特库摩台湾官方公开资料,fixed
 e3792d14,詩魔法,诗魔法,term,official,詩魔法,,,,光荣特库摩台湾官方公开资料,fixed
 eb4ec8b9,ウタヒメ,诗姬,term,official,詩姫,,,,光荣特库摩台湾官方公开资料,fixed
-f439bb4c,シェルノサージュ ～失われた星へ捧ぐ詩～,Ciel nosurge～獻給失落之星的詩篇,Ciel nosurge～献给失落之星的诗篇,official,KOEI TECMO Taiwan official site title,,,,光荣特库摩台湾官方公开资料,fixed
 g2,G2トロン,G2特伦,term,official,G2特倫,,,,光荣特库摩台湾官方公开资料,fixed
 plasma,PLASMA機密情報局,PLASMA机密情报局,term,official,PLASMA機密情報局,,,,光荣特库摩台湾官方公开资料,fixed
 tz,Tz波,Tz波,term,official,Tz波,,,,光荣特库摩台湾官方公开资料,fixed
+472bff30,ジェノメトリクス,杰诺梅特利库斯,term,project-decision,,杰诺梅特里克斯|杰诺矩阵,,,本项目约定,agreed
+8529653f,ダイブゲート,潜行之门,term,project-decision,,潜入之门,,,续作《Ars nova》官方译名,agreed
+9b8485a2,ダイブ用のスーツ,潜行用防护服,term,project-decision,,潜入用防护服,,,续作《Ars nova》官方译名,agreed
+c72e99fe,ダイブ,潜行,term,project-decision,,,,,续作《Ars nova》官方译名,agreed
 020ce75b,地文司教,地文主教,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 02498559,神官Ｂ,神官Ｂ,character,speaker,,,说话人名牌，18 次,CHARA_NPC98,本项目,agreed
 044c238b,エージェントＥ,特工Ｅ,character,speaker,,,说话人名牌，4 次,CHARA_NPC91,本项目,agreed
@@ -859,7 +859,7 @@ df18267f,女Ｂ,女子Ｂ,character,speaker,,,说话人名牌，106 次,CHARA_NP
 dish012,dish012,dish012,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 divorce-01,Divorce_01,Divorce_01,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 e5c52a7a,お爺さん,老爷爷,character,speaker,,,说话人名牌，28 次,,本项目,agreed
-e6a4fd75,【心の中にダイブしよう！】,【潜入心中吧！】,character,speaker,,,说话人名牌，12 次,,本项目,agreed
+e6a4fd75,【心の中にダイブしよう！】,【潜行至心中吧！】,character,speaker,,,说话人名牌，12 次,,本项目,agreed
 ea7c54d2,リーヴェルト　　,利维尔特,character,speaker,,利威尔特,说话人名牌，110 次,,本项目,agreed
 eb4fb076,一同,一同,character,speaker,,,说话人名牌，10 次,,本项目,agreed
 ef-06-02-clear-2,EF_06_02_CLEAR:2,EF_06_02_CLEAR:2,character,speaker,,,说话人名牌，1 次,,本项目,agreed

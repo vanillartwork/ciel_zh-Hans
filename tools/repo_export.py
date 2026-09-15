@@ -60,8 +60,10 @@ def ctl_shape(text):
 
 def status_of(row):
     if not row.get("zh", "").strip():
-        note = row.get("note", "")
-        return "skip" if note.strip().startswith("不修改") else "todo"
+        # The reason for leaving a string alone is not always the first thing
+        # in the note -- "多行  不修改：开发期测试字符串" put two deliberate
+        # skips into the "still to do" count and contradicted their own note.
+        return "skip" if "不修改" in row.get("note", "") else "todo"
     return "translated"
 
 

@@ -45,6 +45,16 @@ VARIANTS = {
     # ルビーグラス is a vegetable (grass), not glassware -- it is shredded,
     # blanched and rolled into cabbage rolls.
     "红宝石杯": "红宝石草", "红宝石玻璃": "红宝石草",
+    # ジェノメトリクス was first rendered several different ways, one of which
+    # -- 梦世界 -- is the published Chinese for a *different* term, 夢セカイ.
+    # 梦世界 itself is therefore correct and cannot be listed here; only the
+    # renderings that belong to nothing else are.
+    "杰诺矩阵": "杰诺梅特利库斯", "杰诺梅特里克斯": "杰诺梅特利库斯",
+    # the publisher printed 傑諾米萊伊瘟疫; three renderings were in use at once
+    "杰诺米莱伊大流行": "杰诺米莱伊瘟疫", "杰诺未来大流行": "杰诺米莱伊瘟疫",
+    # ダイブ follows the sequel's 潜行, and ダイバー was already 潜行者;
+    # 潜入 is *correct* for 侵入 / 潜り and so cannot be listed here
+    "潜入之门": "潜行之门", "潜入用防护服": "潜行用防护服",
 }
 
 

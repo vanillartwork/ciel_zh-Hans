@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gustpak import Pak, rebuild
 import csvspan
 from export_text import (JP, MAX_LINES, MAX_CHARS, ATTR_RE, COMMENT_RE,
-                         bin_fields, TAG_RE, TERM_RE, SPEAKER_COL)
+                         bin_fields, schema_for, TAG_RE, TERM_RE, SPEAKER_COL)
 try:
     from normalize_cn import normalize, residual, SUSPECT
 except Exception:
@@ -207,7 +207,7 @@ def build(pak, script, ui, binmap, speakers=None):
                 continue
             data = bytearray(pak.read(e))
             touched = False
-            for off, cap, s in list(bin_fields(bytes(data))):
+            for off, cap, s in list(bin_fields(bytes(data), schema_for(p))):
                 r = binmap.get(s)
                 if not r:
                     continue

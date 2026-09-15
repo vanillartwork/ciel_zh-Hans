@@ -51,7 +51,59 @@ JP_TO_CN = {
     "覇": "霸", "稲": "稻", "穏": "稳", "隷": "隶", "麺": "面", "鉱": "矿",
     "鋼": "钢", "銃": "铳", "嬢": "娘", "弾": "弹", "戯": "戏", "抜": "拔",
     "歩": "步", "砕": "碎", "窓": "窗", "粋": "粹", "縄": "绳",
+    # found while converting the Sharl name pool -- all four were slipping
+    # through untouched, because zhconv treats them as neither Traditional
+    # nor Simplified and they were missing here
+    "穂": "穗", "黒": "黑", "喩": "喻", "緖": "绪", "壷": "壶",
 }
+
+# Which Japanese character forms survive into a Chinese name, and which get
+# rewritten.  Three tiers, applied in order:
+#
+#   1. 中文没有这个字 -- a Japanese-made character (国字) with no Chinese
+#      counterpart: 雫 笹 畑 畠 麿 辻.  Nothing to convert to, so it stays, and
+#      Chinese editions do keep it (月島雫 -> 月岛雫).
+#   2. 有，但只是另一个字的异体/新字体写法 -- the same character drawn
+#      differently: 黒=黑 穂=穗 緖=绪 喩=喻 姫=姬 壜=坛 瑠=琉.  Chinese has a
+#      standard form, so use it.  These are handled by zhconv and JP_TO_CN.
+#   3. 中文里有分量的字 -- either a character with its own reading and meaning
+#      that a simplification merge would destroy (毬 qiú 毬果 is not 球, 澪
+#      líng is not anything else), or one that a dictionary calls a variant but
+#      that Chinese writing of Japanese names keeps anyway (瑠 倖 廻).
+#
+# The third tier is not decided by the dictionary alone.  瑠 is filed under 琉
+# and 倖 under 幸, yet both are kept when Chinese writes Japanese names, and for
+# 倖 there is a harder reason than custom: 倖田 and 幸田 are two different real
+# Japanese surnames.  Collapsing 倖 into 幸 would not be simplifying one name's
+# spelling, it would be merging two names into one.  Dictionary status says
+# whether two glyphs are the same character; it does not say whether the source
+# language treats them as the same name.  A name answers to the second.
+#
+# Nothing in this game exercises that merge -- there is no 幸妃奈 beside 倖妃奈
+# -- so the rule here is about being right, not about a bug we hit.  The guard
+# exists anyway: compose.py refuses any build where two different Japanese
+# names come out as the same Chinese one.
+#
+# Only tier 3 needs a list, and only for the ones something would otherwise
+# rewrite -- 雫 笹 澪 are already left alone, so they need no entry.
+KEEP_IN_NAMES = {
+    "毬",   # 毬果/毛毬; zhconv merges it into 球 and turns 陽毬 into 阳球
+    "廻",   # 异体字表把它归入 回，但人名与佛教用语里仍在用，且「回爱」读不通
+    "瑠",   # 字典作「同琉」，但中文写日本人名一向保留；本作只在人名里出现
+    "倖",   # 同上；倖田來未 中文照写「倖」，不作「幸」
+}
+
+
+def normalize_name(s):
+    """Simplify a name's characters without translating the name.
+
+    Same as normalize(), except the characters above are put back afterwards.
+    """
+    out = list(normalize(s))
+    for i, c in enumerate(s):
+        if c in KEEP_IN_NAMES and i < len(out):
+            out[i] = c
+    return "".join(out) if len(out) == len(s) else normalize(s)
 
 # In GB2312, so the mechanical check cannot see them, but in a translation
 # from Japanese they are almost always a leftover rather than a real word.

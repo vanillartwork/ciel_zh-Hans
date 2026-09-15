@@ -1928,25 +1928,25 @@ inc/event/res/tutorialevent/tu10_tch.txt#20#12,"<CLY2>【一緒に何かする�
 が追加されました。","<CLY2>【一起做些什么】中
 已追加【前往梦世界】。",translated,系统文本,6d7ee7d0b4,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/tutorialevent/tu10_tch.txt#25#12,"さあ、いよいよイオンの夢セカイに
-自由にダイブできるようになりました！","来吧，终于可以自由潜入
-依恩的梦世界了！",translated,【潜入心中吧！】,58ca80f719,br=0 nl=1,2,
+自由にダイブできるようになりました！","来吧，终于可以自由潜行至
+依恩的梦世界了！",translated,【潜行至心中吧！】,58ca80f719,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu10_tch.txt#28#12,"イオンの心の傷を修復し、彼女の記憶を蘇
 らせることこそが、あなたの使命なのです。","修复依恩心灵的伤痕，唤醒她的记忆，
-正是你的使命所在。",translated,【潜入心中吧！】,31d43d3af5,br=0 nl=1,2,
+正是你的使命所在。",translated,【潜行至心中吧！】,31d43d3af5,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu10_tch.txt#33#12,"ダイブは、イオンがあなたの目の前に
-来れる時なら、いつでも行うことが出来ます。","潜入只要在依恩能够来到你的面前时，
-随时都可以进行。",translated,【潜入心中吧！】,b95c0977d2,br=0 nl=1,2,
+来れる時なら、いつでも行うことが出来ます。","潜行只要在依恩能够来到你的面前时，
+随时都可以进行。",translated,【潜行至心中吧！】,b95c0977d2,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu10_tch.txt#38#12,"ですから、採取に出掛けているときや、
 お風呂に入っているときなどはできません。","因此，当她出门采集或者在洗澡的时候
-是无法进行的。",translated,【潜入心中吧！】,0ef7528449,br=0 nl=1,2,
+是无法进行的。",translated,【潜行至心中吧！】,0ef7528449,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu10_tch.txt#43#12,"ですが、実は寝ているときには
 ダイブできてしまったりします。","不过，其实在她睡觉的时候，
-也是可以潜入进去的。",translated,【潜入心中吧！】,13c6f6ab1c,br=0 nl=1,2,
+也是可以潜行进去的。",translated,【潜行至心中吧！】,13c6f6ab1c,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu10_tch.txt#46#12,"早速、メニュー【一緒に何かする】から
 【夢セカイに行こう】を選択し、ダイブを
 してみましょう！","事不宜迟，快从菜单【一起做点什么】中
 选择【去梦世界吧】，
-试着潜入进去吧！",translated,【潜入心中吧！】,bf17aee53d,br=0 nl=2,3,
+试着潜行进去吧！",translated,【潜行至心中吧！】,bf17aee53d,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu11.txt#2#12,あっ……。,啊……,translated,依恩,d5cb2d065d,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu11.txt#9#12,"コーンコン♪
 いる？","咚咚咚♪
@@ -2148,11 +2148,11 @@ inc/event/res/tutorialevent/tu12.txt#72#12,"貴方の世界の物質と波動が
 シャールを創り出すことができます。","您世界的物质将与波动产生共鸣链接，
 从而得以创造出夏尔。",translated,夏尔,85f29532fd,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu12.txt#77#12,"その後、“ダイブゲート”へと戻り、
-扉からイオンの記憶へと向かいましょう。","随后返回“潜入之门”，
+扉からイオンの記憶へと向かいましょう。","随后返回“潜行之门”，
 穿过门扉迈向依恩的记忆吧。",translated,夏尔,971fd8dc71,br=0 nl=1,2,
-inc/event/res/tutorialevent/tu12.txt#84#12,ダイブゲート？,潜入之门？,translated,,3c1f808328,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu12.txt#84#12,ダイブゲート？,潜行之门？,translated,,3c1f808328,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu12.txt#90#12,"ダイブゲートとは、貴方がここへ来る前、
-夢セカイに来て最初に訪れた場所。","潜入之门，便是您来到这里之前、
+夢セカイに来て最初に訪れた場所。","潜行之门，便是您来到这里之前、
 踏入梦世界时最初到访的场所。",translated,夏尔,f91f039e8c,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu12.txt#91#12,"あの扉の先、壊れてしまったイオンの記憶は
 存在しているのです。","在那扇门扉的另一侧，
@@ -2331,7 +2331,7 @@ inc/event/res/tutorialevent/tu15.txt#36#12,"<CLY2>修復後の雑貨屋　縷縷
 即可查看依恩的记忆。",translated,系统文本,7dc1412168,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
 inc/event/res/tutorialevent/tu15.txt#41#12,"<CLY2>また、一度見た記憶はダイブゲートの左上に
 表示される“HISTORY”に登録され、
-ダイジェスト形式で確認できます。","<CLY2>此外，看过的记忆会记录在潜入之门
+ダイジェスト形式で確認できます。","<CLY2>此外，看过的记忆会记录在潜行之门
 左上角显示的“HISTORY”中，
 并能以摘要形式随时回顾。",translated,系统文本,0600494ec5,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/tutorialevent/tu16.txt#7#12,"ようこそ。
