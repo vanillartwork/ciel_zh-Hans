@@ -10,7 +10,10 @@ anything.
 Exit status 0 means go ahead.  Anything else means stop, and the reason has
 already been printed.
 """
-import sys, os, io, csv, shutil, hashlib, argparse
+import sys, os, io, csv, json, shutil, hashlib, argparse
+
+PLAN = "inplace.json"
+RANGE_SUFFIX = ".orig-range"
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -47,6 +50,70 @@ def expected(data):
         out.setdefault(r["file"].strip(), {})[r["sha256"].strip().lower()] = \
             (r["version_id"], r["status"])
     return out
+
+
+def restorable_in_place(game, backup, rel, table):
+    """True when this archive is a supported original with our range written over it.
+
+    An archive patched in place has no full backup by design -- only the bytes
+    that were overwritten, plus the plan saying where they go.  Checking the
+    plan and the range alone is not enough: it says our own edit can be undone,
+    not that the rest of the file is still a version this patch was built for.
+    A game update, another mod or corruption anywhere outside the font range
+    would sail straight through.
+
+    So the whole file is hashed with the backed-up bytes substituted back in as
+    it is read -- the archive restored virtually, without writing 1.8 GB or
+    holding it in memory -- and that hash has to be one we know.
+    """
+    plan = os.path.join(backup, PLAN)
+    if not os.path.isfile(plan):
+        return False
+    try:
+        steps = json.load(io.open(plan, encoding="utf-8"))
+    except (ValueError, OSError):
+        return False
+    name = os.path.basename(rel)
+    steps = [st for st in steps if os.path.basename(st.get("archive", "")) == name]
+    if not steps:
+        return False
+
+    ranges = []
+    for st in steps:
+        b = os.path.join(backup, "%s.%d%s" % (name, st["offset"], RANGE_SUFFIX))
+        if not os.path.isfile(b) or os.path.getsize(b) != st["size"]:
+            return False
+        orig = io.open(b, "rb").read()
+        if hashlib.sha256(orig).hexdigest() != st["sha256_before"]:
+            return False
+        ranges.append((st["offset"], orig))
+    ranges.sort()
+
+    target = os.path.join(game, rel)
+    if not os.path.isfile(target):
+        return False
+    h = hashlib.sha256()
+    pos = 0
+    try:
+        with open(target, "rb") as f:
+            for off, orig in ranges:
+                if off < pos:
+                    return False              # overlapping ranges: do not guess
+                while pos < off:
+                    chunk = f.read(min(1 << 20, off - pos))
+                    if not chunk:
+                        return False
+                    h.update(chunk)
+                    pos += len(chunk)
+                if len(f.read(len(orig))) != len(orig):
+                    return False
+                h.update(orig)                # the bytes that were displaced
+                pos += len(orig)
+            for chunk in iter(lambda: f.read(1 << 20), b""):
+                h.update(chunk)
+    except OSError:
+        return False
+    return h.hexdigest() in table
 
 
 def main(argv=None):
@@ -98,6 +165,14 @@ def main(argv=None):
         if os.path.isfile(b) and sha256(b) in table:
             already.append(rel)
             print("  %-26s 已被补丁修改，原版已备份在 Backup" % rel)
+        elif restorable_in_place(game, backup, rel, table):
+            # An archive patched in place has no full backup by design -- only
+            # the range that was overwritten, plus the plan describing it.
+            # Without this branch a second install of a patched game is refused
+            # as an unsupported version, which is exactly when someone is
+            # upgrading.
+            already.append(rel)
+            print("  %-26s 已被补丁原地修改，原始区间已备份在 Backup" % rel)
         else:
             unknown.append((rel, h))
             print("  %-26s 无法识别（%s…）" % (rel, h[:12]))

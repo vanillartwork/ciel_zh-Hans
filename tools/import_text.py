@@ -15,8 +15,10 @@ import sys, os, re, csv, io, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gustpak import Pak, rebuild
 import csvspan
+import nameplates
 from export_text import (JP, MAX_LINES, MAX_CHARS, ATTR_RE, COMMENT_RE,
-                         bin_fields, schema_for, TAG_RE, TERM_RE, SPEAKER_COL)
+                         bin_fields, schema_for, TAG_RE, TERM_RE,
+                         SPEAKER_COL, DIALOG_COL)
 try:
     from normalize_cn import normalize, residual, SUSPECT
 except Exception:
@@ -137,19 +139,34 @@ def font_charset(pak):
     return out
 
 
+# Files that must come out of a build byte for byte identical.  The injector
+# matches .bin fields by their Japanese text alone, so a word that is display
+# text in one table and a functional value in another gets rewritten in both.
+# ngword_data.bin is the blocked-word list the game filters player input with:
+# translating エッチ to 下流 in it does not localise anything, it silently
+# changes what the filter catches.
+KEEP_VERBATIM = (
+    "inc/globaldata/ngword_data.bin",
+)
+
+
 def build(pak, script, ui, binmap, speakers=None):
-    """Return {archive path lower: new bytes}."""
+    """Return {archive path lower: new bytes}.
+
+    `speakers` is accepted and ignored.  It used to drive nameplate injection;
+    see the note further down for why that had to go.
+    """
     out = {}
     by_file = collections.defaultdict(list)
     for k, r in script.items():
         by_file[r["file"]].append(r)
-    # every script file, not only the ones with translated dialogue: a file may
-    # have nothing but name plates left to do
     paths = set(by_file)
     if speakers:
-        paths |= {e.path.lower() for e in pak
-                  if e.path.lower().startswith("inc/event/res/")
-                  and e.path.lower().endswith(".txt")}
+        # every shipped event script, not only the ones with translated
+        # dialogue: a script may need nothing but its nameplate defaults
+        paths |= {e.path.lower() for e in pak if nameplates.enabled(e.path.lower())}
+    known_keys = nameplates.known_actors(pak) if speakers else set()
+    plated = plated_files = 0
     for path in sorted(paths):
         rows = by_file.get(path, [])
         e = pak.get(path)
@@ -170,15 +187,31 @@ def build(pak, script, ui, binmap, speakers=None):
             if sp is None:
                 continue
             edits.append((sp[0], sp[1], csvspan.quote(r["zh"])))
-        if speakers:
-            done = {(int(r["row"]), int(r["col"])) for r in rows}
-            for (row, col), sp in spans.items():
-                if col != SPEAKER_COL or (row, col) in done:
-                    continue
-                name = csvspan.unquote(t[sp[0]:sp[1]])
-                zh = speakers.get(name)
-                if zh:
-                    edits.append((sp[0], sp[1], csvspan.quote(zh)))
+        # Column 11 is NOT a nameplate to translate.  It is the character
+        # key: the row that places a character on stage carries it, and every
+        # later row -- dialogue included -- uses it to say which of the placed
+        # characters this line and this expression belong to.  charanamemap.inc
+        # keys models by exactly this string, down to a trailing fullwidth
+        # space ("イオン" is the normal model, "イオン　" the chibi one), and
+        # charafacestancemap.inc resolves the generic FS_CRY in column 8 to a
+        # per-character PC00_FS_CRY through it.
+        #
+        # It is also what the game prints on the nameplate, which is what made
+        # translating it look right and safe.  It is not: a translated key
+        # matches nothing, so the character is never placed, expressions and
+        # lip sync never change, the camera has no target, and an interaction
+        # that has to find her softlocks.  There is no separate display-name
+        # table to patch instead -- so nameplates stay Japanese until that is
+        # solved some other way.  Do not reintroduce this without a way to
+        # separate the key from the label.
+        # Chinese nameplates, where they have been confirmed safe: the key in
+        # column 11 stays Japanese and the label is set with the game's own
+        # rename command, inserted after the header row.  See nameplates.py.
+        if speakers and nameplates.enabled(path):
+            ins, who = nameplates.plan(t, speakers, known_keys)
+            edits += ins
+            plated += len(who)
+            if ins: plated_files += 1
         if not edits:
             continue
         edits.sort()
@@ -200,10 +233,15 @@ def build(pak, script, ui, binmap, speakers=None):
                  for o, r in rows if o in spans]
         out[path] = (BOM if bom else b"") + csvspan.splice(t, edits).encode("utf-8")
 
+    if plated_files:
+        print("nameplates: %d 条改名指令插入 %d 个脚本" % (plated, plated_files))
+
     if binmap:
         for e in pak:
             p = e.path.lower()
             if not p.endswith(".bin"):
+                continue
+            if any(p.endswith(x) for x in KEEP_VERBATIM):
                 continue
             data = bytearray(pak.read(e))
             touched = False

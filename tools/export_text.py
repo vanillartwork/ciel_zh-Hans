@@ -21,7 +21,11 @@ CMD_COL = 13
 CMD_TEXT = {
     "EVENT_PROCESS_WRITE_MEMO": ([1], "memo"),
     "EVENT_PROCESS_INFO": ([1], "info"),
-    "EVENT_PROCESS_CHANGE_DISPLAY_NAME": ([1, 2], "name"),
+    # Argument 1 (column 14) is the character this applies to -- the same key
+    # as column 11, looked up in charanamemap.  Only argument 2 (column 15) is
+    # the label that gets shown.  Exporting both made 108 of the 113 uses point
+    # at a character that does not exist.
+    "EVENT_PROCESS_CHANGE_DISPLAY_NAME": ([2], "name"),
 }
 
 _UID = itertools.count(1)

@@ -126,6 +126,13 @@ jobs:
         # each rule actually fires.
         run: python tools/selftest_validate.py
 
+      - name: 自检注入写对了列
+        # The scripts put display text and lookup keys in the same columns, and
+        # writing to the wrong one produces no visible mistranslation -- it just
+        # stops the engine finding the character.  validate.py cannot see this,
+        # so the injection output is checked directly.
+        run: python tools/selftest_inject.py
+
       - name: 自检安装与还原
         # The in-place patch keeps only the bytes it overwrites, so the undo
         # path has to be tested rather than assumed.
