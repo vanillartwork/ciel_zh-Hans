@@ -24,6 +24,7 @@ param(
     [string]$GameVersion = "Steam 2025-07",
     [string]$PythonVersion = "3.12.7",
     [string]$Nsis = "makensis",
+    [string]$ExtraBuildArgs = "",
     [switch]$SkipPython
 )
 
@@ -102,10 +103,32 @@ Copy-Item -Recurse (Join-Path $repo "data")  (Join-Path $payload "data")
 Get-ChildItem -Recurse -Force -Path $payload -Include "__pycache__" -Directory |
     Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
 
+# --- 3b. the native display layer -------------------------------------------
+# cielzh.dll is what the loader entry loads, and emit_entry.exe produces the
+# entry's machine code for the section addresses of the player's own executable.
+# Having them in the repository working tree says nothing about whether they are
+# in the payload, and the build runs from the payload.
+$nativeSrc = Join-Path $repo "native\build"
+$nativeDst = Join-Path $payload "native\build"
+New-Item -ItemType Directory -Force -Path $nativeDst | Out-Null
+foreach ($f in @("cielzh.dll", "emit_entry.exe")) {
+    $p = Join-Path $nativeSrc $f
+    if (-not (Test-Path $p)) {
+        throw ("native\build\$f is not there. Run native\build.ps1 first, or " +
+               "build the patch with --no-loader if the display layer is meant " +
+               "to be left out.")
+    }
+    Copy-Item $p (Join-Path $nativeDst $f)
+    $h = (Get-FileHash $p -Algorithm SHA256).Hash.ToLower()
+    Write-Host ("  native  {0,-16} {1} bytes  {2}" -f $f,
+                (Get-Item $p).Length, $h.Substring(0, 16))
+}
+
 # Guard rail: the payload must never contain game data.  If one of these shows
 # up, something has gone wrong upstream and the installer must not be shipped.
 $forbidden = Get-ChildItem -Recurse -File -Path $payload |
     Where-Object { $_.Extension -in ".pak", ".g1t", ".psarc", ".gtx" -or $_.Name -like "Cielnosurge*.exe" }
+# cielzh.dll and emit_entry.exe are ours, built from native/, and are expected.
 if ($forbidden) {
     $forbidden | ForEach-Object { Write-Host "  $($_.FullName)" }
     throw "game data found in the installer payload; refusing to build"
@@ -120,7 +143,7 @@ Write-Host ("payload  {0:N1} MB" -f ($bytes / 1MB))
 New-Item -ItemType Directory -Force -Path (Join-Path $repo "..\dist") | Out-Null
 $nsi = Join-Path $here "CielNosurgeDX-zh-Hans.nsi"
 Write-Host "compiling with NSIS"
-& $Nsis "/DPATCH_VERSION=$Version" "/DGAME_VERSION=$GameVersion" $nsi
+& $Nsis "/DPATCH_VERSION=$Version" "/DGAME_VERSION=$GameVersion" "/DEXTRA_BUILD_ARGS=$ExtraBuildArgs" $nsi
 if ($LASTEXITCODE -ne 0) { throw "makensis failed" }
 
 $out = Join-Path $repo "..\dist\CielNosurgeDX-zh-Hans-$Version-setup.exe"
@@ -130,5 +153,8 @@ if (Test-Path $out) {
     Write-Host "installer  $out"
     Write-Host ("size       {0:N1} MB" -f ((Get-Item $out).Length / 1MB))
     Write-Host "sha256     $h"
-    Set-Content -Path "$out.sha256" -Value "$h  $(Split-Path -Leaf $out)" -Encoding ASCII
+    # LF, not the CRLF Set-Content writes: `sha256sum -c` reads the CR as part of
+    # the file name and reports the download as unreadable.
+    [IO.File]::WriteAllText("$out.sha256", "$h  $(Split-Path -Leaf $out)`n",
+                            [Text.Encoding]::ASCII)
 }

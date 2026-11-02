@@ -18,12 +18,12 @@ py -3 tools/preflight.py
 
 ## 游戏更新后的适配
 
-若更新后无法安装，请提交[安装与运行问题](../../issues/new?template=bug.yml)，附检查输出与 SHA-256。
+若更新后无法安装，请提交[安装与运行问题](https://github.com/vanillartwork/ciel_zh-Hans/issues/new?template=bug.yml)，附检查输出与 SHA-256。
 
 维护者适配新版本时须：
 
 1. 验证封包格式及无改动重建。
-2. 重新确认字形表、程序引用和字符串位置。
+2. 重新确认字形表、程序引用和字符串位置；若启用显示层，还须核对加载入口的调用点、导入槽和 DLL 校验的虚表。合成 PE 通过不能代替这些版本检查。
 3. 提取原文，核对 `id` 与 `src`，迁移仍匹配的译文。
 4. 完成构建、安装、试玩与还原验证。
 5. 更新 `data/game-versions.csv`。

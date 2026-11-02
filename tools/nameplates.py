@@ -89,18 +89,53 @@ def command_row(actor_key, label, eol="\r\n"):
 
 
 def actors(rows):
-    """Character keys this script uses, in the order they first appear."""
+    """Character keys that speak in this script, in the order they first do.
+
+    A nameplate is only ever drawn above a line of dialogue, so a key that
+    appears in column 11 without one -- staging, walking, camera work -- can
+    never show a plate, and renaming it buys nothing while still issuing an
+    engine command in a context the original never issues it in.
+
+    systemevent/yome_walkd.txt is the case that matters: it holds no dialogue
+    at all, only BS_ION_BS_NRM_WALK and eight EVENT_PROCESS_DATE_CHARA_SET
+    steps that walk Ion across the room when you call her over.  It is also
+    exactly where the game was reported to crash.  Requiring dialogue drops it,
+    the other camera/walk/wear scripts, and 24 of the 26 systemevent/ scripts
+    that were being touched -- 35 scripts and 208 commands, none of which could
+    have put a Chinese name on screen.
+    """
     seen = []
     for r in rows:
-        if len(r) > SPEAKER_COL:
+        if len(r) > DIALOG_COL:
             k = r[SPEAKER_COL]
-            if k.strip() and k not in seen:
+            if k.strip() and r[DIALOG_COL].strip() and k not in seen:
                 seen.append(k)
     return seen
 
 
 def renames_itself(rows):
     return any(len(r) > CMD_COL and r[CMD_COL].strip() == RENAME for r in rows)
+
+
+# Commands that only appear in the free-interaction mode: moving Ion around the
+# room, calling her over, the touch mode.  A script carrying one of these is the
+# interaction system's own plumbing rather than a scripted scene, and the game
+# crashed on entering touch mode with a rename inserted into that path.  We
+# cannot prove the rename caused it -- the crash sits past the point 0.9.5 could
+# reach -- so these are left alone until the crash is confirmed gone.
+#
+# The original never issues CHANGE_DISPLAY_NAME in any of them: all 113 of its
+# own uses are in the main-story chapters.
+INTERACTION = ("_YOME_", "_DATE_UVMAP", "_TOUCH_MODE")
+
+
+def drives_interaction(rows):
+    for r in rows:
+        if len(r) > CMD_COL:
+            cmd = r[CMD_COL].strip()
+            if any(k in cmd for k in INTERACTION):
+                return True
+    return False
 
 
 def header_end(text):
@@ -128,7 +163,7 @@ def plan(text, labels, known=None):
     charanamemap defines.
     """
     rows = list(csv.reader(io.StringIO(text)))
-    if not rows:
+    if not rows or drives_interaction(rows):
         return [], []
     at = header_end(text)
     if at is None:

@@ -55,19 +55,24 @@ ui/ui/title/uil_title_confirm_user_name.xml#1155,kana,界面排版中的假名�
 
 ## 工具自检与 CI
 
+翻译或脚本注入有改动时，先运行 `tools/validate.py` 和 `tools/selftest_inject.py`。后者检查实际写入的位置：译文校验通过，并不保证角色键没有被改动。
+
+[校验工作流](../.github/workflows/validate.yml) 在 Linux 上检查翻译数据、未定义的 Python 名字、游戏目录选择、替换表以及安装与还原。Windows 任务使用 MSVC x64 编译显示层 DLL 和入口发射工具。可在仓库根目录复现：
+
 ```powershell
-py -3 tools/selftest_validate.py
-py -3 tools/selftest_install.py
+.\native\build.ps1
+py -3 tools/selftest_pe_loader.py
 ```
 
-校验器自检覆盖有效数据和各类错误；安装自检覆盖写入、重复安装、还原及拒绝条件。
+第二条命令在临时目录生成 x64 PE，不查找游戏。样本带有调用点、导入表和已有的异常展开记录，也会测试已有 `.fontex` 的布局。测试用刚编译的 `emit_entry.exe` 打补丁，检查入口跳转、节权限、重复应用、篡改拒绝和写盘失败时的文件保护。合成文件不会执行，也不会上传。
 
-`.github/workflows/validate.yml` 在匹配的 Pull Request、推送或手动触发时执行：
+若要核对受支持的实际版本，可在本机显式指定输入。测试只对临时副本打补丁：
 
-- 检查仓库中是否混入游戏原始资源。
-- 校验翻译数据并统计进度。
-- 检查 Python 语法及无游戏环境下的模块导入。
-- 运行校验器与安装工具自检。
+```powershell
+py -3 tools/selftest_pe_loader.py --exe "D:\Test\Backup\CielnosurgeDX.exe"
+```
+
+合成 PE 检查文件结构；角色显示、互动流程和卸载后的游戏状态仍须在本地验证。
 
 ## 需要游戏文件的验证
 

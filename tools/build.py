@@ -66,6 +66,15 @@ def main(argv=None):
     ap.add_argument("--skip-font", action="store_true",
                     help="reuse the atlas already under --out")
     ap.add_argument("--skip-validate", action="store_true")
+    ap.add_argument("--no-loader", action="store_true",
+                    help="leave the display layer out: no loader entry in the "
+                         "executable and no cielzh.dll")
+    ap.add_argument("--no-nameplates", action="store_true",
+                    help="diagnostic: translate everything but insert no "
+                         "nameplate commands, leaving record counts untouched")
+    ap.add_argument("--plain-exe", action="store_true",
+                    help="diagnostic: keep the glyph table but leave the "
+                         "executable's hardcoded strings in Japanese")
     ap.add_argument("--loose", action="store_true",
                     help="stage the translated files loose instead of in one "
                          "bundle, for looking at them by hand")
@@ -85,6 +94,8 @@ def main(argv=None):
         game = gamepath.resolve(a.game)
     except gamepath.NotFound as e:
         raise SystemExit(str(e))
+    # Before anything below imports a module that looks the game up itself.
+    gamepath.pin(game)
     res = os.path.join(game, "Res_x64")
 
     out = os.path.abspath(a.out)
@@ -151,7 +162,10 @@ def main(argv=None):
         if os.path.isdir(stage):
             shutil.rmtree(stage)
         try:
-            build_patch.main(work, fontdir, stage, loose=a.loose)
+            build_patch.main(work, fontdir, stage, loose=a.loose,
+                             plain_exe=a.plain_exe,
+                             no_nameplates=a.no_nameplates,
+                             no_loader=a.no_loader)
         except SystemExit as e:
             stop("Injection", str(e.code))
         except Exception as e:
@@ -180,16 +194,34 @@ def main(argv=None):
                 "bytes": os.path.getsize(p),
                 "sha256": sha256(p),
             })
-    exe = os.path.join(stage, "CielnosurgeDX.exe")
-    if os.path.exists(exe):
-        files.append({"path": "CielnosurgeDX.exe",
-                      "bytes": os.path.getsize(exe), "sha256": sha256(exe)})
+    # Everything the installer puts into the game folder, not just the archives
+    # and the main executable.  Naming only that one left CielnosurgeDX_Env.exe
+    # and cielzh.dll out of the build's own account of itself -- so the two files
+    # whose hashes nobody could check against the manifest were exactly the two
+    # a reader would most want to check: a fresh executable and a fresh DLL.
+    import install as _install
+    import newfiles as _newfiles
+    have = {f["path"] for f in files}
+    for name, _rel in list(_install.PAYLOAD) + list(_newfiles.CREATED):
+        if name in have:
+            continue
+        for d in (dist, stage, out):
+            p = os.path.join(d, name)
+            if os.path.isfile(p):
+                files.append({"path": name, "bytes": os.path.getsize(p),
+                              "sha256": sha256(p)})
+                have.add(name)
+                break
     # Record the *unpatched* executable this build was made from. Hashing the
     # one sitting in the game folder would record a previous patch's output
     # whenever the game is already patched, which is exactly when the manifest
     # would be consulted.
     from build_charset import pristine_exe
+    # The installer reads this rather than taking anyone's word for it: with the
+    # display layer left out there is no cielzh.dll to install, and requiring one
+    # anyway failed partway through a --no-loader install.
     manifest = {
+        "loader_enabled": not a.no_loader,
         "patch_version": a.version,
         "built": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "built_from_game_exe_sha256": sha256(pristine_exe()),
@@ -201,7 +233,7 @@ def main(argv=None):
 
     print("\nBuilt in %d seconds." % (time.time() - started))
     print("  archives   %s" % dist)
-    print("  executable %s" % exe)
+    print("  executable %s" % os.path.join(stage, "CielnosurgeDX.exe"))
     print("  manifest   %s" % mp)
     print("\nInstall it with:\n  py -3 tools/install.py --apply --from %s" % out)
     return 0

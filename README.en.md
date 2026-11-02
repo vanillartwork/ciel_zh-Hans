@@ -8,7 +8,7 @@ The patch is free of charge. The project is not affiliated with or authorized by
 
 ## Translation Progress
 
-Of 92,094 text entries, 91,744 are translated (99.62%).
+The CSV files contain translations for 91,775 of 92,125 entries (99.62%). This count excludes images; some translated strings must stay Japanese internally because the game also uses them as lookup keys.
 
 | Content | Entries | Translated |
 |---|---:|---:|
@@ -19,6 +19,7 @@ Of 92,094 text entries, 91,744 are translated (99.62%).
 | Global text: help, mail, Sharl names, etc. | 3,698 | 92.2% |
 | Main executable strings | 377 | 84.4% |
 | Settings program | 54 | 100% |
+| Additional display-only strings | 31 | 100% |
 
 The remaining 350 entries are blocked words, internal identifiers, and a blank speaker label. They retain their original values. Image text and some video subtitles remain unfinished; see [untranslated content](docs/not-translated.md) (Chinese).
 
@@ -63,7 +64,8 @@ Follow the [contribution guide](CONTRIBUTING.md), [translation style guide](docs
 After setting up the build environment, run from the repository root:
 
 ```powershell
-py -3 tools/build.py --version 0.9.0
+./native/build.ps1
+py -3 tools/build.py --version 0.9.7
 py -3 tools/install.py --apply
 ```
 

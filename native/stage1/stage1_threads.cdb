@@ -1,0 +1,79 @@
+$$ cielzh stage one, thread variant: WHICH threads call SetText / GetText.
+$$ Trace only. Software breakpoints temporarily modify EXE code bytes.
+$$
+$$ The first run showed the first SetText and GetText on background thread
+$$ 0x2DC8, not the main thread, so "who else touches text" is the question this
+$$ variant exists to answer -- and the earlier version could not answer it. It
+$$ logged the first 40 calls from any non-main thread, which one busy background
+$$ thread exhausts on its own, and it never logged the main thread at all, so
+$$ the main thread joining in later was invisible by construction.
+$$
+$$ Now up to four distinct thread ids are remembered, each with its own quota,
+$$ and the main thread is one of them. Calls from a fifth thread are counted in
+$$ $t19 without a stack, so a run can still say it saw more.
+$$
+$$ Registers
+$$   $t1 main tid      $t2 image base
+$$   $t5 total SET     $t6 total GET
+$$   $t10..$t13 thread ids seen     $t14..$t17 per-thread quota used
+$$   $t19 calls from threads beyond the fourth
+$$
+$$ Numbers in MASM expressions default to hex. 0n12 is decimal twelve.
+$$ Do not use semicolons inside $$ comments. CDB runs what follows one.
+
+.expr /s masm
+sxd av
+sxn eh
+sxn ld
+
+r $t0 = 0
+r $t1 = @$tid
+$$ x64 PEB.ImageBaseAddress, independent of the debugger's module name.
+$$ Keep the original-EXE hash check in debug.ps1 before using these RVAs.
+r $t2 = poi(@$peb+0x10)
+r $t3 = 0
+r $t5 = 0
+r $t6 = 0
+r $t10 = 0
+r $t11 = 0
+r $t12 = 0
+r $t13 = 0
+r $t14 = 0
+r $t15 = 0
+r $t16 = 0
+r $t17 = 0
+r $t19 = 0
+.printf "[stage1-threads] initial break. main thread tid=%x\n", @$t1
+lm a @$t2
+
+$$ Window/input points are EXE call instructions, before the APIs execute.
+$$ Do not put software breakpoints on API entries also patched by overlays.
+bp /1 @$t2+0x934b79 "r $t0=@$t0+1; .printf \"[%d] STEAM_RESTART_CALL tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x934c64 "r $t0=@$t0+1; .printf \"[%d] STEAM_INIT_CALL tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x92858e "r $t0=@$t0+1; .printf \"[%d] CREATE_WINDOW_CALL 0x92858E tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 6; gc"
+bp /1 @$t2+0x928016 "r $t0=@$t0+1; .printf \"[%d] DIRECT_INPUT_CALL 0x928016 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 6; gc"
+bp /1 @$t2+0x7b7e40 "r $t0=@$t0+1; .printf \"[%d] BOOT_FN 0x7B7E40 entry tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp @$t2+0x7b7f05 "r $t0=@$t0+1; r $t3=@$t3+1; .printf \"[%d] INIT_CALL 0x7B7F05 hit #%d tid=%x main=%d\\n\", @$t0, @$t3, @$tid, (@$tid==@$t1); .printf \"---- threads at INIT_CALL ----\\n\"; ~; ~*k 5; .printf \"---- end threads ----\\n\"; gc"
+bp /1 @$t2+0x97ce50 "r $t0=@$t0+1; .printf \"[%d] UI_INIT_FN 0x97CE50 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x9328f0 "r $t0=@$t0+1; .printf \"[%d] ACUIStyleMgr ctor tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x95d630 "r $t0=@$t0+1; .printf \"[%d] ACUIAnimMgr ctor tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x9add30 "r $t0=@$t0+1; .printf \"[%d] ACText base ctor (inferred) tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+bp /1 @$t2+0x964fd0 "r $t0=@$t0+1; .printf \"[%d] ACSpriteText ctor (inferred) tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+bp /1 @$t2+0x9627a0 "r $t0=@$t0+1; .printf \"[%d] ACUIText load-properties 0x9627A0 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+
+$$ Claim a slot for this thread, then log if that slot still has quota.
+$$ SET: total in $t5. Quota is 0n12 per thread, with one stack each.
+bp @$t2+0x967f90 "r $t5=@$t5+1; .if (@$t10==0) {r $t10=@$tid} .elsif ((@$t10!=@$tid) & (@$t11==0)) {r $t11=@$tid} .elsif ((@$t10!=@$tid) & (@$t11!=@$tid) & (@$t12==0)) {r $t12=@$tid} .elsif ((@$t10!=@$tid) & (@$t11!=@$tid) & (@$t12!=@$tid) & (@$t13==0)) {r $t13=@$tid}; .if (@$t10==@$tid) {.if (@$t14<0n12) {r $t14=@$t14+1; .printf \"[SET t1 %d/12 call#%d] tid=%x main=%d text=%ma\\n\", @$t14, @$t5, @$tid, (@$tid==@$t1), @rdx; k 6}} .elsif (@$t11==@$tid) {.if (@$t15<0n12) {r $t15=@$t15+1; .printf \"[SET t2 %d/12 call#%d] tid=%x main=%d text=%ma\\n\", @$t15, @$t5, @$tid, (@$tid==@$t1), @rdx; k 6}} .elsif (@$t12==@$tid) {.if (@$t16<0n12) {r $t16=@$t16+1; .printf \"[SET t3 %d/12 call#%d] tid=%x main=%d text=%ma\\n\", @$t16, @$t5, @$tid, (@$tid==@$t1), @rdx; k 6}} .elsif (@$t13==@$tid) {.if (@$t17<0n12) {r $t17=@$t17+1; .printf \"[SET t4 %d/12 call#%d] tid=%x main=%d text=%ma\\n\", @$t17, @$t5, @$tid, (@$tid==@$t1), @rdx; k 6}} .else {r $t19=@$t19+1}; gc"
+
+$$ GET shares the same thread slots and quotas, so the two are comparable.
+bp @$t2+0x966d20 "r $t6=@$t6+1; .if (@$t10==0) {r $t10=@$tid} .elsif ((@$t10!=@$tid) & (@$t11==0)) {r $t11=@$tid} .elsif ((@$t10!=@$tid) & (@$t11!=@$tid) & (@$t12==0)) {r $t12=@$tid} .elsif ((@$t10!=@$tid) & (@$t11!=@$tid) & (@$t12!=@$tid) & (@$t13==0)) {r $t13=@$tid}; .if (@$t10==@$tid) {.if (@$t14<0n12) {r $t14=@$t14+1; .printf \"[GET t1 %d/12 call#%d] tid=%x main=%d\\n\", @$t14, @$t6, @$tid, (@$tid==@$t1); k 6}} .elsif (@$t11==@$tid) {.if (@$t15<0n12) {r $t15=@$t15+1; .printf \"[GET t2 %d/12 call#%d] tid=%x main=%d\\n\", @$t15, @$t6, @$tid, (@$tid==@$t1); k 6}} .elsif (@$t12==@$tid) {.if (@$t16<0n12) {r $t16=@$t16+1; .printf \"[GET t3 %d/12 call#%d] tid=%x main=%d\\n\", @$t16, @$t6, @$tid, (@$tid==@$t1); k 6}} .elsif (@$t13==@$tid) {.if (@$t17<0n12) {r $t17=@$t17+1; .printf \"[GET t4 %d/12 call#%d] tid=%x main=%d\\n\", @$t17, @$t6, @$tid, (@$tid==@$t1); k 6}} .else {r $t19=@$t19+1}; gc"
+
+$$ Totals at exit.  Without this the overflow counter is only ever incremented,
+$$ never shown, and a run would report "two threads" whether or not a fifth one
+$$ had been silently counted.  Quotas are per thread, so the per-thread numbers
+$$ in the log are lower bounds once a quota fills -- the totals here are not.
+bu /1 ntdll!RtlExitUserProcess "n 10; .printf \"---- totals ----\\n\"; .printf \"SET total=%d  GET total=%d\\n\", @$t5, @$t6; .printf \"thread slots: %x %x %x %x\\n\", @$t10, @$t11, @$t12, @$t13; .printf \"quota used:   %d %d %d %d (cap 12 each)\\n\", @$t14, @$t15, @$t16, @$t17; .printf \"calls from a 5th thread onward (no stacks kept): %d\\n\", @$t19; .printf \"main tid was %x\\n\", @$t1; .printf \"---- end totals ----\\n\"; n 16; gc"
+
+.printf "[stage1-threads] breakpoints set:\n"
+bl
+g

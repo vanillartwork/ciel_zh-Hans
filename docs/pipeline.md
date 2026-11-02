@@ -47,6 +47,7 @@
 - 脚本 CSV：通过 `csvspan.py` 替换目标字段的字节区间，保留其他字节。
 - 二进制表：将 UTF-8 译文写入定长字段，剩余空间填零。
 - 主程序字符串：在字库补丁结果上原地覆盖，译文不得超过原文字节数。
+- 显示层：保留可能用作查找键的原文，生成 `cielzh-text.bin`。PE 工具在主程序副本上写入加载 `cielzh.dll` 的入口。
 - 环境设置程序：更新 Win32 界面资源。
 
 文本默认暂存为不压缩的 `stage/text.zip`，减少重复访问小文件的开销。`--loose` 可改用散文件，供调试查看。
@@ -65,10 +66,15 @@
 
 还原计划同时保存到 `Backup/inplace.json`，清理构建目录后仍可卸载。写入失败时尝试回滚，恢复方法见[安装与卸载](install.md)。
 
+安装前，工具把本次操作及回滚副本记在 `Backup/install_tx.json` 和 `Backup/rollback/`。提交前失败会撤销到安装前的状态；提交后中断只清理临时资料。恢复失败会保留副本，下次安装可以重试。
+
+若新版不再覆盖旧版改过的区间，须先还原旧版。新增的 DLL 和替换表由 `Backup/created.json` 记录，安装器不会接管其他来源的同名文件。
+
 ## 运行与验证
 
 ```powershell
-py -3 tools/build.py --version 0.9.0
+./native/build.ps1
+py -3 tools/build.py --version 0.9.7
 py -3 tools/install.py --apply
 ```
 

@@ -22,6 +22,12 @@ ManifestDPIAware true
 !ifndef GAME_BUILD
   !define GAME_BUILD "6298523"
 !endif
+; Diagnostic builds only: extra flags handed to build.py, e.g. --plain-exe or
+; --no-nameplates, so one class of change can be switched off and a crash
+; attributed without guessing.  Empty for every release build.
+!ifndef EXTRA_BUILD_ARGS
+  !define EXTRA_BUILD_ARGS ""
+!endif
 
 !define PRODUCT     "Ciel nosurge DX 简体中文补丁"
 !define PRODUCT_EN  "CielNosurgeDX-zh-Hans"
@@ -188,7 +194,7 @@ FunctionEnd
 
 !macro Phase name label lo hi
   DetailPrint "${label}"
-  !insertmacro RunWatched ${name} ${lo} '"$PyExe" "$INSTDIR\tools\build.py" --game "$GameDir" --out "$INSTDIR\build" --version "${PATCH_VERSION}" --log "$LogFile" --progress "$ProgFile" --progress-range ${lo} ${hi} --done "$DoneFile" --phase ${name}' "${label}"
+  !insertmacro RunWatched ${name} ${lo} '"$PyExe" "$INSTDIR\tools\build.py" --game "$GameDir" --out "$INSTDIR\build" --version "${PATCH_VERSION}" --log "$LogFile" --progress "$ProgFile" --progress-range ${lo} ${hi} --done "$DoneFile" --phase ${name} ${EXTRA_BUILD_ARGS}' "${label}"
   ${If} $0 != 0
     !insertmacro Failed
   ${EndIf}
@@ -289,6 +295,9 @@ Section "安装" SecMain
   File /r "payload\python\*.*"
   File /r "payload\tools"
   File /r "payload\data"
+  ; The display layer: the DLL the loader entry loads, and the tool that emits
+  ; that entry for this machine's executable.  Both are built from native/.
+  File /r "payload\native"
   File "payload\VERSION"
   !insertmacro SetPct 10
 

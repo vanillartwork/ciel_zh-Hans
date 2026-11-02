@@ -11,12 +11,15 @@ on:
     paths:
       - "data/**"
       - "tools/**"
+      - "native/**"
       - ".github/workflows/validate.yml"
   push:
     branches: [main]
     paths:
       - "data/**"
       - "tools/**"
+      - "native/**"
+      - ".github/workflows/validate.yml"
   workflow_dispatch:
 
 permissions:
@@ -133,7 +136,74 @@ jobs:
         # so the injection output is checked directly.
         run: python tools/selftest_inject.py
 
+      - name: 静态检查：未定义的名字
+        # build.py once printed a variable an edit had removed.  It crashed
+        # after writing the manifest, so the install still worked locally and
+        # the only symptom was an exit code of 1 -- which is exactly what the
+        # Windows installer checks.  None of the suites run build.py (it needs
+        # the game), so this is the check that would have caught it.
+        run: |
+          python -m pip install --quiet pyflakes
+          python -m pyflakes tools native/stage1 > pyflakes.txt || true
+          cat pyflakes.txt
+          ! grep -E "undefined name|referenced before assignment" pyflakes.txt
+
+      - name: 自检显示层替换表
+        # The table the DLL reads is written here; the DLL's parser is checked
+        # against the same format and hash in native/test/selftest.cpp.
+        run: python tools/selftest_text_table.py
+
+      - name: 自检构建读取的游戏目录
+        # build.py takes --game, but several modules it drives used to look the
+        # game up for themselves, so a folder chosen in the installer was not
+        # the one every step read.  build_font needs numpy and Pillow at import,
+        # the same two the installer ships.
+        run: |
+          python -m pip install --quiet numpy pillow
+          python tools/selftest_gamepath.py
+
+      - name: 自检新建文件的归属
+        # cielzh.dll has no original to restore, so "undo" means deleting a
+        # file -- the one mistake that cannot be walked back.  Needs no game
+        # files: a temporary folder stands in for the game.
+        run: python tools/selftest_newfiles.py
+
+      - name: 自检正式安装入口
+        # Six problems in the install wiring got through a suite that only
+        # exercised the helper module -- including a version field main() reads
+        # and argparse never defined.  This drives the real main() against a
+        # synthetic game folder, so no game files are needed.
+        #
+        # It also covers the windows a process kill can land in: the file
+        # changed before the transaction knew about it, an interruption after
+        # the commit point, and recovery copies that are missing or damaged.
+        # Those are not reachable by raising an ordinary exception, which takes
+        # the in-process rollback instead.
+        run: python tools/selftest_install_flow.py
+
       - name: 自检安装与还原
         # The in-place patch keeps only the bytes it overwrites, so the undo
         # path has to be tested rather than assumed.
         run: python tools/selftest_install.py
+
+  native:
+    name: 原生显示层
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 编译并自检
+        # The display layer replaces vtable slots in the game, so its own checks
+        # matter more than usual: a recorder that folds away a nameplate change
+        # or a rollback that cannot be resumed would send the whole translation
+        # architecture after wrong conclusions.  None of this needs game files --
+        # the test builds a synthetic image with the same vtables and thunks,
+        # and the entry test drives the real emitted bytes end to end.
+        shell: pwsh
+        run: ./native/build.ps1
+
+      - name: 合成 PE：加载入口、展开表与重复安装
+        run: python tools/selftest_pe_loader.py

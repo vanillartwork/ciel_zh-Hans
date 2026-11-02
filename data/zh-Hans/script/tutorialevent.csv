@@ -1054,7 +1054,7 @@ inc/event/res/tutorialevent/tu02.txt#90#12,"あなたから見て左下の方に
 有一个手掌形状的开关哦？",translated,依恩,bb27b2b18d,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu02.txt#91#12,"このスイッチを押しながら、
 わたしの身体に触ってみて？","按住那个开关的同时，
-摸摸看我的身体好吗？",translated,依恩,17796bb91c,br=0 nl=1,2,
+碰碰看我的身体好吗？",translated,依恩,17796bb91c,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu02_tch1.txt#3#12,"<CLBU>うわあっ！
 び、ビックリした！","<CLBU>哇啊！
 吓、吓了我一跳！",translated,依恩,e819f671e1,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
@@ -1097,27 +1097,27 @@ inc/event/res/tutorialevent/tu02_tch23.txt#2#12,"<CLBU>わわっ！
 inc/event/res/tutorialevent/tu02_tch23.txt#3#12,"すごいすごい！！
 あなたのこと、感じる事が出来るんだ…。","好厉害好厉害！！
 真的能感应到你的动作呢……",translated,依恩,d4b09439aa,br=0 nl=1,2,
-inc/event/res/tutorialevent/tu02_tch23.txt#4#12,それじゃ、次は顔をぷにぷにしてみて？,那么，接下来试着捏捏脸看看？,translated,依恩,d35b6f11a2,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch23.txt#4#12,それじゃ、次は顔をぷにぷにしてみて？,那么，接下来试着戳戳脸看看？,translated,依恩,d35b6f11a2,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu02_tch23.txt#5#12,ほっぺたをツンツンつついてみてね。,轻轻戳戳看我的脸颊吧。,translated,依恩,b709be4318,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu02_tch23.txt#7#12,"……あれ？
 ぷにぷにしてくれてる？","……咦？
-有在捏捏脸吗？",translated,依恩,59366da899,br=0 nl=1,2,
+有在戳戳脸吗？",translated,依恩,59366da899,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu02_tch23.txt#10#12,…うーん、上手く行かないのかな？,……唔～，不太顺利吗？,translated,依恩,634e179181,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu02_tch23.txt#11#12,"あなたから見て左下の方にある、
 手の形をしたスイッチを押しながら、
 わたしのほっぺをぷにぷにしてみてね？","按住你看到的左下方
 那个手掌形状的开关，
-试着捏捏看我的脸颊好吗？",translated,依恩,b6f6d18430,br=0 nl=2,3,
+试着戳戳看我的脸颊好吗？",translated,依恩,b6f6d18430,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu02_tch31.txt#3#12,<CLBU>ちゃんとツンツンしてるのが分かるよ。,<CLBU>能清楚感觉到你在戳我哦。,translated,依恩,886de5c1b6,<CLBU> br=0 nl=0,1,keep-tags <CLBU>
 inc/event/res/tutorialevent/tu02_tch31.txt#4#12,でも、そこはほっぺじゃないみたい。,不过，那里好像不是脸颊呢。,translated,依恩,c7e16f72dc,br=0 nl=0,1,
-inc/event/res/tutorialevent/tu02_tch31.txt#5#12,もう一度、ほっぺをぷにぷにしてね。,再试一次，捏捏脸颊看看吧。,translated,依恩,69b80e7975,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu02_tch31.txt#5#12,もう一度、ほっぺをぷにぷにしてね。,再试一次，戳戳脸颊看看吧。,translated,依恩,69b80e7975,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu02_tch32.txt#2#12,"<CLBU>えへへ♪
 ほっぺぷにぷにされちゃった。","<CLBU>诶嘿嘿♪
-脸颊被捏捏了呢。",translated,依恩,cda97fcbab,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
+脸颊被戳戳了呢。",translated,依恩,cda97fcbab,<CLBU> br=0 nl=1,2,keep-tags <CLBU>
 inc/event/res/tutorialevent/tu02_tch32.txt#3#12,本当に、いろんな感覚がわかるんだね。,真的能感知到各种各样的感觉呢。,translated,依恩,ae805906bf,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu02_tch32.txt#4#12,"それでね、今ぷにぷにされてるときに
 気づいたんだけど、あなたが指を当てて
-いるとき他の感覚も伝わってくるみたい。","而且刚才被捏捏脸颊的时候我注意到了，
+いるとき他の感覚も伝わってくるみたい。","而且刚才被戳戳脸颊的时候我注意到了，
 你的手指按在那里的时候，
 似乎连其他感觉也一并传过来了呢。",translated,依恩,2291d59621,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu02_tch32.txt#5#12,"今度はちょっと長めに…５秒くらい

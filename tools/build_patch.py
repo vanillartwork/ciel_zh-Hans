@@ -14,6 +14,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gamepath
 from gustpak import Pak
 import import_text
+import exe_keys
+import pe_loader
+import build_text_table
 import patch_exe_strings
 import env_strings
 import progress
@@ -34,7 +37,8 @@ def sha(path, limit=None):
     return h.hexdigest()[:16]
 
 
-def main(exportdir, fontdir, patchdir, loose=False):
+def main(exportdir, fontdir, patchdir, loose=False, plain_exe=False,
+         no_nameplates=False, no_loader=False):
     if os.path.isdir(patchdir):
         shutil.rmtree(patchdir)
     os.makedirs(patchdir)
@@ -48,6 +52,16 @@ def main(exportdir, fontdir, patchdir, loose=False):
     # through source_pak; this one was missed.
     pak = Pak(gamepath.source_pak(RES, "PACK01.PAK"))
     script, ui, binmap, speakers = import_text.collect(exportdir)
+    # Kept whole for the display layer's table, whatever --no-nameplates does to
+    # the scripts: the two are separate ways of putting a name on screen.
+    all_speakers = dict(speakers)
+    held = []
+    if no_nameplates:
+        # Diagnostic: no EVENT_PROCESS_CHANGE_DISPLAY_NAME is inserted, so every
+        # script keeps the original's record count and the nameplates stay
+        # Japanese.  Everything else is still translated.
+        print("nameplates disabled (--no-nameplates)")
+        speakers = {}
     files = import_text.build(pak, script, ui, binmap, speakers)
     # One uncompressed zip rather than 2,679 loose files.  On a machine with
     # on-access virus scanning, writing them loose and reading them straight
@@ -97,18 +111,78 @@ def main(exportdir, fontdir, patchdir, loose=False):
     exe_csv = os.path.join(exportdir, "exe_text.csv")
     if not os.path.exists(exe_csv):
         exe_csv = patch_exe_strings.DEFAULT_CSV
-    rows, todo, skipped = patch_exe_strings.load(exe_csv)
-    bad = patch_exe_strings.check(todo)
-    if bad:
-        raise SystemExit("exe_text.csv has %d translations that do not fit; "
-                         "run check_exe_text.py" % len(bad))
-    data, done, miss, total = patch_exe_strings.patch(open(exe_dst, "rb").read(), todo)
-    if miss:
-        raise SystemExit("%d hardcoded strings were not found in the executable -- "
-                         "unsupported game version?" % miss)
-    open(exe_dst, "wb").write(data)
-    print("patched exe  %.1f MB, %d hardcoded strings translated"
-          % (os.path.getsize(exe_dst) / 1e6, done))
+    if plain_exe:
+        print("patched exe  %.1f MB, hardcoded strings left in Japanese "
+              "(--plain-exe)" % (os.path.getsize(exe_dst) / 1e6))
+        rows = todo = skipped = ()
+    else:
+        rows, todo, skipped = patch_exe_strings.load(exe_csv)
+        # Some of these are not display text but keys the data files index by,
+        # and rewriting one breaks every lookup that uses it.  See exe_keys.py.
+        todo, held = exe_keys.split(pak, todo)
+        if held:
+            report = os.path.join(exportdir, "exe_text_withheld.csv")
+            exe_keys.write_report(report, held)
+            print("  %d hardcoded strings kept Japanese: the game's own data "
+                  "tables index by them (see %s)"
+                  % (len(held), os.path.basename(report)))
+    if todo:
+        bad = patch_exe_strings.check(todo)
+        if bad:
+            raise SystemExit("exe_text.csv has %d translations that do not fit; "
+                             "run check_exe_text.py" % len(bad))
+        data, done, miss, total = patch_exe_strings.patch(
+            open(exe_dst, "rb").read(), todo)
+        if miss:
+            raise SystemExit("%d hardcoded strings were not found in the "
+                             "executable -- unsupported game version?" % miss)
+        open(exe_dst, "wb").write(data)
+        print("patched exe  %.1f MB, %d hardcoded strings translated"
+              % (os.path.getsize(exe_dst) / 1e6, done))
+
+    # 4. the loader entry, last: it is applied to the finished executable, and
+    #    every build starts from the pristine image, so an upgrade rebuilds from
+    #    the original rather than layering a new entry over an old one.
+    if no_loader:
+        print("loader entry skipped (--no-loader); cielzh.dll will not load")
+    else:
+        dll_src = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            "native", "build", "cielzh.dll")
+        if not os.path.exists(dll_src):
+            raise SystemExit(
+                "native/build/cielzh.dll is not built.\n"
+                "  Run native/build.ps1, or pass --no-loader to leave the\n"
+                "  display layer out of this build.")
+        with_entry = exe_dst + ".entry"
+        pe_loader.apply(exe_dst, with_entry, report=lambda m: print(" " + m))
+        os.replace(with_entry, exe_dst)
+        shutil.copyfile(dll_src, os.path.join(patchdir, "cielzh.dll"))
+        print("loader entry added, cielzh.dll staged (%.0f KB)"
+              % (os.path.getsize(dll_src) / 1024))
+        # What the display layer puts on screen in place of the Japanese the
+        # game keeps as keys.  Built here, on the player's machine, from the
+        # same glossary and the same held-back list this build just used --
+        # it holds hashes of the Japanese, not the Japanese.
+        zh_dir = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            "data", "zh-Hans")
+        display = build_text_table.load_display(
+            os.path.join(zh_dir, "display.csv"))
+        skipped = []
+        try:
+            n, size = build_text_table.write(
+                os.path.join(patchdir, "cielzh-text.bin"), all_speakers, held,
+                display, build_text_table.our_chinese(zh_dir), skipped)
+        except build_text_table.TableError as e:
+            raise SystemExit("the display layer's text table cannot be built: "
+                             "%s" % e)
+        print("display table: %d strings (%d bytes) -> cielzh-text.bin"
+              % (n, size))
+        for jp, where in skipped:
+            print("  left out of the display table: %s (%s) is also one of "
+                  "our Chinese strings, and the display layer could not tell "
+                  "them apart" % (jp, where))
 
     # 4. the settings program, whose UI lives in its own Win32 resources
     env_csv = os.path.join(exportdir, "env_text.csv")
