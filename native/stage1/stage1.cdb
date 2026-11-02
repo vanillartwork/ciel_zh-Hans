@@ -1,0 +1,59 @@
+$$ cielzh stage one: the order things first happen in, and on which thread.
+$$ Trace only. Software breakpoints temporarily modify EXE code bytes.
+$$
+$$ RVAs are into the ORIGINAL CielnosurgeDX.exe, sha256 04b755ab2eb26f26...
+$$ Run it against a patched executable and the numbers mean nothing.
+$$
+$$ Questions this run answers:
+$$   * Does the candidate init call (INIT_CALL) come before the first text
+$$     object is built, the first SetText and the first GetText?
+$$   * What threads exist when it runs, and what are they doing?
+$$   * Does INIT_CALL run more than once?
+$$ It does NOT answer whether other threads touch the text objects later.
+$$ that is stage1_threads.cdb, which is much slower.
+
+.expr /s masm
+sxd av
+sxn eh
+sxn ld
+
+r $t0 = 0
+r $t1 = @$tid
+$$ x64 PEB.ImageBaseAddress, independent of the debugger's module name.
+$$ Keep the original-EXE hash check in debug.ps1 before using these RVAs.
+r $t2 = poi(@$peb+0x10)
+r $t3 = 0
+.printf "[stage1] initial break; main thread tid=%x\n", @$t1
+lm a @$t2
+
+$$ --- reference points: where the reviewer placed Steam, window, input -----
+$$ Break at the EXE call instructions, before the APIs execute.
+$$ Do not put software breakpoints on API entries also patched by overlays.
+bp /1 @$t2+0x934b79 "r $t0=@$t0+1; .printf \"[%d] STEAM_RESTART_CALL tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x934c64 "r $t0=@$t0+1; .printf \"[%d] STEAM_INIT_CALL tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x92858e "r $t0=@$t0+1; .printf \"[%d] CREATE_WINDOW_CALL 0x92858E tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 6; gc"
+bp /1 @$t2+0x928016 "r $t0=@$t0+1; .printf \"[%d] DIRECT_INPUT_CALL 0x928016 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 6; gc"
+
+$$ --- the candidate chain ------------------------------------------------
+bp /1 @$t2+0x7b7e40 "r $t0=@$t0+1; .printf \"[%d] BOOT_FN 0x7B7E40 entry tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+
+$$ INIT_CALL is not one-shot: a second hit is the answer to "can it repeat".
+$$ On every hit, list the threads and what each one is doing.
+bp @$t2+0x7b7f05 "r $t0=@$t0+1; r $t3=@$t3+1; .printf \"[%d] INIT_CALL 0x7B7F05 hit #%d tid=%x main=%d\\n\", @$t0, @$t3, @$tid, (@$tid==@$t1); .printf \"---- threads at INIT_CALL ----\\n\"; ~; ~*k 5; .printf \"---- end threads ----\\n\"; gc"
+
+bp /1 @$t2+0x97ce50 "r $t0=@$t0+1; .printf \"[%d] UI_INIT_FN 0x97CE50 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x9328f0 "r $t0=@$t0+1; .printf \"[%d] ACUIStyleMgr ctor tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+bp /1 @$t2+0x95d630 "r $t0=@$t0+1; .printf \"[%d] ACUIAnimMgr ctor tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); gc"
+
+$$ --- first text objects and first text traffic ---------------------------
+$$ The two constructors are INFERRED from who writes each vtable. The logs
+$$ should say so and not be read as proven.
+bp /1 @$t2+0x9add30 "r $t0=@$t0+1; .printf \"[%d] ACText base ctor (inferred) tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+bp /1 @$t2+0x964fd0 "r $t0=@$t0+1; .printf \"[%d] ACSpriteText ctor (inferred) tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+bp /1 @$t2+0x9627a0 "r $t0=@$t0+1; .printf \"[%d] ACUIText load-properties 0x9627A0 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 8; gc"
+bp /1 @$t2+0x967f90 "r $t0=@$t0+1; .printf \"[%d] SET first 0x967F90 tid=%x main=%d text=%ma\\n\", @$t0, @$tid, (@$tid==@$t1), @rdx; k 10; gc"
+bp /1 @$t2+0x966d20 "r $t0=@$t0+1; .printf \"[%d] GET first 0x966D20 tid=%x main=%d\\n\", @$t0, @$tid, (@$tid==@$t1); k 10; gc"
+
+.printf "[stage1] breakpoints set:\n"
+bl
+g

@@ -28,6 +28,7 @@
 | `import_text.py` | 写回译文 |
 | `patch_exe_strings.py` | 替换程序字符串 |
 | `build_patch.py` | 生成暂存文件 |
+| `pe_loader.py` | 将 `emit_entry.exe` 生成的入口写入主程序副本 |
 | `repack_pak.py` | 打包与生成原地修改计划 |
 
 底层模块包括 PAK 读写 `gustpak.py`、CSV 字节区间处理 `csvspan.py`、字形结构 `font_atlas.py` 和 BC1 编解码 `bc1.py`。
@@ -38,6 +39,7 @@
 |---|---|---|
 | `selftest_validate.py` | 校验器自检 | 否 |
 | `selftest_install.py` | 安装与还原自检 | 否 |
+| `selftest_pe_loader.py` | 合成 PE 的加载入口、重复应用和拒绝路径（先编译原生工具） | 否 |
 | `test_roundtrip.py` | 无改动重建的逐字节比较 | 是 |
 | `check_exe_text.py` | 程序字符串定位、长度及数据引用检查 | 是 |
 
@@ -47,7 +49,7 @@
 |---|---|
 | `repo_export.py` | 将提取结果转换为仓库数据 |
 | `build_glossary.py` | 汇总术语 |
-| `release_notes.py` | 生成发布说明 |
+| `release_notes.py` | 生成发布说明参考（不再由 CI 自动写入 Release） |
 | `normalize_cn.py` | 字形规范化 |
 | `fix_names.py`、`unify_dupes.py` | 统一译名与重复原文的译法 |
 | `apply_official.py`、`official_glossary.py` | 导入官方译名 |

@@ -5,14 +5,16 @@
 - Python 3.10 或更高版本。
 - 合法拥有且版本受支持的 Ciel nosurge DX。
 - 游戏所在磁盘至少 1,200 MB 可用空间，构建输出目录也须有足够空间。
+- 默认构建包含显示层，需要 Visual Studio 或 Build Tools 的 MSVC x64 工具链和 Windows SDK。使用预编译安装包的玩家不需要安装这些工具。
 - 重建字库所需的 NumPy、Pillow 及本地中文字体。
 
 以下命令在仓库根目录运行，示例使用 Windows PowerShell：
 
 ```powershell
 py -3 -m pip install numpy pillow
+./native/build.ps1               # 编译显示层、发射工具并运行原生自检
 py -3 tools/preflight.py
-py -3 tools/build.py --version 0.9.0
+py -3 tools/build.py --version 0.9.7
 ```
 
 构建依次执行数据校验、原文提取、译文合并、字库重建、文本写回、打包和清单生成。任一阶段失败即停止；构建过程不写入游戏目录。
@@ -48,6 +50,7 @@ py -3 tools/install.py --restore  # 还原原始文件
 | `--skip-font` | 复用输出目录中已有的字体图集 |
 | `--skip-validate` | 跳过数据校验，仅用于调试 |
 | `--no-repack` | 完成暂存后停止，不生成安装封包 |
+| `--no-loader` | 诊断用：不写显示层入口，不安装 DLL 或替换表 |
 | `--loose` | 使用散文件暂存文本，便于检查 |
 | `--phase <阶段>` | 单独执行 `check`、`extract`、`font`、`inject` 或 `repack` |
 
@@ -82,7 +85,7 @@ $env:CIEL_NOSURGE_FONT = "C:\Windows\Fonts\msyhbd.ttc"
 
 ```powershell
 cd installer
-.\build-installer.ps1 -Version 0.9.0
+.\build-installer.ps1 -Version 0.9.7
 ```
 
 安装包及 `.sha256` 输出到仓库上级的 `dist/`，与补丁构建目录 `build/dist/` 不同。详见[安装程序说明](../installer/README.md)。

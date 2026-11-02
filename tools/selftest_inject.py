@@ -28,6 +28,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import csvspan
 import import_text
 import nameplates
+import exe_keys
 from export_text import SPEAKER_COL, DIALOG_COL, CMD_COL, CMD_TEXT
 
 BOM = b"\xef\xbb\xbf"
@@ -83,9 +84,13 @@ def main():
         # 3: plain dialogue, no expression
         row({SPEAKER_COL: "神官", DIALOG_COL: "こんにちは。"}),
         # 4: the chibi model -- differs from the normal one only by a space
-        row({6: "R1", 7: "BS_ION_BS_DFT_WAIT", SPEAKER_COL: "イオン　"}),
+        row({6: "R1", 7: "BS_ION_BS_DFT_WAIT", SPEAKER_COL: "イオン　",
+             DIALOG_COL: "ふふっ。"}),
         # 5: the original's own rename: argument 1 the character, 2 the label
         row({CMD_COL: RENAME, CMD_COL + 1: "女Ｂ", CMD_COL + 2: "おねえさん"}),
+        # 6: on stage but never speaks.  systemevent/yome_walkd.txt is nothing
+        # but rows like this one, and it is where the game crashed.
+        row({6: "L2", 7: "BS_NEI_BS_NRM_WALK", SPEAKER_COL: "ネイ"}),
     ]
     path = "inc/event/res/test/t.txt"
     data = BOM + "\r\n".join(lines).encode("utf-8")
@@ -101,6 +106,7 @@ def main():
         '"イオン　" CHARA_PC22 chara_chibi',
         '"神官" CHARA_NPC12 chara_sinkan',
         '"女Ｂ" CHARA_NPC03 chara_womanB',
+        '"ネイ" CHARA_NPC01 chara_nei',
     ]).encode("utf-8")
 
     pak = FakePak({path: data, ng: ng_data, nameplates.CHARAMAP: charamap})
@@ -113,11 +119,12 @@ def main():
     script = dict([
         cell(path, 2, DIALOG_COL, "……唔，呜……。", "……っ、うぅ……。"),
         cell(path, 3, DIALOG_COL, "你好。", "こんにちは。"),
+        cell(path, 4, DIALOG_COL, "呵呵。", "ふふっ。"),
         cell(path, 5, CMD_COL + 2, "大姐姐", "おねえさん", "name"),
     ])
     # The two Ion keys are given different labels on purpose: the real data
     # gives both 依恩, which would hide a bug that mixed the two keys up.
-    speakers = {"イオン": "依恩", "イオン　": "依恩（Q版）"}
+    speakers = {"イオン": "依恩", "イオン　": "依恩（Q版）", "ネイ": "内伊"}
     binmap = {"エッチ": {"zh": "下流", "jp": "エッチ"}}
 
     out = import_text.build(pak, script, {}, binmap, speakers)
@@ -158,6 +165,8 @@ def main():
     check("带全角空格的 Q 版键单独生成，未与普通模型混同",
           got_names.get("イオン　") == "依恩（Q版）")
     check("没有译文的角色键不生成指令（神官 中日同形）", "神官" not in got_names)
+    check("出场但不说话的角色不生成指令（名牌只出现在对白上方）",
+          "ネイ" not in got_names)
     first_new = next((i for i, r in enumerate(rows) if r in inserted), None)
     orig_rename = next((i for i, r in enumerate(rows)
                         if len(r) > CMD_COL + 1 and r[CMD_COL].strip() == RENAME
@@ -167,11 +176,30 @@ def main():
           first_new is not None and orig_rename is not None
           and first_new < orig_rename)
 
+    # --- hardcoded executable strings that are keys ------------------------
+    # イオン is in charanamemap.inc, so the executable's copy of it is a key and
+    # must stay Japanese; こんにちは。 only ever appears in an event script, which
+    # is dialogue, so it must not be held back by mistake.
+    todo = [("exe:a", "イオン", "依恩", 9),
+            ("exe:b", "こんにちは。", "你好。", 18),
+            ("exe:c", "セーブ", "存档", 9)]
+    safe, held = exe_keys.split(pak, todo)
+    held_jp = {t[1] for t in held}
+    check("数据表索引的主程序字符串保持日文（イオン）", "イオン" in held_jp)
+    check("只在对白中出现的不被误拦（こんにちは。）",
+          "こんにちは。" not in held_jp)
+    check("未出现在任何数据表中的照常翻译（セーブ）", "セーブ" not in held_jp)
+    check("拦下的与放行的加起来不多不少", len(safe) + len(held) == len(todo))
+    check("事件脚本目录不算定义表",
+          not exe_keys.is_definition("inc/event/res/test/t.txt")
+          and not exe_keys.is_definition("inc/event/resdebug/x/y.txt")
+          and exe_keys.is_definition("inc/task/task_tag.inc"))
+
     print()
     if failures:
         print("%d 项未通过" % len(failures))
         return 1
-    print("全部 %d 项自检通过" % (len(failures) + 18))
+    print("全部 %d 项自检通过" % (len(failures) + 24))
     return 0
 
 

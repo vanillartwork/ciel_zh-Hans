@@ -9,16 +9,17 @@ payload/
   python/   可嵌入版 CPython、NumPy 与 Pillow
   tools/    项目工具
   data/     翻译数据与术语表
+  native/build/  cielzh.dll 与 emit_entry.exe
 ```
 
 安装包不包含游戏可执行文件或资源封包，构建所需的原始文件从用户已安装的游戏读取。
 
 ## 构建
 
-要求 Windows、NSIS，且 `makensis` 可从 PATH 调用。在本目录运行：
+要求 Windows、NSIS，且 `makensis` 可从 PATH 调用。先在仓库根目录运行 `.\native\build.ps1`，再进入 `installer/` 目录打包：
 
 ```powershell
-.\build-installer.ps1 -Version 0.9.0
+.\build-installer.ps1 -Version 0.9.7
 ```
 
 脚本下载并配置 Python 运行时及依赖，复制工具和数据，检查是否混入游戏资源，然后调用 NSIS。产物位于本目录的 `../../dist/`，即仓库上级的 `dist/`，包括安装程序及 `.sha256`。
@@ -36,7 +37,7 @@ payload/
 
 ## 卸载与备份
 
-卸载调用 `install.py --restore`，从 `Backup/` 恢复三个完整文件及 `PACK00_01.PAK` 的字体修改区间。还原计划保存在 `Backup/inplace.json`，不依赖临时构建目录。
+卸载调用 `install.py --restore`，从 `Backup/` 恢复三个完整文件及 `PACK00_01.PAK` 的字体修改区间。同时删除仍与安装记录相符的 `cielzh.dll` 和 `cielzh-text.bin`。还原计划保存在 `Backup/inplace.json`，不依赖临时构建目录。
 
 还原失败时显示备份位置和错误信息；用户可通过 Steam 验证文件完整性恢复原版。
 

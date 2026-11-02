@@ -1,0 +1,32 @@
+id,jp,zh,status,note
+display:387893d4,服飾,服饰,translated,EXE 物品分类名表（原版 0x84A6B4 起），纯汉字，导出时因不含假名被跳过；与「パジャマ」「プラグイン」等保留词同表，按兼作数据键处理，只在显示时替换。译法同 global:70。「工作」（手工类）未收：我们的对白把「仕事」译作「工作」，显示层按文字匹配，分不清二者
+display:7a420f11,食料,食物,translated,同上
+display:ba96d726,特別,特别,translated,同上
+display:b5140a9f,服,衣服,translated,同上
+display:11dfba60,保存食,储备粮,translated,EXE 物品子分类表（原版 0x84A750 起），与上表相邻、结构相同；中日同形的（重要、金属、植物、真空管、基本素材）不收。「道具」（工具类）未收：我们把アイテム译作「道具」，显示层分不清
+display:df2144b4,料理,菜肴,translated,同上
+display:c89c95bd,定食,套餐,translated,同上
+display:faf5a3fc,菓子,点心,translated,同上
+display:c5d04a49,果物,水果,translated,同上
+display:17548d38,調味料,调味料,translated,同上
+display:7f764ce9,肉卵類,肉蛋类,translated,同上
+display:dac5927a,野菜,蔬菜,translated,同上
+display:5f3418bd,機械,机械,translated,同上
+display:516367d0,補助剤,辅助剂,translated,同上
+display:e084f4a6,書物,书籍,translated,同上
+display:fbdf1e84,鉱物,矿物,translated,同上
+display:c98fb014,薬,药品,translated,同上
+display:0a9ba487,几帳面,一丝不苟,translated,EXE 性格与口味表（原版 0x84C118 起），依恩的状态画面
+display:2c8093b5,激辛党,超爱吃辣,translated,同上
+display:b33cc59f,辛党,爱吃辣,translated,同上
+display:d042ce8d,甘党,爱吃甜,translated,同上
+display:cb9f03a5,激甘党,超爱吃甜,translated,同上
+display:489236d7,音量設定,音量设置,translated,EXE 界面标题，纯汉字未导出；「音量設定」已在实机截图中确认上屏，其余按位置推定。已有同词译文的沿用（废墟修复、收件箱、发件箱）
+display:2f58da23,廃墟修復,废墟修复,translated,同上
+display:32752f05,受信箱,收件箱,translated,同上
+display:c1425ab5,送信箱,发件箱,translated,同上
+display:db37bc2d,返信画面,回复画面,translated,同上
+display:e2855049,種族変更,变更种族,translated,同上
+display:edf69de9,優先度,优先度,translated,同上
+display:5213848a,再試行,重试,translated,同上
+display:86a07295,確認,确认,translated,同上

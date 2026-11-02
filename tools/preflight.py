@@ -66,27 +66,41 @@ def restorable_in_place(game, backup, rel, table):
     it is read -- the archive restored virtually, without writing 1.8 GB or
     holding it in memory -- and that hash has to be one we know.
     """
-    plan = os.path.join(backup, PLAN)
-    if not os.path.isfile(plan):
-        return False
-    try:
-        steps = json.load(io.open(plan, encoding="utf-8"))
-    except (ValueError, OSError):
-        return False
     name = os.path.basename(rel)
-    steps = [st for st in steps if os.path.basename(st.get("archive", "")) == name]
-    if not steps:
-        return False
-
     ranges = []
-    for st in steps:
-        b = os.path.join(backup, "%s.%d%s" % (name, st["offset"], RANGE_SUFFIX))
-        if not os.path.isfile(b) or os.path.getsize(b) != st["size"]:
+    plan = os.path.join(backup, PLAN)
+    steps = []
+    if os.path.isfile(plan):
+        try:
+            steps = [st for st in json.load(io.open(plan, encoding="utf-8"))
+                     if os.path.basename(st.get("archive", "")) == name]
+        except (ValueError, OSError):
+            steps = []
+    if steps:
+        for st in steps:
+            b = os.path.join(backup, "%s.%d%s" % (name, st["offset"], RANGE_SUFFIX))
+            if not os.path.isfile(b) or os.path.getsize(b) != st["size"]:
+                return False
+            orig = io.open(b, "rb").read()
+            if hashlib.sha256(orig).hexdigest() != st["sha256_before"]:
+                return False
+            ranges.append((st["offset"], orig))
+    else:
+        # Patches before 0.9.6 did not keep the plan, so upgrading from one has
+        # only the range files to go on.  Their names carry the offset and
+        # their length is the size, which is everything needed -- and the
+        # whole-file hash below still has to match a known original, so a
+        # reconstructed range that is wrong simply fails there.
+        for fn in sorted(os.listdir(backup)):
+            if not (fn.startswith(name + ".") and fn.endswith(RANGE_SUFFIX)):
+                continue
+            mid = fn[len(name) + 1:-len(RANGE_SUFFIX)]
+            if not mid.isdigit():
+                continue
+            b = os.path.join(backup, fn)
+            ranges.append((int(mid), io.open(b, "rb").read()))
+        if not ranges:
             return False
-        orig = io.open(b, "rb").read()
-        if hashlib.sha256(orig).hexdigest() != st["sha256_before"]:
-            return False
-        ranges.append((st["offset"], orig))
     ranges.sort()
 
     target = os.path.join(game, rel)

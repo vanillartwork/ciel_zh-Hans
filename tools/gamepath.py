@@ -129,6 +129,21 @@ def resolve(explicit=None):
         "Looked in:\n  %s" % (ENV, ENV, FOLDER, EXE, "\n  ".join(tried[:10])))
 
 
+def pin(game):
+    """Make `game` the folder every later resolve() in this process returns.
+
+    build.py takes --game, but several of the modules it drives (build_patch,
+    build_charset.pristine_exe, build_font, env_strings) look the game up for
+    themselves, through the environment variable or Steam's registry.  So a
+    folder picked in the installer was used for some steps while others read
+    whatever Steam had registered -- the same copy for most players, two
+    different ones for anyone who chose another folder.  Pinning it here, once,
+    right after the folder is decided, gives every step the same one.
+    """
+    os.environ[ENV] = os.path.abspath(game)
+    return os.environ[ENV]
+
+
 def res_dir(explicit=None):
     return os.path.join(resolve(explicit), "Res_x64")
 

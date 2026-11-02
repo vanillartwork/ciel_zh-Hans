@@ -104,6 +104,7 @@ def patch(data, todo, verbose=True):
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     dry = "--dry" in argv
+    allow_keys = "--allow-keys" in argv
     csv_path = None
     if "--csv" in argv:
         csv_path = argv[argv.index("--csv") + 1]
@@ -121,6 +122,17 @@ def main(argv):
     if unexplained:
         print("%d untranslated rows have no note saying why: %s"
               % (len(unexplained), ", ".join(unexplained[:10])))
+        return 1
+
+    # The build filters `todo` through exe_keys first, because some of these
+    # strings are keys the game indexes by rather than text it shows.  This
+    # entry point has no archive to decide that from, so it refuses to guess:
+    # rewriting every row here is how イオン shipped in 0.9.4.
+    if not allow_keys:
+        print("This applies every row, including the ones the game uses as")
+        print("lookup keys, so it is not a safe way to build a patch.")
+        print("Use tools/build.py, which filters through exe_keys.py first.")
+        print("Pass --allow-keys only to inspect the unfiltered result.")
         return 1
 
     src_bytes = open(src, "rb").read()

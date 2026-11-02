@@ -52,7 +52,7 @@ py -3 tools/validate.py
 
 ## 代码
 
-修改 `tools/` 或 `installer/` 时：
+修改 `tools/`、`native/` 或 `installer/` 时：
 
 - 遵循现有代码风格，说明修改目的、验证命令及结果。
 - 涉及封包、注入或字形表的改动，应核对文件结构及游戏内效果。
@@ -66,6 +66,8 @@ py -3 tools/validate.py
 py -3 tools/selftest_validate.py
 py -3 tools/selftest_install.py
 ```
+
+改动显示层加载入口或 PE 工具时，在 Windows 运行 `.\native\build.ps1`，再运行 `py -3 tools/selftest_pe_loader.py`。测试会生成自己的输入文件；不要将游戏 EXE 或补丁后的副本提交到仓库。[自动校验](docs/validation.md)列出了本地与 CI 的验证范围。
 
 ## 不接受的内容
 
