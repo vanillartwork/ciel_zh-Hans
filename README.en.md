@@ -6,14 +6,6 @@ This project provides an unofficial Simplified Chinese patch for *Ciel nosurge D
 
 The patch is free of charge. The project is not affiliated with or authorized by GUST, KOEI TECMO, or their affiliates. You must legally own and install the game before using it. See [NOTICE.md](NOTICE.md) for copyright and licensing details.
 
-## Preparing 0.9.8
-
-This update adds Dream World HISTORY recaps, chapter subtitles, ruin and restoration names, plus more save-screen text, chapter names, relationships, and Ion's status labels. Japanese summaries and memories stored in older saves are translated when displayed, without requiring a new save. Memo text has also been rewrapped to fit its boxes.
-
-New memos and summary values such as chapters and status labels keep their Japanese source text in saves. The display layer supplies Chinese and can update or complete recognized older Chinese memos without rewriting saves. See the [save compatibility notes](docs/install.en.md#098-and-existing-saves) for the scope and exceptions.
-
-0.9.8 has not been released yet. Download published versions from [Releases](https://github.com/vanillartwork/ciel_zh-Hans/releases), or see the [changelog](CHANGELOG.md) for the upcoming changes.
-
 ## Translation Progress
 
 The CSV files contain translations for 92,626 of 92,976 entries (99.62%). This count excludes images; some translated strings must stay Japanese internally because the game also uses them as lookup keys.
