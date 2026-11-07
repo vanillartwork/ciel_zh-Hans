@@ -69,6 +69,14 @@ extern const wchar_t kTraceFileName[];
 // the automatic dump is a 50 ms pause on the game's thread (trace.h).
 extern const wchar_t kTraceMarkerName[];
 bool TraceWanted(void* module);
+
+// What the last start of the game made of the display layer, written beside
+// the executable on every start: the result of InitializeAt, its reason, and
+// the replacement table's state.  Without it a missing or refused table looks
+// exactly like a working patch until somebody notices Japanese where Chinese
+// should be; install.py --verify reads it back for the player.
+extern const wchar_t kStatusFileName[];
+bool WriteStatus(void* module, int rc, const char* why);
 constexpr unsigned kTraceDumpEvery = 1;      // any new record is worth writing
 constexpr unsigned kTraceDumpGapMs = 1500;   // but not more often than this
 

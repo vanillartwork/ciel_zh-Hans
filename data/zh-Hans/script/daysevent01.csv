@@ -26,9 +26,9 @@ inc/event/res/daysevent01/day_cau01.txt#22#12,"今はまだ何ができるか分
 inc/event/res/daysevent01/day_cau01.txt#23#12,期待して待っててくれると嬉しいな。,你要是能满怀期待地等我，我会很高兴的。,translated,依恩,098701f6ce,br=0 nl=0,1,
 inc/event/res/daysevent01/day_cau01.txt#24#14,"端末を便利にするため
 頑張っていろいろ
-調査しなきゃ♪","为了让终端机变得更方便，
-我一定要好好加油，
-调查各种各样的事情♪",translated,,bb16c3a07f,br=0 nl=2,3,
+調査しなきゃ♪","为了让终端更方便，
+我要好好加油，
+调查各种各样的事♪",translated,,bb16c3a07f,br=0 nl=2,3,
 inc/event/res/daysevent01/day_cau06.txt#5#12,"そういえば、
 あなたの世界にはどんな料理があるの？","说起来，
 你的世界里都有些怎样的美食料理呀？",translated,依恩,a2446cd34d,br=0 nl=1,2,
@@ -168,9 +168,9 @@ inc/event/res/daysevent01/day_cau14.txt#20#12,"よくよく考えてみたら、
 inc/event/res/daysevent01/day_cau14.txt#21#12,プログラムじゃ、そんなこと出来ないよね。,如果是单纯的程序，肯定做不到这种事对吧。,translated,依恩,666e6c0d48,br=0 nl=0,1,
 inc/event/res/daysevent01/day_cau14.txt#22#14,"変に疑っちゃった…。
 気を悪くしちゃって
-ないかちょっと心配。","莫名其妙地怀疑了人家……
-不知道会不会让他不高兴，
-心里稍微有点担心。",translated,,00965963c6,br=0 nl=2,3,
+ないかちょっと心配。","莫名其妙地怀疑了他……
+他会不会不高兴呢，
+有点担心。",translated,,00965963c6,br=0 nl=2,3,
 inc/event/res/daysevent01/day_previ.txt#6#12,どうしたのか聞く,问她怎么了,translated,,af1060a3ca,br=0 nl=0,1,
 inc/event/res/daysevent01/day_previ.txt#14#12,"え、あ、ご、ごめんなさいっ。
 なんか、ぼ～っとしちゃってたみたい。","诶、啊，对、对不起！

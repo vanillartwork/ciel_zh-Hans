@@ -25,6 +25,7 @@ REPO_TO_EXPORT = {
     "items.csv": "item_text.csv",
     "global.csv": "global_text.csv",
     "executable.csv": "exe_text.csv",
+    "dream.csv": "dream_text.csv",
     "terms-in-text.csv": "glossary_terms.csv",
     "speakers.csv": "glossary_speakers.csv",
 }
@@ -56,6 +57,13 @@ def game_text(game):
                     k = r.get("key") or r.get("uid")
                     if k:
                         out[k] = r.get("jp", "")
+        # the scripts are in script.zip, which the walk above does not open
+        import workscript
+        for _name, data in workscript.read_all(tmp):
+            for r in workscript.rows(data):
+                k = r.get("key") or r.get("uid")
+                if k:
+                    out[k] = r.get("jp", "")
         return out
     finally:
         shutil.rmtree(tmp, ignore_errors=True)

@@ -230,9 +230,9 @@ inc/event/res/dateevent32/piyo03.txt#56#12,"それじゃ、今日はありがと
 要是还有什么事的话就叫我哦。",translated,依恩,82a9e3f3ca,br=0 nl=1,2,
 inc/event/res/dateevent32/piyo03.txt#59#14,"シンプルな玩具なのに
 温泉ひよこはつい夢中
-になる楽しさがある。","虽然只是个简单的玩具，
-但温泉小鸡却有着
-让人不知不觉入迷的乐趣。",translated,,a440e17dd4,br=0 nl=2,3,
+になる楽しさがある。","虽然只是简单的玩具，
+温泉小鸡却有种
+让人入迷的乐趣。",translated,,a440e17dd4,br=0 nl=2,3,
 inc/event/res/dateevent32/piyo03.txt#60#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/dateevent32/piyo04.txt#1#12,"温泉ひよこを使うなら、
 やっぱり温泉に行かないとね。","既然要用温泉小鸡，
@@ -348,8 +348,8 @@ inc/event/res/dateevent32/piyo04.txt#59#12,"それじゃ、付き合ってくれ
 inc/event/res/dateevent32/piyo04.txt#62#14,"今更だけど、やっぱり
 温泉ひよこでデート
 気分は無理があるね。","虽然事到如今才说，
-但拿着温泉小鸡搞约会气氛
-果然还是太勉强了呢。",translated,,81d3a037e5,br=0 nl=2,3,
+用温泉小鸡营造气氛
+果然还是太勉强了。",translated,,81d3a037e5,br=0 nl=2,3,
 inc/event/res/dateevent32/piyo04.txt#63#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/dateevent32/piyo_int.txt#2#12,…むにゃ……。,……呜喵……,translated,依恩,5eb020476e,br=0 nl=0,1,
 inc/event/res/dateevent32/piyo_int.txt#6#12,"温泉に行きたいの？

@@ -1,0 +1,39 @@
+id,rva,bytes,sha256,use,evidence
+exe:fc3c7f69,c37cc8,30,7ac1528a5ad8384d,display,0x509148 sprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:7207294d,c3c960,11,bb21e5b9fe90bd2c,display,"数据指针 0x1069d40 仅由 0x53ca36 读取：snprintf(buf,0x100,fmt,全角数字) 后交给 name_text 的设字函数 0x7cc920"
+exe:6d7b0a4e,c3ca10,44,f26ce083807a4fc3,display,"0x53c431 snprintf(buf,0x100) 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920"
+exe:12c44773,c43b70,23,9f6160c16440912b,display,两处均为 sprintf 后交给设字函数 0x7cc920
+exe:20c7e1c6,c4c238,17,682b9d4a1e34c753,display,"snprintf(buf,0x601) 后交给设字函数 0x7cc920"
+exe:e970eea0,c4c330,43,6ce30ed7adfb0a16,display,"snprintf(buf,0x601) 后交给设字函数 0x7cc920"
+exe:0411dafb,c4c7c0,33,ad0cd6bfd5a60cc2,display,两处均为 snprintf 后交给设字函数 0x7cc920
+exe:00fd2a58,c4c260,9,b61525e63e716274,display,作 snprintf 格式串写入与「【%s】の回答」同一缓冲区，随后在 0x5fe95d 交给设字函数 0x7cc920
+exe:1a8cdb32,c577e0,12,67ba449cd6118980,display,直接交给界面设字函数 0x7cc920（内部调用 ACSpriteText 的 setter）
+exe:7a4d043a,c577d0,12,3c995f8a7b4e44a6,display,直接交给界面设字函数 0x7cc920（内部调用 ACSpriteText 的 setter）
+exe:37cbca24,c46f48,10,9adb4ef4a0aee1ed,display,14 处均直接交给设字函数 0x7cc920
+exe:2c275e5a,c48b60,9,e7954a2f3acea1ee,display,直接交给界面设字函数 0x7cc920（内部调用 ACSpriteText 的 setter）
+exe:16dbbe19,c41b78,14,6ee8b335eec8b81e,display,直接交给界面设字函数 0x7cc920（内部调用 ACSpriteText 的 setter）
+exe:4abb6c12,c3ef88,6,a05e98af3a821b31,display,对话框 0x7ce5e0 的第 4 个参数，即「否」按钮文字，经 0x7cc800 设到 button_no
+exe:34bf686c,c48a90,43,301f9990cbcaf4de,display,"0x575b05 snprintf(buf,0x100) 后存入勋章消息队列（+0x2430，std::string），之后弹窗经设字函数 0x7cc920 显示（实机记录 2026-11-02 确认上屏）；比较的对象只可能是格式化后的整句，不是本格式串"
+exe:5e360214,c485e0,46,b87f22bfa302aa35,display,"0x5b36cd snprintf(buf,0x100) 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920"
+exe:1a26967c,c17ec0,41,a14cf689030df844,display,0x42dcbb sprintf 后在 0x42dccb 交给设字函数 0x7cc920
+exe:be1eaea9,c38430,36,3b9c359eea499330,display,0x50cdf7 sprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:9e3b2edc,c38460,114,899e8d7021f7c76e,display,0x50d2bd sprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:525095cf,c384f0,173,5d733043eac354b0,display,0x50d322 sprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:21c7757e,c3af08,16,d5867b5568cd8393,display,0x52aabd sprintf 后在 0x52aaf3 交给设字函数 0x7cc920
+exe:b217f518,c3af20,16,afcd07f3c9ba8e8f,display,0x52aabd sprintf 后在 0x52aaf3 交给设字函数 0x7cc920
+exe:2b683add,c43b90,20,0c95bbcc7c808833,display,两处均为 sprintf 后交给设字函数 0x7cc920
+exe:45c7f948,c46e70,120,85e787c0d9b3ede0,display,三处均为 snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:34b384d7,c46f08,49,894e1800ae9e8248,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果经 std::string 放进弹窗消息队列（+0x2720，经 0x5af8d0；与已在实机确认上屏的勋章提示同一队列）
+exe:cd7a0732,c470c0,107,6d0c62a769bad90e,display,0x584495 snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:fbf996b9,c47220,118,8f8b73664d493fb0,display,0x58594b snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:1237c6d4,c472b0,70,d19e681cafa227fd,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果经 std::string 放进弹窗消息队列（+0x2720，经 0x5af8d0；与已在实机确认上屏的勋章提示同一队列）
+exe:2dc88814,c47308,61,066c7203a582e411,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果经 std::string 放进弹窗消息队列（+0x2720，经 0x5af8d0；与已在实机确认上屏的勋章提示同一队列）
+exe:63faa5eb,c47b10,14,9ce84753a3cbf4f2,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果经 std::string 放进弹窗消息队列（+0x2720，经 0x5af8d0；与已在实机确认上屏的勋章提示同一队列）；其中 0x595c4c 一处经局部 std::string 交给设字函数
+exe:f886eba0,c48500,58,59247af6069fb8be,display,0x5b3489 snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:1045a5cc,c48548,58,33817eee76dc7899,display,0x5b34fb snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:29aab305,c4c178,26,2ef7d678e5d6039b,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果与命令编号 0x1b 一起构造成列表项（0x5d0bf0，文本在 +0x40），由 0x5f0880/0x5f1900 加入列表，命令按编号分派
+exe:6b4c3318,c4c5e8,17,496314773c7e71d6,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果与命令编号 0x1b 一起构造成列表项（0x5d0bf0，文本在 +0x40），由 0x5f0880/0x5f1900 加入列表，命令按编号分派
+exe:2d08b956,c4c6c0,32,e77bc2e97f479672,display,本地址的每一处引用都只是 snprintf/sprintf 的格式参数，原文本身不被比较或查找；转换序列相同且字节不增，格式化结果不会比原版长。格式化结果与命令编号 0x1b 一起构造成列表项（0x5d0bf0，文本在 +0x40），由 0x5f0880/0x5f1900 加入列表，命令按编号分派
+exe:877c7331,c4cd18,54,edcb6df7d022fddf,display,0x5f4501 snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:cbc67a2d,c4cd60,81,82968c501e55f867,display,0x5f61ff snprintf 后，格式化后作为对话框正文：0x7cda30 把第 4 个参数交给 text_message 的设字函数 0x7cc920
+exe:f0b2abdb,c33a20,18,65373beb54b505f5,persisted,四处均只作 snprintf 格式串：0x4cbd90 两处写入存档摘要与存档栏首段（读档界面按空格切分、不显示首段），0x4cb190 由个人资料页 0x5547c0 交给 info_totaltime 的设字函数，0x4cb100 无直接调用者

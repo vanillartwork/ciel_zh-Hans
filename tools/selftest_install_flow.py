@@ -688,6 +688,15 @@ def main():
         check("  ……再卸载后整个封包等于原版",
               run(fx8, "--restore") == 0
               and sha_bytes(fx8.pak()) == fx8.pristine)
+        # a start of the game leaves these; an original game has no use for them
+        run(fx8, "--apply")
+        for name in install.RUN_RECORDS:
+            io.open(os.path.join(fx8.game, name), "w").write("cielzh loader=rc=00000000")
+        check("卸载时一并清掉启动记录，--verify 不再报告旧补丁的状态",
+              run(fx8, "--restore") == 0
+              and not any(os.path.exists(os.path.join(fx8.game, n))
+                          for n in install.RUN_RECORDS)
+              and install.display_status(fx8.game) == "display layer: not installed")
 
         # --- the layout check belongs after the rollback, not before it --------
         # An interrupted upgrade leaves the range holding the new bytes and the
@@ -1010,13 +1019,20 @@ def main():
         try:
             check("tasklist 无法执行：状态为 unknown，不是 stopped",
                   newfiles.running_state() == "unknown")
-            _sp.run = lambda *a, **k: R(1, "")
+            _sp.run = lambda *a, **k: R(1, b"")
             check("tasklist 返回非零：状态为 unknown",
                   newfiles.running_state() == "unknown")
-            _sp.run = lambda *a, **k: R(0, "INFO: no tasks")
+            _sp.run = lambda *a, **k: R(0, None)
+            check("tasklist 输出读不到：状态为 unknown",
+                  newfiles.running_state() == "unknown")
+            _sp.run = lambda *a, **k: R(0, b"INFO: no tasks")
             check("tasklist 说没有该进程：状态为 stopped",
                   newfiles.running_state() == "stopped")
-            _sp.run = lambda *a, **k: R(0, "CielnosurgeDX.exe  1234 Console")
+            # what a Chinese Windows prints, in GBK, which is not valid UTF-8
+            _sp.run = lambda *a, **k: R(0, "信息: 没有运行的任务匹配指定标准。".encode("gbk"))
+            check("中文系统的 GBK 输出：不依赖解码，状态为 stopped",
+                  newfiles.running_state() == "stopped")
+            _sp.run = lambda *a, **k: R(0, b"CielnosurgeDX.exe  1234 Console")
             check("tasklist 列出该进程：状态为 running",
                   newfiles.running_state() == "running")
         finally:

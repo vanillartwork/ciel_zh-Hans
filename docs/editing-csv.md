@@ -1,5 +1,7 @@
 # CSV 编辑说明
 
+中文 | [English](editing-csv.en.md)
+
 翻译 CSV 使用 UTF-8，字段中可能含逗号、引号及多行文本。仅修改 `zh`、`status`、`note` 列，并保留原文字段的内容与换行。
 
 ## 表格编辑器

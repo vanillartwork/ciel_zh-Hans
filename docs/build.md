@@ -1,5 +1,7 @@
 # 构建指南
 
+中文 | [English](build.en.md)
+
 ## 环境要求
 
 - Python 3.10 或更高版本。
@@ -14,7 +16,7 @@
 py -3 -m pip install numpy pillow
 ./native/build.ps1               # 编译显示层、发射工具并运行原生自检
 py -3 tools/preflight.py
-py -3 tools/build.py --version 0.9.7
+py -3 tools/build.py --version 0.9.8
 ```
 
 构建依次执行数据校验、原文提取、译文合并、字库重建、文本写回、打包和清单生成。任一阶段失败即停止；构建过程不写入游戏目录。
@@ -32,6 +34,8 @@ build/
 
 构建产物含游戏数据，不得提交到仓库。
 
+`work/script.zip` 保存提取、合并后的剧本 CSV；`stage/text.zip` 保存写回后的游戏资源。两者用途不同。`--loose` 只控制后者的暂存方式，不会把 `script.zip` 改成散文件。
+
 ```powershell
 py -3 tools/install.py            # 预览安装操作
 py -3 tools/install.py --apply    # 备份并安装
@@ -40,6 +44,20 @@ py -3 tools/install.py --restore  # 还原原始文件
 ```
 
 使用自定义输出目录时，安装命令须加上 `--from <构建目录>`。
+
+## 剧本中间文件与维护
+
+需要直接编辑提取后的剧本 CSV 时，在构建副本上运行：
+
+```powershell
+py -3 tools/workscript.py unpack build/work
+# 编辑 build/work/script/*.csv，或运行需要散文件的维护工具
+py -3 tools/workscript.py pack build/work
+```
+
+参数是提取目录，不是 ZIP 路径。`unpack` 成功后移除 ZIP；`pack` 成功后只保留 ZIP。两种来源同时存在时读取会报错，不能依赖自动选择新的一份。重新执行提取阶段会覆盖中间结果，不用于保留手工修改。
+
+转换本身尚不是可恢复事务：`pack` 会先删除散文件目录再写 ZIP，`unpack` 中断可能留下两种来源。操作前保留独立副本，尤其是其中有未同步回仓库的修改时。不要把“ZIP 替换前读回校验”理解为整个转换过程均可中断恢复。
 
 ## 常用参数
 
@@ -79,13 +97,15 @@ $env:CIEL_NOSURGE_FONT = "C:\Windows\Fonts\msyhbd.ttc"
 
 引擎从封包读取资源，暂存散文件不会直接生效。确认已完成打包与安装，且未使用 `--no-repack` 中止构建。
 
+名牌、摘要和备忘等文字还依赖显示层。`--no-loader` 构建不会提供这部分中文；正常构建可用 `install.py --verify` 检查上次启动留下的加载结果和显示表状态。
+
 ## 构建安装程序
 
 安装 NSIS 并将 `makensis` 加入 PATH 后运行：
 
 ```powershell
 cd installer
-.\build-installer.ps1 -Version 0.9.7
+.\build-installer.ps1 -Version 0.9.8
 ```
 
 安装包及 `.sha256` 输出到仓库上级的 `dist/`，与补丁构建目录 `build/dist/` 不同。详见[安装程序说明](../installer/README.md)。

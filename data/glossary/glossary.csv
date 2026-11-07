@@ -727,7 +727,7 @@ c72e99fe,ダイブ,潜行,term,project-decision,,,,,续作《Ars nova》官方�
 48a9de3e,クラケット・キャス,库拉肯特・凯斯,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 49246ea7,？？？？,？？？？,character,speaker,,,说话人名牌，3 次,,本项目,agreed
 4a247c3b,にゅろきーたち,喵洛基们,character,speaker,,,说话人名牌，1 次,,本项目,agreed
-4afd7af8,【フレンドシャールの巣で友達と交流！】,【在好友夏尔的巢穴与朋友交流！】,character,speaker,,,说话人名牌，7 次,,本项目,agreed
+4afd7af8,【フレンドシャールの巣で友達と交流！】,【在好友夏尔之巢与朋友交流！】,character,speaker,,,说话人名牌，7 次,,本项目,agreed
 4c6f1c6f,ネイ・クラケット,妮伊・库拉肯特,character,speaker,,,说话人名牌，2 次,,本项目,agreed
 5-5,【ジェノミリンクとは(5/5)】,【何谓杰诺米链接(5/5)】,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 5-8,【リンクのタイミング(5/8)】,【链接的时机(5/8)】,character,speaker,,,说话人名牌，1 次,,本项目,agreed
@@ -1071,3 +1071,5 @@ us-wearp09,us_wearP09,us_wearP09,character,speaker,,,说话人名牌，1 次,,�
 useeventall-trigger-acc03,UseEventALL_Trigger_acc03,UseEventALL_Trigger_acc03,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 user-goto-word01,User_Goto_Word01,User_Goto_Word01,character,speaker,,,说话人名牌，1 次,,本项目,agreed
 wear-choice,wear_choice,wear_choice,character,speaker,,,说话人名牌，1 次,,本项目,agreed
+4fa43165,シャールの巣,夏尔之巢,term,project,,夏尔的巢穴|夏尔的巢,地名；界面、帮助、教学剧情统一用此译法,2026-11-02 起统一（原有三种译法）,本项目,agreed
+dab0ee39,ネィアフラスク,内依雅弗拉斯克,character,project,,妮伊雅芙拉斯库,妮伊的皇帝名,沿用剧本既有译法（4 处）,本项目,agreed

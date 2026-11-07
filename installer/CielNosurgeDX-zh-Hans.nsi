@@ -68,29 +68,31 @@ Var Phase
 !define MUI_WELCOMEPAGE_TEXT \
 "适用的游戏版本：Steam build ${GAME_BUILD}$\r$\n\
 补丁版本：${PATCH_VERSION}$\r$\n$\r$\n\
-安装前会自动把被替换的原始文件备份到游戏目录下的 Backup 文件夹，随时可以通过卸载程序还原。$\r$\n$\r$\n\
+安装程序将备份需要修改的游戏文件。备份保存在游戏目录的 Backup 文件夹中，卸载时用于还原，请妥善保留。安装前请关闭游戏。$\r$\n$\r$\n\
 本补丁为非官方爱好者作品，与 GUST／光荣特库摩没有任何隶属关系。本汉化补丁完全免费，仅供个人学习与交流使用。任何收费行为与本项目作者无关，请勿付款。如发现有人冒用本项目名义收费，欢迎向项目作者反馈。"
 
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_LICENSE "..\NOTICE-INSTALLER.txt"
 
 !define MUI_PAGE_HEADER_TEXT "选择游戏位置"
-!define MUI_PAGE_HEADER_SUBTEXT "请指向 Ciel nosurge DX 的安装文件夹"
+!define MUI_PAGE_HEADER_SUBTEXT "请选择 Ciel nosurge DX 的安装文件夹。"
 !define MUI_DIRECTORYPAGE_TEXT_TOP \
-"下面的位置是自动检测到的，通常直接点“下一步”即可。$\r$\n\
-如果不对，请选到包含 CielnosurgeDX.exe 和 Res_x64 的那个文件夹。"
+"请确认下方的游戏安装位置，然后单击“下一步”。$\r$\n\
+如需更改，请选择包含 CielnosurgeDX.exe 和 Res_x64 的文件夹。"
 !define MUI_DIRECTORYPAGE_TEXT_DESTINATION "游戏文件夹"
 !define MUI_DIRECTORYPAGE_VARIABLE $GameDir
 !define MUI_PAGE_CUSTOMFUNCTION_LEAVE CheckGameDir
 !insertmacro MUI_PAGE_DIRECTORY
 
+!define MUI_PAGE_HEADER_TEXT "正在安装"
+!define MUI_PAGE_HEADER_SUBTEXT "正在准备并安装汉化补丁，请稍候。"
 !define MUI_PAGE_CUSTOMFUNCTION_SHOW InstFilesShow
 !insertmacro MUI_PAGE_INSTFILES
 
 !define MUI_FINISHPAGE_TITLE "安装完成"
 !define MUI_FINISHPAGE_TEXT \
-"补丁已安装，照常从启动器启动游戏即可。$\r$\n$\r$\n\
-要还原成日文原版，可以在“应用和功能”里卸载本补丁，或运行游戏目录下 Backup 文件夹里的卸载程序。$\r$\n$\r$\n\
+"汉化补丁已安装完成。您可以通过 Steam 启动游戏。$\r$\n$\r$\n\
+如需还原游戏，请在 Windows 设置的“应用”中卸载本补丁，或运行游戏目录下 Backup 文件夹中的卸载程序。$\r$\n$\r$\n\
 安装日志：$LogFile"
 !define MUI_FINISHPAGE_LINK "项目主页与问题反馈"
 !define MUI_FINISHPAGE_LINK_LOCATION "https://github.com/vanillartwork/ciel_zh-Hans"
@@ -193,7 +195,7 @@ FunctionEnd
 
 
 !macro Phase name label lo hi
-  DetailPrint "${label}"
+  DetailPrint "${label}…"
   !insertmacro RunWatched ${name} ${lo} '"$PyExe" "$INSTDIR\tools\build.py" --game "$GameDir" --out "$INSTDIR\build" --version "${PATCH_VERSION}" --log "$LogFile" --progress "$ProgFile" --progress-range ${lo} ${hi} --done "$DoneFile" --phase ${name} ${EXTRA_BUILD_ARGS}' "${label}"
   ${If} $0 != 0
     !insertmacro Failed
@@ -203,16 +205,16 @@ FunctionEnd
 
 !macro Failed
   MessageBox MB_ICONSTOP \
-    "生成补丁失败。$\r$\n$\r$\n\
-游戏文件没有被改动，可以正常游玩。$\r$\n$\r$\n\
-详细原因见日志：$\r$\n$LogFile"
+    "无法完成汉化资源准备，安装已停止。$\r$\n$\r$\n\
+本次操作尚未修改游戏文件。请查看安装日志，排除问题后重试。$\r$\n$\r$\n\
+安装日志：$\r$\n$LogFile"
   Abort
 !macroend
 
 
 Function .onInit
   ${IfNot} ${RunningX64}
-    MessageBox MB_ICONSTOP "本游戏与本补丁都只支持 64 位 Windows。"
+    MessageBox MB_ICONSTOP "此安装程序需要 64 位 Windows。"
     Abort
   ${EndIf}
   Call DetectGameDir
@@ -260,23 +262,23 @@ Function CheckGameDir
   ${WordReplace} "$GameDir" "/" "\" "+" $GameDir
   ${IfNot} ${FileExists} "$GameDir\CielnosurgeDX.exe"
     MessageBox MB_ICONEXCLAMATION \
-      "在这个文件夹里找不到 CielnosurgeDX.exe。$\r$\n$\r$\n\
-请选择游戏的安装文件夹，它通常长这样：$\r$\n\
+      "所选文件夹中未找到 CielnosurgeDX.exe。$\r$\n$\r$\n\
+请选择游戏安装文件夹。常见路径：$\r$\n\
 ...\steamapps\common\CielnosurgeDX"
     Abort
   ${EndIf}
   ${IfNot} ${FileExists} "$GameDir\Res_x64\PACK01.PAK"
     MessageBox MB_ICONEXCLAMATION \
-      "这个文件夹里没有 Res_x64\PACK01.PAK，游戏安装似乎不完整。$\r$\n$\r$\n\
-请先在 Steam 里对游戏执行“验证游戏文件完整性”，然后重新运行本安装程序。"
+      "所选文件夹缺少 Res_x64\PACK01.PAK，无法继续安装。$\r$\n$\r$\n\
+请确认游戏安装位置。如位置正确，请在 Steam 中验证游戏文件完整性，然后重新运行安装程序。"
     Abort
   ${EndIf}
   ${GetRoot} "$GameDir" $0
   ${DriveSpace} "$0" "/D=F /S=M" $1
   ${If} $1 < ${NEEDED_MB}
     MessageBox MB_ICONEXCLAMATION|MB_OKCANCEL \
-      "$0 上只剩 $1 MB 可用空间，生成补丁大约需要 ${NEEDED_MB} MB。$\r$\n$\r$\n\
-空间不足时安装会失败。仍要继续吗？" IDOK +2
+      "$0 的可用空间为 $1 MB，安装需要至少 ${NEEDED_MB} MB。$\r$\n$\r$\n\
+建议释放磁盘空间后重试。是否仍要继续？" IDOK +2
     Abort
   ${EndIf}
 FunctionEnd
@@ -289,7 +291,7 @@ Section "安装" SecMain
   StrCpy $DoneFile "$INSTDIR\done.txt"
   Delete "$LogFile"
 
-  DetailPrint "正在释放工具与翻译数据…"
+  DetailPrint "正在准备安装文件…"
   ; Payload from build-installer.ps1: an embedded Python runtime, the
   ; pipeline, and this project's translation data. No game files.
   File /r "payload\python\*.*"
@@ -308,36 +310,35 @@ Section "安装" SecMain
     StrCpy $PyExe "$INSTDIR\python.exe"
   ${EndIf}
   ${IfNot} ${FileExists} "$PyExe"
-    DetailPrint "未找到随附的 Python，改用系统 Python。"
+    DetailPrint "内置运行环境不可用，正在尝试使用系统 Python。"
     StrCpy $PyExe "pyw"
   ${EndIf}
 
-  DetailPrint "正在核对游戏版本…"
-  !insertmacro RunWatched pre 10 '"$PyExe" "$INSTDIR\tools\preflight.py" --game "$GameDir" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 10 14 --done "$DoneFile"' "正在核对游戏版本"
+  DetailPrint "正在检查安装条件…"
+  !insertmacro RunWatched pre 10 '"$PyExe" "$INSTDIR\tools\preflight.py" --game "$GameDir" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 10 14 --done "$DoneFile"' "正在检查安装条件"
   ${If} $0 != 0
     MessageBox MB_ICONSTOP \
-      "这个游戏版本不是本补丁所针对的版本，安装已中止，游戏文件没有被改动。$\r$\n$\r$\n\
-详细原因见日志：$\r$\n$LogFile$\r$\n$\r$\n\
-如果游戏刚更新过，请到项目页面反馈。"
+      "安装条件检查未通过，安装已停止。$\r$\n$\r$\n\
+本次操作尚未修改游戏文件。请根据日志中的提示检查游戏版本、文件完整性及可用空间。$\r$\n$\r$\n\
+安装日志：$\r$\n$LogFile"
     Abort
   ${EndIf}
   !insertmacro SetPct 14
 
-  DetailPrint "接下来会用你自己的游戏文件生成补丁，大约需要 2~3 分钟。"
-  !insertmacro Phase check   "[1/5] 检查翻译数据"       14 18
-  !insertmacro Phase extract "[2/5] 提取原文并合并译文"   18 46
-  !insertmacro Phase font    "[3/5] 重建字库"           46 60
-  !insertmacro Phase inject  "[4/5] 写回译文并修改程序"   60 80
-  !insertmacro Phase repack  "[5/5] 重新打包"           80 92
+  DetailPrint "安装所需时间取决于计算机性能，请稍候。"
+  !insertmacro Phase check   "正在校验汉化数据"         14 18
+  !insertmacro Phase extract "正在读取游戏资源"         18 46
+  !insertmacro Phase font    "正在生成中文字体资源"     46 60
+  !insertmacro Phase inject  "正在生成汉化资源"         60 80
+  !insertmacro Phase repack  "正在整理安装文件"         80 92
 
-  DetailPrint "正在备份原始文件并安装…"
-  !insertmacro RunWatched inst 92 '"$PyExe" "$INSTDIR\tools\install.py" --game "$GameDir" --from "$INSTDIR\build" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 92 99 --done "$DoneFile" --apply' "正在备份原始文件并安装"
+  DetailPrint "正在备份游戏文件并安装补丁…"
+  !insertmacro RunWatched inst 92 '"$PyExe" "$INSTDIR\tools\install.py" --game "$GameDir" --from "$INSTDIR\build" --data "$INSTDIR\data" --log "$LogFile" --progress "$ProgFile" --progress-range 92 99 --done "$DoneFile" --apply' "正在备份游戏文件并安装补丁"
   ${If} $0 != 0
     MessageBox MB_ICONSTOP \
-      "安装补丁文件时出错。$\r$\n$\r$\n\
-安装程序已经把改动过的文件还原回去了。如果游戏仍然不正常，$\r$\n\
-请在 Steam 里对游戏执行“验证游戏文件完整性”。$\r$\n$\r$\n\
-详细原因见日志：$\r$\n$LogFile"
+      "补丁安装未完成。$\r$\n$\r$\n\
+请查看日志中的错误原因及恢复结果，并保留游戏目录中的 Backup 文件夹。排除问题后可重新运行安装程序。$\r$\n$\r$\n\
+安装日志：$\r$\n$LogFile"
     Abort
   ${EndIf}
 
@@ -361,6 +362,7 @@ Section "安装" SecMain
   WriteRegStr HKLM "${REGKEY}" "UninstallString" '"$INSTDIR\uninstall.exe"'
   WriteRegDWORD HKLM "${REGKEY}" "NoModify" 1
   WriteRegDWORD HKLM "${REGKEY}" "NoRepair" 1
+  DetailPrint "安装已完成。"
   !insertmacro SetPct 100
 SectionEnd
 
@@ -370,8 +372,8 @@ Section "Uninstall"
   ReadRegStr $GameDir HKLM "${REGKEY}" "GameDir"
   ${If} $GameDir == ""
     MessageBox MB_ICONEXCLAMATION \
-      "找不到当初安装到的游戏文件夹。$\r$\n$\r$\n\
-请在 Steam 里对游戏执行“验证游戏文件完整性”，即可还原为日文原版。"
+      "无法读取原安装位置，未能自动还原游戏文件。$\r$\n$\r$\n\
+请保留游戏目录中的 Backup 文件夹。如需恢复原始游戏文件，可在 Steam 中验证游戏文件完整性。"
   ${Else}
     DetailPrint "正在还原原始游戏文件…"
     StrCpy $PyExe "$INSTDIR\python.exe"
@@ -382,9 +384,9 @@ Section "Uninstall"
     Pop $0
     ${If} $0 != 0
       MessageBox MB_ICONEXCLAMATION \
-        "有文件没能自动还原。$\r$\n$\r$\n\
-原始文件应该还在：$GameDir\Backup$\r$\n\
-也可以在 Steam 里对游戏执行“验证游戏文件完整性”来取回干净的文件。"
+        "游戏文件未能全部还原。$\r$\n$\r$\n\
+请保留备份文件夹：$GameDir\Backup$\r$\n\
+请查看上方的错误信息。如需恢复原始游戏文件，可在 Steam 中验证游戏文件完整性。"
     ${EndIf}
     Delete "$GameDir\Backup\卸载简体中文补丁.exe"
   ${EndIf}

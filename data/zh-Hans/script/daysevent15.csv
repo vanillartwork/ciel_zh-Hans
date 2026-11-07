@@ -71,8 +71,8 @@ inc/event/res/daysevent15/day15_02.txt#25#12,"そう思うと、それもいい�
 真是不可思议呢。",translated,依恩,8d147d87b8,br=0 nl=1,2,
 inc/event/res/daysevent15/day15_02.txt#26#14,"仮想空間じゃなくて、
 現実で外食をしたい
-なぁ……。","不是在虚拟空间里，
-而是在现实中真正下一次馆子，
+なぁ……。","不是在虚拟空间，
+而是在现实中下馆子，
 该多好呀……",translated,,ea11aa6b80,br=0 nl=2,3,
 inc/event/res/daysevent15/day15_03.txt#6#12,"食べ過ぎって訳じゃないとは思うけど、
 食事の後に苦しくなる時があるの。","虽然我觉得自己应该没有暴饮暴食，
@@ -140,9 +140,9 @@ inc/event/res/daysevent15/day15_04.txt#22#12,"ま、まあ、お風呂とかお�
 就得另当别论了就是啦……",translated,依恩,f7558522fa,br=0 nl=1,2,
 inc/event/res/daysevent15/day15_04.txt#23#14,"まめな人になろう、
 って思っても、すぐに
-なるのは難しいよね？","就算下定决心要当个勤快人，
-想要立刻脱胎换骨
-也是很困难的对吧？",translated,,ed86f5109e,br=0 nl=2,3,
+なるのは難しいよね？","就算下决心当个勤快人，
+想立刻脱胎换骨
+也很难对吧？",translated,,ed86f5109e,br=0 nl=2,3,
 inc/event/res/daysevent15/day15_05.txt#6#12,"朝ごはんって、お昼や夜に比べて
 作るのが億劫に感じるの。","比起午饭和晚饭，
 做早饭总会让人觉得格外麻烦费劲呢。",translated,依恩,5a1602cae3,br=0 nl=1,2,
@@ -322,9 +322,9 @@ inc/event/res/daysevent15/day15_09.txt#24#12,"……考えてたら、すごく�
 去咖啡馆里能吃得到吗？",translated,依恩,8f51c53a27,br=0 nl=2,3,
 inc/event/res/daysevent15/day15_09.txt#25#14,"疲れた時のために、
 パフェを常備して
-おけたらいいのに。","真希望能为了疲劳时备用，
-在身边常备着一份
-芭菲甜品呀。",translated,,e5d00da938,br=0 nl=2,3,
+おけたらいいのに。","真希望身边常备着
+一份芭菲，
+累的时候吃呀。",translated,,e5d00da938,br=0 nl=2,3,
 inc/event/res/daysevent15/day15_10.txt#6#12,最近、どうも食事が偏ってる気がするの。,最近总觉得自己的饮食习惯有点偏食呢。,translated,依恩,2687824039,br=0 nl=0,1,
 inc/event/res/daysevent15/day15_10.txt#7#12,"何だか、いつも同じものを食べてるような、
 そんな気がして……。","总觉得每次好像都在吃差不多的东西，

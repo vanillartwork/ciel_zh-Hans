@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gustpak import Pak, rebuild
 import csvspan
 import nameplates
+import workscript
 from export_text import (JP, MAX_LINES, MAX_CHARS, ATTR_RE, COMMENT_RE,
                          bin_fields, schema_for, TAG_RE, TERM_RE,
                          SPEAKER_COL, DIALOG_COL)
@@ -38,12 +39,12 @@ def load_csv(path):
 def collect(exportdir):
     script, ui, binmap = {}, {}, {}
     speakers = {}
-    for root, _, files in os.walk(os.path.join(exportdir, "script")):
-        for fn in sorted(files):
-            if fn.endswith(".csv"):
-                for r in load_csv(os.path.join(root, fn)):
-                    if r["zh"].strip():
-                        script[r["key"]] = r
+    # script.zip or, unpacked for maintenance, script/ (workscript.py); in the
+    # order the loose files were read in before, so `script` fills the same way
+    for _fn, data in sorted(workscript.read_all(exportdir)):
+        for r in workscript.rows(data):
+            if r["zh"].strip():
+                script[r["key"]] = r
     p = os.path.join(exportdir, "ui_text.csv")
     if os.path.exists(p):
         for r in load_csv(p):

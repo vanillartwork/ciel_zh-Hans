@@ -9,6 +9,7 @@ import sys, os, re, csv, io, collections, itertools
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gamepath
 import progress
+import workscript
 from gustpak import Pak
 import csvspan
 
@@ -114,10 +115,12 @@ def export_scripts(pak, outdir):
                     "%s#%d#%d" % (p, row, col), p, row, col, kind, speaker,
                     len(text.split("\n")), text, "", notes_for(text)])
     hdr = ["uid", "key", "file", "row", "col", "kind", "speaker", "lines", "jp", "zh", "note"]
-    stats = []
+    stats, members = [], []
     for grp, rows in sorted(groups.items()):
-        w(os.path.join(outdir, "script", grp + ".csv"), hdr, rows)
+        members.append((grp + ".csv", workscript.serialize(hdr, rows)))
         stats.append(["script/" + grp + ".csv", len(rows), sum(len(r[8]) for r in rows)])
+    # one archive instead of ~130 files: see workscript.py
+    workscript.write_all(outdir, members, replace_loose=True)
     return stats, speakers
 
 
@@ -265,17 +268,29 @@ def export_terms(outdir, min_freq=12):
     """
     braced = collections.Counter()
     kana = collections.Counter()
-    for root, _, files in os.walk(outdir):
+
+    def count(records):
+        for r in records:
+            s = r.get("jp", "")
+            for m in TERM_RE.findall(s):
+                braced[m[1:-1]] += 1
+            for m in KANA_RE.findall(s):
+                kana[m] += 1
+
+    for root, dirs, files in os.walk(outdir):
+        if root == outdir and workscript.LOOSE in dirs:
+            dirs.remove(workscript.LOOSE)       # read below, either form
         for fn in files:
             if not fn.endswith(".csv") or fn.startswith("_"):
                 continue
             with io.open(os.path.join(root, fn), encoding="utf-8-sig", newline="") as f:
-                for r in csv.DictReader(f):
-                    s = r.get("jp", "")
-                    for m in TERM_RE.findall(s):
-                        braced[m[1:-1]] += 1
-                    for m in KANA_RE.findall(s):
-                        kana[m] += 1
+                count(csv.DictReader(f))
+        # The scripts come where the walk used to reach script/, right after
+        # the top-level tables, and in the same order: equal counts keep the
+        # order they were first seen in, which decides the rows' order here.
+        if root == outdir:
+            for _name, data in workscript.read_all(outdir):
+                count(workscript.rows(data))
     rows = []
     seen = set()
     for term, c in braced.most_common():
@@ -299,6 +314,9 @@ def main(res_dir, outdir):
     stats += export_bins(pak, outdir,
                          ("inc/globaldata/", "inc/sharl/", "inc/iontweet/"),
                          "global_text.csv", "global")
+    import gbd_text
+    path, n = gbd_text.export(pak, outdir)
+    stats.append([os.path.basename(path), n, 0])
     namemap = {}
     e = pak.get("inc/event/charanamemap.inc")
     if e:

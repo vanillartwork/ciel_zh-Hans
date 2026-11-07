@@ -134,6 +134,43 @@ def main():
         rc = install.do_restore(game, backup, install.load_applied_plan(backup))
         check("build 删除后卸载仍能还原原地写入的区间",
               rc == 0 and io.open(archive, "rb").read() == original)
+
+        # what --verify says about the display layer's last start
+        g = os.path.join(root, "status")
+        os.makedirs(g)
+        s = lambda: install.display_status(g)
+        check("显示层：没装 DLL 时如实说未安装", "not installed" in s())
+        io.open(os.path.join(g, "cielzh.dll"), "wb").write(b"dll")
+        check("显示层：装好后还没启动过游戏", "not checked yet" in s())
+
+        def started(loader, status=None):
+            later = os.path.getmtime(os.path.join(g, "cielzh.dll")) + 10
+            for name, text in (("cielzh-loader.log", loader), ("cielzh-status.txt", status)):
+                p = os.path.join(g, name)
+                if text is None:
+                    if os.path.exists(p):
+                        os.remove(p)
+                    continue
+                io.open(p, "w", encoding="utf-8").write(text)
+                os.utime(p, (later, later))
+            return s()
+        check("显示层：DLL 没加载起来要醒目报告",
+              "NOT LOADED" in started("cielzh loader=missing err=00000002"))
+        check("显示层：初始化失败要醒目报告",
+              "NOT ACTIVE" in started("cielzh loader=rc=00000003",
+                                      "rc=3\nwhy=wrong build\ndisplay=off\nentries=0\n"))
+        check("显示层：替换表没用上要报告",
+              "not used" in started("cielzh loader=rc=00000000",
+                                    "rc=0\nwhy=display off: no table\ndisplay=off\nentries=0\n"))
+        check("显示层：正常时报告条目数",
+              "active" in started("cielzh loader=rc=00000000",
+                                  "rc=0\nwhy=display on\ndisplay=on\nentries=4025\n")
+              and "4025" in s())
+        os.remove(os.path.join(g, "cielzh.dll"))
+        io.open(os.path.join(g, "cielzh-loader.log"), "w", encoding="utf-8").write(
+            "cielzh loader=missing err=00000002")
+        check("显示层：DLL 被删或被隔离，主程序找不到它：醒目报告",
+              "NOT LOADED" in s() and "missing" in s())
     finally:
         shutil.rmtree(root, ignore_errors=True)
 
@@ -141,7 +178,7 @@ def main():
     if failures:
         print("%d 项未通过" % len(failures))
         return 1
-    print("全部 12 项自检通过")
+    print("全部 19 项自检通过")
     return 0
 
 

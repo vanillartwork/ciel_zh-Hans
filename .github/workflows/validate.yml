@@ -153,6 +153,36 @@ jobs:
         # against the same format and hash in native/test/selftest.cpp.
         run: python tools/selftest_text_table.py
 
+      - name: 自检按地址写入的主程序字符串
+        # The case that matters: two copies of the same Japanese, one a label
+        # and one a key, and only the label authorised -- the key must come out
+        # byte for byte unchanged.  Also checks every address manifest in
+        # data/exe-sites against the translations, which needs no game.
+        run: |
+          python tools/selftest_exe_sites.py
+          python tools/exe_sites.py --check
+
+      - name: 自检剧本交接容器
+        # script.zip carries the extracted scripts between build phases: one
+        # source only, damaged or duplicated members refused, merge and
+        # injection read it, term counting keeps the loose files' order.
+        run: python tools/selftest_workscript.py
+
+      - name: 自检安装预检
+        # Version checks on a synthetic folder, including the upgrade case:
+        # an archive patched in place is read once for both of its hashes.
+        run: python tools/selftest_preflight.py
+
+      - name: 自检旧存档备忘的显示修复
+        # Stored memo texts that were cut by the save's slot map to today's
+        # translation only when the cut identifies one memo.
+        run: python tools/selftest_old_memos.py
+
+      - name: 自检梦世界数据表
+        # Synthetic records with leftover bytes after the NUL: a translation
+        # may change only the bytes its Japanese used, inside a listed field.
+        run: python tools/selftest_gbd_text.py
+
       - name: 自检构建读取的游戏目录
         # build.py takes --game, but several modules it drives used to look the
         # game up for themselves, so a folder chosen in the installer was not

@@ -212,8 +212,8 @@ inc/event/res/daysevent05/day05_08.txt#24#12,ボケ……トロ……あれ？,�
 inc/event/res/daysevent05/day05_08.txt#25#12,よく考えたらこれってほめられてないよ！？,仔细想想这根本就不是夸奖吧！？,translated,依恩,ada7d09f45,br=0 nl=0,1,
 inc/event/res/daysevent05/day05_08.txt#26#12,うぅ、だまされた～……。,呜呜，被她耍了～……,translated,依恩,d748445e5a,br=0 nl=0,1,
 inc/event/res/daysevent05/day05_08.txt#27#14,"褒めてもらえたと
-思ったのに……。","本以为是被夸奖了，
-结果完全不是那么回事……",translated,,01e8d3d65d,br=0 nl=1,2,
+思ったのに……。","本以为被夸奖了，
+结果完全不是那回事……",translated,,01e8d3d65d,br=0 nl=1,2,
 inc/event/res/daysevent05/day05_09.txt#6#12,"さて問題です。
 わたしが怒ると何になると思う？","那么提问！
 你觉得我生气之后会变成什么样？",translated,依恩,e818e53b68,br=0 nl=1,2,
@@ -302,8 +302,9 @@ inc/event/res/daysevent05/day05_12.txt#14#12,"誰にだって大切な人や物�
 从心底里彻彻底底变坏的人，
 世上应该是不存在的吧。",translated,依恩,84c58412e9,br=0 nl=2,3,
 inc/event/res/daysevent05/day05_12.txt#20#14,"誰にだって良い所が
-必ずあるよね♪","无论任何人，
-都一定会有值得夸赞的优点呢♪",translated,,eb71a049ac,br=0 nl=1,2,
+必ずあるよね♪","无论是谁，
+一定都有
+值得夸赞的优点呢♪",translated,,eb71a049ac,br=0 nl=1,2,
 inc/event/res/daysevent05/day05_14.txt#6#12,そういえば、あなたって兄弟はいるのかな？,说起来，你家里有兄弟姐妹吗？,translated,依恩,715a2a5399,br=0 nl=0,1,
 inc/event/res/daysevent05/day05_14.txt#7#12,いる,有,translated,,c7d693c51c,br=0 nl=0,1,
 inc/event/res/daysevent05/day05_14.txt#8#12,いない,没有,translated,,d56865b62a,br=0 nl=0,1,
@@ -341,6 +342,6 @@ inc/event/res/daysevent05/day05_15.txt#14#12,"ごめんね。
 感觉今天的我有点奇怪吧。",translated,依恩,3481f1804d,br=0 nl=1,2,
 inc/event/res/daysevent05/day05_15.txt#15#14,"明日も来てくれるって
 だけで不思議と安心
-できちゃう","仅仅是知道你明天也会来，
-心中便不可思议地
-感到踏实安心呢。",translated,,627965ef5c,br=0 nl=2,3,
+できちゃう","光是知道你明天也会来，
+心里就不可思议地
+感到很安心呢。",translated,,627965ef5c,br=0 nl=2,3,

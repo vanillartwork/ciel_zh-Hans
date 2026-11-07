@@ -86,7 +86,10 @@ def patch(data, todo, verbose=True):
     missing = []
     for uid, jp, zh, cap in order:
         jb, zb = jp.encode("utf-8"), zh.encode("utf-8")
-        spans = whole_string_spans(d, jb)
+        # Matches are found in the input, never in the copy being written:
+        # otherwise one row's Chinese that happens to equal another row's
+        # Japanese is translated a second time.
+        spans = whole_string_spans(data, jb)
         if not spans:
             miss += 1
             missing.append(uid)

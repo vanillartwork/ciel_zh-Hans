@@ -20,12 +20,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from repo_export import src_hash
 import progress
+import workscript
 
 PAIRS = [
     ("ui.csv", "ui_text.csv"),
     ("items.csv", "item_text.csv"),
     ("global.csv", "global_text.csv"),
     ("executable.csv", "exe_text.csv"),
+    ("dream.csv", "dream_text.csv"),
     ("settings.csv", "env_text.csv"),
     ("terms-in-text.csv", "glossary_terms.csv"),
     ("speakers.csv", "glossary_speakers.csv"),
@@ -41,6 +43,16 @@ def read(path):
 def merge_one(repo_path, exp_path, report):
     repo, _ = read(repo_path)
     exp, cols = read(exp_path)
+    counts = merge_rows(repo, exp, os.path.basename(exp_path), report)
+    with io.open(exp_path, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\r\n")
+        w.writeheader()
+        w.writerows(exp)
+    return counts
+
+
+def merge_rows(repo, exp, name, report):
+    """Fill `exp` (the export's records) from `repo`; (filled, drift, available)."""
     trans = {r["id"]: r for r in repo if r.get("zh", "").strip()}
     # Rows left untranslated on purpose carry the reason in `note`. That reason
     # is project data, not something the extractor can regenerate, and
@@ -59,16 +71,10 @@ def merge_one(repo_path, exp_path, report):
         if t.get("src") and src_hash(r.get("jp", "")) != t["src"]:
             drift += 1
             report.append("%s: %s -- source text differs from what the "
-                          "translation was written against" %
-                          (os.path.basename(exp_path), rid))
+                          "translation was written against" % (name, rid))
             continue
         r["zh"] = t["zh"]
         filled += 1
-
-    with io.open(exp_path, "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=cols, lineterminator="\r\n")
-        w.writeheader()
-        w.writerows(exp)
     return filled, drift, len(trans)
 
 
@@ -85,13 +91,20 @@ def main(argv=None):
     report = []
     filled = drift = available = 0
 
+    # The scripts are one archive (workscript.py): read once, merged member by
+    # member, written back whole.  Everything else is a file of its own.
+    try:
+        members = dict(workscript.read_all(a.export))
+        loose = workscript.source(a.export) == "loose"
+    except workscript.WorkScriptError as e:
+        print("error: %s" % e)
+        return 1
     jobs = []
     sd = os.path.join(zh, "script")
     if os.path.isdir(sd):
         for fn in sorted(os.listdir(sd)):
             if fn.endswith(".csv"):
-                jobs.append((os.path.join(sd, fn),
-                             os.path.join(a.export, "script", fn)))
+                jobs.append((os.path.join(sd, fn), ("script", fn)))
     for repo_name, exp_name in PAIRS:
         rp = os.path.join(zh, repo_name)
         ep = os.path.join(a.export, exp_name)
@@ -101,14 +114,39 @@ def main(argv=None):
     tick = progress.over(len(jobs))
     for i, (rp, ep) in enumerate(jobs, 1):
         tick(i)
-        if not os.path.exists(ep):
+        if isinstance(ep, tuple):
+            fn = ep[1]
+            if fn not in members:
+                report.append("%s: your game produced no matching file"
+                              % os.path.basename(rp))
+                continue
+            repo, _ = read(rp)
+            rd = csv.DictReader(io.StringIO(members[fn].decode("utf-8-sig"), newline=""))
+            exp = list(rd)
+            f, d, n = merge_rows(repo, exp, fn, report)
+            members[fn] = workscript.serialize_dicts(rd.fieldnames, exp)
+        elif not os.path.exists(ep):
             report.append("%s: your game produced no matching file"
                           % os.path.basename(rp))
             continue
-        f, d, n = merge_one(rp, ep, report)
+        else:
+            f, d, n = merge_one(rp, ep, report)
         filled += f
         drift += d
         available += n
+    if members:
+        try:
+            if loose:
+                # a maintainer unpacked the export to work on it; keep it loose
+                d = workscript.loose_path(a.export)
+                for fn, data in members.items():
+                    with open(os.path.join(d, fn), "wb") as fh:
+                        fh.write(data)
+            else:
+                workscript.write_all(a.export, members.items())
+        except workscript.WorkScriptError as e:
+            print("error: %s" % e)
+            return 1
 
     print("merged %s of %s translations into %d files"
           % (format(filled, ","), format(available, ","), len(jobs)))

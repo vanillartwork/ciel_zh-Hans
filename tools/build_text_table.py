@@ -92,10 +92,29 @@ def our_chinese(data_dir):
     return out
 
 
-def entries_from(speakers, held, display=(), forbid=frozenset(), skipped=None):
+def memo_variants(jp, zh):
+    """(jp, zh) pairs for one 嬉しかったことメモ entry.
+
+    EVENT_PROCESS_WRITE_MEMO stores its text in the save, and the memo screen
+    shows what was stored -- so a memo written before the patch stays Japanese
+    in that save for good, whatever the scripts say now.  The screen hands each
+    memo to the setter whole, line breaks included, which is why these are the
+    one source allowed to span lines.  Four of the 1,489 memo cells in the
+    scripts carry CRLF; both spellings are listed so either matches.
+    """
+    out = [(jp, zh)]
+    lf = jp.replace("\r\n", "\n")
+    if lf != jp:
+        out.append((lf, zh))
+    return out
+
+
+def entries_from(speakers, held, display=(), forbid=frozenset(), skipped=None,
+                 memos=()):
     """[(jp_bytes, zh_bytes, flags)] from the speaker glossary (jp -> zh), the
     held-back executable strings ((uid, jp, zh, cap) as exe_keys.split gives),
-    and the hand-kept display list ((jp, zh) pairs).
+    the hand-kept display list ((jp, zh) pairs), and the memo texts the scripts
+    write into saves ((jp, zh) pairs, see memo_variants).
 
     A string in both sources gets both flags -- but only if both agree on the
     Chinese.  Two different Chinese texts for one Japanese string is a decision
@@ -108,7 +127,7 @@ def entries_from(speakers, held, display=(), forbid=frozenset(), skipped=None):
     """
     found = {}
 
-    def add(jp, zh, flag, where):
+    def add(jp, zh, flag, where, multiline=False):
         if not jp or not zh or zh == jp:
             return
         if jp in forbid:
@@ -119,7 +138,7 @@ def entries_from(speakers, held, display=(), forbid=frozenset(), skipped=None):
             raise TableError("%s: the Chinese for %r holds a tag or a NUL, and "
                              "the display layer would refuse the whole table"
                              % (where, jp))
-        if "\n" in jp or len(jp.encode("utf-8")) > MAX_TEXT:
+        if ("\n" in jp and not multiline) or len(jp.encode("utf-8")) > MAX_TEXT:
             return
         if jp in found:
             old_zh, old_flags = found[jp]
@@ -136,6 +155,12 @@ def entries_from(speakers, held, display=(), forbid=frozenset(), skipped=None):
         add(row[1], row[2], WHOLE, "executable strings kept Japanese")
     for jp, zh in display:
         add(jp, zh, WHOLE, "data/zh-Hans/display.csv")
+    for jp0, zh0 in memos:
+        # a memo with a tag in it is not plain text on that screen; leave it
+        if "<" in jp0 or "<" in zh0:
+            continue
+        for jp, zh in memo_variants(jp0, zh0):
+            add(jp, zh, WHOLE, "memo text (EVENT_PROCESS_WRITE_MEMO)", multiline=True)
 
     out = [(jp.encode("utf-8"), zh.encode("utf-8"), flags)
            for jp, (zh, flags) in found.items()]
@@ -189,10 +214,11 @@ def parse(data):
     return out
 
 
-def write(path, speakers, held, display=(), forbid=frozenset(), skipped=None):
+def write(path, speakers, held, display=(), forbid=frozenset(), skipped=None,
+          memos=()):
     """Writes the table; returns (entries, bytes).  Keys left out because they
     collide with our own Chinese are appended to `skipped`."""
-    entries = entries_from(speakers, held, display, forbid, skipped)
+    entries = entries_from(speakers, held, display, forbid, skipped, memos)
     data = pack(entries)
     parse(data)                       # never write a table the DLL would refuse
     tmp = path + ".tmp"

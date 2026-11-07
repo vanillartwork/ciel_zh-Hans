@@ -114,7 +114,7 @@ def main(argv=None):
     want = (lambda ph: a.phase in (None, ph))
 
     if want("check"):
-        progress.label("正在检查翻译数据")
+        progress.label("正在校验汉化数据")
         step(1, "checking the translation data")
     if want("check") and a.skip_validate:
         print("  skipped at your request")
@@ -125,7 +125,7 @@ def main(argv=None):
 
     if want("extract"):
         progress.slice(0.0, 0.8)
-        progress.label("正在从游戏中提取原文")
+        progress.label("正在读取游戏资源")
         step(2, "reading the Japanese out of your copy of the game")
         import export_text, export_exe_text, env_strings
         try:
@@ -137,14 +137,14 @@ def main(argv=None):
             stop("Extraction", str(e))
 
         progress.slice(0.8, 1.0)
-        progress.label("正在合并译文")
+        progress.label("正在准备汉化文本")
         step(3, "merging in the repository's translations")
         import merge_repo
         if merge_repo.main([a.data, work]):
             stop("Merge")
 
     if want("font"):
-        progress.label("正在重建字库")
+        progress.label("正在生成中文字体资源")
         step(4, "building the font")
         if a.skip_font and os.path.exists(os.path.join(fontdir, "FOT-SKIPSTD-B_0.g1t")):
             print("  reusing the atlas already in %s" % fontdir)
@@ -156,7 +156,7 @@ def main(argv=None):
                 stop("Font build", str(e))
 
     if want("inject"):
-        progress.label("正在写回译文并修改可执行文件")
+        progress.label("正在生成汉化资源")
         step(5, "injecting the text and translating the executable")
         import build_patch
         if os.path.isdir(stage):
@@ -176,7 +176,7 @@ def main(argv=None):
               else "\nStopped before repacking, as asked.")
         return 0
 
-    progress.label("正在重新打包")
+    progress.label("正在整理安装文件")
     step(6, "repacking the archives")
     import repack_pak
     try:

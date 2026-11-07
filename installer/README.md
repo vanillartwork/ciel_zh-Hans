@@ -1,5 +1,7 @@
 # 安装程序
 
+中文 | [English](README.en.md)
+
 Windows 安装程序使用 NSIS 构建，在用户本机生成并安装补丁。
 
 ## 安装包内容
@@ -19,7 +21,7 @@ payload/
 要求 Windows、NSIS，且 `makensis` 可从 PATH 调用。先在仓库根目录运行 `.\native\build.ps1`，再进入 `installer/` 目录打包：
 
 ```powershell
-.\build-installer.ps1 -Version 0.9.7
+.\build-installer.ps1 -Version 0.9.8
 ```
 
 脚本下载并配置 Python 运行时及依赖，复制工具和数据，检查是否混入游戏资源，然后调用 NSIS。产物位于本目录的 `../../dist/`，即仓库上级的 `dist/`，包括安装程序及 `.sha256`。

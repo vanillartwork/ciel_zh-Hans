@@ -1,6 +1,24 @@
 # 加载入口设计（只记录阶段）
 
+中文 | [English](DESIGN.en.md)
+
 本文保留早期设计和当时的待验证项。当前版本的显示层及诊断开关见[安装说明](../../docs/install.md)，PE 自检见[自动校验](../../docs/validation.md)。
+
+## 当前实现与早期设计的差异
+
+以下为 0.9.8 源码中的实际约定；后文的早期伪代码和待办不能直接当成现状：
+
+- `entrycode.cpp` 同时供测试和 PE 工具使用。Entry 与 Log 的栈帧均为 `0x58`，原 RCX/RDX 保存在 `+0x38/+0x40`；Entry 的 `+0x48/+0x50` 用于目录长度和模块句柄。展开码为 `01 04 01 00 04 A2 00 00`。
+- 日志实际写 `loader=missing err=...`、`loader=abi ver=...` 或 `loader=rc=...`；初始化成功为 `loader=rc=00000000`，不是下文设计表的 `loader=ready`。`why` 缓冲存在于数据块，但入口日志只写数值。
+- 重复进入只递增 `kRepeats` 后执行原调用，不覆盖首次状态、不重复加载或写日志。入口没有 `kStatusBusy`；DLL 自身仍可返回 Busy（6）。
+- Python 先确定节地址，再调用发射工具，校验 JSON 格式、布局回显、bin 长度与 SHA-256。`.cielzh` 为 RX，`.cielzhd` 为 RW 且由加载器零填充，不使用 RWX。
+- 两条 `RUNTIME_FUNCTION` 追加到异常目录末尾；`UNWIND_INFO` 位于发射出的代码块内，目录 `Size` 只计函数表。重复应用先核验旧头、旧机器码、当前调用目标及完整展开条目，再生成新结果。
+- 当前 DLL 已包含显示替换。诊断记录默认关闭，`cielzh-trace.on` 在启动时启用；容量为 32,768 条。`TraceDrain` 仍不代表清空。`caller_rva` 和对象观察编号不能单独证明界面归属、逻辑用途或对象生命周期。
+- 安装器已将 EXE、DLL、替换表及区间修改纳入整次安装事务；PE 合成自检已进入 CI。实机覆盖仍须单独验证，不能由自检数量推断。
+
+英文版按这些当前约定整理，见 [English](DESIGN.en.md)。
+
+## 早期设计记录
 
 把 `CielnosurgeDX.exe` 里 `0x7B7F05` 那条 call 改指向新增节内的一小段代码，
 由它同步加载 `cielzh.dll`、调用 `CielZhInitialize`，然后尾调用原目标。

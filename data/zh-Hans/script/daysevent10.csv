@@ -246,7 +246,7 @@ inc/event/res/daysevent10/day10_07.txt#26#14,"あなたと出会ってから
 随分経ったね。これか
 らも大好きだよ♪","和你相遇至今
 已经过了好久呢。
-今后我也会一直喜欢你哦♪",translated,,bfdb99095e,br=0 nl=2,3,
+今后也会一直喜欢你♪",translated,,bfdb99095e,br=0 nl=2,3,
 inc/event/res/daysevent10/day10_08.txt#6#12,"わたしの世界にある食べ物の中には、
 あなたの世界に無い物もあるんだよね？","我这个世界的食物里，
 也有在你的世界里不存在的东西对吧？",translated,依恩,a55af44888,br=0 nl=1,2,
@@ -478,9 +478,9 @@ inc/event/res/daysevent10/day10_13.txt#24#12,"そう考えると、こうして�
 其实也正在居家约会中对吧？",translated,依恩,366342d48c,br=0 nl=1,2,
 inc/event/res/daysevent10/day10_13.txt#26#14,"外でも中でもあなたと
 一緒ならデート……
-なのかな？","不论在室内还是室外，
-只要和你在一起就是约会……
-大概是这样吗？",translated,,7525b15776,br=0 nl=2,3,
+なのかな？","不论室内还是室外，
+只要和你在一起
+就是约会……对吧？",translated,,7525b15776,br=0 nl=2,3,
 inc/event/res/daysevent10/day10_14.txt#6#12,"グルメイトばかり食べていた頃と比べると、
 今の食生活って、ちょっと贅沢が過ぎてる
 気がするの。","比起只吃美食伴侣的那段时期，
@@ -522,9 +522,9 @@ inc/event/res/daysevent10/day10_14.txt#24#12,"……もうグルメイトは、�
 比较好吧。",translated,依恩,65de8e76e5,br=0 nl=2,3,
 inc/event/res/daysevent10/day10_14.txt#25#14,"グルメイトばっかりだ
 った頃を考えると今は
-すごく贅沢してるね♪","一想到以前全靠吃美食伴侣度日，
-现在的生活
-真的超级奢侈呢♪",translated,,fda90cba34,br=0 nl=2,3,
+すごく贅沢してるね♪","想到以前只吃
+美食伴侣的日子，
+现在真是太奢侈了♪",translated,,fda90cba34,br=0 nl=2,3,
 inc/event/res/daysevent10/day10_15.txt#6#12,"あなたとお話できるようになって、
 生活にメリハリができた気がするの。","能够像这样和你聊天之后，
 总觉得生活变得更加张弛有度了呢。",translated,依恩,4de0caca9c,br=0 nl=1,2,
@@ -553,6 +553,6 @@ inc/event/res/daysevent10/day10_15.txt#26#12,"変なこと聞いちゃってご�
 不过能听到让我开心的回答真是太好了。",translated,依恩,d7e1773e76,br=0 nl=1,2,
 inc/event/res/daysevent10/day10_15.txt#29#14,"一人じゃなくて、誰か
 とお話することって、
-本当に大切なんだね♪","不再是孤身一人，
-能和某个人像这样谈天说地，
-真的是非常重要的事呢♪",translated,,eba72de2b7,br=0 nl=2,3,
+本当に大切なんだね♪","不再孤身一人，
+能像这样和人聊天，
+真的是很重要的事♪",translated,,eba72de2b7,br=0 nl=2,3,

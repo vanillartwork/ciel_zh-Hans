@@ -73,7 +73,7 @@ exe:b9e7f906,『7次元通信』への投稿,向『7次元通信』投稿,transl
 exe:c04868de,』が達成されました！　HymPを,』已达成！　获得HymP,translated,40,c04868de76,br=0 nl=0,1,
 exe:a504ed99,【BGM】アルノBGMパック,【BGM】Ar nosurge BGM包,translated,30,a504ed99ed,br=0 nl=0,1,
 exe:08eb4e8a,【C&A】カフェ・デ・コモ,【C&A】科莫咖啡馆,translated,33,08eb4e8aab,br=0 nl=0,1,
-exe:4e39ec2f,【D-SPOT】プラネタリウム,【D-SPOT】天象仪馆,translated,33,4e39ec2f1e,br=0 nl=0,1,
+exe:4e39ec2f,【D-SPOT】プラネタリウム,【D-SPOT】天文馆,translated,33,4e39ec2f1e,br=0 nl=0,1,
 exe:d213fb96,"【Notice】
 このコンテンツは一部補助機能において、
 ネットワーク接続を必要とする場合があります。
@@ -241,8 +241,8 @@ exe:703eaca0,"シャールが１体しかいません
 exe:dd190754,シャールと契約,与夏尔签约,translated,21,dd19075491,br=0 nl=0,1,
 exe:34480c9f,シャールのスキルが解禁されました！,夏尔的技能已解锁！,translated,51,34480c9fc1,br=0 nl=0,1,
 exe:3924b8ea,シャールのステータスへ,前往夏尔的状态,translated,33,3924b8eaf4,br=0 nl=0,1,
-exe:4fa43165,シャールの巣,夏尔的巢,translated,18,4fa43165a7,br=0 nl=0,1,
-exe:ac80625e,シャールの巣へ入りますか？,要进入夏尔的巢吗？,translated,39,ac80625ec2,br=0 nl=0,1,
+exe:4fa43165,シャールの巣,夏尔之巢,translated,18,4fa43165a7,br=0 nl=0,1,
+exe:ac80625e,シャールの巣へ入りますか？,要进入夏尔之巢吗？,translated,39,ac80625ec2,br=0 nl=0,1,
 exe:eea363f9,"シャールの種族変更が
 解禁されました！","夏尔的种族变更
 已解锁！",translated,55,eea363f954,br=0 nl=1,1,多行

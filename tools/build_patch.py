@@ -18,6 +18,11 @@ import exe_keys
 import pe_loader
 import build_text_table
 import patch_exe_strings
+import exe_sites
+import build_charset
+import gbd_text
+import old_saves
+import old_memos
 import env_strings
 import progress
 import repack_pak
@@ -62,7 +67,28 @@ def main(exportdir, fontdir, patchdir, loose=False, plain_exe=False,
         # Japanese.  Everything else is still translated.
         print("nameplates disabled (--no-nameplates)")
         speakers = {}
-    files = import_text.build(pak, script, ui, binmap, speakers)
+    # Memo texts (EVENT_PROCESS_WRITE_MEMO) go into the save when written, so
+    # the scripts keep the Japanese: a save made with the patch then reads the
+    # same in the original game, and is never cut short by the save's memo
+    # slot, which Chinese can overrun.  The display layer shows the Chinese.
+    memos = [(r["jp"], r["zh"]) for r in script.values() if r.get("kind") == "memo"]
+    files = import_text.build(pak, {k: r for k, r in script.items()
+                                    if r.get("kind") != "memo"},
+                              ui, binmap, speakers)
+    # The dream-world tables: fixed-size records, written only at the fields
+    # gbd_text.FAMILIES lists, never past the bytes the Japanese used.
+    dream_csv = os.path.join(exportdir, "dream_text.csv")
+    if os.path.exists(dream_csv):
+        try:
+            dream = gbd_text.build(pak, dream_csv)
+        except gbd_text.GbdError as e:
+            raise SystemExit("dream-table translations do not fit:\n  %s"
+                             % str(e).replace("\n", "\n  "))
+        overlap = set(dream) & set(files)
+        if overlap:
+            raise SystemExit("two writers for %s" % ", ".join(sorted(overlap)))
+        files.update(dream)
+        print("dream tables: %d files" % len(dream))
     # One uncompressed zip rather than 2,679 loose files.  On a machine with
     # on-access virus scanning, writing them loose and reading them straight
     # back in the repack step costs about 50 seconds -- the scanner walks each
@@ -126,19 +152,51 @@ def main(exportdir, fontdir, patchdir, loose=False, plain_exe=False,
             print("  %d hardcoded strings kept Japanese: the game's own data "
                   "tables index by them (see %s)"
                   % (len(held), os.path.basename(report)))
-    if todo:
-        bad = patch_exe_strings.check(todo)
-        if bad:
-            raise SystemExit("exe_text.csv has %d translations that do not fit; "
-                             "run check_exe_text.py" % len(bad))
-        data, done, miss, total = patch_exe_strings.patch(
-            open(exe_dst, "rb").read(), todo)
-        if miss:
-            raise SystemExit("%d hardcoded strings were not found in the "
-                             "executable -- unsupported game version?" % miss)
+    # Strings translated at reviewed addresses only (exe_sites.py).  Every
+    # address is checked against the executable as it stands now, before the
+    # global pass has touched anything, and their ids are taken out of that
+    # pass so it cannot rewrite other copies of the same text.
+    writes = []
+    if not plain_exe:
+        exe_in = open(exe_dst, "rb").read()
+        manifest = exe_sites.manifest_for(
+            hashlib.sha256(open(build_charset.pristine_exe(), "rb").read()).hexdigest())
+        if manifest is None:
+            print("  no address manifest for this executable; sited strings "
+                  "stay Japanese")
+        else:
+            sites = exe_sites.load_sites(manifest)
+            try:
+                writes = exe_sites.plan(exe_in, sites, exe_sites.load_texts(),
+                                        exe_sites.pe_locator(exe_in))
+            except exe_sites.SiteError as e:
+                raise SystemExit("the address manifest %s does not fit this "
+                                 "executable:\n  %s"
+                                 % (os.path.basename(manifest),
+                                    "\n  ".join(e.problems)))
+            sited = set(s["id"] for s in sites)
+            todo = [t for t in todo if t[0] not in sited]
+    if todo or writes:
+        data = open(exe_dst, "rb").read()
+        done = 0
+        if todo:
+            bad = patch_exe_strings.check(todo)
+            if bad:
+                raise SystemExit("exe_text.csv has %d translations that do not fit; "
+                                 "run check_exe_text.py" % len(bad))
+            data, done, miss, total = patch_exe_strings.patch(data, todo)
+            if miss:
+                raise SystemExit("%d hardcoded strings were not found in the "
+                                 "executable -- unsupported game version?" % miss)
+        try:
+            data = exe_sites.apply(data, writes)
+        except exe_sites.SiteError as e:
+            raise SystemExit("the global pass rewrote a reviewed address:\n  %s"
+                             % "\n  ".join(e.problems))
         open(exe_dst, "wb").write(data)
-        print("patched exe  %.1f MB, %d hardcoded strings translated"
-              % (os.path.getsize(exe_dst) / 1e6, done))
+        print("patched exe  %.1f MB, %d hardcoded strings translated, %d more "
+              "at reviewed addresses"
+              % (os.path.getsize(exe_dst) / 1e6, done, len(writes)))
 
     # 4. the loader entry, last: it is applied to the finished executable, and
     #    every build starts from the pristine image, so an upgrade rebuilds from
@@ -169,11 +227,18 @@ def main(exportdir, fontdir, patchdir, loose=False, plain_exe=False,
             "data", "zh-Hans")
         display = build_text_table.load_display(
             os.path.join(zh_dir, "display.csv"))
+        # Saves written before the patch keep their Japanese summary; see
+        # old_saves.py.  Built from the same reviewed translations the sited
+        # pass just wrote, so an old save and a new one read the same.
+        display += old_saves.from_exe_texts(exe_sites.load_texts())
         skipped = []
         try:
+            # Memos are stored in the save when written (see above), in
+            # Japanese -- and Chinese ones from 0.9.4-0.9.7, some cut short.
+            memos = memos + old_memos.pairs(memos, old_memos.load_history(zh_dir))
             n, size = build_text_table.write(
                 os.path.join(patchdir, "cielzh-text.bin"), all_speakers, held,
-                display, build_text_table.our_chinese(zh_dir), skipped)
+                display, build_text_table.our_chinese(zh_dir), skipped, memos)
         except build_text_table.TableError as e:
             raise SystemExit("the display layer's text table cannot be built: "
                              "%s" % e)

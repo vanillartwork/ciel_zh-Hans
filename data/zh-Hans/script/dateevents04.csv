@@ -565,7 +565,7 @@ inc/event/res/dateevents04/cafe_s01.txt#74#14,"カフェでのデート♪
 少し大人な雰囲気で
 緊張しちゃった。","在咖啡馆约会♪
 有些成熟的气氛
-让我都不由自主紧张起来了。",translated,,a65bbb9a97,br=0 nl=2,3,
+让我不由得紧张起来。",translated,,a65bbb9a97,br=0 nl=2,3,
 inc/event/res/dateevents04/cafe_s01.txt#75#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/dateevents04/cafe_s02.txt#2#12,"準備はできたかな？
 それじゃあ、カフェに行ってみよっか。","准备好了吗？
@@ -988,7 +988,8 @@ inc/event/res/dateevents04/cafe_s06.txt#108#12,"それじゃ、今日はあり�
 次のデートも楽しみにしてるね！","那么，今天谢谢你啦。
 我也很期待下一次约会哦！",translated,依恩,985408e4ca,br=0 nl=1,2,
 inc/event/res/dateevents04/cafe_s06.txt#111#14,"約束通り、デートの
-話をして楽しかった。","按照约定聊了约会的话题，
+話をして楽しかった。","按约定聊了
+约会的话题，
 很开心。",translated,,b9b13b0a2f,br=0 nl=1,2,
 inc/event/res/dateevents04/cafe_s06.txt#112#12,<CLY2>イオンとのラブラブ度が少し上がりました。,<CLY2>与依欧的恩爱度略微提升了。,translated,系统文本,f0958b1f4c,<CLY2> br=0 nl=0,1,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/dateevents04/cafe_s07.txt#1#12,"えへへ……今日はどんなお話しようか、

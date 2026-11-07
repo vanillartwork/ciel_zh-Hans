@@ -34,6 +34,32 @@ bool Claim(State& from)
 
 const wchar_t kTraceFileName[] = L"cielzh-trace.txt";
 const wchar_t kTraceMarkerName[] = L"cielzh-trace.on";
+const wchar_t kStatusFileName[] = L"cielzh-status.txt";
+
+bool WriteStatus(void* module, int rc, const char* why)
+{
+    wchar_t path[560];
+    if (!PathBesideModule(module, kStatusFileName, path, 560))
+        return false;
+    const DisplayStats s = DisplayGetStats();
+    char text[512];
+    const int n = std::snprintf(text, sizeof(text),
+                                "rc=%d\r\nwhy=%s\r\ndisplay=%s\r\nentries=%u\r\n",
+                                rc, why ? why : "", s.on ? "on" : "off",
+                                static_cast<unsigned>(s.entries));
+    if (n <= 0)
+        return false;
+    const DWORD len = static_cast<DWORD>(n < static_cast<int>(sizeof(text))
+                                         ? n : sizeof(text) - 1);
+    HANDLE h = CreateFileW(path, GENERIC_WRITE, FILE_SHARE_READ, nullptr,
+                           CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, nullptr);
+    if (h == INVALID_HANDLE_VALUE)
+        return false;
+    DWORD put = 0;
+    const BOOL ok = WriteFile(h, text, len, &put, nullptr);
+    CloseHandle(h);
+    return ok && put == len;
+}
 
 bool TraceWanted(void* module)
 {

@@ -8,6 +8,12 @@ import csvspan
 RES = sys.argv[1]
 EXP = sys.argv[2]
 TMP = sys.argv[3]
+# This writes synthetic translations into the export's script files, so it
+# needs them loose; a build leaves them in script.zip (workscript.py).
+import workscript                       # noqa: E402
+if workscript.source(EXP) != "loose":
+    sys.exit("%s keeps the scripts in %s; unpack them first:\n"
+             "    py -3 tools/workscript.py unpack %s" % (EXP, workscript.BUNDLE, EXP))
 os.makedirs(TMP, exist_ok=True)
 src = os.path.join(RES, "PACK01.PAK")
 pak = Pak(src)

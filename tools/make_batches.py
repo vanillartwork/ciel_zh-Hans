@@ -81,6 +81,14 @@ def describe(rel, r):
 
 def main(argv):
     exportdir, outdir = argv[1], argv[2]
+    # Reads the script files one by one by path; a build leaves them in
+    # script.zip (workscript.py).
+    import workscript
+    if workscript.source(exportdir) == "zip":
+        print("%s keeps the scripts in %s; unpack them first:\n"
+              "    py -3 tools/workscript.py unpack %s"
+              % (exportdir, workscript.BUNDLE, exportdir))
+        return 1
     budget = 12000
     only = None
     if "--chars" in argv:

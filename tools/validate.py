@@ -263,7 +263,7 @@ def check_rows(rows, rel, cols, charset, forbidden, allow, rep, strict,
             cap = int(cap)
             need = len(zh.encode("utf-8"))
             # packed fields are NUL-terminated inside a fixed slot
-            budget = cap if rel.endswith("executable.csv") else cap - 1
+            budget = cap if rel.endswith(("executable.csv", "exe_sited.csv")) else cap - 1
             if need > budget:
                 rep.error(where, "translation needs %d bytes, the game allows %d"
                           % (need, budget))

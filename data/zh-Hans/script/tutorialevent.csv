@@ -1837,7 +1837,7 @@ inc/event/res/tutorialevent/tu09.txt#40#12,"そして、壊れてしまったイ
 inc/event/res/tutorialevent/tu09.txt#41#12,"シャールはあそこから生まれるから、
 その場所のことを“シャールの巣”って
 呼んでるの。","因为夏尔诞生于星空的彼方，
-所以那个地方被称为“夏尔的巢穴”。",translated,依恩,cf2fefd6d9,br=0 nl=2,3,
+所以那个地方被称为“夏尔之巢”。",translated,依恩,cf2fefd6d9,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu09.txt#48#12,シャールをどう利用すれば？,该如何运用夏尔？,translated,,891b51c738,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu09.txt#50#12,"それについては、創り出した彼女たちに
 聞くのがいいと思う。","关于这一点，直接向你所创造出的
@@ -2028,7 +2028,7 @@ inc/event/res/tutorialevent/tu11_tch1.txt#47#12,"朝イオンに起こしても�
 试着把你想要知晓的时间告诉她吧。",translated,【让依恩报时吧！】,65b1d096dd,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu12.txt#7#12,"ようこそ。
 “シャールの巣”へ。","欢迎光临。
-欢迎来到“夏尔的巢穴”。",translated,夏尔,858bd4ba16,br=0 nl=1,2,
+欢迎来到“夏尔之巢”。",translated,夏尔,858bd4ba16,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu12.txt#8#12,"ここには現在において、
 まだ何も存在しない空間となっています。","目前此处尚且是一片
 空无一物的虚无空间。",translated,夏尔,a83843a6b6,br=0 nl=1,2,
@@ -2202,9 +2202,9 @@ inc/event/res/tutorialevent/tu14.txt#33#12,"私達シャールは、１体につ
 因此需要多人齐心协力来进行修复。",translated,夏尔,2b286ccb19,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu14.txt#34#12,"『修復する』ボタンを選択すると、
 シャールの巣に入ります。","选择“修复”按钮后，
-即可进入夏尔的巢穴。",translated,夏尔,ffdec043cb,br=0 nl=1,2,
+即可进入夏尔之巢。",translated,夏尔,ffdec043cb,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu14.txt#35#12,"まずはシャールの巣の中で、どの
-シャールにお願いするか決めてください。","首先请在夏尔的巢穴中，
+シャールにお願いするか決めてください。","首先请在夏尔之巢中，
 决定拜托哪只夏尔。",translated,夏尔,c015d5400a,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu14.txt#40#12,"その時ポイントとなるのが、
 『修復できる属性』と『修復力』の２つです。","此时的核心关键，
@@ -2277,7 +2277,7 @@ inc/event/res/tutorialevent/tu14.txt#81#12,"レベルアップによるパワー
 不过那些内容就留到下次再详谈吧。",translated,夏尔,b2c74b881e,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu14.txt#82#12,"一度廃墟の修復が終えたとき、
 再び“シャールの巣”にお越しください。","当废墟修复完成一次后，
-请再次光临“夏尔的巢穴”。",translated,夏尔,e9d0747cb2,br=0 nl=1,2,
+请再次光临“夏尔之巢”。",translated,夏尔,e9d0747cb2,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu14.txt#83#12,"そのとき、シャールの力を高める方法を
 お教えしましょう。","届时，我将向您传授
 提升夏尔力量的方法。",translated,夏尔,9f5febeb3c,br=0 nl=1,2,
@@ -2300,7 +2300,7 @@ inc/event/res/tutorialevent/tu15.txt#19#12,"廃墟を修復してくれたシャ
 体を休めるために“シャールの巣”へと
 戻っていきます。","协助完成废墟修复的夏尔，
 为了稍作歇息
-会返回“夏尔的巢穴”。",translated,夏尔,eb9c0956df,br=0 nl=2,3,
+会返回“夏尔之巢”。",translated,夏尔,eb9c0956df,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu15.txt#20#12,"時間が経てば、再び廃墟の修復に
 力を貸してくれるはずです。","随着时间推移恢复之后，
 理应能再次为废墟修复贡献力量。",translated,夏尔,1ec653fff4,br=0 nl=1,2,
@@ -2336,7 +2336,7 @@ inc/event/res/tutorialevent/tu15.txt#41#12,"<CLY2>また、一度見た記憶は
 并能以摘要形式随时回顾。",translated,系统文本,0600494ec5,<CLY2> br=0 nl=2,3,keep-tags <CLY2>; src-longest-line=26
 inc/event/res/tutorialevent/tu16.txt#7#12,"ようこそ。
 “シャールの巣”へ。","欢迎光临。
-欢迎来到“夏尔的巢穴”。",translated,夏尔,3d42039df8,br=0 nl=1,2,
+欢迎来到“夏尔之巢”。",translated,夏尔,3d42039df8,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu16.txt#8#12,"お約束した通り、シャールの力を
 高める方法をお教えしましょう。","正如先前所约定，
 现在就由我来向您传授提升夏尔力量的方法。",translated,夏尔,711c2394eb,br=0 nl=1,2,
@@ -2607,7 +2607,7 @@ inc/event/res/tutorialevent/tu19.txt#1#12,"<CLY2>夢セカイを修復するた�
 シャールが必要です。","<CLY2>修复梦世界
 需要用到夏尔。",translated,系统文本,9c708518f6,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
 inc/event/res/tutorialevent/tu19.txt#2#12,"<CLY2>まずは“シャールの巣”にいき、
-あなたのシャールを創造しましょう。","<CLY2>首先前往“夏尔的巢穴”，
+あなたのシャールを創造しましょう。","<CLY2>首先前往“夏尔之巢”，
 创造属于你的夏尔吧。",translated,系统文本,444f14c711,<CLY2> br=0 nl=1,2,keep-tags <CLY2>
 inc/event/res/tutorialevent/tu20.txt#7#12,"おめでとうございます！
 見事シャールを生み出せたようですね。","恭喜您！
@@ -2639,31 +2639,31 @@ inc/event/res/tutorialevent/tu20.txt#24#12,"<CLY2>シャールがどういうも
 inc/event/res/tutorialevent/tu20.txt#25#12,"<CLY2>次から生成するシャールこそが、あなたの
 育てていく、本当のシャールとなるでしょう。","<CLY2>此后生成的夏尔，
 才是由你亲自培养的真正夏尔。",translated,系统文本,d2fcd2e04f,<CLY2> br=0 nl=1,2,keep-tags <CLY2>; src-longest-line=25
-inc/event/res/tutorialevent/tu21.txt#1#12,“フレンドシャールの巣”へようこそ！,欢迎来到“好友夏尔的巢穴”！,translated,【在好友夏尔的巢穴与朋友交流！】,aaec03f3c6,br=0 nl=0,1,
+inc/event/res/tutorialevent/tu21.txt#1#12,“フレンドシャールの巣”へようこそ！,欢迎来到“好友夏尔之巢”！,translated,【在好友夏尔之巢与朋友交流！】,aaec03f3c6,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu21.txt#2#12,"ここは、貴方がフォローしたユーザーの
 “シャールの巣”です。","这里是您所关注的用户的
-“夏尔的巢穴”。",translated,【在好友夏尔的巢穴与朋友交流！】,8d354d07d3,br=0 nl=1,2,
+“夏尔之巢”。",translated,【在好友夏尔之巢与朋友交流！】,8d354d07d3,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu21.txt#3#12,"“フレンドシャールの巣”では、
 あなたのフォロー相手が持つシャールに
-話しかけることが出来ます。","在“好友夏尔的巢穴”中，
+話しかけることが出来ます。","在“好友夏尔之巢”中，
 您可以向所关注的好友持有的夏尔
-主动搭话交流。",translated,【在好友夏尔的巢穴与朋友交流！】,85a6347425,br=0 nl=2,3,
+主动搭话交流。",translated,【在好友夏尔之巢与朋友交流！】,85a6347425,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu21.txt#7#12,"普段、貴方が自分のシャールにしているように
 フレンドのシャールも選択することで
 こちらへ来てもらうことができます。","如同您平时对待自己的夏尔那样，
 只要选中好友的夏尔，
-也能让它来到您面前。",translated,【在好友夏尔的巢穴与朋友交流！】,d95760197a,br=0 nl=2,3,
+也能让它来到您面前。",translated,【在好友夏尔之巢与朋友交流！】,d95760197a,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu21.txt#8#12,"その時、ステータスが表示されている所で
 撫でてあげることができます。","此时，可以在显示状态信息的地方
-温柔抚摸它。",translated,【在好友夏尔的巢穴与朋友交流！】,381d12c728,br=0 nl=1,2,
+温柔抚摸它。",translated,【在好友夏尔之巢与朋友交流！】,381d12c728,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu21.txt#13#12,"撫でてあげることで、
 シャールはLPとシンクロ率、
 フレンドと貴方は共にHymPを取得できます。","通过抚摸，
 夏尔可恢复LP并提高同步率，
-您与好友则能双双获取HymP。",translated,【在好友夏尔的巢穴与朋友交流！】,a9cba2d050,br=0 nl=2,3,
+您与好友则能双双获取HymP。",translated,【在好友夏尔之巢与朋友交流！】,a9cba2d050,br=0 nl=2,3,
 inc/event/res/tutorialevent/tu21.txt#19#12,"是非フレンドとのコミュニケーションに
 シャールを活用して下さい。","请务必善加利用夏尔，
-来增进与好友之间的交流吧。",translated,【在好友夏尔的巢穴与朋友交流！】,bb7bd39cd6,br=0 nl=1,2,
+来增进与好友之间的交流吧。",translated,【在好友夏尔之巢与朋友交流！】,bb7bd39cd6,br=0 nl=1,2,
 inc/event/res/tutorialevent/tu_22_eatingtime.txt#3#12,あ、ちょうど良かった。,啊，来得正好。,translated,依恩,e0e287b0e3,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu_22_eatingtime.txt#5#12,いまそっちに行くね,我这就过去哦。,translated,依恩,accd251945,br=0 nl=0,1,
 inc/event/res/tutorialevent/tu_22_eatingtime.txt#9#12,"いまご飯を食べながら思ったんだけど、

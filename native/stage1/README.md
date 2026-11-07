@@ -1,5 +1,7 @@
 # 阶段一：运行时断点
 
+中文 | [English](README.en.md)
+
 只观察原版游戏，不加载 `cielzh.dll`，也不改游戏逻辑。这一轮要回答：
 
 - 初始化候选点（`0x7B7F05`）是否早于第一个文字对象的构造、第一次 SetText 和第一次 GetText；
@@ -28,6 +30,7 @@
 先退出游戏，然后依次执行：
 
 ```
+cd native/stage1
 py -3 swap_original.py check
 py -3 swap_original.py in
 ```
@@ -66,12 +69,12 @@ py -3 swap_original.py out
 
 启用期间，**每一次**启动 `CielnosurgeDX.exe` 都会经过 cdb。`out` 会把补丁原样换回，并逐个文件核对哈希。
 
-最后把 `%LOCALAPPDATA%\cielzh_stage1\stage1-*.log` 发回来。
+日志保存在 `%LOCALAPPDATA%\cielzh_stage1\stage1-*.log`。提交诊断信息时附上对应运行的日志。
 
 ## 读日志
 
-```
-py -3 summarize.py %LOCALAPPDATA%\cielzh_stage1\stage1-<时间戳>.log
+```powershell
+py -3 summarize.py "$env:LOCALAPPDATA\cielzh_stage1\stage1-<时间戳>.log"
 ```
 
 输出首次发生顺序、`INIT_CALL` 命中次数、按线程的读写统计。**配额用尽的线程会标注出来**——那一行的数字是下限，不是实际调用数。
@@ -92,15 +95,15 @@ py -3 summarize.py %LOCALAPPDATA%\cielzh_stage1\stage1-<时间戳>.log
 要在游戏线程里停约 50 ms（实测一小时游戏里约每 12 秒一次），玩家不该为一份自己不看的日志付出卡顿。
 显示层不受影响，开不开记录都照常替换。
 
-开启记录后游戏目录里会出现两个文件：
+退出游戏后创建或删除开关文件，再启动游戏。加载结果与诊断采样分开记录：
 
 | 文件 | 谁写的 | 说明 |
 |---|---|---|
 | `cielzh-loader.log` | EXE 里的加载入口 | 每次启动都写。`loader=rc=00000000` 表示 DLL 已加载且初始化成功 |
+| `cielzh-status.txt` | `cielzh.dll` | 初始化时记录显示表等状态；不要求开启采样 |
 | `cielzh-trace.txt` | `cielzh.dll` | 每出现一条新记录就写（最快 1.5 秒一次），退出时再写一次 |
 
-`cielzh-trace.txt` 是自动写出的，因此**崩溃也能留下记录**——只在退出时写的话，最需要
-证据的那次运行恰好什么都没有。表头的 `reason=` 说明这份文件是哪一种：`auto`（游戏还在
+`cielzh-trace.txt` 会在运行中写出，崩溃后可能保留最近一次成功写出的记录，但不能保证包含崩溃前最后几次调用。表头的 `reason=` 说明这份文件是哪一种：`auto`（游戏还在
 运行时写的，之后的记录不在里面）、`exit`（写到进程结束）、`export`（有人主动调用导出）。
 
 读记录：

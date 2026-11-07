@@ -1,6 +1,10 @@
 # 二进制数据表
 
+中文 | [English](binary-tables.en.md)
+
 `inc/**/*.bin` 保存道具、帮助、邮件、夏尔档案、BGM 说明及服务器错误信息等内容。
+
+本页描述 `.bin` 表。0.9.8 新增的梦世界 `.gbd` 使用不同的写入边界，见[梦世界数据表](dream-tables.md)。
 
 ## 定长字段
 
@@ -29,4 +33,4 @@
 
 ## 保留内容
 
-`inc/globaldata/ngword_data.bin` 是屏蔽词表，用于匹配玩家输入，保留其原始词条。此类数据以 `status=skip` 和 `note` 记录原因。
+`inc/globaldata/ngword_data.bin` 是屏蔽词表，用于匹配玩家输入，保留其原始词条。注入工具的保留清单负责防止写入；这些条目虽然没有中文译文，也不是待补译的界面文字。

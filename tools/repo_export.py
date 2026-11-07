@@ -27,6 +27,7 @@ Rows with no translation yet are published too, so that the work that is left
 is visible in the repository rather than only in someone's local checkout.
 """
 import sys, os, io, csv, hashlib, re
+import workscript
 
 KINDS = {
     "script": ["id", "jp", "zh", "status", "speaker", "src", "ctl", "lines", "note"],
@@ -111,16 +112,14 @@ def main(exportdir, datadir):
     total = 0
     index = []
 
-    scriptdir = os.path.join(exportdir, "script")
     speakers = {}
     for r in read(os.path.join(exportdir, "glossary_speakers.csv")):
         if r["zh"].strip():
             speakers[r["jp"]] = r["zh"]
 
-    for fn in sorted(os.listdir(scriptdir)):
-        if not fn.endswith(".csv"):
-            continue
-        rows = read(os.path.join(scriptdir, fn))
+    # script.zip or script/ (workscript.py), in the order listdir+sorted gave
+    for fn, data in sorted(workscript.read_all(exportdir)):
+        rows = workscript.rows(data)
         rec = convert(rows, "script")
         for a, b in zip(rec, rows):
             a["speaker"] = speakers.get(b.get("speaker", ""), b.get("speaker", ""))

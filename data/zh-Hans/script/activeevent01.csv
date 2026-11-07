@@ -870,8 +870,8 @@ inc/event/res/activeevent01/act_fct00.txt#242#14,"冷やしている最中、
 inc/event/res/activeevent01/act_fct00.txt#245#14,"初めての飾りつけ。
 緊張したけど、見てて
 くれたから頑張れた♪","第一次做点缀装饰。
-虽然心里很紧张，但有你在
-看着，我成功做好了♪",translated,,b766cb6162,br=0 nl=2,3,
+虽然很紧张，
+有你看着就做好了♪",translated,,b766cb6162,br=0 nl=2,3,
 inc/event/res/activeevent01/act_fct00.txt#248#14,"材料を混ぜてる最中、
 見ててくれたから
 頑張れた♪","搅拌材料的过程中，
@@ -880,8 +880,8 @@ inc/event/res/activeevent01/act_fct00.txt#248#14,"材料を混ぜてる最中、
 inc/event/res/activeevent01/act_fct00.txt#251#14,"初めての搾り作業。
 力加減が難しいけど、
 なんとか頑張れた♪","第一次尝试压榨工序。
-下手的力道虽然很难把握，
-但总算竭力做好了♪",translated,,743b4ad60f,br=0 nl=2,3,
+力道虽然很难把握，
+总算努力做好了♪",translated,,743b4ad60f,br=0 nl=2,3,
 inc/event/res/activeevent01/act_fct00.txt#254#14,"研磨作業を見てて
 もらえたから、
 集中できた♪","多亏有你在旁边
@@ -898,8 +898,9 @@ inc/event/res/activeevent01/act_fct00.txt#260#14,"見ててもらえたから、
 做起细工来比平时
 要更加专注投入呢♪",translated,,167dafd7e5,br=0 nl=2,3,
 inc/event/res/activeevent01/act_fct00.txt#263#14,"薬品を反応させるとき
-そばで見ててくれた♪","进行药品化学反应的时候，
-你一直陪在我身旁看着我♪",translated,,436fcf036b,br=0 nl=1,2,
+そばで見ててくれた♪","让药品起化学反应时，
+你一直陪在我身边
+看着我♪",translated,,436fcf036b,br=0 nl=1,2,
 inc/event/res/activeevent01/act_fct00.txt#266#14,"薬の材料を混ぜるとき
 見ててくれたおかげで
 安心してできた♪","混合制药材料的时候，
@@ -922,9 +923,9 @@ inc/event/res/activeevent01/act_fct00.txt#275#14,"得意な接合作業。
 才没有因为冲头搞砸♪",translated,,91b1bcc537,br=0 nl=2,3,
 inc/event/res/activeevent01/act_fct00.txt#278#14,"あんまり得意じゃない
 裁縫。見守ってくれて
-頑張ることができた♪","面对自己不太拿手的裁缝。
-因为有你在旁边守护着，
-我也能竭尽全力做好了♪",translated,,fea862e644,br=0 nl=2,3,
+頑張ることができた♪","不太拿手的裁缝，
+因为有你在旁边守护，
+我也尽力做好了♪",translated,,fea862e644,br=0 nl=2,3,
 inc/event/res/activeevent01/act_fct00.txt#281#14,"初めて粉を振るうのを
 見ててもらえた♪","第一次筛粉的时候，
 有你在旁边看着我♪",translated,,923f5ac44d,br=0 nl=1,2,

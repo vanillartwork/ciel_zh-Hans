@@ -22,6 +22,7 @@ import sys, os, io, csv, re, struct
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gamepath
 import font_atlas as fa
+import workscript
 
 # Resolved on demand: importing this module must not fail on a machine that
 # has no copy of the game, so that CI can import the tools around it.
@@ -82,17 +83,28 @@ def main(exportdir, out_path=None):
             have[g.ch] = g
 
     jp_text, zh_text = set(), set()
-    for root, _, files in os.walk(exportdir):
+
+    def collect(records):
+        for r in records:
+            if "zh" not in (r or {}):
+                continue
+            jp_text.update(r["jp"])
+            if r["zh"].strip():
+                zh_text.update(r["zh"])
+
+    for root, dirs, files in os.walk(exportdir):
+        if root == exportdir and workscript.LOOSE in dirs:
+            dirs.remove(workscript.LOOSE)      # read below, either form
         for fn in sorted(files):
             if not fn.endswith(".csv") or fn.startswith("_"):
                 continue
             with io.open(os.path.join(root, fn), encoding="utf-8-sig", newline="") as f:
-                for r in csv.DictReader(f):
-                    if "zh" not in (r or {}):
-                        continue
-                    jp_text.update(r["jp"])
-                    if r["zh"].strip():
-                        zh_text.update(r["zh"])
+                collect(csv.DictReader(f))
+    # The scripts are in script.zip, not loose files the walk would find; left
+    # out, every character only the scripts use would drop out of the font.
+    # read_all() also refuses an export holding both forms.
+    for _name, data in workscript.read_all(exportdir):
+        collect(workscript.rows(data))
 
     non_cjk = {c for c in have if not CJK.match(c)}
     kanji_used = {c for c in (jp_text | exe_japanese()) if CJK.match(c) and c in have}

@@ -37,7 +37,11 @@ extern "C" int __cdecl CielZhInitializeV1(char* why, int why_len)
     // knows.  Players have no marker file and pay nothing for the recorder.
     HMODULE exe = GetModuleHandleW(nullptr);
     cielzh::TraceEnable(cielzh::TraceWanted(exe));
-    return cielzh::InitializeAt(exe, 0, why, why_len);
+    const int rc = cielzh::InitializeAt(exe, 0, why, why_len);
+    // Best effort: a status file that cannot be written changes nothing in
+    // the game, only what install.py --verify can tell the player.
+    cielzh::WriteStatus(exe, rc, why);
+    return rc;
 }
 
 extern "C" int __cdecl CielZhDumpTraceV1(const wchar_t* path)

@@ -95,14 +95,19 @@ def running_state(exe="CielnosurgeDX.exe"):
     Unknown is not stopped.  Reporting a failed query as "not running" is how a
     check like this quietly stops covering anything.
     """
+    # Bytes, not text: tasklist answers in the console code page (GBK on a
+    # Chinese system), and decoding that as UTF-8 -- which Python does when the
+    # "Unicode UTF-8" region option or UTF-8 mode is on -- fails in the reader
+    # thread and leaves stdout None, which read as "stopped" while the game ran.
+    # The image name is ASCII, so it can be looked for in the raw output.
     try:
         r = subprocess.run(["tasklist", "/FI", "IMAGENAME eq " + exe, "/NH"],
-                           capture_output=True, text=True, timeout=20)
+                           capture_output=True, timeout=20)
     except (OSError, subprocess.SubprocessError):
         return "unknown"
-    if r.returncode != 0:
+    if r.returncode != 0 or r.stdout is None:
         return "unknown"
-    return "running" if exe.lower() in (r.stdout or "").lower() else "stopped"
+    return "running" if exe.lower().encode("ascii") in r.stdout.lower() else "stopped"
 
 
 # --- json helpers -------------------------------------------------------------

@@ -59,6 +59,17 @@ def main():
     check("日文键恰好是我们自己的某段中文：排除并报告，不去改写我们的译文",
           "工作" not in f4 and "服飾" in f4
           and skipped == [("工作", "data/zh-Hans/display.csv")])
+    memo = "メモリアが\n完成したよ♪"
+    es5 = T.entries_from({}, [], [("一行\n二行", "x")],
+                         memos=[(memo, "回忆\n制作完成了♪"),
+                                ("改行\r\n二つ", "换行\n两个"),
+                                ("<CR>付き", "带标签")])
+    f5 = {jp.decode(): zh.decode() for jp, zh, _f in es5}
+    check("旧存档备忘：带换行的整句也收", f5.get(memo) == "回忆\n制作完成了♪")
+    check("旧存档备忘：CRLF 与 LF 两种写法都收",
+          "改行\r\n二つ" in f5 and "改行\n二つ" in f5)
+    check("旧存档备忘：带标签的不收；其他来源仍不收多行",
+          "<CR>付き" not in f5 and "一行\n二行" not in f5)
     d = tempfile.mkdtemp(prefix="cielzh-zh-")
     try:
         os.makedirs(os.path.join(d, "script"))

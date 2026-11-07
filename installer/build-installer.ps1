@@ -96,12 +96,37 @@ if (-not $SkipPython) {
     if ($LASTEXITCODE -ne 0) { throw "pip could not fetch numpy/Pillow" }
 }
 
+# numpy ships its own unit tests: about 490 files in directories named `tests`,
+# none of them imported by `import numpy`.  Every one is a file to unpack before
+# the install and to delete after it, which on a machine with slow small-file
+# access is most of what the runtime costs.  Only directories called exactly
+# `tests` inside numpy go; numpy.testing is a public module and stays, and so
+# does everything else, licences included.  Done outside the block above so a
+# runtime reused with -SkipPython is trimmed too.
+$numpy = Join-Path $payload "python\Lib\site-packages\numpy"
+if (Test-Path $numpy) {
+    $tests = @(Get-ChildItem $numpy -Recurse -Directory -Filter "tests" |
+               Where-Object { $_.Name -ceq "tests" })
+    $nfiles = ($tests | ForEach-Object {
+        (Get-ChildItem $_.FullName -Recurse -File).Count } | Measure-Object -Sum).Sum
+    $tests | Sort-Object { $_.FullName.Length } -Descending |
+        Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
+    Write-Host ("removed numpy's own tests: {0} directories, {1} files" -f $tests.Count, $nfiles)
+}
+
 # --- 3. the pipeline and the translation data --------------------------------
 Write-Host "copying tools and data"
 Copy-Item -Recurse (Join-Path $repo "tools") (Join-Path $payload "tools")
 Copy-Item -Recurse (Join-Path $repo "data")  (Join-Path $payload "data")
 Get-ChildItem -Recurse -Force -Path $payload -Include "__pycache__" -Directory |
     Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
+# The maintainers' self-tests and tools/dev run in the repository, not on a
+# player's machine; nothing the installer drives imports them.
+$ptools = Join-Path $payload "tools"
+Get-ChildItem $ptools -File | Where-Object {
+    $_.Name -like "selftest_*.py" -or $_.Name -eq "test_roundtrip.py"
+} | Remove-Item -Force
+Remove-Item -Recurse -Force (Join-Path $ptools "dev") -ErrorAction SilentlyContinue
 
 # --- 3b. the native display layer -------------------------------------------
 # cielzh.dll is what the loader entry loads, and emit_entry.exe produces the

@@ -336,6 +336,9 @@ def refuse_if_running(force=False):
     return 0
 
 
+RUN_RECORDS = ("cielzh-loader.log", "cielzh-status.txt")
+
+
 def do_restore(game, backup, plan=()):
     if not os.path.isdir(backup):
         print("There is no Backup folder at %s.\n"
@@ -405,6 +408,14 @@ def do_restore(game, backup, plan=()):
     if removed or left:
         total += removed + left
         n += removed
+    # What the loader entry and the DLL wrote at each start.  Once the DLL is
+    # gone they describe a patch that is no longer there, and --verify would
+    # go on reporting a failed start for a game that is simply original.
+    if not os.path.exists(os.path.join(game, "cielzh.dll")):
+        for name in RUN_RECORDS:
+            p = os.path.join(game, name)
+            if os.path.exists(p):
+                os.remove(p)
 
     print("\nRestored %d of %d." % (n, total))
     if missing:
@@ -473,7 +484,62 @@ def do_verify(game, built, known, plan=(), payload=PAYLOAD, backup=None):
             state = "not ours -- no record of installing it (%s...)" % h[:12]
         print("  %-26s %-10s %s"
               % (rel, human(os.path.getsize(dst)), state))
+    print("\n" + display_status(game))
     return 0
+
+
+def display_status(game):
+    """What the last start of the game made of the display layer, in a line.
+
+    Two records beside the executable: the loader entry's own log (did the DLL
+    load at all) and the DLL's status file (did the hooks go in, was the table
+    read).  The patched executable shows its own Chinese either way, so without
+    these a display layer that never ran looks like a complete patch.
+    """
+    dll = os.path.join(game, "cielzh.dll")
+    log = os.path.join(game, "cielzh-loader.log")
+    status = os.path.join(game, "cielzh-status.txt")
+    if not os.path.exists(dll):
+        # The patched executable still looks for it: a DLL that antivirus
+        # quarantined or that was deleted shows up as "missing" in the log the
+        # loader entry writes on every start.
+        try:
+            loader = io.open(log, encoding="utf-8", errors="replace").read().strip()
+        except OSError:
+            loader = ""
+        if "loader=missing" in loader:
+            return ("display layer: NOT LOADED at the last start -- cielzh.dll is "
+                    "missing (%s); names, the save summary and memos show Japanese. "
+                    "Reinstall the patch, and check whether antivirus removed it"
+                    % loader)
+        return "display layer: not installed"
+    if not os.path.exists(log) or os.path.getmtime(log) < os.path.getmtime(dll):
+        return ("display layer: not checked yet -- start the game once, then "
+                "run --verify again")
+    try:
+        loader = io.open(log, encoding="utf-8", errors="replace").read().strip()
+    except OSError as e:
+        return "display layer: cannot read %s (%s)" % (os.path.basename(log), e)
+    if "loader=rc=" not in loader:
+        return ("display layer: NOT LOADED at the last start (%s); names, the "
+                "save summary and memos show Japanese" % loader)
+    fields = {}
+    if os.path.exists(status) and os.path.getmtime(status) >= os.path.getmtime(dll):
+        for line in io.open(status, encoding="utf-8", errors="replace"):
+            k, _, v = line.strip().partition("=")
+            fields[k] = v
+    if not fields:
+        return ("display layer: loaded, but it left no status (%s); check "
+                "that the game folder is writable" % loader)
+    if fields.get("rc") != "0":
+        return ("display layer: NOT ACTIVE at the last start (rc=%s: %s); "
+                "names, the save summary and memos show Japanese"
+                % (fields.get("rc"), fields.get("why")))
+    if fields.get("display") != "on" or fields.get("entries", "0") == "0":
+        return ("display layer: running, but its text table was not used (%s); "
+                "names, the save summary and memos show Japanese"
+                % fields.get("why"))
+    return "display layer: active at the last start, %s strings" % fields["entries"]
 
 
 def main(argv=None):
@@ -495,7 +561,7 @@ def main(argv=None):
     a = ap.parse_args(argv)
     runlog.start(a.log, "install.py")
     progress.from_args(a)
-    progress.label("正在备份并安装")
+    progress.label("正在备份游戏文件并安装补丁")
 
     try:
         game = gamepath.resolve(a.game)

@@ -1179,6 +1179,27 @@ int main(int argc, char** argv)
     Check("  ……放上 cielzh-trace.on：记录", TraceWanted(nullptr));
     DeleteFileW(marker);
 
+    // --- the status file install.py --verify reads ---------------------------
+    {
+        wchar_t st[MAX_PATH];
+        PathBesideModule(nullptr, kStatusFileName, st, MAX_PATH);
+        DeleteFileW(st);
+        Check("状态文件：写入成功", WriteStatus(nullptr, 3, "wrong build"));
+        char buf[512] = {};
+        DWORD sgot = 0;
+        HANDLE sh = CreateFileW(st, GENERIC_READ, FILE_SHARE_READ, nullptr,
+                                OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, nullptr);
+        if (sh != INVALID_HANDLE_VALUE) {
+            ReadFile(sh, buf, sizeof(buf) - 1, &sgot, nullptr);
+            CloseHandle(sh);
+        }
+        Check("  ……记下返回码与原因",
+              std::strstr(buf, "rc=3\r\n") && std::strstr(buf, "why=wrong build\r\n"));
+        Check("  ……记下显示层状态与条目数",
+              std::strstr(buf, "display=") && std::strstr(buf, "entries="));
+        DeleteFileW(st);
+    }
+
     DisplayLoadBytes(tbl.data(), tbl.size(), dwhy, sizeof(dwhy));
     TraceEnable(false);
     TraceStats off0 = TraceGetStats();

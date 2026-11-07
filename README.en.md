@@ -6,9 +6,17 @@ This project provides an unofficial Simplified Chinese patch for *Ciel nosurge D
 
 The patch is free of charge. The project is not affiliated with or authorized by GUST, KOEI TECMO, or their affiliates. You must legally own and install the game before using it. See [NOTICE.md](NOTICE.md) for copyright and licensing details.
 
+## Preparing 0.9.8
+
+This update adds Dream World HISTORY recaps, chapter subtitles, ruin and restoration names, plus more save-screen text, chapter names, relationships, and Ion's status labels. Japanese summaries and memories stored in older saves are translated when displayed, without requiring a new save. Memo text has also been rewrapped to fit its boxes.
+
+New memos and summary values such as chapters and status labels keep their Japanese source text in saves. The display layer supplies Chinese and can update or complete recognized older Chinese memos without rewriting saves. See the [save compatibility notes](docs/install.en.md#098-and-existing-saves) for the scope and exceptions.
+
+0.9.8 has not been released yet. Download published versions from [Releases](https://github.com/vanillartwork/ciel_zh-Hans/releases), or see the [changelog](CHANGELOG.md) for the upcoming changes.
+
 ## Translation Progress
 
-The CSV files contain translations for 91,775 of 92,125 entries (99.62%). This count excludes images; some translated strings must stay Japanese internally because the game also uses them as lookup keys.
+The CSV files contain translations for 92,626 of 92,976 entries (99.62%). This count excludes images; some translated strings must stay Japanese internally because the game also uses them as lookup keys.
 
 | Content | Entries | Translated |
 |---|---:|---:|
@@ -17,7 +25,9 @@ The CSV files contain translations for 91,775 of 92,125 entries (99.62%). This c
 | Item text | 1,152 | 100% |
 | Terms and speaker names | 1,089 | 99.9% |
 | Global text: help, mail, Sharl names, etc. | 3,698 | 92.2% |
-| Main executable strings | 377 | 84.4% |
+| Base executable strings | 377 | 84.4% |
+| Additional address-reviewed executable strings | 70 | 100% |
+| Dream World data tables | 781 | 100% |
 | Settings program | 54 | 100% |
 | Additional display-only strings | 31 | 100% |
 
@@ -25,16 +35,16 @@ The remaining 350 entries are blocked words, internal identifiers, and a blank s
 
 ## Installation and Removal
 
-1. Download `CielNosurgeDX-zh-Hans-<version>-setup.exe` from [Releases](../../releases).
+1. Download `CielNosurgeDX-zh-Hans-<version>-setup.exe` from [Releases](https://github.com/vanillartwork/ciel_zh-Hans/releases).
 2. Close the game, run the installer, and select the game directory when prompted.
 
 The patch supports 64-bit Windows 10 or later. At least 1,200 MB of free space is required on the game drive. Installation usually takes a few minutes: the installer checks the game version, builds the patch locally, backs up the original files, and applies the patch.
 
-See [supported versions](docs/supported-versions.md). The installer contains translation data and tools; game executables and assets are read from your local installation.
+See [supported versions](docs/supported-versions.en.md). The installer contains translation data and tools; game executables and assets are read from your local installation.
 
 To remove the patch, use Windows **Settings → Apps**, or run `Backup/卸载简体中文补丁.exe` in the game directory. Removal restores the original files. If backups are missing, use Steam's **Verify integrity of game files** option.
 
-See the [installation guide](docs/install.md) for detailed instructions and troubleshooting (Chinese).
+See the [installation guide](docs/install.en.md) for detailed instructions and troubleshooting (Chinese).
 
 ## Reporting Issues
 
@@ -65,16 +75,16 @@ After setting up the build environment, run from the repository root:
 
 ```powershell
 ./native/build.ps1
-py -3 tools/build.py --version 0.9.7
+py -3 tools/build.py --version 0.9.8
 py -3 tools/install.py --apply
 ```
 
-See the [build guide](docs/build.md) for dependencies, options, and preflight checks. Further documentation:
+See the [build guide](docs/build.en.md) for dependencies, options, and preflight checks. Further documentation:
 
-- [Documentation index](docs/README.md)
-- [Build pipeline](docs/pipeline.md) and [translation data format](docs/translation-data.md)
-- [File format reference](docs/reverse-engineering/README.md)
-- [Porting to other languages](docs/porting-to-other-languages.md)
+- [Documentation index](docs/README.en.md)
+- [Build pipeline](docs/pipeline.en.md) and [translation data format](docs/translation-data.en.md)
+- [File format reference](docs/reverse-engineering/README.en.md)
+- [Porting to other languages](docs/porting-to-other-languages.en.md)
 
 ## Licensing
 

@@ -21,6 +21,7 @@ cd ciel_zh-Hans
 
 - 遵循[翻译规范](docs/style-guide.md)，统一使用[术语表](data/glossary/glossary.csv)中的译名。
 - 保留控制码、成对花括号和占位符；换行与长度限制见翻译规范。
+- 修改 `dream.csv` 或 `exe_sited.csv` 前，先看[数据格式](docs/translation-data.md)中的字节预算。调整译文时不要顺带改写字段位置或地址清单。
 - 存疑的译文标为 `needs-review`，并在 `note` 中说明。
 - 编辑器设置见 [CSV 编辑说明](docs/editing-csv.md)。
 

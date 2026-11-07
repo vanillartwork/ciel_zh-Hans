@@ -66,7 +66,20 @@ def restorable_in_place(game, backup, rel, table):
     it is read -- the archive restored virtually, without writing 1.8 GB or
     holding it in memory -- and that hash has to be one we know.
     """
-    name = os.path.basename(rel)
+    ranges = in_place_ranges(backup, os.path.basename(rel))
+    if not ranges:
+        return False
+    try:
+        _now, virtual = hash_both(os.path.join(game, rel), ranges)
+    except OSError:
+        return False
+    return virtual is not None and virtual in table
+
+
+def in_place_ranges(backup, name):
+    """[(offset, original bytes)] backed up for this archive, sorted; [] when
+    there is nothing usable -- no range at all, or a backup that does not match
+    what the plan recorded."""
     ranges = []
     plan = os.path.join(backup, PLAN)
     steps = []
@@ -80,16 +93,16 @@ def restorable_in_place(game, backup, rel, table):
         for st in steps:
             b = os.path.join(backup, "%s.%d%s" % (name, st["offset"], RANGE_SUFFIX))
             if not os.path.isfile(b) or os.path.getsize(b) != st["size"]:
-                return False
+                return []
             orig = io.open(b, "rb").read()
             if hashlib.sha256(orig).hexdigest() != st["sha256_before"]:
-                return False
+                return []
             ranges.append((st["offset"], orig))
-    else:
+    elif os.path.isdir(backup):
         # Patches before 0.9.6 did not keep the plan, so upgrading from one has
         # only the range files to go on.  Their names carry the offset and
         # their length is the size, which is everything needed -- and the
-        # whole-file hash below still has to match a known original, so a
+        # whole-file hash still has to match a known original, so a
         # reconstructed range that is wrong simply fails there.
         for fn in sorted(os.listdir(backup)):
             if not (fn.startswith(name + ".") and fn.endswith(RANGE_SUFFIX)):
@@ -99,35 +112,47 @@ def restorable_in_place(game, backup, rel, table):
                 continue
             b = os.path.join(backup, fn)
             ranges.append((int(mid), io.open(b, "rb").read()))
-        if not ranges:
-            return False
     ranges.sort()
+    return ranges
 
-    target = os.path.join(game, rel)
-    if not os.path.isfile(target):
-        return False
-    h = hashlib.sha256()
+
+def hash_both(target, ranges=()):
+    """(sha256 of the file as it is, sha256 with `ranges` put back) in one read.
+
+    An archive patched in place used to be read twice on an upgrade: once whole
+    to see that it is not an original, then again with the backed-up bytes
+    substituted.  Both hashes come from the same pass now; the second is None
+    when there are no ranges, they overlap, or the file ends inside one.
+    """
+    now, virtual = hashlib.sha256(), hashlib.sha256()
+    ok = bool(ranges)
     pos = 0
-    try:
-        with open(target, "rb") as f:
-            for off, orig in ranges:
-                if off < pos:
-                    return False              # overlapping ranges: do not guess
-                while pos < off:
-                    chunk = f.read(min(1 << 20, off - pos))
-                    if not chunk:
-                        return False
-                    h.update(chunk)
-                    pos += len(chunk)
-                if len(f.read(len(orig))) != len(orig):
-                    return False
-                h.update(orig)                # the bytes that were displaced
-                pos += len(orig)
-            for chunk in iter(lambda: f.read(1 << 20), b""):
-                h.update(chunk)
-    except OSError:
-        return False
-    return h.hexdigest() in table
+    with open(target, "rb") as f:
+        for off, orig in ranges:
+            if off < pos:
+                ok = False                    # overlapping ranges: do not guess
+                break
+            while pos < off:
+                chunk = f.read(min(1 << 20, off - pos))
+                if not chunk:
+                    break
+                now.update(chunk)
+                virtual.update(chunk)
+                pos += len(chunk)
+            if pos < off:
+                ok = False                    # the file ends before the range
+                break
+            cur = f.read(len(orig))
+            now.update(cur)
+            pos += len(cur)
+            if len(cur) != len(orig):
+                ok = False
+                break
+            virtual.update(orig)              # the bytes that were displaced
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            now.update(chunk)
+            virtual.update(chunk)
+    return now.hexdigest(), (virtual.hexdigest() if ok else None)
 
 
 def main(argv=None):
@@ -142,7 +167,7 @@ def main(argv=None):
     a = ap.parse_args(argv)
     runlog.start(a.log, "preflight.py")
     progress.from_args(a)
-    progress.label("正在核对游戏版本")
+    progress.label("正在检查安装条件")
 
     try:
         game = gamepath.resolve(a.game)
@@ -171,22 +196,30 @@ def main(argv=None):
         table = known.get(rel, {})
         if not table:
             continue
-        h = sha256(os.path.join(game, rel))
+        ranges = in_place_ranges(backup, os.path.basename(rel))
+        try:
+            h, restored = hash_both(os.path.join(game, rel), ranges)
+        except OSError as e:
+            print("\n无法读取 %s：%s" % (rel, e))
+            return 3
         if h in table:
             print("  %-26s 原版（%s）" % (rel, table[h][0]))
             continue
         b = os.path.join(backup, os.path.basename(rel))
-        if os.path.isfile(b) and sha256(b) in table:
-            already.append(rel)
-            print("  %-26s 已被补丁修改，原版已备份在 Backup" % rel)
-        elif restorable_in_place(game, backup, rel, table):
-            # An archive patched in place has no full backup by design -- only
-            # the range that was overwritten, plus the plan describing it.
-            # Without this branch a second install of a patched game is refused
-            # as an unsupported version, which is exactly when someone is
-            # upgrading.
+        # An archive patched in place has no full backup by design -- only the
+        # range that was overwritten, plus the plan describing it.  Without
+        # this branch a second install of a patched game is refused as an
+        # unsupported version, which is exactly when someone is upgrading.
+        # It comes before the full-backup check because its hash came out of
+        # the read just made: a game upgraded from 0.9.4/0.9.5 also keeps a
+        # whole 1.7 GB copy of the archive in Backup, and hashing that first
+        # meant reading 1.7 GB more to reach the same answer.
+        if restored is not None and restored in table:
             already.append(rel)
             print("  %-26s 已被补丁原地修改，原始区间已备份在 Backup" % rel)
+        elif os.path.isfile(b) and sha256(b) in table:
+            already.append(rel)
+            print("  %-26s 已被补丁修改，原版已备份在 Backup" % rel)
         else:
             unknown.append((rel, h))
             print("  %-26s 无法识别（%s…）" % (rel, h[:12]))

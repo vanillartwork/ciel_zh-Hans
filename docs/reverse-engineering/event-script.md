@@ -1,5 +1,7 @@
 # 剧情脚本格式
 
+中文 | [English](event-script.en.md)
+
 `inc/event/res/**/*.txt` 使用带 BOM 的 UTF-8 CSV，记录换行为 CRLF。文件扩展名不代表纯文本段落格式。
 
 ## 字段
@@ -14,6 +16,8 @@
 | 9、15、18、20、21、22 | 开发者注释 | 保留 |
 
 部分指令的参数也包含可显示文本，提取范围由 `tools/export_text.py` 的 `CMD_TEXT` 定义。
+
+`EVENT_PROCESS_WRITE_MEMO` 是例外：仍提取参数供翻译，但 0.9.8 的构建在注入前排除 `kind=memo` 条目，使写入存档的备忘保留日文。中文及旧版截断备忘的修复均在显示层完成，见[备忘录](executable-strings.md#备忘录)。
 
 对白字段内的实际换行对应游戏中的分行。译文可适当合并行数，增加行数则须验证文本框容量。
 

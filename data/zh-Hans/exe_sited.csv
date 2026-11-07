@@ -1,0 +1,141 @@
+id,jp,zh,status,max_bytes,src,ctl,note
+exe:fc3c7f69,%s<CR>に移動しますか？,%s<CR>要前往该处吗？,translated,30,fc3c7f694b,<CR> br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:7207294d,第%sの扉,第%s扇门,translated,11,7207294d4d,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:6d7b0a4e,この扉に入りますか？<CR>【 %s 】,要进入这扇门吗？<CR>【 %s 】,translated,44,6d7b0a4e1b,<CR> br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:12c44773,%sを修復しました,已修复%s,translated,23,12c4477328,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:20c7e1c6,【%s】の回答,【%s】的回答,translated,17,20c7e1c644,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:e970eea0,■ シャール『%s』の応募状況 ■,■ 夏尔『%s』的应征状况 ■,translated,43,e970eea0b0,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:0411dafb,協力申請可能人数       %d,可申请协助人数       %d,translated,33,0411dafba5,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:00fd2a58,無回答,未回答,translated,9,00fd2a586c,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:1a8cdb32,調合結果,调合结果,translated,12,1a8cdb326e,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:7a4d043a,採取結果,采集结果,translated,12,7a4d043a64,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:37cbca24,所持HymP,持有HymP,translated,10,37cbca2451,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:2c275e5a,未取得,未获得,translated,9,2c275e5a79,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:16dbbe19,MyGustID紹介,MyGustID介绍,translated,14,16dbbe190d,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:4abb6c12,修正,修改,translated,6,4abb6c12e6,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:61431e2f,"
+総プレイ時間：%s
+現在のイオン：%s
+あなたとの関係：%s
+夢セカイ進行状況：%s
+ラブラブ：%s
+シャール保有数：%s
+仮想世界カード：%s","
+总游玩时间：%s
+当前的依恩：%s
+与你的关系：%s
+梦世界进展情况：%s
+亲亲密密：%s
+夏尔持有数：%s
+虚拟世界卡片：%s",translated,177,61431e2f1c,br=0 nl=7,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:34bf686c,"勲章
+【%s】
+を手に入れました！","勋章
+【%s】
+已获得！",translated,43,34bf686c35,br=0 nl=2,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:5e360214,"契約のために
+%dHymP消費しますか？","签订契约
+需要消耗%dHymP，确定吗？",translated,46,5e36021449,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:1a26967c,時間 / HymPレート ＝ %d分 / 1HymP.,时间 / HymP比率 ＝ %d分 / 1HymP.,translated,41,1a26967c34,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:be1eaea9,"
+%sの修復が完了しました！","
+%s的修复已完成！",translated,36,be1eaea9d1,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:9e3b2edc,"
+%sの修復が完了しました。
+HymP%dPt.ゲット
+【%s】は
+シンクロ率%d％上昇、EXP%dPt.ゲット","
+%s的修复已完成。
+获得HymP%dPt.
+【%s】
+同步率上升%d％，获得EXP%dPt.",translated,114,9e3b2edcfa,br=0 nl=4,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:525095cf,"
+%sの修復が完了しました。
+HymP%dPt.ゲット
+【%s】は
+シンクロ率%d％上昇、EXP%dPt.ゲット
+【%s】は
+シンクロ率%d％上昇、EXP%dPt.ゲット","
+%s的修复已完成。
+获得HymP%dPt.
+【%s】
+同步率上升%d％，获得EXP%dPt.
+【%s】
+同步率上升%d％，获得EXP%dPt.",translated,173,525095cff5,br=0 nl=6,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:21c7757e,%s<CR> の採取,%s<CR>的采集,translated,16,21c7757e7f,<CR> br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:b217f518,%s<CR> の作成,%s<CR>的制作,translated,16,b217f518ac,<CR> br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:2b683add,%sを修復中です,正在修复%s,translated,20,2b683add19,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:45c7f948,"%dHymPを入手しました。
+シンクロ率が少し上昇しました。
+シャールのLPが%d回復しました。","获得了%dHymP。
+同步率稍微上升了。
+夏尔的LP恢复了%d。",translated,120,45c7f94875,br=0 nl=2,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:34b384d7,"シャール『%s』が
+LV%dになりました！","夏尔『%s』
+升到了LV%d！",translated,49,34b384d721,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:cd7a0732,"装備品が追加されました。
+シャール「%s」のシンクロ率が
+%d%%アップしました！","已追加装备品。
+夏尔「%s」的同步率
+提升了%d%%！",translated,107,cd7a0732e4,br=0 nl=2,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:fbf996b9,"今までシャールが取得した
+Expの半分、%dHymPが
+戻って来ます。
+本当にお別れしますか？ ","这只夏尔至今获得的
+Exp的一半，即%dHymP
+将会返还。
+真的要告别吗？ ",translated,118,fbf996b9df,br=0 nl=3,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:1237c6d4,"シャールから%dmag.の
+エネルギーが送信されました。","夏尔传送了%dmag.的
+能量。",translated,70,1237c6d4ca,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:2dc88814,"エネルギー送信により
+%dHymPを入手しました。","通过能量传送
+获得了%dHymP。",translated,61,2dc8881430,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:63faa5eb,%sさんの巣,%s之巢,translated,14,63faa5ebf3,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:f886eba0,"この装備品を
+%dHymP投入して入手しますか？","这件装备品
+要投入%dHymP获得吗？",translated,58,f886eba041,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:1045a5cc,"このスキルを
+%dHymP投入して入手しますか？","这项技能
+要投入%dHymP获得吗？",translated,58,1045a5ccb6,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:29aab305,『%s』へのつぶやき,对『%s』的碎碎念,translated,26,29aab30572,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:6b4c3318,『%s』の記事,『%s』的文章,translated,17,6b4c331858,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:2d08b956,『%s』のフォロワー情報,『%s』的粉丝信息,translated,32,2d08b956b7,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:877c7331,"%sのすべてのメールを
+既読にしますか？","要将%s的所有邮件
+标为已读吗？",translated,54,877c7331ae,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:cbc67a2d,"HymPを%dpt.消費して、『%c』で応募します。
+よろしいですか？","将消耗%dpt.HymP，以『%c』应征。
+确定吗？",translated,81,cbc67a2d84,br=0 nl=1,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:f0b2abdb,%d日%d時間%d分,%d天%d小时%d分,translated,18,f0b2abdb71,br=0 nl=0,按地址写入，见 data/exe-sites/steam-2025-07.csv
+exe:b9569912,%d体,%d只,translated,5,b956991246,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:c9106507,%d枚,%d张,translated,5,c910650794,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:093ccfb3,夫婦,夫妇,translated,6,093ccfb38c,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:e4fb289f,友達,朋友,translated,6,e4fb289f39,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:1c1c42af,試練編第一幕,试炼篇第一幕,translated,18,1c1c42afa6,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:7b91592a,試練編第二幕,试炼篇第二幕,translated,18,7b91592ae9,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:46c7eab9,試練編第三幕,试炼篇第三幕,translated,18,46c7eab9f0,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:bc55bf2d,試練編最終幕,试炼篇最终幕,translated,18,bc55bf2d26,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:8701ef8a,崩壊編第一幕,崩坏篇第一幕,translated,18,8701ef8a21,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:d53dae5f,崩壊編第二幕,崩坏篇第二幕,translated,18,d53dae5f02,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:fea5e2f2,崩壊編第三幕,崩坏篇第三幕,translated,18,fea5e2f296,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:8ec9f6d0,崩壊編最終幕,崩坏篇最终幕,translated,18,8ec9f6d02e,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:7b82e9d7,皇帝編第一幕,皇帝篇第一幕,translated,18,7b82e9d79c,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:4fc52b08,皇帝編第二幕,皇帝篇第二幕,translated,18,4fc52b08cf,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:f9b3e81c,皇帝編第三幕,皇帝篇第三幕,translated,18,f9b3e81c14,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:96afa4f3,皇帝編最終幕,皇帝篇最终幕,translated,18,96afa4f332,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:37ad13c5,食事中,用餐中,translated,9,37ad13c591,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:e74ce259,飲料中,饮水中,translated,9,e74ce2595f,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:470140e5,空腹我慢中,忍耐饥饿中,translated,15,470140e5d2,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:f0295f60,献立思考中,思考菜单中,translated,15,f0295f604a,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:77add392,料理中,烹饪中,translated,9,77add392c1,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:0eae5347,材料調達中,采购材料中,translated,15,0eae53478d,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:ae3a4fec,工作中,制作中,translated,9,ae3a4fec45,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:00fa96bc,知人宅来訪中,拜访熟人中,translated,18,00fa96bc7d,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:c4daada5,調合査定中,调合评估中,translated,15,c4daada5ba,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:19124772,掃除中,打扫中,translated,9,1912477292,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:5ce2c73f,風呂中,泡澡中,translated,9,5ce2c73f02,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:eb179cf8,読書中,读书中,translated,9,eb179cf869,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:68a450ec,髪型変更,换发型,translated,12,68a450ecd6,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:976443ea,運搬中,搬运中,translated,9,976443eae4,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py
+exe:af23db8b,端末移動中,前往终端中,translated,15,af23db8b73,br=0 nl=0,只供显示层：这段文字会写进存档，主程序保留原文，见 tools/old_saves.py

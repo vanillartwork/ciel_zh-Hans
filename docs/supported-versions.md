@@ -1,5 +1,7 @@
 # 支持的游戏版本
 
+中文 | [English](supported-versions.en.md)
+
 当前支持 Windows x64 的 Steam 版 Ciel nosurge DX，版本标识为 `steam-2025-07`。文件大小与 SHA-256 记录在 [data/game-versions.csv](../data/game-versions.csv)。
 
 版本核对以文件摘要为准。安装器检查主程序、环境设置程序、`PACK01.PAK` 与 `PACK00_01.PAK`；无法确认兼容性时停止安装。
